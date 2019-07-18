@@ -1,5 +1,10 @@
 import twitter
-import yaml
+import os, yaml, json
+from argparse import ArgumentParser
+import logging as log
+log.basicConfig(format='%(asctime)s | %(levelname)s | %(message)s', 
+                datefmt='%m/%d/%Y %I:%M:%S %p', 
+                level=log.DEBUG)
 
 class ParseTweets():
     def __init__(self):
@@ -7,9 +12,8 @@ class ParseTweets():
         Initialize object with a Twitter API key file -> keys.yaml
         TODO: Initialize an object for every Politician?
         '''
-        #base_path = os.path.dirname(os.path.realpath(__file__))
-        #key_file = os.path.join(base_path,'keys.yaml')
-        key_file = 'keys.yaml'
+        self.base_path = os.path.dirname(os.path.realpath(__file__))
+        key_file = os.path.join(self.base_path,'keys.yaml')
         with open(key_file, 'r') as (f):
             keys = yaml.load(f)
         self.api = twitter.Api(
@@ -17,7 +21,6 @@ class ParseTweets():
                 consumer_secret=keys['consumer_secret'],
                 access_token_key=keys['access_token_key'],
                 access_token_secret=keys['access_token_secret'])
-        print(self.api.VerifyCredentials())
     
     def get_politicians(self):
         '''
@@ -37,6 +40,9 @@ class ParseTweets():
         '''
         timeline = self.api.GetUserTimeline(screen_name=handle, count=n)
         tweets = [tweet.AsDict() for tweet in timeline]
+        filename = self.base_path + '/data/{0}_tweets.json'.format(handle)
+        with open(filename, 'w') as outfile:
+            json.dump(tweets, outfile, indent=4)
         return(tweets)
     
     def preprocess_(self, text):
@@ -53,12 +59,17 @@ class ParseTweets():
               (tf-idf) statistic
         '''
     
-    def main(self):
+    def main(self, handle):
         '''
         Executes the program
         TODO: Explore efficiency of using loop vs. generator object
         '''
-        self.politicians = get_politicians()
-        for politician in self.politicians:
-            tweets = get_tweets(politician)
-            tweets_td = construct_td_matrix(tweets)
+        x = ParseTweets()
+        x.get_tweets(handle, 50)
+
+if __name__ == '__main__':
+    parser = ArgumentParser()
+    parser.add_argument("-t", "--twitter_handle", 
+        help="Twitter handle to pull tweets against.")
+    args = parser.parse_args()
+    ParseTweets().main(args.twitter_handle)
