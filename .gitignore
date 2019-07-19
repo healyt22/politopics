@@ -1,3 +1,4 @@
 *.pyc
 keys.yaml
-data/*
+data/*.json
+data_copy/*.json
