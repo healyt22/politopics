@@ -31,7 +31,7 @@ class GetTweets():
                 slug=slug,
                 owner_screen_name='cspan')
         for crook in crooks:
-            filepath = self.base_path + '/data/{0}'.format(crook.screen_name)
+            filepath = self.base_path + '/tweet_data/{0}'.format(crook.screen_name)
             if not os.path.exists(filepath):
                 os.makedirs(filepath)
         return(crooks)
@@ -49,7 +49,7 @@ class GetTweets():
                 'screen_name': tweet['user']['screen_name'],
                 'id': tweet['id']
             }
-            filename = self.base_path + '/data/{screen_name}/{id}.json'.format(**params)
+            filename = self.base_path + '/tweet_data/{screen_name}/{id}.json'.format(**params)
             with open(filename, 'w') as outfile:
                 json.dump(tweet, outfile, indent=4)
 
