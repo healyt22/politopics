@@ -1,7 +1,7 @@
 import os, json, string, re
 import pandas as pd
 import numpy as np
-from sklearn.feature_extraction.text import CountVectorizer
+#from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
@@ -60,29 +60,32 @@ class Preprocess():
         log.info('Processing Tweets from ' + self.handle)
         self.clean_tweets = []
         self.clean_tweets_str = []
+        tweets_filtered = []
         for tweet in self.tweets:
             try:
                 clean_tweet_list, clean_tweet_str = self.preprocess(tweet)
                 self.clean_tweets.append(clean_tweet_list)
                 self.clean_tweets_str.append(clean_tweet_str)
+                tweets_filtered.append(tweet)
             except IndexError:
                 log.warn('ERROR: ' + tweet)
                 continue
+        self.tweets = tweets_filtered
 
     def tf_idf(self):
-        tfidf = TfidfVectorizer()
-        self.td_matrix = tfidf.fit_transform(self.clean_tweets_str)
-        self.vocab = tfidf.get_feature_names()
-        self.tf_idf = {}
+        self.tfidf = TfidfVectorizer()
+        self.td_matrix = self.tfidf.fit_transform(self.clean_tweets_str)
+        self.vocab = self.tfidf.get_feature_names()
+        self.key_terms = {}
         nonzero_rows = self.td_matrix.nonzero()[0]
         nonzero_cols = self.td_matrix.nonzero()[1]
         for row_idx, col_idx in zip(nonzero_rows, nonzero_cols):
-            self.tf_idf.update({self.vocab[col_idx]: self.td_matrix[row_idx, col_idx]})
-        self.tf_idf = dict(sorted(self.tf_idf.items(), key=lambda x: x[1], reverse=True))
+            self.key_terms.update({self.vocab[col_idx]: self.td_matrix[row_idx, col_idx]})
+        self.key_terms = dict(sorted(self.key_terms.items(), key=lambda x: x[1], reverse=True))
         if self.n_terms is None:
             self.n_terms = len(self.vocab)
         #print('\n' + str(self.n_terms) + ' Most Important Terms for: ' + self.handle)
-        #for term, score in list(self.tf_idf.items())[0:self.n_terms]:
+        #for term, score in list(self.key_terms.items())[0:self.n_terms]:
         #    print(' | '.join([term, str(score)]))
 
     def main(self):
