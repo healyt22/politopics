@@ -1,0 +1,128 @@
+{
+    "created_at": "Fri May 10 15:18:07 +0000 2019",
+    "hashtags": [],
+    "id": 1126869028897738753,
+    "id_str": "1126869028897738753",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Fri May 10 15:03:26 +0000 2019",
+        "favorite_count": 30,
+        "hashtags": [],
+        "id": 1126865335347556352,
+        "id_str": "1126865335347556352",
+        "in_reply_to_screen_name": "RepMarkWalker",
+        "in_reply_to_user_id": 2966205003,
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RepMarkWalker just introduced @SenatorTimScott to speak on how the Opportunity Zones program works for Americans.\u2026 https://t.co/3hLMZ3hKNE",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1126865335347556352",
+                "url": "https://t.co/3hLMZ3hKNE"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 19 23:03:24 +0000 2010",
+            "description": "@WFMY Multi-skilled Journalist",
+            "favourites_count": 978,
+            "followers_count": 1448,
+            "friends_count": 5163,
+            "geo_enabled": true,
+            "id": 115781732,
+            "id_str": "115781732",
+            "listed_count": 29,
+            "location": "Greensboro, NC",
+            "name": "kandacereddtv",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/115781732/1530493059",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1141723051631009792/_0BVraiw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141723051631009792/_0BVraiw_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "KandaceReddTV",
+            "statuses_count": 8660,
+            "url": "https://t.co/mxmwtMS74x",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2966205003,
+                "id_str": "2966205003",
+                "name": "Rep. Mark Walker",
+                "screen_name": "RepMarkWalker"
+            },
+            {
+                "id": 217543151,
+                "id_str": "217543151",
+                "name": "Tim Scott",
+                "screen_name": "SenatorTimScott"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @KandaceReddTV: @RepMarkWalker just introduced @SenatorTimScott to speak on how the Opportunity Zones program works for Americans. @WFMY\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Nov 19 20:34:30 +0000 2010",
+        "description": "United States Senator from South Carolina",
+        "favourites_count": 1648,
+        "followers_count": 378192,
+        "friends_count": 3890,
+        "geo_enabled": true,
+        "id": 217543151,
+        "id_str": "217543151",
+        "listed_count": 3649,
+        "location": "South Carolina",
+        "name": "Tim Scott",
+        "profile_background_color": "E0DBC8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217543151/1550264874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_link_color": "606060",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EBE9DC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTimScott",
+        "statuses_count": 7971,
+        "url": "https://t.co/EoB6giYuOp",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 115781732,
+            "id_str": "115781732",
+            "name": "kandacereddtv",
+            "screen_name": "KandaceReddTV"
+        },
+        {
+            "id": 2966205003,
+            "id_str": "2966205003",
+            "name": "Rep. Mark Walker",
+            "screen_name": "RepMarkWalker"
+        },
+        {
+            "id": 217543151,
+            "id_str": "217543151",
+            "name": "Tim Scott",
+            "screen_name": "SenatorTimScott"
+        },
+        {
+            "id": 14361260,
+            "id_str": "14361260",
+            "name": "WFMY News 2",
+            "screen_name": "WFMY"
+        }
+    ]
+}

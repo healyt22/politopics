@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Jul 11 15:43:38 +0000 2019",
+    "favorite_count": 18,
+    "hashtags": [],
+    "id": 1149343498644140034,
+    "id_str": "1149343498644140034",
+    "in_reply_to_screen_name": "RepDavidEPrice",
+    "in_reply_to_status_id": 1149343497717239808,
+    "in_reply_to_user_id": 155669457,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/5eZxXaWBLm",
+            "expanded_url": "https://twitter.com/RepDavidEPrice/status/1149343498644140034/video/1",
+            "id": 1149343397745967105,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149343397745967105/pu/img/5TIHX1IqqHLC1k9q.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149343397745967105/pu/img/5TIHX1IqqHLC1k9q.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/5eZxXaWBLm",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 44125,
+                "variants": [
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1149343397745967105/pu/vid/720x720/3EiSXatQMP_OSLKP.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1149343397745967105/pu/vid/480x480/hP7PXOv6SdNG8tri.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1149343397745967105/pu/vid/320x320/dbo9WW2cfLNslkyE.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1149343397745967105/pu/pl/kNLvEH8V_BSBt5GS.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 8,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@SecretaryCarson's proposal is fiscally irresponsible and morally bankrupt. https://t.co/5eZxXaWBLm",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jun 14 19:44:06 +0000 2010",
+        "description": "I am proud to represent NC's 4th Congressional District, which includes Orange and parts of Wake and Durham Counties.",
+        "favourites_count": 888,
+        "followers_count": 29774,
+        "friends_count": 2696,
+        "geo_enabled": true,
+        "id": 155669457,
+        "id_str": "155669457",
+        "listed_count": 978,
+        "name": "David E. Price",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/155669457/1527112408",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978257235192287232/XUsOnM3Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978257235192287232/XUsOnM3Z_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepDavidEPrice",
+        "statuses_count": 4590,
+        "url": "https://t.co/Ie8fVlfmac",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 828613457020870657,
+            "id_str": "828613457020870657",
+            "name": "Ben Carson",
+            "screen_name": "SecretaryCarson"
+        }
+    ]
+}

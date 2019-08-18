@@ -1,0 +1,133 @@
+{
+    "created_at": "Sat Jul 20 18:05:00 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "dataprivacy"
+        }
+    ],
+    "id": 1152640564871012354,
+    "id_str": "1152640564871012354",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jul 19 12:52:04 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "privacy"
+            }
+        ],
+        "id": 1152199424489218049,
+        "id_str": "1152199424489218049",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "If you missed Wednesday's discussion on consumer #privacy at @CharterGov with @janschakowsky and @cathymcmorris, he\u2026 https://t.co/Z210t4Ml9l",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1152199424489218049",
+                "url": "https://t.co/Z210t4Ml9l"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 30 21:19:25 +0000 2012",
+            "description": "A catalyst for #privacy leadership & scholarship, advancing principled data practices in support of emerging #tech. Get updates: https://t.co/P9PvpEAnfJ",
+            "favourites_count": 3348,
+            "followers_count": 15551,
+            "friends_count": 4501,
+            "geo_enabled": true,
+            "id": 541136693,
+            "id_str": "541136693",
+            "listed_count": 610,
+            "location": "Washington, DC",
+            "name": "Future of Privacy",
+            "profile_background_color": "256687",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/541136693/1498681712",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/909820473101422592/h68grM3Z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/909820473101422592/h68grM3Z_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "futureofprivacy",
+            "statuses_count": 6715,
+            "url": "https://t.co/VAh6O2SdIj",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 4166883669,
+                "id_str": "4166883669",
+                "name": "Charter Policy",
+                "screen_name": "CharterGov"
+            },
+            {
+                "id": 24195214,
+                "id_str": "24195214",
+                "name": "Jan Schakowsky",
+                "screen_name": "janschakowsky"
+            },
+            {
+                "id": 17976923,
+                "id_str": "17976923",
+                "name": "CathyMcMorrisRodgers",
+                "screen_name": "cathymcmorris"
+            }
+        ]
+    },
+    "quoted_status_id": 1152199424489218049,
+    "quoted_status_id_str": "1152199424489218049",
+    "retweet_count": 3,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "A discussion on #dataprivacy that you shouldn\u2019t miss. Check it out. Thank you Chair @janschakowsky &amp; @CharterGov. https://t.co/nrJonFpjZd",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/futureofprivacy/status/1152199424489218049?s=20",
+            "url": "https://t.co/nrJonFpjZd"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 08 23:17:15 +0000 2008",
+        "description": "Proudly serving Washington's beautiful 5th District in Congress. Pioneer. Trailblazer. Leader. Working Mom of Three. Wife. Ability Advocate. Trustbuilder.",
+        "favourites_count": 1233,
+        "followers_count": 49538,
+        "friends_count": 5123,
+        "geo_enabled": true,
+        "id": 17976923,
+        "id_str": "17976923",
+        "listed_count": 2024,
+        "location": "Spokane, WA & Washington, DC",
+        "name": "CathyMcMorrisRodgers",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17976923/1521214720",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741337467714953217/5t14nEYg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741337467714953217/5t14nEYg_normal.jpg",
+        "profile_link_color": "0814FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "cathymcmorris",
+        "statuses_count": 11161,
+        "url": "https://t.co/VmKvrs9Ni1",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 24195214,
+            "id_str": "24195214",
+            "name": "Jan Schakowsky",
+            "screen_name": "janschakowsky"
+        },
+        {
+            "id": 4166883669,
+            "id_str": "4166883669",
+            "name": "Charter Policy",
+            "screen_name": "CharterGov"
+        }
+    ]
+}

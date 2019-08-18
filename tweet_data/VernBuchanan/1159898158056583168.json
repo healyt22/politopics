@@ -1,0 +1,141 @@
+{
+    "created_at": "Fri Aug 09 18:44:05 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1159898158056583168,
+    "id_str": "1159898158056583168",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Aug 08 13:15:18 +0000 2019",
+        "hashtags": [],
+        "id": 1159453029067821056,
+        "id_str": "1159453029067821056",
+        "in_reply_to_screen_name": "VernBuchanan",
+        "in_reply_to_user_id": 20467163,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vmo1Jno5Dq",
+                "expanded_url": "https://twitter.com/FL_Daily/status/1159453029067821056/photo/1",
+                "id": 1159453027264339968,
+                "media_url": "http://pbs.twimg.com/media/EBc0Yp_XoAApamJ.png",
+                "media_url_https": "https://pbs.twimg.com/media/EBc0Yp_XoAApamJ.png",
+                "sizes": {
+                    "small": {
+                        "w": 525,
+                        "h": 420,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 525,
+                        "h": 420,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 525,
+                        "h": 420,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/vmo1Jno5Dq"
+            }
+        ],
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "@VernBuchanan: NSF is Sending $1.7 Million to Mote Marine Laboratory:\n\nhttps://t.co/EC0S17B9zc https://t.co/vmo1Jno5Dq",
+        "urls": [
+            {
+                "expanded_url": "https://www.floridadaily.com/vern-buchanan-nsf-is-sending-1-7-million-to-mote-marine-laboratory",
+                "url": "https://t.co/EC0S17B9zc"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jun 17 15:50:58 +0000 2018",
+            "default_profile": true,
+            "description": "Florida Daily offers news, insights and analysis as we cover the most important issues in the state.",
+            "favourites_count": 1,
+            "followers_count": 148,
+            "friends_count": 51,
+            "geo_enabled": true,
+            "id": 1008376462506971136,
+            "id_str": "1008376462506971136",
+            "listed_count": 1,
+            "location": "Florida, USA",
+            "name": "FloridaDaily.com",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008376462506971136/1529250779",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1008376827398840320/rRb9sdFI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008376827398840320/rRb9sdFI_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FL_Daily",
+            "statuses_count": 1881,
+            "url": "https://t.co/rsU6tnp31N"
+        },
+        "user_mentions": [
+            {
+                "id": 20467163,
+                "id_str": "20467163",
+                "name": "Rep. Vern Buchanan",
+                "screen_name": "VernBuchanan"
+            }
+        ]
+    },
+    "quoted_status_id": 1159453029067821056,
+    "quoted_status_id_str": "1159453029067821056",
+    "retweet_count": 10,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Great news for @MoteMarineLab and our community! Dr. Michael Crosby and his entire team work tirelessly to combat r\u2026 https://t.co/HhYfoQKXrk",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1159898158056583168",
+            "url": "https://t.co/HhYfoQKXrk"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 09 21:05:19 +0000 2009",
+        "description": "U.S. Congressman",
+        "favourites_count": 42,
+        "followers_count": 29245,
+        "friends_count": 10407,
+        "geo_enabled": true,
+        "id": 20467163,
+        "id_str": "20467163",
+        "listed_count": 1384,
+        "location": "Florida's 16th District",
+        "name": "Rep. Vern Buchanan",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20467163/1423601951",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+        "profile_link_color": "000AB4",
+        "profile_sidebar_border_color": "050505",
+        "profile_sidebar_fill_color": "D4C8C8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "VernBuchanan",
+        "statuses_count": 2677,
+        "url": "http://t.co/Uq79SDySq2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 175497652,
+            "id_str": "175497652",
+            "name": "Mote Marine Lab",
+            "screen_name": "MoteMarineLab"
+        }
+    ]
+}

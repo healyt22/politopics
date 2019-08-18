@@ -1,0 +1,128 @@
+{
+    "created_at": "Sun Jun 30 15:41:02 +0000 2019",
+    "favorite_count": 2495,
+    "hashtags": [],
+    "id": 1145356576519311360,
+    "id_str": "1145356576519311360",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jun 29 02:22:05 +0000 2019",
+        "favorite_count": 54,
+        "hashtags": [],
+        "id": 1144793126797807616,
+        "id_str": "1144793126797807616",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/CpYwg93Kld",
+                "expanded_url": "https://twitter.com/thehill/status/1144793126797807616/photo/1",
+                "id": 1144793125317238784,
+                "media_url": "http://pbs.twimg.com/media/D-MfSDfX4AAozC0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-MfSDfX4AAozC0.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/CpYwg93Kld"
+            }
+        ],
+        "retweet_count": 78,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "DeVos rolls back Obama-era policy aimed at curbing abuse from for-profit colleges https://t.co/QcPCG4bjvJ https://t.co/CpYwg93Kld",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/NcWF8i2",
+                "url": "https://t.co/QcPCG4bjvJ"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3323842,
+            "friends_count": 261,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26109,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 597131,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1144793126797807616,
+    "quoted_status_id_str": "1144793126797807616",
+    "retweet_count": 1009,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Trump-Devos revocation of Obama rule terminating federal subsidies to the worst performing for-profit schools means\u2026 https://t.co/kvFs3ulvXb",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1145356576519311360",
+            "url": "https://t.co/kvFs3ulvXb"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Feb 04 15:50:42 +0000 2011",
+        "default_profile": true,
+        "description": "Serving the people of Illinois. Democratic Whip.",
+        "favourites_count": 577,
+        "followers_count": 612624,
+        "friends_count": 2411,
+        "geo_enabled": true,
+        "id": 247334603,
+        "id_str": "247334603",
+        "listed_count": 4935,
+        "name": "Senator Dick Durbin",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/247334603/1438365026",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/871723567456686081/fbJgQgO1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/871723567456686081/fbJgQgO1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorDurbin",
+        "statuses_count": 14544,
+        "url": "https://t.co/75Y2c3yeVH",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,82 @@
+{
+    "created_at": "Mon Jul 15 20:14:20 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1150861175288209417,
+    "id_str": "1150861175288209417",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/M3e5mbqjt1",
+            "expanded_url": "https://twitter.com/RepDWStweets/status/1150861175288209417/photo/1",
+            "id": 1150861171249090560,
+            "media_url": "http://pbs.twimg.com/media/D_iuI0IXkAA8x6n.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_iuI0IXkAA8x6n.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/M3e5mbqjt1"
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Kellyanne Conway just defied a subpoena to testify before @OversightDems about her violations of the Hatch Act. https://t.co/M3e5mbqjt1",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Feb 01 20:31:25 +0000 2013",
+        "default_profile": true,
+        "description": "U.S. Congresswoman proudly representing the people of Florida's 23rd District in our nation's capital.",
+        "favourites_count": 333,
+        "followers_count": 14428,
+        "friends_count": 2282,
+        "geo_enabled": true,
+        "id": 1140648348,
+        "id_str": "1140648348",
+        "listed_count": 580,
+        "location": "Weston & Washington",
+        "name": "Rep. Debbie Wasserman Schultz",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140648348/1524856273",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096410556469256193/EAJqWXYr_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096410556469256193/EAJqWXYr_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDWStweets",
+        "statuses_count": 4400,
+        "url": "http://t.co/L7PfQxOrER",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 31122582,
+            "id_str": "31122582",
+            "name": "Oversight Committee",
+            "screen_name": "OversightDems"
+        }
+    ]
+}

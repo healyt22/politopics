@@ -1,0 +1,129 @@
+{
+    "created_at": "Tue Aug 13 17:10:49 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1161324238092898304,
+    "id_str": "1161324238092898304",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Aug 13 16:38:04 +0000 2019",
+        "favorite_count": 9861,
+        "hashtags": [],
+        "id": 1161315995706896384,
+        "id_str": "1161315995706896384",
+        "lang": "en",
+        "place": {
+            "id": "01a9a39529b27f36",
+            "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+            "place_type": "city",
+            "name": "Manhattan",
+            "full_name": "Manhattan, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.026675,
+                            40.683935
+                        ],
+                        [
+                            -73.910408,
+                            40.683935
+                        ],
+                        [
+                            -73.910408,
+                            40.877483
+                        ],
+                        [
+                            -74.026675,
+                            40.877483
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status_id": 1161061166753492993,
+        "quoted_status_id_str": "1161061166753492993",
+        "retweet_count": 2649,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "It would be really puzzling if there isn\u2019t a US Attorney\u2019s office somewhere running a grand jury on this. Because t\u2026 https://t.co/wfIWWBH2Nu",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161315995706896384",
+                "url": "https://t.co/wfIWWBH2Nu"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 23 04:23:10 +0000 2012",
+            "default_profile": true,
+            "description": "Lawyer. Windmill cancer survivor. Favorite quote: \u201cIf we had had confidence that the president clearly did not commit a crime, we would have said so.\u201d",
+            "favourites_count": 3545,
+            "followers_count": 638932,
+            "friends_count": 1006,
+            "geo_enabled": true,
+            "id": 471677441,
+            "id_str": "471677441",
+            "listed_count": 2750,
+            "location": "Originally came from the U.S.",
+            "name": "George Conway",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/471677441/1565789853",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1783627578/image_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1783627578/image_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "gtconway3d",
+            "statuses_count": 16308
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1161315995706896384,
+    "quoted_status_id_str": "1161315995706896384",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Yes, except it's the NRA and the Trump administration. https://t.co/fZ1SI0lqS2",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/gtconway3d/status/1161315995706896384",
+            "url": "https://t.co/fZ1SI0lqS2"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jul 13 20:49:36 +0000 2011",
+        "description": "Congressman for CA's 2nd Dist.  Posts on this page authorized by Huffman for Congress.  For my official House of Representatives feed please follow @RepHuffman",
+        "favourites_count": 11371,
+        "followers_count": 8133,
+        "friends_count": 398,
+        "geo_enabled": true,
+        "id": 334894942,
+        "id_str": "334894942",
+        "listed_count": 327,
+        "location": "Northern California",
+        "name": "Rep. Jared Huffman",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/334894942/1466965755",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "JaredHuffman",
+        "statuses_count": 11181,
+        "url": "http://t.co/vfmUDvrNRS",
+        "verified": true
+    },
+    "user_mentions": []
+}

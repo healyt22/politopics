@@ -1,0 +1,219 @@
+{
+    "created_at": "Wed May 29 14:54:41 +0000 2019",
+    "hashtags": [],
+    "id": 1133748501802815488,
+    "id_str": "1133748501802815488",
+    "lang": "en",
+    "quoted_status_id": 1133694823234441216,
+    "quoted_status_id_str": "1133694823234441216",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed May 29 11:25:05 +0000 2019",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 1133695754655141889,
+        "id_str": "1133695754655141889",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Wed May 29 11:21:23 +0000 2019",
+            "favorite_count": 9,
+            "hashtags": [],
+            "id": 1133694823234441216,
+            "id_str": "1133694823234441216",
+            "lang": "en",
+            "retweet_count": 2,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Great overview by @laurashin on the uncertain crypto regulatory landscape featuring @KMSmithDC and @BlockchainAssn\u2026 https://t.co/XueH4zXihd",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1133694823234441216",
+                    "url": "https://t.co/XueH4zXihd"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Aug 15 18:32:18 +0000 2018",
+                "description": "A unified voice for the blockchain industry.",
+                "favourites_count": 146,
+                "followers_count": 1722,
+                "friends_count": 217,
+                "id": 1029797947540746242,
+                "id_str": "1029797947540746242",
+                "listed_count": 36,
+                "location": "Washington, DC",
+                "name": "Blockchain Association",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029797947540746242/1536721911",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1039483118908919808/ZqP9OT-f_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039483118908919808/ZqP9OT-f_normal.jpg",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "BlockchainAssn",
+                "statuses_count": 176,
+                "url": "https://t.co/Ojo10qwPl3"
+            },
+            "user_mentions": [
+                {
+                    "id": 26377478,
+                    "id_str": "26377478",
+                    "name": "Laura Shin",
+                    "screen_name": "laurashin"
+                },
+                {
+                    "id": 2358690572,
+                    "id_str": "2358690572",
+                    "name": "Kristin Smith",
+                    "screen_name": "KMSmithDC"
+                },
+                {
+                    "id": 1029797947540746242,
+                    "id_str": "1029797947540746242",
+                    "name": "Blockchain Association",
+                    "screen_name": "BlockchainAssn"
+                }
+            ]
+        },
+        "quoted_status_id": 1133694823234441216,
+        "quoted_status_id_str": "1133694823234441216",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This is why we need Congress\u2019s help. Thanks @WarrenDavidson, @RepDarrenSoto, @RepJoshG, @RepTedBudd, @TulsiGabbard,\u2026 https://t.co/UMTacVvXa2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1133695754655141889",
+                "url": "https://t.co/UMTacVvXa2"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 24 00:22:11 +0000 2014",
+            "description": "Working towards better public policy for the crypto industry at @BlockchainAssn",
+            "favourites_count": 1346,
+            "followers_count": 1146,
+            "friends_count": 96,
+            "geo_enabled": true,
+            "id": 2358690572,
+            "id_str": "2358690572",
+            "listed_count": 18,
+            "location": "Washington, DC",
+            "name": "Kristin Smith",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2358690572/1564701429",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/989263675293827072/tp9vInoB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/989263675293827072/tp9vInoB_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "KMSmithDC",
+            "statuses_count": 317,
+            "url": "https://t.co/Ojo10qwPl3"
+        },
+        "user_mentions": [
+            {
+                "id": 742735530287304704,
+                "id_str": "742735530287304704",
+                "name": "Warren Davidson",
+                "screen_name": "WarrenDavidson"
+            },
+            {
+                "id": 818713465653051392,
+                "id_str": "818713465653051392",
+                "name": "US Rep. Darren Soto",
+                "screen_name": "RepDarrenSoto"
+            },
+            {
+                "id": 815310506596691968,
+                "id_str": "815310506596691968",
+                "name": "Rep Josh Gottheimer",
+                "screen_name": "RepJoshG"
+            },
+            {
+                "id": 817138492614524928,
+                "id_str": "817138492614524928",
+                "name": "Ted Budd",
+                "screen_name": "RepTedBudd"
+            },
+            {
+                "id": 26637348,
+                "id_str": "26637348",
+                "name": "Tulsi Gabbard",
+                "screen_name": "TulsiGabbard"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @KMSmithDC: This is why we need Congress\u2019s help. Thanks @WarrenDavidson, @RepDarrenSoto, @RepJoshG, @RepTedBudd, @TulsiGabbard, and @Rep\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 05 22:39:33 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly serving the 13th district of North Carolina. #NC13",
+        "favourites_count": 105,
+        "followers_count": 11009,
+        "friends_count": 270,
+        "id": 817138492614524928,
+        "id_str": "817138492614524928",
+        "listed_count": 345,
+        "location": "Davie County, North Carolina",
+        "name": "Ted Budd",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817138492614524928/1485880195",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/987039452483739648/Hs7YypAA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/987039452483739648/Hs7YypAA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTedBudd",
+        "statuses_count": 1553,
+        "url": "https://t.co/VTsvWe0pia",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2358690572,
+            "id_str": "2358690572",
+            "name": "Kristin Smith",
+            "screen_name": "KMSmithDC"
+        },
+        {
+            "id": 742735530287304704,
+            "id_str": "742735530287304704",
+            "name": "Warren Davidson",
+            "screen_name": "WarrenDavidson"
+        },
+        {
+            "id": 818713465653051392,
+            "id_str": "818713465653051392",
+            "name": "US Rep. Darren Soto",
+            "screen_name": "RepDarrenSoto"
+        },
+        {
+            "id": 815310506596691968,
+            "id_str": "815310506596691968",
+            "name": "Rep Josh Gottheimer",
+            "screen_name": "RepJoshG"
+        },
+        {
+            "id": 817138492614524928,
+            "id_str": "817138492614524928",
+            "name": "Ted Budd",
+            "screen_name": "RepTedBudd"
+        },
+        {
+            "id": 26637348,
+            "id_str": "26637348",
+            "name": "Tulsi Gabbard",
+            "screen_name": "TulsiGabbard"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "created_at": "Thu Mar 21 14:19:20 +0000 2019",
+    "hashtags": [],
+    "id": 1108734844232704000,
+    "id_str": "1108734844232704000",
+    "lang": "en",
+    "quoted_status_id": 1108730055994368000,
+    "quoted_status_id_str": "1108730055994368000",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Mar 21 14:18:39 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1108734671515537409,
+        "id_str": "1108734671515537409",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Thu Mar 21 14:00:19 +0000 2019",
+            "favorite_count": 2,
+            "hashtags": [],
+            "id": 1108730055994368000,
+            "id_str": "1108730055994368000",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/kWYF22B9io",
+                    "expanded_url": "https://twitter.com/bistrib/status/1108730055994368000/photo/1",
+                    "id": 1108730054488535040,
+                    "media_url": "http://pbs.twimg.com/media/D2MAHDmWsAANPu_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D2MAHDmWsAANPu_.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 400,
+                            "h": 265,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 265,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 400,
+                            "h": 265,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/kWYF22B9io"
+                }
+            ],
+            "retweet_count": 1,
+            "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+            "text": "North Dakota advocates for local BIA training facility to combat tribal officer shortage https://t.co/hYTXPw1BDX https://t.co/kWYF22B9io",
+            "urls": [
+                {
+                    "expanded_url": "https://buff.ly/2U6ylBO",
+                    "url": "https://t.co/hYTXPw1BDX"
+                }
+            ],
+            "user": {
+                "created_at": "Fri Jan 23 17:12:50 +0000 2009",
+                "description": "Breaking news, headlines and more from http://t.co/WSRoEpjV. Moderated by @jaheupel.",
+                "favourites_count": 25,
+                "followers_count": 13435,
+                "friends_count": 381,
+                "geo_enabled": true,
+                "id": 19403006,
+                "id_str": "19403006",
+                "listed_count": 387,
+                "location": "Bismarck, North Dakota",
+                "name": "The Bismarck Tribune",
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/19403006/1348175541",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1895787939/image_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1895787939/image_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "bistrib",
+                "statuses_count": 37947,
+                "url": "http://t.co/48JSVJnll4",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1108730055994368000,
+        "quoted_status_id_str": "1108730055994368000",
+        "retweet_count": 3,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Thanks to @SenJohnHoeven for holding this important hearing and for inviting @SenKevinCramer and I to participate.\u2026 https://t.co/Z1n91oIiLp",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1108734671515537409",
+                "url": "https://t.co/Z1n91oIiLp"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 02 17:27:12 +0000 2019",
+            "default_profile": true,
+            "description": "I'm a lifelong, devoted North Dakotan and a tireless advocate for making North Dakota a better place to live and work.",
+            "favourites_count": 217,
+            "followers_count": 4065,
+            "friends_count": 211,
+            "geo_enabled": true,
+            "id": 1080515866255593472,
+            "id_str": "1080515866255593472",
+            "listed_count": 120,
+            "location": "Dickinson, ND and Washington, DC",
+            "name": "Congressman Kelly Armstrong",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080515866255593472/1563561647",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080879174972264449/PE5-7Tn1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080879174972264449/PE5-7Tn1_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepArmstrongND",
+            "statuses_count": 424,
+            "url": "https://t.co/bFYBcIEV4G",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 382791093,
+                "id_str": "382791093",
+                "name": "Senator John Hoeven",
+                "screen_name": "SenJohnHoeven"
+            },
+            {
+                "id": 1048784496,
+                "id_str": "1048784496",
+                "name": "Sen. Kevin Cramer",
+                "screen_name": "SenKevinCramer"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RepArmstrongND: Thanks to @SenJohnHoeven for holding this important hearing and for inviting @SenKevinCramer and I to participate. Than\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 30 17:55:30 +0000 2011",
+        "description": "Official account of U.S. Senator John Hoeven of North Dakota. Chairman of #Agriculture Appropriations & @IndianCommittee.",
+        "favourites_count": 683,
+        "followers_count": 91938,
+        "friends_count": 690,
+        "geo_enabled": true,
+        "id": 382791093,
+        "id_str": "382791093",
+        "listed_count": 1599,
+        "location": "North Dakota",
+        "name": "Senator John Hoeven",
+        "profile_background_color": "9E976D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/382791093/1553287177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085227990005493764/olR6Sayb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085227990005493764/olR6Sayb_normal.jpg",
+        "profile_link_color": "A1392B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJohnHoeven",
+        "statuses_count": 3472,
+        "url": "https://t.co/S1wB3GGEfX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1080515866255593472,
+            "id_str": "1080515866255593472",
+            "name": "Congressman Kelly Armstrong",
+            "screen_name": "RepArmstrongND"
+        },
+        {
+            "id": 382791093,
+            "id_str": "382791093",
+            "name": "Senator John Hoeven",
+            "screen_name": "SenJohnHoeven"
+        },
+        {
+            "id": 1048784496,
+            "id_str": "1048784496",
+            "name": "Sen. Kevin Cramer",
+            "screen_name": "SenKevinCramer"
+        }
+    ]
+}

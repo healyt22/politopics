@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Aug 14 19:52:34 +0000 2019",
+    "favorite_count": 59,
+    "hashtags": [],
+    "id": 1161727330718486532,
+    "id_str": "1161727330718486532",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Aug 14 19:38:50 +0000 2019",
+        "favorite_count": 406,
+        "hashtags": [],
+        "id": 1161723875463446530,
+        "id_str": "1161723875463446530",
+        "lang": "en",
+        "retweet_count": 110,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "This isn\u2019t just a huge announcement for aerospace, it\u2019s big for the state of CO, too. Our Louisville, CO-based Spac\u2026 https://t.co/rRMXeKtBov",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161723875463446530",
+                "url": "https://t.co/rRMXeKtBov"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 09 17:23:30 +0000 2012",
+            "description": "Official Sierra Nevada Corporation twitter. SNC delivers customer-focused technologies and best-of-breed systems integrations in aerospace and national security",
+            "favourites_count": 747,
+            "followers_count": 34182,
+            "friends_count": 445,
+            "id": 575612397,
+            "id_str": "575612397",
+            "listed_count": 469,
+            "location": "Sparks, NV",
+            "name": "Sierra Nevada Corporation",
+            "profile_background_color": "336699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/575612397/1556567297",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/730158317767524352/dj3ZnanN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/730158317767524352/dj3ZnanN_normal.jpg",
+            "profile_link_color": "004789",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "SierraNevCorp",
+            "statuses_count": 1732,
+            "url": "https://t.co/cOF7lgfpm6",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1161723875463446530,
+    "quoted_status_id_str": "1161723875463446530",
+    "retweet_count": 17,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Congratulations to @SierraNevCorp for selecting @ulalaunch as their launch provider for Dream Chaser spacecraft\u2019s s\u2026 https://t.co/LmQ9sKlG7U",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1161727330718486532",
+            "url": "https://t.co/LmQ9sKlG7U"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 07 17:02:56 +0000 2011",
+        "description": "Proudly serving the state of Colorado in the United States Senate. This is my official Senate Twitter account.",
+        "favourites_count": 81,
+        "followers_count": 118181,
+        "friends_count": 273,
+        "geo_enabled": true,
+        "id": 235217558,
+        "id_str": "235217558",
+        "listed_count": 2098,
+        "location": "Colorado",
+        "name": "Cory Gardner",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/235217558/1456516556",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm_normal.jpeg",
+        "profile_link_color": "003CB3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCoryGardner",
+        "statuses_count": 4687,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 575612397,
+            "id_str": "575612397",
+            "name": "Sierra Nevada Corporation",
+            "screen_name": "SierraNevCorp"
+        },
+        {
+            "id": 22845770,
+            "id_str": "22845770",
+            "name": "ULA",
+            "screen_name": "ulalaunch"
+        }
+    ]
+}

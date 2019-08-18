@@ -1,0 +1,150 @@
+{
+    "created_at": "Tue Jun 11 15:45:43 +0000 2019",
+    "favorite_count": 139,
+    "hashtags": [],
+    "id": 1138472386393759745,
+    "id_str": "1138472386393759745",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 10 19:36:10 +0000 2019",
+        "favorite_count": 255,
+        "hashtags": [],
+        "id": 1138167991919632384,
+        "id_str": "1138167991919632384",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/RS0SfUB636",
+                "expanded_url": "https://twitter.com/SenateGOP/status/1138167991919632384/video/1",
+                "id": 1138167068287787009,
+                "media_url": "http://pbs.twimg.com/media/D8uVBK7XYAMeCmU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D8uVBK7XYAMeCmU.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/RS0SfUB636",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 20708,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138167068287787009/vid/480x480/MjSfJTdZ0zkSzmLh.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138167068287787009/vid/320x320/bUl31qxLraGTRJWD.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1138167068287787009/pl/MeGBtsVspShC5Cts.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138167068287787009/vid/720x720/LsYNlXdXF1kP-bHe.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 69,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "In our nation\u2019s robust jobs market, American workers are in the driver\u2019s seat. https://t.co/RS0SfUB636",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Apr 09 19:42:03 +0000 2008",
+            "description": "News and updates from Republican senators and their staff. Chairman @SenJohnBarrasso.",
+            "favourites_count": 1870,
+            "followers_count": 836030,
+            "friends_count": 28888,
+            "geo_enabled": true,
+            "id": 14344823,
+            "id_str": "14344823",
+            "listed_count": 7341,
+            "location": "Washington, D.C.",
+            "name": "Senate Republicans",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344823/1565620522",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenateGOP",
+            "statuses_count": 24351,
+            "url": "https://t.co/LRez78SkoK",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138167991919632384,
+    "quoted_status_id_str": "1138167991919632384",
+    "retweet_count": 35,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Republican policies are empowering Americans and our economy. https://t.co/qZTL8qQksP",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/SenateGOP/status/1138167991919632384",
+            "url": "https://t.co/qZTL8qQksP"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 29 20:09:30 +0000 2009",
+        "description": "U.S. Senator Johnny Isakson, R-Ga. | Committees: Veterans' Affairs, Chairman; Ethics, Chairman; Foreign Relations; HELP; Finance.\nKeep comments family friendly.",
+        "favourites_count": 819,
+        "followers_count": 66373,
+        "friends_count": 456,
+        "geo_enabled": true,
+        "id": 78403308,
+        "id_str": "78403308",
+        "listed_count": 2132,
+        "location": "GA & DC",
+        "name": "Johnny Isakson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78403308/1488812068",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorIsakson",
+        "statuses_count": 6318,
+        "url": "http://t.co/n3mMYfmg5C",
+        "verified": true
+    },
+    "user_mentions": []
+}

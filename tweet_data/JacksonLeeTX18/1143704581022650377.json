@@ -1,0 +1,151 @@
+{
+    "created_at": "Wed Jun 26 02:16:35 +0000 2019",
+    "favorite_count": 68,
+    "hashtags": [
+        {
+            "text": "PurpleRain"
+        }
+    ],
+    "id": 1143704581022650377,
+    "id_str": "1143704581022650377",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 26 01:35:48 +0000 2019",
+        "favorite_count": 74638,
+        "hashtags": [],
+        "id": 1143694316059189248,
+        "id_str": "1143694316059189248",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2gJM9hTQ6t",
+                "expanded_url": "https://twitter.com/IlhanMN/status/1143694316059189248/video/1",
+                "id": 1143693828890791936,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143693828890791936/pu/img/Dfp_4GD5xLeValBq.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143693828890791936/pu/img/Dfp_4GD5xLeValBq.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 406,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 406,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/2gJM9hTQ6t",
+                "video_info": {
+                    "aspect_ratio": [
+                        360,
+                        203
+                    ],
+                    "duration_millis": 20573,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1143693828890791936/pu/vid/478x270/YjpV_52nH_0ZM80b.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1143693828890791936/pu/vid/720x406/YhUa7Hdp27d2Z0mp.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1143693828890791936/pu/pl/dCV49V9UsMbhRvm7.m3u8?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 6764,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Happy 35th anniversary to the best album of all time\u2014Purple Rain! https://t.co/2gJM9hTQ6t",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Aug 27 04:21:41 +0000 2012",
+            "default_profile": true,
+            "description": "Mom, Refugee, Intersectional Feminist, 2017 Top Angler of the Governor's Fishing Opener and Congresswoman for #MN05. Join me \ud83d\udc47\ud83c\udffd",
+            "favourites_count": 15452,
+            "followers_count": 1352555,
+            "friends_count": 1270,
+            "geo_enabled": true,
+            "id": 783792992,
+            "id_str": "783792992",
+            "listed_count": 4461,
+            "location": "Minneapolis",
+            "name": "Ilhan Omar",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783792992/1534782985",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1064665266435559424/wZtYO03x_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064665266435559424/wZtYO03x_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "IlhanMN",
+            "statuses_count": 11815,
+            "url": "https://t.co/GpQErcEp3y",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1143694316059189248,
+    "quoted_status_id_str": "1143694316059189248",
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Gone girl! #PurpleRain. https://t.co/4PYEOpxow5",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/IlhanMN/status/1143694316059189248",
+            "url": "https://t.co/4PYEOpxow5"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Oct 07 16:13:13 +0000 2009",
+        "description": "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas' 18th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 9993,
+        "followers_count": 75987,
+        "friends_count": 2505,
+        "geo_enabled": true,
+        "id": 80612021,
+        "id_str": "80612021",
+        "listed_count": 1748,
+        "location": "Houston, TX",
+        "name": "Sheila Jackson Lee",
+        "profile_background_color": "F5F7FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80612021/1538174062",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+        "profile_link_color": "0A2AFC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E4E4E4",
+        "profile_text_color": "E61212",
+        "profile_use_background_image": true,
+        "screen_name": "JacksonLeeTX18",
+        "statuses_count": 7715,
+        "url": "https://t.co/5K4lQ3yBcP",
+        "verified": true
+    },
+    "user_mentions": []
+}

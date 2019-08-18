@@ -1,0 +1,85 @@
+{
+    "created_at": "Sat Jul 13 19:07:22 +0000 2019",
+    "favorite_count": 438,
+    "hashtags": [],
+    "id": 1150119543588753408,
+    "id_str": "1150119543588753408",
+    "in_reply_to_screen_name": "jaketapper",
+    "in_reply_to_status_id": 1150073241022734336,
+    "in_reply_to_user_id": 14529929,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/UD3AcwDUeP",
+            "expanded_url": "https://twitter.com/JoaquinCastrotx/status/1150119543588753408/photo/1",
+            "id": 1150119498286075904,
+            "media_url": "http://pbs.twimg.com/media/D_YLlxCXkAA3oCI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_YLlxCXkAA3oCI.jpg",
+            "sizes": {
+                "small": {
+                    "w": 382,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 750,
+                    "h": 1334,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/UD3AcwDUeP"
+        }
+    ],
+    "retweet_count": 110,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@jaketapper No doubt at all, and I think \u201cwell-connected\u201d may include the US Government: https://t.co/UD3AcwDUeP",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+        "description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of Intelligence and @EdLaborCmte Commitees; host of @DiploCable.",
+        "favourites_count": 5746,
+        "followers_count": 207363,
+        "friends_count": 1914,
+        "geo_enabled": true,
+        "id": 231510077,
+        "id_str": "231510077",
+        "listed_count": 2474,
+        "location": "San Antonio, Texas",
+        "name": "Joaquin Castro",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoaquinCastrotx",
+        "statuses_count": 14878,
+        "url": "http://t.co/SBuEnv1k",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14529929,
+            "id_str": "14529929",
+            "name": "Jake Tapper",
+            "screen_name": "jaketapper"
+        }
+    ]
+}

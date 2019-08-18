@@ -1,0 +1,258 @@
+{
+    "created_at": "Wed Jul 10 19:38:44 +0000 2019",
+    "hashtags": [],
+    "id": 1149040275181977600,
+    "id_str": "1149040275181977600",
+    "lang": "en",
+    "quoted_status_id": 1148799950714810368,
+    "quoted_status_id_str": "1148799950714810368",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jul 10 14:43:41 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1148966021950320640,
+        "id_str": "1148966021950320640",
+        "lang": "en",
+        "place": {
+            "id": "319ee7b36c9149da",
+            "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json",
+            "place_type": "city",
+            "name": "Arlington",
+            "full_name": "Arlington, VA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.172219,
+                            38.827378
+                        ],
+                        [
+                            -77.031779,
+                            38.827378
+                        ],
+                        [
+                            -77.031779,
+                            38.934311
+                        ],
+                        [
+                            -77.172219,
+                            38.934311
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Wed Jul 10 03:43:46 +0000 2019",
+            "favorite_count": 67,
+            "hashtags": [
+                {
+                    "text": "SELS2019"
+                }
+            ],
+            "id": 1148799950714810368,
+            "id_str": "1148799950714810368",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/JevCNhjKZb",
+                    "expanded_url": "https://twitter.com/CECAdvocacy/status/1148799950714810368/video/1",
+                    "id": 1148799287796670464,
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1148799287796670464/pu/img/1E_tNTSNX4tHHo8G.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1148799287796670464/pu/img/1E_tNTSNX4tHHo8G.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/JevCNhjKZb",
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 44985,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1148799287796670464/pu/vid/720x1280/1jFiQDZ7mMNojGT3.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1148799287796670464/pu/pl/T0CsmRrINYqZaKQ5.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1148799287796670464/pu/vid/320x568/dRW92ImOWAbiwrNk.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1148799287796670464/pu/vid/360x640/obIy8iuzWt4XolED.mp4?tag=10"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "retweet_count": 36,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "In case you missed it, here is  @RepHuffman speaking about H.R. 1878 Fully Fund IDEA. #SELS2019 https://t.co/JevCNhjKZb",
+            "urls": [],
+            "user": {
+                "created_at": "Wed Mar 07 19:27:17 +0000 2012",
+                "description": "CEC works to improve public policy affecting children and youth with disabilities and gifts and talents, parents, and the professionals who work with them.",
+                "favourites_count": 524,
+                "followers_count": 3429,
+                "friends_count": 927,
+                "geo_enabled": true,
+                "id": 517869727,
+                "id_str": "517869727",
+                "listed_count": 31,
+                "location": "Arlington, VA",
+                "name": "CEC Advocacy Team",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/517869727/1481217421",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1932660759/cec_icon_375x375_reasonably_small_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1932660759/cec_icon_375x375_reasonably_small_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "CECAdvocacy",
+                "statuses_count": 1863,
+                "url": "http://t.co/Eh75DfPgjb"
+            },
+            "user_mentions": [
+                {
+                    "id": 1071102246,
+                    "id_str": "1071102246",
+                    "name": "Rep. Jared Huffman",
+                    "screen_name": "RepHuffman"
+                }
+            ]
+        },
+        "quoted_status_id": 1148799950714810368,
+        "quoted_status_id_str": "1148799950714810368",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This was an amazing event! Thank you @RepHuffman for leading the way! https://t.co/A7YzdyI3xF",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/CECAdvocacy/status/1148799950714810368",
+                "url": "https://t.co/A7YzdyI3xF"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 22 15:55:02 +0000 2010",
+            "description": "Council of Administrators of Special Education is an international professional educational organization affiliated with the Council for Exceptional Children.",
+            "favourites_count": 201,
+            "followers_count": 4376,
+            "friends_count": 290,
+            "geo_enabled": true,
+            "id": 193745573,
+            "id_str": "193745573",
+            "listed_count": 34,
+            "location": "Warner Robins, GA",
+            "name": "CASE",
+            "profile_background_color": "8FB4E0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1129026694/case-logo73x73clearbg_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129026694/case-logo73x73clearbg_normal.png",
+            "profile_link_color": "0056A6",
+            "profile_sidebar_border_color": "0056A6",
+            "profile_sidebar_fill_color": "8FB4E0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "casecec",
+            "statuses_count": 2509,
+            "url": "http://t.co/frFN5PYYqV"
+        },
+        "user_mentions": [
+            {
+                "id": 1071102246,
+                "id_str": "1071102246",
+                "name": "Rep. Jared Huffman",
+                "screen_name": "RepHuffman"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @casecec: This was an amazing event! Thank you @RepHuffman for leading the way! https://t.co/A7YzdyI3xF",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/CECAdvocacy/status/1148799950714810368",
+            "url": "https://t.co/A7YzdyI3xF"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jul 13 20:49:36 +0000 2011",
+        "description": "Congressman for CA's 2nd Dist.  Posts on this page authorized by Huffman for Congress.  For my official House of Representatives feed please follow @RepHuffman",
+        "favourites_count": 11025,
+        "followers_count": 7997,
+        "friends_count": 393,
+        "geo_enabled": true,
+        "id": 334894942,
+        "id_str": "334894942",
+        "listed_count": 314,
+        "location": "Northern California",
+        "name": "Rep. Jared Huffman",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/334894942/1466965755",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "JaredHuffman",
+        "statuses_count": 10945,
+        "url": "http://t.co/vfmUDvrNRS",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 193745573,
+            "id_str": "193745573",
+            "name": "CASE",
+            "screen_name": "casecec"
+        },
+        {
+            "id": 1071102246,
+            "id_str": "1071102246",
+            "name": "Rep. Jared Huffman",
+            "screen_name": "RepHuffman"
+        }
+    ]
+}

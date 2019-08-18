@@ -1,0 +1,105 @@
+{
+    "created_at": "Sat Jun 08 22:17:48 +0000 2019",
+    "hashtags": [],
+    "id": 1137483894801010689,
+    "id_str": "1137483894801010689",
+    "lang": "en",
+    "retweet_count": 28,
+    "retweeted_status": {
+        "created_at": "Sat Jun 08 18:04:42 +0000 2019",
+        "favorite_count": 143,
+        "hashtags": [],
+        "id": 1137420200792481794,
+        "id_str": "1137420200792481794",
+        "lang": "en",
+        "retweet_count": 28,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "BREAKING&gt;&gt;@POTUS has approved the State's request for a Presidential Disaster Declaration. This will allow federal\u2026 https://t.co/COOskxM2jq",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1137420200792481794",
+                "url": "https://t.co/COOskxM2jq"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 07 18:44:34 +0000 2011",
+            "description": "South Dakotan. Wife. Mom. Honored to serve as South Dakota's Governor.",
+            "favourites_count": 165,
+            "followers_count": 35212,
+            "friends_count": 389,
+            "geo_enabled": true,
+            "id": 235251868,
+            "id_str": "235251868",
+            "listed_count": 1122,
+            "name": "Governor Kristi Noem",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/235251868/1561395607",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1090635557867319296/PdrmNLTW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090635557867319296/PdrmNLTW_normal.jpg",
+            "profile_link_color": "80000B",
+            "profile_sidebar_border_color": "DEDEDE",
+            "profile_sidebar_fill_color": "F2F2F2",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "govkristinoem",
+            "statuses_count": 6015,
+            "url": "https://t.co/sJaOcjfyTs",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 822215679726100480,
+                "id_str": "822215679726100480",
+                "name": "President Trump",
+                "screen_name": "POTUS"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @govkristinoem: BREAKING&gt;&gt;@POTUS has approved the State's request for a Presidential Disaster Declaration. This will allow federal money\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Dec 17 21:44:20 +0000 2018",
+        "description": "South Dakota's lone U.S. Representative - husband, father, & proud South Dakotan.",
+        "favourites_count": 97,
+        "followers_count": 3212,
+        "friends_count": 125,
+        "geo_enabled": true,
+        "id": 1074782372594413569,
+        "id_str": "1074782372594413569",
+        "listed_count": 111,
+        "location": "Mitchell, SD",
+        "name": "Rep. Dusty Johnson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074782372594413569/1547143930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDustyJohnson",
+        "statuses_count": 392,
+        "url": "https://t.co/O0W5qo3H9S",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 235251868,
+            "id_str": "235251868",
+            "name": "Governor Kristi Noem",
+            "screen_name": "govkristinoem"
+        },
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        }
+    ]
+}

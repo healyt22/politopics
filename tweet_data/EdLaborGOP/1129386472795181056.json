@@ -1,0 +1,100 @@
+{
+    "created_at": "Fri May 17 14:01:32 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "HR5"
+        }
+    ],
+    "id": 1129386472795181056,
+    "id_str": "1129386472795181056",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/sqoWRkcwpc",
+            "expanded_url": "https://twitter.com/EdLaborGOP/status/1129386472795181056/video/1",
+            "id": 1129385100163125250,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1129385100163125250/img/SSPvazxu1dSgBPA4.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1129385100163125250/img/SSPvazxu1dSgBPA4.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/sqoWRkcwpc",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 262263,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1129385100163125250/vid/640x360/W4gRz9D7oB-iqKCQ.mp4?tag=12"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1129385100163125250/pl/6dEY1_nN6b-qI1jx.m3u8?tag=12"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1129385100163125250/vid/320x180/meU5_ruYdjB3hhwH.mp4?tag=12"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "We\u2019ll just leave this here #HR5 \u2b07\ufe0f https://t.co/sqoWRkcwpc",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 23 19:33:31 +0000 2008",
+        "description": "Fostering the best opportunities for students to learn, workers to succeed, and employers to grow. Senior Republican Rep. @VirginiaFoxx.",
+        "favourites_count": 371,
+        "followers_count": 14978,
+        "friends_count": 750,
+        "id": 16424044,
+        "id_str": "16424044",
+        "listed_count": 845,
+        "location": "Washington, D.C.",
+        "name": "House Ed & Labor Republicans",
+        "profile_background_color": "840615",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16424044/1516828425",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080870670924505088/7wB_RYP8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080870670924505088/7wB_RYP8_normal.jpg",
+        "profile_link_color": "002E6D",
+        "profile_sidebar_border_color": "333333",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "EdLaborGOP",
+        "statuses_count": 6852,
+        "url": "https://t.co/4vVHntvdqd",
+        "verified": true
+    },
+    "user_mentions": []
+}

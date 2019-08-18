@@ -1,0 +1,120 @@
+{
+    "created_at": "Wed Mar 06 14:25:14 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [
+        {
+            "text": "TownHallForThePeople"
+        }
+    ],
+    "id": 1103300510919131136,
+    "id_str": "1103300510919131136",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Mar 06 13:15:00 +0000 2019",
+        "favorite_count": 324,
+        "hashtags": [
+            {
+                "text": "TownHallForThePeople"
+            }
+        ],
+        "id": 1103282834049908737,
+        "id_str": "1103282834049908737",
+        "lang": "en",
+        "retweet_count": 102,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Looking forward to taking part in a #TownHallForThePeople tonight with @RepSarbanes and several of my fellow freshm\u2026 https://t.co/yBGz8uyZaK",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1103282834049908737",
+                "url": "https://t.co/yBGz8uyZaK"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Nov 10 17:30:23 +0000 2018",
+            "default_profile": true,
+            "description": "Exposing truth, cleaning-up corruption & inspiring collaboration in Congress. Member of House Financial Services, Foreign Affairs, & Ethics Committees. #MN03",
+            "favourites_count": 2331,
+            "followers_count": 9927,
+            "friends_count": 753,
+            "geo_enabled": true,
+            "id": 1061310112013434882,
+            "id_str": "1061310112013434882",
+            "listed_count": 192,
+            "location": "Minnesota, USA",
+            "name": "Rep. Dean Phillips",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061310112013434882/1543962611",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepDeanPhillips",
+            "statuses_count": 527,
+            "url": "https://t.co/shLWxHqqwP",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 364415553,
+                "id_str": "364415553",
+                "name": "Rep. John Sarbanes",
+                "screen_name": "RepSarbanes"
+            }
+        ]
+    },
+    "quoted_status_id": 1103282834049908737,
+    "quoted_status_id_str": "1103282834049908737",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Excited to join @RepSarbanes @RepDeanPhillips and other fellow freshman for a #TownHallForThePeople tonight. \n\nTwee\u2026 https://t.co/9UFctpWwQD",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1103300510919131136",
+            "url": "https://t.co/9UFctpWwQD"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 18:45:46 +0000 2019",
+        "default_profile": true,
+        "description": "The official Twitter account of Congressman Tom Malinowski, of New Jersey's 7th district.",
+        "favourites_count": 27,
+        "followers_count": 2934,
+        "friends_count": 362,
+        "id": 1080898026418384897,
+        "id_str": "1080898026418384897",
+        "listed_count": 116,
+        "name": "Rep. Tom Malinowski",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080898026418384897/1547061220",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMalinowski",
+        "statuses_count": 218,
+        "url": "https://t.co/xKfFUaXQDL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 364415553,
+            "id_str": "364415553",
+            "name": "Rep. John Sarbanes",
+            "screen_name": "RepSarbanes"
+        },
+        {
+            "id": 1061310112013434882,
+            "id_str": "1061310112013434882",
+            "name": "Rep. Dean Phillips",
+            "screen_name": "RepDeanPhillips"
+        }
+    ]
+}

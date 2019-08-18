@@ -1,0 +1,155 @@
+{
+    "created_at": "Fri Oct 26 21:31:11 +0000 2018",
+    "hashtags": [],
+    "id": 1055934894432546822,
+    "id_str": "1055934894432546822",
+    "lang": "en",
+    "retweet_count": 15,
+    "retweeted_status": {
+        "created_at": "Fri Oct 26 16:59:48 +0000 2018",
+        "favorite_count": 41,
+        "hashtags": [],
+        "id": 1055866598861496320,
+        "id_str": "1055866598861496320",
+        "lang": "en",
+        "place": {
+            "id": "07d9eda95c080001",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9eda95c080001.json",
+            "place_type": "poi",
+            "name": "Big Sandy Community and Technical College",
+            "full_name": "Big Sandy Community and Technical College",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.77865550751474,
+                            37.68792186772812
+                        ],
+                        [
+                            -82.77865550751474,
+                            37.68792186772812
+                        ],
+                        [
+                            -82.77865550751474,
+                            37.68792186772812
+                        ],
+                        [
+                            -82.77865550751474,
+                            37.68792186772812
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you to everyone who came out to today\u2019s round table discussion at @bsctc05. We appreciate @IvankaTrump,\u2026 https://t.co/bmwPuzH57s",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1055866598861496320",
+                "url": "https://t.co/bmwPuzH57s"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 06 17:25:20 +0000 2015",
+            "default_profile": true,
+            "description": "Governor of the Commonwealth of Kentucky",
+            "favourites_count": 1480,
+            "followers_count": 94516,
+            "friends_count": 6,
+            "geo_enabled": true,
+            "id": 3141213592,
+            "id_str": "3141213592",
+            "listed_count": 610,
+            "location": "Kentucky, USA",
+            "name": "Governor Matt Bevin",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3141213592/1546896480",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/776152411002048512/KGLzHoJk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/776152411002048512/KGLzHoJk_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GovMattBevin",
+            "statuses_count": 7248,
+            "url": "https://t.co/N7GLPP5aTn",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 28330493,
+                "id_str": "28330493",
+                "name": "BSCTC05",
+                "screen_name": "BSCTC05"
+            },
+            {
+                "id": 52544275,
+                "id_str": "52544275",
+                "name": "Ivanka Trump",
+                "screen_name": "IvankaTrump"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GovMattBevin: Thank you to everyone who came out to today\u2019s round table discussion at @bsctc05. We appreciate @IvankaTrump, @RepHalRoge\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Apr 10 19:59:22 +0000 2012",
+        "default_profile": true,
+        "description": "Representing the people of Southern and Eastern Kentucky and serving as Chairman of the U.S. House Appropriations Subcommittee on State and Foreign Operations",
+        "favourites_count": 1085,
+        "followers_count": 16643,
+        "friends_count": 741,
+        "geo_enabled": true,
+        "id": 550401754,
+        "id_str": "550401754",
+        "listed_count": 713,
+        "location": "Somerset, KY",
+        "name": "Hal Rogers",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550401754/1478819972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHalRogers",
+        "statuses_count": 3758,
+        "url": "https://t.co/MNkQuDdocD",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3141213592,
+            "id_str": "3141213592",
+            "name": "Governor Matt Bevin",
+            "screen_name": "GovMattBevin"
+        },
+        {
+            "id": 28330493,
+            "id_str": "28330493",
+            "name": "BSCTC05",
+            "screen_name": "BSCTC05"
+        },
+        {
+            "id": 52544275,
+            "id_str": "52544275",
+            "name": "Ivanka Trump",
+            "screen_name": "IvankaTrump"
+        }
+    ]
+}

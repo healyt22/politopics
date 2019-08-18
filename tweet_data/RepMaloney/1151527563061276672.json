@@ -1,0 +1,67 @@
+{
+    "created_at": "Wed Jul 17 16:22:20 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1151527563061276672,
+    "id_str": "1151527563061276672",
+    "in_reply_to_screen_name": "openletterbot",
+    "in_reply_to_status_id": 1151124554917396481,
+    "in_reply_to_user_id": 938533034659168256,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@openletterbot @gillibrandny @SenSchumer I called for impeachment last month: https://t.co/gZ9xtJFyIq",
+    "urls": [
+        {
+            "expanded_url": "https://maloney.house.gov/media-center/press-releases/maloney-calls-for-impeachment-hearings-at-foley-square-rally",
+            "url": "https://t.co/gZ9xtJFyIq"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 28 19:06:50 +0000 2011",
+        "description": "Honored to rep #NY12 in the US House. A progressive fmr teacher fighting for #Manhattan, #Brooklyn & #Queens. Proud to wear FDNY coat to #renew911VCF! DMs open",
+        "favourites_count": 6408,
+        "followers_count": 42347,
+        "friends_count": 3281,
+        "geo_enabled": true,
+        "id": 258900199,
+        "id_str": "258900199",
+        "listed_count": 1323,
+        "location": "New York City",
+        "name": "Carolyn  B. Maloney",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258900199/1549467399",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMaloney",
+        "statuses_count": 10833,
+        "url": "https://t.co/EhTt891RCX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 938533034659168256,
+            "id_str": "938533034659168256",
+            "name": "Resistbot Open Letters",
+            "screen_name": "openletterbot"
+        },
+        {
+            "id": 899978622416695297,
+            "id_str": "899978622416695297",
+            "name": "Sen. Kirsten Gillibrand",
+            "screen_name": "gillibrandny"
+        },
+        {
+            "id": 17494010,
+            "id_str": "17494010",
+            "name": "Chuck Schumer",
+            "screen_name": "SenSchumer"
+        }
+    ]
+}

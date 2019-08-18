@@ -1,0 +1,113 @@
+{
+    "created_at": "Tue May 07 21:21:18 +0000 2019",
+    "hashtags": [],
+    "id": 1125873264570638338,
+    "id_str": "1125873264570638338",
+    "lang": "en",
+    "retweet_count": 55,
+    "retweeted_status": {
+        "created_at": "Tue May 07 20:49:39 +0000 2019",
+        "favorite_count": 239,
+        "hashtags": [],
+        "id": 1125865297339088897,
+        "id_str": "1125865297339088897",
+        "lang": "en",
+        "retweet_count": 55,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Student loan debt is a crushing weight on the backs of American students &amp; families. Today w @SenWarren &amp;\u2026 https://t.co/5RBaY3QtJE",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1125865297339088897",
+                "url": "https://t.co/5RBaY3QtJE"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 04 15:50:42 +0000 2011",
+            "default_profile": true,
+            "description": "Serving the people of Illinois. Democratic Whip.",
+            "favourites_count": 577,
+            "followers_count": 616628,
+            "friends_count": 2412,
+            "geo_enabled": true,
+            "id": 247334603,
+            "id_str": "247334603",
+            "listed_count": 4973,
+            "name": "Senator Dick Durbin",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/247334603/1438365026",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/871723567456686081/fbJgQgO1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/871723567456686081/fbJgQgO1_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenatorDurbin",
+            "statuses_count": 14768,
+            "url": "https://t.co/75Y2c3yeVH",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 970207298,
+                "id_str": "970207298",
+                "name": "Elizabeth Warren",
+                "screen_name": "SenWarren"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SenatorDurbin: Student loan debt is a crushing weight on the backs of American students &amp; families. Today w @SenWarren &amp; @SenJackReed,\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 08 15:24:01 +0000 2012",
+        "description": "Official Twitter feed of Rhode Island\u2019s U.S. Senator Jack Reed.",
+        "favourites_count": 152,
+        "followers_count": 93739,
+        "friends_count": 36,
+        "id": 486694111,
+        "id_str": "486694111",
+        "listed_count": 1812,
+        "location": "Providence, Rhode Island",
+        "name": "Senator Jack Reed",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/486694111/1431108911",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/611042380846907393/L-JV9zuJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/611042380846907393/L-JV9zuJ_normal.jpg",
+        "profile_link_color": "42398A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJackReed",
+        "statuses_count": 5913,
+        "url": "http://t.co/zRkAemKyYn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 247334603,
+            "id_str": "247334603",
+            "name": "Senator Dick Durbin",
+            "screen_name": "SenatorDurbin"
+        },
+        {
+            "id": 970207298,
+            "id_str": "970207298",
+            "name": "Elizabeth Warren",
+            "screen_name": "SenWarren"
+        },
+        {
+            "id": 486694111,
+            "id_str": "486694111",
+            "name": "Senator Jack Reed",
+            "screen_name": "SenJackReed"
+        }
+    ]
+}

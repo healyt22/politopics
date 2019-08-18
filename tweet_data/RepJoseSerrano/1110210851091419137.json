@@ -1,0 +1,116 @@
+{
+    "created_at": "Mon Mar 25 16:04:28 +0000 2019",
+    "hashtags": [],
+    "id": 1110210851091419137,
+    "id_str": "1110210851091419137",
+    "lang": "en",
+    "retweet_count": 18,
+    "retweeted_status": {
+        "created_at": "Mon Mar 25 12:14:32 +0000 2019",
+        "favorite_count": 24,
+        "hashtags": [],
+        "id": 1110152988339945472,
+        "id_str": "1110152988339945472",
+        "lang": "en",
+        "retweet_count": 18,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "In today's @NYDailyNews, @RepJoseSerrano and I lay out the case against a new jail in Mott Haven. There is a better\u2026 https://t.co/6RqlAGhL9P",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1110152988339945472",
+                "url": "https://t.co/6RqlAGhL9P"
+            }
+        ],
+        "user": {
+            "created_at": "Sun May 31 21:55:10 +0000 2009",
+            "description": "#Bronx Borough President. RTs/Likes/Follows are not necessarily endorsements. #NYC",
+            "favourites_count": 14014,
+            "followers_count": 23374,
+            "friends_count": 5572,
+            "geo_enabled": true,
+            "id": 43763852,
+            "id_str": "43763852",
+            "listed_count": 543,
+            "location": "Bronx, NY",
+            "name": "Ruben Diaz Jr.",
+            "profile_background_color": "6097CE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43763852/1558470275",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1140664042727596036/9EIpNrkT_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140664042727596036/9EIpNrkT_normal.png",
+            "profile_link_color": "E77921",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "screen_name": "rubendiazjr",
+            "statuses_count": 21693,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 9763482,
+                "id_str": "9763482",
+                "name": "New York Daily News",
+                "screen_name": "NYDailyNews"
+            },
+            {
+                "id": 33563161,
+                "id_str": "33563161",
+                "name": "Jos\u00e9 E. Serrano",
+                "screen_name": "RepJoseSerrano"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @rubendiazjr: In today's @NYDailyNews, @RepJoseSerrano and I lay out the case against a new jail in Mott Haven. There is a better site f\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Apr 20 16:06:56 +0000 2009",
+        "description": "Congressman representing #TheBronx, New York. Chairman of @AppropsDems Commerce, Justice & Science Subcommittee. Dean of @HispanicCaucus",
+        "favourites_count": 583,
+        "followers_count": 30238,
+        "friends_count": 1246,
+        "id": 33563161,
+        "id_str": "33563161",
+        "listed_count": 1133,
+        "location": "Bronx NY-Wash.DC",
+        "name": "Jos\u00e9 E. Serrano",
+        "profile_background_color": "0099CC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33563161/1368570286",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3660133461/11799f104946003777b619effc437548_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3660133461/11799f104946003777b619effc437548_normal.jpeg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoseSerrano",
+        "statuses_count": 4896,
+        "url": "http://t.co/jXKviVB0sc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43763852,
+            "id_str": "43763852",
+            "name": "Ruben Diaz Jr.",
+            "screen_name": "rubendiazjr"
+        },
+        {
+            "id": 9763482,
+            "id_str": "9763482",
+            "name": "New York Daily News",
+            "screen_name": "NYDailyNews"
+        },
+        {
+            "id": 33563161,
+            "id_str": "33563161",
+            "name": "Jos\u00e9 E. Serrano",
+            "screen_name": "RepJoseSerrano"
+        }
+    ]
+}

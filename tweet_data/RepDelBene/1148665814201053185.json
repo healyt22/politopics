@@ -1,0 +1,145 @@
+{
+    "created_at": "Tue Jul 09 18:50:45 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1148665814201053185,
+    "id_str": "1148665814201053185",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 09 16:33:19 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "TIA"
+            }
+        ],
+        "id": 1148631227068559360,
+        "id_str": "1148631227068559360",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Happening now: @RepDelBene gives remarks to a full room at #TIA\u2019s policy forum on Securing the Internet of Things\u2026 https://t.co/diN0GFCwwY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148631227068559360",
+                "url": "https://t.co/diN0GFCwwY"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Sep 03 18:49:35 +0000 2010",
+            "description": "TIA's members deliver #connectivity with #telecom & #tech products & services across every industry - enabling communications #networks around the world.",
+            "favourites_count": 1369,
+            "followers_count": 4027,
+            "friends_count": 2225,
+            "geo_enabled": true,
+            "id": 186541584,
+            "id_str": "186541584",
+            "listed_count": 250,
+            "location": "Arlington, VA",
+            "name": "TIA",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/186541584/1528980265",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960599342519218176/zszdV6Lq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960599342519218176/zszdV6Lq_normal.jpg",
+            "profile_link_color": "CC252C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "TIAonline",
+            "statuses_count": 5578,
+            "url": "https://t.co/B0J7gRG35K"
+        },
+        "user_mentions": [
+            {
+                "id": 995193054,
+                "id_str": "995193054",
+                "name": "Rep. Suzan DelBene",
+                "screen_name": "RepDelBene"
+            }
+        ]
+    },
+    "quoted_status_id": 1148631227068559360,
+    "quoted_status_id_str": "1148631227068559360",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Honored to give the keynote speech @TIAonline\u2019s forum on data security &amp; IOT. W/ new tech shaking up whole industri\u2026 https://t.co/HJs3wIymn3",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1148665814201053185",
+            "url": "https://t.co/HJs3wIymn3"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Dec 07 14:40:48 +0000 2012",
+        "default_profile": true,
+        "description": "U.S. Congresswoman representing Washington's 1st Congressional District (#WA01)",
+        "favourites_count": 1550,
+        "followers_count": 26217,
+        "friends_count": 1969,
+        "id": 995193054,
+        "id_str": "995193054",
+        "listed_count": 933,
+        "name": "Rep. Suzan DelBene",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/995193054/1529512887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156643809763188736/CUo7K9U2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156643809763188736/CUo7K9U2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDelBene",
+        "statuses_count": 5515,
+        "url": "http://t.co/qnvcd0Kg",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 186541584,
+            "id_str": "186541584",
+            "name": "TIA",
+            "screen_name": "TIAonline"
+        }
+    ]
+}

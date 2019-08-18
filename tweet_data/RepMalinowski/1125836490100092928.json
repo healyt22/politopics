@@ -1,0 +1,77 @@
+{
+    "created_at": "Tue May 07 18:55:10 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1125836490100092928,
+    "id_str": "1125836490100092928",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Suzes3GtmT",
+            "expanded_url": "https://twitter.com/RepMalinowski/status/1125836490100092928/photo/1",
+            "id": 1125836434278178816,
+            "media_url": "http://pbs.twimg.com/media/D5_GRaRX4AA29Vx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D5_GRaRX4AA29Vx.jpg",
+            "sizes": {
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Suzes3GtmT"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great meeting with the NJ State Council of @MachinistsUnion today! https://t.co/Suzes3GtmT",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 18:45:46 +0000 2019",
+        "default_profile": true,
+        "description": "The official Twitter account of Congressman Tom Malinowski, of New Jersey's 7th district.",
+        "favourites_count": 28,
+        "followers_count": 3240,
+        "friends_count": 384,
+        "id": 1080898026418384897,
+        "id_str": "1080898026418384897",
+        "listed_count": 128,
+        "name": "Rep. Tom Malinowski",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080898026418384897/1547061220",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMalinowski",
+        "statuses_count": 237,
+        "url": "https://t.co/xKfFUaXQDL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 74829020,
+            "id_str": "74829020",
+            "name": "Machinists Union",
+            "screen_name": "MachinistsUnion"
+        }
+    ]
+}

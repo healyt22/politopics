@@ -1,0 +1,130 @@
+{
+    "created_at": "Sat Jul 27 15:50:50 +0000 2019",
+    "hashtags": [],
+    "id": 1155143518261841920,
+    "id_str": "1155143518261841920",
+    "lang": "en",
+    "retweet_count": 1042,
+    "retweeted_status": {
+        "created_at": "Sat Jul 27 14:18:54 +0000 2019",
+        "favorite_count": 2499,
+        "hashtags": [],
+        "id": 1155120381210124289,
+        "id_str": "1155120381210124289",
+        "lang": "en",
+        "place": {
+            "id": "6057f1e35bcc6c20",
+            "url": "https://api.twitter.com/1.1/geo/id/6057f1e35bcc6c20.json",
+            "place_type": "admin",
+            "name": "South Carolina",
+            "full_name": "South Carolina, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.353955,
+                            32.04683
+                        ],
+                        [
+                            -78.499301,
+                            32.04683
+                        ],
+                        [
+                            -78.499301,
+                            35.215449
+                        ],
+                        [
+                            -83.353955,
+                            35.215449
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1042,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This is what putting party over country looks like. https://t.co/7ZMnwQnnjN",
+        "urls": [
+            {
+                "expanded_url": "https://abcnews.go.com/Politics/mcconnell-blocks-bills-election-security-heels-mueller-warnings/story?id=64569009",
+                "url": "https://t.co/7ZMnwQnnjN"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 01 00:33:15 +0000 2017",
+            "description": "Congressman for #SC01. Dad, Husband, problem solver. Fan of local craft beer. No corporate PAC money. Fighting to protect our coastline. #LowcountryOverParty",
+            "favourites_count": 381,
+            "followers_count": 29645,
+            "friends_count": 1333,
+            "geo_enabled": true,
+            "id": 826589191412862976,
+            "id_str": "826589191412862976",
+            "listed_count": 308,
+            "location": "Charleston, SC",
+            "name": "Joe Cunningham",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/826589191412862976/1555949971",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1120355928182804480/j5YcQ9-i_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120355928182804480/j5YcQ9-i_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "JoeCunninghamSC",
+            "statuses_count": 1751,
+            "url": "https://t.co/pVa5hyKt8Y",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JoeCunninghamSC: This is what putting party over country looks like. https://t.co/7ZMnwQnnjN",
+    "urls": [
+        {
+            "expanded_url": "https://abcnews.go.com/Politics/mcconnell-blocks-bills-election-security-heels-mueller-warnings/story?id=64569009",
+            "url": "https://t.co/7ZMnwQnnjN"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 31 18:12:28 +0000 2018",
+        "description": "Proudly representing Massachusetts' 3rd Congressional District in the United States Congress. #MA3 IG: https://t.co/vooOgovNqw",
+        "favourites_count": 1654,
+        "followers_count": 16331,
+        "friends_count": 852,
+        "geo_enabled": true,
+        "id": 1079802482640019456,
+        "id_str": "1079802482640019456",
+        "listed_count": 250,
+        "location": "Massachusetts, USA",
+        "name": "Congresswoman Lori Trahan",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079802482640019456/1563635553",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1079802597366788102/iwByLB57_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079802597366788102/iwByLB57_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepLoriTrahan",
+        "statuses_count": 1611,
+        "url": "https://t.co/H4NmF9Ma2f",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 826589191412862976,
+            "id_str": "826589191412862976",
+            "name": "Joe Cunningham",
+            "screen_name": "JoeCunninghamSC"
+        }
+    ]
+}

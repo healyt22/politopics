@@ -1,0 +1,102 @@
+{
+    "created_at": "Wed May 01 18:16:48 +0000 2019",
+    "hashtags": [],
+    "id": 1123652505714475008,
+    "id_str": "1123652505714475008",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Apr 30 20:32:49 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1123324346641068037,
+        "id_str": "1123324346641068037",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you @RepWalorski for speaking with cooperative leaders on the Hill today and for being a staunch advocate for\u2026 https://t.co/CBcKNFlvUR",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1123324346641068037",
+                "url": "https://t.co/CBcKNFlvUR"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 06 12:21:15 +0000 2009",
+            "description": "Indiana Electric Cooperatives represents 38 electric distribution cooperatives that serve 1.3 million Hoosiers in 89 of the state's 92 counties.",
+            "favourites_count": 181,
+            "followers_count": 888,
+            "friends_count": 305,
+            "geo_enabled": true,
+            "id": 63465133,
+            "id_str": "63465133",
+            "listed_count": 25,
+            "location": "Indianapolis, IN",
+            "name": "Indiana Electric Cooperatives",
+            "profile_background_color": "00587C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/63465133/1429103115",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/473475660896153600/GX35fYjA_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/473475660896153600/GX35fYjA_normal.png",
+            "profile_link_color": "FFB500",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "screen_name": "IndianaEC",
+            "statuses_count": 1814,
+            "url": "http://t.co/AweyVbonN1"
+        },
+        "user_mentions": [
+            {
+                "id": 1065995022,
+                "id_str": "1065995022",
+                "name": "Jackie Walorski",
+                "screen_name": "RepWalorski"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @IndianaEC: Thank you @RepWalorski for speaking with cooperative leaders on the Hill today and for being a staunch advocate for the expa\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Jan 06 15:41:40 +0000 2013",
+        "description": "Representing Indiana's Second Congressional District",
+        "favourites_count": 720,
+        "followers_count": 17340,
+        "friends_count": 685,
+        "id": 1065995022,
+        "id_str": "1065995022",
+        "listed_count": 748,
+        "name": "Jackie Walorski",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065995022/1447888516",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3073698516/4b6a35b98362ceeac03b29fcc016f9ae_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3073698516/4b6a35b98362ceeac03b29fcc016f9ae_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepWalorski",
+        "statuses_count": 4741,
+        "url": "http://t.co/1c3JNm0kJ5",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 63465133,
+            "id_str": "63465133",
+            "name": "Indiana Electric Cooperatives",
+            "screen_name": "IndianaEC"
+        },
+        {
+            "id": 1065995022,
+            "id_str": "1065995022",
+            "name": "Jackie Walorski",
+            "screen_name": "RepWalorski"
+        }
+    ]
+}

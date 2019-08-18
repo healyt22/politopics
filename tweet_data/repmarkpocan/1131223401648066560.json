@@ -1,0 +1,121 @@
+{
+    "created_at": "Wed May 22 15:40:50 +0000 2019",
+    "favorite_count": 173,
+    "hashtags": [],
+    "id": 1131223401648066560,
+    "id_str": "1131223401648066560",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed May 22 15:34:29 +0000 2019",
+        "favorite_count": 25,
+        "hashtags": [],
+        "id": 1131221804629016581,
+        "id_str": "1131221804629016581",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/sev3BkNzvB",
+                "expanded_url": "https://twitter.com/DavidWright_CNN/status/1131221804629016581/photo/1",
+                "id": 1131221723058200576,
+                "media_url": "http://pbs.twimg.com/media/D7LoKeUW4AAvkWy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D7LoKeUW4AAvkWy.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1394,
+                        "h": 1050,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 904,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 512,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/sev3BkNzvB"
+            }
+        ],
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Pool provides this photo of the president's podium for unexpected Rose Garden announcement: https://t.co/sev3BkNzvB",
+        "urls": [],
+        "user": {
+            "created_at": "Thu May 05 03:57:20 +0000 2011",
+            "description": "@CNNPolitics, @UVA, Maine/California. david.e.wright@turner(dot)com",
+            "favourites_count": 47414,
+            "followers_count": 19350,
+            "friends_count": 4814,
+            "id": 293314112,
+            "id_str": "293314112",
+            "listed_count": 506,
+            "location": "Washington, D.C.",
+            "name": "David Wright",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/293314112/1528751031",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1119395182116519936/REr6h6UN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119395182116519936/REr6h6UN_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "DavidWright_CNN",
+            "statuses_count": 45471,
+            "url": "https://t.co/DdO0iJuoto",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1131221804629016581,
+    "quoted_status_id_str": "1131221804629016581",
+    "retweet_count": 43,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "He should've just written \"I'm not a crook\" and made it easier for everyone to read https://t.co/P0EP6J2fAU",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/DavidWright_CNN/status/1131221804629016581",
+            "url": "https://t.co/P0EP6J2fAU"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Feb 21 22:59:04 +0000 2013",
+        "description": "Honored to serve the people of Wisconsin's Second District. Co-Chair of @USProgressives and @LGBTEqCaucus. Member of @AppropsDems",
+        "favourites_count": 1185,
+        "followers_count": 87279,
+        "friends_count": 5532,
+        "geo_enabled": true,
+        "id": 1206227149,
+        "id_str": "1206227149",
+        "listed_count": 1244,
+        "location": "Madison, WI",
+        "name": "Rep. Mark Pocan",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1206227149/1524146572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039192566044999682/TNyedeNK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039192566044999682/TNyedeNK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repmarkpocan",
+        "statuses_count": 5910,
+        "url": "https://t.co/IvGB2NpiqX",
+        "verified": true
+    },
+    "user_mentions": []
+}

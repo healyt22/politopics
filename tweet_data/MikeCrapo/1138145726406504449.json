@@ -1,0 +1,141 @@
+{
+    "created_at": "Mon Jun 10 18:07:41 +0000 2019",
+    "hashtags": [],
+    "id": 1138145726406504449,
+    "id_str": "1138145726406504449",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Mon Jun 10 17:49:55 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1138141256402505729,
+        "id_str": "1138141256402505729",
+        "lang": "en",
+        "place": {
+            "id": "07d9c92ba0082001",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c92ba0082001.json",
+            "place_type": "poi",
+            "name": "Washington Hilton",
+            "full_name": "Washington Hilton",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.04516381025314,
+                            38.91639354078766
+                        ],
+                        [
+                            -77.04516381025314,
+                            38.91639354078766
+                        ],
+                        [
+                            -77.04516381025314,
+                            38.91639354078766
+                        ],
+                        [
+                            -77.04516381025314,
+                            38.91639354078766
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Are you heading to @SelectUSA? Team Idaho is in the exhibition hall with gorgeous scenery, friendly faces and busin\u2026 https://t.co/BXoBo3gqV8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138141256402505729",
+                "url": "https://t.co/BXoBo3gqV8"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Oct 14 18:01:18 +0000 2008",
+            "description": "Working to create jobs, strengthen communities and sell Idaho.",
+            "favourites_count": 1363,
+            "followers_count": 8845,
+            "friends_count": 739,
+            "geo_enabled": true,
+            "id": 16742712,
+            "id_str": "16742712",
+            "listed_count": 216,
+            "location": "Idaho, USA",
+            "name": "Idaho Commerce",
+            "profile_background_color": "00526A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16742712/1551457352",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2671038632/b57a098e33c611f25750fc270405fe72_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2671038632/b57a098e33c611f25750fc270405fe72_normal.png",
+            "profile_link_color": "004F71",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "3F6075",
+            "profile_text_color": "FFFFFF",
+            "screen_name": "IdahoCommerce",
+            "statuses_count": 2608,
+            "url": "https://t.co/IbsJRSuCVu"
+        },
+        "user_mentions": [
+            {
+                "id": 1099296103,
+                "id_str": "1099296103",
+                "name": "SelectUSA",
+                "screen_name": "SelectUSA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @IdahoCommerce: Are you heading to @SelectUSA? Team Idaho is in the exhibition hall with gorgeous scenery, friendly faces and business g\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 05 22:16:35 +0000 2012",
+        "description": "United States Senator for the great state of Idaho.",
+        "favourites_count": 733,
+        "followers_count": 95539,
+        "friends_count": 742,
+        "geo_enabled": true,
+        "id": 600463589,
+        "id_str": "600463589",
+        "listed_count": 1725,
+        "location": "Idaho & Washington, D.C.",
+        "name": "Senator Mike Crapo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/600463589/1358530313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "MikeCrapo",
+        "statuses_count": 6484,
+        "url": "http://t.co/W6cAM2HKzW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16742712,
+            "id_str": "16742712",
+            "name": "Idaho Commerce",
+            "screen_name": "IdahoCommerce"
+        },
+        {
+            "id": 1099296103,
+            "id_str": "1099296103",
+            "name": "SelectUSA",
+            "screen_name": "SelectUSA"
+        }
+    ]
+}

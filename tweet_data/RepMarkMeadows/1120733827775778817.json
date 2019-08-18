@@ -1,0 +1,122 @@
+{
+    "created_at": "Tue Apr 23 16:59:01 +0000 2019",
+    "favorite_count": 13270,
+    "hashtags": [],
+    "id": 1120733827775778817,
+    "id_str": "1120733827775778817",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 23 15:34:49 +0000 2019",
+        "favorite_count": 1128,
+        "hashtags": [],
+        "id": 1120712637443080192,
+        "id_str": "1120712637443080192",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/FB5NaNH0CX",
+                "expanded_url": "https://twitter.com/tictoc/status/1120712637443080192/photo/1",
+                "id": 1120712635794763778,
+                "media_url": "http://pbs.twimg.com/media/D42SNFfWsAIGLmG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D42SNFfWsAIGLmG.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/FB5NaNH0CX"
+            }
+        ],
+        "retweet_count": 595,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "JUST IN: The U.S. Supreme Court has signaled support for Trump's 2020 Census citizenship question https://t.co/FB5NaNH0CX",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Feb 15 20:50:58 +0000 2011",
+            "description": "Global news for the world we live in now.",
+            "favourites_count": 861,
+            "followers_count": 732934,
+            "friends_count": 1222,
+            "geo_enabled": true,
+            "id": 252751061,
+            "id_str": "252751061",
+            "listed_count": 5951,
+            "name": "Bloomberg TicToc",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/252751061/1563557785",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/940202913393082373/23X8DJQc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/940202913393082373/23X8DJQc_normal.jpg",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "tictoc",
+            "statuses_count": 142914,
+            "url": "https://t.co/O0sSpXABY4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1120712637443080192,
+    "quoted_status_id_str": "1120712637443080192",
+    "retweet_count": 5573,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Good news. Will wait for the ruling, but this seems entirely consistent with legal and historical precedent. It sho\u2026 https://t.co/tgC6bGh6Z6",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1120733827775778817",
+            "url": "https://t.co/tgC6bGh6Z6"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Nov 22 02:20:50 +0000 2012",
+        "description": "Businessman, husband, and father proudly representing North Carolina's 11th Congressional District. Chairman of @freedomcaucus.",
+        "favourites_count": 384,
+        "followers_count": 333468,
+        "friends_count": 958,
+        "geo_enabled": true,
+        "id": 963480595,
+        "id_str": "963480595",
+        "listed_count": 2324,
+        "location": "Jackson County, NC",
+        "name": "Mark Meadows",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/963480595/1392915093",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827624420923539456/rcp86XAS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827624420923539456/rcp86XAS_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMarkMeadows",
+        "statuses_count": 2782,
+        "url": "https://t.co/awcfuLCQk1",
+        "verified": true
+    },
+    "user_mentions": []
+}

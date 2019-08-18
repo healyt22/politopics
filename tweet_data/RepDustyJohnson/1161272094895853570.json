@@ -1,0 +1,125 @@
+{
+    "created_at": "Tue Aug 13 13:43:37 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1161272094895853570,
+    "id_str": "1161272094895853570",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Aug 13 13:09:31 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1161263511961579520,
+        "id_str": "1161263511961579520",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/roLDcWntvq",
+                "expanded_url": "https://twitter.com/dailyrepublic/status/1161263511961579520/photo/1",
+                "id": 1161263510313213952,
+                "media_url": "http://pbs.twimg.com/media/EB2jAo7XoAAg_f-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EB2jAo7XoAAg_f-.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 425,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1140,
+                        "h": 712,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1140,
+                        "h": 712,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/roLDcWntvq"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "FCC looks to 'close the digital divide,' provide $4.9 million for S.D. rural broadband https://t.co/ckyfdFFOa9 https://t.co/roLDcWntvq",
+        "urls": [
+            {
+                "expanded_url": "https://trib.al/ucWogDF",
+                "url": "https://t.co/ckyfdFFOa9"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 14 15:23:45 +0000 2008",
+            "description": "The Daily Republic is a six-day daily newspaper in Mitchell, S.D. Get free access to our e-paper: https://t.co/glApgBAfGD",
+            "favourites_count": 383,
+            "followers_count": 4303,
+            "friends_count": 497,
+            "geo_enabled": true,
+            "id": 15427690,
+            "id_str": "15427690",
+            "listed_count": 137,
+            "location": "Mitchell SD",
+            "name": "The Daily Republic",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15427690/1565207923",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151232106904768514/pEnwJgxw_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151232106904768514/pEnwJgxw_normal.png",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "dailyrepublic",
+            "statuses_count": 57465,
+            "url": "http://t.co/mqfMXZh0VK"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1161263511961579520,
+    "quoted_status_id_str": "1161263511961579520",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Broadband gives rural families &amp; businesses the opportunity to connect (and compete). Good news. https://t.co/Lzgf0ChMo1",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/dailyrepublic/status/1161263511961579520",
+            "url": "https://t.co/Lzgf0ChMo1"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 17 21:44:20 +0000 2018",
+        "description": "South Dakota's lone U.S. Representative - husband, father, & proud South Dakotan.",
+        "favourites_count": 97,
+        "followers_count": 3212,
+        "friends_count": 125,
+        "geo_enabled": true,
+        "id": 1074782372594413569,
+        "id_str": "1074782372594413569",
+        "listed_count": 111,
+        "location": "Mitchell, SD",
+        "name": "Rep. Dusty Johnson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074782372594413569/1547143930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDustyJohnson",
+        "statuses_count": 392,
+        "url": "https://t.co/O0W5qo3H9S",
+        "verified": true
+    },
+    "user_mentions": []
+}

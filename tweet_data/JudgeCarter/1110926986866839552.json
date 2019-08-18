@@ -1,0 +1,166 @@
+{
+    "created_at": "Wed Mar 27 15:30:08 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [
+        {
+            "text": "RoundRock"
+        }
+    ],
+    "id": 1110926986866839552,
+    "id_str": "1110926986866839552",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Mar 27 15:10:30 +0000 2019",
+        "favorite_count": 30,
+        "hashtags": [
+            {
+                "text": "RoundRock"
+            }
+        ],
+        "id": 1110922046215766016,
+        "id_str": "1110922046215766016",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9DkGRSBYZk",
+                "expanded_url": "https://twitter.com/roundrock/status/1110922046215766016/video/1",
+                "id": 1110921352561807363,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110921352561807363/pu/img/IsIO37GHavokXbB1.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110921352561807363/pu/img/IsIO37GHavokXbB1.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/9DkGRSBYZk",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 53433,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1110921352561807363/pu/vid/480x480/XIY0jK1GZXu9gQB0.mp4?tag=8"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1110921352561807363/pu/vid/720x720/HPP99bJ83KGGfPwF.mp4?tag=8"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1110921352561807363/pu/vid/320x320/o_oAAI29G6tNAd0f.mp4?tag=8"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1110921352561807363/pu/pl/o4beljq5F8ZALz3g.m3u8?tag=8"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Folks love this place, y'all! @NicheSocial ranked #RoundRock as the #19 best place to live in America. \ud83d\ude0e https://t.co/9DkGRSBYZk",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jun 03 15:07:44 +0000 2008",
+            "description": "News and information from the City of Round Rock, Texas",
+            "favourites_count": 3061,
+            "followers_count": 35477,
+            "friends_count": 2427,
+            "geo_enabled": true,
+            "id": 14993622,
+            "id_str": "14993622",
+            "listed_count": 338,
+            "location": "Round Rock, Texas",
+            "name": "City of Round Rock",
+            "profile_background_color": "003367",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14993622/1561652812",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/592762394612506624/Cf0CwkCH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/592762394612506624/Cf0CwkCH_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "333333",
+            "profile_sidebar_fill_color": "6699CC",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "roundrock",
+            "statuses_count": 9727,
+            "url": "http://t.co/0QeSyDtFit",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 7253892,
+                "id_str": "7253892",
+                "name": "Niche",
+                "screen_name": "NicheSocial"
+            }
+        ]
+    },
+    "quoted_status_id": 1110922046215766016,
+    "quoted_status_id_str": "1110922046215766016",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "We \u2764\ufe0f #RoundRock! Congratulations Round Rock on being ranked as one of the best places to live in America \ud83c\uddfa\ud83c\uddf8! https://t.co/dH2d4oad28",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/roundrock/status/1110922046215766016",
+            "url": "https://t.co/dH2d4oad28"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 10 21:00:58 +0000 2008",
+        "description": "U.S. Congressman proudly serving the 31st District of Texas & @forthood. Former Judge. Proud @TexasTech Red Raider.",
+        "favourites_count": 404,
+        "followers_count": 15275,
+        "friends_count": 839,
+        "geo_enabled": true,
+        "id": 18030431,
+        "id_str": "18030431",
+        "listed_count": 1094,
+        "location": "#TX31 ",
+        "name": "Judge Carter",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18030431/1497824245",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000021210674/a74f4eaa78e4aa40395b1e2c0088a711_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000021210674/a74f4eaa78e4aa40395b1e2c0088a711_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JudgeCarter",
+        "statuses_count": 6228,
+        "url": "https://t.co/iPPDu1iB3W",
+        "verified": true
+    },
+    "user_mentions": []
+}

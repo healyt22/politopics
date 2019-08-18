@@ -1,0 +1,166 @@
+{
+    "created_at": "Fri May 31 18:06:33 +0000 2019",
+    "favorite_count": 61,
+    "hashtags": [],
+    "id": 1134521564052041729,
+    "id_str": "1134521564052041729",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri May 31 14:47:57 +0000 2019",
+        "favorite_count": 256,
+        "hashtags": [
+            {
+                "text": "NationalSmileDay"
+            }
+        ],
+        "id": 1134471584205484032,
+        "id_str": "1134471584205484032",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HpNqdHzsQZ",
+                "expanded_url": "https://twitter.com/AF_Academy/status/1134471584205484032/photo/1",
+                "id": 1134471450159702017,
+                "media_url": "http://pbs.twimg.com/media/D75zxfKXYAEEnKR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D75zxfKXYAEEnKR.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1362,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 452,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 798,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HpNqdHzsQZ"
+            }
+        ],
+        "place": {
+            "id": "309a038634de3f24",
+            "url": "https://api.twitter.com/1.1/geo/id/309a038634de3f24.json",
+            "place_type": "city",
+            "name": "Air Force Academy",
+            "full_name": "Air Force Academy, CO",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -104.898908,
+                            38.958912
+                        ],
+                        [
+                            -104.83332,
+                            38.958912
+                        ],
+                        [
+                            -104.83332,
+                            39.022971
+                        ],
+                        [
+                            -104.898908,
+                            39.022971
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 33,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Because how could you not \ud83d\ude03 after yesterday's graduation ceremony! #NationalSmileDay https://t.co/HpNqdHzsQZ",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Aug 26 19:39:44 +0000 2009",
+            "description": "To educate, train and inspire men and women to become officers of character, motivated to lead the U.S. Air Force in service to our nation.",
+            "favourites_count": 7227,
+            "followers_count": 76650,
+            "friends_count": 541,
+            "geo_enabled": true,
+            "id": 69073724,
+            "id_str": "69073724",
+            "listed_count": 485,
+            "location": "US Air Force Academy",
+            "name": "U.S. Air Force Academy",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/69073724/1563561126",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/801517346930114560/YUJiRErP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/801517346930114560/YUJiRErP_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "0047E0",
+            "profile_sidebar_fill_color": "D5D6D9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AF_Academy",
+            "statuses_count": 10497,
+            "url": "https://t.co/WLFPo9UNjp",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1134471584205484032,
+    "quoted_status_id_str": "1134471584205484032",
+    "retweet_count": 8,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Congratulations @AF_Academy graduates! https://t.co/AitQokzIa5",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/AF_Academy/status/1134471584205484032",
+            "url": "https://t.co/AitQokzIa5"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 08 16:29:29 +0000 2010",
+        "description": "U.S. Senator for Colorado",
+        "favourites_count": 103,
+        "followers_count": 293619,
+        "friends_count": 363,
+        "geo_enabled": true,
+        "id": 224285242,
+        "id_str": "224285242",
+        "listed_count": 2944,
+        "location": "Colorado",
+        "name": "Michael Bennet",
+        "profile_background_color": "48403A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/224285242/1527091402",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/897159863863836676/lopmOrpE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/897159863863836676/lopmOrpE_normal.jpg",
+        "profile_link_color": "4D8857",
+        "profile_sidebar_border_color": "95F0EB",
+        "profile_sidebar_fill_color": "D3E7F2",
+        "profile_text_color": "242324",
+        "screen_name": "SenatorBennet",
+        "statuses_count": 3742,
+        "url": "http://t.co/bQVU54FnhE",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 69073724,
+            "id_str": "69073724",
+            "name": "U.S. Air Force Academy",
+            "screen_name": "AF_Academy"
+        }
+    ]
+}

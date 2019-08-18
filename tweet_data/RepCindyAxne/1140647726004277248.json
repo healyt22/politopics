@@ -1,0 +1,196 @@
+{
+    "created_at": "Mon Jun 17 15:49:44 +0000 2019",
+    "hashtags": [
+        {
+            "text": "antitrust"
+        }
+    ],
+    "id": 1140647726004277248,
+    "id_str": "1140647726004277248",
+    "lang": "en",
+    "quoted_status_id": 1140644729228582912,
+    "quoted_status_id_str": "1140644729228582912",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Jun 17 15:46:30 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [
+            {
+                "text": "antitrust"
+            }
+        ],
+        "id": 1140646910228869120,
+        "id_str": "1140646910228869120",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Mon Jun 17 15:37:50 +0000 2019",
+            "favorite_count": 36,
+            "hashtags": [],
+            "id": 1140644729228582912,
+            "id_str": "1140644729228582912",
+            "lang": "en",
+            "place": {
+                "id": "01fbe706f872cb32",
+                "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+                "place_type": "city",
+                "name": "Washington",
+                "full_name": "Washington, DC",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -77.119401,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.9953797
+                            ],
+                            [
+                                -77.119401,
+                                38.9953797
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 2,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Great discussion in DSM on the rising cost of prescription drugs w/ over 20 Iowans affected by this critical issue.\u2026 https://t.co/sbIo0zZgjo",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1140644729228582912",
+                    "url": "https://t.co/sbIo0zZgjo"
+                }
+            ],
+            "user": {
+                "created_at": "Thu Jan 03 16:38:10 +0000 2019",
+                "description": "Proud to serve as the U.S. Representative from Iowa's Third Congressional District.",
+                "favourites_count": 71,
+                "followers_count": 8485,
+                "friends_count": 300,
+                "geo_enabled": true,
+                "id": 1080865917377097728,
+                "id_str": "1080865917377097728",
+                "listed_count": 207,
+                "location": "Des Moines, IA",
+                "name": "Rep. Cindy Axne",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080865917377097728/1546613243",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1080868174097043456/QomNGZDc_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080868174097043456/QomNGZDc_normal.jpg",
+                "profile_link_color": "91D2FA",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "RepCindyAxne",
+                "statuses_count": 497,
+                "url": "https://t.co/8HYX7IyY9b",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1140644729228582912,
+        "quoted_status_id_str": "1140644729228582912",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you! We'll use #antitrust laws and other tools to fight high prices.  https://t.co/phjYzNPcRl https://t.co/jzqqlFxOF6",
+        "urls": [
+            {
+                "expanded_url": "https://www.iowaattorneygeneral.gov/newsroom/teva-pharmaceuticals-generic-drug-makers-miller-antitrust/",
+                "url": "https://t.co/phjYzNPcRl"
+            },
+            {
+                "expanded_url": "https://twitter.com/RepCindyAxne/status/1140644729228582912",
+                "url": "https://t.co/jzqqlFxOF6"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 15 14:06:31 +0000 2010",
+            "description": "The official twitter site of the Iowa Department of Justice, Office of the Attorney General, Attorney General Tom Miller. Tweets by staff.",
+            "favourites_count": 442,
+            "followers_count": 2764,
+            "friends_count": 627,
+            "geo_enabled": true,
+            "id": 191052331,
+            "id_str": "191052331",
+            "listed_count": 134,
+            "location": "Des Moines, IA",
+            "name": "IA Attorney General",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/191052331/1423523211",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/564923776152788992/SOgLb1P3_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/564923776152788992/SOgLb1P3_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "AGIowa",
+            "statuses_count": 989,
+            "url": "http://t.co/3fiKd84pDA",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AGIowa: Thank you! We'll use #antitrust laws and other tools to fight high prices.  https://t.co/phjYzNPcRl https://t.co/jzqqlFxOF6",
+    "urls": [
+        {
+            "expanded_url": "https://www.iowaattorneygeneral.gov/newsroom/teva-pharmaceuticals-generic-drug-makers-miller-antitrust/",
+            "url": "https://t.co/phjYzNPcRl"
+        },
+        {
+            "expanded_url": "https://twitter.com/RepCindyAxne/status/1140644729228582912",
+            "url": "https://t.co/jzqqlFxOF6"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 16:38:10 +0000 2019",
+        "description": "Proud to serve as the U.S. Representative from Iowa's Third Congressional District.",
+        "favourites_count": 71,
+        "followers_count": 8485,
+        "friends_count": 300,
+        "geo_enabled": true,
+        "id": 1080865917377097728,
+        "id_str": "1080865917377097728",
+        "listed_count": 207,
+        "location": "Des Moines, IA",
+        "name": "Rep. Cindy Axne",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080865917377097728/1546613243",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080868174097043456/QomNGZDc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080868174097043456/QomNGZDc_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepCindyAxne",
+        "statuses_count": 497,
+        "url": "https://t.co/8HYX7IyY9b",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 191052331,
+            "id_str": "191052331",
+            "name": "IA Attorney General",
+            "screen_name": "AGIowa"
+        }
+    ]
+}

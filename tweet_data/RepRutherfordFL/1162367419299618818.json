@@ -1,0 +1,139 @@
+{
+    "created_at": "Fri Aug 16 14:16:03 +0000 2019",
+    "hashtags": [],
+    "id": 1162367419299618818,
+    "id_str": "1162367419299618818",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Fri Aug 16 14:10:41 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 1162366071975895040,
+        "id_str": "1162366071975895040",
+        "lang": "en",
+        "place": {
+            "id": "07d9dbdcb3c82000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9dbdcb3c82000.json",
+            "place_type": "poi",
+            "name": "Old St Andrew's Church",
+            "full_name": "Old St Andrew's Church",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.643305,
+                            30.325851
+                        ],
+                        [
+                            -81.643305,
+                            30.325851
+                        ],
+                        [
+                            -81.643305,
+                            30.325851
+                        ],
+                        [
+                            -81.643305,
+                            30.325851
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to Congressman @RepRutherfordFL for sharing his insight this morning \u2014 the Downtown Council invites members\u2026 https://t.co/Pgx1InaqHS",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162366071975895040",
+                "url": "https://t.co/Pgx1InaqHS"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 21 19:47:20 +0000 2009",
+            "description": "We're dedicated to driving quality economic growth in Northeast Florida to make this region the best place to work, live and play. #ilovejax",
+            "favourites_count": 15781,
+            "followers_count": 34301,
+            "friends_count": 905,
+            "geo_enabled": true,
+            "id": 41660824,
+            "id_str": "41660824",
+            "listed_count": 476,
+            "location": "Jacksonville, FL",
+            "name": "JAX Chamber",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41660824/1565621602",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1554699261/JAXChamber_TW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1554699261/JAXChamber_TW_normal.jpg",
+            "profile_link_color": "018A61",
+            "profile_sidebar_border_color": "018A61",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "001538",
+            "profile_use_background_image": true,
+            "screen_name": "JAXChamber",
+            "statuses_count": 27194,
+            "url": "https://t.co/NSpniDO8Sa"
+        },
+        "user_mentions": [
+            {
+                "id": 828977216595849216,
+                "id_str": "828977216595849216",
+                "name": "Rep. John Rutherford",
+                "screen_name": "RepRutherfordFL"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JAXChamber: Thanks to Congressman @RepRutherfordFL for sharing his insight this morning \u2014 the Downtown Council invites members and non-\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Feb 07 14:42:24 +0000 2017",
+        "description": "Proudly serving NE FL District 4.  Former Sheriff focused on keeping communities safe & protecting your rights. @HouseAppropsGOP",
+        "favourites_count": 148,
+        "followers_count": 5359,
+        "friends_count": 473,
+        "geo_enabled": true,
+        "id": 828977216595849216,
+        "id_str": "828977216595849216",
+        "listed_count": 281,
+        "location": "Washington, DC",
+        "name": "Rep. John Rutherford",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/828977216595849216/1549634718",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999013227936628736/kPDy7RMJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/999013227936628736/kPDy7RMJ_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRutherfordFL",
+        "statuses_count": 1091,
+        "url": "https://t.co/wj7pQPamPu",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 41660824,
+            "id_str": "41660824",
+            "name": "JAX Chamber",
+            "screen_name": "JAXChamber"
+        },
+        {
+            "id": 828977216595849216,
+            "id_str": "828977216595849216",
+            "name": "Rep. John Rutherford",
+            "screen_name": "RepRutherfordFL"
+        }
+    ]
+}

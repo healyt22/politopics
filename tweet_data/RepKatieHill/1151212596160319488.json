@@ -1,0 +1,80 @@
+{
+    "created_at": "Tue Jul 16 19:30:46 +0000 2019",
+    "favorite_count": 204,
+    "hashtags": [],
+    "id": 1151212596160319488,
+    "id_str": "1151212596160319488",
+    "lang": "en",
+    "place": {
+        "id": "0ff5b09d1d94d008",
+        "url": "https://api.twitter.com/1.1/geo/id/0ff5b09d1d94d008.json",
+        "place_type": "poi",
+        "name": "Longworth House Office Building",
+        "full_name": "Longworth House Office Building",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ],
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ],
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ],
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 21,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I love returning your calls to my office!\n\nJeff wrote me about the cost of his daughter\u2019s diabetes meds. He and I a\u2026 https://t.co/9sJaE7DSXr",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151212596160319488",
+            "url": "https://t.co/9sJaE7DSXr"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Nov 29 22:42:02 +0000 2018",
+        "description": "Congresswoman serving the Antelope, Simi & Santa Clarita Valleys in #CA25. But call me Katie. Let\u2019s get to work.",
+        "favourites_count": 583,
+        "followers_count": 67622,
+        "friends_count": 1094,
+        "geo_enabled": true,
+        "id": 1068273911224094721,
+        "id_str": "1068273911224094721",
+        "listed_count": 521,
+        "location": "Santa Clarita, CA",
+        "name": "Rep. Katie Hill",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068273911224094721/1552064607",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080961085824413696/E383XYgx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080961085824413696/E383XYgx_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepKatieHill",
+        "statuses_count": 1018,
+        "url": "https://t.co/bAFs5H574m",
+        "verified": true
+    },
+    "user_mentions": []
+}

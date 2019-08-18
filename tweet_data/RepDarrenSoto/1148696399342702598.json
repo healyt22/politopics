@@ -1,0 +1,178 @@
+{
+    "created_at": "Tue Jul 09 20:52:18 +0000 2019",
+    "hashtags": [],
+    "id": 1148696399342702598,
+    "id_str": "1148696399342702598",
+    "lang": "en",
+    "quoted_status_id": 1148649774784102406,
+    "quoted_status_id_str": "1148649774784102406",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Jul 09 19:33:10 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1148676488830574600,
+        "id_str": "1148676488830574600",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Tue Jul 09 17:47:01 +0000 2019",
+            "favorite_count": 22,
+            "hashtags": [
+                {
+                    "text": "TexasvUS"
+                }
+            ],
+            "id": 1148649774784102406,
+            "id_str": "1148649774784102406",
+            "lang": "en",
+            "place": {
+                "id": "01fbe706f872cb32",
+                "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+                "place_type": "city",
+                "name": "Washington",
+                "full_name": "Washington, DC",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -77.119401,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.9953797
+                            ],
+                            [
+                                -77.119401,
+                                38.9953797
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 16,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "We're committed to defending quality &amp; affordability of health care for all Americans! Trump-backed #TexasvUS could\u2026 https://t.co/5FktLD3Qjw",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1148649774784102406",
+                    "url": "https://t.co/5FktLD3Qjw"
+                }
+            ],
+            "user": {
+                "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+                "default_profile": true,
+                "description": "Proudly representing Central Florida's 9th District: Osceola County and parts of Orange and Polk counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7\n\nOfficial Account",
+                "favourites_count": 4695,
+                "followers_count": 10786,
+                "friends_count": 3441,
+                "geo_enabled": true,
+                "id": 818713465653051392,
+                "id_str": "818713465653051392",
+                "listed_count": 446,
+                "location": "Kissimmee, Florida",
+                "name": "US Rep. Darren Soto",
+                "profile_background_color": "F5F8FA",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "RepDarrenSoto",
+                "statuses_count": 3265,
+                "url": "https://t.co/3Iswy0Rzuf",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1148649774784102406,
+        "quoted_status_id_str": "1148649774784102406",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "Without laws protecting my coverage despite preexisting conditions, my insurer would likely cancel my policy. My co\u2026 https://t.co/w3HHQnYBLJ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148676488830574600",
+                "url": "https://t.co/w3HHQnYBLJ"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 20:00:43 +0000 2012",
+            "description": "Novelist. Freelance editor. Writing instructor. Author of Alara's Call (https://t.co/qcAfjq5uCB) and Tales of the Phoenix (https://t.co/sb8ITimzqj).",
+            "favourites_count": 8375,
+            "followers_count": 1074,
+            "friends_count": 741,
+            "id": 533532213,
+            "id_str": "533532213",
+            "listed_count": 97,
+            "location": "Orlando, FL",
+            "name": "Kristen Stieffel",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/533532213/1551028140",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1099718057885351936/FFm8Hqv6_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099718057885351936/FFm8Hqv6_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "KristenStieffel",
+            "statuses_count": 4834,
+            "url": "http://t.co/HvtCMuePcV"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @KristenStieffel: Without laws protecting my coverage despite preexisting conditions, my insurer would likely cancel my policy. My condi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing Central Florida's 9th District: Osceola County and parts of Orange and Polk counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7\n\nOfficial Account",
+        "favourites_count": 4695,
+        "followers_count": 10786,
+        "friends_count": 3441,
+        "geo_enabled": true,
+        "id": 818713465653051392,
+        "id_str": "818713465653051392",
+        "listed_count": 446,
+        "location": "Kissimmee, Florida",
+        "name": "US Rep. Darren Soto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDarrenSoto",
+        "statuses_count": 3265,
+        "url": "https://t.co/3Iswy0Rzuf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 533532213,
+            "id_str": "533532213",
+            "name": "Kristen Stieffel",
+            "screen_name": "KristenStieffel"
+        }
+    ]
+}

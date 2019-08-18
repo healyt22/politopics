@@ -1,0 +1,125 @@
+{
+    "created_at": "Wed Jul 03 18:05:03 +0000 2019",
+    "hashtags": [],
+    "id": 1146479983621214208,
+    "id_str": "1146479983621214208",
+    "lang": "en",
+    "retweet_count": 63,
+    "retweeted_status": {
+        "created_at": "Wed Jul 03 14:47:11 +0000 2019",
+        "favorite_count": 161,
+        "hashtags": [],
+        "id": 1146430189322276864,
+        "id_str": "1146430189322276864",
+        "lang": "en",
+        "retweet_count": 63,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Border agents confiscated lawmakers\u2019 phones. @JoaquinCastrotx captured photo and video anyway. \n\nvia @kemettler\u2026 https://t.co/YPglJGZa8Z",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146430189322276864",
+                "url": "https://t.co/YPglJGZa8Z"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 16 17:33:20 +0000 2009",
+            "description": "Reporter, @WashingtonPost, covering 2020 presidential campaigns. Previously: The Arizona Republic.",
+            "favourites_count": 13174,
+            "followers_count": 11663,
+            "friends_count": 2216,
+            "id": 57391774,
+            "id_str": "57391774",
+            "listed_count": 447,
+            "location": "Washington, DC",
+            "name": "Amy B Wang",
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/57391774/1534257278",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3669357414/e6c681a54872cd7ae4ebd2affb1caf0a_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3669357414/e6c681a54872cd7ae4ebd2affb1caf0a_normal.png",
+            "profile_link_color": "6580AB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F5E947",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "screen_name": "amybwang",
+            "statuses_count": 20216,
+            "url": "https://t.co/fJMCeIYylK",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 231510077,
+                "id_str": "231510077",
+                "name": "Joaquin Castro",
+                "screen_name": "JoaquinCastrotx"
+            },
+            {
+                "id": 243020048,
+                "id_str": "243020048",
+                "name": "Katie Mettler",
+                "screen_name": "kemettler"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @amybwang: Border agents confiscated lawmakers\u2019 phones. @JoaquinCastrotx captured photo and video anyway. \n\nvia @kemettler @mikedebonis\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+        "description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of Intelligence and @EdLaborCmte Commitees; host of @DiploCable.",
+        "favourites_count": 5660,
+        "followers_count": 182186,
+        "friends_count": 1891,
+        "geo_enabled": true,
+        "id": 231510077,
+        "id_str": "231510077",
+        "listed_count": 2351,
+        "location": "San Antonio, Texas",
+        "name": "Joaquin Castro",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoaquinCastrotx",
+        "statuses_count": 14753,
+        "url": "http://t.co/SBuEnv1k",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 57391774,
+            "id_str": "57391774",
+            "name": "Amy B Wang",
+            "screen_name": "amybwang"
+        },
+        {
+            "id": 231510077,
+            "id_str": "231510077",
+            "name": "Joaquin Castro",
+            "screen_name": "JoaquinCastrotx"
+        },
+        {
+            "id": 243020048,
+            "id_str": "243020048",
+            "name": "Katie Mettler",
+            "screen_name": "kemettler"
+        },
+        {
+            "id": 16753660,
+            "id_str": "16753660",
+            "name": "Mike DeBonis",
+            "screen_name": "mikedebonis"
+        }
+    ]
+}

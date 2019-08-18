@@ -1,0 +1,76 @@
+{
+    "created_at": "Thu Apr 18 15:05:05 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "MuellerReportFindsNoCollusion"
+        }
+    ],
+    "id": 1118893217162891267,
+    "id_str": "1118893217162891267",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/on44NNShWg",
+            "expanded_url": "https://twitter.com/RepHagedorn/status/1118893217162891267/photo/1",
+            "id": 1118893051143950336,
+            "media_url": "http://pbs.twimg.com/media/D4cbTUcWkAAwnyt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4cbTUcWkAAwnyt.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 492,
+                    "h": 166,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 492,
+                    "h": 166,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 492,
+                    "h": 166,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/on44NNShWg"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Statement on #MuellerReportFindsNoCollusion https://t.co/on44NNShWg",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 10 21:24:53 +0000 2019",
+        "description": "This is the official Twitter account for Congressman Jim Hagedorn, proudly representing the 1st District of Minnesota.\nTweets sent by staff, unless signed \"-JH\u201d",
+        "favourites_count": 86,
+        "followers_count": 1478,
+        "friends_count": 59,
+        "id": 1083474782602125318,
+        "id_str": "1083474782602125318",
+        "listed_count": 98,
+        "location": "Washington, DC",
+        "name": "Congressman Jim Hagedorn",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083474782602125318/1547564797",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085188819396157440/hQbDlnW5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085188819396157440/hQbDlnW5_normal.jpg",
+        "profile_link_color": "203E74",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepHagedorn",
+        "statuses_count": 354,
+        "url": "https://t.co/D2A7FksK6h",
+        "verified": true
+    },
+    "user_mentions": []
+}

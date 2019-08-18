@@ -1,0 +1,122 @@
+{
+    "created_at": "Mon Apr 01 01:16:32 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1112524110016454656,
+    "id_str": "1112524110016454656",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Apr 01 00:40:25 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "SWIPS2019"
+            }
+        ],
+        "id": 1112515020787777537,
+        "id_str": "1112515020787777537",
+        "in_reply_to_screen_name": "RepTerriSewell",
+        "in_reply_to_user_id": 381152398,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RepTerriSewell, @RepMarthaRoby, and @MsTaraDowdell close day 1 of #SWIPS2019 with a discussion on the qualities an\u2026 https://t.co/U9NwXV5S9a",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1112515020787777537",
+                "url": "https://t.co/U9NwXV5S9a"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 20 19:23:23 +0000 2011",
+            "default_profile": true,
+            "description": "The Stennis Center for Public Service is a federal agency created by Congress in 1988 to promote public service leadership in America.",
+            "favourites_count": 205,
+            "followers_count": 350,
+            "friends_count": 168,
+            "geo_enabled": true,
+            "id": 240795584,
+            "id_str": "240795584",
+            "listed_count": 4,
+            "name": "Stennis Center",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/240795584/1519244026",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/966405263329824774/_5xSRQc4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/966405263329824774/_5xSRQc4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "StennisCenter",
+            "statuses_count": 373,
+            "url": "http://t.co/ZvWMAZwi0j"
+        },
+        "user_mentions": [
+            {
+                "id": 381152398,
+                "id_str": "381152398",
+                "name": "Rep. Terri A. Sewell",
+                "screen_name": "RepTerriSewell"
+            },
+            {
+                "id": 224294785,
+                "id_str": "224294785",
+                "name": "Rep. Martha Roby",
+                "screen_name": "RepMarthaRoby"
+            },
+            {
+                "id": 70195260,
+                "id_str": "70195260",
+                "name": "Tara Dowdell",
+                "screen_name": "MsTaraDowdell"
+            }
+        ]
+    },
+    "quoted_status_id": 1112515020787777537,
+    "quoted_status_id_str": "1112515020787777537",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thank you for inviting me, @StennisCenter - what a privilege to be with you all! https://t.co/bgoz4mcNLd",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/StennisCenter/status/1112515020787777537",
+            "url": "https://t.co/bgoz4mcNLd"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 08 16:56:29 +0000 2010",
+        "description": "I am honored to represent Alabama\u2019s Second Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 658,
+        "followers_count": 32925,
+        "friends_count": 2174,
+        "id": 224294785,
+        "id_str": "224294785",
+        "listed_count": 1174,
+        "name": "Rep. Martha Roby",
+        "profile_background_color": "5C6161",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/224294785/1403222188",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/479774391933214721/ZlZZ6h2__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/479774391933214721/ZlZZ6h2__normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "CC1433",
+        "profile_sidebar_fill_color": "232422",
+        "profile_text_color": "333333",
+        "screen_name": "RepMarthaRoby",
+        "statuses_count": 8663,
+        "url": "https://t.co/nPA2X3gwgx",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 240795584,
+            "id_str": "240795584",
+            "name": "Stennis Center",
+            "screen_name": "StennisCenter"
+        }
+    ]
+}

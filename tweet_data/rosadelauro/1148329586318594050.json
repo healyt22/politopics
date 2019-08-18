@@ -1,0 +1,153 @@
+{
+    "created_at": "Mon Jul 08 20:34:42 +0000 2019",
+    "favorite_count": 60,
+    "hashtags": [
+        {
+            "text": "EqualPay"
+        }
+    ],
+    "id": 1148329586318594050,
+    "id_str": "1148329586318594050",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jul 08 15:03:00 +0000 2019",
+        "favorite_count": 1310,
+        "hashtags": [],
+        "id": 1148246108923211776,
+        "id_str": "1148246108923211776",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/yLORFrnG7G",
+                "expanded_url": "https://twitter.com/nowthisnews/status/1148246108923211776/video/1",
+                "id": 1147988254064594945,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1147988254064594945/img/vZlNxkXUY06s2Z3d.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1147988254064594945/img/vZlNxkXUY06s2Z3d.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/yLORFrnG7G",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 19920,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1147988254064594945/vid/480x480/sDxzlGCJ2D5LJ_bR.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1147988254064594945/vid/320x320/NsxQ-3sNrR5IGY09.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1147988254064594945/pl/X42c47Es3eEnj8GU.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1147988254064594945/vid/720x720/x5f2lIrYd-8EVUUh.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 305,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "Even the World Cup crowd believes in the U.S. Women's National Soccer team's fight for equal pay \ud83d\udc4f https://t.co/yLORFrnG7G",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jul 17 20:31:08 +0000 2012",
+            "description": "Stories that move. Send us tips: contact@nowthismedia.com. Subscribe to our daily newsletter: https://t.co/2sCY2rymF7",
+            "favourites_count": 12723,
+            "followers_count": 2395102,
+            "friends_count": 12205,
+            "geo_enabled": true,
+            "id": 701725963,
+            "id_str": "701725963",
+            "listed_count": 9506,
+            "location": "The Internet & NYC",
+            "name": "NowThis",
+            "profile_background_color": "7FDBB6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nowthisnews",
+            "statuses_count": 130006,
+            "url": "http://t.co/1NLX7sJ52o",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1148246108923211776,
+    "quoted_status_id_str": "1148246108923211776",
+    "retweet_count": 15,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Women in all occupations\u2014bus drivers, professors, news anchors, world-class soccer players\u2014deserve #EqualPay. https://t.co/u8IcPoVdD1",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/nowthisnews/status/1148246108923211776",
+            "url": "https://t.co/u8IcPoVdD1"
+        }
+    ],
+    "user": {
+        "created_at": "Wed May 05 18:11:32 +0000 2010",
+        "description": "Proud to represent CT's 3rd CD. Italian-American, New Haven native, fierce advocate for a strong middle class & those in need. Tweets from Rosa are signed -Rosa",
+        "favourites_count": 511,
+        "followers_count": 41743,
+        "friends_count": 3225,
+        "geo_enabled": true,
+        "id": 140519774,
+        "id_str": "140519774",
+        "listed_count": 1355,
+        "location": "New Haven, CT",
+        "name": "Rosa DeLauro",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140519774/1450710256",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/677211963865358338/ZbwzWm8I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/677211963865358338/ZbwzWm8I_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rosadelauro",
+        "statuses_count": 7077,
+        "url": "http://t.co/IEn4FrZ95W",
+        "verified": true
+    },
+    "user_mentions": []
+}

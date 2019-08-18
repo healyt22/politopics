@@ -1,0 +1,116 @@
+{
+    "created_at": "Thu Jun 06 20:55:36 +0000 2019",
+    "favorite_count": 388,
+    "hashtags": [],
+    "id": 1136738431181164544,
+    "id_str": "1136738431181164544",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jun 06 15:49:17 +0000 2019",
+        "favorite_count": 163,
+        "hashtags": [],
+        "id": 1136661346924269569,
+        "id_str": "1136661346924269569",
+        "lang": "en",
+        "retweet_count": 96,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "NEW: A group of US senators, including @ChrisVanHollen &amp; @ewarren, is pushing the Fed to investigate @DeutscheBank'\u2026 https://t.co/3yQTVM1hba",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1136661346924269569",
+                "url": "https://t.co/3yQTVM1hba"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 31 16:02:38 +0000 2010",
+            "description": "Finance Editor @nytimes. Author of forthcoming DARK TOWERS on @DeutscheBank: https://t.co/gMdjrub0OG. 1st book: The Spider Network. david.enrich@nytimes.com",
+            "favourites_count": 7023,
+            "followers_count": 24931,
+            "friends_count": 699,
+            "geo_enabled": true,
+            "id": 185270017,
+            "id_str": "185270017",
+            "listed_count": 795,
+            "location": "New York, USA",
+            "name": "David Enrich",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/185270017/1514391568",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1109608186556960768/dkhXpmd7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109608186556960768/dkhXpmd7_normal.jpg",
+            "profile_link_color": "00B395",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "davidenrich",
+            "statuses_count": 10668,
+            "url": "https://t.co/N25aPm7mqQ",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18137749,
+                "id_str": "18137749",
+                "name": "Chris Van Hollen",
+                "screen_name": "ChrisVanHollen"
+            },
+            {
+                "id": 357606935,
+                "id_str": "357606935",
+                "name": "Elizabeth Warren",
+                "screen_name": "ewarren"
+            },
+            {
+                "id": 41330603,
+                "id_str": "41330603",
+                "name": "Deutsche Bank",
+                "screen_name": "DeutscheBank"
+            }
+        ]
+    },
+    "quoted_status_id": 1136661346924269569,
+    "quoted_status_id_str": "1136661346924269569",
+    "retweet_count": 200,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Deutsche Bank has a history of breaking rules. Now, it appears that their senior officials buried credible, interna\u2026 https://t.co/Az0xVOsNAl",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1136738431181164544",
+            "url": "https://t.co/Az0xVOsNAl"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 15 15:00:29 +0000 2008",
+        "default_profile": true,
+        "description": "U.S. Senator for Maryland",
+        "favourites_count": 596,
+        "followers_count": 152643,
+        "friends_count": 587,
+        "geo_enabled": true,
+        "id": 18137749,
+        "id_str": "18137749",
+        "listed_count": 2335,
+        "location": "Maryland, USA",
+        "name": "Chris Van Hollen",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18137749/1520622201",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/943708990449618944/0XSZE4Et_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/943708990449618944/0XSZE4Et_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "ChrisVanHollen",
+        "statuses_count": 4651,
+        "url": "https://t.co/TrgkGknGmN",
+        "verified": true
+    },
+    "user_mentions": []
+}

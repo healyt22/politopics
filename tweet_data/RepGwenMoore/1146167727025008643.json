@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jul 02 21:24:15 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [],
+    "id": 1146167727025008643,
+    "id_str": "1146167727025008643",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 02 15:44:28 +0000 2019",
+        "favorite_count": 1561,
+        "hashtags": [],
+        "id": 1146082219519348736,
+        "id_str": "1146082219519348736",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/V6af4hvs1L",
+                "expanded_url": "https://twitter.com/CNNPolitics/status/1146082219519348736/photo/1",
+                "id": 1146082217585721344,
+                "media_url": "http://pbs.twimg.com/media/D-eztGaWwAAscDC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-eztGaWwAAscDC.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1100,
+                        "h": 619,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1100,
+                        "h": 619,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/V6af4hvs1L"
+            }
+        ],
+        "retweet_count": 361,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "JUST IN: House Democrats file lawsuit to obtain Trump's tax returns https://t.co/2a9r6TXJCy https://t.co/V6af4hvs1L",
+        "urls": [
+            {
+                "expanded_url": "https://cnn.it/2NHB0zV",
+                "url": "https://t.co/2a9r6TXJCy"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 23 03:12:49 +0000 2008",
+            "description": "Political news, campaign stories and Washington coverage from CNN's political team.",
+            "favourites_count": 12,
+            "followers_count": 2874761,
+            "friends_count": 342,
+            "id": 13850422,
+            "id_str": "13850422",
+            "listed_count": 16012,
+            "location": "Washington, D.C.",
+            "name": "CNN Politics",
+            "profile_background_color": "100F14",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13850422/1503504077",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F1F5E7",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "CNNPolitics",
+            "statuses_count": 156701,
+            "url": "https://t.co/KWFMkrEjdY",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1146082219519348736,
+    "quoted_status_id_str": "1146082219519348736",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Since Trump has been elected, he has acted above the law, but he is not immune to congressional oversight. https://t.co/uIaVNsXDez",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/CNNPolitics/status/1146082219519348736",
+            "url": "https://t.co/uIaVNsXDez"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Mar 03 20:02:57 +0000 2009",
+        "description": "Honored to represent Wisconsin\u2019s 4th Congressional District. Proud mother, grandmother & great-grandmother. Loves poetry reading, knitting & crocheting.",
+        "favourites_count": 939,
+        "followers_count": 36914,
+        "friends_count": 2716,
+        "geo_enabled": true,
+        "id": 22669526,
+        "id_str": "22669526",
+        "listed_count": 1466,
+        "location": "Washington, DC",
+        "name": "Rep. Gwen Moore",
+        "profile_background_color": "223968",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22669526/1554391426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981240264747634688/v84wIURO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981240264747634688/v84wIURO_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "DC975E",
+        "profile_sidebar_fill_color": "DFAB58",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "screen_name": "RepGwenMoore",
+        "statuses_count": 7049,
+        "url": "https://t.co/ebeaMlYpu3",
+        "verified": true
+    },
+    "user_mentions": []
+}

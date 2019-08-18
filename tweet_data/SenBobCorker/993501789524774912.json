@@ -1,0 +1,164 @@
+{
+    "created_at": "Mon May 07 14:44:19 +0000 2018",
+    "favorite_count": 124,
+    "hashtags": [],
+    "id": 993501789524774912,
+    "id_str": "993501789524774912",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat May 05 16:35:10 +0000 2018",
+        "favorite_count": 232,
+        "hashtags": [],
+        "id": 992804909065089024,
+        "id_str": "992804909065089024",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tMcDekK1Pl",
+                "expanded_url": "https://twitter.com/newschannelnine/status/992804909065089024/video/1",
+                "id": 992804204598190081,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/992804204598190081/pu/img/BauR_HO0TMAqXaJP.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/992804204598190081/pu/img/BauR_HO0TMAqXaJP.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/tMcDekK1Pl",
+                "video_info": {
+                    "aspect_ratio": [
+                        4,
+                        3
+                    ],
+                    "duration_millis": 139685,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/992804204598190081/pu/pl/A6pl1jTsOpOg6Ry5.m3u8?tag=3"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/992804204598190081/pu/vid/960x720/EQ15kt2xVzN4OwUP.mp4?tag=3"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/992804204598190081/pu/vid/480x360/1vxQc0RU38GLwrMk.mp4?tag=3"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/992804204598190081/pu/vid/240x180/AoKFC4BsY2U0IXhA.mp4?tag=3"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 28,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "A message to our viewers from @alexgeorgeNC9. We are with you Alex. https://t.co/tMcDekK1Pl",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Aug 05 20:35:25 +0000 2008",
+            "description": "Keeping you more aware, more prepared & better informed in the Chattanooga area & beyond. Thank you for joining the discussion. We follow back.",
+            "favourites_count": 44499,
+            "followers_count": 115022,
+            "friends_count": 28186,
+            "geo_enabled": true,
+            "id": 15741370,
+            "id_str": "15741370",
+            "listed_count": 838,
+            "location": "Chattanooga, TN",
+            "name": "WTVC NewsChannel 9",
+            "profile_background_color": "7C131B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15741370/1563793007",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/712268646173777920/ChN0FsPt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/712268646173777920/ChN0FsPt_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "newschannelnine",
+            "statuses_count": 308063,
+            "url": "https://t.co/if40OCU3LX",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 869192036540350465,
+                "id_str": "869192036540350465",
+                "name": "Alex George",
+                "screen_name": "alexgeorgeNC9"
+            }
+        ]
+    },
+    "quoted_status_id": 992804909065089024,
+    "quoted_status_id_str": "992804909065089024",
+    "retweet_count": 24,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I think I speak for many in the Chattanooga area in saying we\u2019re with you, @alexgeorgeNC9! You and the entire\u2026 https://t.co/xUxsYcMLrk",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/993501789524774912",
+            "url": "https://t.co/xUxsYcMLrk"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Sep 11 03:56:08 +0000 2009",
+        "description": "Official news and updates from United States Senator Bob Corker (R-Tennessee) and his staff.",
+        "favourites_count": 124,
+        "followers_count": 397985,
+        "friends_count": 564,
+        "id": 73303753,
+        "id_str": "73303753",
+        "listed_count": 3882,
+        "location": "Tennessee",
+        "name": "Senator Bob Corker",
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73303753/1505929143",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/910557517343789057/Sh38oulI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/910557517343789057/Sh38oulI_normal.jpg",
+        "profile_link_color": "404040",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6C989",
+        "profile_text_color": "333333",
+        "screen_name": "SenBobCorker",
+        "statuses_count": 4270,
+        "url": "http://t.co/ZyiE2l8INn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 869192036540350465,
+            "id_str": "869192036540350465",
+            "name": "Alex George",
+            "screen_name": "alexgeorgeNC9"
+        }
+    ]
+}

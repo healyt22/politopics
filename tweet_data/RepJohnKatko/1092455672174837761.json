@@ -1,0 +1,140 @@
+{
+    "created_at": "Mon Feb 04 16:11:43 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1092455672174837761,
+    "id_str": "1092455672174837761",
+    "lang": "en",
+    "place": {
+        "id": "000f621a3a8a95d2",
+        "url": "https://api.twitter.com/1.1/geo/id/000f621a3a8a95d2.json",
+        "place_type": "city",
+        "name": "Cazenovia",
+        "full_name": "Cazenovia, NY",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -75.887528,
+                        42.908978
+                    ],
+                    [
+                        -75.836111,
+                        42.908978
+                    ],
+                    [
+                        -75.836111,
+                        42.979113
+                    ],
+                    [
+                        -75.887528,
+                        42.979113
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Mon Feb 04 16:09:24 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1092455087979544577,
+        "id_str": "1092455087979544577",
+        "lang": "en",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "This morning, @PSLAatFowler hosted a Naturalization Ceremony for 52 new citizens. Law enforcement students greeted\u2026 https://t.co/8iGND5xbll",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1092455087979544577",
+                "url": "https://t.co/8iGND5xbll"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 27 12:00:45 +0000 2010",
+            "description": "The Syracuse City School District serves more than 21,000 students & 3,500 staff in Syracuse, NY. Together, we're Building Our Future! #SCSDSuccess",
+            "favourites_count": 11663,
+            "followers_count": 4271,
+            "friends_count": 781,
+            "id": 148709032,
+            "id_str": "148709032",
+            "listed_count": 113,
+            "location": "Syracuse, NY",
+            "name": "Syracuse City School",
+            "profile_background_color": "89C9FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/148709032/1562164783",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/671313997522579456/QFnNCvHx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/671313997522579456/QFnNCvHx_normal.jpg",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SyracuseSchools",
+            "statuses_count": 21946
+        },
+        "user_mentions": [
+            {
+                "id": 1025412305792770048,
+                "id_str": "1025412305792770048",
+                "name": "PSLA at Fowler High School",
+                "screen_name": "PSLAatFowler"
+            }
+        ]
+    },
+    "quoted_status_id": 1092455087979544577,
+    "quoted_status_id_str": "1092455087979544577",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Honored to be at today\u2019s Naturalization Ceremony at @SyracuseSchools https://t.co/js1ZrAx2nC",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/SyracuseSchools/status/1092455087979544577",
+            "url": "https://t.co/js1ZrAx2nC"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 07 21:51:49 +0000 2015",
+        "default_profile": true,
+        "description": "Official Twitter account of Rep. John Katko. Proudly representing New York's 24th Congressional District.",
+        "favourites_count": 174,
+        "followers_count": 14675,
+        "friends_count": 238,
+        "geo_enabled": true,
+        "id": 2966765501,
+        "id_str": "2966765501",
+        "listed_count": 553,
+        "location": "Syracuse, New York",
+        "name": "John Katko",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966765501/1522697719",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/554696221269712897/C6aDs9sH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/554696221269712897/C6aDs9sH_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJohnKatko",
+        "statuses_count": 1000,
+        "url": "https://t.co/GLTSxMTZwp",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 148709032,
+            "id_str": "148709032",
+            "name": "Syracuse City School",
+            "screen_name": "SyracuseSchools"
+        }
+    ]
+}

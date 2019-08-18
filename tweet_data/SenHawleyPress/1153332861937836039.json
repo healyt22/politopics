@@ -1,0 +1,160 @@
+{
+    "created_at": "Mon Jul 22 15:55:56 +0000 2019",
+    "favorite_count": 22,
+    "hashtags": [],
+    "id": 1153332861937836039,
+    "id_str": "1153332861937836039",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jul 08 16:41:00 +0000 2019",
+        "favorite_count": 66,
+        "hashtags": [
+            {
+                "text": "NextRevFNC"
+            }
+        ],
+        "id": 1148270770826534912,
+        "id_str": "1148270770826534912",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/DEIsPcJ7xz",
+                "expanded_url": "https://twitter.com/NextRevFNC/status/1148270770826534912/video/1",
+                "id": 1148074786024820737,
+                "media_url": "http://pbs.twimg.com/media/D-7Il4qXkAAa9mi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-7Il4qXkAAa9mi.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/DEIsPcJ7xz",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 36570,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1148074786024820737/vid/1280x720/YOwN72J1ISWApDDV.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1148074786024820737/vid/480x270/3vCqNUaIFlqG6UxV.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1148074786024820737/vid/640x360/ICb3_u8HwIhF9G_W.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1148074786024820737/pl/6HFWrLR3W84jkAeG.m3u8?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 30,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "Senator @HawleyMO on how his proposed bill would protect sensitive research from foreign spying:\n\n#NextRevFNC https://t.co/DEIsPcJ7xz",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Apr 10 20:03:53 +0000 2017",
+            "default_profile": true,
+            "description": "The Next Revolution with Steve Hilton focuses on the impact of the populist movement, both in the United States and throughout the world. Instagram: @NextRevFNC",
+            "favourites_count": 558,
+            "followers_count": 33366,
+            "friends_count": 202,
+            "geo_enabled": true,
+            "id": 851526166100029442,
+            "id_str": "851526166100029442",
+            "listed_count": 204,
+            "location": "Los Angeles, CA",
+            "name": "The Next Revolution",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/851526166100029442/1499439721",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1139561116152020994/oj4bVZjv_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139561116152020994/oj4bVZjv_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NextRevFNC",
+            "statuses_count": 3331,
+            "url": "https://t.co/NKSexqASJ4",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2352629311,
+                "id_str": "2352629311",
+                "name": "Josh Hawley",
+                "screen_name": "HawleyMO"
+            }
+        ]
+    },
+    "quoted_status_id": 1148270770826534912,
+    "quoted_status_id_str": "1148270770826534912",
+    "retweet_count": 9,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Sen. Hawley intro'd a bill to prevent the exploitation of our higher ed system by China, Russia &amp; Iran. Simply stat\u2026 https://t.co/cCwhACKZJz",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153332861937836039",
+            "url": "https://t.co/cCwhACKZJz"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 22:55:42 +0000 2019",
+        "default_profile": true,
+        "description": "Tweets from the office of U.S. Senator Josh Hawley",
+        "favourites_count": 274,
+        "followers_count": 4484,
+        "friends_count": 762,
+        "geo_enabled": true,
+        "id": 1080960924687704064,
+        "id_str": "1080960924687704064",
+        "listed_count": 125,
+        "location": "Missouri",
+        "name": "Senator Hawley Press Office",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080960924687704064/1565014200",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenHawleyPress",
+        "statuses_count": 614,
+        "url": "https://t.co/P2uqbfyKpN",
+        "verified": true
+    },
+    "user_mentions": []
+}

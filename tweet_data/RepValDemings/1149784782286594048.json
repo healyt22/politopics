@@ -1,0 +1,123 @@
+{
+    "created_at": "Fri Jul 12 20:57:08 +0000 2019",
+    "favorite_count": 120,
+    "hashtags": [],
+    "id": 1149784782286594048,
+    "id_str": "1149784782286594048",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jul 12 17:02:03 +0000 2019",
+        "favorite_count": 1787,
+        "hashtags": [],
+        "id": 1149725619019608064,
+        "id_str": "1149725619019608064",
+        "in_reply_to_screen_name": "maddow",
+        "in_reply_to_status_id": 1149725224121749504,
+        "in_reply_to_user_id": 16129920,
+        "lang": "und",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fa479j7DI7",
+                "expanded_url": "https://twitter.com/maddow/status/1149725619019608064/photo/1",
+                "id": 1149725610463432706,
+                "media_url": "http://pbs.twimg.com/media/D_SlWejXkAI_ltn.png",
+                "media_url_https": "https://pbs.twimg.com/media/D_SlWejXkAI_ltn.png",
+                "sizes": {
+                    "small": {
+                        "w": 525,
+                        "h": 169,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 525,
+                        "h": 169,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 525,
+                        "h": 169,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/fa479j7DI7"
+            }
+        ],
+        "retweet_count": 1388,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "https://t.co/fa479j7DI7",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Sep 04 15:02:12 +0000 2008",
+            "description": "I see political people...\r\n(Retweets do not imply endorsement.)",
+            "favourites_count": 4,
+            "followers_count": 9650351,
+            "friends_count": 3301,
+            "id": 16129920,
+            "id_str": "16129920",
+            "listed_count": 48747,
+            "location": "New York, NY USA",
+            "name": "Rachel Maddow MSNBC",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/59437078/icon-200x200_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/59437078/icon-200x200_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "F3F3F3",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "maddow",
+            "statuses_count": 10425,
+            "url": "http://t.co/KtNvfeNDMl",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1149725619019608064,
+    "quoted_status_id_str": "1149725619019608064",
+    "retweet_count": 69,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "\"The baby had spent nearly half of his life without his parents, in the custody of the Trump Administration.\"\n\nEver\u2026 https://t.co/RNEMNGiZiz",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1149784782286594048",
+            "url": "https://t.co/RNEMNGiZiz"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 16 19:36:29 +0000 2016",
+        "description": "U.S. Representative Florida's 10th Congressional District. Public Servant. Former Orlando Police Chief. Christian. Wife. Mother. Grandmother. Harley Enthusiast.",
+        "favourites_count": 2288,
+        "followers_count": 19641,
+        "friends_count": 797,
+        "geo_enabled": true,
+        "id": 798973032362606600,
+        "id_str": "798973032362606600",
+        "listed_count": 554,
+        "location": "Washington, DC I Orlando, FL",
+        "name": "Rep. Val Demings",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/798973032362606600/1530553006",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013838545113485312/hWQSDnZp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013838545113485312/hWQSDnZp_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepValDemings",
+        "statuses_count": 4350,
+        "url": "https://t.co/9DRF1GBZ3J",
+        "verified": true
+    },
+    "user_mentions": []
+}

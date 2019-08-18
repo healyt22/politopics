@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jun 26 02:30:50 +0000 2019",
+    "favorite_count": 110,
+    "hashtags": [],
+    "id": 1143708165424521216,
+    "id_str": "1143708165424521216",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 26 01:58:50 +0000 2019",
+        "favorite_count": 81,
+        "hashtags": [],
+        "id": 1143700114243907584,
+        "id_str": "1143700114243907584",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/SHjN2cGxix",
+                "expanded_url": "https://twitter.com/PatCunnane/status/1143700114243907584/photo/1",
+                "id": 1143700110695530496,
+                "media_url": "http://pbs.twimg.com/media/D989MOuVAAAWiF_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D989MOuVAAAWiF_.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1125,
+                        "h": 601,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1125,
+                        "h": 601,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/SHjN2cGxix"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "It\u2019s almost like @RepDean isn\u2019t interested in my advice about what to ask Robert Mueller. https://t.co/SHjN2cGxix",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Jun 18 17:35:46 +0000 2009",
+            "default_profile": true,
+            "description": "Author: WEST WINGING IT. TV Writer: @ABCDesignated, @jefferiesshow. Bylines: @NewYorker, @WSJ, @POLITICOMag. Obama WH Alum. Like golf. Love Sinbad.",
+            "favourites_count": 19018,
+            "followers_count": 14790,
+            "friends_count": 505,
+            "id": 48424266,
+            "id_str": "48424266",
+            "listed_count": 177,
+            "location": "LA by way of Philly and DC",
+            "name": "Pat Cunnane",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/48424266/1519766726",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/941737410894770176/przjOxCX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/941737410894770176/przjOxCX_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "PatCunnane",
+            "statuses_count": 5867,
+            "url": "https://t.co/8ORRtHt9yr",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 567508925,
+                "id_str": "567508925",
+                "name": "Congresswoman Madeleine Dean",
+                "screen_name": "RepDean"
+            }
+        ]
+    },
+    "quoted_status_id": 1143700114243907584,
+    "quoted_status_id_str": "1143700114243907584",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201cAlmost...\u201d https://t.co/2cDoEpyvFL",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/PatCunnane/status/1143700114243907584",
+            "url": "https://t.co/2cDoEpyvFL"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Apr 30 20:07:23 +0000 2012",
+        "description": "Congresswoman serving Pennsylvania\u2019s Fourth District - Montgomery and Berks Counties | Committees: @FSCDems & @HouseJudiciary | \"Courage is in the air\"",
+        "favourites_count": 2470,
+        "followers_count": 19392,
+        "friends_count": 1086,
+        "id": 567508925,
+        "id_str": "567508925",
+        "listed_count": 402,
+        "location": "Montgomery County, PA",
+        "name": "Congresswoman Madeleine Dean",
+        "profile_background_color": "2E7EB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/567508925/1551313828",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105476316047069184/KLlpZ1xU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105476316047069184/KLlpZ1xU_normal.png",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDean",
+        "statuses_count": 2565,
+        "url": "https://t.co/NTrI907MCU",
+        "verified": true
+    },
+    "user_mentions": []
+}

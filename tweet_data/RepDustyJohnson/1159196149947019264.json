@@ -1,0 +1,116 @@
+{
+    "created_at": "Wed Aug 07 20:14:33 +0000 2019",
+    "hashtags": [],
+    "id": 1159196149947019264,
+    "id_str": "1159196149947019264",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Tue Aug 06 23:17:55 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1158879908556410880,
+        "id_str": "1158879908556410880",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "It was a pleasure to have @RepDustyJohnson visit @BerryGlobalInc in Sioux Falls this afternoon. A great conversatio\u2026 https://t.co/Wk15HvBvO3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1158879908556410880",
+                "url": "https://t.co/Wk15HvBvO3"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 01 19:00:28 +0000 2016",
+            "description": "An online community showcasing chemistry and engaging stakeholders across the U.S. If #ChemistryMatters to you, then your voice matters to us.",
+            "favourites_count": 1718,
+            "followers_count": 6553,
+            "friends_count": 1002,
+            "geo_enabled": true,
+            "id": 738082805826097152,
+            "id_str": "738082805826097152",
+            "listed_count": 49,
+            "location": "Washington, DC",
+            "name": "ChemistryMatters",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/738082805826097152/1551729396",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1090340936008241152/eDJtyBt7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090340936008241152/eDJtyBt7_normal.jpg",
+            "profile_link_color": "24366A",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AmChemMatters",
+            "statuses_count": 2299,
+            "url": "https://t.co/wjZFM4t9Av"
+        },
+        "user_mentions": [
+            {
+                "id": 1074782372594413569,
+                "id_str": "1074782372594413569",
+                "name": "Rep. Dusty Johnson",
+                "screen_name": "RepDustyJohnson"
+            },
+            {
+                "id": 98453515,
+                "id_str": "98453515",
+                "name": "Berry Global",
+                "screen_name": "BerryGlobalInc"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @AmChemMatters: It was a pleasure to have @RepDustyJohnson visit @BerryGlobalInc in Sioux Falls this afternoon. A great conversation on\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Dec 17 21:44:20 +0000 2018",
+        "description": "South Dakota's lone U.S. Representative - husband, father, & proud South Dakotan.",
+        "favourites_count": 97,
+        "followers_count": 3212,
+        "friends_count": 125,
+        "geo_enabled": true,
+        "id": 1074782372594413569,
+        "id_str": "1074782372594413569",
+        "listed_count": 111,
+        "location": "Mitchell, SD",
+        "name": "Rep. Dusty Johnson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074782372594413569/1547143930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDustyJohnson",
+        "statuses_count": 392,
+        "url": "https://t.co/O0W5qo3H9S",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 738082805826097152,
+            "id_str": "738082805826097152",
+            "name": "ChemistryMatters",
+            "screen_name": "AmChemMatters"
+        },
+        {
+            "id": 1074782372594413569,
+            "id_str": "1074782372594413569",
+            "name": "Rep. Dusty Johnson",
+            "screen_name": "RepDustyJohnson"
+        },
+        {
+            "id": 98453515,
+            "id_str": "98453515",
+            "name": "Berry Global",
+            "screen_name": "BerryGlobalInc"
+        }
+    ]
+}

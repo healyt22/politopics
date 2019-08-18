@@ -1,0 +1,87 @@
+{
+    "created_at": "Sat Mar 02 22:54:01 +0000 2019",
+    "favorite_count": 40,
+    "hashtags": [],
+    "id": 1101978999096569857,
+    "id_str": "1101978999096569857",
+    "lang": "en",
+    "place": {
+        "id": "d6819fe60643ebc1",
+        "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+        "place_type": "city",
+        "name": "Alexandria",
+        "full_name": "Alexandria, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.144435,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.8448531
+                    ],
+                    [
+                        -77.144435,
+                        38.8448531
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 8,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "With friends from the @nvdems Central Committee. Thanks to all the volunteers who are keeping activists engaged bet\u2026 https://t.co/JTuEMosYgi",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1101978999096569857",
+            "url": "https://t.co/JTuEMosYgi"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Dec 05 20:49:41 +0000 2008",
+        "description": "Representative of Nevada's First District. Tweeting politics, culture & #OnlyInDistrict1.",
+        "favourites_count": 7505,
+        "followers_count": 9040,
+        "friends_count": 1257,
+        "geo_enabled": true,
+        "id": 17907578,
+        "id_str": "17907578",
+        "listed_count": 389,
+        "location": "Fabulous Las Vegas, Nevada",
+        "name": "Dina Titus",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17907578/1485036291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "dinatitus",
+        "statuses_count": 7050,
+        "url": "https://t.co/nJxR59HXbP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 72717049,
+            "id_str": "72717049",
+            "name": "NV Dems",
+            "screen_name": "nvdems"
+        }
+    ]
+}

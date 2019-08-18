@@ -1,0 +1,189 @@
+{
+    "created_at": "Wed Jun 19 21:33:14 +0000 2019",
+    "hashtags": [],
+    "id": 1141458944189243392,
+    "id_str": "1141458944189243392",
+    "lang": "en",
+    "quoted_status_id": 1141448936823169027,
+    "quoted_status_id_str": "1141448936823169027",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Wed Jun 19 21:32:49 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [],
+        "id": 1141458839943962624,
+        "id_str": "1141458839943962624",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Wed Jun 19 20:53:28 +0000 2019",
+            "favorite_count": 869,
+            "hashtags": [],
+            "id": 1141448936823169027,
+            "id_str": "1141448936823169027",
+            "lang": "en",
+            "place": {
+                "id": "01fbe706f872cb32",
+                "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+                "place_type": "city",
+                "name": "Washington",
+                "full_name": "Washington, DC",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -77.119401,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.9953797
+                            ],
+                            [
+                                -77.119401,
+                                38.9953797
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 325,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "My official statement on @HouseDemocrats\u2019 commitment to bringing @realDonaldTrump\u2019s border supplemental to the floo\u2026 https://t.co/QwpXMNooxS",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1141448936823169027",
+                    "url": "https://t.co/QwpXMNooxS"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+                "default_profile": true,
+                "description": "Proudly representing the people of the 21st Congressional District of Texas.",
+                "favourites_count": 300,
+                "followers_count": 18341,
+                "friends_count": 38,
+                "geo_enabled": true,
+                "id": 1082790600292925440,
+                "id_str": "1082790600292925440",
+                "listed_count": 221,
+                "location": "Washington, DC",
+                "name": "Rep. Chip Roy",
+                "profile_background_color": "F5F8FA",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1547050497",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "RepChipRoy",
+                "statuses_count": 1102,
+                "url": "https://t.co/HpJaJuKlOT",
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 43963249,
+                    "id_str": "43963249",
+                    "name": "House Democrats",
+                    "screen_name": "HouseDemocrats"
+                },
+                {
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "name": "Donald J. Trump",
+                    "screen_name": "realDonaldTrump"
+                }
+            ]
+        },
+        "quoted_status_id": 1141448936823169027,
+        "quoted_status_id_str": "1141448936823169027",
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Chip Roy says he will temporarily stop requesting votes on the appropriations amendments because the House is prepa\u2026 https://t.co/x9NpdpR5j5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141458839943962624",
+                "url": "https://t.co/x9NpdpR5j5"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 16 05:32:52 +0000 2014",
+            "description": "Getting lost on Capitol Hill for @nytimes | Forever @UF and Miami | Tips / panda pics / Broadway takes to emily.cochrane@nytimes.com I",
+            "favourites_count": 18158,
+            "followers_count": 9967,
+            "friends_count": 2113,
+            "geo_enabled": true,
+            "id": 2293900364,
+            "id_str": "2293900364",
+            "listed_count": 214,
+            "location": "Washington, DC via Miami",
+            "name": "Emily Cochrane",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293900364/1534990074",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1110335907608121345/_UfmiL4E_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110335907608121345/_UfmiL4E_normal.jpg",
+            "profile_link_color": "76AFC4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "ESCochrane",
+            "statuses_count": 16714,
+            "url": "https://t.co/ymaLKwBAva",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @ESCochrane: Chip Roy says he will temporarily stop requesting votes on the appropriations amendments because the House is preparing to\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly representing the people of the 21st Congressional District of Texas.",
+        "favourites_count": 300,
+        "followers_count": 18341,
+        "friends_count": 38,
+        "geo_enabled": true,
+        "id": 1082790600292925440,
+        "id_str": "1082790600292925440",
+        "listed_count": 221,
+        "location": "Washington, DC",
+        "name": "Rep. Chip Roy",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1547050497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChipRoy",
+        "statuses_count": 1102,
+        "url": "https://t.co/HpJaJuKlOT",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2293900364,
+            "id_str": "2293900364",
+            "name": "Emily Cochrane",
+            "screen_name": "ESCochrane"
+        }
+    ]
+}

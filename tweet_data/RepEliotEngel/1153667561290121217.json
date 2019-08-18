@@ -1,0 +1,131 @@
+{
+    "created_at": "Tue Jul 23 14:05:55 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [
+        {
+            "text": "Trump"
+        }
+    ],
+    "id": 1153667561290121217,
+    "id_str": "1153667561290121217",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 23 10:20:08 +0000 2019",
+        "favorite_count": 44,
+        "hashtags": [],
+        "id": 1153610739946573826,
+        "id_str": "1153610739946573826",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tT7AaSPabR",
+                "expanded_url": "https://twitter.com/CNNPolitics/status/1153610739946573826/photo/1",
+                "id": 1153610738319204352,
+                "media_url": "http://pbs.twimg.com/media/EAJy2rqXoAAIXSs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAJy2rqXoAAIXSs.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1100,
+                        "h": 619,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1100,
+                        "h": 619,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/tT7AaSPabR"
+            }
+        ],
+        "retweet_count": 44,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "A Trump administration proposal could kick 3 million people off of food stamps https://t.co/uE7gu4LCuN https://t.co/tT7AaSPabR",
+        "urls": [
+            {
+                "expanded_url": "https://cnn.it/32N2veu",
+                "url": "https://t.co/uE7gu4LCuN"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 23 03:12:49 +0000 2008",
+            "description": "Political news, campaign stories and Washington coverage from CNN's political team.",
+            "favourites_count": 12,
+            "followers_count": 2874761,
+            "friends_count": 342,
+            "id": 13850422,
+            "id_str": "13850422",
+            "listed_count": 16012,
+            "location": "Washington, D.C.",
+            "name": "CNN Politics",
+            "profile_background_color": "100F14",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13850422/1503504077",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F1F5E7",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "CNNPolitics",
+            "statuses_count": 156701,
+            "url": "https://t.co/KWFMkrEjdY",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1153610739946573826,
+    "quoted_status_id_str": "1153610739946573826",
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "More proof that the #Trump Admin. cruelty extends well beyond their horrific treatment of asylum-seekers. \n\nThere a\u2026 https://t.co/0A9qpxBhsD",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153667561290121217",
+            "url": "https://t.co/0A9qpxBhsD"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jul 07 20:34:17 +0000 2010",
+        "description": "Congressman representing parts of the Bronx and Westchester Counties in New York #NY16. Chair, @HouseForeign.",
+        "favourites_count": 217,
+        "followers_count": 35801,
+        "friends_count": 969,
+        "geo_enabled": true,
+        "id": 164007407,
+        "id_str": "164007407",
+        "listed_count": 1229,
+        "name": "Eliot Engel",
+        "profile_background_color": "EBE6CE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164007407/1517494271",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/523095197983309825/3TdNyI76_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/523095197983309825/3TdNyI76_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepEliotEngel",
+        "statuses_count": 4802,
+        "url": "http://t.co/BVwX9Ov3sA",
+        "verified": true
+    },
+    "user_mentions": []
+}

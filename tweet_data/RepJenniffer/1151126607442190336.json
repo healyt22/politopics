@@ -1,0 +1,86 @@
+{
+    "created_at": "Tue Jul 16 13:49:04 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1151126607442190336,
+    "id_str": "1151126607442190336",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/z6CY5k2QgU",
+            "expanded_url": "https://twitter.com/RepJenniffer/status/1151126607442190336/photo/1",
+            "id": 1151126595786199040,
+            "media_url": "http://pbs.twimg.com/media/D_mfijlXUAAx3D5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_mfijlXUAAx3D5.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/z6CY5k2QgU"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Tune in  to @Telemundo and watch me on @UnNuevoDia https://t.co/z6CY5k2QgU",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 13 03:15:56 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing the 3.2 million U.S. citizens of Puerto Rico in Congress. Member of @NatResources, @TransportGOP, @housesciencegop and @HouseGOP.",
+        "favourites_count": 1880,
+        "followers_count": 15696,
+        "friends_count": 659,
+        "geo_enabled": true,
+        "id": 819744763020775425,
+        "id_str": "819744763020775425",
+        "listed_count": 234,
+        "location": "Washington, DC and Puerto Rico",
+        "name": "Jenniffer Gonz\u00e1lez",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/819744763020775425/1546964138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/826526731636973568/EZ74mtcJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/826526731636973568/EZ74mtcJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJenniffer",
+        "statuses_count": 5221,
+        "url": "https://t.co/Q6xGtqpo7F",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22952132,
+            "id_str": "22952132",
+            "name": "Telemundo",
+            "screen_name": "Telemundo"
+        },
+        {
+            "id": 41820310,
+            "id_str": "41820310",
+            "name": "Un Nuevo D\u00eda",
+            "screen_name": "UnNuevoDia"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Nov 29 22:06:22 +0000 2018",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1068264934180573187,
+    "id_str": "1068264934180573187",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Nov 29 15:51:46 +0000 2018",
+        "favorite_count": 150,
+        "hashtags": [],
+        "id": 1068170663788187648,
+        "id_str": "1068170663788187648",
+        "lang": "en",
+        "retweet_count": 36,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "E-commerce retailer @Wayfair will create 1,000 jobs in a new facility in Savannah. GA's top-ranked business climate\u2026 https://t.co/RWyjIjgvMC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1068170663788187648",
+                "url": "https://t.co/RWyjIjgvMC"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 19 13:36:16 +0000 2010",
+            "description": "Nathan Deal served as the 82nd Governor of Georgia.",
+            "favourites_count": 239,
+            "followers_count": 150696,
+            "friends_count": 312,
+            "geo_enabled": true,
+            "id": 217416964,
+            "id_str": "217416964",
+            "listed_count": 922,
+            "name": "Former Gov. Nathan Deal",
+            "profile_background_color": "091847",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/217416964/1489074996",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/829789168633049092/CL_B_uqQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/829789168633049092/CL_B_uqQ_normal.jpg",
+            "profile_link_color": "384D75",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GovernorDeal",
+            "statuses_count": 3136,
+            "url": "https://t.co/877RzfdHxq",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 16101626,
+                "id_str": "16101626",
+                "name": "Wayfair.com",
+                "screen_name": "Wayfair"
+            }
+        ]
+    },
+    "quoted_status_id": 1068170663788187648,
+    "quoted_status_id_str": "1068170663788187648",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great news! I'm excited that @Wayfair will build a facility in Savannah that will create 1,000 jobs. Thanks\u2026 https://t.co/KFeiiXZlFv",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1068264934180573187",
+            "url": "https://t.co/KFeiiXZlFv"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 12 00:33:43 +0000 2015",
+        "default_profile": true,
+        "description": "Proudly serving Georgia's 1st Congressional District",
+        "favourites_count": 115,
+        "followers_count": 19559,
+        "friends_count": 284,
+        "geo_enabled": true,
+        "id": 2973870195,
+        "id_str": "2973870195",
+        "listed_count": 468,
+        "name": "Buddy Carter",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2973870195/1506088879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/554437784912400384/N6PPUUz2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/554437784912400384/N6PPUUz2_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBuddyCarter",
+        "statuses_count": 1846,
+        "url": "https://t.co/zGq0mX8dEy",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16101626,
+            "id_str": "16101626",
+            "name": "Wayfair.com",
+            "screen_name": "Wayfair"
+        }
+    ]
+}

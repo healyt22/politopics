@@ -1,0 +1,139 @@
+{
+    "created_at": "Fri Jun 07 12:12:15 +0000 2019",
+    "hashtags": [],
+    "id": 1136969113253875717,
+    "id_str": "1136969113253875717",
+    "lang": "en",
+    "retweet_count": 13,
+    "retweeted_status": {
+        "created_at": "Thu Jun 06 23:32:05 +0000 2019",
+        "favorite_count": 70,
+        "hashtags": [],
+        "id": 1136777813917347845,
+        "id_str": "1136777813917347845",
+        "lang": "en",
+        "place": {
+            "id": "d970e7fd69eaf4ec",
+            "url": "https://api.twitter.com/1.1/geo/id/d970e7fd69eaf4ec.json",
+            "place_type": "city",
+            "name": "Melbourne",
+            "full_name": "Melbourne, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.7060737,
+                            28.03509
+                        ],
+                        [
+                            -80.5933237,
+                            28.03509
+                        ],
+                        [
+                            -80.5933237,
+                            28.200658
+                        ],
+                        [
+                            -80.7060737,
+                            28.200658
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 13,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Orlando\u2019s members of Congress will propose a bill to make Pulse a national memorial site. Thank you @RepStephMurphy\u2026 https://t.co/dp7Rf803PH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1136777813917347845",
+                "url": "https://t.co/dp7Rf803PH"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 31 16:01:36 +0000 2009",
+            "description": "Pulse Nightclub survivor | Activist | he/him/his | @equalityfl Media Relations | @thedruproject VP | as seen on @MSNBC  contactbrandonwolf@gmail.com",
+            "favourites_count": 26436,
+            "followers_count": 17619,
+            "friends_count": 381,
+            "geo_enabled": true,
+            "id": 70426799,
+            "id_str": "70426799",
+            "listed_count": 145,
+            "location": "Orlando, FL",
+            "name": "Brandon Wolf",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70426799/1545054234",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1135117968785006593/yk15Zsm9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135117968785006593/yk15Zsm9_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "bjoewolf",
+            "statuses_count": 25937,
+            "url": "https://t.co/loRgsZK2XZ"
+        },
+        "user_mentions": [
+            {
+                "id": 796183515998068736,
+                "id_str": "796183515998068736",
+                "name": "Rep. Stephanie Murphy",
+                "screen_name": "RepStephMurphy"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @bjoewolf: Orlando\u2019s members of Congress will propose a bill to make Pulse a national memorial site. Thank you @RepStephMurphy @RepDarre\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing Central Florida's 9th District: Osceola County and parts of Orange and Polk counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7\n\nOfficial Account",
+        "favourites_count": 4487,
+        "followers_count": 10261,
+        "friends_count": 3427,
+        "geo_enabled": true,
+        "id": 818713465653051392,
+        "id_str": "818713465653051392",
+        "listed_count": 435,
+        "location": "Kissimmee, Florida",
+        "name": "US Rep. Darren Soto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDarrenSoto",
+        "statuses_count": 3150,
+        "url": "https://t.co/3Iswy0Rzuf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 70426799,
+            "id_str": "70426799",
+            "name": "Brandon Wolf",
+            "screen_name": "bjoewolf"
+        },
+        {
+            "id": 796183515998068736,
+            "id_str": "796183515998068736",
+            "name": "Rep. Stephanie Murphy",
+            "screen_name": "RepStephMurphy"
+        }
+    ]
+}

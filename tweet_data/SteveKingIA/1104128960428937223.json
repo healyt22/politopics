@@ -1,0 +1,149 @@
+{
+    "created_at": "Fri Mar 08 21:17:12 +0000 2019",
+    "hashtags": [],
+    "id": 1104128960428937223,
+    "id_str": "1104128960428937223",
+    "lang": "en",
+    "retweet_count": 44,
+    "retweeted_status": {
+        "created_at": "Fri Mar 08 16:24:59 +0000 2019",
+        "favorite_count": 92,
+        "hashtags": [],
+        "id": 1104055421084536832,
+        "id_str": "1104055421084536832",
+        "lang": "en",
+        "place": {
+            "id": "1c67f9d9cbae7f69",
+            "url": "https://api.twitter.com/1.1/geo/id/1c67f9d9cbae7f69.json",
+            "place_type": "city",
+            "name": "Des Moines",
+            "full_name": "Des Moines, IA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.709504,
+                            41.501409
+                        ],
+                        [
+                            -93.503235,
+                            41.501409
+                        ],
+                        [
+                            -93.503235,
+                            41.6514656
+                        ],
+                        [
+                            -93.709504,
+                            41.6514656
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 44,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "John Kennedy, a spokesman for Congressman @SteveKingIA, issues statement to @RadioIowa regarding King\u2019s \u201cpresent\u201d v\u2026 https://t.co/GPcMUAqjDC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1104055421084536832",
+                "url": "https://t.co/GPcMUAqjDC"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 22 18:08:45 +0000 2011",
+            "description": "News Director of Radio Iowa, a radio news network with headquarters in Des Moines, IA. With the network from Day One (1987). Covering politics forever.",
+            "favourites_count": 577,
+            "followers_count": 8703,
+            "friends_count": 324,
+            "geo_enabled": true,
+            "id": 322143316,
+            "id_str": "322143316",
+            "listed_count": 417,
+            "location": "Des Moines, Iowa",
+            "name": "O. Kay Henderson",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408216501/OKaytwittericon_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408216501/OKaytwittericon_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "okayhenderson",
+            "statuses_count": 9800,
+            "url": "http://t.co/0lleBnf8wL"
+        },
+        "user_mentions": [
+            {
+                "id": 48117116,
+                "id_str": "48117116",
+                "name": "Steve King",
+                "screen_name": "SteveKingIA"
+            },
+            {
+                "id": 14016182,
+                "id_str": "14016182",
+                "name": "RadioIowa",
+                "screen_name": "RadioIowa"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @okayhenderson: John Kennedy, a spokesman for Congressman @SteveKingIA, issues statement to @RadioIowa regarding King\u2019s \u201cpresent\u201d vote o\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 17 21:09:41 +0000 2009",
+        "description": "U.S. Congress, 4th Congressional District of Iowa #IA04",
+        "favourites_count": 68,
+        "followers_count": 118052,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 48117116,
+        "id_str": "48117116",
+        "listed_count": 2780,
+        "location": "Washington, DC",
+        "name": "Steve King",
+        "profile_background_color": "061025",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+        "profile_link_color": "061025",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D1AF59",
+        "profile_text_color": "061025",
+        "profile_use_background_image": true,
+        "screen_name": "SteveKingIA",
+        "statuses_count": 2797,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 322143316,
+            "id_str": "322143316",
+            "name": "O. Kay Henderson",
+            "screen_name": "okayhenderson"
+        },
+        {
+            "id": 48117116,
+            "id_str": "48117116",
+            "name": "Steve King",
+            "screen_name": "SteveKingIA"
+        },
+        {
+            "id": 14016182,
+            "id_str": "14016182",
+            "name": "RadioIowa",
+            "screen_name": "RadioIowa"
+        }
+    ]
+}

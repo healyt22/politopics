@@ -1,0 +1,100 @@
+{
+    "created_at": "Tue Jun 18 15:33:41 +0000 2019",
+    "favorite_count": 513,
+    "hashtags": [
+        {
+            "text": "LegislativeGraveyard"
+        }
+    ],
+    "id": 1141006072297283591,
+    "id_str": "1141006072297283591",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/1e0uifIGDx",
+            "expanded_url": "https://twitter.com/MarkWarner/status/1141006072297283591/video/1",
+            "id": 1141005066444398592,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141005066444398592/pu/img/eVSprL8NcKZJjNMC.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141005066444398592/pu/img/eVSprL8NcKZJjNMC.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/1e0uifIGDx",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 47448,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1141005066444398592/pu/vid/480x270/zQxZVWszu3Z6BYQQ.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1141005066444398592/pu/vid/640x360/k_dJLk_2ggqmRH7g.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1141005066444398592/pu/pl/-Y9NqUYLT6ybFMo6.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 222,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "We can\u2019t let election security become another tombstone in the Senate GOP #LegislativeGraveyard https://t.co/1e0uifIGDx",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 12 14:03:33 +0000 2007",
+        "description": "Serving Virginia in the US Senate. Vice Chairman, Intel Committee. Dad, Husband, Budget Wonk. Previous: Serial entrepreneur, business guy, 69th Governor of Va",
+        "favourites_count": 1772,
+        "followers_count": 448254,
+        "friends_count": 23822,
+        "id": 7429102,
+        "id_str": "7429102",
+        "listed_count": 4885,
+        "location": "Virginia",
+        "name": "Mark Warner",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7429102/1473719645",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/944243549922582528/DyFwGriJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/944243549922582528/DyFwGriJ_normal.jpg",
+        "profile_link_color": "28486F",
+        "profile_sidebar_border_color": "28486F",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "MarkWarner",
+        "statuses_count": 8953,
+        "url": "https://t.co/sIM9jRW0rP",
+        "verified": true
+    },
+    "user_mentions": []
+}

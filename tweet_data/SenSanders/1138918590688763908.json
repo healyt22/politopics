@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jun 12 21:18:46 +0000 2019",
+    "favorite_count": 3518,
+    "hashtags": [],
+    "id": 1138918590688763908,
+    "id_str": "1138918590688763908",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 12 19:30:44 +0000 2019",
+        "favorite_count": 4439,
+        "hashtags": [
+            {
+                "text": "Pulse"
+            },
+            {
+                "text": "HonorThemWithAction"
+            }
+        ],
+        "id": 1138891400349736961,
+        "id_str": "1138891400349736961",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KlA570lJ5L",
+                "expanded_url": "https://twitter.com/AMarch4OurLives/status/1138891400349736961/photo/1",
+                "id": 1138891390925123592,
+                "media_url": "http://pbs.twimg.com/media/D84nr5nXsAgVwLF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D84nr5nXsAgVwLF.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/KlA570lJ5L"
+            }
+        ],
+        "retweet_count": 1564,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We will not let hate win. #Pulse #HonorThemWithAction https://t.co/KlA570lJ5L",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Feb 18 00:10:48 +0000 2018",
+            "description": "Let\u2019s create a safer America. Text CHANGE to 954-954 to join the movement.",
+            "favourites_count": 3514,
+            "followers_count": 453117,
+            "friends_count": 427,
+            "geo_enabled": true,
+            "id": 965015705123930114,
+            "id_str": "965015705123930114",
+            "listed_count": 1579,
+            "name": "March For Our Lives",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/965015705123930114/1550504721",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1146818907338137600/sVN7Lrib_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146818907338137600/sVN7Lrib_normal.jpg",
+            "profile_link_color": "03478B",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AMarch4OurLives",
+            "statuses_count": 2900,
+            "url": "https://t.co/G7BxWrflHz",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138891400349736961,
+    "quoted_status_id_str": "1138891400349736961",
+    "retweet_count": 776,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Three years ago, 49 people lost their lives in the Pulse nightclub shooting. It is absurd that we have not passed c\u2026 https://t.co/bvWiJGX7MF",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138918590688763908",
+            "url": "https://t.co/bvWiJGX7MF"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Apr 07 13:02:35 +0000 2009",
+        "description": "U.S. Senator Bernie Sanders of Vermont is the longest-serving independent in congressional history.",
+        "favourites_count": 162,
+        "followers_count": 8457182,
+        "friends_count": 2150,
+        "geo_enabled": true,
+        "id": 29442313,
+        "id_str": "29442313",
+        "listed_count": 27056,
+        "location": "Vermont/DC",
+        "name": "Bernie Sanders",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29442313/1430854323",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+        "profile_link_color": "03102D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6CCB6",
+        "profile_text_color": "304562",
+        "profile_use_background_image": true,
+        "screen_name": "SenSanders",
+        "statuses_count": 20408,
+        "url": "http://t.co/8AS4FI1oge",
+        "verified": true
+    },
+    "user_mentions": []
+}

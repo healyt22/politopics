@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Aug 13 18:35:17 +0000 2019",
+    "hashtags": [
+        {
+            "text": "BREAKING"
+        }
+    ],
+    "id": 1161345495492698112,
+    "id_str": "1161345495492698112",
+    "lang": "en",
+    "retweet_count": 63,
+    "retweeted_status": {
+        "created_at": "Tue Aug 13 18:23:57 +0000 2019",
+        "favorite_count": 80,
+        "hashtags": [
+            {
+                "text": "BREAKING"
+            }
+        ],
+        "id": 1161342644875911169,
+        "id_str": "1161342644875911169",
+        "lang": "en",
+        "retweet_count": 63,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "#BREAKING: Chairman @RepEliotEngel announced a new policy to @HouseForeign\u2019s majority staff aimed at reminding fore\u2026 https://t.co/Qeyjmrkq6w",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161342644875911169",
+                "url": "https://t.co/Qeyjmrkq6w"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 29 14:28:03 +0000 2009",
+            "description": "House committee responsible for foreign policy legislation and oversight | @RepEliotEngel, Chairman | #HFAC",
+            "favourites_count": 154,
+            "followers_count": 45640,
+            "friends_count": 121,
+            "geo_enabled": true,
+            "id": 61206798,
+            "id_str": "61206798",
+            "listed_count": 1361,
+            "location": "Washington, DC",
+            "name": "House Foreign Affairs Committee",
+            "profile_background_color": "2C373D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/61206798/1538502283",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1054379870493573121/vM6Slb6a_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054379870493573121/vM6Slb6a_normal.jpg",
+            "profile_link_color": "111D52",
+            "profile_sidebar_border_color": "0F305E",
+            "profile_sidebar_fill_color": "418FB0",
+            "profile_text_color": "010608",
+            "profile_use_background_image": true,
+            "screen_name": "HouseForeign",
+            "statuses_count": 9837,
+            "url": "https://t.co/ECPx7iSNMX",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 164007407,
+                "id_str": "164007407",
+                "name": "Eliot Engel",
+                "screen_name": "RepEliotEngel"
+            },
+            {
+                "id": 61206798,
+                "id_str": "61206798",
+                "name": "House Foreign Affairs Committee",
+                "screen_name": "HouseForeign"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @HouseForeign: #BREAKING: Chairman @RepEliotEngel announced a new policy to @HouseForeign\u2019s majority staff aimed at reminding foreign go\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jul 07 20:34:17 +0000 2010",
+        "description": "Congressman representing parts of the Bronx and Westchester Counties in New York #NY16. Chair, @HouseForeign.",
+        "favourites_count": 217,
+        "followers_count": 35801,
+        "friends_count": 969,
+        "geo_enabled": true,
+        "id": 164007407,
+        "id_str": "164007407",
+        "listed_count": 1229,
+        "name": "Eliot Engel",
+        "profile_background_color": "EBE6CE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164007407/1517494271",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/523095197983309825/3TdNyI76_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/523095197983309825/3TdNyI76_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepEliotEngel",
+        "statuses_count": 4802,
+        "url": "http://t.co/BVwX9Ov3sA",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 61206798,
+            "id_str": "61206798",
+            "name": "House Foreign Affairs Committee",
+            "screen_name": "HouseForeign"
+        },
+        {
+            "id": 164007407,
+            "id_str": "164007407",
+            "name": "Eliot Engel",
+            "screen_name": "RepEliotEngel"
+        },
+        {
+            "id": 61206798,
+            "id_str": "61206798",
+            "name": "House Foreign Affairs Committee",
+            "screen_name": "HouseForeign"
+        }
+    ]
+}

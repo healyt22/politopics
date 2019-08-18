@@ -1,0 +1,84 @@
+{
+    "created_at": "Tue Jan 29 19:29:23 +0000 2019",
+    "favorite_count": 33,
+    "hashtags": [
+        {
+            "text": "HR1"
+        }
+    ],
+    "id": 1090331089078550530,
+    "id_str": "1090331089078550530",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Voitw4UPcB",
+            "expanded_url": "https://twitter.com/RepRichmond/status/1090331089078550530/photo/1",
+            "id": 1090331079628619776,
+            "media_url": "http://pbs.twimg.com/media/DyGiVxDVAAA328_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DyGiVxDVAAA328_.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Voitw4UPcB"
+        }
+    ],
+    "retweet_count": 14,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Earlier today, the @HouseJudiciary held its first hearing on #HR1. https://t.co/Voitw4UPcB",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 17 17:30:45 +0000 2011",
+        "description": "Representing the 2nd Congressional District of Louisiana and the Who Dat Nation. House Democratic Assistant to the Majority Whip. Instagram: @repcedric",
+        "favourites_count": 788,
+        "followers_count": 29399,
+        "friends_count": 873,
+        "id": 267854863,
+        "id_str": "267854863",
+        "listed_count": 1024,
+        "name": "Rep Cedric Richmond",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267854863/1467299086",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839888450597834752/5-yqcIpy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839888450597834752/5-yqcIpy_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRichmond",
+        "statuses_count": 2517,
+        "url": "https://t.co/pacN0v0wSJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 246357149,
+            "id_str": "246357149",
+            "name": "House Judiciary Dems",
+            "screen_name": "HouseJudiciary"
+        }
+    ]
+}

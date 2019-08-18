@@ -1,0 +1,118 @@
+{
+    "created_at": "Mon Mar 25 21:24:45 +0000 2019",
+    "hashtags": [],
+    "id": 1110291454205800453,
+    "id_str": "1110291454205800453",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Mon Mar 25 21:07:39 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1110287151269330944,
+        "id_str": "1110287151269330944",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Ranking Members @PatrickMcHenry &amp; @RepBlaine: We owe it to our constituents and to the public to fully understand t\u2026 https://t.co/wRCWadUa6u",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1110287151269330944",
+                "url": "https://t.co/wRCWadUa6u"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 27 17:00:31 +0000 2009",
+            "description": "U.S. House Committee on Financial Services Republicans \u2013 Ranking Member @PatrickMcHenry",
+            "favourites_count": 1746,
+            "followers_count": 24156,
+            "friends_count": 3172,
+            "geo_enabled": true,
+            "id": 42924141,
+            "id_str": "42924141",
+            "listed_count": 971,
+            "location": "Washington, D.C.",
+            "name": "Financial Services GOP",
+            "profile_background_color": "215B80",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/42924141/1546618381",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1150826340012240898/rzk_pfE9_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150826340012240898/rzk_pfE9_normal.png",
+            "profile_link_color": "E23B30",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FinancialCmte",
+            "statuses_count": 10294,
+            "url": "https://t.co/EKkSEK5LqC",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 27676828,
+                "id_str": "27676828",
+                "name": "Patrick McHenry",
+                "screen_name": "PatrickMcHenry"
+            },
+            {
+                "id": 1849261916,
+                "id_str": "1849261916",
+                "name": "Blaine Luetkemeyer",
+                "screen_name": "RepBlaine"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @FinancialCmte: Ranking Members @PatrickMcHenry &amp; @RepBlaine: We owe it to our constituents and to the public to fully understand the im\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Sep 09 19:53:08 +0000 2013",
+        "description": "Proudly serving Missouri's 3rd Congressional District. House @FinancialCmte and @HouseSmallBiz Commitee member.",
+        "favourites_count": 526,
+        "followers_count": 12726,
+        "friends_count": 264,
+        "id": 1849261916,
+        "id_str": "1849261916",
+        "listed_count": 513,
+        "location": "Missouri's 3rd District",
+        "name": "Blaine Luetkemeyer",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849261916/1527884082",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002634185511788545/rl0XOJyQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002634185511788545/rl0XOJyQ_normal.jpg",
+        "profile_link_color": "08244A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepBlaine",
+        "statuses_count": 2028,
+        "url": "https://t.co/HAAAI7JpAI",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 42924141,
+            "id_str": "42924141",
+            "name": "Financial Services GOP",
+            "screen_name": "FinancialCmte"
+        },
+        {
+            "id": 27676828,
+            "id_str": "27676828",
+            "name": "Patrick McHenry",
+            "screen_name": "PatrickMcHenry"
+        },
+        {
+            "id": 1849261916,
+            "id_str": "1849261916",
+            "name": "Blaine Luetkemeyer",
+            "screen_name": "RepBlaine"
+        }
+    ]
+}

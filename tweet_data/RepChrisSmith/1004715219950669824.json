@@ -1,0 +1,123 @@
+{
+    "created_at": "Thu Jun 07 13:22:29 +0000 2018",
+    "hashtags": [],
+    "id": 1004715219950669824,
+    "id_str": "1004715219950669824",
+    "lang": "en",
+    "retweet_count": 39,
+    "retweeted_status": {
+        "created_at": "Mon May 28 14:02:50 +0000 2018",
+        "favorite_count": 45,
+        "hashtags": [],
+        "id": 1001101492399505408,
+        "id_str": "1001101492399505408",
+        "lang": "en",
+        "retweet_count": 39,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "U.S. congressman &amp; @HelsinkiComm co-chair @RepChrisSmith addressed diplomats, civil society &amp; others by video today\u2026 https://t.co/n7EdU0k6UR",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1001101492399505408",
+                "url": "https://t.co/n7EdU0k6UR"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 06 10:52:16 +0000 2009",
+            "description": "Official Twitter account of the U.S. Mission to the Organization for Security and Cooperation in Europe (OSCE)",
+            "favourites_count": 2628,
+            "followers_count": 26989,
+            "friends_count": 4352,
+            "geo_enabled": true,
+            "id": 87914827,
+            "id_str": "87914827",
+            "listed_count": 824,
+            "location": "Vienna, Austria",
+            "name": "U.S. Mission to OSCE",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87914827/1544455232",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1125391014380883968/Rjdsi9I1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125391014380883968/Rjdsi9I1_normal.png",
+            "profile_link_color": "114A91",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "usosce",
+            "statuses_count": 15789,
+            "url": "https://t.co/pngZFGLxpi",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2834385621,
+                "id_str": "2834385621",
+                "name": "Helsinki Commission",
+                "screen_name": "HelsinkiComm"
+            },
+            {
+                "id": 1289319271,
+                "id_str": "1289319271",
+                "name": "Rep. Chris Smith",
+                "screen_name": "RepChrisSmith"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @usosce: U.S. congressman &amp; @HelsinkiComm co-chair @RepChrisSmith addressed diplomats, civil society &amp; others by video today at @OSCE co\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Mar 22 18:03:53 +0000 2013",
+        "description": "Proud to represent the 4th Congressional District of New Jersey.\n\nSocial media policy: https://t.co/vKjnDqaOS5",
+        "favourites_count": 149,
+        "followers_count": 24013,
+        "friends_count": 223,
+        "id": 1289319271,
+        "id_str": "1289319271",
+        "listed_count": 686,
+        "name": "Rep. Chris Smith",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1289319271/1538495850",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/915302659271380993/AGh07FqH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/915302659271380993/AGh07FqH_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChrisSmith",
+        "statuses_count": 1073,
+        "url": "http://t.co/a3ZJUqfRSg",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 87914827,
+            "id_str": "87914827",
+            "name": "U.S. Mission to OSCE",
+            "screen_name": "usosce"
+        },
+        {
+            "id": 2834385621,
+            "id_str": "2834385621",
+            "name": "Helsinki Commission",
+            "screen_name": "HelsinkiComm"
+        },
+        {
+            "id": 1289319271,
+            "id_str": "1289319271",
+            "name": "Rep. Chris Smith",
+            "screen_name": "RepChrisSmith"
+        },
+        {
+            "id": 20226248,
+            "id_str": "20226248",
+            "name": "OSCE",
+            "screen_name": "OSCE"
+        }
+    ]
+}

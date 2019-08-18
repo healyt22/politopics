@@ -1,0 +1,106 @@
+{
+    "created_at": "Mon Jun 03 21:03:23 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [],
+    "id": 1135653226898960386,
+    "id_str": "1135653226898960386",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 03 18:31:54 +0000 2019",
+        "favorite_count": 45,
+        "hashtags": [
+            {
+                "text": "MOMSAct"
+            }
+        ],
+        "id": 1135615103674519558,
+        "id_str": "1135615103674519558",
+        "lang": "en",
+        "retweet_count": 12,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "My bipartisan #MOMSAct evens the playing field to make sure women in the National Guard and Reserves get the same p\u2026 https://t.co/C0RD8Uyt5H",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1135615103674519558",
+                "url": "https://t.co/C0RD8Uyt5H"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 28 06:10:29 +0000 2009",
+            "description": "United States Senator from New Mexico.",
+            "favourites_count": 25,
+            "followers_count": 168197,
+            "friends_count": 339,
+            "id": 60828944,
+            "id_str": "60828944",
+            "listed_count": 2345,
+            "location": "Santa Fe and Washington",
+            "name": "Tom Udall",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/60828944/1447107599",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/847475846944182272/HKMEaecM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/847475846944182272/HKMEaecM_normal.jpg",
+            "profile_link_color": "FF4E3E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "BDDEDE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "SenatorTomUdall",
+            "statuses_count": 6490,
+            "url": "http://t.co/ETWpVFzOcZ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1135615103674519558,
+    "quoted_status_id_str": "1135615103674519558",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "This is a worthy, bipartisan effort to support our @USNationalGuard and Reserve families. Glad to join you in this\u2026 https://t.co/toRVJJdwll",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1135653226898960386",
+            "url": "https://t.co/toRVJJdwll"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 05 14:25:22 +0000 2009",
+        "description": "Official account of U.S. Senator Jerry Moran. Honored to represent Kansans in the U.S. Senate.",
+        "favourites_count": 892,
+        "followers_count": 96140,
+        "friends_count": 2954,
+        "geo_enabled": true,
+        "id": 18632666,
+        "id_str": "18632666",
+        "listed_count": 2205,
+        "location": "Kansas",
+        "name": "Senator Jerry Moran",
+        "profile_background_color": "0F3254",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18632666/1509573111",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/834123788153397248/8XI1dcQL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/834123788153397248/8XI1dcQL_normal.jpg",
+        "profile_link_color": "55ACEE",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F2F2F2",
+        "profile_text_color": "545454",
+        "screen_name": "JerryMoran",
+        "statuses_count": 5527,
+        "url": "http://t.co/CBA3beMHNs",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 31310158,
+            "id_str": "31310158",
+            "name": "National Guard",
+            "screen_name": "USNationalGuard"
+        }
+    ]
+}

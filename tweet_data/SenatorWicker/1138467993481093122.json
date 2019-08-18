@@ -1,0 +1,119 @@
+{
+    "created_at": "Tue Jun 11 15:28:16 +0000 2019",
+    "favorite_count": 34,
+    "hashtags": [],
+    "id": 1138467993481093122,
+    "id_str": "1138467993481093122",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 11 14:26:30 +0000 2019",
+        "favorite_count": 40,
+        "hashtags": [
+            {
+                "text": "Aerospace"
+            }
+        ],
+        "id": 1138452451122712579,
+        "id_str": "1138452451122712579",
+        "lang": "en",
+        "retweet_count": 11,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "#Aerospace company @relativityspace expands its rocket component production &amp; rocket engine testing operations at\u2026 https://t.co/UUSPmltY7j",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138452451122712579",
+                "url": "https://t.co/UUSPmltY7j"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 28 23:00:06 +0000 2013",
+            "description": "Mississippi Development Authority is the state of Mississippi\u2019s lead economic and community development agency. Opportunity is abundant in Mississippi!",
+            "favourites_count": 6523,
+            "followers_count": 21062,
+            "friends_count": 1658,
+            "geo_enabled": true,
+            "id": 1129437402,
+            "id_str": "1129437402",
+            "listed_count": 199,
+            "location": "Jackson, Mississippi",
+            "name": "mississippi.org",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129437402/1491948031",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/593756851302346753/a7833gSq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/593756851302346753/a7833gSq_normal.jpg",
+            "profile_link_color": "487DAF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "mdaworks",
+            "statuses_count": 13953,
+            "url": "https://t.co/mM4IKQhzMx"
+        },
+        "user_mentions": [
+            {
+                "id": 3655712834,
+                "id_str": "3655712834",
+                "name": "Relativity Space",
+                "screen_name": "relativityspace"
+            }
+        ]
+    },
+    "quoted_status_id": 1138452451122712579,
+    "quoted_status_id_str": "1138452451122712579",
+    "retweet_count": 9,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": ".@relativityspace has been a great partner for @NASAStennis. This expansion is excellent news for Mississippi and\u2026 https://t.co/HqyEKFG70J",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138467993481093122",
+            "url": "https://t.co/HqyEKFG70J"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Mar 11 14:59:01 +0000 2011",
+        "description": "Senior U.S. Senator for Mississippi. Chairman @SenateCommerce. Please visit my website for updates.",
+        "favourites_count": 1153,
+        "followers_count": 83759,
+        "friends_count": 362,
+        "geo_enabled": true,
+        "id": 264219447,
+        "id_str": "264219447",
+        "listed_count": 1863,
+        "location": "Mississippi & Washington, DC",
+        "name": "Senator Roger Wicker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/264219447/1402419137",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1053286698438803456/c5VspcNT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053286698438803456/c5VspcNT_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorWicker",
+        "statuses_count": 5161,
+        "url": "https://t.co/iD8pcNybj9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3655712834,
+            "id_str": "3655712834",
+            "name": "Relativity Space",
+            "screen_name": "relativityspace"
+        },
+        {
+            "id": 44134466,
+            "id_str": "44134466",
+            "name": "Stennis Space Center",
+            "screen_name": "NASAStennis"
+        }
+    ]
+}

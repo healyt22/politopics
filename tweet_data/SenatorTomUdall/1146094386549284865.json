@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jul 02 16:32:49 +0000 2019",
+    "favorite_count": 444,
+    "hashtags": [],
+    "id": 1146094386549284865,
+    "id_str": "1146094386549284865",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 02 16:28:06 +0000 2019",
+        "favorite_count": 58,
+        "hashtags": [],
+        "id": 1146093196298129409,
+        "id_str": "1146093196298129409",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/wOhye5Ek3u",
+                "expanded_url": "https://twitter.com/thehill/status/1146093196298129409/photo/1",
+                "id": 1146093194649702400,
+                "media_url": "http://pbs.twimg.com/media/D-e9sDKWkAAwId4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-e9sDKWkAAwId4.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 645,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 645,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 645,
+                        "h": 363,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/wOhye5Ek3u"
+            }
+        ],
+        "retweet_count": 41,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Senate Dem accuses Interior of ignoring questions about funding for Trump July 4 event https://t.co/LXELhhnQSb https://t.co/wOhye5Ek3u",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/6hfFMbe",
+                "url": "https://t.co/LXELhhnQSb"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3356621,
+            "friends_count": 256,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26244,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 609593,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1146093196298129409,
+    "quoted_status_id_str": "1146093196298129409",
+    "retweet_count": 169,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The president is planning to turn a national day of unity into a day of vanity. \n\nThe American people deserve to kn\u2026 https://t.co/jn7ivHNaaY",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1146094386549284865",
+            "url": "https://t.co/jn7ivHNaaY"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jul 28 06:10:29 +0000 2009",
+        "description": "United States Senator from New Mexico.",
+        "favourites_count": 27,
+        "followers_count": 168891,
+        "friends_count": 339,
+        "id": 60828944,
+        "id_str": "60828944",
+        "listed_count": 2361,
+        "location": "Santa Fe and Washington",
+        "name": "Tom Udall",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60828944/1447107599",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/847475846944182272/HKMEaecM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/847475846944182272/HKMEaecM_normal.jpg",
+        "profile_link_color": "FF4E3E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BDDEDE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTomUdall",
+        "statuses_count": 6576,
+        "url": "http://t.co/ETWpVFzOcZ",
+        "verified": true
+    },
+    "user_mentions": []
+}

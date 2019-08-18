@@ -1,0 +1,124 @@
+{
+    "created_at": "Tue Jun 11 20:27:57 +0000 2019",
+    "favorite_count": 28,
+    "hashtags": [],
+    "id": 1138543412364423168,
+    "id_str": "1138543412364423168",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 11 16:55:27 +0000 2019",
+        "favorite_count": 72,
+        "hashtags": [],
+        "id": 1138489936494125058,
+        "id_str": "1138489936494125058",
+        "lang": "en",
+        "retweet_count": 44,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "\u201cAs a grandfather and an immigrant, my heart breaks every time a child dies in US custody. Migrants are escaping tu\u2026 https://t.co/FKGUZ4PZw6",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138489936494125058",
+                "url": "https://t.co/FKGUZ4PZw6"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 20 14:33:01 +0000 2009",
+            "description": "The 38-Member Congressional Hispanic Caucus advocates for issues important to Latinos via the legislative process in Congress.",
+            "favourites_count": 4819,
+            "followers_count": 63952,
+            "friends_count": 3131,
+            "geo_enabled": true,
+            "id": 33530012,
+            "id_str": "33530012",
+            "listed_count": 1190,
+            "location": "Washington, DC",
+            "name": "Hispanic Caucus",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33530012/1549074342",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1091509544373628931/lg-1Eobc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091509544373628931/lg-1Eobc_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HispanicCaucus",
+            "statuses_count": 31650,
+            "url": "http://t.co/M5o7LhojfY",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138489936494125058,
+    "quoted_status_id_str": "1138489936494125058",
+    "retweet_count": 10,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Today @RepEscobar, @RepEspaillat, @CongressmanRuiz, @RepCardenas, @RepSylviaGarcia, and I denounced the inhumane tr\u2026 https://t.co/zEck4wptvW",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138543412364423168",
+            "url": "https://t.co/zEck4wptvW"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 08 00:04:27 +0000 2019",
+        "default_profile": true,
+        "description": "Progressive Chicagoan, Retired Marathoner. Congressman of #IL04. @TransportDems and @FSCDems. FB/IG: @RepChuyGarcia",
+        "favourites_count": 206,
+        "followers_count": 5746,
+        "friends_count": 536,
+        "id": 1082427779583541248,
+        "id_str": "1082427779583541248",
+        "listed_count": 188,
+        "name": "Congressman Chuy Garc\u00eda",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082427779583541248/1549477572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092137300115496960/9_hmhIKo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092137300115496960/9_hmhIKo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChuyGarcia",
+        "statuses_count": 593,
+        "url": "https://t.co/XUixIycAnx",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1075517806551154689,
+            "id_str": "1075517806551154689",
+            "name": "Rep. Veronica Escobar",
+            "screen_name": "RepEscobar"
+        },
+        {
+            "id": 817076257770835968,
+            "id_str": "817076257770835968",
+            "name": "Adriano Espaillat",
+            "screen_name": "RepEspaillat"
+        },
+        {
+            "id": 1089859058,
+            "id_str": "1089859058",
+            "name": "Raul Ruiz",
+            "screen_name": "CongressmanRuiz"
+        },
+        {
+            "id": 1222257180,
+            "id_str": "1222257180",
+            "name": "Rep. Tony C\u00e1rdenas",
+            "screen_name": "RepCardenas"
+        },
+        {
+            "id": 1080587263132733442,
+            "id_str": "1080587263132733442",
+            "name": "Rep. Sylvia Garcia",
+            "screen_name": "RepSylviaGarcia"
+        }
+    ]
+}

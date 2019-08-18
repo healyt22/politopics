@@ -1,0 +1,121 @@
+{
+    "created_at": "Fri Jul 19 11:26:15 +0000 2019",
+    "favorite_count": 1062,
+    "hashtags": [],
+    "id": 1152177827841810433,
+    "id_str": "1152177827841810433",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 17 14:18:50 +0000 2019",
+        "favorite_count": 15858,
+        "hashtags": [],
+        "id": 1151496486028488705,
+        "id_str": "1151496486028488705",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HY2MBDG8wD",
+                "expanded_url": "https://twitter.com/andrewchen/status/1151496486028488705/photo/1",
+                "id": 1151496479288254465,
+                "media_url": "http://pbs.twimg.com/media/D_rv8nAW4AE6lrW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_rv8nAW4AE6lrW.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 1389,
+                        "h": 768,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 663,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 376,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HY2MBDG8wD"
+            }
+        ],
+        "retweet_count": 6026,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "American kids want to be youtubers, and the Chinese kids want to be astronauts. https://t.co/HY2MBDG8wD",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Apr 03 04:09:30 +0000 2007",
+            "description": "a16z, ex-Uber. I write a newsletter at https://t.co/C3BLJOhwoS. Plus one: @briannekimmel.",
+            "favourites_count": 27841,
+            "followers_count": 147944,
+            "friends_count": 8115,
+            "geo_enabled": true,
+            "id": 3283901,
+            "id_str": "3283901",
+            "listed_count": 5379,
+            "location": "Palo Alto, CA",
+            "name": "Andrew Chen",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3283901/1552194051",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1113663736793849856/RuBkDAnW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113663736793849856/RuBkDAnW_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A7867F",
+            "profile_text_color": "BF636E",
+            "screen_name": "andrewchen",
+            "statuses_count": 22263,
+            "url": "https://t.co/C3BLJOhwoS"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1151496486028488705,
+    "quoted_status_id_str": "1151496486028488705",
+    "retweet_count": 262,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "I don\u2019t blame our kids for this\n\nThey have grown up in an era in which space travel has not been the focus of our n\u2026 https://t.co/5X8GcLomHa",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1152177827841810433",
+            "url": "https://t.co/5X8GcLomHa"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Aug 06 03:07:06 +0000 2008",
+        "description": "Follower of Christ,Husband,Father,US Senator for Florida, #GatorNation & #FinsUp. Official tweets @SenRubioPress & Campaign tweets @TeamMarco",
+        "favourites_count": 1639,
+        "followers_count": 3937650,
+        "friends_count": 2549,
+        "id": 15745368,
+        "id_str": "15745368",
+        "listed_count": 16272,
+        "location": "United States",
+        "name": "Marco Rubio",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15745368/1561461040",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143476808576307200/cqev1XKn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143476808576307200/cqev1XKn_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "marcorubio",
+        "statuses_count": 11623,
+        "url": "https://t.co/xm4vZLmGV0",
+        "verified": true
+    },
+    "user_mentions": []
+}

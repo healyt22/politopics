@@ -1,0 +1,109 @@
+{
+    "created_at": "Mon May 13 19:19:20 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1128016896731774977,
+    "id_str": "1128016896731774977",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Bbe76tBU7Q",
+            "expanded_url": "https://twitter.com/RepMalinowski/status/1128016896731774977/photo/1",
+            "id": 1128016784450359306,
+            "media_url": "http://pbs.twimg.com/media/D6eFSfnXkAoKmUY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6eFSfnXkAoKmUY.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Bbe76tBU7Q"
+        },
+        {
+            "display_url": "pic.twitter.com/Bbe76tBU7Q",
+            "expanded_url": "https://twitter.com/RepMalinowski/status/1128016896731774977/photo/1",
+            "id": 1128016812216672256,
+            "media_url": "http://pbs.twimg.com/media/D6eFUHDX4AA2MUT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6eFUHDX4AA2MUT.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Bbe76tBU7Q"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "It was a pleasure joining @tewnj in Westfield for their monthly Lunch and Learn today! https://t.co/Bbe76tBU7Q",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 18:45:46 +0000 2019",
+        "default_profile": true,
+        "description": "The official Twitter account of Congressman Tom Malinowski, of New Jersey's 7th district.",
+        "favourites_count": 28,
+        "followers_count": 3240,
+        "friends_count": 384,
+        "id": 1080898026418384897,
+        "id_str": "1080898026418384897",
+        "listed_count": 128,
+        "name": "Rep. Tom Malinowski",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080898026418384897/1547061220",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMalinowski",
+        "statuses_count": 237,
+        "url": "https://t.co/xKfFUaXQDL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 140265120,
+            "id_str": "140265120",
+            "name": "Temple Emanu-El",
+            "screen_name": "tewnj"
+        }
+    ]
+}

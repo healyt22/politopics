@@ -1,0 +1,113 @@
+{
+    "created_at": "Sat Aug 10 18:47:15 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [],
+    "id": 1160261341262831617,
+    "id_str": "1160261341262831617",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Aug 10 15:00:08 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "Reminder"
+            }
+        ],
+        "id": 1160204185440329731,
+        "id_str": "1160204185440329731",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "#Reminder: The @SNHDinfo has its \"Give Kids a Boost\" Health Fair starting at 9am and going until 1pm. The vaccinati\u2026 https://t.co/IDXZ8dk81a",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1160204185440329731",
+                "url": "https://t.co/IDXZ8dk81a"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 20 17:59:46 +0000 2009",
+            "description": "Jurisdiction over Las #Vegas Strip. Home to 2.3M. Visited by 45M/yr. Ours is 14th-largest US county, an area the size of NJ. RTs & Follows are NOT endorsements.",
+            "favourites_count": 14317,
+            "followers_count": 195437,
+            "friends_count": 98258,
+            "geo_enabled": true,
+            "id": 33601080,
+            "id_str": "33601080",
+            "listed_count": 981,
+            "location": "Las Vegas, Nevada",
+            "name": "Clark County Nevada",
+            "profile_background_color": "E8F6F7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33601080/1551142888",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000694623329/342568e2179452e39673ca9ae3177284_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000694623329/342568e2179452e39673ca9ae3177284_normal.jpeg",
+            "profile_link_color": "4D2C1B",
+            "profile_sidebar_border_color": "B07103",
+            "profile_sidebar_fill_color": "599799",
+            "profile_text_color": "282880",
+            "profile_use_background_image": true,
+            "screen_name": "ClarkCountyNV",
+            "statuses_count": 22045,
+            "url": "https://t.co/U3etDcMuUq",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 115442398,
+                "id_str": "115442398",
+                "name": "SN Health District",
+                "screen_name": "SNHDinfo"
+            }
+        ]
+    },
+    "quoted_status_id": 1160204185440329731,
+    "quoted_status_id_str": "1160204185440329731",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@ClarkCountySch first day of school is Monday! There\u2019s still time to make sure your kids are ready for the school\u2026 https://t.co/1yuY6YcZjY",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1160261341262831617",
+            "url": "https://t.co/1yuY6YcZjY"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Dec 29 17:08:23 +0000 2018",
+        "default_profile": true,
+        "description": "Congresswoman proudly serving the folks in Nevada's 3rd District. Bipartisan Leader. Education Advocate. Wife to Dan and mom to two great kids.",
+        "favourites_count": 204,
+        "followers_count": 10852,
+        "friends_count": 161,
+        "geo_enabled": true,
+        "id": 1079061579973439488,
+        "id_str": "1079061579973439488",
+        "listed_count": 196,
+        "location": "Las Vegas, NV",
+        "name": "Rep. Susie Lee",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079061579973439488/1546532419",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080861522061127680/PO_53d01_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080861522061127680/PO_53d01_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSusieLee",
+        "statuses_count": 1335,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 267918244,
+            "id_str": "267918244",
+            "name": "CCSD",
+            "screen_name": "ClarkCountySch"
+        }
+    ]
+}

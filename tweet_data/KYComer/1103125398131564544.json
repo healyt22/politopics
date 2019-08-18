@@ -1,0 +1,84 @@
+{
+    "created_at": "Wed Mar 06 02:49:24 +0000 2019",
+    "favorite_count": 50,
+    "hashtags": [
+        {
+            "text": "KY1"
+        }
+    ],
+    "id": 1103125398131564544,
+    "id_str": "1103125398131564544",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ZI1Z7uYoOE",
+            "expanded_url": "https://twitter.com/KYComer/status/1103125398131564544/photo/1",
+            "id": 1103125393324888064,
+            "media_url": "http://pbs.twimg.com/media/D08Ws1vX0AAz8y0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D08Ws1vX0AAz8y0.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 435,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 768,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1310,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZI1Z7uYoOE"
+        }
+    ],
+    "retweet_count": 9,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Enjoyed catching up with some great @KACo leaders from #KY1 in DC. https://t.co/ZI1Z7uYoOE",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2813473165,
+            "id_str": "2813473165",
+            "name": "KACo",
+            "screen_name": "KACo"
+        }
+    ]
+}

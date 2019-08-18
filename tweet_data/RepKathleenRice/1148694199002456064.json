@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jul 09 20:43:33 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [],
+    "id": 1148694199002456064,
+    "id_str": "1148694199002456064",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 09 20:19:27 +0000 2019",
+        "favorite_count": 113,
+        "hashtags": [],
+        "id": 1148688132960849926,
+        "id_str": "1148688132960849926",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zyol79wLc3",
+                "expanded_url": "https://twitter.com/thehill/status/1148688132960849926/photo/1",
+                "id": 1148688131358695435,
+                "media_url": "http://pbs.twimg.com/media/D_D1xPtXoAsZeXS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_D1xPtXoAsZeXS.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/zyol79wLc3"
+            }
+        ],
+        "retweet_count": 28,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "JUST IN: House to vote on authorizing funding for the 9/11 Victim Fund https://t.co/VpmMkSTZZY https://t.co/zyol79wLc3",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/WwKKiWC",
+                "url": "https://t.co/VpmMkSTZZY"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3356619,
+            "friends_count": 256,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26244,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 609592,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1148688132960849926,
+    "quoted_status_id_str": "1148688132960849926",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "On Friday the House will honor the legacies of James Zadroga, Lou Alvarez, \nRay Pfeifer and so many other 9/11 firs\u2026 https://t.co/FkjbGILCWn",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1148694199002456064",
+            "url": "https://t.co/FkjbGILCWn"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 09 21:18:27 +0000 2015",
+        "description": "U.S. Representative for #NY04 (Long Island). Former Nassau County DA.",
+        "favourites_count": 360,
+        "followers_count": 27825,
+        "friends_count": 1301,
+        "geo_enabled": true,
+        "id": 2970462034,
+        "id_str": "2970462034",
+        "listed_count": 681,
+        "location": "Long Island, NY",
+        "name": "Kathleen Rice",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2970462034/1560185274",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/755805100094984192/dxloSyzZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/755805100094984192/dxloSyzZ_normal.jpg",
+        "profile_link_color": "42ABED",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepKathleenRice",
+        "statuses_count": 2988,
+        "url": "http://t.co/XBMpgvbVZ1",
+        "verified": true
+    },
+    "user_mentions": []
+}

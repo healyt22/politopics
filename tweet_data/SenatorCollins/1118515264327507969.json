@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Apr 17 14:03:14 +0000 2019",
+    "hashtags": [],
+    "id": 1118515264327507969,
+    "id_str": "1118515264327507969",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed Apr 17 00:29:13 +0000 2019",
+        "favorite_count": 22,
+        "hashtags": [],
+        "id": 1118310409080061952,
+        "id_str": "1118310409080061952",
+        "in_reply_to_screen_name": "SenatorCollins",
+        "in_reply_to_status_id": 1118260213780549633,
+        "in_reply_to_user_id": 19726613,
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@SenatorCollins Thank you ma\u2019am! The Maine National Guard was honored to stand alongside our state partners as they\u2026 https://t.co/5bu8cMi3Z4",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118310409080061952",
+                "url": "https://t.co/5bu8cMi3Z4"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 04 16:02:33 +0000 2010",
+            "description": "Official account of the Maine National Guard Public Affairs Office, telling the stories of our Soldiers and Airmen!",
+            "favourites_count": 34,
+            "followers_count": 2729,
+            "friends_count": 150,
+            "id": 111344559,
+            "id_str": "111344559",
+            "listed_count": 76,
+            "location": "Augusta, Maine",
+            "name": "Maine National Guard",
+            "profile_background_color": "002131",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1056220485325914114/vFt9zEXu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056220485325914114/vFt9zEXu_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GuardMaine",
+            "statuses_count": 1765,
+            "url": "https://t.co/02ICRe1k7z"
+        },
+        "user_mentions": [
+            {
+                "id": 19726613,
+                "id_str": "19726613",
+                "name": "Sen. Susan Collins",
+                "screen_name": "SenatorCollins"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @GuardMaine: @SenatorCollins Thank you ma\u2019am! The Maine National Guard was honored to stand alongside our state partners as they joined\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 29 18:56:59 +0000 2009",
+        "description": "United States Senator from Maine. \r\n\r\nAll tweets originate from the Press Office of Senator Susan Collins.",
+        "favourites_count": 74,
+        "followers_count": 504331,
+        "friends_count": 969,
+        "geo_enabled": true,
+        "id": 19726613,
+        "id_str": "19726613",
+        "listed_count": 4423,
+        "location": "Maine",
+        "name": "Sen. Susan Collins",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19726613/1526569711",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588697537013383168/Kf_x_1u1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588697537013383168/Kf_x_1u1_normal.jpg",
+        "profile_link_color": "516C87",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C7D9ED",
+        "profile_text_color": "192F45",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorCollins",
+        "statuses_count": 3154,
+        "url": "http://t.co/GC3gCGTqQX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 111344559,
+            "id_str": "111344559",
+            "name": "Maine National Guard",
+            "screen_name": "GuardMaine"
+        },
+        {
+            "id": 19726613,
+            "id_str": "19726613",
+            "name": "Sen. Susan Collins",
+            "screen_name": "SenatorCollins"
+        }
+    ]
+}

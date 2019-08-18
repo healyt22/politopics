@@ -1,0 +1,88 @@
+{
+    "created_at": "Thu Jun 02 13:15:43 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 738358433540407296,
+    "id_str": "738358433540407296",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/tX5ydQnDKr",
+            "expanded_url": "https://twitter.com/Rep_DevinNunes/status/738358433540407296/photo/1",
+            "id": 738358430516150272,
+            "media_url": "http://pbs.twimg.com/media/Cj8tFJ_UgAAwRFL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cj8tFJ_UgAAwRFL.jpg",
+            "sizes": {
+                "small": {
+                    "w": 179,
+                    "h": 206,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 179,
+                    "h": 206,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 179,
+                    "h": 206,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/tX5ydQnDKr"
+        }
+    ],
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Discussing water, high-speed rail w/ @RayAppletonKMJ at noon PST today. Listen live: https://t.co/XkbXoGFFVs @KMJNOW https://t.co/tX5ydQnDKr",
+    "urls": [
+        {
+            "expanded_url": "http://www.kmjnow.com",
+            "url": "https://t.co/XkbXoGFFVs"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 29 21:40:22 +0000 2011",
+        "default_profile": true,
+        "followers_count": 34272,
+        "friends_count": 15,
+        "id": 344972339,
+        "id_str": "344972339",
+        "listed_count": 488,
+        "location": "Washington, DC",
+        "name": "Rep. Devin Nunes",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344972339/1353428355",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDevinNunes",
+        "statuses_count": 169,
+        "url": "http://t.co/qslO3rsq"
+    },
+    "user_mentions": [
+        {
+            "id": 2419701992,
+            "id_str": "2419701992",
+            "name": "Ray Appleton",
+            "screen_name": "RayAppletonKMJ"
+        },
+        {
+            "id": 40051702,
+            "id_str": "40051702",
+            "name": "KMJNOW",
+            "screen_name": "KMJNOW"
+        }
+    ]
+}

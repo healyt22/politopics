@@ -1,0 +1,59 @@
+{
+    "created_at": "Mon Jun 03 17:54:40 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [],
+    "id": 1135605736912891906,
+    "id_str": "1135605736912891906",
+    "lang": "en",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "\u2708\ufe0f I\u2019m happy to see @USDOT grants are headed to @OMAairport and regional airports in McCook, Grand Island, and Norf\u2026 https://t.co/2Ul7iImfCj",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1135605736912891906",
+            "url": "https://t.co/2Ul7iImfCj"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 08 16:49:07 +0000 2013",
+        "description": "U.S. Senator and Cherry County rancher working to bring some Nebraska common sense to Washington",
+        "favourites_count": 55,
+        "followers_count": 81269,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 1071402577,
+        "id_str": "1071402577",
+        "listed_count": 1696,
+        "name": "Senator Deb Fischer",
+        "profile_background_color": "B4C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071402577/1467819561",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/816319022182649860/pev9bNlJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/816319022182649860/pev9bNlJ_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorFischer",
+        "statuses_count": 5628,
+        "url": "http://t.co/0O49SY7v",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 393562221,
+            "id_str": "393562221",
+            "name": "TransportationGov",
+            "screen_name": "USDOT"
+        },
+        {
+            "id": 914869895187312640,
+            "id_str": "914869895187312640",
+            "name": "Eppley Airfield",
+            "screen_name": "OMAairport"
+        }
+    ]
+}

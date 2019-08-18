@@ -1,0 +1,173 @@
+{
+    "created_at": "Mon Feb 26 21:33:02 +0000 2018",
+    "favorite_count": 18,
+    "hashtags": [
+        {
+            "text": "RioGrandeValley"
+        },
+        {
+            "text": "TX34Forward"
+        }
+    ],
+    "id": 968237496109805569,
+    "id_str": "968237496109805569",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Feb 23 15:23:44 +0000 2018",
+        "favorite_count": 17,
+        "hashtags": [
+            {
+                "text": "sugarcane"
+            },
+            {
+                "text": "harvest18"
+            },
+            {
+                "text": "farm365"
+            }
+        ],
+        "id": 967057394386817025,
+        "id_str": "967057394386817025",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5SwWKlXQmm",
+                "expanded_url": "https://twitter.com/TexasFarmBureau/status/967057394386817025/video/1",
+                "id": 967056771947769858,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/967056771947769858/pu/img/U4GL94xtFgFMu9fZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/967056771947769858/pu/img/U4GL94xtFgFMu9fZ.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/5SwWKlXQmm",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 119661,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/967056771947769858/pu/vid/1280x720/AK45M7u3RKCNX9Z1.mp4"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/967056771947769858/pu/vid/320x180/EdxtZI4cBqSWeYyF.mp4"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/967056771947769858/pu/pl/O0EkjUF75WX8-doZ.m3u8"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/967056771947769858/pu/vid/640x360/ECPnkHGWCRLI8EV4.mp4"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 12,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Wonder how #sugarcane is harvested? Watch this video to find out! #harvest18 #farm365 https://t.co/5SwWKlXQmm",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Jan 15 20:13:03 +0000 2009",
+            "description": "The Voice of Texas Agriculture since 1933. The largest #farm and #ranch organization in Texas.",
+            "favourites_count": 6387,
+            "followers_count": 20262,
+            "friends_count": 4278,
+            "geo_enabled": true,
+            "id": 19036725,
+            "id_str": "19036725",
+            "listed_count": 555,
+            "location": "Waco, TX",
+            "name": "Texas Farm Bureau",
+            "profile_background_color": "002D5E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19036725/1546450180",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/472018172392914944/jj8GHGPb_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/472018172392914944/jj8GHGPb_normal.jpeg",
+            "profile_link_color": "008BE1",
+            "profile_sidebar_border_color": "002D5E",
+            "profile_sidebar_fill_color": "D6D6D6",
+            "profile_text_color": "002D5A",
+            "profile_use_background_image": true,
+            "screen_name": "TexasFarmBureau",
+            "statuses_count": 17256,
+            "url": "http://t.co/7J4AYtmo0S"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 967057394386817025,
+    "quoted_status_id_str": "967057394386817025",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Glad to see @TexasFarmBureau highlighting sugar cane grown in the #RioGrandeValley #TX34Forward https://t.co/wXu31T2RDu",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/TexasFarmBureau/status/967057394386817025",
+            "url": "https://t.co/wXu31T2RDu"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Jan 12 16:24:06 +0000 2013",
+        "description": "U.S. Congressman for the 34th District of Texas - Privileged to represent South Texans.",
+        "favourites_count": 218,
+        "followers_count": 15883,
+        "friends_count": 387,
+        "geo_enabled": true,
+        "id": 1083448909,
+        "id_str": "1083448909",
+        "listed_count": 711,
+        "location": "District 34, Texas",
+        "name": "US Rep. Filemon Vela",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083448909/1399392026",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463712019523194880/pM1rWMry_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463712019523194880/pM1rWMry_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepFilemonVela",
+        "statuses_count": 1397,
+        "url": "https://t.co/PYuChi0OLA",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19036725,
+            "id_str": "19036725",
+            "name": "Texas Farm Bureau",
+            "screen_name": "TexasFarmBureau"
+        }
+    ]
+}

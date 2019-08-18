@@ -1,0 +1,123 @@
+{
+    "created_at": "Fri Jul 19 18:35:44 +0000 2019",
+    "favorite_count": 550,
+    "hashtags": [],
+    "id": 1152285911704584192,
+    "id_str": "1152285911704584192",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jul 19 18:24:21 +0000 2019",
+        "favorite_count": 13249,
+        "hashtags": [],
+        "id": 1152283047972282368,
+        "id_str": "1152283047972282368",
+        "lang": "en",
+        "quoted_status_id": 1151960555361591296,
+        "quoted_status_id_str": "1151960555361591296",
+        "retweet_count": 2690,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "I fight to keep the promise our country represents that is based on love for humanity. I won't be silenced in fight\u2026 https://t.co/n7QxiRkynQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1152283047972282368",
+                "url": "https://t.co/n7QxiRkynQ"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Dec 12 23:07:37 +0000 2011",
+            "description": "Unbossed Congresswoman for Michigan's #13districtstrong \n\nMama working for justice, social worker at heart, Detroiter, Palestinian American, proud Muslima.",
+            "favourites_count": 8344,
+            "followers_count": 649679,
+            "friends_count": 2506,
+            "id": 435331179,
+            "id_str": "435331179",
+            "listed_count": 2853,
+            "location": "Detroit, MI",
+            "name": "Rashida Tlaib",
+            "profile_background_color": "EBC5C5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/435331179/1556160560",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1016708025418240001/HC2KSgAT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016708025418240001/HC2KSgAT_normal.jpg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "screen_name": "RashidaTlaib",
+            "statuses_count": 10938,
+            "url": "https://t.co/1CZT2Ssohc",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1152283047972282368,
+    "quoted_status_id_str": "1152283047972282368",
+    "retweet_count": 97,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Thank you @RepPressley @AOC @RepRashida @Ilhan for your grace and example this week. https://t.co/kAmEoCXdHB",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RashidaTlaib/status/1152283047972282368",
+            "url": "https://t.co/kAmEoCXdHB"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Oct 07 16:13:13 +0000 2009",
+        "description": "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas' 18th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 9993,
+        "followers_count": 75987,
+        "friends_count": 2505,
+        "geo_enabled": true,
+        "id": 80612021,
+        "id_str": "80612021",
+        "listed_count": 1748,
+        "location": "Houston, TX",
+        "name": "Sheila Jackson Lee",
+        "profile_background_color": "F5F7FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80612021/1538174062",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+        "profile_link_color": "0A2AFC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E4E4E4",
+        "profile_text_color": "E61212",
+        "profile_use_background_image": true,
+        "screen_name": "JacksonLeeTX18",
+        "statuses_count": 7715,
+        "url": "https://t.co/5K4lQ3yBcP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1080584229510172678,
+            "id_str": "1080584229510172678",
+            "name": "Congresswoman Ayanna Pressley",
+            "screen_name": "RepPressley"
+        },
+        {
+            "id": 138203134,
+            "id_str": "138203134",
+            "name": "Alexandria Ocasio-Cortez",
+            "screen_name": "AOC"
+        },
+        {
+            "id": 1079769536730140672,
+            "id_str": "1079769536730140672",
+            "name": "Congresswoman Rashida Tlaib",
+            "screen_name": "RepRashida"
+        },
+        {
+            "id": 1082334352711790593,
+            "id_str": "1082334352711790593",
+            "name": "Rep. Ilhan Omar",
+            "screen_name": "Ilhan"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "created_at": "Fri Jun 07 18:30:35 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1137064326207066112,
+    "id_str": "1137064326207066112",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jun 07 17:52:50 +0000 2019",
+        "favorite_count": 23,
+        "hashtags": [
+            {
+                "text": "Florida"
+            },
+            {
+                "text": "Georgia"
+            }
+        ],
+        "id": 1137054824439209984,
+        "id_str": "1137054824439209984",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Today I led my colleagues in #Florida and #Georgia in asking @SecretarySonny to work with state officials to use di\u2026 https://t.co/vS3py09C6Y",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1137054824439209984",
+                "url": "https://t.co/vS3py09C6Y"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Dec 23 21:22:47 +0000 2010",
+            "description": "Official account of U.S. Senator Marco Rubio\u2019s press shop. For more information please visit his website",
+            "favourites_count": 63,
+            "followers_count": 82731,
+            "friends_count": 552,
+            "id": 229966028,
+            "id_str": "229966028",
+            "listed_count": 1496,
+            "location": "Florida, USA",
+            "name": "Senator Rubio Press",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/229966028/1486679186",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/951541361483894784/ZWLWOoil_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/951541361483894784/ZWLWOoil_normal.jpg",
+            "profile_link_color": "962121",
+            "profile_sidebar_border_color": "DBDBDB",
+            "profile_sidebar_fill_color": "F5F5F5",
+            "profile_text_color": "777777",
+            "profile_use_background_image": true,
+            "screen_name": "SenRubioPress",
+            "statuses_count": 8923,
+            "url": "https://t.co/TiIO1bPBQw",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 842072478834909184,
+                "id_str": "842072478834909184",
+                "name": "Sec. Sonny Perdue",
+                "screen_name": "SecretarySonny"
+            }
+        ]
+    },
+    "quoted_status_id": 1137054824439209984,
+    "quoted_status_id_str": "1137054824439209984",
+    "retweet_count": 3,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "I am proud to join @marcorubio @SenRickScott and many of my House colleagues on this important effort https://t.co/vrXQukE8Me",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/SenRubioPress/status/1137054824439209984",
+            "url": "https://t.co/vrXQukE8Me"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 08 20:25:18 +0000 2013",
+        "description": "Representing Florida's 3rd Congressional District; large animal veterinarian; conservative business owner; Member of @HouseForeignGOP  & @HouseAgGOP Committees",
+        "favourites_count": 147,
+        "followers_count": 32275,
+        "friends_count": 309,
+        "id": 1071900114,
+        "id_str": "1071900114",
+        "listed_count": 913,
+        "name": "Ted Yoho",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071900114/1368207742",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTedYoho",
+        "statuses_count": 1411,
+        "url": "https://t.co/9wBRsUS6FX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15745368,
+            "id_str": "15745368",
+            "name": "Marco Rubio",
+            "screen_name": "marcorubio"
+        },
+        {
+            "id": 131546062,
+            "id_str": "131546062",
+            "name": "Rick Scott",
+            "screen_name": "SenRickScott"
+        }
+    ]
+}

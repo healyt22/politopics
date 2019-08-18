@@ -1,0 +1,197 @@
+{
+    "created_at": "Tue Jul 09 13:00:04 +0000 2019",
+    "hashtags": [],
+    "id": 1148577560630050816,
+    "id_str": "1148577560630050816",
+    "lang": "en",
+    "quoted_status_id": 1148324500280356865,
+    "quoted_status_id_str": "1148324500280356865",
+    "retweet_count": 65,
+    "retweeted_status": {
+        "created_at": "Mon Jul 08 21:10:20 +0000 2019",
+        "favorite_count": 476,
+        "hashtags": [],
+        "id": 1148338553803460610,
+        "id_str": "1148338553803460610",
+        "lang": "en",
+        "place": {
+            "id": "3c8eb2b0ed8c7c6d",
+            "url": "https://api.twitter.com/1.1/geo/id/3c8eb2b0ed8c7c6d.json",
+            "place_type": "city",
+            "name": "Fort Walton Beach",
+            "full_name": "Fort Walton Beach, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.6731208,
+                            30.401188
+                        ],
+                        [
+                            -86.586661,
+                            30.401188
+                        ],
+                        [
+                            -86.586661,
+                            30.471719
+                        ],
+                        [
+                            -86.6731208,
+                            30.471719
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Mon Jul 08 20:14:30 +0000 2019",
+            "favorite_count": 458,
+            "hashtags": [],
+            "id": 1148324500280356865,
+            "id_str": "1148324500280356865",
+            "lang": "en",
+            "retweet_count": 78,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Congratulations @OCSOALERTS on being awarded Florida's \u201cSchool Resource Officer Unit of the Year!\u201d Thank you for yo\u2026 https://t.co/ZvM9GuDp2e",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1148324500280356865",
+                    "url": "https://t.co/ZvM9GuDp2e"
+                }
+            ],
+            "user": {
+                "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+                "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+                "favourites_count": 486,
+                "followers_count": 301847,
+                "friends_count": 875,
+                "geo_enabled": true,
+                "id": 818948638890217473,
+                "id_str": "818948638890217473",
+                "listed_count": 1478,
+                "name": "Rep. Matt Gaetz",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1546465602",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+                "profile_link_color": "BB1A2A",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "RepMattGaetz",
+                "statuses_count": 3778,
+                "url": "https://t.co/GcjK1dZCtR",
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 257629171,
+                    "id_str": "257629171",
+                    "name": "OkaloosaSheriff",
+                    "screen_name": "OCSOALERTS"
+                }
+            ]
+        },
+        "quoted_status_id": 1148324500280356865,
+        "quoted_status_id_str": "1148324500280356865",
+        "retweet_count": 65,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @RepMattGaetz So proud of the work they do! https://t.co/E5WHbCK41Y",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/RepMattGaetz/status/1148324500280356865",
+                "url": "https://t.co/E5WHbCK41Y"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 25 21:01:22 +0000 2011",
+            "description": "Okaloosa Co. Sheriff's Office official site sharing info for those who want to know - need to know - or both. \u2b50\ufe0f Not monitored 24/7. In emergency  dial 9-1-1.",
+            "favourites_count": 25047,
+            "followers_count": 9417,
+            "friends_count": 1118,
+            "geo_enabled": true,
+            "id": 257629171,
+            "id_str": "257629171",
+            "listed_count": 156,
+            "location": "Okaloosa County, Florida, USA",
+            "name": "OkaloosaSheriff",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/257629171/1557940813",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/473837684956209152/JDwKc7Sb_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/473837684956209152/JDwKc7Sb_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "OCSOALERTS",
+            "statuses_count": 19694,
+            "url": "https://t.co/xLLhAntmVY"
+        },
+        "user_mentions": [
+            {
+                "id": 818948638890217473,
+                "id_str": "818948638890217473",
+                "name": "Rep. Matt Gaetz",
+                "screen_name": "RepMattGaetz"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @OCSOALERTS: Thank you @RepMattGaetz So proud of the work they do! https://t.co/E5WHbCK41Y",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RepMattGaetz/status/1148324500280356865",
+            "url": "https://t.co/E5WHbCK41Y"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+        "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+        "favourites_count": 486,
+        "followers_count": 301847,
+        "friends_count": 875,
+        "geo_enabled": true,
+        "id": 818948638890217473,
+        "id_str": "818948638890217473",
+        "listed_count": 1478,
+        "name": "Rep. Matt Gaetz",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1546465602",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+        "profile_link_color": "BB1A2A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMattGaetz",
+        "statuses_count": 3778,
+        "url": "https://t.co/GcjK1dZCtR",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 257629171,
+            "id_str": "257629171",
+            "name": "OkaloosaSheriff",
+            "screen_name": "OCSOALERTS"
+        },
+        {
+            "id": 818948638890217473,
+            "id_str": "818948638890217473",
+            "name": "Rep. Matt Gaetz",
+            "screen_name": "RepMattGaetz"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "created_at": "Mon Feb 04 23:13:57 +0000 2019",
+    "hashtags": [],
+    "id": 1092561927795023873,
+    "id_str": "1092561927795023873",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Feb 04 23:13:22 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1092561783108390914,
+        "id_str": "1092561783108390914",
+        "lang": "en",
+        "place": {
+            "id": "07d9dc496c880001",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9dc496c880001.json",
+            "place_type": "poi",
+            "name": "Cayuga Community College",
+            "full_name": "Cayuga Community College",
+            "country_code": "",
+            "country": "",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.54331106523733,
+                            42.94358263181792
+                        ],
+                        [
+                            -76.54331106523733,
+                            42.94358263181792
+                        ],
+                        [
+                            -76.54331106523733,
+                            42.94358263181792
+                        ],
+                        [
+                            -76.54331106523733,
+                            42.94358263181792
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Full house here in Auburn as @RepJohnKatko hosts the first of a series of town halls on the future of I-81 viaduct\u2026 https://t.co/iQJllIbyUy",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1092561783108390914",
+                "url": "https://t.co/iQJllIbyUy"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jul 27 21:54:32 +0000 2013",
+            "description": "Reporter, @WRVO Public Radio \ud83d\udcfb covering central and northern NY. @Cusetonight founder @sunygeneseo @newhousesu alum tmagnarelli@wrvo.org",
+            "favourites_count": 3204,
+            "followers_count": 612,
+            "friends_count": 1266,
+            "geo_enabled": true,
+            "id": 1626361428,
+            "id_str": "1626361428",
+            "listed_count": 25,
+            "location": "Syracuse, NY",
+            "name": "Tom Magnarelli",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626361428/1556490860",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1097724006977994752/SANhwUGf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097724006977994752/SANhwUGf_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "TomMagnarelli",
+            "statuses_count": 1141,
+            "url": "https://t.co/5BXBsxfcyU"
+        },
+        "user_mentions": [
+            {
+                "id": 2966765501,
+                "id_str": "2966765501",
+                "name": "John Katko",
+                "screen_name": "RepJohnKatko"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @TomMagnarelli: Full house here in Auburn as @RepJohnKatko hosts the first of a series of town halls on the future of I-81 viaduct in Sy\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 07 21:51:49 +0000 2015",
+        "default_profile": true,
+        "description": "Official Twitter account of Rep. John Katko. Proudly representing New York's 24th Congressional District.",
+        "favourites_count": 174,
+        "followers_count": 14675,
+        "friends_count": 238,
+        "geo_enabled": true,
+        "id": 2966765501,
+        "id_str": "2966765501",
+        "listed_count": 553,
+        "location": "Syracuse, New York",
+        "name": "John Katko",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966765501/1522697719",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/554696221269712897/C6aDs9sH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/554696221269712897/C6aDs9sH_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJohnKatko",
+        "statuses_count": 1000,
+        "url": "https://t.co/GLTSxMTZwp",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1626361428,
+            "id_str": "1626361428",
+            "name": "Tom Magnarelli",
+            "screen_name": "TomMagnarelli"
+        },
+        {
+            "id": 2966765501,
+            "id_str": "2966765501",
+            "name": "John Katko",
+            "screen_name": "RepJohnKatko"
+        }
+    ]
+}

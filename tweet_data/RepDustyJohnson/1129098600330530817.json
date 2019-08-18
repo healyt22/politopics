@@ -1,0 +1,87 @@
+{
+    "created_at": "Thu May 16 18:57:38 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [],
+    "id": 1129098600330530817,
+    "id_str": "1129098600330530817",
+    "lang": "en",
+    "place": {
+        "id": "07d9db0563481002",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9db0563481002.json",
+        "place_type": "poi",
+        "name": "Longworth House Office Building",
+        "full_name": "Longworth House Office Building",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ],
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ],
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ],
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great meeting with @nonopioidchoice today. They are dedicated to preventing opioid addiction before it starts by pr\u2026 https://t.co/xhidn8LrIV",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1129098600330530817",
+            "url": "https://t.co/xhidn8LrIV"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 17 21:44:20 +0000 2018",
+        "description": "South Dakota's lone U.S. Representative - husband, father, & proud South Dakotan.",
+        "favourites_count": 97,
+        "followers_count": 3212,
+        "friends_count": 125,
+        "geo_enabled": true,
+        "id": 1074782372594413569,
+        "id_str": "1074782372594413569",
+        "listed_count": 111,
+        "location": "Mitchell, SD",
+        "name": "Rep. Dusty Johnson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074782372594413569/1547143930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDustyJohnson",
+        "statuses_count": 392,
+        "url": "https://t.co/O0W5qo3H9S",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1019679322494373888,
+            "id_str": "1019679322494373888",
+            "name": "Voices for Non-Opioid Choices",
+            "screen_name": "nonopioidchoice"
+        }
+    ]
+}

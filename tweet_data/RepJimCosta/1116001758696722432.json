@@ -1,0 +1,146 @@
+{
+    "created_at": "Wed Apr 10 15:35:28 +0000 2019",
+    "hashtags": [
+        {
+            "text": "CVHonorFlight"
+        }
+    ],
+    "id": 1116001758696722432,
+    "id_str": "1116001758696722432",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Apr 10 13:37:16 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "CVHonorFlight"
+            }
+        ],
+        "id": 1115972015578648576,
+        "id_str": "1115972015578648576",
+        "lang": "en",
+        "place": {
+            "id": "07d9f73269885000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9f73269885000.json",
+            "place_type": "poi",
+            "name": "World War II Memorial",
+            "full_name": "World War II Memorial",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.04051554203033,
+                            38.88937728141871
+                        ],
+                        [
+                            -77.04051554203033,
+                            38.88937728141871
+                        ],
+                        [
+                            -77.04051554203033,
+                            38.88937728141871
+                        ],
+                        [
+                            -77.04051554203033,
+                            38.88937728141871
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@RepJimCosta just arrived to say hello to the #CVHonorFlight veterans at the WWII Memorial. He\u2019s thanking each one\u2026 https://t.co/VAGPr2eqaj",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1115972015578648576",
+                "url": "https://t.co/VAGPr2eqaj"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jan 24 00:17:55 +0000 2016",
+            "description": "Digital news producer @KSEE24 x @CBS47 + weekend assignment desk | Formerly @FresnoBee | @Fresno_State alumna | Lover of all animals",
+            "favourites_count": 4362,
+            "followers_count": 534,
+            "friends_count": 702,
+            "geo_enabled": true,
+            "id": 4805171413,
+            "id_str": "4805171413",
+            "listed_count": 14,
+            "location": "Fresno, CA",
+            "name": "Jessica Johnson",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1157142457609412608/jRVMgZ21_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157142457609412608/jRVMgZ21_normal.jpg",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "iamjesslj",
+            "statuses_count": 2386
+        },
+        "user_mentions": [
+            {
+                "id": 245451804,
+                "id_str": "245451804",
+                "name": "Rep. Jim Costa",
+                "screen_name": "RepJimCosta"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @iamjesslj: .@RepJimCosta just arrived to say hello to the #CVHonorFlight veterans at the WWII Memorial. He\u2019s thanking each one for thei\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 31 18:42:23 +0000 2011",
+        "description": "Costa represents California's 16th District. He serves on the Agriculture & Natural Resources Committees. This account is for official use only.",
+        "favourites_count": 139,
+        "followers_count": 19898,
+        "friends_count": 624,
+        "geo_enabled": true,
+        "id": 245451804,
+        "id_str": "245451804",
+        "listed_count": 811,
+        "name": "Rep. Jim Costa",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245451804/1556665521",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1123359212749242370/Defn1erP_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123359212749242370/Defn1erP_normal.png",
+        "profile_link_color": "00B9FF",
+        "profile_sidebar_border_color": "00B9FF",
+        "profile_sidebar_fill_color": "33762D",
+        "profile_text_color": "222222",
+        "profile_use_background_image": true,
+        "screen_name": "RepJimCosta",
+        "statuses_count": 2450,
+        "url": "https://t.co/RAnctTNS0I",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 4805171413,
+            "id_str": "4805171413",
+            "name": "Jessica Johnson",
+            "screen_name": "iamjesslj"
+        },
+        {
+            "id": 245451804,
+            "id_str": "245451804",
+            "name": "Rep. Jim Costa",
+            "screen_name": "RepJimCosta"
+        }
+    ]
+}

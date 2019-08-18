@@ -1,0 +1,128 @@
+{
+    "created_at": "Thu May 16 03:00:59 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [
+        {
+            "text": "FearTheDeer"
+        }
+    ],
+    "id": 1128857849424207872,
+    "id_str": "1128857849424207872",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu May 16 02:54:48 +0000 2019",
+        "favorite_count": 7037,
+        "hashtags": [
+            {
+                "text": "FearTheDeer"
+            }
+        ],
+        "id": 1128856294499205121,
+        "id_str": "1128856294499205121",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GAAVuXvCE2",
+                "expanded_url": "https://twitter.com/Bucks/status/1128856294499205121/photo/1",
+                "id": 1128856238534647808,
+                "media_url": "http://pbs.twimg.com/media/D6qAxJxXYAAyLfk.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D6qAxJxXYAAyLfk.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/GAAVuXvCE2"
+            }
+        ],
+        "retweet_count": 1693,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "LET. IT. FLY!!\n\n#FearTheDeer https://t.co/GAAVuXvCE2",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Aug 19 03:36:35 +0000 2008",
+            "description": "#FearTheDeer",
+            "favourites_count": 16529,
+            "followers_count": 1095490,
+            "friends_count": 5678,
+            "geo_enabled": true,
+            "id": 15900167,
+            "id_str": "15900167",
+            "listed_count": 5782,
+            "location": "Milwaukee, WI",
+            "name": "Milwaukee Bucks",
+            "profile_background_color": "004812",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15900167/1562537656",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1135363724167057410/J5_NYP8J_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135363724167057410/J5_NYP8J_normal.jpg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "BFBFBF",
+            "profile_text_color": "333333",
+            "screen_name": "Bucks",
+            "statuses_count": 119804,
+            "url": "https://t.co/UUZQ2D18E2",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1128856294499205121,
+    "quoted_status_id_str": "1128856294499205121",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "BUCKS WIN! #FearTheDeer https://t.co/gUDmk681U9",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/Bucks/status/1128856294499205121",
+            "url": "https://t.co/gUDmk681U9"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Feb 09 15:14:02 +0000 2010",
+        "description": "Proud Wisconsinite. \ud83c\udfc8\ud83e\uddc0\ud83c\uddfa\ud83c\uddf8\ud83c\udf7b I work for the people of Wisconsin\u2019s Third Congressional District.  Go Badgers! Go Brewers! Go Pack!",
+        "favourites_count": 13,
+        "followers_count": 15491,
+        "friends_count": 779,
+        "geo_enabled": true,
+        "id": 112740986,
+        "id_str": "112740986",
+        "listed_count": 955,
+        "location": "La Crosse, WI",
+        "name": "Rep. Ron Kind",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/112740986/1551220359",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100524258059522049/Fdmj0qny_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100524258059522049/Fdmj0qny_normal.png",
+        "profile_link_color": "CC0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D4D4A5",
+        "profile_text_color": "1F1F1F",
+        "profile_use_background_image": true,
+        "screen_name": "RepRonKind",
+        "statuses_count": 1537,
+        "url": "https://t.co/36VsaHRS7r",
+        "verified": true
+    },
+    "user_mentions": []
+}

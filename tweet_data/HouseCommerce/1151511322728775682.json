@@ -1,0 +1,228 @@
+{
+    "created_at": "Wed Jul 17 15:17:48 +0000 2019",
+    "hashtags": [],
+    "id": 1151511322728775682,
+    "id_str": "1151511322728775682",
+    "lang": "en",
+    "quoted_status_id": 1151505527198900224,
+    "quoted_status_id_str": "1151505527198900224",
+    "retweet_count": 21,
+    "retweeted_status": {
+        "created_at": "Wed Jul 17 14:55:49 +0000 2019",
+        "favorite_count": 98,
+        "hashtags": [],
+        "id": 1151505791901470721,
+        "id_str": "1151505791901470721",
+        "lang": "en",
+        "quoted_status": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02994,
+                    38.8950951
+                ]
+            },
+            "created_at": "Wed Jul 17 14:54:46 +0000 2019",
+            "favorite_count": 4,
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    38.8950951,
+                    -77.02994
+                ]
+            },
+            "hashtags": [],
+            "id": 1151505527198900224,
+            "id_str": "1151505527198900224",
+            "lang": "en",
+            "place": {
+                "id": "01fbe706f872cb32",
+                "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+                "place_type": "city",
+                "name": "Washington",
+                "full_name": "Washington, DC",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -77.119401,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.9953797
+                            ],
+                            [
+                                -77.119401,
+                                38.9953797
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 1,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": ".@TellurianLNG Majida Mourad introduces @SecretaryPerry before he talks to @USEnergyAssn @EPRINews about\u2026 https://t.co/bhtbxQmm7k",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1151505527198900224",
+                    "url": "https://t.co/bhtbxQmm7k"
+                }
+            ],
+            "user": {
+                "created_at": "Tue Nov 29 15:37:06 +0000 2011",
+                "description": "USEA helps expands energy infrastructure in developing countries with the federal government and through its membership, represents the U.S. energy sector.",
+                "favourites_count": 1778,
+                "followers_count": 2400,
+                "friends_count": 1100,
+                "geo_enabled": true,
+                "id": 424274008,
+                "id_str": "424274008",
+                "listed_count": 53,
+                "location": "Washington, DC",
+                "name": "U.S. Energy Association",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/424274008/1521733783",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/973917986494013440/THO_vA02_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/973917986494013440/THO_vA02_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "screen_name": "USEnergyAssn",
+                "statuses_count": 2692,
+                "url": "https://t.co/0QrYt0Lxma"
+            },
+            "user_mentions": [
+                {
+                    "id": 801179207204241408,
+                    "id_str": "801179207204241408",
+                    "name": "Tellurian",
+                    "screen_name": "TellurianLNG"
+                },
+                {
+                    "id": 830128820447539208,
+                    "id_str": "830128820447539208",
+                    "name": "Rick Perry",
+                    "screen_name": "SecretaryPerry"
+                },
+                {
+                    "id": 424274008,
+                    "id_str": "424274008",
+                    "name": "U.S. Energy Association",
+                    "screen_name": "USEnergyAssn"
+                },
+                {
+                    "id": 61309973,
+                    "id_str": "61309973",
+                    "name": "EPRI",
+                    "screen_name": "EPRINews"
+                }
+            ]
+        },
+        "quoted_status_id": 1151505527198900224,
+        "quoted_status_id_str": "1151505527198900224",
+        "retweet_count": 21,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Excited to be at @USEnergyAssn's Advanced Energy Technology Forum talking about the amazing innovation being done a\u2026 https://t.co/FZe3ZgNmvh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151505791901470721",
+                "url": "https://t.co/FZe3ZgNmvh"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 10 18:58:28 +0000 2017",
+            "description": "14th Secretary of @Energy and former Governor of Texas.",
+            "favourites_count": 791,
+            "followers_count": 93433,
+            "friends_count": 258,
+            "geo_enabled": true,
+            "id": 830128820447539208,
+            "id_str": "830128820447539208",
+            "listed_count": 880,
+            "location": "Washington, DC",
+            "name": "Rick Perry",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/830128820447539208/1549478992",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/867444828455530496/tSpj4jSf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/867444828455530496/tSpj4jSf_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "SecretaryPerry",
+            "statuses_count": 2469,
+            "url": "https://t.co/t4U2UZgf8f",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 424274008,
+                "id_str": "424274008",
+                "name": "U.S. Energy Association",
+                "screen_name": "USEnergyAssn"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @SecretaryPerry: Excited to be at @USEnergyAssn's Advanced Energy Technology Forum talking about the amazing innovation being done at @E\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Feb 16 14:18:06 +0000 2010",
+        "description": "House Energy & Commerce Committee Republicans | Republican Leader @repgregwalden",
+        "favourites_count": 426,
+        "followers_count": 31292,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 114756202,
+        "id_str": "114756202",
+        "listed_count": 1305,
+        "location": "Washington, D.C.",
+        "name": "Energy & Commerce GOP",
+        "profile_background_color": "050000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114756202/1504288315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+        "profile_link_color": "A79777",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C7C5C5",
+        "profile_text_color": "28539E",
+        "profile_use_background_image": true,
+        "screen_name": "HouseCommerce",
+        "statuses_count": 14420,
+        "url": "https://t.co/N1b9OueDJW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 830128820447539208,
+            "id_str": "830128820447539208",
+            "name": "Rick Perry",
+            "screen_name": "SecretaryPerry"
+        },
+        {
+            "id": 424274008,
+            "id_str": "424274008",
+            "name": "U.S. Energy Association",
+            "screen_name": "USEnergyAssn"
+        }
+    ]
+}

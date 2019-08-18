@@ -1,0 +1,103 @@
+{
+    "created_at": "Wed Apr 24 17:43:01 +0000 2019",
+    "hashtags": [],
+    "id": 1121107289505771520,
+    "id_str": "1121107289505771520",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Apr 24 17:21:11 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1121101796246560768,
+        "id_str": "1121101796246560768",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Chief Broadway &amp; his Executive Staff met with Representative Ross Spano @RepRossSpano today to discuss the services\u2026 https://t.co/BQx2z2tTtQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1121101796246560768",
+                "url": "https://t.co/BQx2z2tTtQ"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 28 14:53:29 +0000 2015",
+            "default_profile": true,
+            "favourites_count": 89,
+            "followers_count": 2225,
+            "friends_count": 1116,
+            "id": 3392149451,
+            "id_str": "3392149451",
+            "listed_count": 56,
+            "location": "Clermont, FL",
+            "name": "Clermont Police",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3392149451/1443710989",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1054407394602688513/gvTgXaSl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054407394602688513/gvTgXaSl_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ClermontPD",
+            "statuses_count": 1091,
+            "url": "https://t.co/l0McJvuo7L"
+        },
+        "user_mentions": [
+            {
+                "id": 1090328229548826627,
+                "id_str": "1090328229548826627",
+                "name": "@RepRossSpano",
+                "screen_name": "RepRossSpano"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ClermontPD: Chief Broadway &amp; his Executive Staff met with Representative Ross Spano @RepRossSpano today to discuss the services that th\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 29 19:18:02 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly Representing #FL15 in the U.S. House of Representatives | RTs/follow \u2260 endorsement.",
+        "favourites_count": 122,
+        "followers_count": 1082,
+        "friends_count": 409,
+        "id": 1090328229548826627,
+        "id_str": "1090328229548826627",
+        "listed_count": 78,
+        "location": "Dover, FL",
+        "name": "@RepRossSpano",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090328229548826627/1548857545",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090328310381494273/PFIY-g70_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090328310381494273/PFIY-g70_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRossSpano",
+        "statuses_count": 258,
+        "url": "https://t.co/s70X5B8YiV",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3392149451,
+            "id_str": "3392149451",
+            "name": "Clermont Police",
+            "screen_name": "ClermontPD"
+        },
+        {
+            "id": 1090328229548826627,
+            "id_str": "1090328229548826627",
+            "name": "@RepRossSpano",
+            "screen_name": "RepRossSpano"
+        }
+    ]
+}

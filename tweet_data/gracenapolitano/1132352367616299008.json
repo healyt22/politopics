@@ -1,0 +1,153 @@
+{
+    "created_at": "Sat May 25 18:26:57 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Veterans"
+        },
+        {
+            "text": "Taps"
+        },
+        {
+            "text": "LosAngeles"
+        },
+        {
+            "text": "congresswoman"
+        }
+    ],
+    "id": 1132352367616299008,
+    "id_str": "1132352367616299008",
+    "lang": "en",
+    "retweet_count": 15,
+    "retweeted_status": {
+        "created_at": "Sat May 25 18:17:59 +0000 2019",
+        "favorite_count": 23,
+        "hashtags": [
+            {
+                "text": "Veterans"
+            },
+            {
+                "text": "Taps"
+            },
+            {
+                "text": "LosAngeles"
+            },
+            {
+                "text": "congresswoman"
+            }
+        ],
+        "id": 1132350113349660673,
+        "id_str": "1132350113349660673",
+        "lang": "en",
+        "place": {
+            "id": "07d9db07f5880002",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9db07f5880002.json",
+            "place_type": "poi",
+            "name": "Arcadia County Park",
+            "full_name": "Arcadia County Park",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -118.03414821624756,
+                            34.13855557068179
+                        ],
+                        [
+                            -118.03414821624756,
+                            34.13855557068179
+                        ],
+                        [
+                            -118.03414821624756,
+                            34.13855557068179
+                        ],
+                        [
+                            -118.03414821624756,
+                            34.13855557068179
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Preparing to honor our #Veterans w/ my performance of #Taps in #LosAngeles County. With my #congresswoman\u2026 https://t.co/gmJGesq6a9",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1132350113349660673",
+                "url": "https://t.co/gmJGesq6a9"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 12 00:15:57 +0000 2009",
+            "description": "\ud83c\udfbatrumpetist/singer/producr BLievr\ud83c\udfc5PBS tvSpc https://t.co/CCeGef2dlO \u2b50\ufe0fBillboardHITs\ud83c\uddfa\ud83c\uddf8#Playground #DeeperLove #TheJourney #ZoonBaloomba #LovingLife #WeAreOne",
+            "favourites_count": 28495,
+            "followers_count": 159043,
+            "friends_count": 108910,
+            "geo_enabled": true,
+            "id": 20642356,
+            "id_str": "20642356",
+            "listed_count": 692,
+            "location": "Studio City, CA (Earth)",
+            "name": "David Longoria",
+            "profile_background_color": "FCFCF4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20642356/1552701476",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/754888883465138176/lvppUQYX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/754888883465138176/lvppUQYX_normal.jpg",
+            "profile_link_color": "D90436",
+            "profile_sidebar_border_color": "F5764F",
+            "profile_sidebar_fill_color": "1EE0FA",
+            "profile_text_color": "0F010F",
+            "profile_use_background_image": true,
+            "screen_name": "davidlongoria7",
+            "statuses_count": 19910,
+            "url": "https://t.co/1uyuBcQ9Xh",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @davidlongoria7: Preparing to honor our #Veterans w/ my performance of #Taps in #LosAngeles County. With my #congresswoman @gracenapolit\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 30 19:48:06 +0000 2010",
+        "description": "Congresswoman from California's 32nd Congressional District in the US House of Representatives",
+        "favourites_count": 211,
+        "followers_count": 35299,
+        "friends_count": 566,
+        "geo_enabled": true,
+        "id": 161411080,
+        "id_str": "161411080",
+        "location": "El Monte, CA",
+        "name": "Rep.Grace Napolitano",
+        "profile_background_color": "004780",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978299365545652231/kTKikH7M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978299365545652231/kTKikH7M_normal.jpg",
+        "profile_link_color": "304896",
+        "profile_sidebar_border_color": "D91612",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "645D5B",
+        "screen_name": "gracenapolitano",
+        "statuses_count": 2756,
+        "url": "https://t.co/7k3n9mOHmy",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 20642356,
+            "id_str": "20642356",
+            "name": "David Longoria",
+            "screen_name": "davidlongoria7"
+        }
+    ]
+}

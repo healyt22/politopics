@@ -1,0 +1,165 @@
+{
+    "created_at": "Mon Feb 04 22:10:26 +0000 2019",
+    "hashtags": [],
+    "id": 1092545945059946501,
+    "id_str": "1092545945059946501",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Feb 04 19:02:11 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1092498570098266112,
+        "id_str": "1092498570098266112",
+        "in_reply_to_screen_name": "NTxCommission",
+        "in_reply_to_user_id": 21421838,
+        "lang": "en",
+        "place": {
+            "id": "dce44ec49eb788f5",
+            "url": "https://api.twitter.com/1.1/geo/id/dce44ec49eb788f5.json",
+            "place_type": "city",
+            "name": "Irving",
+            "full_name": "Irving, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.034184,
+                            32.771786
+                        ],
+                        [
+                            -96.888782,
+                            32.771786
+                        ],
+                        [
+                            -96.888782,
+                            32.956048
+                        ],
+                        [
+                            -97.034184,
+                            32.956048
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@NTxCommission thrilled to be hearing from 3 of our new North Texas Congressmen. @RepVanTaylor @RepColinAllred\u2026 https://t.co/mI8wJccqnN",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1092498570098266112",
+                "url": "https://t.co/mI8wJccqnN"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 27 15:05:40 +0000 2011",
+            "default_profile": true,
+            "description": "My day job is Gov't Relations/Public Affairs. Political junkie. Love God/family/scotties/gym/wine. Fan of just about all Texas sports. Opinions my own.",
+            "favourites_count": 5221,
+            "followers_count": 1525,
+            "friends_count": 3297,
+            "geo_enabled": true,
+            "id": 324985469,
+            "id_str": "324985469",
+            "listed_count": 23,
+            "location": "Coppell, TX",
+            "name": "Scott Orr",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/324985469/1561303626",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1142816137752829955/PQc7WOuQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142816137752829955/PQc7WOuQ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "scottorr300",
+            "statuses_count": 6324
+        },
+        "user_mentions": [
+            {
+                "id": 21421838,
+                "id_str": "21421838",
+                "name": "NorthTexasCommission",
+                "screen_name": "NTxCommission"
+            },
+            {
+                "id": 1075040139351597056,
+                "id_str": "1075040139351597056",
+                "name": "Rep Van Taylor",
+                "screen_name": "RepVanTaylor"
+            },
+            {
+                "id": 1078355119920562176,
+                "id_str": "1078355119920562176",
+                "name": "Rep. Colin Allred",
+                "screen_name": "RepColinAllred"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @scottorr300: @NTxCommission thrilled to be hearing from 3 of our new North Texas Congressmen. @RepVanTaylor @RepColinAllred @RepRonWrig\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 18 14:48:37 +0000 2018",
+        "description": "Proudly Serving the Third Congressional District of Texas.",
+        "favourites_count": 166,
+        "followers_count": 1769,
+        "friends_count": 137,
+        "geo_enabled": true,
+        "id": 1075040139351597056,
+        "id_str": "1075040139351597056",
+        "listed_count": 98,
+        "location": "Plano, Texas",
+        "name": "Rep Van Taylor",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075040139351597056/1548371843",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088576583684812800/nPn9LNpI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088576583684812800/nPn9LNpI_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepVanTaylor",
+        "statuses_count": 206,
+        "url": "https://t.co/aqeSw1xyWt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 324985469,
+            "id_str": "324985469",
+            "name": "Scott Orr",
+            "screen_name": "scottorr300"
+        },
+        {
+            "id": 21421838,
+            "id_str": "21421838",
+            "name": "NorthTexasCommission",
+            "screen_name": "NTxCommission"
+        },
+        {
+            "id": 1075040139351597056,
+            "id_str": "1075040139351597056",
+            "name": "Rep Van Taylor",
+            "screen_name": "RepVanTaylor"
+        },
+        {
+            "id": 1078355119920562176,
+            "id_str": "1078355119920562176",
+            "name": "Rep. Colin Allred",
+            "screen_name": "RepColinAllred"
+        }
+    ]
+}

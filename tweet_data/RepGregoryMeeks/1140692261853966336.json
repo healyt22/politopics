@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jun 17 18:46:42 +0000 2019",
+    "hashtags": [],
+    "id": 1140692261853966336,
+    "id_str": "1140692261853966336",
+    "lang": "en",
+    "retweet_count": 8473,
+    "retweeted_status": {
+        "created_at": "Mon Jun 17 17:56:12 +0000 2019",
+        "favorite_count": 24515,
+        "hashtags": [],
+        "id": 1140679552856940545,
+        "id_str": "1140679552856940545",
+        "lang": "en",
+        "retweet_count": 8473,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "For 3 years, @realDonaldTrump has promised that his magic healthcare plan is right around the corner again\nAnd agai\u2026 https://t.co/DX5dQ8pd2D",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1140679552856940545",
+                "url": "https://t.co/DX5dQ8pd2D"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Nov 19 20:10:20 +0000 2008",
+            "description": "Official account of Senator Chuck Schumer - New York\u2019s Senator RT\u2260endorsement",
+            "favourites_count": 215,
+            "followers_count": 1862459,
+            "friends_count": 25650,
+            "id": 17494010,
+            "id_str": "17494010",
+            "listed_count": 10354,
+            "location": "New York, NY",
+            "name": "Chuck Schumer",
+            "profile_background_color": "43090B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17494010/1522865010",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/978655909198036993/Gpnx2Os2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/978655909198036993/Gpnx2Os2_normal.jpg",
+            "profile_link_color": "FF6005",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E7E9EF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenSchumer",
+            "statuses_count": 15499,
+            "url": "https://t.co/8Vw6E2f47h",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SenSchumer: For 3 years, @realDonaldTrump has promised that his magic healthcare plan is right around the corner again\nAnd again\nAnd ag\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Mar 04 18:36:27 +0000 2009",
+        "description": "Proudly serving the people of the 5th Congressional District of New York. For media inquiries, please contact andrei.vasilescu@mail.house.gov",
+        "favourites_count": 1935,
+        "followers_count": 27733,
+        "friends_count": 1011,
+        "geo_enabled": true,
+        "id": 22812754,
+        "id_str": "22812754",
+        "listed_count": 1311,
+        "location": "Queens, New York",
+        "name": "Rep. Gregory Meeks",
+        "profile_background_color": "94B3C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22812754/1401376157",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978323500174802956/XhTHL8TC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978323500174802956/XhTHL8TC_normal.jpg",
+        "profile_link_color": "0054B3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGregoryMeeks",
+        "statuses_count": 5407,
+        "url": "https://t.co/YIqTnh2gac",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17494010,
+            "id_str": "17494010",
+            "name": "Chuck Schumer",
+            "screen_name": "SenSchumer"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

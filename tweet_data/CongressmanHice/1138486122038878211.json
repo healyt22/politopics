@@ -1,0 +1,82 @@
+{
+    "created_at": "Tue Jun 11 16:40:18 +0000 2019",
+    "favorite_count": 24,
+    "hashtags": [],
+    "id": 1138486122038878211,
+    "id_str": "1138486122038878211",
+    "lang": "en",
+    "place": {
+        "id": "07d9e39106880003",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e39106880003.json",
+        "place_type": "poi",
+        "name": "Cannon House Office Building",
+        "full_name": "Cannon House Office Building",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.00692892074585,
+                        38.886757140695906
+                    ],
+                    [
+                        -77.00692892074585,
+                        38.886757140695906
+                    ],
+                    [
+                        -77.00692892074585,
+                        38.886757140695906
+                    ],
+                    [
+                        -77.00692892074585,
+                        38.886757140695906
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 27,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "REGISTER NOW: At 6:00pm tonight, I\u2019ll be hosting a live, open-topic telephone town hall. If there\u2019s an issue you wa\u2026 https://t.co/4bK4C5aBKG",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138486122038878211",
+            "url": "https://t.co/4bK4C5aBKG"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 12 18:48:35 +0000 2015",
+        "default_profile": true,
+        "description": "I'm honored to serve Georgia's 10th Congressional District.",
+        "favourites_count": 1337,
+        "followers_count": 28736,
+        "friends_count": 943,
+        "geo_enabled": true,
+        "id": 2975091705,
+        "id_str": "2975091705",
+        "listed_count": 680,
+        "location": "Greensboro, GA; Washington, DC",
+        "name": "Rep. Jody Hice",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2975091705/1536671706",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004114780200816641/_vvzlcnp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004114780200816641/_vvzlcnp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanHice",
+        "statuses_count": 2903,
+        "url": "https://t.co/apR1dqYCIk",
+        "verified": true
+    },
+    "user_mentions": []
+}

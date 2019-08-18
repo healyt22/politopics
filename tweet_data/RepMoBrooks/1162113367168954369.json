@@ -1,0 +1,125 @@
+{
+    "created_at": "Thu Aug 15 21:26:32 +0000 2019",
+    "hashtags": [
+        {
+            "text": "AL05"
+        }
+    ],
+    "id": 1162113367168954369,
+    "id_str": "1162113367168954369",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Thu Aug 15 21:01:55 +0000 2019",
+        "favorite_count": 20,
+        "hashtags": [
+            {
+                "text": "AL05"
+            }
+        ],
+        "id": 1162107171930329089,
+        "id_str": "1162107171930329089",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "We were in Alabama today touring @INEOS with @RepMoBrooks who represents the +2,600 #AL05 constituents employed in\u2026 https://t.co/SR4yn5NDy6",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162107171930329089",
+                "url": "https://t.co/SR4yn5NDy6"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 01 19:00:28 +0000 2016",
+            "description": "An online community showcasing chemistry and engaging stakeholders across the U.S. If #ChemistryMatters to you, then your voice matters to us.",
+            "favourites_count": 1718,
+            "followers_count": 6553,
+            "friends_count": 1002,
+            "geo_enabled": true,
+            "id": 738082805826097152,
+            "id_str": "738082805826097152",
+            "listed_count": 49,
+            "location": "Washington, DC",
+            "name": "ChemistryMatters",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/738082805826097152/1551729396",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1090340936008241152/eDJtyBt7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090340936008241152/eDJtyBt7_normal.jpg",
+            "profile_link_color": "24366A",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AmChemMatters",
+            "statuses_count": 2299,
+            "url": "https://t.co/wjZFM4t9Av"
+        },
+        "user_mentions": [
+            {
+                "id": 16238220,
+                "id_str": "16238220",
+                "name": "INEOS",
+                "screen_name": "INEOS"
+            },
+            {
+                "id": 237299871,
+                "id_str": "237299871",
+                "name": "Mo Brooks",
+                "screen_name": "RepMoBrooks"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AmChemMatters: We were in Alabama today touring @INEOS with @RepMoBrooks who represents the +2,600 #AL05 constituents employed in the f\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 12 14:46:14 +0000 2011",
+        "description": "Thanks for following me. I'm the Congressman for Alabama's Fifth District and this is my official Twitter page. It's an honor to serve you.",
+        "favourites_count": 788,
+        "followers_count": 33313,
+        "friends_count": 2783,
+        "geo_enabled": true,
+        "id": 237299871,
+        "id_str": "237299871",
+        "listed_count": 1263,
+        "location": "Alabama",
+        "name": "Mo Brooks",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237299871/1408038766",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3253062018/1745ec9085ff4db219c69bd7ffb2e7fc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3253062018/1745ec9085ff4db219c69bd7ffb2e7fc_normal.jpeg",
+        "profile_link_color": "27BAF0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoBrooks",
+        "statuses_count": 2666,
+        "url": "http://t.co/XErdLh9N6C",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 738082805826097152,
+            "id_str": "738082805826097152",
+            "name": "ChemistryMatters",
+            "screen_name": "AmChemMatters"
+        },
+        {
+            "id": 16238220,
+            "id_str": "16238220",
+            "name": "INEOS",
+            "screen_name": "INEOS"
+        },
+        {
+            "id": 237299871,
+            "id_str": "237299871",
+            "name": "Mo Brooks",
+            "screen_name": "RepMoBrooks"
+        }
+    ]
+}

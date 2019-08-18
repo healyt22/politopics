@@ -1,0 +1,70 @@
+{
+    "created_at": "Wed Aug 14 13:27:00 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "OpportunityZone"
+        }
+    ],
+    "id": 1161630302235746304,
+    "id_str": "1161630302235746304",
+    "lang": "en",
+    "retweet_count": 3,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "WNY #OpportunityZone Conference underway at @NorthlandWTC.  Thanks to @LISCBuffalo and @RWJF for bringing the commu\u2026 https://t.co/166gjiSVW6",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1161630302235746304",
+            "url": "https://t.co/166gjiSVW6"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Apr 20 16:47:06 +0000 2009",
+        "description": "Official account for the Office of Congressman Brian Higgins (NY-26) representing portions of Erie and Niagara counties. http://t.co/Cpl0TlH2JW",
+        "favourites_count": 425,
+        "followers_count": 23664,
+        "friends_count": 3651,
+        "geo_enabled": true,
+        "id": 33576489,
+        "id_str": "33576489",
+        "listed_count": 1110,
+        "location": "WNY and Washington, DC",
+        "name": "Brian Higgins",
+        "profile_background_color": "0B868C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33576489/1401727504",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655008552243761152/vHUDf1-r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655008552243761152/vHUDf1-r_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBrianHiggins",
+        "statuses_count": 14394,
+        "url": "http://t.co/O0L2n6ZElF",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 956276686147997697,
+            "id_str": "956276686147997697",
+            "name": "Northland Workforce Training Center",
+            "screen_name": "NorthlandWTC"
+        },
+        {
+            "id": 1927544942,
+            "id_str": "1927544942",
+            "name": "Buffalo LISC",
+            "screen_name": "LISCBuffalo"
+        },
+        {
+            "id": 17837184,
+            "id_str": "17837184",
+            "name": "Robert Wood Johnson Foundation",
+            "screen_name": "RWJF"
+        }
+    ]
+}

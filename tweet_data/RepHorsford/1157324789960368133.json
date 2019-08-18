@@ -1,0 +1,118 @@
+{
+    "created_at": "Fri Aug 02 16:18:26 +0000 2019",
+    "hashtags": [
+        {
+            "text": "EqualityAct"
+        }
+    ],
+    "id": 1157324789960368133,
+    "id_str": "1157324789960368133",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Fri Aug 02 05:09:52 +0000 2019",
+        "favorite_count": 21,
+        "hashtags": [
+            {
+                "text": "EqualityAct"
+            }
+        ],
+        "id": 1157156537200070656,
+        "id_str": "1157156537200070656",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Great turnout tonight as we celebrated the passage of the #EqualityAct in the House. with @RepSusieLee,\u2026 https://t.co/yZsDkgkqev",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1157156537200070656",
+                "url": "https://t.co/yZsDkgkqev"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 07 20:47:56 +0000 2009",
+            "description": "#AreYouIN? \u2022 FB @HRCLasvegas \u2022 Instagram @LasVegasHRC \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "favourites_count": 2380,
+            "followers_count": 2819,
+            "friends_count": 1411,
+            "geo_enabled": true,
+            "id": 38513550,
+            "id_str": "38513550",
+            "listed_count": 63,
+            "location": "Las Vegas, NV",
+            "name": "HRC Las Vegas",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38513550/1559670041",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1117234260815966209/XnuJ9N6w_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117234260815966209/XnuJ9N6w_normal.png",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "HRCLasVegas",
+            "statuses_count": 5073
+        },
+        "user_mentions": [
+            {
+                "id": 1079061579973439488,
+                "id_str": "1079061579973439488",
+                "name": "Rep. Susie Lee",
+                "screen_name": "RepSusieLee"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @HRCLasVegas: Great turnout tonight as we celebrated the passage of the #EqualityAct in the House. with @RepSusieLee, @RepHorsford and @\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Oct 13 02:23:25 +0000 2011",
+        "description": "Official Twitter account of Congressman Steven Horsford. Proudly representing the people of Nevada's Fourth Congressional District. #NV04",
+        "favourites_count": 212,
+        "followers_count": 10315,
+        "friends_count": 1848,
+        "geo_enabled": true,
+        "id": 389840566,
+        "id_str": "389840566",
+        "listed_count": 474,
+        "location": "Nevada, USA",
+        "name": "Rep. Steven Horsford",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/389840566/1554557262",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080712516626305024/8vOXb5a__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080712516626305024/8vOXb5a__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHorsford",
+        "statuses_count": 2558,
+        "url": "https://t.co/A9ACM7VdCt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 38513550,
+            "id_str": "38513550",
+            "name": "HRC Las Vegas",
+            "screen_name": "HRCLasVegas"
+        },
+        {
+            "id": 1079061579973439488,
+            "id_str": "1079061579973439488",
+            "name": "Rep. Susie Lee",
+            "screen_name": "RepSusieLee"
+        },
+        {
+            "id": 389840566,
+            "id_str": "389840566",
+            "name": "Rep. Steven Horsford",
+            "screen_name": "RepHorsford"
+        }
+    ]
+}

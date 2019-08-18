@@ -1,0 +1,80 @@
+{
+    "created_at": "Tue Jul 23 13:40:44 +0000 2019",
+    "favorite_count": 95,
+    "hashtags": [],
+    "id": 1153661225580077056,
+    "id_str": "1153661225580077056",
+    "lang": "en",
+    "place": {
+        "id": "0fc271698555b001",
+        "url": "https://api.twitter.com/1.1/geo/id/0fc271698555b001.json",
+        "place_type": "poi",
+        "name": "Minnesota Monument",
+        "full_name": "Minnesota Monument",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.23514657476693,
+                        39.8069675325447
+                    ],
+                    [
+                        -77.23514657476693,
+                        39.8069675325447
+                    ],
+                    [
+                        -77.23514657476693,
+                        39.8069675325447
+                    ],
+                    [
+                        -77.23514657476693,
+                        39.8069675325447
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 8,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "My staff and I spent yesterday at Gettysburg - reflecting on its lessons, the bravery of the 1st Minnesota Regiment\u2026 https://t.co/gzNjrYbXn5",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153661225580077056",
+            "url": "https://t.co/gzNjrYbXn5"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Nov 10 17:30:23 +0000 2018",
+        "default_profile": true,
+        "description": "Exposing truth, cleaning-up corruption & inspiring collaboration in Congress. Member of House Financial Services, Foreign Affairs, & Ethics Committees. #MN03",
+        "favourites_count": 2688,
+        "followers_count": 11462,
+        "friends_count": 767,
+        "geo_enabled": true,
+        "id": 1061310112013434882,
+        "id_str": "1061310112013434882",
+        "listed_count": 214,
+        "location": "Minnesota, USA",
+        "name": "Rep. Dean Phillips",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061310112013434882/1543962611",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDeanPhillips",
+        "statuses_count": 608,
+        "url": "https://t.co/shLWxHqqwP",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,153 @@
+{
+    "created_at": "Fri Apr 19 00:44:02 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [],
+    "id": 1119038915233681408,
+    "id_str": "1119038915233681408",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Apr 18 16:59:04 +0000 2019",
+        "favorite_count": 147807,
+        "hashtags": [],
+        "id": 1118921900858793985,
+        "id_str": "1118921900858793985",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BnMB5mvHAM",
+                "expanded_url": "https://twitter.com/realDonaldTrump/status/1118921900858793985/video/1",
+                "id": 1118921524784914432,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118921524784914432/pu/img/rMnocXVx1L3rAKg_.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118921524784914432/pu/img/rMnocXVx1L3rAKg_.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/BnMB5mvHAM",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 60842,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1118921524784914432/pu/vid/320x180/z8GRiofeN9j9gQlz.mp4?tag=8"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1118921524784914432/pu/pl/gG5sPCw4cXkavxDb.m3u8?tag=8"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1118921524784914432/pu/vid/1280x720/tyq20AUcV_7KvT12.mp4?tag=8"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1118921524784914432/pu/vid/640x360/T8n-p_3c9zUruZRL.mp4?tag=8"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 38835,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "As I have been saying all along, NO COLLUSION - NO OBSTRUCTION! https://t.co/BnMB5mvHAM",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+            "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+            "favourites_count": 7,
+            "followers_count": 63207849,
+            "friends_count": 47,
+            "geo_enabled": true,
+            "id": 25073877,
+            "id_str": "25073877",
+            "listed_count": 106977,
+            "location": "Washington, DC",
+            "name": "Donald J. Trump",
+            "profile_background_color": "6D5C18",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "C5CEC0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "realDonaldTrump",
+            "statuses_count": 43579,
+            "url": "https://t.co/OMxB0x7xC5",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1118921900858793985,
+    "quoted_status_id_str": "1118921900858793985",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Mueller: \u201cOur investigation found multiple acts by the President that were capable of exerting undue influence over\u2026 https://t.co/1BqoyQwNnd",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1119038915233681408",
+            "url": "https://t.co/1BqoyQwNnd"
+        }
+    ],
+    "user": {
+        "created_at": "Wed May 25 20:59:25 +0000 2011",
+        "default_profile": true,
+        "description": "Official Twitter account of Congressman Bobby L. Rush, proudly representing the 1st Congressional District of Illinois.",
+        "favourites_count": 432,
+        "followers_count": 20276,
+        "friends_count": 960,
+        "geo_enabled": true,
+        "id": 305216911,
+        "id_str": "305216911",
+        "listed_count": 945,
+        "location": "Chicago, IL",
+        "name": "Bobby L. Rush",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/305216911/1518124449",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004884463963303936/qe5m6af2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004884463963303936/qe5m6af2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBobbyRush",
+        "statuses_count": 2900,
+        "url": "https://t.co/m46YtFAWex",
+        "verified": true
+    },
+    "user_mentions": []
+}

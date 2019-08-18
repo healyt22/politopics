@@ -1,0 +1,116 @@
+{
+    "created_at": "Tue Apr 16 16:12:40 +0000 2019",
+    "hashtags": [],
+    "id": 1118185447895605249,
+    "id_str": "1118185447895605249",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Tue Apr 16 16:06:07 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 1118183800389931008,
+        "id_str": "1118183800389931008",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you \u2066@repdavidscott\u2069 for meeting with us and for your ongoing commitment to those who are 50+. \u2066@GALiveBetter\u2026 https://t.co/ewTCRWtL5i",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118183800389931008",
+                "url": "https://t.co/ewTCRWtL5i"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Oct 16 19:16:25 +0000 2009",
+            "default_profile": true,
+            "favourites_count": 489,
+            "followers_count": 2901,
+            "friends_count": 690,
+            "geo_enabled": true,
+            "id": 82951009,
+            "id_str": "82951009",
+            "listed_count": 104,
+            "location": "\u00dcT: 33.821324,-84.360438",
+            "name": "AARP Georgia",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/82951009/1563650279",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1106650284183511040/YX9Ktarg_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106650284183511040/YX9Ktarg_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AARPGA",
+            "statuses_count": 9759,
+            "url": "https://t.co/74hAGFBAwO"
+        },
+        "user_mentions": [
+            {
+                "id": 168673083,
+                "id_str": "168673083",
+                "name": "David Scott",
+                "screen_name": "repdavidscott"
+            },
+            {
+                "id": 449101180,
+                "id_str": "449101180",
+                "name": "GALiveBetter",
+                "screen_name": "GALiveBetter"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AARPGA: Thank you \u2066@repdavidscott\u2069 for meeting with us and for your ongoing commitment to those who are 50+. \u2066@GALiveBetter\u2069 \u2066@AARPGA_A\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 20 14:10:32 +0000 2010",
+        "description": "Representing Georgia's 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+        "favourites_count": 2673,
+        "followers_count": 21046,
+        "friends_count": 1874,
+        "id": 168673083,
+        "id_str": "168673083",
+        "listed_count": 844,
+        "location": "Georgia",
+        "name": "David Scott",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168673083/1425489882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "repdavidscott",
+        "statuses_count": 2861,
+        "url": "http://t.co/86ovd85h30",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 82951009,
+            "id_str": "82951009",
+            "name": "AARP Georgia",
+            "screen_name": "AARPGA"
+        },
+        {
+            "id": 168673083,
+            "id_str": "168673083",
+            "name": "David Scott",
+            "screen_name": "repdavidscott"
+        },
+        {
+            "id": 449101180,
+            "id_str": "449101180",
+            "name": "GALiveBetter",
+            "screen_name": "GALiveBetter"
+        }
+    ]
+}

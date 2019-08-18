@@ -1,0 +1,138 @@
+{
+    "created_at": "Wed Jun 12 18:16:29 +0000 2019",
+    "hashtags": [],
+    "id": 1138872716952514565,
+    "id_str": "1138872716952514565",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jun 12 17:14:01 +0000 2019",
+        "favorite_count": 26,
+        "hashtags": [],
+        "id": 1138856995124142082,
+        "id_str": "1138856995124142082",
+        "lang": "en",
+        "place": {
+            "id": "07d9d218ad486000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d218ad486000.json",
+            "place_type": "poi",
+            "name": "United States Capitol Building",
+            "full_name": "United States Capitol Building",
+            "country_code": "",
+            "country": "",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.00607061386108,
+                            38.889746807433816
+                        ],
+                        [
+                            -77.00607061386108,
+                            38.889746807433816
+                        ],
+                        [
+                            -77.00607061386108,
+                            38.889746807433816
+                        ],
+                        [
+                            -77.00607061386108,
+                            38.889746807433816
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you, @SenatorLeahy, for taking time to meet and speak with Vermont National History Day students at the Capit\u2026 https://t.co/k55VAcpi8Q",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138856995124142082",
+                "url": "https://t.co/k55VAcpi8Q"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 19 16:16:05 +0000 2010",
+            "description": "National History Day administers a competition that challenges middle and high school students to discover and experience history for themselves.",
+            "favourites_count": 13166,
+            "followers_count": 14777,
+            "friends_count": 1770,
+            "geo_enabled": true,
+            "id": 145682886,
+            "id_str": "145682886",
+            "listed_count": 307,
+            "location": "College Park, MD",
+            "name": "National History Day",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/145682886/1561920606",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/900427778666921984/sP9fAeV9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/900427778666921984/sP9fAeV9_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "5A88B6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NationalHistory",
+            "statuses_count": 13564,
+            "url": "http://t.co/Qn45kPg3sf"
+        },
+        "user_mentions": [
+            {
+                "id": 242836537,
+                "id_str": "242836537",
+                "name": "Sen. Patrick Leahy",
+                "screen_name": "SenatorLeahy"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @NationalHistory: Thank you, @SenatorLeahy, for taking time to meet and speak with Vermont National History Day students at the Capitol\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 25 18:20:07 +0000 2011",
+        "favourites_count": 122,
+        "followers_count": 185485,
+        "friends_count": 2587,
+        "id": 242836537,
+        "id_str": "242836537",
+        "listed_count": 2998,
+        "location": "Washington, DC",
+        "name": "Sen. Patrick Leahy",
+        "profile_background_color": "4D7830",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242836537/1358287469",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/921434597900128256/rcREOAwv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/921434597900128256/rcREOAwv_normal.jpg",
+        "profile_link_color": "9E410B",
+        "profile_sidebar_border_color": "9E410B",
+        "profile_sidebar_fill_color": "F7F8E9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorLeahy",
+        "statuses_count": 15263,
+        "url": "http://t.co/yrKgLVIocD",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 145682886,
+            "id_str": "145682886",
+            "name": "National History Day",
+            "screen_name": "NationalHistory"
+        },
+        {
+            "id": 242836537,
+            "id_str": "242836537",
+            "name": "Sen. Patrick Leahy",
+            "screen_name": "SenatorLeahy"
+        }
+    ]
+}

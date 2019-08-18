@@ -1,0 +1,126 @@
+{
+    "created_at": "Tue May 14 15:51:14 +0000 2019",
+    "favorite_count": 19,
+    "hashtags": [],
+    "id": 1128326912948998144,
+    "id_str": "1128326912948998144",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 14 12:31:03 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1128276537793400832,
+        "id_str": "1128276537793400832",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8JO6Jk4yP2",
+                "expanded_url": "https://twitter.com/fox5ny/status/1128276537793400832/photo/1",
+                "id": 1128276535486500865,
+                "media_url": "http://pbs.twimg.com/media/D6hxh_oU0AEUYKn.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D6hxh_oU0AEUYKn.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8JO6Jk4yP2"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "New Haven mosque fire appears to be arson, chief says https://t.co/Kn9S3zSvYV https://t.co/8JO6Jk4yP2",
+        "urls": [
+            {
+                "expanded_url": "http://dlvr.it/R4gRvQ",
+                "url": "https://t.co/Kn9S3zSvYV"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Oct 03 19:06:04 +0000 2007",
+            "description": "Comments & photos shared here or using #Fox5NY could be used on any FOX platforms.",
+            "favourites_count": 4762,
+            "followers_count": 111540,
+            "friends_count": 429,
+            "geo_enabled": true,
+            "id": 9229672,
+            "id_str": "9229672",
+            "listed_count": 1853,
+            "location": "New York",
+            "name": "Fox5NY",
+            "profile_background_color": "0C091A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/9229672/1414514569",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/862393610209308672/ExL27e2d_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/862393610209308672/ExL27e2d_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "fox5ny",
+            "statuses_count": 130530,
+            "url": "http://t.co/4Zs8s3El4O",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1128276537793400832,
+    "quoted_status_id_str": "1128276537793400832",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "This is despicable. Those responsible must be brought to justice. https://t.co/LpkRQVXVLi",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/fox5ny/status/1128276537793400832",
+            "url": "https://t.co/LpkRQVXVLi"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jul 07 20:34:17 +0000 2010",
+        "description": "Congressman representing parts of the Bronx and Westchester Counties in New York #NY16. Chair, @HouseForeign.",
+        "favourites_count": 215,
+        "followers_count": 33939,
+        "friends_count": 958,
+        "geo_enabled": true,
+        "id": 164007407,
+        "id_str": "164007407",
+        "listed_count": 1183,
+        "name": "Eliot Engel",
+        "profile_background_color": "EBE6CE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164007407/1517494271",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/523095197983309825/3TdNyI76_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/523095197983309825/3TdNyI76_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepEliotEngel",
+        "statuses_count": 4718,
+        "url": "http://t.co/BVwX9Ov3sA",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,97 @@
+{
+    "created_at": "Fri Jul 26 17:15:47 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "TaxCuts"
+        }
+    ],
+    "id": 1154802508180676609,
+    "id_str": "1154802508180676609",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Led by @realDonaldTrump\u2019s deregulation and pro-growth policies and @HouseGOP\u2019s #TaxCuts, the majority of Americans\u2026 https://t.co/uxJL1LXz4C",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1154802508180676609",
+            "url": "https://t.co/uxJL1LXz4C"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 25 15:24:07 +0000 2011",
+        "description": "Husband, Dad, 5th Generation Oklahoman. Ranking Member @housesciencegop. Proudly representing Oklahoma\u2019s Third Congressional District.",
+        "favourites_count": 40,
+        "followers_count": 19512,
+        "friends_count": 322,
+        "geo_enabled": true,
+        "id": 242772524,
+        "id_str": "242772524",
+        "listed_count": 514,
+        "location": "Cheyenne, OK",
+        "name": "Frank Lucas",
+        "profile_background_color": "1B597A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242772524/1401460311",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628275690253774848/4zKOn1iP_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628275690253774848/4zKOn1iP_normal.png",
+        "profile_link_color": "48730F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepFrankLucas",
+        "statuses_count": 995,
+        "url": "https://t.co/S3duYhCDDn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        },
+        {
+            "id": 15207668,
+            "id_str": "15207668",
+            "name": "House Republicans",
+            "screen_name": "HouseGOP"
+        }
+    ]
+}

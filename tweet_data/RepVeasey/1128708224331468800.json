@@ -1,0 +1,105 @@
+{
+    "created_at": "Wed May 15 17:06:25 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 1128708224331468800,
+    "id_str": "1128708224331468800",
+    "in_reply_to_screen_name": "RepVeasey",
+    "in_reply_to_status_id": 1128708169117700096,
+    "in_reply_to_user_id": 1074129612,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Y7BcCwzqjK",
+            "expanded_url": "https://twitter.com/RepVeasey/status/1128708224331468800/video/1",
+            "id": 1128708181155307520,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128708181155307520/pu/img/DNDJ1-mJgu3jEszE.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128708181155307520/pu/img/DNDJ1-mJgu3jEszE.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Y7BcCwzqjK",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 5690,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1128708181155307520/pu/pl/lKFwJ7nL3bGigkK6.m3u8?tag=9"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1128708181155307520/pu/vid/320x568/GPMm4dLtxvcwC3oV.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1128708181155307520/pu/vid/720x1280/pjbQNCK64b3dnng_.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1128708181155307520/pu/vid/360x640/3G3s98_BbuzoryVj.mp4?tag=9"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Bringing the heat! https://t.co/Y7BcCwzqjK",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 09 15:49:27 +0000 2013",
+        "description": "Represent Dallas-Fort Worth | Assistant Whip | @energycommerce & Small Biz | #GunViolencePrevention Taskforce Whip | Voting Rights Caucus \ud83d\uddf3 +@bluecollardems",
+        "favourites_count": 1666,
+        "followers_count": 23657,
+        "friends_count": 3266,
+        "geo_enabled": true,
+        "id": 1074129612,
+        "id_str": "1074129612",
+        "listed_count": 808,
+        "location": "Dallas-Fort Worth, Texas",
+        "name": "Rep. Marc Veasey",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074129612/1551284749",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096427333475622919/iN6FsHIM_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096427333475622919/iN6FsHIM_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepVeasey",
+        "statuses_count": 4063,
+        "url": "https://t.co/o4DuQsMYT7",
+        "verified": true
+    },
+    "user_mentions": []
+}

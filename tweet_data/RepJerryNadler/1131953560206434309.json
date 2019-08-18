@@ -1,0 +1,100 @@
+{
+    "created_at": "Fri May 24 16:02:14 +0000 2019",
+    "favorite_count": 348,
+    "hashtags": [],
+    "id": 1131953560206434309,
+    "id_str": "1131953560206434309",
+    "lang": "en",
+    "place": {
+        "id": "07d9eed5fe880001",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9eed5fe880001.json",
+        "place_type": "poi",
+        "name": "Seventieth Street Playground (aka PS 199 Playground)",
+        "full_name": "Seventieth Street Playground (aka PS 199 Playground)",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -73.98400937293768,
+                        40.77747594570336
+                    ],
+                    [
+                        -73.98400937293768,
+                        40.77747594570336
+                    ],
+                    [
+                        -73.98400937293768,
+                        40.77747594570336
+                    ],
+                    [
+                        -73.98400937293768,
+                        40.77747594570336
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 75,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Speed cameras in school zones save lives, today I joined @NYCMayor @galeabrewer @HelenRosenthal on the UWS at\u2026 https://t.co/OcDDQvjfBk",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1131953560206434309",
+            "url": "https://t.co/OcDDQvjfBk"
+        }
+    ],
+    "user": {
+        "created_at": "Fri May 15 18:37:39 +0000 2009",
+        "description": "Representing parts of Manhattan and Brooklyn. Proud to serve as the Chair of @HouseJudiciary. Follow me at https://t.co/eAS0pRYbYu",
+        "favourites_count": 559,
+        "followers_count": 205679,
+        "friends_count": 1980,
+        "geo_enabled": true,
+        "id": 40302336,
+        "id_str": "40302336",
+        "listed_count": 2293,
+        "location": "New York, NY",
+        "name": "(((Rep. Nadler)))",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40302336/1557845965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJerryNadler",
+        "statuses_count": 6053,
+        "url": "https://t.co/keKmu0YhMW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19834403,
+            "id_str": "19834403",
+            "name": "Mayor Bill de Blasio",
+            "screen_name": "NYCMayor"
+        },
+        {
+            "id": 18590012,
+            "id_str": "18590012",
+            "name": "Gale A. Brewer",
+            "screen_name": "galeabrewer"
+        },
+        {
+            "id": 23220889,
+            "id_str": "23220889",
+            "name": "Helen Rosenthal",
+            "screen_name": "HelenRosenthal"
+        }
+    ]
+}

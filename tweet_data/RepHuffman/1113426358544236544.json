@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Apr 03 13:01:44 +0000 2019",
+    "hashtags": [],
+    "id": 1113426358544236544,
+    "id_str": "1113426358544236544",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Tue Apr 02 17:31:58 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 1113131973462122529,
+        "id_str": "1113131973462122529",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Another successful meeting with an Alzheimer\u2019s champion! Thank you Jordan Sciascia, Legislative Health Aide for\u2026 https://t.co/dpaBCzHOlA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1113131973462122529",
+                "url": "https://t.co/dpaBCzHOlA"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 03 13:56:24 +0000 2014",
+            "default_profile": true,
+            "favourites_count": 151,
+            "followers_count": 101,
+            "friends_count": 38,
+            "geo_enabled": true,
+            "id": 2543575802,
+            "id_str": "2543575802",
+            "listed_count": 3,
+            "name": "Shelley Dombroski",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/515228048673607680/xGqsYHjI_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/515228048673607680/xGqsYHjI_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "shdomski",
+            "statuses_count": 154
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @shdomski: Another successful meeting with an Alzheimer\u2019s champion! Thank you Jordan Sciascia, Legislative Health Aide for @RepHuffman,\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 14:52:00 +0000 2013",
+        "default_profile": true,
+        "description": "Congressman for California's North Coast. On Facebook at https://t.co/a4QfL2Jw5p.   Listen to my brand new podcast at https://t.co/XDE8MuHKxF",
+        "favourites_count": 39,
+        "followers_count": 33191,
+        "friends_count": 821,
+        "id": 1071102246,
+        "id_str": "1071102246",
+        "listed_count": 863,
+        "location": "California's North Coast",
+        "name": "Rep. Jared Huffman",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071102246/1562005240",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651435990100279296/5lQBk2Ut_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651435990100279296/5lQBk2Ut_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHuffman",
+        "statuses_count": 2496,
+        "url": "http://t.co/1EuZeNQsh6",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2543575802,
+            "id_str": "2543575802",
+            "name": "Shelley Dombroski",
+            "screen_name": "shdomski"
+        },
+        {
+            "id": 1071102246,
+            "id_str": "1071102246",
+            "name": "Rep. Jared Huffman",
+            "screen_name": "RepHuffman"
+        }
+    ]
+}

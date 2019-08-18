@@ -1,0 +1,104 @@
+{
+    "created_at": "Sat Jul 20 15:50:52 +0000 2019",
+    "favorite_count": 79,
+    "hashtags": [
+        {
+            "text": "Apollo50th"
+        }
+    ],
+    "id": 1152606808839733248,
+    "id_str": "1152606808839733248",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/9bnJszcWVE",
+            "expanded_url": "https://twitter.com/SenGaryPeters/status/1152606808839733248/video/1",
+            "id": 1151998305892741127,
+            "media_url": "http://pbs.twimg.com/media/D_zXCDyW4AIQKwt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_zXCDyW4AIQKwt.jpg",
+            "sizes": {
+                "small": {
+                    "w": 320,
+                    "h": 320,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 320,
+                    "h": 320,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 320,
+                    "h": 320,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/9bnJszcWVE",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 188822,
+                "variants": [
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1151998305892741127/vid/720x720/LysbnM8Apt1JJ6Kx.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1151998305892741127/vid/320x320/eObPN15ywgQiFl89.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1151998305892741127/vid/480x480/3-xMEYhebvklXJdo.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1151998305892741127/pl/qn010kNCb55pprgY.m3u8?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 11,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "50 years ago we accomplished the impossible.\n\n#Apollo50th https://t.co/9bnJszcWVE",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 10 19:17:36 +0000 2011",
+        "description": "U.S. Senator proudly representing the state of Michigan.",
+        "favourites_count": 201,
+        "followers_count": 110449,
+        "friends_count": 1180,
+        "geo_enabled": true,
+        "id": 236511574,
+        "id_str": "236511574",
+        "listed_count": 1614,
+        "name": "Senator Gary Peters",
+        "profile_background_color": "EBEDF5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/236511574/1565323407",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/921025087251386369/11o7UGiT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/921025087251386369/11o7UGiT_normal.jpg",
+        "profile_link_color": "00638A",
+        "profile_sidebar_border_color": "3E80B3",
+        "profile_sidebar_fill_color": "65ABE0",
+        "profile_text_color": "000000",
+        "screen_name": "SenGaryPeters",
+        "statuses_count": 6014,
+        "url": "http://t.co/LDQSc7zibg",
+        "verified": true
+    },
+    "user_mentions": []
+}

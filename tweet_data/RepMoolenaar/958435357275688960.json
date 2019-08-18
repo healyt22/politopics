@@ -1,0 +1,113 @@
+{
+    "created_at": "Tue Jan 30 20:22:50 +0000 2018",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 958435357275688960,
+    "id_str": "958435357275688960",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jan 30 20:11:38 +0000 2018",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 958432536232890371,
+        "id_str": "958432536232890371",
+        "in_reply_to_screen_name": "nannburke",
+        "in_reply_to_status_id": 958431806809833473,
+        "in_reply_to_user_id": 21877897,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@nannburke @RepMoolenaar whoa whoa whoa\n\nThere's Cops &amp; Doughnuts baked goods in Washington DC right now? I need this in my life.",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Jan 30 20:15:28 +0000 2009",
+            "description": "Breaker of News for Bloomberg. Spartan. Like Humphrey and Boehner, a happy warrior. dwallbank@bloomberg.net",
+            "favourites_count": 3171,
+            "followers_count": 6576,
+            "friends_count": 1918,
+            "geo_enabled": true,
+            "id": 19785811,
+            "id_str": "19785811",
+            "listed_count": 310,
+            "location": "Singapore",
+            "name": "Derek Wallbank",
+            "profile_background_color": "004F39",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19785811/1535657932",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158956920465608704/wLkHlcJ__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158956920465608704/wLkHlcJ__normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCD",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "dwallbank",
+            "statuses_count": 34619,
+            "url": "https://t.co/sWb71ALtaq",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 21877897,
+                "id_str": "21877897",
+                "name": "Melissa Nann Burke",
+                "screen_name": "nannburke"
+            },
+            {
+                "id": 2696643955,
+                "id_str": "2696643955",
+                "name": "Rep. John Moolenaar",
+                "screen_name": "RepMoolenaar"
+            }
+        ]
+    },
+    "quoted_status_id": 958432536232890371,
+    "quoted_status_id_str": "958432536232890371",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "There sure is. I am thrilled Ryno from @CopsDoughnuts could be my guest tonight for the State of the Union. A great\u2026 https://t.co/P0yt1gdYp5",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/958435357275688960",
+            "url": "https://t.co/P0yt1gdYp5"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 31 21:09:14 +0000 2014",
+        "default_profile": true,
+        "description": "Representing Michigan's Fourth Congressional District. This is the Twitter page of the official House office.",
+        "favourites_count": 470,
+        "followers_count": 11015,
+        "friends_count": 339,
+        "id": 2696643955,
+        "id_str": "2696643955",
+        "listed_count": 417,
+        "name": "Rep. John Moolenaar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696643955/1420046825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoolenaar",
+        "statuses_count": 854,
+        "url": "http://t.co/cwXZtKCJhJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 226732390,
+            "id_str": "226732390",
+            "name": "Cops & Doughnuts",
+            "screen_name": "CopsDoughnuts"
+        }
+    ]
+}

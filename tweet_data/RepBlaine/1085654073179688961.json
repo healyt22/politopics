@@ -1,0 +1,104 @@
+{
+    "created_at": "Wed Jan 16 21:44:36 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1085654073179688961,
+    "id_str": "1085654073179688961",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jan 16 17:25:04 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "podcast"
+            }
+        ],
+        "id": 1085588761466023936,
+        "id_str": "1085588761466023936",
+        "lang": "en",
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "Today\u2019s #podcast comes from the halls of Congress. @RepBlaine Luetkemeyer, of Missouri\u2019s 3rd Congressional District\u2026 https://t.co/7kVwxQs2B8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1085588761466023936",
+                "url": "https://t.co/7kVwxQs2B8"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jul 10 13:48:44 +0000 2009",
+            "description": "ETA is the global trade association representing the entire payments ecosystem. Producer of @ETATRANSACT. Follow for the latest on the payments industry.",
+            "favourites_count": 2242,
+            "followers_count": 8038,
+            "friends_count": 3268,
+            "geo_enabled": true,
+            "id": 55565330,
+            "id_str": "55565330",
+            "listed_count": 331,
+            "location": "Washington, DC",
+            "name": "ETA",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/55565330/1561484910",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/936226681760645121/sHTvFFrj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/936226681760645121/sHTvFFrj_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "92BAE8",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ElecTranAssoc",
+            "statuses_count": 10285,
+            "url": "https://t.co/B4qLgEasFm",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1849261916,
+                "id_str": "1849261916",
+                "name": "Blaine Luetkemeyer",
+                "screen_name": "RepBlaine"
+            }
+        ]
+    },
+    "quoted_status_id": 1085588761466023936,
+    "quoted_status_id_str": "1085588761466023936",
+    "retweet_count": 2,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Thanks for having me! https://t.co/CsmHYBMY8p",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/ElecTranAssoc/status/1085588761466023936",
+            "url": "https://t.co/CsmHYBMY8p"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Sep 09 19:53:08 +0000 2013",
+        "description": "Proudly serving Missouri's 3rd Congressional District. House @FinancialCmte and @HouseSmallBiz Commitee member.",
+        "favourites_count": 526,
+        "followers_count": 12726,
+        "friends_count": 264,
+        "id": 1849261916,
+        "id_str": "1849261916",
+        "listed_count": 513,
+        "location": "Missouri's 3rd District",
+        "name": "Blaine Luetkemeyer",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849261916/1527884082",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002634185511788545/rl0XOJyQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002634185511788545/rl0XOJyQ_normal.jpg",
+        "profile_link_color": "08244A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepBlaine",
+        "statuses_count": 2028,
+        "url": "https://t.co/HAAAI7JpAI",
+        "verified": true
+    },
+    "user_mentions": []
+}

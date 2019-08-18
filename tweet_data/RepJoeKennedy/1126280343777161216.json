@@ -1,0 +1,190 @@
+{
+    "created_at": "Thu May 09 00:18:53 +0000 2019",
+    "hashtags": [],
+    "id": 1126280343777161216,
+    "id_str": "1126280343777161216",
+    "lang": "en",
+    "quoted_status_id": 1126151799868723200,
+    "quoted_status_id_str": "1126151799868723200",
+    "retweet_count": 267,
+    "retweeted_status": {
+        "created_at": "Wed May 08 18:31:34 +0000 2019",
+        "favorite_count": 441,
+        "hashtags": [],
+        "id": 1126192938118025216,
+        "id_str": "1126192938118025216",
+        "lang": "en",
+        "place": {
+            "id": "ab2f2fac83aa388d",
+            "url": "https://api.twitter.com/1.1/geo/id/ab2f2fac83aa388d.json",
+            "place_type": "city",
+            "name": "Oakland",
+            "full_name": "Oakland, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.34266,
+                            37.699279
+                        ],
+                        [
+                            -122.114711,
+                            37.699279
+                        ],
+                        [
+                            -122.114711,
+                            37.8847092
+                        ],
+                        [
+                            -122.34266,
+                            37.8847092
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Wed May 08 15:48:06 +0000 2019",
+            "favorite_count": 68972,
+            "hashtags": [],
+            "id": 1126151799868723200,
+            "id_str": "1126151799868723200",
+            "lang": "en",
+            "retweet_count": 17999,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Republicans shouldn\u2019t vote for H.R. 312, a special interest casino Bill, backed by Elizabeth (Pocahontas) Warren. I\u2026 https://t.co/S6XnfF42S1",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1126151799868723200",
+                    "url": "https://t.co/S6XnfF42S1"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+                "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+                "favourites_count": 7,
+                "followers_count": 62124998,
+                "friends_count": 47,
+                "geo_enabled": true,
+                "id": 25073877,
+                "id_str": "25073877",
+                "listed_count": 105513,
+                "location": "Washington, DC",
+                "name": "Donald J. Trump",
+                "profile_background_color": "6D5C18",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "BDDCAD",
+                "profile_sidebar_fill_color": "C5CEC0",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "realDonaldTrump",
+                "statuses_count": 43028,
+                "url": "https://t.co/OMxB0x7xC5",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1126151799868723200,
+        "quoted_status_id_str": "1126151799868723200",
+        "retweet_count": 267,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I reported this story for @ThisIsAmerica. The Trump Administration removed Mashpee land from trust status\u2014the first\u2026 https://t.co/HoUPLRAHqi",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1126192938118025216",
+                "url": "https://t.co/HoUPLRAHqi"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 01 15:47:04 +0000 2015",
+            "description": "green new deal @dataprogress // narrative change @the_nhm // correspondent @thisisamerica // contributing editor @cangeo",
+            "favourites_count": 6521,
+            "followers_count": 6232,
+            "friends_count": 997,
+            "geo_enabled": true,
+            "id": 3305651181,
+            "id_str": "3305651181",
+            "listed_count": 106,
+            "name": "Julian Brave NoiseCat",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3305651181/1558890545",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1150226793749721088/QpRRz0l7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150226793749721088/QpRRz0l7_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "jnoisecat",
+            "statuses_count": 695,
+            "url": "https://t.co/DBzhvPVMpy",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1665514478,
+                "id_str": "1665514478",
+                "name": "Real America",
+                "screen_name": "ThisIsAmerica"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @jnoisecat: I reported this story for @ThisIsAmerica. The Trump Administration removed Mashpee land from trust status\u2014the first time tha\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 19:33:36 +0000 2013",
+        "description": "Official Twitter account of Congressman Joe Kennedy III, representing Massachusetts' 4th Congressional District.",
+        "favourites_count": 12,
+        "followers_count": 775013,
+        "friends_count": 696,
+        "geo_enabled": true,
+        "id": 1055907624,
+        "id_str": "1055907624",
+        "listed_count": 3264,
+        "name": "Rep. Joe Kennedy III",
+        "profile_background_color": "10214A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055907624/1506705689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_link_color": "BF1B1B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeKennedy",
+        "statuses_count": 5244,
+        "url": "https://t.co/rYNEysanC2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3305651181,
+            "id_str": "3305651181",
+            "name": "Julian Brave NoiseCat",
+            "screen_name": "jnoisecat"
+        },
+        {
+            "id": 1665514478,
+            "id_str": "1665514478",
+            "name": "Real America",
+            "screen_name": "ThisIsAmerica"
+        }
+    ]
+}

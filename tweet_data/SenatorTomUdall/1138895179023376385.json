@@ -1,0 +1,156 @@
+{
+    "created_at": "Wed Jun 12 19:45:44 +0000 2019",
+    "favorite_count": 75,
+    "hashtags": [],
+    "id": 1138895179023376385,
+    "id_str": "1138895179023376385",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 12 16:51:27 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1138851316397092864,
+        "id_str": "1138851316397092864",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ilsoEQ9g4t",
+                "expanded_url": "https://twitter.com/tictoc/status/1138851316397092864/video/1",
+                "id": 1138851185316679680,
+                "media_url": "http://pbs.twimg.com/media/D84DOngV4AEWnYG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D84DOngV4AEWnYG.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/ilsoEQ9g4t",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 44945,
+                    "variants": [
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138851185316679680/vid/480x270/ZqUrNXye09Vt7yWQ.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138851185316679680/vid/1280x720/aE4TGk4DObozPT7K.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1138851185316679680/pl/b14ohMHgiNZNW-H3.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138851185316679680/vid/640x360/BI4BThS3zyU7B4n-.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 6,
+        "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+        "text": "\u201cI think it\u2019s totally ridiculous that we would have a census without asking [citizenship], Trump said https://t.co/ilsoEQ9g4t",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Feb 15 20:50:58 +0000 2011",
+            "description": "Global news for the world we live in now.",
+            "favourites_count": 861,
+            "followers_count": 732935,
+            "friends_count": 1222,
+            "geo_enabled": true,
+            "id": 252751061,
+            "id_str": "252751061",
+            "listed_count": 5951,
+            "name": "Bloomberg TicToc",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/252751061/1563557785",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/940202913393082373/23X8DJQc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/940202913393082373/23X8DJQc_normal.jpg",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "tictoc",
+            "statuses_count": 142914,
+            "url": "https://t.co/O0sSpXABY4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138851316397092864,
+    "quoted_status_id_str": "1138851316397092864",
+    "retweet_count": 25,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "It's clear @POTUS fundamentally misunderstands what the census is for.\n \nIt shouldn't be about investigating people\u2026 https://t.co/x6ivNMXqbN",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138895179023376385",
+            "url": "https://t.co/x6ivNMXqbN"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jul 28 06:10:29 +0000 2009",
+        "description": "United States Senator from New Mexico.",
+        "favourites_count": 25,
+        "followers_count": 168197,
+        "friends_count": 339,
+        "id": 60828944,
+        "id_str": "60828944",
+        "listed_count": 2345,
+        "location": "Santa Fe and Washington",
+        "name": "Tom Udall",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60828944/1447107599",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/847475846944182272/HKMEaecM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/847475846944182272/HKMEaecM_normal.jpg",
+        "profile_link_color": "FF4E3E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BDDEDE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTomUdall",
+        "statuses_count": 6490,
+        "url": "http://t.co/ETWpVFzOcZ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        }
+    ]
+}

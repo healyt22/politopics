@@ -1,0 +1,119 @@
+{
+    "created_at": "Mon Apr 22 00:36:20 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1120124141649027072,
+    "id_str": "1120124141649027072",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun Apr 21 23:12:19 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1120102996782620672,
+        "id_str": "1120102996782620672",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/sKoAzQqoUT",
+                "expanded_url": "https://twitter.com/provocity/status/1120102996782620672/photo/1",
+                "id": 1120102991434878976,
+                "media_url": "http://pbs.twimg.com/media/D4tnvHRUEAA9Dal.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D4tnvHRUEAA9Dal.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/sKoAzQqoUT"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Happy Easter! \ud83c\udf37\ud83d\udcf7: Kyle Woodbury https://t.co/sKoAzQqoUT",
+        "urls": [],
+        "user": {
+            "created_at": "Sat May 02 19:52:32 +0000 2009",
+            "description": "Provo City, the third largest city in Utah, is nationally recognized for its quality of life and favorable business conditions. #provorocks #welcomehome",
+            "favourites_count": 2546,
+            "followers_count": 7932,
+            "friends_count": 906,
+            "geo_enabled": true,
+            "id": 37268375,
+            "id_str": "37268375",
+            "listed_count": 156,
+            "location": "Provo, UT",
+            "name": "Provo City",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/37268375/1559346173",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1092798070067204096/X6d8vM6f_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092798070067204096/X6d8vM6f_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "provocity",
+            "statuses_count": 4360,
+            "url": "https://t.co/CEgFwOS3Lz",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1120102996782620672,
+    "quoted_status_id_str": "1120102996782620672",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I can see my District Office in this picture! Anyone living in Provo see their home? Happy Easter! https://t.co/mTGpHv7tYC",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/provocity/status/1120102996782620672",
+            "url": "https://t.co/mTGpHv7tYC"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Nov 17 20:06:16 +0000 2017",
+        "description": "Official account for Congressman John Curtis, self-proclaimed millennial. Proudly serving the people of Utah's 3rd district.",
+        "favourites_count": 1039,
+        "followers_count": 3131,
+        "friends_count": 191,
+        "geo_enabled": true,
+        "id": 931614483050414080,
+        "id_str": "931614483050414080",
+        "listed_count": 159,
+        "location": "Utah and DC",
+        "name": "Rep. John Curtis",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/931614483050414080/1552422198",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143191800548663299/9Ffm2sDG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143191800548663299/9Ffm2sDG_normal.png",
+        "profile_link_color": "6C7614",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepJohnCurtis",
+        "statuses_count": 1701,
+        "url": "https://t.co/EXDQ281Hrl",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,109 @@
+{
+    "created_at": "Wed Apr 24 19:28:39 +0000 2019",
+    "hashtags": [],
+    "id": 1121133874476720129,
+    "id_str": "1121133874476720129",
+    "lang": "en",
+    "retweet_count": 12558,
+    "retweeted_status": {
+        "created_at": "Wed Apr 24 18:36:46 +0000 2019",
+        "favorite_count": 55755,
+        "hashtags": [],
+        "id": 1121120816983363584,
+        "id_str": "1121120816983363584",
+        "lang": "en",
+        "retweet_count": 12558,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today, @FLOTUS Melania and I were honored to join thousands of leaders from across the Country for the 2019 Prescri\u2026 https://t.co/t9bRwNnIy9",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1121120816983363584",
+                "url": "https://t.co/t9bRwNnIy9"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+            "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+            "favourites_count": 7,
+            "followers_count": 63207855,
+            "friends_count": 47,
+            "geo_enabled": true,
+            "id": 25073877,
+            "id_str": "25073877",
+            "listed_count": 106977,
+            "location": "Washington, DC",
+            "name": "Donald J. Trump",
+            "profile_background_color": "6D5C18",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "C5CEC0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "realDonaldTrump",
+            "statuses_count": 43579,
+            "url": "https://t.co/OMxB0x7xC5",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 818876014390603776,
+                "id_str": "818876014390603776",
+                "name": "Melania Trump",
+                "screen_name": "FLOTUS"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @realDonaldTrump: Today, @FLOTUS Melania and I were honored to join thousands of leaders from across the Country for the 2019 Prescripti\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Apr 10 19:59:22 +0000 2012",
+        "default_profile": true,
+        "description": "Representing the people of Southern and Eastern Kentucky and serving as Chairman of the U.S. House Appropriations Subcommittee on State and Foreign Operations",
+        "favourites_count": 1085,
+        "followers_count": 16643,
+        "friends_count": 741,
+        "geo_enabled": true,
+        "id": 550401754,
+        "id_str": "550401754",
+        "listed_count": 713,
+        "location": "Somerset, KY",
+        "name": "Hal Rogers",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550401754/1478819972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHalRogers",
+        "statuses_count": 3758,
+        "url": "https://t.co/MNkQuDdocD",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        },
+        {
+            "id": 818876014390603776,
+            "id_str": "818876014390603776",
+            "name": "Melania Trump",
+            "screen_name": "FLOTUS"
+        }
+    ]
+}

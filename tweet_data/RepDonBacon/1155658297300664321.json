@@ -1,0 +1,243 @@
+{
+    "created_at": "Mon Jul 29 01:56:23 +0000 2019",
+    "hashtags": [],
+    "id": 1155658297300664321,
+    "id_str": "1155658297300664321",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Jul 29 00:52:16 +0000 2019",
+        "favorite_count": 20,
+        "hashtags": [],
+        "id": 1155642161800593408,
+        "id_str": "1155642161800593408",
+        "in_reply_to_screen_name": "OPS_LoganSupt",
+        "in_reply_to_user_id": 2778057401,
+        "lang": "en",
+        "place": {
+            "id": "a84b808ce3f11719",
+            "url": "https://api.twitter.com/1.1/geo/id/a84b808ce3f11719.json",
+            "place_type": "city",
+            "name": "Omaha",
+            "full_name": "Omaha, NE",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.234587,
+                            41.175884
+                        ],
+                        [
+                            -95.872275,
+                            41.175884
+                        ],
+                        [
+                            -95.872275,
+                            41.375558
+                        ],
+                        [
+                            -96.234587,
+                            41.375558
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@OPS_LoganSupt @RepDonBacon @CoachGudgel @markdreiling1 @ADLOmaha @ADL @dannycohn @RoseTheaterCo @trcasadyops\u2026 https://t.co/QOAGdzxauN",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1155642161800593408",
+                "url": "https://t.co/QOAGdzxauN"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 21 16:03:53 +0000 2014",
+            "default_profile": true,
+            "description": "Executive Director of the Omaha Public Schools Foundation.  Board President - National Schools Foundation Association. Die hard Hall and Oates fan!! \u2764\ufe0f\ud83c\udde8\ud83c\udde6",
+            "favourites_count": 14248,
+            "followers_count": 773,
+            "friends_count": 808,
+            "geo_enabled": true,
+            "id": 2401784168,
+            "id_str": "2401784168",
+            "listed_count": 8,
+            "location": "Nebraska",
+            "name": "Toba Cohen-Dunning",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1088297742160592898/cv8y9sTr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088297742160592898/cv8y9sTr_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "TobaCohen",
+            "statuses_count": 3284,
+            "url": "https://t.co/SBdcf1mPpK"
+        },
+        "user_mentions": [
+            {
+                "id": 2778057401,
+                "id_str": "2778057401",
+                "name": "Cheryl Logan",
+                "screen_name": "OPS_LoganSupt"
+            },
+            {
+                "id": 818975124460335106,
+                "id_str": "818975124460335106",
+                "name": "Rep. Don Bacon",
+                "screen_name": "RepDonBacon"
+            },
+            {
+                "id": 2717596045,
+                "id_str": "2717596045",
+                "name": "(((Mark Gudgel)))",
+                "screen_name": "CoachGudgel"
+            },
+            {
+                "id": 1714652347,
+                "id_str": "1714652347",
+                "name": "Mark Dreiling",
+                "screen_name": "markdreiling1"
+            },
+            {
+                "id": 570285966,
+                "id_str": "570285966",
+                "name": "ADL Omaha",
+                "screen_name": "ADLOmaha"
+            },
+            {
+                "id": 19670226,
+                "id_str": "19670226",
+                "name": "ADL",
+                "screen_name": "ADL"
+            },
+            {
+                "id": 15897712,
+                "id_str": "15897712",
+                "name": "dannycohn",
+                "screen_name": "dannycohn"
+            },
+            {
+                "id": 1486544424,
+                "id_str": "1486544424",
+                "name": "The Rose Theater",
+                "screen_name": "RoseTheaterCo"
+            },
+            {
+                "id": 958740012975128577,
+                "id_str": "958740012975128577",
+                "name": "Tracy Casady",
+                "screen_name": "trcasadyops"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @TobaCohen: @OPS_LoganSupt @RepDonBacon @CoachGudgel @markdreiling1 @ADLOmaha @ADL @dannycohn @RoseTheaterCo @trcasadyops @TonyVargas @B\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 11 00:17:40 +0000 2017",
+        "description": "Serving great constituents of NE-02. Married to Angie with four children and five grandchildren. Brigadier General USAF (Ret.) User policy https://t.co/AeMcX3biFi",
+        "favourites_count": 5572,
+        "followers_count": 8584,
+        "friends_count": 560,
+        "geo_enabled": true,
+        "id": 818975124460335106,
+        "id_str": "818975124460335106",
+        "listed_count": 363,
+        "location": "Papillion, NE",
+        "name": "Rep. Don Bacon",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818975124460335106/1540489680",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096103434401599488/a0MQa0Ws_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096103434401599488/a0MQa0Ws_normal.png",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDonBacon",
+        "statuses_count": 6402,
+        "url": "https://t.co/urUnLTdvSE",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2401784168,
+            "id_str": "2401784168",
+            "name": "Toba Cohen-Dunning",
+            "screen_name": "TobaCohen"
+        },
+        {
+            "id": 2778057401,
+            "id_str": "2778057401",
+            "name": "Cheryl Logan",
+            "screen_name": "OPS_LoganSupt"
+        },
+        {
+            "id": 818975124460335106,
+            "id_str": "818975124460335106",
+            "name": "Rep. Don Bacon",
+            "screen_name": "RepDonBacon"
+        },
+        {
+            "id": 2717596045,
+            "id_str": "2717596045",
+            "name": "(((Mark Gudgel)))",
+            "screen_name": "CoachGudgel"
+        },
+        {
+            "id": 1714652347,
+            "id_str": "1714652347",
+            "name": "Mark Dreiling",
+            "screen_name": "markdreiling1"
+        },
+        {
+            "id": 570285966,
+            "id_str": "570285966",
+            "name": "ADL Omaha",
+            "screen_name": "ADLOmaha"
+        },
+        {
+            "id": 19670226,
+            "id_str": "19670226",
+            "name": "ADL",
+            "screen_name": "ADL"
+        },
+        {
+            "id": 15897712,
+            "id_str": "15897712",
+            "name": "dannycohn",
+            "screen_name": "dannycohn"
+        },
+        {
+            "id": 1486544424,
+            "id_str": "1486544424",
+            "name": "The Rose Theater",
+            "screen_name": "RoseTheaterCo"
+        },
+        {
+            "id": 958740012975128577,
+            "id_str": "958740012975128577",
+            "name": "Tracy Casady",
+            "screen_name": "trcasadyops"
+        },
+        {
+            "id": 32314377,
+            "id_str": "32314377",
+            "name": "Senator Tony Vargas",
+            "screen_name": "TonyVargas"
+        }
+    ]
+}

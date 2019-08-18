@@ -1,0 +1,140 @@
+{
+    "created_at": "Wed Aug 14 20:13:14 +0000 2019",
+    "hashtags": [],
+    "id": 1161732532959887360,
+    "id_str": "1161732532959887360",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed Aug 14 18:48:09 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1161711121625210881,
+        "id_str": "1161711121625210881",
+        "lang": "en",
+        "place": {
+            "id": "dd9c503d6c35364b",
+            "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+            "place_type": "admin",
+            "name": "Pennsylvania",
+            "full_name": "Pennsylvania, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.519851,
+                            39.719801
+                        ],
+                        [
+                            -74.689517,
+                            39.719801
+                        ],
+                        [
+                            -74.689517,
+                            42.516072
+                        ],
+                        [
+                            -80.519851,
+                            42.516072
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Agricultural roundtable with @CongressmanGT, Secretary Russell Redding, Congressman Fred Keller, Congressman Connor\u2026 https://t.co/8dt4CMPfYU",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161711121625210881",
+                "url": "https://t.co/8dt4CMPfYU"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 02 20:06:41 +0000 2012",
+            "description": "One in eight Pennsylvanians is at risk of going hungry. We work to provide food assistance to those in need.",
+            "favourites_count": 1899,
+            "followers_count": 821,
+            "friends_count": 641,
+            "geo_enabled": true,
+            "id": 921694999,
+            "id_str": "921694999",
+            "listed_count": 33,
+            "location": "Harrisburg, PA",
+            "name": "Feeding Pennsylvania",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/921694999/1475589046",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/823995671095181312/d-JsGAvF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/823995671095181312/d-JsGAvF_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "FeedingPA",
+            "statuses_count": 2411,
+            "url": "http://t.co/QY6HBHNN"
+        },
+        "user_mentions": [
+            {
+                "id": 18967498,
+                "id_str": "18967498",
+                "name": "Glenn 'GT' Thompson",
+                "screen_name": "CongressmanGT"
+            }
+        ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "text": "RT @FeedingPA: Agricultural roundtable with @CongressmanGT, Secretary Russell Redding, Congressman Fred Keller, Congressman Connor Lamb, @P\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 14 04:54:58 +0000 2009",
+        "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania's 15th Congressional District. #PA15",
+        "favourites_count": 395,
+        "followers_count": 20580,
+        "friends_count": 2969,
+        "geo_enabled": true,
+        "id": 18967498,
+        "id_str": "18967498",
+        "listed_count": 1184,
+        "location": "Howard, Pennsylvania",
+        "name": "Glenn 'GT' Thompson",
+        "profile_background_color": "383B78",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18967498/1546544253",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+        "profile_link_color": "0E17B5",
+        "profile_sidebar_border_color": "F7EFF7",
+        "profile_sidebar_fill_color": "FCFF57",
+        "profile_text_color": "0A090A",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanGT",
+        "statuses_count": 7462,
+        "url": "http://t.co/DvqrekKjtb",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 921694999,
+            "id_str": "921694999",
+            "name": "Feeding Pennsylvania",
+            "screen_name": "FeedingPA"
+        },
+        {
+            "id": 18967498,
+            "id_str": "18967498",
+            "name": "Glenn 'GT' Thompson",
+            "screen_name": "CongressmanGT"
+        }
+    ]
+}

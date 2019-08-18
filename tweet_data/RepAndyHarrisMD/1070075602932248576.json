@@ -1,0 +1,106 @@
+{
+    "created_at": "Tue Dec 04 22:01:19 +0000 2018",
+    "favorite_count": 13,
+    "hashtags": [
+        {
+            "text": "HappyNationalCookieDay"
+        }
+    ],
+    "id": 1070075602932248576,
+    "id_str": "1070075602932248576",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/SxygJbmvja",
+            "expanded_url": "https://twitter.com/RepAndyHarrisMD/status/1070075602932248576/video/1",
+            "id": 1070075570480955393,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070075570480955393/pu/img/O594maJYs02ZSBgn.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070075570480955393/pu/img/O594maJYs02ZSBgn.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/SxygJbmvja",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 5700,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1070075570480955393/pu/vid/320x180/HgA8a0ofrGUZahg-.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1070075570480955393/pu/vid/640x360/TN8U9O1d0UakAxb6.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1070075570480955393/pu/vid/1280x720/dLa_pLacPvr6LO9x.mp4?tag=6"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1070075570480955393/pu/pl/DGd2o9IGYcz6Bd-A.m3u8?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "What\u2019s National Cookie Day without a few old-fashioned chocolate chip cookies? #HappyNationalCookieDay https://t.co/SxygJbmvja",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Nov 20 18:31:27 +0000 2012",
+        "description": "Proud to represent MD-01; Anesthesiologist; Dad to Joe, Becky, Irene, Jessica, & Danny; Grandpa to Charles, Abigail, Arthur, Andrew, Camilla, James, & Sylvia.",
+        "favourites_count": 345,
+        "followers_count": 15908,
+        "friends_count": 612,
+        "geo_enabled": true,
+        "id": 960962340,
+        "id_str": "960962340",
+        "listed_count": 766,
+        "location": "Maryland's First District",
+        "name": "Rep. Andy Harris, MD",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/960962340/1560529185",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyHarrisMD",
+        "statuses_count": 3211,
+        "url": "https://t.co/LI7VqoSoP7",
+        "verified": true
+    },
+    "user_mentions": []
+}

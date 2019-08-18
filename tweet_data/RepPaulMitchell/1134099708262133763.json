@@ -1,0 +1,130 @@
+{
+    "created_at": "Thu May 30 14:10:15 +0000 2019",
+    "hashtags": [],
+    "id": 1134099708262133763,
+    "id_str": "1134099708262133763",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu May 30 14:09:44 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1134099578398154752,
+        "id_str": "1134099578398154752",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/hTRpYOKa6c",
+                "expanded_url": "https://twitter.com/wjrradio/status/1134099578398154752/photo/1",
+                "id": 1134099527881908224,
+                "media_url": "http://pbs.twimg.com/media/D70hgwtW4AAHaik.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D70hgwtW4AAHaik.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/hTRpYOKa6c"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Frank chats with Congressman \u2066@RepPaulMitchell\u2069 LIVE from the 2019 Mackinac Policy Conference and the Grand Hotel! https://t.co/hTRpYOKa6c",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Feb 15 18:32:52 +0000 2009",
+            "description": "The Great Voice of the Great Lakes: Paul W. Smith - Frank Beckmann - Guy Gordon - Mitch Albom - Michigan State Spartans Football & Basketball - Detroit Lions",
+            "favourites_count": 2101,
+            "followers_count": 20573,
+            "friends_count": 1885,
+            "geo_enabled": true,
+            "id": 20926802,
+            "id_str": "20926802",
+            "listed_count": 455,
+            "location": "Detroit, Michigan, USA",
+            "name": "WJR 760am",
+            "profile_background_color": "6E6E6E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20926802/1470684921",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/882686395738972160/lVM34yDI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/882686395738972160/lVM34yDI_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "wjrradio",
+            "statuses_count": 30611,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 811632636598910976,
+                "id_str": "811632636598910976",
+                "name": "Rep. Paul Mitchell",
+                "screen_name": "RepPaulMitchell"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @wjrradio: Frank chats with Congressman \u2066@RepPaulMitchell\u2069 LIVE from the 2019 Mackinac Policy Conference and the Grand Hotel! https://t.\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 21 18:01:14 +0000 2016",
+        "default_profile": true,
+        "description": "Official account for Congressman Paul Mitchell #MI10",
+        "favourites_count": 126,
+        "followers_count": 6471,
+        "friends_count": 416,
+        "geo_enabled": true,
+        "id": 811632636598910976,
+        "id_str": "811632636598910976",
+        "listed_count": 324,
+        "name": "Rep. Paul Mitchell",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/811632636598910976/1482348484",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1053321319062929408/EEaqrAvm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053321319062929408/EEaqrAvm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPaulMitchell",
+        "statuses_count": 1553,
+        "url": "https://t.co/zSBYj2y0i6",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 20926802,
+            "id_str": "20926802",
+            "name": "WJR 760am",
+            "screen_name": "wjrradio"
+        },
+        {
+            "id": 811632636598910976,
+            "id_str": "811632636598910976",
+            "name": "Rep. Paul Mitchell",
+            "screen_name": "RepPaulMitchell"
+        }
+    ]
+}

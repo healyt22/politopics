@@ -1,0 +1,123 @@
+{
+    "created_at": "Tue Jun 11 12:24:25 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "FiscalSummit"
+        }
+    ],
+    "id": 1138421726956703744,
+    "id_str": "1138421726956703744",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 11 12:15:00 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "FiscalSummit"
+            },
+            {
+                "text": "livestream"
+            }
+        ],
+        "id": 1138419357455855616,
+        "id_str": "1138419357455855616",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "The 10th annual #FiscalSummit is starting now! Watch the #livestream. https://t.co/J86yHzP0PI",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2KdI68n",
+                "url": "https://t.co/J86yHzP0PI"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Oct 14 20:59:48 +0000 2011",
+            "description": "The Peter G. Peterson Foundation is a non-partisan organization dedicated to America's fiscal and economic future. Follows/Retweets/Replies \u2260 endorsement.",
+            "favourites_count": 198,
+            "followers_count": 34443,
+            "friends_count": 1586,
+            "geo_enabled": true,
+            "id": 390973130,
+            "id_str": "390973130",
+            "listed_count": 354,
+            "location": "New York, NY",
+            "name": "Peterson Foundation",
+            "profile_background_color": "0B5490",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/390973130/1560364456",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/576531436297068545/n3Zlil4L_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/576531436297068545/n3Zlil4L_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "pgpfoundation",
+            "statuses_count": 7697,
+            "url": "http://t.co/NmO1bmhtRQ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138419357455855616,
+    "quoted_status_id_str": "1138419357455855616",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Tune in to watch Chairman @RepJohnYarmuth's conversation with @byHeatherLong at @pgpfoundation's #FiscalSummit on o\u2026 https://t.co/CHBdKRpqzL",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138421726956703744",
+            "url": "https://t.co/CHBdKRpqzL"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jun 04 18:12:56 +0000 2010",
+        "description": "U.S House of Representatives Budget Committee, Chairman @RepJohnYarmuth",
+        "favourites_count": 229,
+        "followers_count": 13711,
+        "friends_count": 388,
+        "id": 151963505,
+        "id_str": "151963505",
+        "listed_count": 552,
+        "name": "House Budget Committee",
+        "profile_background_color": "A7C8D1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151963505/1554227865",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080862442564083713/hLobkllD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080862442564083713/hLobkllD_normal.jpg",
+        "profile_link_color": "183152",
+        "profile_sidebar_border_color": "535354",
+        "profile_sidebar_fill_color": "E9F0F2",
+        "profile_text_color": "303030",
+        "profile_use_background_image": true,
+        "screen_name": "HouseBudgetDems",
+        "statuses_count": 5397,
+        "url": "https://t.co/rRChWZI0w4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 384913290,
+            "id_str": "384913290",
+            "name": "Rep. John Yarmuth",
+            "screen_name": "RepJohnYarmuth"
+        },
+        {
+            "id": 257354839,
+            "id_str": "257354839",
+            "name": "Heather Long",
+            "screen_name": "byHeatherLong"
+        },
+        {
+            "id": 390973130,
+            "id_str": "390973130",
+            "name": "Peterson Foundation",
+            "screen_name": "pgpfoundation"
+        }
+    ]
+}

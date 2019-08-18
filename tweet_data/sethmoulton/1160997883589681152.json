@@ -1,0 +1,114 @@
+{
+    "created_at": "Mon Aug 12 19:34:00 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1160997883589681152,
+    "id_str": "1160997883589681152",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun Aug 11 15:30:50 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "TownHall"
+            }
+        ],
+        "id": 1160574301529104387,
+        "id_str": "1160574301529104387",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "We have 2 #TownHall events coming up at Fox Brewing!\n\n\ud83c\uddfa\ud83c\uddf8 @sethmoulton will be speaking on Friday, August 16th at 6:\u2026 https://t.co/1C227LOlQ2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1160574301529104387",
+                "url": "https://t.co/1C227LOlQ2"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 18 14:13:23 +0000 2014",
+            "default_profile": true,
+            "description": "A West Des Moines brewery crafting top-quality, unique ales. \ud83c\udf7b",
+            "favourites_count": 711,
+            "followers_count": 2010,
+            "friends_count": 218,
+            "geo_enabled": true,
+            "id": 2817139795,
+            "id_str": "2817139795",
+            "listed_count": 42,
+            "location": "West Des Moines, IA",
+            "name": "Fox Brewing",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2817139795/1552583942",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1106243167282696192/AcY3XzWa_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106243167282696192/AcY3XzWa_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "foxbrewco",
+            "statuses_count": 1265,
+            "url": "https://t.co/0pQEUR007N"
+        },
+        "user_mentions": [
+            {
+                "id": 248495200,
+                "id_str": "248495200",
+                "name": "Seth Moulton",
+                "screen_name": "sethmoulton"
+            }
+        ]
+    },
+    "quoted_status_id": 1160574301529104387,
+    "quoted_status_id_str": "1160574301529104387",
+    "retweet_count": 3,
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "ATTN Iowa: Join me this Friday evening for a town hall at @foxbrewco. https://t.co/BF7qYujzPg",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/foxbrewco/status/1160574301529104387",
+            "url": "https://t.co/BF7qYujzPg"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 07 03:35:59 +0000 2011",
+        "default_profile": true,
+        "description": "Father, husband, Marine, Congressman, and candidate for President of the United States. \n\nIt's time for a new generation of leadership.",
+        "favourites_count": 4016,
+        "followers_count": 147354,
+        "friends_count": 2439,
+        "geo_enabled": true,
+        "id": 248495200,
+        "id_str": "248495200",
+        "listed_count": 2571,
+        "location": "Salem, MA",
+        "name": "Seth Moulton",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248495200/1559917656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sethmoulton",
+        "statuses_count": 10971,
+        "url": "https://t.co/x3XcV4cO6O",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2817139795,
+            "id_str": "2817139795",
+            "name": "Fox Brewing",
+            "screen_name": "foxbrewco"
+        }
+    ]
+}

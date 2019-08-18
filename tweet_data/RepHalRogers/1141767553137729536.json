@@ -1,0 +1,120 @@
+{
+    "created_at": "Thu Jun 20 17:59:32 +0000 2019",
+    "hashtags": [],
+    "id": 1141767553137729536,
+    "id_str": "1141767553137729536",
+    "lang": "en",
+    "retweet_count": 20,
+    "retweeted_status": {
+        "created_at": "Thu Jun 20 17:26:05 +0000 2019",
+        "favorite_count": 24,
+        "hashtags": [],
+        "id": 1141759136339824640,
+        "id_str": "1141759136339824640",
+        "lang": "en",
+        "retweet_count": 20,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "NEWS: In response to @RepHalRogers &amp; my report, the @WHO has rescinded its dangerous opioid prescribing guidance. I\u2026 https://t.co/kHzaw7uMJI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141759136339824640",
+                "url": "https://t.co/kHzaw7uMJI"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 15 18:53:47 +0000 2014",
+            "default_profile": true,
+            "description": "Vice Chair of the House Democratic Caucus. Proudly representing the people of the 5th District of Massachusetts.",
+            "favourites_count": 1376,
+            "followers_count": 67193,
+            "friends_count": 1383,
+            "geo_enabled": true,
+            "id": 2293131060,
+            "id_str": "2293131060",
+            "listed_count": 1252,
+            "name": "Katherine Clark",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293131060/1546611807",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepKClark",
+            "statuses_count": 5312,
+            "url": "https://t.co/qWMKEO845O",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 550401754,
+                "id_str": "550401754",
+                "name": "Hal Rogers",
+                "screen_name": "RepHalRogers"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @RepKClark: NEWS: In response to @RepHalRogers &amp; my report, the @WHO has rescinded its dangerous opioid prescribing guidance. It's a ste\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Apr 10 19:59:22 +0000 2012",
+        "default_profile": true,
+        "description": "Representing the people of Southern and Eastern Kentucky and serving as Chairman of the U.S. House Appropriations Subcommittee on State and Foreign Operations",
+        "favourites_count": 1085,
+        "followers_count": 16643,
+        "friends_count": 741,
+        "geo_enabled": true,
+        "id": 550401754,
+        "id_str": "550401754",
+        "listed_count": 713,
+        "location": "Somerset, KY",
+        "name": "Hal Rogers",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550401754/1478819972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHalRogers",
+        "statuses_count": 3758,
+        "url": "https://t.co/MNkQuDdocD",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2293131060,
+            "id_str": "2293131060",
+            "name": "Katherine Clark",
+            "screen_name": "RepKClark"
+        },
+        {
+            "id": 550401754,
+            "id_str": "550401754",
+            "name": "Hal Rogers",
+            "screen_name": "RepHalRogers"
+        },
+        {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO"
+        }
+    ]
+}

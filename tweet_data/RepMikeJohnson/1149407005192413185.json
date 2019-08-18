@@ -1,0 +1,106 @@
+{
+    "created_at": "Thu Jul 11 19:55:59 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1149407005192413185,
+    "id_str": "1149407005192413185",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jul 11 19:50:51 +0000 2019",
+        "favorite_count": 4183,
+        "hashtags": [],
+        "id": 1149405712918802432,
+        "id_str": "1149405712918802432",
+        "lang": "en",
+        "retweet_count": 2106,
+        "source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+        "text": "LIVE: President Trump at the Social Media Summit https://t.co/ltUn0azXTc",
+        "urls": [
+            {
+                "expanded_url": "https://www.pscp.tv/w/b_eKmzFxTFFHVnJ5UkFKRUp8MXlwSmR2dndxVnlLV8ZVqu0lbxIxYCEnZNwhWD4phMofJgVcCOBNIN5ijzvE",
+                "url": "https://t.co/ltUn0azXTc"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+            "default_profile": true,
+            "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+            "favourites_count": 13,
+            "followers_count": 18918766,
+            "friends_count": 14,
+            "geo_enabled": true,
+            "id": 822215673812119553,
+            "id_str": "822215673812119553",
+            "listed_count": 11051,
+            "location": "Washington, D.C.",
+            "name": "The White House",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "WhiteHouse",
+            "statuses_count": 10592,
+            "url": "https://t.co/wyOVgSLgBV",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1149405712918802432,
+    "quoted_status_id_str": "1149405712918802432",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Honored to be attending @POTUS's Social Media Summit at the @WhiteHouse this afternoon. Watch the president\u2019s remar\u2026 https://t.co/Y4QQbHwRsd",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1149407005192413185",
+            "url": "https://t.co/Y4QQbHwRsd"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Feb 02 22:17:20 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly serving Louisiana's 4th Congressional District. Chairman of @RepublicanStudy. Member on @HouseJudiciary & @NatResources.",
+        "favourites_count": 89,
+        "followers_count": 7231,
+        "friends_count": 386,
+        "geo_enabled": true,
+        "id": 827279765287559171,
+        "id_str": "827279765287559171",
+        "listed_count": 298,
+        "location": "Washington, DC",
+        "name": "Rep. Mike Johnson",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/827279765287559171/1486074831",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827283914297184257/JaccwIw2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827283914297184257/JaccwIw2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMikeJohnson",
+        "statuses_count": 1591,
+        "url": "https://t.co/qLAyhrFbRl",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        },
+        {
+            "id": 822215673812119553,
+            "id_str": "822215673812119553",
+            "name": "The White House",
+            "screen_name": "WhiteHouse"
+        }
+    ]
+}

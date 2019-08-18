@@ -1,0 +1,217 @@
+{
+    "created_at": "Thu Aug 15 18:32:38 +0000 2019",
+    "hashtags": [],
+    "id": 1162069605319434241,
+    "id_str": "1162069605319434241",
+    "lang": "en",
+    "quoted_status_id": 1162043972975546369,
+    "quoted_status_id_str": "1162043972975546369",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Aug 15 17:05:57 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 1162047791637512192,
+        "id_str": "1162047791637512192",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Thu Aug 15 16:50:47 +0000 2019",
+            "favorite_count": 10,
+            "hashtags": [],
+            "id": 1162043972975546369,
+            "id_str": "1162043972975546369",
+            "lang": "en",
+            "place": {
+                "id": "0122292c5bc9ff29",
+                "url": "https://api.twitter.com/1.1/geo/id/0122292c5bc9ff29.json",
+                "place_type": "city",
+                "name": "Morrisville",
+                "full_name": "Morrisville, NC",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -78.881022,
+                                35.796927
+                            ],
+                            [
+                                -78.786799,
+                                35.796927
+                            ],
+                            [
+                                -78.786799,
+                                35.8707539
+                            ],
+                            [
+                                -78.881022,
+                                35.8707539
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "Students aren't all who we're welcoming to @waketechrtp on the first day of the term. Glad to have @SenatorBurr wit\u2026 https://t.co/cJV6urkusm",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1162043972975546369",
+                    "url": "https://t.co/cJV6urkusm"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Feb 22 20:43:51 +0000 2012",
+                "description": "Mindful of equity, local opportunity, and economic development. Provost of IT programs and Chief Campus Officer, RTP at Wake Technical CC.",
+                "favourites_count": 296,
+                "followers_count": 217,
+                "friends_count": 331,
+                "geo_enabled": true,
+                "id": 500128109,
+                "id_str": "500128109",
+                "listed_count": 4,
+                "location": "North Carolina, USA",
+                "name": "Keith E. Babuszczak, EdD",
+                "profile_background_color": "D1E751",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/500128109/1566033743",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111354298590552064/WfJJVgEi_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111354298590552064/WfJJVgEi_normal.png",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "26ADE4",
+                "profile_sidebar_fill_color": "4DBCE9",
+                "profile_text_color": "FFFFFF",
+                "profile_use_background_image": true,
+                "screen_name": "KeithBabuszczak",
+                "statuses_count": 493
+            },
+            "user_mentions": [
+                {
+                    "id": 1091056693864292352,
+                    "id_str": "1091056693864292352",
+                    "name": "waketechrtp",
+                    "screen_name": "waketechrtp"
+                },
+                {
+                    "id": 21157904,
+                    "id_str": "21157904",
+                    "name": "Richard Burr",
+                    "screen_name": "SenatorBurr"
+                }
+            ]
+        },
+        "quoted_status_id": 1162043972975546369,
+        "quoted_status_id_str": "1162043972975546369",
+        "retweet_count": 3,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "We\u2019re pleased to be joined by the Chairman of the @USSenate Intelligence Committee, @SenatorBurr.\n\nHe\u2019s here to lea\u2026 https://t.co/XbLx0ImLQ8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162047791637512192",
+                "url": "https://t.co/XbLx0ImLQ8"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 20 20:26:45 +0000 2009",
+            "default_profile": true,
+            "description": "NC's largest community college. Posts subject to NC Public Records Law and may be disclosed to third parties. IG: @waketechcc #WakeTech",
+            "favourites_count": 9966,
+            "followers_count": 10940,
+            "friends_count": 1045,
+            "geo_enabled": true,
+            "id": 21430175,
+            "id_str": "21430175",
+            "listed_count": 197,
+            "location": "Raleigh, NC",
+            "name": "@waketechcc",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21430175/1565836208",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/910845124413968384/7_2Vpex1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/910845124413968384/7_2Vpex1_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "waketechcc",
+            "statuses_count": 27246,
+            "url": "https://t.co/WqJG6ryLJS",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 16546884,
+                "id_str": "16546884",
+                "name": "US Senate",
+                "screen_name": "USSenate"
+            },
+            {
+                "id": 21157904,
+                "id_str": "21157904",
+                "name": "Richard Burr",
+                "screen_name": "SenatorBurr"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @waketechcc: We\u2019re pleased to be joined by the Chairman of the @USSenate Intelligence Committee, @SenatorBurr.\n\nHe\u2019s here to learn more\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 18 01:53:03 +0000 2009",
+        "description": "U.S. Senator from North Carolina, Chairman of the Senate Select Committee on Intelligence",
+        "favourites_count": 50,
+        "followers_count": 154011,
+        "friends_count": 899,
+        "geo_enabled": true,
+        "id": 21157904,
+        "id_str": "21157904",
+        "listed_count": 3466,
+        "location": "Winston-Salem, NC",
+        "name": "Richard Burr",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21157904/1521749782",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588079658819653632/wwdO4Eqv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588079658819653632/wwdO4Eqv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorBurr",
+        "statuses_count": 3818,
+        "url": "http://t.co/MHZvAsvWrN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21430175,
+            "id_str": "21430175",
+            "name": "@waketechcc",
+            "screen_name": "waketechcc"
+        },
+        {
+            "id": 16546884,
+            "id_str": "16546884",
+            "name": "US Senate",
+            "screen_name": "USSenate"
+        },
+        {
+            "id": 21157904,
+            "id_str": "21157904",
+            "name": "Richard Burr",
+            "screen_name": "SenatorBurr"
+        }
+    ]
+}

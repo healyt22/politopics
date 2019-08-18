@@ -1,0 +1,101 @@
+{
+    "created_at": "Mon Jun 17 18:37:09 +0000 2019",
+    "favorite_count": 8973,
+    "hashtags": [],
+    "id": 1140689855011315712,
+    "id_str": "1140689855011315712",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/8Eb2o8tIJG",
+            "expanded_url": "https://twitter.com/MarkWarner/status/1140689855011315712/video/1",
+            "id": 1140689807166885888,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1140689807166885888/pu/img/Tj_L9ZCSGkd0l3Pj.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1140689807166885888/pu/img/Tj_L9ZCSGkd0l3Pj.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/8Eb2o8tIJG",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 15315,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1140689807166885888/pu/pl/VwOUPvxIIUAeqWh1.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1140689807166885888/pu/vid/640x360/8ogZvzOcDNg98YPl.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1140689807166885888/pu/vid/1280x720/UZNpbwYgCvmA7fyE.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1140689807166885888/pu/vid/480x270/tP9OyOhmqEI4vV-1.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4263,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "This is the President\u2019s health care plan: wipe out coverage for millions, replace it with nothing. https://t.co/8Eb2o8tIJG",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 12 14:03:33 +0000 2007",
+        "description": "Serving Virginia in the US Senate. Vice Chairman, Intel Committee. Dad, Husband, Budget Wonk. Previous: Serial entrepreneur, business guy, 69th Governor of Va",
+        "favourites_count": 1772,
+        "followers_count": 448254,
+        "friends_count": 23822,
+        "id": 7429102,
+        "id_str": "7429102",
+        "listed_count": 4885,
+        "location": "Virginia",
+        "name": "Mark Warner",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7429102/1473719645",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/944243549922582528/DyFwGriJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/944243549922582528/DyFwGriJ_normal.jpg",
+        "profile_link_color": "28486F",
+        "profile_sidebar_border_color": "28486F",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "MarkWarner",
+        "statuses_count": 8953,
+        "url": "https://t.co/sIM9jRW0rP",
+        "verified": true
+    },
+    "user_mentions": []
+}

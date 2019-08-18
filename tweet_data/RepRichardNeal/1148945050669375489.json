@@ -1,0 +1,161 @@
+{
+    "created_at": "Wed Jul 10 13:20:21 +0000 2019",
+    "hashtags": [
+        {
+            "text": "ButchLewisAct"
+        },
+        {
+            "text": "ProtectOurPensions"
+        }
+    ],
+    "id": 1148945050669375489,
+    "id_str": "1148945050669375489",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Wed Jul 10 13:10:43 +0000 2019",
+        "favorite_count": 20,
+        "hashtags": [
+            {
+                "text": "ButchLewisAct"
+            }
+        ],
+        "id": 1148942626625863680,
+        "id_str": "1148942626625863680",
+        "lang": "en",
+        "place": {
+            "id": "0fc342b3d1147000",
+            "url": "https://api.twitter.com/1.1/geo/id/0fc342b3d1147000.json",
+            "place_type": "poi",
+            "name": "United States Capitol",
+            "full_name": "United States Capitol",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @RepRichardNeal and other members of the @WaysMeansCmte for pushing the #ButchLewisAct\u2026 https://t.co/66ajXlSJIa",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148942626625863680",
+                "url": "https://t.co/66ajXlSJIa"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 16 20:28:33 +0000 2009",
+            "description": "The International Association of Machinists & Aerospace Workers. 600,000 people making North America move. Stay in touch: https://t.co/gcgPb2FbNc",
+            "favourites_count": 4421,
+            "followers_count": 19093,
+            "friends_count": 1950,
+            "geo_enabled": true,
+            "id": 74829020,
+            "id_str": "74829020",
+            "listed_count": 344,
+            "location": "U.S. & Canada",
+            "name": "Machinists Union",
+            "profile_background_color": "0B2B75",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/74829020/1557148679",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080549930601758721/o6EatKwC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080549930601758721/o6EatKwC_normal.jpg",
+            "profile_link_color": "274BB0",
+            "profile_sidebar_border_color": "A1BCD9",
+            "profile_sidebar_fill_color": "C4C4C4",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "MachinistsUnion",
+            "statuses_count": 15809,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 442824717,
+                "id_str": "442824717",
+                "name": "Rep. Richard Neal",
+                "screen_name": "RepRichardNeal"
+            },
+            {
+                "id": 31128529,
+                "id_str": "31128529",
+                "name": "Ways & Means Committee",
+                "screen_name": "WaysMeansCmte"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @MachinistsUnion: Thank you @RepRichardNeal and other members of the @WaysMeansCmte for pushing the #ButchLewisAct #ProtectOurPensions #\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 21 14:18:30 +0000 2011",
+        "default_profile": true,
+        "description": "Serving the 1st District of Massachusetts in the US House of Representatives, with 87 cities & towns in western & central MA. Chairman of @WaysMeansCmte.",
+        "followers_count": 28165,
+        "friends_count": 57,
+        "id": 442824717,
+        "id_str": "442824717",
+        "listed_count": 931,
+        "name": "Rep. Richard Neal",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/442824717/1548792228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2245213250/TP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2245213250/TP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRichardNeal",
+        "statuses_count": 1883,
+        "url": "https://t.co/0gvFZ0xBDb",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 74829020,
+            "id_str": "74829020",
+            "name": "Machinists Union",
+            "screen_name": "MachinistsUnion"
+        },
+        {
+            "id": 442824717,
+            "id_str": "442824717",
+            "name": "Rep. Richard Neal",
+            "screen_name": "RepRichardNeal"
+        },
+        {
+            "id": 31128529,
+            "id_str": "31128529",
+            "name": "Ways & Means Committee",
+            "screen_name": "WaysMeansCmte"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "created_at": "Mon Jun 17 21:33:06 +0000 2019",
+    "favorite_count": 35,
+    "hashtags": [
+        {
+            "text": "KY1"
+        }
+    ],
+    "id": 1140734137659269121,
+    "id_str": "1140734137659269121",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/NwfVN26xHK",
+            "expanded_url": "https://twitter.com/KYComer/status/1140734137659269121/photo/1",
+            "id": 1140734121150468096,
+            "media_url": "http://pbs.twimg.com/media/D9Szo6pXUAAI3xG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9Szo6pXUAAI3xG.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1125,
+                    "h": 1112,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 672,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1125,
+                    "h": 1112,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/NwfVN26xHK"
+        }
+    ],
+    "place": {
+        "id": "07d9e8fce4882003",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e8fce4882003.json",
+        "place_type": "poi",
+        "name": "Willisburg",
+        "full_name": "Willisburg",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -85.09813828763942,
+                        37.8971378805689
+                    ],
+                    [
+                        -85.09813828763942,
+                        37.8971378805689
+                    ],
+                    [
+                        -85.09813828763942,
+                        37.8971378805689
+                    ],
+                    [
+                        -85.09813828763942,
+                        37.8971378805689
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Busy day in Taylor &amp; Washington Counties w/stops at @DaVita, Isaiah House, @CampbellsvilleU &amp; local media. #KY1 https://t.co/NwfVN26xHK",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 28676469,
+            "id_str": "28676469",
+            "name": "DaVita Kidney Care",
+            "screen_name": "DaVita"
+        },
+        {
+            "id": 45852643,
+            "id_str": "45852643",
+            "name": "Campbellsville University",
+            "screen_name": "CampbellsvilleU"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "created_at": "Wed May 22 13:08:44 +0000 2019",
+    "favorite_count": 48,
+    "hashtags": [],
+    "id": 1131185121913188352,
+    "id_str": "1131185121913188352",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed May 22 02:00:05 +0000 2019",
+        "favorite_count": 217,
+        "hashtags": [],
+        "id": 1131016852396761094,
+        "id_str": "1131016852396761094",
+        "lang": "en",
+        "retweet_count": 61,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The infectious Valley Fever disease affects thousands of people each year. Today I introduced the bipartisan, bicam\u2026 https://t.co/EBmc3ZF6j0",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131016852396761094",
+                "url": "https://t.co/EBmc3ZF6j0"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+            "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.\nhttps://t.co/ZqWsqD6L0T",
+            "favourites_count": 1766,
+            "followers_count": 339788,
+            "friends_count": 1387,
+            "geo_enabled": true,
+            "id": 19739126,
+            "id_str": "19739126",
+            "listed_count": 3970,
+            "location": "Bakersfield, CA",
+            "name": "Kevin McCarthy",
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1561180371",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+            "profile_link_color": "0A2644",
+            "profile_sidebar_border_color": "FF0000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "122C73",
+            "profile_use_background_image": true,
+            "screen_name": "GOPLeader",
+            "statuses_count": 10752,
+            "url": "https://t.co/eB1lud6Yi3",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1131016852396761094,
+    "quoted_status_id_str": "1131016852396761094",
+    "retweet_count": 18,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I am proud to re-introduce the FORWARD Act this Congress in the House with @GOPLeader &amp; Senate with @SenMcSallyAZ.\u2026 https://t.co/bLeMcVDLxS",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1131185121913188352",
+            "url": "https://t.co/bLeMcVDLxS"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Dec 21 19:48:02 +0000 2010",
+        "description": "Avid hiker and coffee enthusiast who is proud to represent Arizona's 6th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 491,
+        "followers_count": 26975,
+        "friends_count": 1928,
+        "id": 229197216,
+        "id_str": "229197216",
+        "listed_count": 1131,
+        "location": "Arizona",
+        "name": "Rep David Schweikert",
+        "profile_background_color": "D5D2BF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/229197216/1425598365",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120412904304599041/dVK5QlEQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120412904304599041/dVK5QlEQ_normal.jpg",
+        "profile_link_color": "AA1200",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepDavid",
+        "statuses_count": 3879,
+        "url": "https://t.co/bsAbCTNenN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19739126,
+            "id_str": "19739126",
+            "name": "Kevin McCarthy",
+            "screen_name": "GOPLeader"
+        },
+        {
+            "id": 2964949642,
+            "id_str": "2964949642",
+            "name": "Martha McSally",
+            "screen_name": "SenMcSallyAZ"
+        }
+    ]
+}

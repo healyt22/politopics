@@ -1,0 +1,121 @@
+{
+    "created_at": "Sun May 26 19:47:59 +0000 2019",
+    "favorite_count": 155,
+    "hashtags": [],
+    "id": 1132735150851317760,
+    "id_str": "1132735150851317760",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun May 26 16:27:03 +0000 2019",
+        "favorite_count": 13254,
+        "hashtags": [],
+        "id": 1132684582715682816,
+        "id_str": "1132684582715682816",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/itNkk8SZJU",
+                "expanded_url": "https://twitter.com/packers/status/1132684582715682816/video/1",
+                "id": 1132684508627578880,
+                "media_url": "http://pbs.twimg.com/media/D7ganrSV4AYf0UT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D7ganrSV4AYf0UT.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 702,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 373,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 658,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/itNkk8SZJU"
+            }
+        ],
+        "retweet_count": 4006,
+        "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+        "text": "LEGEND.\n\nRIP, Bart Starr \ud83d\ude4f https://t.co/itNkk8SZJU",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Apr 27 21:22:16 +0000 2009",
+            "description": "The official Twitter account of the 13-time World Champion Green Bay Packers. Super Bowl Champions I, II, XXXI, XLV.",
+            "favourites_count": 1843,
+            "followers_count": 2227500,
+            "friends_count": 158,
+            "geo_enabled": true,
+            "id": 35865630,
+            "id_str": "35865630",
+            "listed_count": 10587,
+            "location": "Green Bay, WI",
+            "name": "Green Bay Packers",
+            "profile_background_color": "2A433A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/35865630/1538416716",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1160751990227578880/1PhKdTNo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160751990227578880/1PhKdTNo_normal.jpg",
+            "profile_link_color": "2A433A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "packers",
+            "statuses_count": 61345,
+            "url": "http://t.co/SOkNpLbeMb",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1132684582715682816,
+    "quoted_status_id_str": "1132684582715682816",
+    "retweet_count": 12,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "As a kid in the late '60s in Murdo, S.D., I had a limited window to the world, but one thing I always knew was that\u2026 https://t.co/LUpCfFlebX",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1132735150851317760",
+            "url": "https://t.co/LUpCfFlebX"
+        }
+    ],
+    "user": {
+        "created_at": "Tue May 10 16:41:48 +0000 2011",
+        "description": "U.S. Senator John Thune, South Dakota. Senate Republican Whip. Father. Grandfather. Husband. Avid Outdoorsman. Sports Fan.",
+        "favourites_count": 57,
+        "followers_count": 94771,
+        "friends_count": 325,
+        "geo_enabled": true,
+        "id": 296361085,
+        "id_str": "296361085",
+        "listed_count": 2311,
+        "name": "Senator John Thune",
+        "profile_background_color": "F8F4E4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296361085/1452790054",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110550047966543873/ppEe8HG0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110550047966543873/ppEe8HG0_normal.png",
+        "profile_link_color": "264B59",
+        "profile_sidebar_border_color": "990000",
+        "profile_sidebar_fill_color": "333333",
+        "profile_text_color": "808080",
+        "profile_use_background_image": true,
+        "screen_name": "SenJohnThune",
+        "statuses_count": 5474,
+        "url": "http://t.co/OiwOiAFGGw",
+        "verified": true
+    },
+    "user_mentions": []
+}

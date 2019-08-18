@@ -1,0 +1,79 @@
+{
+    "created_at": "Mon May 27 23:02:33 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1133146502690496512,
+    "id_str": "1133146502690496512",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/29ymdKVr92",
+            "expanded_url": "https://twitter.com/SenPatRoberts/status/1133146502690496512/photo/1",
+            "id": 1133146495748857861,
+            "media_url": "http://pbs.twimg.com/media/D7m-u_WW4AUCzCU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7m-u_WW4AUCzCU.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 379,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 669,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2016,
+                    "h": 1124,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/29ymdKVr92"
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Honored to speak at the @FortRiley Memorial Day ceremony this afternoon. https://t.co/29ymdKVr92",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 18 19:34:56 +0000 2009",
+        "description": "Senior Senator from Kansas. Chairman of @SenateAgGOP.",
+        "favourites_count": 343,
+        "followers_count": 73225,
+        "friends_count": 917,
+        "id": 75364211,
+        "id_str": "75364211",
+        "listed_count": 2002,
+        "location": "Kansas, USA",
+        "name": "Senator Pat Roberts",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75364211/1436984767",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981951337536671744/8z6P2Eck_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981951337536671744/8z6P2Eck_normal.jpg",
+        "profile_link_color": "8D1616",
+        "profile_sidebar_border_color": "CBCAC0",
+        "profile_sidebar_fill_color": "E7E6DB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenPatRoberts",
+        "statuses_count": 6535,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16736846,
+            "id_str": "16736846",
+            "name": "U.S. Army Fort Riley",
+            "screen_name": "FortRiley"
+        }
+    ]
+}

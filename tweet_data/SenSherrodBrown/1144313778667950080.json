@@ -1,0 +1,102 @@
+{
+    "created_at": "Thu Jun 27 18:37:19 +0000 2019",
+    "favorite_count": 52,
+    "hashtags": [],
+    "id": 1144313778667950080,
+    "id_str": "1144313778667950080",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jun 27 13:40:55 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1144239186981113856,
+        "id_str": "1144239186981113856",
+        "in_reply_to_screen_name": "CF_Foundation",
+        "in_reply_to_user_id": 59526518,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@CF_Foundation Team OHIO met with @SenSherrodBrown to discuss CF and what the CF Community needs from him. Policies\u2026 https://t.co/WTiBcllcs9",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1144239186981113856",
+                "url": "https://t.co/WTiBcllcs9"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 22 20:43:22 +0000 2016",
+            "default_profile": true,
+            "favourites_count": 224,
+            "followers_count": 10,
+            "friends_count": 39,
+            "id": 745718845021659137,
+            "id_str": "745718845021659137",
+            "location": "Mason, OH",
+            "name": "Spencer G",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/745718845021659137/1519426024",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/967168954509783046/gCDrNNAo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/967168954509783046/gCDrNNAo_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SpencerG617",
+            "statuses_count": 20
+        },
+        "user_mentions": [
+            {
+                "id": 59526518,
+                "id_str": "59526518",
+                "name": "Cystic Fibrosis Foundation",
+                "screen_name": "CF_Foundation"
+            },
+            {
+                "id": 43910797,
+                "id_str": "43910797",
+                "name": "Sherrod Brown",
+                "screen_name": "SenSherrodBrown"
+            }
+        ]
+    },
+    "quoted_status_id": 1144239186981113856,
+    "quoted_status_id_str": "1144239186981113856",
+    "retweet_count": 8,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Great having you all at coffee this morning. https://t.co/25bgS0aBG8",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/SpencerG617/status/1144239186981113856",
+            "url": "https://t.co/25bgS0aBG8"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jun 01 16:07:45 +0000 2009",
+        "description": "Office of United States Senator Sherrod Brown. Proud to serve Ohio. Tweets from Sherrod signed -SB.",
+        "favourites_count": 63,
+        "followers_count": 377954,
+        "friends_count": 220,
+        "id": 43910797,
+        "id_str": "43910797",
+        "listed_count": 4283,
+        "location": "Cleveland, OH",
+        "name": "Sherrod Brown",
+        "profile_background_color": "F1F2EA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43910797/1397501269",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/523158370333638657/cLmYIfYa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/523158370333638657/cLmYIfYa_normal.jpeg",
+        "profile_link_color": "1E4CA1",
+        "profile_sidebar_border_color": "598541",
+        "profile_sidebar_fill_color": "EBEAD9",
+        "profile_text_color": "663B12",
+        "screen_name": "SenSherrodBrown",
+        "statuses_count": 6292,
+        "url": "http://t.co/YX0sj7bkFG",
+        "verified": true
+    },
+    "user_mentions": []
+}

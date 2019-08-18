@@ -1,0 +1,75 @@
+{
+    "created_at": "Fri Nov 06 12:59:43 +0000 2015",
+    "favorite_count": 19,
+    "hashtags": [
+        {
+            "text": "chsnews"
+        }
+    ],
+    "id": 662615342900973568,
+    "id_str": "662615342900973568",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/yB0QXM0RnB",
+            "expanded_url": "https://twitter.com/GrahamBlog/status/662615342900973568/photo/1",
+            "id": 662615336038985728,
+            "media_url": "http://pbs.twimg.com/media/CTIVIy9UcAAO_y4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTIVIy9UcAAO_y4.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 576,
+                    "h": 1024,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 576,
+                    "h": 1024,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/yB0QXM0RnB"
+        }
+    ],
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Speaking this morning to the Rotary Club Charleston Breakfast. #chsnews https://t.co/yB0QXM0RnB",
+    "urls": [],
+    "user": {
+        "created_at": "Tue May 20 13:57:21 +0000 2008",
+        "description": "Twitter feed for U.S. Senator Lindsey Graham of South Carolina.",
+        "followers_count": 118870,
+        "friends_count": 2066,
+        "id": 14845376,
+        "id_str": "14845376",
+        "listed_count": 3368,
+        "location": "Washington, DC",
+        "name": "Lindsey Graham",
+        "profile_background_color": "001D48",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14845376/1355255089",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2167513251/LG_Testifying2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2167513251/LG_Testifying2_normal.jpg",
+        "profile_link_color": "0B6D91",
+        "profile_sidebar_border_color": "9B1812",
+        "profile_sidebar_fill_color": "A1A1A1",
+        "profile_text_color": "432D2E",
+        "screen_name": "GrahamBlog",
+        "statuses_count": 4232,
+        "url": "http://t.co/x7LZALizg6",
+        "verified": true
+    },
+    "user_mentions": []
+}

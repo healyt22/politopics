@@ -1,0 +1,112 @@
+{
+    "created_at": "Wed May 22 18:33:44 +0000 2019",
+    "hashtags": [],
+    "id": 1131266913131225093,
+    "id_str": "1131266913131225093",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed May 22 18:11:39 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1131261355024179200,
+        "id_str": "1131261355024179200",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": ".@HouseForeign is marking up the United States-Northern Triangle Enhanced Engagement Act introduced by\u2026 https://t.co/MNhVK7EIwU",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131261355024179200",
+                "url": "https://t.co/MNhVK7EIwU"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 28 21:58:21 +0000 2009",
+            "description": "Reporter @devex covering #globaldev with a focus on #LatinAmerica and #foodsecurity and interest in #migration. \nTweets my own.",
+            "favourites_count": 866,
+            "followers_count": 1467,
+            "friends_count": 1815,
+            "id": 69706170,
+            "id_str": "69706170",
+            "listed_count": 59,
+            "name": "Teresa Welsh",
+            "profile_background_color": "601860",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/69706170/1509482644",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1088846082531053570/UO0gwLm5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088846082531053570/UO0gwLm5_normal.jpg",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "00C0A8",
+            "profile_sidebar_fill_color": "903060",
+            "profile_text_color": "909048",
+            "profile_use_background_image": true,
+            "screen_name": "tmawelsh",
+            "statuses_count": 9384,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 61206798,
+                "id_str": "61206798",
+                "name": "House Foreign Affairs Committee",
+                "screen_name": "HouseForeign"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @tmawelsh: .@HouseForeign is marking up the United States-Northern Triangle Enhanced Engagement Act introduced by @RepEliotEngel and @Re\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Mar 25 03:54:11 +0000 2009",
+        "description": "Representing the 10th District of Texas | Leader of @houseforeigngop",
+        "favourites_count": 389,
+        "followers_count": 30611,
+        "friends_count": 384,
+        "geo_enabled": true,
+        "id": 26424123,
+        "id_str": "26424123",
+        "listed_count": 1344,
+        "location": "Texas' 10th District",
+        "name": "Michael McCaul",
+        "profile_background_color": "21206B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26424123/1561644786",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144247573324140544/J1Mw75FZ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144247573324140544/J1Mw75FZ_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "6D78C5",
+        "profile_text_color": "060A51",
+        "profile_use_background_image": true,
+        "screen_name": "RepMcCaul",
+        "statuses_count": 4003,
+        "url": "https://t.co/4jvVzE7EQ5",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 69706170,
+            "id_str": "69706170",
+            "name": "Teresa Welsh",
+            "screen_name": "tmawelsh"
+        },
+        {
+            "id": 61206798,
+            "id_str": "61206798",
+            "name": "House Foreign Affairs Committee",
+            "screen_name": "HouseForeign"
+        },
+        {
+            "id": 164007407,
+            "id_str": "164007407",
+            "name": "Eliot Engel",
+            "screen_name": "RepEliotEngel"
+        }
+    ]
+}

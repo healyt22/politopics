@@ -1,0 +1,166 @@
+{
+    "created_at": "Tue Jul 16 17:08:05 +0000 2019",
+    "hashtags": [],
+    "id": 1151176689612939264,
+    "id_str": "1151176689612939264",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 17:05:32 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1151176049176301573,
+        "id_str": "1151176049176301573",
+        "lang": "en",
+        "place": {
+            "id": "07d9d2f3fd488002",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d2f3fd488002.json",
+            "place_type": "poi",
+            "name": "SVC 202 Meeting Room",
+            "full_name": "SVC 202 Meeting Room",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.00839129767088,
+                            38.89022106561556
+                        ],
+                        [
+                            -77.00839129767088,
+                            38.89022106561556
+                        ],
+                        [
+                            -77.00839129767088,
+                            38.89022106561556
+                        ],
+                        [
+                            -77.00839129767088,
+                            38.89022106561556
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u2066@SenatorMenendez\u2069 \u2066@SenJohnKennedy\u2069 \u2066@FrankPallone\u2069 and other R\u2019s and Dems unveil bipartisan bill to extend+revamp\u2026 https://t.co/3BLgjWCoIM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151176049176301573",
+                "url": "https://t.co/3BLgjWCoIM"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 19 20:52:55 +0000 2010",
+            "default_profile": true,
+            "description": "Senior Congressional Reporter Bloomberg Environment @environment. Links & RTs \u2260 endorsements dscott@BloombergEnvironment.com",
+            "favourites_count": 890,
+            "followers_count": 3618,
+            "friends_count": 1689,
+            "geo_enabled": true,
+            "id": 134918286,
+            "id_str": "134918286",
+            "listed_count": 248,
+            "location": "Washington D.C.",
+            "name": "Dean Scott",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/134918286/1475769974",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1744104280/DeanFORtwitter_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1744104280/DeanFORtwitter_normal.JPG",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "deantscott",
+            "statuses_count": 3460,
+            "url": "https://t.co/6s4YJvDOSf",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18695134,
+                "id_str": "18695134",
+                "name": "Senator Bob Menendez",
+                "screen_name": "SenatorMenendez"
+            },
+            {
+                "id": 816683274076614656,
+                "id_str": "816683274076614656",
+                "name": "John Kennedy",
+                "screen_name": "SenJohnKennedy"
+            },
+            {
+                "id": 31801993,
+                "id_str": "31801993",
+                "name": "Rep. Frank Pallone",
+                "screen_name": "FrankPallone"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @deantscott: \u2066@SenatorMenendez\u2069 \u2066@SenJohnKennedy\u2069 \u2066@FrankPallone\u2069 and other R\u2019s and Dems unveil bipartisan bill to extend+revamp Nationa\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 06 21:01:12 +0000 2009",
+        "description": "U.S. Senator from New Jersey. \ud83c\uddfa\ud83c\uddf8 Proud father of Alicia & Rob. Proud grandfather of Evangelina.",
+        "favourites_count": 2064,
+        "followers_count": 163554,
+        "friends_count": 986,
+        "geo_enabled": true,
+        "id": 18695134,
+        "id_str": "18695134",
+        "listed_count": 3798,
+        "location": "New Jersey, USA",
+        "name": "Senator Bob Menendez",
+        "profile_background_color": "273447",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18695134/1545829307",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1138088998419800064/bGqy6DbH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138088998419800064/bGqy6DbH_normal.png",
+        "profile_link_color": "3283D1",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorMenendez",
+        "statuses_count": 10814,
+        "url": "https://t.co/P6lBJPCjWi",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 134918286,
+            "id_str": "134918286",
+            "name": "Dean Scott",
+            "screen_name": "deantscott"
+        },
+        {
+            "id": 18695134,
+            "id_str": "18695134",
+            "name": "Senator Bob Menendez",
+            "screen_name": "SenatorMenendez"
+        },
+        {
+            "id": 816683274076614656,
+            "id_str": "816683274076614656",
+            "name": "John Kennedy",
+            "screen_name": "SenJohnKennedy"
+        },
+        {
+            "id": 31801993,
+            "id_str": "31801993",
+            "name": "Rep. Frank Pallone",
+            "screen_name": "FrankPallone"
+        }
+    ]
+}

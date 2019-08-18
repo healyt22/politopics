@@ -1,0 +1,103 @@
+{
+    "created_at": "Wed Mar 13 13:26:25 +0000 2019",
+    "hashtags": [],
+    "id": 1105822424128503813,
+    "id_str": "1105822424128503813",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Mar 13 13:14:05 +0000 2019",
+        "favorite_count": 17,
+        "hashtags": [],
+        "id": 1105819320591007744,
+        "id_str": "1105819320591007744",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Up before the crack of dawn today for the second Republican baseball practice for @thehillbaseball. Good to be with\u2026 https://t.co/tVmPAlpGoF",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1105819320591007744",
+                "url": "https://t.co/tVmPAlpGoF"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+            "default_profile": true,
+            "description": "Representing Arizona's Fighting Fifth.",
+            "favourites_count": 3734,
+            "followers_count": 26797,
+            "friends_count": 1227,
+            "id": 816652616625168388,
+            "id_str": "816652616625168388",
+            "listed_count": 582,
+            "location": "Arizona, USA",
+            "name": "Rep Andy Biggs",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1558381518",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepAndyBiggsAZ",
+            "statuses_count": 5735,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 322754909,
+                "id_str": "322754909",
+                "name": "Congressional Game",
+                "screen_name": "thehillbaseball"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RepAndyBiggsAZ: Up before the crack of dawn today for the second Republican baseball practice for @thehillbaseball. Good to be with my\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 10 19:21:22 +0000 2013",
+        "description": "I am honored to represent the 25th Congressional District of Texas. Member of @FinancialCmte.",
+        "favourites_count": 1008,
+        "followers_count": 11460,
+        "friends_count": 697,
+        "geo_enabled": true,
+        "id": 1077446982,
+        "id_str": "1077446982",
+        "listed_count": 614,
+        "location": "Central Texas",
+        "name": "Rep. Roger Williams",
+        "profile_background_color": "DEDDE0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077446982/1547135020",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436164065665093632/aealPAUa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/436164065665093632/aealPAUa_normal.jpeg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepRWilliams",
+        "statuses_count": 4847,
+        "url": "http://t.co/JVoBEX18T4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 816652616625168388,
+            "id_str": "816652616625168388",
+            "name": "Rep Andy Biggs",
+            "screen_name": "RepAndyBiggsAZ"
+        },
+        {
+            "id": 322754909,
+            "id_str": "322754909",
+            "name": "Congressional Game",
+            "screen_name": "thehillbaseball"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "created_at": "Fri Aug 03 14:54:40 +0000 2018",
+    "hashtags": [],
+    "id": 1025394524535836673,
+    "id_str": "1025394524535836673",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Aug 03 14:52:33 +0000 2018",
+        "favorite_count": 21,
+        "hashtags": [],
+        "id": 1025393994451378177,
+        "id_str": "1025393994451378177",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/cA6UKB1wqH",
+                "expanded_url": "https://twitter.com/vdaltonjr/status/1025393994451378177/photo/1",
+                "id": 1025393992257687552,
+                "media_url": "http://pbs.twimg.com/media/DjruZzdW0AApA08.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DjruZzdW0AApA08.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 590,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1778,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1042,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/cA6UKB1wqH"
+            }
+        ],
+        "place": {
+            "id": "07d9f5fc01c81001",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9f5fc01c81001.json",
+            "place_type": "poi",
+            "name": "Martin Building NC State Fairgrounds",
+            "full_name": "Martin Building NC State Fairgrounds",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.7111911192083,
+                            35.794829597674784
+                        ],
+                        [
+                            -78.7111911192083,
+                            35.794829597674784
+                        ],
+                        [
+                            -78.7111911192083,
+                            35.794829597674784
+                        ],
+                        [
+                            -78.7111911192083,
+                            35.794829597674784
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you \u2066@RepDavidRouzer\u2069 \u2066@SenThomTillis\u2069 \u2066@ConawayTX11\u2069 for standing up for our farmers and rural communities! https://t.co/cA6UKB1wqH",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Dec 02 23:45:35 +0000 2012",
+            "default_profile": true,
+            "description": "President & CEO at Carolina Farm Credit",
+            "favourites_count": 5245,
+            "followers_count": 382,
+            "friends_count": 627,
+            "geo_enabled": true,
+            "id": 985598479,
+            "id_str": "985598479",
+            "listed_count": 8,
+            "name": "Vance Dalton",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/985598479/1456062720",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/866484316968280064/HajeWuYX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/866484316968280064/HajeWuYX_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "vdaltonjr",
+            "statuses_count": 828
+        },
+        "user_mentions": [
+            {
+                "id": 834069080,
+                "id_str": "834069080",
+                "name": "David Rouzer",
+                "screen_name": "RepDavidRouzer"
+            },
+            {
+                "id": 2964174789,
+                "id_str": "2964174789",
+                "name": "Senator Thom Tillis",
+                "screen_name": "SenThomTillis"
+            },
+            {
+                "id": 295685416,
+                "id_str": "295685416",
+                "name": "Mike Conaway",
+                "screen_name": "ConawayTX11"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @vdaltonjr: Thank you \u2066@RepDavidRouzer\u2069 \u2066@SenThomTillis\u2069 \u2066@ConawayTX11\u2069 for standing up for our farmers and rural communities! https://t\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon May 09 13:56:50 +0000 2011",
+        "description": "Proud to serve the 11th Congressional District of Texas. Ranking Member of @HouseAgGOP, member of @HASCRepublicans & #HPSCI.",
+        "favourites_count": 160,
+        "followers_count": 21661,
+        "friends_count": 1422,
+        "geo_enabled": true,
+        "id": 295685416,
+        "id_str": "295685416",
+        "listed_count": 824,
+        "name": "Mike Conaway",
+        "profile_background_color": "F0F3F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/295685416/1517244708",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1021419293676908544/8ETWjoht_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021419293676908544/8ETWjoht_normal.jpg",
+        "profile_link_color": "080808",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "ConawayTX11",
+        "statuses_count": 1001,
+        "url": "https://t.co/cm0zGBQaLP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 985598479,
+            "id_str": "985598479",
+            "name": "Vance Dalton",
+            "screen_name": "vdaltonjr"
+        },
+        {
+            "id": 834069080,
+            "id_str": "834069080",
+            "name": "David Rouzer",
+            "screen_name": "RepDavidRouzer"
+        },
+        {
+            "id": 2964174789,
+            "id_str": "2964174789",
+            "name": "Senator Thom Tillis",
+            "screen_name": "SenThomTillis"
+        },
+        {
+            "id": 295685416,
+            "id_str": "295685416",
+            "name": "Mike Conaway",
+            "screen_name": "ConawayTX11"
+        }
+    ]
+}

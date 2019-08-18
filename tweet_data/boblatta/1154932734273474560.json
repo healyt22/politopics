@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Jul 27 01:53:16 +0000 2019",
+    "hashtags": [],
+    "id": 1154932734273474560,
+    "id_str": "1154932734273474560",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Sat Jul 27 01:45:00 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1154930654699823106,
+        "id_str": "1154930654699823106",
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "TONIGHT 10pm ET - Rep. @BobLatta (R-OH) is our guest on \"Communicators\" to talk about the tech industry and the ove\u2026 https://t.co/L3Wuwe4K9U",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154930654699823106",
+                "url": "https://t.co/L3Wuwe4K9U"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 31 14:29:10 +0000 2008",
+            "description": "Capitol Hill. The White House. National Politics.",
+            "favourites_count": 1460,
+            "followers_count": 1960406,
+            "friends_count": 8840,
+            "geo_enabled": true,
+            "id": 15675138,
+            "id_str": "15675138",
+            "listed_count": 13895,
+            "location": "Washington, D.C.",
+            "name": "CSPAN",
+            "profile_background_color": "04005F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1552903501",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+            "profile_link_color": "04007D",
+            "profile_sidebar_border_color": "00012B",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "cspan",
+            "statuses_count": 40808,
+            "url": "https://t.co/L3A4afzX6T",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 15394954,
+                "id_str": "15394954",
+                "name": "U.S. Rep. Bob Latta",
+                "screen_name": "boblatta"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @cspan: TONIGHT 10pm ET - Rep. @BobLatta (R-OH) is our guest on \"Communicators\" to talk about the tech industry and the oversight role o\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 11 18:33:24 +0000 2008",
+        "description": "Representing #OH5. Deputy Whip. Member of @HouseCommerce Committee. Republican Leader of the Communications and Technology Subcommittee.",
+        "favourites_count": 540,
+        "followers_count": 37780,
+        "friends_count": 2940,
+        "geo_enabled": true,
+        "id": 15394954,
+        "id_str": "15394954",
+        "listed_count": 1350,
+        "name": "U.S. Rep. Bob Latta",
+        "profile_background_color": "4F4F4F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15394954/1565216908",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621369511636135937/Zk5PgsWw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621369511636135937/Zk5PgsWw_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "550000",
+        "profile_sidebar_fill_color": "B2CEED",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "boblatta",
+        "statuses_count": 7168,
+        "url": "https://t.co/CIaeduqh2k",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15675138,
+            "id_str": "15675138",
+            "name": "CSPAN",
+            "screen_name": "cspan"
+        },
+        {
+            "id": 15394954,
+            "id_str": "15394954",
+            "name": "U.S. Rep. Bob Latta",
+            "screen_name": "boblatta"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "created_at": "Mon May 06 19:42:37 +0000 2019",
+    "hashtags": [],
+    "id": 1125486042562174977,
+    "id_str": "1125486042562174977",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Mon May 06 13:03:00 +0000 2019",
+        "favorite_count": 21,
+        "hashtags": [],
+        "id": 1125385474363625472,
+        "id_str": "1125385474363625472",
+        "in_reply_to_screen_name": "ClarkCountySch",
+        "in_reply_to_status_id": 1125382768576192513,
+        "in_reply_to_user_id": 267918244,
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "In case you can\u2019t make it out this morning, @freedsbakery is offering teachers a free cupcake who stop into the sho\u2026 https://t.co/ungRNCwheG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1125385474363625472",
+                "url": "https://t.co/ungRNCwheG"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 17 20:13:37 +0000 2011",
+            "description": "Official Twitter account for the Clark County School District in Las Vegas, NV, the fifth-largest school district in the United States. #1ForKids #1ParaLosNi\u00f1os",
+            "favourites_count": 15765,
+            "followers_count": 27266,
+            "friends_count": 1101,
+            "geo_enabled": true,
+            "id": 267918244,
+            "id_str": "267918244",
+            "listed_count": 285,
+            "location": "Clark County, Las Vegas, NV",
+            "name": "CCSD",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/267918244/1544564401",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/489825731417882624/gmJCnBOL_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/489825731417882624/gmJCnBOL_normal.jpeg",
+            "profile_link_color": "5588BB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ClarkCountySch",
+            "statuses_count": 31600,
+            "url": "http://t.co/FD6EU0BuW4",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 61229588,
+                "id_str": "61229588",
+                "name": "Freed's Bakery",
+                "screen_name": "freedsbakery"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ClarkCountySch: In case you can\u2019t make it out this morning, @freedsbakery is offering teachers a free cupcake who stop into the shop un\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 05 20:49:41 +0000 2008",
+        "description": "Representative of Nevada's First District. Tweeting politics, culture & #OnlyInDistrict1.",
+        "favourites_count": 7546,
+        "followers_count": 9301,
+        "friends_count": 1259,
+        "geo_enabled": true,
+        "id": 17907578,
+        "id_str": "17907578",
+        "listed_count": 401,
+        "location": "Fabulous Las Vegas, Nevada",
+        "name": "Dina Titus",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17907578/1485036291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "dinatitus",
+        "statuses_count": 7094,
+        "url": "https://t.co/nJxR59HXbP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 267918244,
+            "id_str": "267918244",
+            "name": "CCSD",
+            "screen_name": "ClarkCountySch"
+        },
+        {
+            "id": 61229588,
+            "id_str": "61229588",
+            "name": "Freed's Bakery",
+            "screen_name": "freedsbakery"
+        }
+    ]
+}

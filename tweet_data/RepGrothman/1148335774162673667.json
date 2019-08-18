@@ -1,0 +1,83 @@
+{
+    "created_at": "Mon Jul 08 20:59:18 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "IndependenceDay"
+        }
+    ],
+    "id": 1148335774162673667,
+    "id_str": "1148335774162673667",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/n2vvaT93YE",
+            "expanded_url": "https://twitter.com/RepGrothman/status/1148335774162673667/photo/1",
+            "id": 1148335763521773568,
+            "media_url": "http://pbs.twimg.com/media/D--1SvOXoAAhKpm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D--1SvOXoAAhKpm.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 525,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 816,
+                    "h": 1056,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 816,
+                    "h": 1056,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/n2vvaT93YE"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "This excerpt from @realdonaldtrump\u2019s #IndependenceDay speech is truly powerful https://t.co/n2vvaT93YE",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 15:08:48 +0000 2015",
+        "description": "Official account of Congressman Glenn Grothman, proudly representing Wisconsin's Sixth District.",
+        "favourites_count": 119,
+        "followers_count": 6848,
+        "friends_count": 210,
+        "id": 2976606250,
+        "id_str": "2976606250",
+        "listed_count": 443,
+        "location": "Washington, D.C.",
+        "name": "Rep. Glenn Grothman",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2976606250/1480964777",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572507648281419776/DwcU5StR_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572507648281419776/DwcU5StR_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepGrothman",
+        "statuses_count": 2119,
+        "url": "http://t.co/MY3WTtaAeb",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "created_at": "Sun Jun 09 00:04:33 +0000 2019",
+    "hashtags": [],
+    "id": 1137510757489291265,
+    "id_str": "1137510757489291265",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sat Jun 08 22:02:50 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [],
+        "id": 1137480128823349249,
+        "id_str": "1137480128823349249",
+        "lang": "en",
+        "place": {
+            "id": "fbd6d2f5a4e4a15e",
+            "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json",
+            "place_type": "admin",
+            "name": "California",
+            "full_name": "California, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -124.482003,
+                            32.528832
+                        ],
+                        [
+                            -114.131212,
+                            32.528832
+                        ],
+                        [
+                            -114.131212,
+                            42.009519
+                        ],
+                        [
+                            -124.482003,
+                            42.009519
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\ud83c\uddfa\ud83c\uddf8 @McFarland_USD\u2019s Cadets presenting the colors for the Town Hall held by @RepTjCox. \nMcFarland Schools provide ex\u2026 https://t.co/1mvhqgk5l7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1137480128823349249",
+                "url": "https://t.co/1mvhqgk5l7"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 10 03:19:13 +0000 2017",
+            "default_profile": true,
+            "description": "All Tweets are my own",
+            "favourites_count": 4682,
+            "followers_count": 248,
+            "friends_count": 667,
+            "geo_enabled": true,
+            "id": 895484654693646337,
+            "id_str": "895484654693646337",
+            "listed_count": 7,
+            "location": "California, USA",
+            "name": "AaronResendez",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/895484654693646337/1502339256",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/895501194612817920/YkWmMIf4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/895501194612817920/YkWmMIf4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SAaronResendez",
+            "statuses_count": 1377
+        },
+        "user_mentions": [
+            {
+                "id": 3608122046,
+                "id_str": "3608122046",
+                "name": "McFarland Unified SD",
+                "screen_name": "McFarland_USD"
+            },
+            {
+                "id": 1080875913926139910,
+                "id_str": "1080875913926139910",
+                "name": "Congressman TJ Cox",
+                "screen_name": "RepTjCox"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SAaronResendez: \ud83c\uddfa\ud83c\uddf8 @McFarland_USD\u2019s Cadets presenting the colors for the Town Hall held by @RepTjCox. \nMcFarland Schools provide excell\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 17:17:54 +0000 2019",
+        "default_profile": true,
+        "description": "Engineer, dad, small businessman. Serving with @HouseAgDems to grow opportunity in #CA21. Chair, Subcommittee on Oversight and Investigations, @NRDems.",
+        "favourites_count": 324,
+        "followers_count": 5681,
+        "friends_count": 546,
+        "geo_enabled": true,
+        "id": 1080875913926139910,
+        "id_str": "1080875913926139910",
+        "listed_count": 161,
+        "name": "Congressman TJ Cox",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080875913926139910/1554311206",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154061352287162368/geh4UyEV_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154061352287162368/geh4UyEV_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTjCox",
+        "statuses_count": 688,
+        "url": "https://t.co/szOHjcJFAj",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 895484654693646337,
+            "id_str": "895484654693646337",
+            "name": "AaronResendez",
+            "screen_name": "SAaronResendez"
+        },
+        {
+            "id": 3608122046,
+            "id_str": "3608122046",
+            "name": "McFarland Unified SD",
+            "screen_name": "McFarland_USD"
+        },
+        {
+            "id": 1080875913926139910,
+            "id_str": "1080875913926139910",
+            "name": "Congressman TJ Cox",
+            "screen_name": "RepTjCox"
+        }
+    ]
+}

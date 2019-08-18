@@ -1,0 +1,101 @@
+{
+    "created_at": "Thu May 23 19:43:10 +0000 2019",
+    "hashtags": [
+        {
+            "text": "IoT"
+        }
+    ],
+    "id": 1131646773221572609,
+    "id_str": "1131646773221572609",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu May 23 15:31:39 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "IoT"
+            }
+        ],
+        "id": 1131583476807995392,
+        "id_str": "1131583476807995392",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The proliferation of #IoT tech brings unprecedented benefits to consumers &amp; industries across the U.S. economy. Tha\u2026 https://t.co/1B3G6D1KfK",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131583476807995392",
+                "url": "https://t.co/1B3G6D1KfK"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 25 18:51:39 +0000 2009",
+            "description": "The Information Technology Industry Council (ITI) is the global voice of the tech sector.",
+            "favourites_count": 717,
+            "followers_count": 9189,
+            "friends_count": 3610,
+            "geo_enabled": true,
+            "id": 50731463,
+            "id_str": "50731463",
+            "listed_count": 401,
+            "location": "Washington, D.C.",
+            "name": "ITI",
+            "profile_background_color": "FCFCFC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/50731463/1512148777",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/817407990634520581/cmHtna7n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/817407990634520581/cmHtna7n_normal.jpg",
+            "profile_link_color": "0096C8",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "183278",
+            "profile_text_color": "787278",
+            "profile_use_background_image": true,
+            "screen_name": "ITI_TechTweets",
+            "statuses_count": 9607,
+            "url": "http://t.co/OdeVdVaKmQ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ITI_TechTweets: The proliferation of #IoT tech brings unprecedented benefits to consumers &amp; industries across the U.S. economy. Thanks\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 16:49:07 +0000 2013",
+        "description": "U.S. Senator and Cherry County rancher working to bring some Nebraska common sense to Washington",
+        "favourites_count": 55,
+        "followers_count": 81269,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 1071402577,
+        "id_str": "1071402577",
+        "listed_count": 1696,
+        "name": "Senator Deb Fischer",
+        "profile_background_color": "B4C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071402577/1467819561",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/816319022182649860/pev9bNlJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/816319022182649860/pev9bNlJ_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorFischer",
+        "statuses_count": 5628,
+        "url": "http://t.co/0O49SY7v",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 50731463,
+            "id_str": "50731463",
+            "name": "ITI",
+            "screen_name": "ITI_TechTweets"
+        }
+    ]
+}

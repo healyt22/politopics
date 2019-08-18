@@ -1,0 +1,104 @@
+{
+    "created_at": "Wed Jun 12 21:40:17 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [
+        {
+            "text": "VA05"
+        },
+        {
+            "text": "USMCA"
+        }
+    ],
+    "id": 1138924004968996864,
+    "id_str": "1138924004968996864",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 12 19:05:43 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1138885104699367424,
+        "id_str": "1138885104699367424",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@RepRiggleman: \"At some point, we\u2019re going to have to come to some kind of agreement with China, and I believe it\u2026 https://t.co/RmSMwheC4m",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138885104699367424",
+                "url": "https://t.co/RmSMwheC4m"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 10 18:58:01 +0000 2016",
+            "default_profile": true,
+            "description": "#ConnectToCongress is the best way to talk to your lawmakers through the Sinclair Broadcast Group network. https://t.co/3G2jKZ1OwR",
+            "favourites_count": 899,
+            "followers_count": 1096,
+            "friends_count": 465,
+            "id": 741343677465890820,
+            "id_str": "741343677465890820",
+            "listed_count": 60,
+            "location": "Washington, DC",
+            "name": "C2C Sinclair",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/741343677465890820/1465586441",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/741345386925817856/mtKcEXUU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/741345386925817856/mtKcEXUU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SBGC2C",
+            "statuses_count": 5628,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1080504024695222273,
+                "id_str": "1080504024695222273",
+                "name": "Congressman Denver Riggleman",
+                "screen_name": "RepRiggleman"
+            }
+        ]
+    },
+    "quoted_status_id": 1138885104699367424,
+    "quoted_status_id_str": "1138885104699367424",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#VA05, watch below as I talk about the developments in trade deals for the #USMCA and China. https://t.co/ol3DVujtPD",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/SBGC2C/status/1138885104699367424",
+            "url": "https://t.co/ol3DVujtPD"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 16:40:09 +0000 2019",
+        "default_profile": true,
+        "description": "Official Twitter for Congressman Denver Riggleman, proudly representing VA-05",
+        "favourites_count": 138,
+        "followers_count": 4123,
+        "friends_count": 98,
+        "id": 1080504024695222273,
+        "id_str": "1080504024695222273",
+        "listed_count": 131,
+        "location": "Nelson County, VA",
+        "name": "Congressman Denver Riggleman",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080504024695222273/1546470119",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080504233311551490/MieXr9k1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080504233311551490/MieXr9k1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRiggleman",
+        "statuses_count": 746,
+        "url": "https://t.co/FzMaNM6XGR",
+        "verified": true
+    },
+    "user_mentions": []
+}

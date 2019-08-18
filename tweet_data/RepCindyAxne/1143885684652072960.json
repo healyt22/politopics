@@ -1,0 +1,131 @@
+{
+    "created_at": "Wed Jun 26 14:16:14 +0000 2019",
+    "hashtags": [],
+    "id": 1143885684652072960,
+    "id_str": "1143885684652072960",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jun 26 13:56:56 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 1143880829149634560,
+        "id_str": "1143880829149634560",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zdAyknmcHo",
+                "expanded_url": "https://twitter.com/LEAD_ATA/status/1143880829149634560/photo/1",
+                "id": 1143880805233639426,
+                "media_url": "http://pbs.twimg.com/media/D9_hiCVWwAIKXMI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9_hiCVWwAIKXMI.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/zdAyknmcHo"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you to @RepCindyAxne for taking time to meet with a few of Iowa\u2019s emerging trucking leaders this morning! https://t.co/zdAyknmcHo",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Mar 08 22:17:50 +0000 2013",
+            "description": "LEAD ATA is a one-year program created to engage the trucking industry's best and brightest to become our leaders of tomorrow.",
+            "favourites_count": 69,
+            "followers_count": 365,
+            "friends_count": 146,
+            "id": 1252866584,
+            "id_str": "1252866584",
+            "listed_count": 9,
+            "location": "Arlington, VA",
+            "name": "LEAD ATA",
+            "profile_background_color": "000508",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252866584/1542212246",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/666984163355066369/mZz2KaaU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/666984163355066369/mZz2KaaU_normal.jpg",
+            "profile_link_color": "BA2908",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LEAD_ATA",
+            "statuses_count": 211,
+            "url": "http://t.co/kHZ9FacZgQ"
+        },
+        "user_mentions": [
+            {
+                "id": 1080865917377097728,
+                "id_str": "1080865917377097728",
+                "name": "Rep. Cindy Axne",
+                "screen_name": "RepCindyAxne"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LEAD_ATA: Thank you to @RepCindyAxne for taking time to meet with a few of Iowa\u2019s emerging trucking leaders this morning! https://t.co/\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 16:38:10 +0000 2019",
+        "description": "Proud to serve as the U.S. Representative from Iowa's Third Congressional District.",
+        "favourites_count": 71,
+        "followers_count": 8485,
+        "friends_count": 300,
+        "geo_enabled": true,
+        "id": 1080865917377097728,
+        "id_str": "1080865917377097728",
+        "listed_count": 207,
+        "location": "Des Moines, IA",
+        "name": "Rep. Cindy Axne",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080865917377097728/1546613243",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080868174097043456/QomNGZDc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080868174097043456/QomNGZDc_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepCindyAxne",
+        "statuses_count": 497,
+        "url": "https://t.co/8HYX7IyY9b",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1252866584,
+            "id_str": "1252866584",
+            "name": "LEAD ATA",
+            "screen_name": "LEAD_ATA"
+        },
+        {
+            "id": 1080865917377097728,
+            "id_str": "1080865917377097728",
+            "name": "Rep. Cindy Axne",
+            "screen_name": "RepCindyAxne"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "created_at": "Fri Jul 19 20:48:19 +0000 2019",
+    "hashtags": [],
+    "id": 1152319278756110338,
+    "id_str": "1152319278756110338",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Fri Jul 19 19:59:28 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1152306984068288513,
+        "id_str": "1152306984068288513",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "On her way to work @FlaglerSheriff Ashlie Hicks spotted smoke from a porch engulfed in flames. She quickly alerted\u2026 https://t.co/4hyeCPyFmY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1152306984068288513",
+                "url": "https://t.co/4hyeCPyFmY"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Mar 31 16:19:01 +0000 2019",
+            "default_profile": true,
+            "description": "ShareBlueSmiles, a CentralSquare project, deepens trust between law enforcement and citizens by sharing positive stories.",
+            "favourites_count": 6,
+            "followers_count": 101,
+            "friends_count": 1,
+            "id": 1112388838633230336,
+            "id_str": "1112388838633230336",
+            "name": "ShareBlueSmiles",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112388838633230336/1562937321",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1149425987114995712/C7vqbErL_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149425987114995712/C7vqbErL_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ShareBlueSmiles",
+            "statuses_count": 48,
+            "url": "https://t.co/TcWXxTRLtQ"
+        },
+        "user_mentions": [
+            {
+                "id": 259893105,
+                "id_str": "259893105",
+                "name": "FlaglerSheriff",
+                "screen_name": "FlaglerSheriff"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ShareBlueSmiles: On her way to work @FlaglerSheriff Ashlie Hicks spotted smoke from a porch engulfed in flames. She quickly alerted the\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 07 23:20:25 +0000 2019",
+        "default_profile": true,
+        "description": "Congressman for #FL6 (Volusia, Flagler, Lake, St Johns Counties), Green Beret, National Guard Lt. Col., Author of \"Warrior Diplomat,\" Floridian, Father.",
+        "favourites_count": 433,
+        "followers_count": 4507,
+        "friends_count": 430,
+        "geo_enabled": true,
+        "id": 1082416697380913152,
+        "id_str": "1082416697380913152",
+        "listed_count": 110,
+        "name": "Rep. Michael Waltz",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082416697380913152/1560377890",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083828101317099520/VVlPDed3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083828101317099520/VVlPDed3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMichaelWaltz",
+        "statuses_count": 814,
+        "url": "https://t.co/QOB7UQmYz2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1112388838633230336,
+            "id_str": "1112388838633230336",
+            "name": "ShareBlueSmiles",
+            "screen_name": "ShareBlueSmiles"
+        },
+        {
+            "id": 259893105,
+            "id_str": "259893105",
+            "name": "FlaglerSheriff",
+            "screen_name": "FlaglerSheriff"
+        }
+    ]
+}

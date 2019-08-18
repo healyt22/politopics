@@ -1,0 +1,132 @@
+{
+    "created_at": "Mon May 13 21:24:01 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Colombia"
+        }
+    ],
+    "id": 1128048272801718273,
+    "id_str": "1128048272801718273",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon May 13 20:40:18 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [
+            {
+                "text": "Colombia"
+            }
+        ],
+        "id": 1128037274090987522,
+        "id_str": "1128037274090987522",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u201cBipartisan support for the future of  #Colombia\u201d - a conversation joined by @RepFrenchHill @DWStweets\u2026 https://t.co/Lck09Fra0u",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1128037274090987522",
+                "url": "https://t.co/Lck09Fra0u"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 02 15:33:56 +0000 2009",
+            "description": "Travelling the world, meeting people and cultures, sharing the experience. Nicaraguan. Regional Program Director at @IRIglobal. Tweets are my own.",
+            "favourites_count": 2933,
+            "followers_count": 896,
+            "friends_count": 614,
+            "geo_enabled": true,
+            "id": 22494610,
+            "id_str": "22494610",
+            "listed_count": 25,
+            "location": "America Latina",
+            "name": "Gabriela Serrano",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22494610/1487471830",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/832405363119026176/TMf1PP20_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/832405363119026176/TMf1PP20_normal.jpg",
+            "profile_link_color": "0000B3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "gserranog",
+            "statuses_count": 3496
+        },
+        "user_mentions": [
+            {
+                "id": 2953974395,
+                "id_str": "2953974395",
+                "name": "French Hill",
+                "screen_name": "RepFrenchHill"
+            },
+            {
+                "id": 115979444,
+                "id_str": "115979444",
+                "name": "Debbie Wasserman Schultz",
+                "screen_name": "DWStweets"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @gserranog: \u201cBipartisan support for the future of  #Colombia\u201d - a conversation joined by @RepFrenchHill @DWStweets @cataortizcamara @jua\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 31 23:54:58 +0000 2014",
+        "description": "Official account of Rep French Hill. 9th generation Arkansan. FinTech + AI Task Force Ranking Member. Proudly representing Arkansas's 2nd Congressional District",
+        "favourites_count": 1078,
+        "followers_count": 14229,
+        "friends_count": 1171,
+        "geo_enabled": true,
+        "id": 2953974395,
+        "id_str": "2953974395",
+        "listed_count": 498,
+        "location": "Little Rock, AR",
+        "name": "French Hill",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953974395/1559338548",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepFrenchHill",
+        "statuses_count": 2502,
+        "url": "https://t.co/TggD8rLd3M",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22494610,
+            "id_str": "22494610",
+            "name": "Gabriela Serrano",
+            "screen_name": "gserranog"
+        },
+        {
+            "id": 2953974395,
+            "id_str": "2953974395",
+            "name": "French Hill",
+            "screen_name": "RepFrenchHill"
+        },
+        {
+            "id": 115979444,
+            "id_str": "115979444",
+            "name": "Debbie Wasserman Schultz",
+            "screen_name": "DWStweets"
+        },
+        {
+            "id": 36352562,
+            "id_str": "36352562",
+            "name": "Catalina Ortiz \ud83c\udf3b",
+            "screen_name": "cataortizcamara"
+        }
+    ]
+}

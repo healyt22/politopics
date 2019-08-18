@@ -1,0 +1,140 @@
+{
+    "created_at": "Mon Apr 01 18:13:51 +0000 2019",
+    "favorite_count": 69,
+    "hashtags": [
+        {
+            "text": "FinalFour"
+        }
+    ],
+    "id": 1112780126352236544,
+    "id_str": "1112780126352236544",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun Mar 31 20:50:14 +0000 2019",
+        "favorite_count": 6731,
+        "hashtags": [
+            {
+                "text": "WarEagle"
+            },
+            {
+                "text": "UnfinishedBusiness"
+            }
+        ],
+        "id": 1112457092944855041,
+        "id_str": "1112457092944855041",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ttM05oMEyy",
+                "expanded_url": "https://twitter.com/AuburnMBB/status/1112457092944855041/photo/1",
+                "id": 1112451526574915584,
+                "media_url": "http://pbs.twimg.com/media/D3A4xPdWwAA_4cB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D3A4xPdWwAA_4cB.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ttM05oMEyy"
+            }
+        ],
+        "retweet_count": 3581,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "WE ARE GOING TO THE FINAL FOUR!\n\n#WarEagle x #UnfinishedBusiness https://t.co/ttM05oMEyy",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Mar 26 14:42:35 +0000 2009",
+            "description": "Official Twitter of Auburn Tigers Men's Basketball, led by @coachbrucepearl. #WarEagle",
+            "favourites_count": 3029,
+            "followers_count": 62116,
+            "friends_count": 122,
+            "geo_enabled": true,
+            "id": 26763214,
+            "id_str": "26763214",
+            "listed_count": 435,
+            "location": "Auburn, Ala.",
+            "name": "Auburn Basketball",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26763214/1552066970",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1037333178929831936/btd8wUGa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037333178929831936/btd8wUGa_normal.jpg",
+            "profile_link_color": "F26522",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AuburnMBB",
+            "statuses_count": 14239,
+            "url": "https://t.co/qNJM22JwX1",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1112457092944855041,
+    "quoted_status_id_str": "1112457092944855041",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Congratulations to @AuburnMBB on the big win last night! Good luck to the team in the #FinalFour \u2013 we'll be rooting\u2026 https://t.co/8ELGgQc472",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1112780126352236544",
+            "url": "https://t.co/8ELGgQc472"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Feb 17 17:53:43 +0000 2009",
+        "description": "The official Twitter page for U.S. Senator Richard Shelby (R-Ala.) https://t.co/YqOy54UpSf",
+        "favourites_count": 335,
+        "followers_count": 82051,
+        "friends_count": 503,
+        "geo_enabled": true,
+        "id": 21111098,
+        "id_str": "21111098",
+        "listed_count": 2148,
+        "location": "Tuscaloosa, Alabama",
+        "name": "Richard Shelby",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21111098/1436912050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+        "profile_link_color": "A60000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "SenShelby",
+        "statuses_count": 2294,
+        "url": "https://t.co/1iULT8X6Vz",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 26763214,
+            "id_str": "26763214",
+            "name": "Auburn Basketball",
+            "screen_name": "AuburnMBB"
+        }
+    ]
+}

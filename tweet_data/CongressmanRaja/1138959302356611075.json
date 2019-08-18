@@ -1,0 +1,104 @@
+{
+    "created_at": "Thu Jun 13 00:00:33 +0000 2019",
+    "hashtags": [],
+    "id": 1138959302356611075,
+    "id_str": "1138959302356611075",
+    "lang": "en",
+    "retweet_count": 38,
+    "retweeted_status": {
+        "created_at": "Wed Jun 12 20:30:52 +0000 2019",
+        "favorite_count": 78,
+        "hashtags": [],
+        "id": 1138906534753296384,
+        "id_str": "1138906534753296384",
+        "lang": "en",
+        "retweet_count": 38,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "New: @CongressmanRaja is investigating Juul, and has requested a huge swath of documents on its ad practices, healt\u2026 https://t.co/wWFZpS8sye",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138906534753296384",
+                "url": "https://t.co/wWFZpS8sye"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 05 22:58:15 +0000 2008",
+            "description": "@thedailybeast reporter. Coauthor of SINKING IN THE SWAMP (Viking), coming 2020. Pre-order link\ud83d\udc47lachlan.markay@thedailybeast.com / markay@protonmail.com #LGD\ud83d\udc79",
+            "favourites_count": 19447,
+            "followers_count": 74568,
+            "friends_count": 1691,
+            "id": 15742985,
+            "id_str": "15742985",
+            "listed_count": 1969,
+            "location": "DC",
+            "name": "Lachlan Markay",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15742985/1463441473",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1044636821039304705/e62IjtyX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044636821039304705/e62IjtyX_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "lachlan",
+            "statuses_count": 1552,
+            "url": "https://t.co/JoakVfzwdX",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 814179031956488192,
+                "id_str": "814179031956488192",
+                "name": "Raja Krishnamoorthi",
+                "screen_name": "CongressmanRaja"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @lachlan: New: @CongressmanRaja is investigating Juul, and has requested a huge swath of documents on its ad practices, health effects,\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 28 18:39:42 +0000 2016",
+        "default_profile": true,
+        "description": "Official Twitter account of Congressman   Raja Krishnamoorthi, representing Illinois' 8th Congressional District.",
+        "favourites_count": 1262,
+        "followers_count": 17877,
+        "friends_count": 1772,
+        "id": 814179031956488192,
+        "id_str": "814179031956488192",
+        "listed_count": 508,
+        "location": "Schaumburg, IL",
+        "name": "Raja Krishnamoorthi",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814179031956488192/1483562500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanRaja",
+        "statuses_count": 3730,
+        "url": "https://t.co/zHGbk8wDWc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15742985,
+            "id_str": "15742985",
+            "name": "Lachlan Markay",
+            "screen_name": "lachlan"
+        },
+        {
+            "id": 814179031956488192,
+            "id_str": "814179031956488192",
+            "name": "Raja Krishnamoorthi",
+            "screen_name": "CongressmanRaja"
+        }
+    ]
+}

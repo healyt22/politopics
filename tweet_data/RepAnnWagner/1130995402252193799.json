@@ -1,0 +1,121 @@
+{
+    "created_at": "Wed May 22 00:34:51 +0000 2019",
+    "hashtags": [],
+    "id": 1130995402252193799,
+    "id_str": "1130995402252193799",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Wed May 22 00:21:14 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1130991974821949440,
+        "id_str": "1130991974821949440",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bVBYuGlVQs",
+                "expanded_url": "https://twitter.com/NWSStLouis/status/1130991974821949440/photo/1",
+                "id": 1130991972993232898,
+                "media_url": "http://pbs.twimg.com/media/D7IXNQoUcAIScVz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D7IXNQoUcAIScVz.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1020,
+                        "h": 860,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 573,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1020,
+                        "h": 860,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/bVBYuGlVQs"
+            }
+        ],
+        "retweet_count": 7,
+        "source": "<a href=\"http://www.weather.gov/crh/impact\" rel=\"nofollow\">Svr Wx Impact Graphics - LSX</a>",
+        "text": "Severe Thunderstorm Warning continues for Saint Louis MO, Belleville IL, Oakville MO until 8:00 PM CDT https://t.co/bVBYuGlVQs",
+        "urls": [],
+        "user": {
+            "created_at": "Thu May 31 23:01:10 +0000 2012",
+            "description": "Official Twitter account for the National Weather Service St.Louis.  Details: http://t.co/KKTK7cZlhK",
+            "favourites_count": 4979,
+            "followers_count": 27004,
+            "friends_count": 405,
+            "id": 595903268,
+            "id_str": "595903268",
+            "listed_count": 749,
+            "location": "St. Charles, MO",
+            "name": "NWS St. Louis",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/595903268/1560249324",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1138474430353485824/0qCaIN1I_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138474430353485824/0qCaIN1I_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NWSStLouis",
+            "statuses_count": 14726,
+            "url": "http://t.co/E2WSUckVNA",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NWSStLouis: Severe Thunderstorm Warning continues for Saint Louis MO, Belleville IL, Oakville MO until 8:00 PM CDT https://t.co/bVBYuGl\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 01 00:01:45 +0000 2013",
+        "description": "Official Twitter account for Congresswoman Ann Wagner-- proudly Representing the 2nd Congressional District of Missouri https://t.co/6TKCrqRcSw",
+        "favourites_count": 317,
+        "followers_count": 22592,
+        "friends_count": 2674,
+        "geo_enabled": true,
+        "id": 1051446626,
+        "id_str": "1051446626",
+        "listed_count": 817,
+        "location": "Ballwin, MO",
+        "name": "Ann Wagner",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051446626/1422549376",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/949026474769645568/gtC8XH4t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/949026474769645568/gtC8XH4t_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "screen_name": "RepAnnWagner",
+        "statuses_count": 3620,
+        "url": "https://t.co/tFjsHUzj16",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 595903268,
+            "id_str": "595903268",
+            "name": "NWS St. Louis",
+            "screen_name": "NWSStLouis"
+        }
+    ]
+}

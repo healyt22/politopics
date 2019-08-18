@@ -1,0 +1,142 @@
+{
+    "created_at": "Mon Jul 01 19:12:39 +0000 2019",
+    "hashtags": [],
+    "id": 1145772219295051776,
+    "id_str": "1145772219295051776",
+    "lang": "en",
+    "retweet_count": 17,
+    "retweeted_status": {
+        "created_at": "Mon Jul 01 19:07:36 +0000 2019",
+        "favorite_count": 45,
+        "hashtags": [],
+        "id": 1145770950056730624,
+        "id_str": "1145770950056730624",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 17,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "House Democrats request White House communications sent via personal email Via @rachaelmbade https://t.co/OYJs7EvKD2",
+        "urls": [
+            {
+                "expanded_url": "https://wapo.st/2NqpKYf",
+                "url": "https://t.co/OYJs7EvKD2"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 11 15:07:30 +0000 2015",
+            "description": "News about Washington decision-makers and home to The Daily 202 morning brief: http://t.co/e7jTt0ywUj.",
+            "favourites_count": 18312,
+            "followers_count": 9869,
+            "friends_count": 6367,
+            "geo_enabled": true,
+            "id": 3086975121,
+            "id_str": "3086975121",
+            "listed_count": 515,
+            "location": "Washington, DC",
+            "name": "PowerPost",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3086975121/1433927989",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/608597732974940161/5eoLKD3g_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/608597732974940161/5eoLKD3g_normal.png",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "PowerPost",
+            "statuses_count": 34480,
+            "url": "http://t.co/6HQRfCqs5L",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 167024520,
+                "id_str": "167024520",
+                "name": "Rachael Bade",
+                "screen_name": "rachaelmbade"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @PowerPost: House Democrats request White House communications sent via personal email Via @rachaelmbade https://t.co/OYJs7EvKD2",
+    "urls": [
+        {
+            "expanded_url": "https://wapo.st/2NqpKYf",
+            "url": "https://t.co/OYJs7EvKD2"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Apr 14 13:37:22 +0000 2009",
+        "description": "Chairman @RepCummings|Committee on Oversight and Reform|RT and follows do not equal endorsements|Tweets from Cummings signed EEC",
+        "favourites_count": 2188,
+        "followers_count": 122438,
+        "friends_count": 5403,
+        "id": 31122582,
+        "id_str": "31122582",
+        "listed_count": 1676,
+        "location": "Washington, DC",
+        "name": "Oversight Committee",
+        "profile_background_color": "032657",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31122582/1553880867",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080568543303872514/-YfzStjy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080568543303872514/-YfzStjy_normal.jpg",
+        "profile_link_color": "376399",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B9D0ED",
+        "profile_text_color": "000000",
+        "screen_name": "OversightDems",
+        "statuses_count": 11722,
+        "url": "https://t.co/ILjlVmjNS6",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3086975121,
+            "id_str": "3086975121",
+            "name": "PowerPost",
+            "screen_name": "PowerPost"
+        },
+        {
+            "id": 167024520,
+            "id_str": "167024520",
+            "name": "Rachael Bade",
+            "screen_name": "rachaelmbade"
+        }
+    ]
+}

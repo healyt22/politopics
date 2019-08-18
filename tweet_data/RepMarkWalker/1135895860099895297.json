@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jun 04 13:07:31 +0000 2019",
+    "favorite_count": 25,
+    "hashtags": [],
+    "id": 1135895860099895297,
+    "id_str": "1135895860099895297",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 04 13:01:47 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1135894417431310336,
+        "id_str": "1135894417431310336",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/g1Nx3HUh9u",
+                "expanded_url": "https://twitter.com/nypost/status/1135894417431310336/photo/1",
+                "id": 1135894415300616193,
+                "media_url": "http://pbs.twimg.com/media/D8OB89ZX4AE0lVl.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D8OB89ZX4AE0lVl.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/g1Nx3HUh9u"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "'Jeopardy!' star James Holzhauer likely owes $1.2 million in taxes on winnings https://t.co/hqd9IOTzSS https://t.co/g1Nx3HUh9u",
+        "urls": [
+            {
+                "expanded_url": "https://trib.al/T93wPLL",
+                "url": "https://t.co/hqd9IOTzSS"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 18 19:46:36 +0000 2008",
+            "description": "Breaking news & features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+            "favourites_count": 2062,
+            "followers_count": 1466600,
+            "friends_count": 11811,
+            "geo_enabled": true,
+            "id": 17469289,
+            "id_str": "17469289",
+            "listed_count": 18476,
+            "location": "New York, NY",
+            "name": "New York Post",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17469289/1444326181",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+            "profile_link_color": "CC3333",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nypost",
+            "statuses_count": 248354,
+            "url": "https://t.co/MwyanWdKnl",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1135894417431310336,
+    "quoted_status_id_str": "1135894417431310336",
+    "retweet_count": 9,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Alex: \u201cThis state combined with the federal government will take nearly 50 percent of your earnings.\u201d\n\nJames: \u201cWhat\u2026 https://t.co/c9GjJRtojN",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1135895860099895297",
+            "url": "https://t.co/c9GjJRtojN"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 07 16:20:28 +0000 2015",
+        "description": "US Congressman. @housegop Vice Chair. Ranking Member on Subcommittee for Counterterrorism and Intelligence. Former Pastor gratefully representing #NC06.",
+        "favourites_count": 4438,
+        "followers_count": 19393,
+        "friends_count": 1066,
+        "geo_enabled": true,
+        "id": 2966205003,
+        "id_str": "2966205003",
+        "listed_count": 636,
+        "name": "Rep. Mark Walker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966205003/1515012979",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_link_color": "0B2343",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMarkWalker",
+        "statuses_count": 4829,
+        "url": "https://t.co/uvTWAFvWvC",
+        "verified": true
+    },
+    "user_mentions": []
+}

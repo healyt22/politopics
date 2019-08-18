@@ -1,0 +1,108 @@
+{
+    "created_at": "Tue Oct 02 14:10:28 +0000 2018",
+    "hashtags": [],
+    "id": 1047126676398854145,
+    "id_str": "1047126676398854145",
+    "lang": "en",
+    "retweet_count": 37,
+    "retweeted_status": {
+        "created_at": "Tue Oct 02 14:09:49 +0000 2018",
+        "favorite_count": 111,
+        "hashtags": [],
+        "id": 1047126512082857984,
+        "id_str": "1047126512082857984",
+        "lang": "en",
+        "retweet_count": 37,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "My bill with @SenatorBurr to permanently reauthorize and fund the Land and Water Conservation fund will be before t\u2026 https://t.co/AwlINSe2PK",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1047126512082857984",
+                "url": "https://t.co/AwlINSe2PK"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 25 19:21:52 +0000 2010",
+            "description": "U.S. Senator from Washington State | Tweets from Maria are signed \u2013MC | Facebook: https://t.co/qLmMk10nJI RT\u2260endorsement",
+            "favourites_count": 814,
+            "followers_count": 230257,
+            "friends_count": 2205,
+            "id": 117501995,
+            "id_str": "117501995",
+            "listed_count": 2493,
+            "location": "Washington, DC",
+            "name": "Sen. Maria Cantwell",
+            "profile_background_color": "B8B6B6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/117501995/1525958289",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1112707249032626176/j7drmGgX_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112707249032626176/j7drmGgX_normal.png",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "25377E",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "25378F",
+            "profile_use_background_image": true,
+            "screen_name": "SenatorCantwell",
+            "statuses_count": 8396,
+            "url": "https://t.co/5P50HzPLoB",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 21157904,
+                "id_str": "21157904",
+                "name": "Richard Burr",
+                "screen_name": "SenatorBurr"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SenatorCantwell: My bill with @SenatorBurr to permanently reauthorize and fund the Land and Water Conservation fund will be before the\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 18 01:53:03 +0000 2009",
+        "description": "U.S. Senator from North Carolina, Chairman of the Senate Select Committee on Intelligence",
+        "favourites_count": 50,
+        "followers_count": 154011,
+        "friends_count": 899,
+        "geo_enabled": true,
+        "id": 21157904,
+        "id_str": "21157904",
+        "listed_count": 3466,
+        "location": "Winston-Salem, NC",
+        "name": "Richard Burr",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21157904/1521749782",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588079658819653632/wwdO4Eqv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588079658819653632/wwdO4Eqv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorBurr",
+        "statuses_count": 3818,
+        "url": "http://t.co/MHZvAsvWrN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 117501995,
+            "id_str": "117501995",
+            "name": "Sen. Maria Cantwell",
+            "screen_name": "SenatorCantwell"
+        },
+        {
+            "id": 21157904,
+            "id_str": "21157904",
+            "name": "Richard Burr",
+            "screen_name": "SenatorBurr"
+        }
+    ]
+}

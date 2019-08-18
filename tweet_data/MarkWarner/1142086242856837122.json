@@ -1,0 +1,105 @@
+{
+    "created_at": "Fri Jun 21 15:05:53 +0000 2019",
+    "hashtags": [],
+    "id": 1142086242856837122,
+    "id_str": "1142086242856837122",
+    "lang": "en",
+    "retweet_count": 13,
+    "retweeted_status": {
+        "created_at": "Fri Jun 21 02:55:00 +0000 2019",
+        "favorite_count": 23,
+        "hashtags": [],
+        "id": 1141902307199553536,
+        "id_str": "1141902307199553536",
+        "lang": "en",
+        "retweet_count": 13,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\u201cThis isn't rocket science. This is \u2018basic management 101\u2019 and we need to bring it to these contracts.\u201d @MarkWarner\u2026 https://t.co/LXyaDchXKL",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141902307199553536",
+                "url": "https://t.co/LXyaDchXKL"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 02 02:47:56 +0000 2009",
+            "description": "Emmy winning investigative reporter for @WUSA9. Northwestern Medill alum. Long Island native. Die hard Yankee fan!",
+            "favourites_count": 1968,
+            "followers_count": 6054,
+            "friends_count": 2095,
+            "geo_enabled": true,
+            "id": 28265021,
+            "id_str": "28265021",
+            "listed_count": 203,
+            "location": "Washington, DC",
+            "name": "Laura Geller TV",
+            "profile_background_color": "89C9FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28265021/1551127813",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1100136028361379840/oVFX2igG_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100136028361379840/oVFX2igG_normal.png",
+            "profile_link_color": "330980",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "634047",
+            "screen_name": "LauraGellerTV",
+            "statuses_count": 16134,
+            "url": "https://t.co/htZJ2tSWst",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 7429102,
+                "id_str": "7429102",
+                "name": "Mark Warner",
+                "screen_name": "MarkWarner"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LauraGellerTV: \u201cThis isn't rocket science. This is \u2018basic management 101\u2019 and we need to bring it to these contracts.\u201d @MarkWarner says\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 12 14:03:33 +0000 2007",
+        "description": "Serving Virginia in the US Senate. Vice Chairman, Intel Committee. Dad, Husband, Budget Wonk. Previous: Serial entrepreneur, business guy, 69th Governor of Va",
+        "favourites_count": 1772,
+        "followers_count": 448254,
+        "friends_count": 23822,
+        "id": 7429102,
+        "id_str": "7429102",
+        "listed_count": 4885,
+        "location": "Virginia",
+        "name": "Mark Warner",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7429102/1473719645",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/944243549922582528/DyFwGriJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/944243549922582528/DyFwGriJ_normal.jpg",
+        "profile_link_color": "28486F",
+        "profile_sidebar_border_color": "28486F",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "MarkWarner",
+        "statuses_count": 8953,
+        "url": "https://t.co/sIM9jRW0rP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 28265021,
+            "id_str": "28265021",
+            "name": "Laura Geller TV",
+            "screen_name": "LauraGellerTV"
+        },
+        {
+            "id": 7429102,
+            "id_str": "7429102",
+            "name": "Mark Warner",
+            "screen_name": "MarkWarner"
+        }
+    ]
+}

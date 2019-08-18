@@ -1,0 +1,113 @@
+{
+    "created_at": "Wed Feb 27 15:06:22 +0000 2019",
+    "hashtags": [],
+    "id": 1100774147620257793,
+    "id_str": "1100774147620257793",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Wed Feb 27 14:59:24 +0000 2019",
+        "favorite_count": 24,
+        "hashtags": [],
+        "id": 1100772394359287809,
+        "id_str": "1100772394359287809",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks @SenatorRisch for meeting with Department of Idaho delegation and your support of Veterans @AmericanLegion\u2026 https://t.co/ORHgyuW2TW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1100772394359287809",
+                "url": "https://t.co/ORHgyuW2TW"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 28 17:07:48 +0000 2014",
+            "default_profile": true,
+            "favourites_count": 259,
+            "followers_count": 44,
+            "friends_count": 155,
+            "id": 2530464535,
+            "id_str": "2530464535",
+            "listed_count": 1,
+            "name": "Richard Harper",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960925943328993280/UUBqhotF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960925943328993280/UUBqhotF_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RichardPHarper",
+            "statuses_count": 507
+        },
+        "user_mentions": [
+            {
+                "id": 1096059529,
+                "id_str": "1096059529",
+                "name": "Jim Risch",
+                "screen_name": "SenatorRisch"
+            },
+            {
+                "id": 27048645,
+                "id_str": "27048645",
+                "name": "The American Legion",
+                "screen_name": "AmericanLegion"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RichardPHarper: Thanks @SenatorRisch for meeting with Department of Idaho delegation and your support of Veterans @AmericanLegion @legi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 16 18:58:23 +0000 2013",
+        "description": "U.S. Senator for Idaho",
+        "favourites_count": 226,
+        "followers_count": 82095,
+        "friends_count": 319,
+        "id": 1096059529,
+        "id_str": "1096059529",
+        "listed_count": 1534,
+        "location": "Boise",
+        "name": "Jim Risch",
+        "profile_background_color": "1717EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096059529/1477416030",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3161364149/32f2f83385840438a393070a7e426bde_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3161364149/32f2f83385840438a393070a7e426bde_normal.jpeg",
+        "profile_link_color": "C71414",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorRisch",
+        "statuses_count": 1695,
+        "url": "https://t.co/QMGG1eEAGz",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2530464535,
+            "id_str": "2530464535",
+            "name": "Richard Harper",
+            "screen_name": "RichardPHarper"
+        },
+        {
+            "id": 1096059529,
+            "id_str": "1096059529",
+            "name": "Jim Risch",
+            "screen_name": "SenatorRisch"
+        },
+        {
+            "id": 27048645,
+            "id_str": "27048645",
+            "name": "The American Legion",
+            "screen_name": "AmericanLegion"
+        }
+    ]
+}

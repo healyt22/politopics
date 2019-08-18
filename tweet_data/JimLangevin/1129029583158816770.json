@@ -1,0 +1,70 @@
+{
+    "created_at": "Thu May 16 14:23:23 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1129029583158816770,
+    "id_str": "1129029583158816770",
+    "in_reply_to_screen_name": "JimLangevin",
+    "in_reply_to_status_id": 1129029582189993984,
+    "in_reply_to_user_id": 18909919,
+    "lang": "en",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "\ud83d\udc4f @DefenseDigital for @DeptofDefense\u2019s VDP \ud83d\udc4f\n\ud83d\udc4f @FDAcdrhIndustry for progressive work on medical device cyber/softwa\u2026 https://t.co/k5F4aRfvRM",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1129029583158816770",
+            "url": "https://t.co/k5F4aRfvRM"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 12 18:36:58 +0000 2009",
+        "default_profile": true,
+        "description": "U.S. Congressman for Rhode Island's Second District",
+        "favourites_count": 2842,
+        "followers_count": 24513,
+        "friends_count": 4606,
+        "geo_enabled": true,
+        "id": 18909919,
+        "id_str": "18909919",
+        "listed_count": 1087,
+        "location": "Warwick, RI and Washington, DC",
+        "name": "Jim Langevin",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18909919/1540749532",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/601406584728748033/7161SuAe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/601406584728748033/7161SuAe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JimLangevin",
+        "statuses_count": 11273,
+        "url": "https://t.co/YIM4FH08Bf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 715951552796762112,
+            "id_str": "715951552796762112",
+            "name": "Defense Digital Service",
+            "screen_name": "DefenseDigital"
+        },
+        {
+            "id": 66369181,
+            "id_str": "66369181",
+            "name": "U.S. Dept of Defense",
+            "screen_name": "DeptofDefense"
+        },
+        {
+            "id": 66367559,
+            "id_str": "66367559",
+            "name": "FDA/CDRH Industry",
+            "screen_name": "FDAcdrhIndustry"
+        }
+    ]
+}

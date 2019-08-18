@@ -1,0 +1,140 @@
+{
+    "created_at": "Sat Jul 13 23:33:12 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [],
+    "id": 1150186442800422912,
+    "id_str": "1150186442800422912",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/OzQNPOWvSo",
+            "expanded_url": "https://twitter.com/sethmoulton/status/1150186442800422912/photo/1",
+            "id": 1150186434629918720,
+            "media_url": "http://pbs.twimg.com/media/D_ZId-WW4AAb8YV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_ZId-WW4AAb8YV.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/OzQNPOWvSo"
+        },
+        {
+            "display_url": "pic.twitter.com/OzQNPOWvSo",
+            "expanded_url": "https://twitter.com/sethmoulton/status/1150186442800422912/photo/1",
+            "id": 1150186434642481152,
+            "media_url": "http://pbs.twimg.com/media/D_ZId-ZWkAAPEOF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_ZId-ZWkAAPEOF.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/OzQNPOWvSo"
+        }
+    ],
+    "place": {
+        "id": "0a5eca4e60fe6f35",
+        "url": "https://api.twitter.com/1.1/geo/id/0a5eca4e60fe6f35.json",
+        "place_type": "city",
+        "name": "Exeter",
+        "full_name": "Exeter, NH",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -71.001194,
+                        42.956811
+                    ],
+                    [
+                        -70.8877994,
+                        42.956811
+                    ],
+                    [
+                        -70.8877994,
+                        42.997041
+                    ],
+                    [
+                        -71.001194,
+                        42.997041
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thank you to Neil Bleicken and the Civic-Minded Group for hosting us at the beautiful Bungalow Club this afternoon! https://t.co/OzQNPOWvSo",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Feb 07 03:35:59 +0000 2011",
+        "default_profile": true,
+        "description": "Father, husband, Marine, Congressman, and candidate for President of the United States. \n\nIt's time for a new generation of leadership.",
+        "favourites_count": 3999,
+        "followers_count": 143995,
+        "friends_count": 2365,
+        "geo_enabled": true,
+        "id": 248495200,
+        "id_str": "248495200",
+        "listed_count": 2476,
+        "location": "Salem, MA",
+        "name": "Seth Moulton",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248495200/1559917656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sethmoulton",
+        "statuses_count": 10762,
+        "url": "https://t.co/x3XcV4cO6O",
+        "verified": true
+    },
+    "user_mentions": []
+}

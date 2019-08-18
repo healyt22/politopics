@@ -1,0 +1,87 @@
+{
+    "created_at": "Tue Mar 26 19:27:42 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "Dalton"
+        },
+        {
+            "text": "Washington"
+        }
+    ],
+    "id": 1110624384220364806,
+    "id_str": "1110624384220364806",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/YT8E30y5Mq",
+            "expanded_url": "https://twitter.com/RepTomGraves/status/1110624384220364806/photo/1",
+            "id": 1110624380718075910,
+            "media_url": "http://pbs.twimg.com/media/D2m6_WuW0AYUx3Q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2m6_WuW0AYUx3Q.jpg",
+            "sizes": {
+                "large": {
+                    "w": 2048,
+                    "h": 1301,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 432,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 762,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/YT8E30y5Mq"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thanks to the next generation of leaders from #Dalton\u2019s @CHSLions1 for joining me in #Washington today! https://t.co/YT8E30y5Mq",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Sep 13 17:36:23 +0000 2010",
+        "description": "Dad, husband, and conservative Republican representing Georgia's 14th Congressional District. #GA14",
+        "favourites_count": 409,
+        "followers_count": 21356,
+        "friends_count": 2117,
+        "geo_enabled": true,
+        "id": 190328374,
+        "id_str": "190328374",
+        "listed_count": 910,
+        "location": "Washington, DC",
+        "name": "Tom Graves",
+        "profile_background_color": "0D161F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/190328374/1554834584",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1130545299372560384/L8T00edr_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130545299372560384/L8T00edr_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0B2BA",
+        "profile_text_color": "10234D",
+        "profile_use_background_image": true,
+        "screen_name": "RepTomGraves",
+        "statuses_count": 4285,
+        "url": "https://t.co/cRm0yQofdy",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2740303447,
+            "id_str": "2740303447",
+            "name": "Christian Heritage School",
+            "screen_name": "CHSLions1"
+        }
+    ]
+}

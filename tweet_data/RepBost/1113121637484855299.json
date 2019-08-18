@@ -1,0 +1,111 @@
+{
+    "created_at": "Tue Apr 02 16:50:53 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [
+        {
+            "text": "BornAlive"
+        },
+        {
+            "text": "EndInfanticide"
+        },
+        {
+            "text": "LetUsVote"
+        }
+    ],
+    "id": 1113121637484855299,
+    "id_str": "1113121637484855299",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/KvxlVtcURV",
+            "expanded_url": "https://twitter.com/RepBost/status/1113121637484855299/video/1",
+            "id": 1113121397029601282,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113121397029601282/pu/img/eMDj5FU0klLtAjpx.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113121397029601282/pu/img/eMDj5FU0klLtAjpx.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/KvxlVtcURV",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 136200,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1113121397029601282/pu/vid/1280x720/uld8kdb0ltvhyh1p.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1113121397029601282/pu/vid/320x180/kW5az-lbm_0J7BoJ.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1113121397029601282/pu/vid/640x360/vUAL5Bh0wmPbNYmZ.mp4?tag=8"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1113121397029601282/pu/pl/Me5v_sxlO45B5GCR.m3u8?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 7,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "If a baby is #BornAlive it should be treated as any other infant would be.  #EndInfanticide #LetUsVote https://t.co/KvxlVtcURV",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 06 19:55:08 +0000 2015",
+        "description": "Member of Congress proudly representing IL-12. Serving on @TransportGOP, @HouseAgGOP, and @HouseVetAffairs Committees. Find me on FB at https://t.co/cjWY9Itiyr",
+        "favourites_count": 341,
+        "followers_count": 11240,
+        "friends_count": 1886,
+        "geo_enabled": true,
+        "id": 2964877294,
+        "id_str": "2964877294",
+        "listed_count": 472,
+        "location": "IL-12 Congressional District",
+        "name": "Rep. Mike Bost",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964877294/1548969417",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553681697867575296/TbRJrmrc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553681697867575296/TbRJrmrc_normal.jpeg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepBost",
+        "statuses_count": 1938,
+        "url": "https://t.co/4tXoH7NdiQ",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,118 @@
+{
+    "created_at": "Mon Aug 12 01:25:19 +0000 2019",
+    "hashtags": [],
+    "id": 1160723907323711488,
+    "id_str": "1160723907323711488",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Aug 12 01:25:02 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1160723837303963648,
+        "id_str": "1160723837303963648",
+        "in_reply_to_screen_name": "LVAces",
+        "in_reply_to_user_id": 920309065158397952,
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@LVAces take down Connecticut!  Following the game, @CarolynSwords is moderating a \u201cWomen of Inspiration\u201d panel, di\u2026 https://t.co/5aQZPLRJhh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1160723837303963648",
+                "url": "https://t.co/5aQZPLRJhh"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Apr 25 00:54:41 +0000 2015",
+            "default_profile": true,
+            "description": "Meteorologist @News3LV",
+            "favourites_count": 592,
+            "followers_count": 2298,
+            "friends_count": 99,
+            "id": 3171407808,
+            "id_str": "3171407808",
+            "listed_count": 60,
+            "name": "Kevin Janison",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3171407808/1470423521",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/591768281364582402/hzhbkvMG_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/591768281364582402/hzhbkvMG_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "KevinNews3LV",
+            "statuses_count": 6167,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 920309065158397952,
+                "id_str": "920309065158397952",
+                "name": "Las Vegas Aces",
+                "screen_name": "LVAces"
+            },
+            {
+                "id": 188105676,
+                "id_str": "188105676",
+                "name": "Carolyn Swords",
+                "screen_name": "CarolynSwords"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @KevinNews3LV: @LVAces take down Connecticut!  Following the game, @CarolynSwords is moderating a \u201cWomen of Inspiration\u201d panel, discussi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 05 20:49:41 +0000 2008",
+        "description": "Representative of Nevada's First District. Tweeting politics, culture & #OnlyInDistrict1.",
+        "favourites_count": 7546,
+        "followers_count": 9301,
+        "friends_count": 1259,
+        "geo_enabled": true,
+        "id": 17907578,
+        "id_str": "17907578",
+        "listed_count": 401,
+        "location": "Fabulous Las Vegas, Nevada",
+        "name": "Dina Titus",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17907578/1485036291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "dinatitus",
+        "statuses_count": 7094,
+        "url": "https://t.co/nJxR59HXbP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3171407808,
+            "id_str": "3171407808",
+            "name": "Kevin Janison",
+            "screen_name": "KevinNews3LV"
+        },
+        {
+            "id": 920309065158397952,
+            "id_str": "920309065158397952",
+            "name": "Las Vegas Aces",
+            "screen_name": "LVAces"
+        },
+        {
+            "id": 188105676,
+            "id_str": "188105676",
+            "name": "Carolyn Swords",
+            "screen_name": "CarolynSwords"
+        }
+    ]
+}

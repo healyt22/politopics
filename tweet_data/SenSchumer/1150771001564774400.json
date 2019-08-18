@@ -1,0 +1,152 @@
+{
+    "created_at": "Mon Jul 15 14:16:01 +0000 2019",
+    "favorite_count": 1404,
+    "hashtags": [],
+    "id": 1150771001564774400,
+    "id_str": "1150771001564774400",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jul 15 13:37:14 +0000 2019",
+        "favorite_count": 181,
+        "hashtags": [
+            {
+                "text": "renew911VCF"
+            }
+        ],
+        "id": 1150761239007637504,
+        "id_str": "1150761239007637504",
+        "lang": "en",
+        "place": {
+            "id": "0fc2957de3546000",
+            "url": "https://api.twitter.com/1.1/geo/id/0fc2957de3546000.json",
+            "place_type": "poi",
+            "name": "National September 11 Memorial & Museum",
+            "full_name": "National September 11 Memorial & Museum",
+            "country_code": "",
+            "country": "",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.0134334564209,
+                            40.71145106322093
+                        ],
+                        [
+                            -74.0134334564209,
+                            40.71145106322093
+                        ],
+                        [
+                            -74.0134334564209,
+                            40.71145106322093
+                        ],
+                        [
+                            -74.0134334564209,
+                            40.71145106322093
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 82,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Joining @SenSchumer. @RepJerryNadler, &amp; 911 health and compensation advocates to call on the Senate to #renew911VCF  https://t.co/JVwpK2jP1n",
+        "urls": [
+            {
+                "expanded_url": "https://www.pscp.tv/w/b_x2zjF4TmpheEd3dlpxS2J8MWVhS2J2QWdaeXJLWOqtiEfB5bRn4eCnZ13_NVicrXrHQUSRefVC3KBkc6np",
+                "url": "https://t.co/JVwpK2jP1n"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 28 19:06:50 +0000 2011",
+            "description": "Honored to rep #NY12 in the US House. A progressive fmr teacher fighting for #Manhattan, #Brooklyn & #Queens. Proud to wear FDNY coat to #renew911VCF! DMs open",
+            "favourites_count": 6408,
+            "followers_count": 42347,
+            "friends_count": 3281,
+            "geo_enabled": true,
+            "id": 258900199,
+            "id_str": "258900199",
+            "listed_count": 1323,
+            "location": "New York City",
+            "name": "Carolyn  B. Maloney",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/258900199/1549467399",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RepMaloney",
+            "statuses_count": 10833,
+            "url": "https://t.co/EhTt891RCX",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 17494010,
+                "id_str": "17494010",
+                "name": "Chuck Schumer",
+                "screen_name": "SenSchumer"
+            },
+            {
+                "id": 40302336,
+                "id_str": "40302336",
+                "name": "(((Rep. Nadler)))",
+                "screen_name": "RepJerryNadler"
+            }
+        ]
+    },
+    "quoted_status_id": 1150761239007637504,
+    "quoted_status_id_str": "1150761239007637504",
+    "retweet_count": 353,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@SenateMajLdr McConnell: No games. These are our American heroes. It\u2019s time to give our 9/11 first responders a vo\u2026 https://t.co/w2dVGgnJCu",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1150771001564774400",
+            "url": "https://t.co/w2dVGgnJCu"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 19 20:10:20 +0000 2008",
+        "description": "Official account of Senator Chuck Schumer - New York\u2019s Senator RT\u2260endorsement",
+        "favourites_count": 215,
+        "followers_count": 1862459,
+        "friends_count": 25650,
+        "id": 17494010,
+        "id_str": "17494010",
+        "listed_count": 10354,
+        "location": "New York, NY",
+        "name": "Chuck Schumer",
+        "profile_background_color": "43090B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17494010/1522865010",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978655909198036993/Gpnx2Os2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978655909198036993/Gpnx2Os2_normal.jpg",
+        "profile_link_color": "FF6005",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E7E9EF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenSchumer",
+        "statuses_count": 15499,
+        "url": "https://t.co/8Vw6E2f47h",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1249982359,
+            "id_str": "1249982359",
+            "name": "Leader McConnell",
+            "screen_name": "senatemajldr"
+        }
+    ]
+}

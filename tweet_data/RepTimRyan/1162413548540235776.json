@@ -1,0 +1,105 @@
+{
+    "created_at": "Fri Aug 16 17:19:21 +0000 2019",
+    "favorite_count": 87,
+    "hashtags": [
+        {
+            "text": "DoSomething"
+        }
+    ],
+    "id": 1162413548540235776,
+    "id_str": "1162413548540235776",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Aug 16 15:32:52 +0000 2019",
+        "favorite_count": 1895,
+        "hashtags": [],
+        "id": 1162386752067264512,
+        "id_str": "1162386752067264512",
+        "lang": "en",
+        "retweet_count": 588,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "NEW: House Judiciary Cmte. Chairman Nadler announces that he is calling cmte. back from recess on Sept. 4, the week\u2026 https://t.co/RaPlrFLu9C",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162386752067264512",
+                "url": "https://t.co/RaPlrFLu9C"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 04 22:09:18 +0000 2008",
+            "description": "Political news from the journalists across @NBCNews, @MSNBC, @TodayShow, @NBCNightlyNews, @MeetThePress, @NBCInvestigates and more.",
+            "favourites_count": 819,
+            "followers_count": 501735,
+            "friends_count": 234,
+            "id": 11856032,
+            "id_str": "11856032",
+            "listed_count": 6643,
+            "name": "NBC Politics",
+            "profile_background_color": "062131",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/11856032/1564622114",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1108427382925471744/1np2ube6_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108427382925471744/1np2ube6_normal.png",
+            "profile_link_color": "5172A0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "NBCPolitics",
+            "statuses_count": 57376,
+            "url": "https://t.co/aSm5RbuWs3",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1162386752067264512,
+    "quoted_status_id_str": "1162386752067264512",
+    "retweet_count": 21,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Important first step. Paying attention, @SenateGOP? #DoSomething https://t.co/qm0yUrZI1x",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NBCPolitics/status/1162386752067264512",
+            "url": "https://t.co/qm0yUrZI1x"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Feb 14 21:57:32 +0000 2008",
+        "description": "Congressman for Ohio\u2019s 13th District. Follow me on Instagram: https://t.co/Yg0NJpu0wF",
+        "favourites_count": 1719,
+        "followers_count": 79195,
+        "friends_count": 2513,
+        "geo_enabled": true,
+        "id": 13491312,
+        "id_str": "13491312",
+        "listed_count": 2172,
+        "location": "Warren, OH",
+        "name": "Congressman Tim Ryan",
+        "profile_background_color": "AAD6FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13491312/1435589954",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1123997971123712001/dExluxzg_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123997971123712001/dExluxzg_normal.png",
+        "profile_link_color": "D90D08",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "2465AE",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "screen_name": "RepTimRyan",
+        "statuses_count": 7442,
+        "url": "https://t.co/0WxOy7ihZ8",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14344823,
+            "id_str": "14344823",
+            "name": "Senate Republicans",
+            "screen_name": "SenateGOP"
+        }
+    ]
+}

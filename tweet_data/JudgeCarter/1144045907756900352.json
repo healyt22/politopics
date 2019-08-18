@@ -1,0 +1,109 @@
+{
+    "created_at": "Thu Jun 27 00:52:54 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [
+        {
+            "text": "GOP"
+        },
+        {
+            "text": "CongressionalBaseballGame"
+        }
+    ],
+    "id": 1144045907756900352,
+    "id_str": "1144045907756900352",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/yZcw9e637g",
+            "expanded_url": "https://twitter.com/JudgeCarter/status/1144045907756900352/video/1",
+            "id": 1144045854627639297,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144045854627639297/pu/img/y3NGk0T7XvjQ9V0L.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144045854627639297/pu/img/y3NGk0T7XvjQ9V0L.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/yZcw9e637g",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 35667,
+                "variants": [
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1144045854627639297/pu/vid/320x320/1skS_n1Of6zeKSBz.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1144045854627639297/pu/pl/g_JEXDgdBWTxxuZR.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1144045854627639297/pu/vid/720x720/YzDhpWYEMJLmf3is.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1144045854627639297/pu/vid/480x480/SBVhvlNi1CKD9nU5.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Let me root, root, root for the #GOP! \ud83c\uddfa\ud83c\uddf8 it\u2019s a beautiful night for the #CongressionalBaseballGame for Charity. https://t.co/yZcw9e637g",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 10 21:00:58 +0000 2008",
+        "description": "U.S. Congressman proudly serving the 31st District of Texas & @forthood. Former Judge. Proud @TexasTech Red Raider.",
+        "favourites_count": 417,
+        "followers_count": 15339,
+        "friends_count": 842,
+        "geo_enabled": true,
+        "id": 18030431,
+        "id_str": "18030431",
+        "listed_count": 1103,
+        "location": "#TX31 ",
+        "name": "Judge Carter",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18030431/1497824245",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000021210674/a74f4eaa78e4aa40395b1e2c0088a711_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000021210674/a74f4eaa78e4aa40395b1e2c0088a711_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JudgeCarter",
+        "statuses_count": 6243,
+        "url": "https://t.co/iPPDu1iB3W",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,140 @@
+{
+    "created_at": "Thu Mar 07 16:24:01 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1103692792189079553,
+    "id_str": "1103692792189079553",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Mar 06 22:04:52 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [
+            {
+                "text": "humhill"
+            }
+        ],
+        "id": 1103416180285554688,
+        "id_str": "1103416180285554688",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lylf1wruJh",
+                "expanded_url": "https://twitter.com/okhumanitiesED/status/1103416180285554688/photo/1",
+                "id": 1103416172425498624,
+                "media_url": "http://pbs.twimg.com/media/D1AfKaTX0AAcwk8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D1AfKaTX0AAcwk8.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/lylf1wruJh"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u2066@OKHumanities\u2069 Board member Dr. Ben Alpers and I met with \u2066@RepMullin\u2069 about funding for \u2066@NEHgov\u2069. #humhill https://t.co/lylf1wruJh",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Oct 25 15:37:29 +0000 2012",
+            "default_profile_image": true,
+            "favourites_count": 72,
+            "followers_count": 162,
+            "friends_count": 340,
+            "geo_enabled": true,
+            "id": 904130174,
+            "id_str": "904130174",
+            "listed_count": 4,
+            "name": "Ann",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "okhumanitiesED",
+            "statuses_count": 363
+        },
+        "user_mentions": [
+            {
+                "id": 29797602,
+                "id_str": "29797602",
+                "name": "Oklahoma Humanities",
+                "screen_name": "OKHumanities"
+            },
+            {
+                "id": 1060370282,
+                "id_str": "1060370282",
+                "name": "Markwayne Mullin",
+                "screen_name": "RepMullin"
+            },
+            {
+                "id": 155987003,
+                "id_str": "155987003",
+                "name": "NEH",
+                "screen_name": "NEHgov"
+            }
+        ]
+    },
+    "quoted_status_id": 1103416180285554688,
+    "quoted_status_id_str": "1103416180285554688",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Nice to see you both in Washington! https://t.co/6edQP8yC74",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/okhumanitiesED/status/1103416180285554688",
+            "url": "https://t.co/6edQP8yC74"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 04 12:43:55 +0000 2013",
+        "default_profile": true,
+        "description": "Father of five. Small business owner. Honored to represent Oklahoma\u2019s conservative values in Congress. https://t.co/0jHkAECORk",
+        "favourites_count": 635,
+        "followers_count": 18570,
+        "friends_count": 708,
+        "geo_enabled": true,
+        "id": 1060370282,
+        "id_str": "1060370282",
+        "listed_count": 682,
+        "location": "Oklahoma",
+        "name": "Markwayne Mullin",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060370282/1485533313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936684558841532416/NA_AK7gd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936684558841532416/NA_AK7gd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMullin",
+        "statuses_count": 3080,
+        "url": "https://t.co/Qv5teppuYQ",
+        "verified": true
+    },
+    "user_mentions": []
+}

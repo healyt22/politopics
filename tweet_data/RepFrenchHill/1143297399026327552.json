@@ -1,0 +1,129 @@
+{
+    "created_at": "Mon Jun 24 23:18:36 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 1143297399026327552,
+    "id_str": "1143297399026327552",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Mon Jun 24 16:38:19 +0000 2019",
+        "favorite_count": 29984,
+        "hashtags": [],
+        "id": 1143196668101308416,
+        "id_str": "1143196668101308416",
+        "lang": "en",
+        "retweet_count": 8184,
+        "source": "<a href=\"https://www.whitehouse.gov/\" rel=\"nofollow\">WH Digital</a>",
+        "text": "President Trump has just signed an executive order to deny Iran's Supreme Leader and his associates access to key f\u2026 https://t.co/tRiLvUZ5Tx",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143196668101308416",
+                "url": "https://t.co/tRiLvUZ5Tx"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+            "default_profile": true,
+            "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+            "favourites_count": 13,
+            "followers_count": 18918767,
+            "friends_count": 14,
+            "geo_enabled": true,
+            "id": 822215673812119553,
+            "id_str": "822215673812119553",
+            "listed_count": 11051,
+            "location": "Washington, D.C.",
+            "name": "The White House",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "WhiteHouse",
+            "statuses_count": 10592,
+            "url": "https://t.co/wyOVgSLgBV",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1143196668101308416,
+    "quoted_status_id_str": "1143196668101308416",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Applying maximum pressure sanctions, targeted at Iran's Supreme Leader, is a proven and effective way to hold the I\u2026 https://t.co/B4JNalzeop",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143297399026327552",
+            "url": "https://t.co/B4JNalzeop"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 31 23:54:58 +0000 2014",
+        "description": "Official account of Rep French Hill. 9th generation Arkansan. FinTech + AI Task Force Ranking Member. Proudly representing Arkansas's 2nd Congressional District",
+        "favourites_count": 1129,
+        "followers_count": 14456,
+        "friends_count": 1181,
+        "geo_enabled": true,
+        "id": 2953974395,
+        "id_str": "2953974395",
+        "listed_count": 505,
+        "location": "Little Rock, AR",
+        "name": "French Hill",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953974395/1563819578",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepFrenchHill",
+        "statuses_count": 2561,
+        "url": "https://t.co/TggD8rLd3M",
+        "verified": true
+    },
+    "user_mentions": []
+}

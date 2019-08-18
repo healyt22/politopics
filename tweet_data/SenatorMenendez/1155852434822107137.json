@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 29 14:47:49 +0000 2019",
+    "hashtags": [],
+    "id": 1155852434822107137,
+    "id_str": "1155852434822107137",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Jul 29 10:49:04 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1155792349592719360,
+        "id_str": "1155792349592719360",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Our senator @SenatorMenendez is scheduled to make an announcement this morning about protecting people at the beach\u2026 https://t.co/lyikk5VIli",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1155792349592719360",
+                "url": "https://t.co/lyikk5VIli"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 16 21:52:02 +0000 2009",
+            "default_profile": true,
+            "description": "Emmy\u00ae nominated reporter @news12nj, karaoke star, \ud83c\udf29\ufe0f\ud83c\udf2a\ufe0fchaser, Yankees, #villanova made \ud83c\udfc1\ud83c\udfce\ufe0f\ud83c\udfc1announcer/videographer, \ud83c\udfd6\ufe0f\ud83c\udfdd\ufe0f #jerseystrong tweets r my opinion",
+            "favourites_count": 6617,
+            "followers_count": 4263,
+            "friends_count": 1252,
+            "geo_enabled": true,
+            "id": 24777896,
+            "id_str": "24777896",
+            "location": "Point Pleasant Beach, NJ",
+            "name": "Jim Murdoch News12NJ",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24777896/1554775357",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/851593999773298688/KGWmV17j_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851593999773298688/KGWmV17j_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ReporterJim",
+            "statuses_count": 11361,
+            "url": "https://t.co/qOzTZWuxjH",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18695134,
+                "id_str": "18695134",
+                "name": "Senator Bob Menendez",
+                "screen_name": "SenatorMenendez"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @ReporterJim: Our senator @SenatorMenendez is scheduled to make an announcement this morning about protecting people at the beach from f\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 06 21:01:12 +0000 2009",
+        "description": "U.S. Senator from New Jersey. \ud83c\uddfa\ud83c\uddf8 Proud father of Alicia & Rob. Proud grandfather of Evangelina.",
+        "favourites_count": 2064,
+        "followers_count": 163554,
+        "friends_count": 986,
+        "geo_enabled": true,
+        "id": 18695134,
+        "id_str": "18695134",
+        "listed_count": 3798,
+        "location": "New Jersey, USA",
+        "name": "Senator Bob Menendez",
+        "profile_background_color": "273447",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18695134/1545829307",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1138088998419800064/bGqy6DbH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138088998419800064/bGqy6DbH_normal.png",
+        "profile_link_color": "3283D1",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorMenendez",
+        "statuses_count": 10814,
+        "url": "https://t.co/P6lBJPCjWi",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 24777896,
+            "id_str": "24777896",
+            "name": "Jim Murdoch News12NJ",
+            "screen_name": "ReporterJim"
+        },
+        {
+            "id": 18695134,
+            "id_str": "18695134",
+            "name": "Senator Bob Menendez",
+            "screen_name": "SenatorMenendez"
+        }
+    ]
+}

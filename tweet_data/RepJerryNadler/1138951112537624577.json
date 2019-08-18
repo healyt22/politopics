@@ -1,0 +1,129 @@
+{
+    "created_at": "Wed Jun 12 23:28:00 +0000 2019",
+    "favorite_count": 33279,
+    "hashtags": [],
+    "id": 1138951112537624577,
+    "id_str": "1138951112537624577",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 12 22:42:20 +0000 2019",
+        "favorite_count": 4563,
+        "hashtags": [],
+        "id": 1138939618076844037,
+        "id_str": "1138939618076844037",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2457,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "First excerpt from my two days with President Trump https://t.co/yl1fWxVDdS",
+        "urls": [
+            {
+                "expanded_url": "https://abcn.ws/2WIvZef",
+                "url": "https://t.co/yl1fWxVDdS"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Oct 30 21:00:45 +0000 2008",
+            "description": "@GMA Anchor, @ThisWeekABC Anchor and Chief Anchor of @ABC",
+            "favourites_count": 57,
+            "followers_count": 2454595,
+            "friends_count": 774,
+            "geo_enabled": true,
+            "id": 17074440,
+            "id_str": "17074440",
+            "listed_count": 17963,
+            "location": "New York, NY",
+            "name": "GeorgeStephanopoulos",
+            "profile_background_color": "014175",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17074440/1397741616",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/67746253/abc_george_081014_blog_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/67746253/abc_george_081014_blog_normal.jpg",
+            "profile_link_color": "003366",
+            "profile_sidebar_border_color": "014175",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "GStephanopoulos",
+            "statuses_count": 7375,
+            "url": "http://t.co/ERcbULt4GC",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138939618076844037,
+    "quoted_status_id_str": "1138939618076844037",
+    "retweet_count": 10398,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "It is shocking to hear the President say outright that he is willing to put himself indebt to a foreign power... no\u2026 https://t.co/S5HuSOUYbx",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138951112537624577",
+            "url": "https://t.co/S5HuSOUYbx"
+        }
+    ],
+    "user": {
+        "created_at": "Fri May 15 18:37:39 +0000 2009",
+        "description": "Representing parts of Manhattan and Brooklyn. Proud to serve as the Chair of @HouseJudiciary. Follow me at https://t.co/eAS0pRYbYu",
+        "favourites_count": 567,
+        "followers_count": 226892,
+        "friends_count": 1986,
+        "geo_enabled": true,
+        "id": 40302336,
+        "id_str": "40302336",
+        "listed_count": 2380,
+        "location": "New York, NY",
+        "name": "(((Rep. Nadler)))",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40302336/1557845965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJerryNadler",
+        "statuses_count": 6114,
+        "url": "https://t.co/keKmu0YhMW",
+        "verified": true
+    },
+    "user_mentions": []
+}

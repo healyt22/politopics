@@ -1,0 +1,125 @@
+{
+    "created_at": "Tue Apr 30 17:22:23 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [
+        {
+            "text": "wheattour19"
+        }
+    ],
+    "id": 1123276424419344386,
+    "id_str": "1123276424419344386",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Apr 29 22:20:50 +0000 2019",
+        "favorite_count": 48,
+        "hashtags": [
+            {
+                "text": "wheattour19"
+            }
+        ],
+        "id": 1122989143204802561,
+        "id_str": "1122989143204802561",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pM8Rm3bYkk",
+                "expanded_url": "https://twitter.com/JulieIngwersen/status/1122989143204802561/photo/1",
+                "id": 1122989130592542720,
+                "media_url": "http://pbs.twimg.com/media/D5WoqheX4AAXcYc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D5WoqheX4AAXcYc.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/pM8Rm3bYkk"
+            }
+        ],
+        "retweet_count": 22,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Kansas route map for #wheattour19.  Scouting starts Tuesday, covering Manhattan (upper right) to Colby (upper left). https://t.co/pM8Rm3bYkk",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Apr 01 21:30:57 +0000 2015",
+            "default_profile": true,
+            "description": "Commodities reporter for Reuters",
+            "favourites_count": 87,
+            "followers_count": 901,
+            "friends_count": 219,
+            "id": 3128013510,
+            "id_str": "3128013510",
+            "listed_count": 31,
+            "location": "Chicago, IL",
+            "name": "Julie Ingwersen",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/623993590818177025/Qo2U8dPe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/623993590818177025/Qo2U8dPe_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JulieIngwersen",
+            "statuses_count": 478
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1122989143204802561,
+    "quoted_status_id_str": "1122989143204802561",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I am glad to see so much green on the #wheattour19. If you see folks on one of these routes, say \"Hello!\" https://t.co/4VcFw33qQz",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/JulieIngwersen/status/1122989143204802561",
+            "url": "https://t.co/4VcFw33qQz"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Sep 18 19:34:56 +0000 2009",
+        "description": "Senior Senator from Kansas. Chairman of @SenateAgGOP.",
+        "favourites_count": 341,
+        "followers_count": 72873,
+        "friends_count": 917,
+        "id": 75364211,
+        "id_str": "75364211",
+        "listed_count": 1982,
+        "location": "Kansas, USA",
+        "name": "Senator Pat Roberts",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75364211/1436984767",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981951337536671744/8z6P2Eck_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981951337536671744/8z6P2Eck_normal.jpg",
+        "profile_link_color": "8D1616",
+        "profile_sidebar_border_color": "CBCAC0",
+        "profile_sidebar_fill_color": "E7E6DB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenPatRoberts",
+        "statuses_count": 6483,
+        "verified": true
+    },
+    "user_mentions": []
+}

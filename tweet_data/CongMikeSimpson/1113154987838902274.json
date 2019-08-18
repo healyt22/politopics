@@ -1,0 +1,106 @@
+{
+    "created_at": "Tue Apr 02 19:03:25 +0000 2019",
+    "hashtags": [],
+    "id": 1113154987838902274,
+    "id_str": "1113154987838902274",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Apr 02 18:06:49 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 1113140743995035648,
+        "id_str": "1113140743995035648",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you to Jamie from @CongMikeSimpson for taking time to meet with us today. Congressman Simpson has always been\u2026 https://t.co/U7ZMiZBSZT",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1113140743995035648",
+                "url": "https://t.co/U7ZMiZBSZT"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Mar 07 05:57:45 +0000 2009",
+            "description": "Passionate advocate, avid reader, and artist in my own head, a foodie and wino. A country girl at heart just trying to make it in the big city.",
+            "favourites_count": 5,
+            "followers_count": 528,
+            "friends_count": 325,
+            "id": 23170725,
+            "id_str": "23170725",
+            "listed_count": 17,
+            "location": "Meridian, ID",
+            "name": "Adrean Cavener",
+            "profile_background_color": "111111",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1112062874980155395/C-BEvXQc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112062874980155395/C-BEvXQc_normal.jpg",
+            "profile_link_color": "AA272C",
+            "profile_sidebar_border_color": "6D6747",
+            "profile_sidebar_fill_color": "CFC19B",
+            "profile_text_color": "111111",
+            "profile_use_background_image": true,
+            "screen_name": "adreanc",
+            "statuses_count": 524,
+            "url": "https://t.co/LO9MwpEOyY"
+        },
+        "user_mentions": [
+            {
+                "id": 76132891,
+                "id_str": "76132891",
+                "name": "Cong. Mike Simpson",
+                "screen_name": "CongMikeSimpson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @adreanc: Thank you to Jamie from @CongMikeSimpson for taking time to meet with us today. Congressman Simpson has always been so support\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Sep 21 20:26:26 +0000 2009",
+        "default_profile": true,
+        "description": "Proudly representing Idaho's 2nd Congressional District",
+        "favourites_count": 245,
+        "followers_count": 17181,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 76132891,
+        "id_str": "76132891",
+        "listed_count": 651,
+        "location": "Washington, D.C.",
+        "name": "Cong. Mike Simpson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76132891/1541176451",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongMikeSimpson",
+        "statuses_count": 1131,
+        "url": "http://t.co/lRNTKPfcmE",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 23170725,
+            "id_str": "23170725",
+            "name": "Adrean Cavener",
+            "screen_name": "adreanc"
+        },
+        {
+            "id": 76132891,
+            "id_str": "76132891",
+            "name": "Cong. Mike Simpson",
+            "screen_name": "CongMikeSimpson"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri May 24 18:56:40 +0000 2019",
+    "hashtags": [],
+    "id": 1131997457552949248,
+    "id_str": "1131997457552949248",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri May 24 18:41:56 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1131993753764261888,
+        "id_str": "1131993753764261888",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "At re-opening of Paradise Medical Group, @RepLaMalfa praises resilience &amp; commitment of local physicians to their p\u2026 https://t.co/BDAZPteADr",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131993753764261888",
+                "url": "https://t.co/BDAZPteADr"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 04 19:06:13 +0000 2011",
+            "description": "The California Medical Association (CMA) proudly represents 44,000+ physicians to support healthy communities & patients. See also @DocLobby #CMAdocs #CMAleads",
+            "favourites_count": 12830,
+            "followers_count": 10129,
+            "friends_count": 10815,
+            "geo_enabled": true,
+            "id": 234057437,
+            "id_str": "234057437",
+            "listed_count": 331,
+            "location": "Sacramento, CA",
+            "name": "California Medical Association",
+            "profile_background_color": "266DA5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/234057437/1558386425",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1018891293202604032/jALvz_kk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018891293202604032/jALvz_kk_normal.jpg",
+            "profile_link_color": "18C4D6",
+            "profile_sidebar_border_color": "407EB0",
+            "profile_sidebar_fill_color": "99BAD5",
+            "profile_text_color": "266DA5",
+            "profile_use_background_image": true,
+            "screen_name": "CMAdocs",
+            "statuses_count": 15046,
+            "url": "https://t.co/xMiey4EW3N"
+        },
+        "user_mentions": [
+            {
+                "id": 1069124515,
+                "id_str": "1069124515",
+                "name": "Rep. Doug LaMalfa",
+                "screen_name": "RepLaMalfa"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CMAdocs: At re-opening of Paradise Medical Group, @RepLaMalfa praises resilience &amp; commitment of local physicians to their patients &amp; r\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 07 20:07:58 +0000 2013",
+        "default_profile": true,
+        "description": "Representing California's First District including Siskiyou, Shasta, Tehama, Butte, Glenn, Modoc, Lassen, Plumas, Sierra, Nevada and Placer Counties",
+        "favourites_count": 297,
+        "followers_count": 18095,
+        "friends_count": 980,
+        "id": 1069124515,
+        "id_str": "1069124515",
+        "listed_count": 671,
+        "location": "Northern California",
+        "name": "Rep. Doug LaMalfa",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069124515/1412866084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/532998035416969216/vtCyv9Ze_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/532998035416969216/vtCyv9Ze_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLaMalfa",
+        "statuses_count": 1426,
+        "url": "http://t.co/zhUYypSZHQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 234057437,
+            "id_str": "234057437",
+            "name": "California Medical Association",
+            "screen_name": "CMAdocs"
+        },
+        {
+            "id": 1069124515,
+            "id_str": "1069124515",
+            "name": "Rep. Doug LaMalfa",
+            "screen_name": "RepLaMalfa"
+        }
+    ]
+}

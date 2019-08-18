@@ -1,0 +1,129 @@
+{
+    "created_at": "Mon Jun 24 17:02:27 +0000 2019",
+    "favorite_count": 21,
+    "hashtags": [],
+    "id": 1143202737716387840,
+    "id_str": "1143202737716387840",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jun 22 15:42:34 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "ENDALZ"
+            }
+        ],
+        "id": 1142457859785011200,
+        "id_str": "1142457859785011200",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/iWuIetRAIM",
+                "expanded_url": "https://twitter.com/homestagermimi/status/1142457859785011200/photo/1",
+                "id": 1142457847411875840,
+                "media_url": "http://pbs.twimg.com/media/D9rTW_XXoAAWrQI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9rTW_XXoAAWrQI.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 645,
+                        "h": 539,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 645,
+                        "h": 539,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 645,
+                        "h": 539,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/iWuIetRAIM"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We were published! \ud83d\udc9c @GerryConnolly thank you for always being a champion for our cause! #ENDALZ https://t.co/iWuIetRAIM",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Sep 15 16:11:58 +0000 2018",
+            "default_profile": true,
+            "description": "ASP Certified Home Stager. Work for Susan Bourassa, Coast to Coast Interiors, Home Staging and Design. Service the DMV! Also an Alzheimer\u2019s Ambassador \ud83d\udc9c",
+            "favourites_count": 271,
+            "followers_count": 37,
+            "friends_count": 139,
+            "id": 1040996657758986241,
+            "id_str": "1040996657758986241",
+            "listed_count": 2,
+            "location": "Vienna, VA",
+            "name": "Michelle Alonso",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040996657758986241/1537038588",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1040997117664407553/ao2mwutw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040997117664407553/ao2mwutw_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "homestagermimi",
+            "statuses_count": 320,
+            "url": "https://t.co/GaJ4awVLdd"
+        },
+        "user_mentions": [
+            {
+                "id": 78445977,
+                "id_str": "78445977",
+                "name": "Gerry Connolly",
+                "screen_name": "GerryConnolly"
+            }
+        ]
+    },
+    "quoted_status_id": 1142457859785011200,
+    "quoted_status_id_str": "1142457859785011200",
+    "retweet_count": 6,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Thanks, Michelle for your advocacy. I have asked to be added as a cosponsor. https://t.co/PEyBDvgXVr",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/homestagermimi/status/1142457859785011200",
+            "url": "https://t.co/PEyBDvgXVr"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 29 23:17:33 +0000 2009",
+        "default_profile": true,
+        "description": "Proudly representing Virginia's 11th District",
+        "followers_count": 51401,
+        "friends_count": 241,
+        "geo_enabled": true,
+        "id": 78445977,
+        "id_str": "78445977",
+        "listed_count": 1137,
+        "location": "Virginia's 11th District",
+        "name": "Gerry Connolly",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78445977/1516539664",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/915643217315553281/u4Dqrk5H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/915643217315553281/u4Dqrk5H_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "GerryConnolly",
+        "statuses_count": 7457,
+        "verified": true
+    },
+    "user_mentions": []
+}

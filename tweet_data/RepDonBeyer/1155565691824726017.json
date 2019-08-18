@@ -1,0 +1,141 @@
+{
+    "created_at": "Sun Jul 28 19:48:24 +0000 2019",
+    "hashtags": [],
+    "id": 1155565691824726017,
+    "id_str": "1155565691824726017",
+    "lang": "en",
+    "retweet_count": 14306,
+    "retweeted_status": {
+        "created_at": "Sat Jul 27 23:32:56 +0000 2019",
+        "favorite_count": 28796,
+        "hashtags": [],
+        "id": 1155259806715994113,
+        "id_str": "1155259806715994113",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 14306,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Per @AlecMacGillis\u2019 reporting, Jared Kushner is actually a major Baltimore-area slumlord who\u2019s breaking all kinds o\u2026 https://t.co/B9Dl8NfnmE",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1155259806715994113",
+                "url": "https://t.co/B9Dl8NfnmE"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 15 21:44:28 +0000 2008",
+            "description": "10x tweeter. AirBNB Superhost. Dad. Chief Neoliberal Shill, 2019. The Weeds podcast. Proud owner of a non-conforming garage. Vox co-founder.",
+            "favourites_count": 15623,
+            "followers_count": 434511,
+            "friends_count": 876,
+            "geo_enabled": true,
+            "id": 15446531,
+            "id_str": "15446531",
+            "listed_count": 11228,
+            "location": "Washington, DC",
+            "name": "Matthew Yglesias",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15446531/1560120768",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1137540960735436801/aZ8kNI8Z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137540960735436801/aZ8kNI8Z_normal.jpg",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "mattyglesias",
+            "statuses_count": 2758,
+            "url": "https://t.co/nOeiO7sYh8",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 436925910,
+                "id_str": "436925910",
+                "name": "Alec MacGillis",
+                "screen_name": "AlecMacGillis"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @mattyglesias: Per @AlecMacGillis\u2019 reporting, Jared Kushner is actually a major Baltimore-area slumlord who\u2019s breaking all kinds of rule\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 05 22:09:04 +0000 2015",
+        "description": "Representing Northern Virginia\u2019s #VA8 in Congress. Serve on @WaysMeansCmte, @HouseScience. Co-Chair @CaucusOnClimate. #StopGunViolence #EqualPay",
+        "favourites_count": 12458,
+        "followers_count": 75257,
+        "friends_count": 3409,
+        "geo_enabled": true,
+        "id": 2962868158,
+        "id_str": "2962868158",
+        "listed_count": 1319,
+        "location": "Northern Virginia & DC",
+        "name": "Rep. Don Beyer",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962868158/1548947972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096394670849036288/-8ShBJTO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096394670849036288/-8ShBJTO_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDonBeyer",
+        "statuses_count": 18541,
+        "url": "https://t.co/GLUWQ3oyIM",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15446531,
+            "id_str": "15446531",
+            "name": "Matthew Yglesias",
+            "screen_name": "mattyglesias"
+        },
+        {
+            "id": 436925910,
+            "id_str": "436925910",
+            "name": "Alec MacGillis",
+            "screen_name": "AlecMacGillis"
+        }
+    ]
+}

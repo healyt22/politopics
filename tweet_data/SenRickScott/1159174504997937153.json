@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Aug 07 18:48:33 +0000 2019",
+    "favorite_count": 93,
+    "hashtags": [],
+    "id": 1159174504997937153,
+    "id_str": "1159174504997937153",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Aug 07 16:26:25 +0000 2019",
+        "favorite_count": 31,
+        "hashtags": [],
+        "id": 1159138736153796608,
+        "id_str": "1159138736153796608",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/nZrYfa0xgk",
+                "expanded_url": "https://twitter.com/Reuters/status/1159138736153796608/photo/1",
+                "id": 1159138734836801537,
+                "media_url": "http://pbs.twimg.com/media/EBYWibdX4AEOSlG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBYWibdX4AEOSlG.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 683,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 683,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/nZrYfa0xgk"
+            }
+        ],
+        "retweet_count": 20,
+        "source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+        "text": "U.S. government contractors to get first look at Huawei ban on Wednesday https://t.co/29qXudKhKH https://t.co/nZrYfa0xgk",
+        "urls": [
+            {
+                "expanded_url": "https://reut.rs/2P0Bemn",
+                "url": "https://t.co/29qXudKhKH"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 20 17:46:05 +0000 2007",
+            "description": "Top and breaking news, pictures and videos from Reuters.",
+            "favourites_count": 763,
+            "followers_count": 20644882,
+            "friends_count": 1084,
+            "id": 1652541,
+            "id_str": "1652541",
+            "listed_count": 118573,
+            "location": "Around the world",
+            "name": "Reuters Top News",
+            "profile_background_color": "444444",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1525365834",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+            "profile_link_color": "006F97",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F5F5F5",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "Reuters",
+            "statuses_count": 426457,
+            "url": "http://t.co/BmHxhkm3Mh",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1159138736153796608,
+    "quoted_status_id_str": "1159138736153796608",
+    "retweet_count": 29,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Good to see the administration take further steps to ban business transactions between the US government and Huawei\u2026 https://t.co/OmYASOA0Kq",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1159174504997937153",
+            "url": "https://t.co/OmYASOA0Kq"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Apr 10 16:03:04 +0000 2010",
+        "description": "Senator from the great state of Florida. Fighting for Florida families and to Make Washington Work. #LetsGetToWork\nhttps://t.co/t2TJJ5tras",
+        "favourites_count": 15,
+        "followers_count": 260204,
+        "friends_count": 2828,
+        "geo_enabled": true,
+        "id": 131546062,
+        "id_str": "131546062",
+        "listed_count": 3483,
+        "location": "The Sunshine State",
+        "name": "Rick Scott",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131546062/1548253495",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenRickScott",
+        "statuses_count": 14167,
+        "url": "https://t.co/sHIJdrhtn1",
+        "verified": true
+    },
+    "user_mentions": []
+}

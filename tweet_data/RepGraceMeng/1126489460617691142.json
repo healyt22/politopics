@@ -1,0 +1,137 @@
+{
+    "created_at": "Thu May 09 14:09:51 +0000 2019",
+    "hashtags": [],
+    "id": 1126489460617691142,
+    "id_str": "1126489460617691142",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu May 09 13:24:51 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1126478138379243520,
+        "id_str": "1126478138379243520",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you @RepGraceMeng for supporting robust federal funding for scientific research paying enormous dividends in\u2026 https://t.co/yu7GkWrtqY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1126478138379243520",
+                "url": "https://t.co/yu7GkWrtqY"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 12 20:07:55 +0000 2013",
+            "default_profile": true,
+            "description": "Stony Brook University's Office of Government Relations",
+            "favourites_count": 212,
+            "followers_count": 333,
+            "friends_count": 277,
+            "geo_enabled": true,
+            "id": 1511480874,
+            "id_str": "1511480874",
+            "listed_count": 10,
+            "name": "SBUGovRelations",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511480874/1408561897",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/781881275942596608/gnBbuoFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/781881275942596608/gnBbuoFd_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "sbugovrelations",
+            "statuses_count": 612
+        },
+        "user_mentions": [
+            {
+                "id": 1051127714,
+                "id_str": "1051127714",
+                "name": "Grace Meng",
+                "screen_name": "RepGraceMeng"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @sbugovrelations: Thank you @RepGraceMeng for supporting robust federal funding for scientific research paying enormous dividends in med\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Dec 31 20:28:41 +0000 2012",
+        "description": "Representing NY's 6th Congressional District - Parts of West, Central and Northeast Queens.\n\nFor specific questions or concerns, please contact my office.",
+        "favourites_count": 832,
+        "followers_count": 30575,
+        "friends_count": 694,
+        "id": 1051127714,
+        "id_str": "1051127714",
+        "listed_count": 954,
+        "name": "Grace Meng",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051127714/1357593612",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3257470174/64291ff1f090e3193c2764925000a1fa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3257470174/64291ff1f090e3193c2764925000a1fa_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGraceMeng",
+        "statuses_count": 4561,
+        "url": "http://t.co/P1ajY4Fn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1511480874,
+            "id_str": "1511480874",
+            "name": "SBUGovRelations",
+            "screen_name": "sbugovrelations"
+        },
+        {
+            "id": 1051127714,
+            "id_str": "1051127714",
+            "name": "Grace Meng",
+            "screen_name": "RepGraceMeng"
+        }
+    ]
+}

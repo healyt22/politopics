@@ -1,0 +1,79 @@
+{
+    "created_at": "Wed Jul 31 19:37:58 +0000 2019",
+    "favorite_count": 304,
+    "hashtags": [],
+    "id": 1156650226767282176,
+    "id_str": "1156650226767282176",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 93,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "American businesses can no longer ignore the problem of climate change.  That\u2019s why I\u2018m joining my colleagues in ca\u2026 https://t.co/ovte07xquW",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1156650226767282176",
+            "url": "https://t.co/ovte07xquW"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jul 27 18:38:20 +0000 2010",
+        "description": "Official twitter profile for U.S. Senator Bob Casey.",
+        "favourites_count": 638,
+        "followers_count": 408579,
+        "friends_count": 638,
+        "geo_enabled": true,
+        "id": 171598736,
+        "id_str": "171598736",
+        "listed_count": 3088,
+        "location": "Scranton, PA",
+        "name": "Senator Bob Casey",
+        "profile_background_color": "162F53",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_link_color": "2F6291",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "screen_name": "SenBobCasey",
+        "statuses_count": 9278,
+        "url": "https://t.co/EghtimAhrt",
+        "verified": true
+    },
+    "user_mentions": []
+}

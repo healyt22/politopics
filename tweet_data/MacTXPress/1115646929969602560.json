@@ -1,0 +1,105 @@
+{
+    "created_at": "Tue Apr 09 16:05:30 +0000 2019",
+    "hashtags": [],
+    "id": 1115646929969602560,
+    "id_str": "1115646929969602560",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Apr 09 16:04:38 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1115646713237254147,
+        "id_str": "1115646713237254147",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@MacTXPress says he hopes there will be a budget deal soon because the caps legislation in House is not a \u201cserious\u2026 https://t.co/67yiPEXHhR",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1115646713237254147",
+                "url": "https://t.co/67yiPEXHhR"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 05 15:41:10 +0000 2010",
+            "default_profile": true,
+            "description": "I cover U.S. Congress and national security for Bloomberg @BGOV\u2022Transylvania born\u2022all things skiing\u2022opinions my own",
+            "favourites_count": 1597,
+            "followers_count": 1462,
+            "friends_count": 336,
+            "id": 111622423,
+            "id_str": "111622423",
+            "listed_count": 118,
+            "location": "Washington, DC ",
+            "name": "Roxana Tiron",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/434167599916937217/zxssL3PJ_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/434167599916937217/zxssL3PJ_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "rtiron",
+            "statuses_count": 3087,
+            "url": "https://t.co/YFISwy0WA9"
+        },
+        "user_mentions": [
+            {
+                "id": 377534571,
+                "id_str": "377534571",
+                "name": "Mac Thornberry Press",
+                "screen_name": "MacTXPress"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @rtiron: .@MacTXPress says he hopes there will be a budget deal soon because the caps legislation in House is not a \u201cserious effort\u201d as\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Sep 21 18:42:06 +0000 2011",
+        "description": "Tweets from the press shop of US Rep. Mac Thornberry. Mac serves the 13th District of TX, which spans from Amarillo to Wichita Falls & is larger than 13 states.",
+        "favourites_count": 65,
+        "followers_count": 15129,
+        "friends_count": 1121,
+        "geo_enabled": true,
+        "id": 377534571,
+        "id_str": "377534571",
+        "listed_count": 714,
+        "location": "United States Capitol",
+        "name": "Mac Thornberry Press",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377534571/1368800769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1553468483/Copy_of_2007.12.04_001_SLR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1553468483/Copy_of_2007.12.04_001_SLR_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "MacTXPress",
+        "statuses_count": 1245,
+        "url": "http://t.co/KnSJ3TPDYS",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 111622423,
+            "id_str": "111622423",
+            "name": "Roxana Tiron",
+            "screen_name": "rtiron"
+        },
+        {
+            "id": 377534571,
+            "id_str": "377534571",
+            "name": "Mac Thornberry Press",
+            "screen_name": "MacTXPress"
+        }
+    ]
+}

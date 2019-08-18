@@ -1,0 +1,212 @@
+{
+    "created_at": "Mon Jul 15 14:24:11 +0000 2019",
+    "hashtags": [],
+    "id": 1150773055557439492,
+    "id_str": "1150773055557439492",
+    "lang": "en",
+    "quoted_status_id": 1149762854188441601,
+    "quoted_status_id_str": "1149762854188441601",
+    "retweet_count": 33,
+    "retweeted_status": {
+        "created_at": "Fri Jul 12 19:54:50 +0000 2019",
+        "favorite_count": 121,
+        "hashtags": [],
+        "id": 1149769103240028160,
+        "id_str": "1149769103240028160",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Fri Jul 12 19:30:00 +0000 2019",
+            "favorite_count": 187,
+            "hashtags": [],
+            "id": 1149762854188441601,
+            "id_str": "1149762854188441601",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/yf652uAjMI",
+                    "expanded_url": "https://twitter.com/RepJoshHarder/status/1149762854188441601/video/1",
+                    "id": 1149753944094232577,
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1149753944094232577/img/E6h1F8ulin6jx3nV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1149753944094232577/img/E6h1F8ulin6jx3nV.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 540,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 540,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/yf652uAjMI",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 129429,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1149753944094232577/pl/rsH4GnfmTWW8VXYV.m3u8?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1149753944094232577/vid/640x360/oUv8wCRWjCXskL25.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1149753944094232577/vid/480x270/nzKT87-Uh-I-a-3m.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1149753944094232577/vid/960x540/jrmwesqTu8YGcmRJ.mp4?tag=13"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "retweet_count": 42,
+            "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+            "text": "Pam and I are so happy to have Blue in our lives. Please consider fostering and adopting! https://t.co/yf652uAjMI",
+            "urls": [],
+            "user": {
+                "created_at": "Thu Jan 03 15:39:30 +0000 2019",
+                "description": "Turlock guy. Modesto High grad. Pam\u2019s husband. Foster dog dad. Proudly serving the Central Valley in Congress.",
+                "favourites_count": 94,
+                "followers_count": 13608,
+                "friends_count": 212,
+                "id": 1080851152151953410,
+                "id_str": "1080851152151953410",
+                "listed_count": 181,
+                "name": "Rep. Josh Harder",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080851152151953410/1552868138",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1126542509767823360/JsNdEfWy_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126542509767823360/JsNdEfWy_normal.png",
+                "profile_link_color": "003462",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "RepJoshHarder",
+                "statuses_count": 574,
+                "url": "https://t.co/75rDwigQ8m",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1149762854188441601,
+        "quoted_status_id_str": "1149762854188441601",
+        "retweet_count": 33,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Awesome story! Thank you @RepJoshHarder for fostering pups and adopting Blue \ud83d\udc36\ud83e\udd70 https://t.co/b5P0A8GuRa",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/RepJoshHarder/status/1149762854188441601",
+                "url": "https://t.co/b5P0A8GuRa"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 30 16:31:09 +0000 2008",
+            "description": "Fighting animal cruelty, promoting pet adoption, and helping you take good care of your pets! \ud83d\udc3e",
+            "favourites_count": 4878,
+            "followers_count": 489456,
+            "friends_count": 12395,
+            "geo_enabled": true,
+            "id": 14955908,
+            "id_str": "14955908",
+            "listed_count": 4622,
+            "location": "New York, NY",
+            "name": "ASPCA",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14955908/1557865160",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/834789727479832576/RMEYXN_p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/834789727479832576/RMEYXN_p_normal.jpg",
+            "profile_link_color": "FF7800",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "screen_name": "ASPCA",
+            "statuses_count": 33296,
+            "url": "http://t.co/xnaVSHHHcT",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1080851152151953410,
+                "id_str": "1080851152151953410",
+                "name": "Rep. Josh Harder",
+                "screen_name": "RepJoshHarder"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ASPCA: Awesome story! Thank you @RepJoshHarder for fostering pups and adopting Blue \ud83d\udc36\ud83e\udd70 https://t.co/b5P0A8GuRa",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RepJoshHarder/status/1149762854188441601",
+            "url": "https://t.co/b5P0A8GuRa"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 15:39:30 +0000 2019",
+        "description": "Turlock guy. Modesto High grad. Pam\u2019s husband. Foster dog dad. Proudly serving the Central Valley in Congress.",
+        "favourites_count": 94,
+        "followers_count": 13608,
+        "friends_count": 212,
+        "id": 1080851152151953410,
+        "id_str": "1080851152151953410",
+        "listed_count": 181,
+        "name": "Rep. Josh Harder",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080851152151953410/1552868138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1126542509767823360/JsNdEfWy_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126542509767823360/JsNdEfWy_normal.png",
+        "profile_link_color": "003462",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepJoshHarder",
+        "statuses_count": 574,
+        "url": "https://t.co/75rDwigQ8m",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14955908,
+            "id_str": "14955908",
+            "name": "ASPCA",
+            "screen_name": "ASPCA"
+        },
+        {
+            "id": 1080851152151953410,
+            "id_str": "1080851152151953410",
+            "name": "Rep. Josh Harder",
+            "screen_name": "RepJoshHarder"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "created_at": "Tue Apr 02 14:56:23 +0000 2019",
+    "hashtags": [
+        {
+            "text": "ENDALZ"
+        }
+    ],
+    "id": 1113092820271738880,
+    "id_str": "1113092820271738880",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Tue Apr 02 14:55:21 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 1113092559813951493,
+        "id_str": "1113092559813951493",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "A little birdie sent me this photo of \u2066@RepSmucker\u2069 and his Alzheimer\u2019s Congressional Team. Together we will\u2026 https://t.co/9kFlMb0vp3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1113092559813951493",
+                "url": "https://t.co/9kFlMb0vp3"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 09 16:32:50 +0000 2018",
+            "description": "my views are my own.",
+            "favourites_count": 665,
+            "followers_count": 128,
+            "friends_count": 360,
+            "id": 950767329482289152,
+            "id_str": "950767329482289152",
+            "name": "JoniAlzPA",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/968130933722439685/pnnYA6n-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/968130933722439685/pnnYA6n-_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "alz_pa",
+            "statuses_count": 314
+        },
+        "user_mentions": [
+            {
+                "id": 41417564,
+                "id_str": "41417564",
+                "name": "Rep. Lloyd Smucker",
+                "screen_name": "RepSmucker"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @alz_pa: A little birdie sent me this photo of \u2066@RepSmucker\u2069 and his Alzheimer\u2019s Congressional Team. Together we will #ENDALZ. \u2066@ALZIMPA\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 20 18:31:13 +0000 2009",
+        "description": "Representing the people of #PA11 in the U.S. House of Representatives. Husband & father.",
+        "favourites_count": 142,
+        "followers_count": 7389,
+        "friends_count": 104,
+        "id": 41417564,
+        "id_str": "41417564",
+        "listed_count": 463,
+        "location": "Lancaster, PA",
+        "name": "Rep. Lloyd Smucker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41417564/1499786206",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/974660770322579456/jgo6fbWC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/974660770322579456/jgo6fbWC_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepSmucker",
+        "statuses_count": 3803,
+        "url": "https://t.co/YKMSx3njz4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 950767329482289152,
+            "id_str": "950767329482289152",
+            "name": "JoniAlzPA",
+            "screen_name": "alz_pa"
+        },
+        {
+            "id": 41417564,
+            "id_str": "41417564",
+            "name": "Rep. Lloyd Smucker",
+            "screen_name": "RepSmucker"
+        }
+    ]
+}

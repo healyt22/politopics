@@ -1,0 +1,150 @@
+{
+    "created_at": "Thu May 23 17:41:06 +0000 2019",
+    "hashtags": [],
+    "id": 1131616052859809792,
+    "id_str": "1131616052859809792",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu May 23 15:03:02 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1131576277012484096,
+        "id_str": "1131576277012484096",
+        "lang": "en",
+        "place": {
+            "id": "8b351eeb91372dc7",
+            "url": "https://api.twitter.com/1.1/geo/id/8b351eeb91372dc7.json",
+            "place_type": "city",
+            "name": "Evanston",
+            "full_name": "Evanston, IL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.733451,
+                            42.0191507
+                        ],
+                        [
+                            -87.6649403,
+                            42.0191507
+                        ],
+                        [
+                            -87.6649403,
+                            42.071723
+                        ],
+                        [
+                            -87.733451,
+                            42.071723
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks @CongressmanRaja for holding Trump admin/@BetsyDeVosED feet to the fire on for-profit colleges. Student debt\u2026 https://t.co/FTQkrnXlx1",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131576277012484096",
+                "url": "https://t.co/FTQkrnXlx1"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 23 03:25:04 +0000 2010",
+            "description": "Illinois Federation of Teachers president, veteran educator and activist, committed to providing quality education and public services.",
+            "favourites_count": 3309,
+            "followers_count": 1681,
+            "friends_count": 1044,
+            "geo_enabled": true,
+            "id": 158597741,
+            "id_str": "158597741",
+            "listed_count": 84,
+            "name": "Dan Montgomery",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/158597741/1357662018",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/650029360523558912/rrYYye2s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/650029360523558912/rrYYye2s_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DanJMontgomery",
+            "statuses_count": 2936,
+            "url": "https://t.co/nqNwMeLu8q"
+        },
+        "user_mentions": [
+            {
+                "id": 814179031956488192,
+                "id_str": "814179031956488192",
+                "name": "Raja Krishnamoorthi",
+                "screen_name": "CongressmanRaja"
+            },
+            {
+                "id": 828997388920619008,
+                "id_str": "828997388920619008",
+                "name": "Secretary Betsy DeVos",
+                "screen_name": "BetsyDeVosED"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DanJMontgomery: Thanks @CongressmanRaja for holding Trump admin/@BetsyDeVosED feet to the fire on for-profit colleges. Student debt is\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 28 18:39:42 +0000 2016",
+        "default_profile": true,
+        "description": "Official Twitter account of Congressman   Raja Krishnamoorthi, representing Illinois' 8th Congressional District.",
+        "favourites_count": 1262,
+        "followers_count": 17877,
+        "friends_count": 1772,
+        "id": 814179031956488192,
+        "id_str": "814179031956488192",
+        "listed_count": 508,
+        "location": "Schaumburg, IL",
+        "name": "Raja Krishnamoorthi",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814179031956488192/1483562500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanRaja",
+        "statuses_count": 3730,
+        "url": "https://t.co/zHGbk8wDWc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 158597741,
+            "id_str": "158597741",
+            "name": "Dan Montgomery",
+            "screen_name": "DanJMontgomery"
+        },
+        {
+            "id": 814179031956488192,
+            "id_str": "814179031956488192",
+            "name": "Raja Krishnamoorthi",
+            "screen_name": "CongressmanRaja"
+        },
+        {
+            "id": 828997388920619008,
+            "id_str": "828997388920619008",
+            "name": "Secretary Betsy DeVos",
+            "screen_name": "BetsyDeVosED"
+        }
+    ]
+}

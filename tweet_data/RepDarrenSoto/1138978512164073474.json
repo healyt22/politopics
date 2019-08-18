@@ -1,0 +1,114 @@
+{
+    "created_at": "Thu Jun 13 01:16:53 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "OrlandoUnidos"
+        }
+    ],
+    "id": 1138978512164073474,
+    "id_str": "1138978512164073474",
+    "lang": "es",
+    "quoted_status": {
+        "created_at": "Thu Jun 13 00:15:49 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1138963144464883712,
+        "id_str": "1138963144464883712",
+        "in_reply_to_screen_name": "HispanicCaucus",
+        "in_reply_to_status_id": 1138962991133724673,
+        "in_reply_to_user_id": 33530012,
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "To honor the lives lost 3 years ago, @HispanicCaucus member @RepDarrenSoto is working to establish Pulse as a Natio\u2026 https://t.co/GuKrlWq4qn",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138963144464883712",
+                "url": "https://t.co/GuKrlWq4qn"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 20 14:33:01 +0000 2009",
+            "description": "The 38-Member Congressional Hispanic Caucus advocates for issues important to Latinos via the legislative process in Congress.",
+            "favourites_count": 4364,
+            "followers_count": 62768,
+            "friends_count": 3098,
+            "geo_enabled": true,
+            "id": 33530012,
+            "id_str": "33530012",
+            "listed_count": 1178,
+            "location": "Washington, DC",
+            "name": "Hispanic Caucus",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33530012/1549074342",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1091509544373628931/lg-1Eobc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091509544373628931/lg-1Eobc_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HispanicCaucus",
+            "statuses_count": 30698,
+            "url": "http://t.co/M5o7LhojfY",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 33530012,
+                "id_str": "33530012",
+                "name": "Hispanic Caucus",
+                "screen_name": "HispanicCaucus"
+            },
+            {
+                "id": 818713465653051392,
+                "id_str": "818713465653051392",
+                "name": "US Rep. Darren Soto",
+                "screen_name": "RepDarrenSoto"
+            }
+        ]
+    },
+    "quoted_status_id": 1138963144464883712,
+    "quoted_status_id_str": "1138963144464883712",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Recordamos siempre los angeles 49 y #OrlandoUnidos https://t.co/dg5cTuoeoN",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/HispanicCaucus/status/1138963144464883712",
+            "url": "https://t.co/dg5cTuoeoN"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing Central Florida's 9th District: Osceola County and parts of Orange and Polk counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7\n\nOfficial Account",
+        "favourites_count": 4487,
+        "followers_count": 10261,
+        "friends_count": 3427,
+        "geo_enabled": true,
+        "id": 818713465653051392,
+        "id_str": "818713465653051392",
+        "listed_count": 435,
+        "location": "Kissimmee, Florida",
+        "name": "US Rep. Darren Soto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDarrenSoto",
+        "statuses_count": 3150,
+        "url": "https://t.co/3Iswy0Rzuf",
+        "verified": true
+    },
+    "user_mentions": []
+}

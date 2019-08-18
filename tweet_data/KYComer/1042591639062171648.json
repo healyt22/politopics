@@ -1,0 +1,86 @@
+{
+    "created_at": "Thu Sep 20 01:49:51 +0000 2018",
+    "favorite_count": 37,
+    "hashtags": [],
+    "id": 1042591639062171648,
+    "id_str": "1042591639062171648",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/a4oytjhdGl",
+            "expanded_url": "https://twitter.com/KYComer/status/1042591639062171648/photo/1",
+            "id": 1042591633554890752,
+            "media_url": "http://pbs.twimg.com/media/DngHkRvVYAAhJQR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DngHkRvVYAAhJQR.jpg",
+            "sizes": {
+                "large": {
+                    "w": 1098,
+                    "h": 1111,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1098,
+                    "h": 1111,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 672,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/a4oytjhdGl"
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Met w/ @KACo in Frankfort then spoke at @KyLeagueCities in Louisville. I love spending time w/KY\u2019s office holders! https://t.co/a4oytjhdGl",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2813473165,
+            "id_str": "2813473165",
+            "name": "KACo",
+            "screen_name": "KACo"
+        },
+        {
+            "id": 26577188,
+            "id_str": "26577188",
+            "name": "KY League of Cities",
+            "screen_name": "KyLeagueCities"
+        }
+    ]
+}

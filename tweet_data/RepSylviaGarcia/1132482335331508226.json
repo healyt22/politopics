@@ -1,0 +1,132 @@
+{
+    "created_at": "Sun May 26 03:03:23 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1132482335331508226,
+    "id_str": "1132482335331508226",
+    "in_reply_to_screen_name": "HispanicCaucus",
+    "in_reply_to_status_id": 1131701075885613056,
+    "in_reply_to_user_id": 33530012,
+    "lang": "en",
+    "place": {
+        "id": "632eeebc87aecd57",
+        "url": "https://api.twitter.com/1.1/geo/id/632eeebc87aecd57.json",
+        "place_type": "city",
+        "name": "Galveston",
+        "full_name": "Galveston, TX",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -94.880809,
+                        29.239602
+                    ],
+                    [
+                        -94.764742,
+                        29.239602
+                    ],
+                    [
+                        -94.764742,
+                        29.3355479
+                    ],
+                    [
+                        -94.880809,
+                        29.3355479
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HispanicCaucus @USCIS @JoaquinCastrotx @AOC @RepEspaillat @RepGilCisneros @RepEscobar @RepPeteAguilar\u2026 https://t.co/us2ofwA80V",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1132482335331508226",
+            "url": "https://t.co/us2ofwA80V"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 22:10:54 +0000 2019",
+        "default_profile": true,
+        "description": "Member of Congress, TX-29. Includes Houston, Galena Park, Jacinto City, South Houston & Pasadena. Passionate about public service. Fighting for working people.",
+        "favourites_count": 427,
+        "followers_count": 12001,
+        "friends_count": 660,
+        "geo_enabled": true,
+        "id": 1080587263132733442,
+        "id_str": "1080587263132733442",
+        "listed_count": 221,
+        "location": "Houston, TX",
+        "name": "Rep. Sylvia Garcia",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080587263132733442/1553125634",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080667541725278209/OXghDPVX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080667541725278209/OXghDPVX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSylviaGarcia",
+        "statuses_count": 733,
+        "url": "https://t.co/8fsvZ7J993",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 33530012,
+            "id_str": "33530012",
+            "name": "Hispanic Caucus",
+            "screen_name": "HispanicCaucus"
+        },
+        {
+            "id": 14625398,
+            "id_str": "14625398",
+            "name": "USCIS",
+            "screen_name": "USCIS"
+        },
+        {
+            "id": 231510077,
+            "id_str": "231510077",
+            "name": "Joaquin Castro",
+            "screen_name": "JoaquinCastrotx"
+        },
+        {
+            "id": 138203134,
+            "id_str": "138203134",
+            "name": "Alexandria Ocasio-Cortez",
+            "screen_name": "AOC"
+        },
+        {
+            "id": 817076257770835968,
+            "id_str": "817076257770835968",
+            "name": "Adriano Espaillat",
+            "screen_name": "RepEspaillat"
+        },
+        {
+            "id": 1080986167003230208,
+            "id_str": "1080986167003230208",
+            "name": "Rep. Gil Cisneros",
+            "screen_name": "RepGilCisneros"
+        },
+        {
+            "id": 1075517806551154689,
+            "id_str": "1075517806551154689",
+            "name": "Rep. Veronica Escobar",
+            "screen_name": "RepEscobar"
+        },
+        {
+            "id": 3018670151,
+            "id_str": "3018670151",
+            "name": "Rep. Pete Aguilar",
+            "screen_name": "RepPeteAguilar"
+        }
+    ]
+}

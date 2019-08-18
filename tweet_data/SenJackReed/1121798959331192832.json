@@ -1,0 +1,129 @@
+{
+    "created_at": "Fri Apr 26 15:31:28 +0000 2019",
+    "hashtags": [],
+    "id": 1121798959331192832,
+    "id_str": "1121798959331192832",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Apr 26 00:27:51 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 1121571555048349697,
+        "id_str": "1121571555048349697",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Big thanks to @SenJackReed for joining the @PVDscholarvets class tonight, to read/discuss poems by @TurnerBriturn3\u2026 https://t.co/MLiJZtwP1c",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1121571555048349697",
+                "url": "https://t.co/MLiJZtwP1c"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Nov 03 15:18:49 +0000 2018",
+            "default_profile": true,
+            "description": "Humanities program for credit, for vets struggling with readjustment to civilian life. Classes start Jan 2019, at @TrinityRep in Providence. Apply at website.",
+            "favourites_count": 231,
+            "followers_count": 55,
+            "friends_count": 140,
+            "geo_enabled": true,
+            "id": 1058740285856014336,
+            "id_str": "1058740285856014336",
+            "listed_count": 2,
+            "location": "Providence, RI",
+            "name": "Providence Clemente Veterans Initiative",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058740285856014336/1541633668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1060314135739555841/gs2vjjzM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060314135739555841/gs2vjjzM_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "PVDscholarvets",
+            "statuses_count": 196,
+            "url": "https://t.co/731AtiH6kP"
+        },
+        "user_mentions": [
+            {
+                "id": 486694111,
+                "id_str": "486694111",
+                "name": "Senator Jack Reed",
+                "screen_name": "SenJackReed"
+            },
+            {
+                "id": 1058740285856014336,
+                "id_str": "1058740285856014336",
+                "name": "Providence Clemente Veterans Initiative",
+                "screen_name": "PVDscholarvets"
+            },
+            {
+                "id": 1904629476,
+                "id_str": "1904629476",
+                "name": "Brian Turner",
+                "screen_name": "TurnerBriturn3"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @PVDscholarvets: Big thanks to @SenJackReed for joining the @PVDscholarvets class tonight, to read/discuss poems by @TurnerBriturn3 and\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 08 15:24:01 +0000 2012",
+        "description": "Official Twitter feed of Rhode Island\u2019s U.S. Senator Jack Reed.",
+        "favourites_count": 152,
+        "followers_count": 93739,
+        "friends_count": 36,
+        "id": 486694111,
+        "id_str": "486694111",
+        "listed_count": 1812,
+        "location": "Providence, Rhode Island",
+        "name": "Senator Jack Reed",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/486694111/1431108911",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/611042380846907393/L-JV9zuJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/611042380846907393/L-JV9zuJ_normal.jpg",
+        "profile_link_color": "42398A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJackReed",
+        "statuses_count": 5913,
+        "url": "http://t.co/zRkAemKyYn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1058740285856014336,
+            "id_str": "1058740285856014336",
+            "name": "Providence Clemente Veterans Initiative",
+            "screen_name": "PVDscholarvets"
+        },
+        {
+            "id": 486694111,
+            "id_str": "486694111",
+            "name": "Senator Jack Reed",
+            "screen_name": "SenJackReed"
+        },
+        {
+            "id": 1058740285856014336,
+            "id_str": "1058740285856014336",
+            "name": "Providence Clemente Veterans Initiative",
+            "screen_name": "PVDscholarvets"
+        },
+        {
+            "id": 1904629476,
+            "id_str": "1904629476",
+            "name": "Brian Turner",
+            "screen_name": "TurnerBriturn3"
+        }
+    ]
+}

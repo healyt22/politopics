@@ -1,0 +1,210 @@
+{
+    "created_at": "Thu Jul 11 14:43:33 +0000 2019",
+    "hashtags": [],
+    "id": 1149328378379538432,
+    "id_str": "1149328378379538432",
+    "lang": "en",
+    "quoted_status_id": 1146589892148912128,
+    "quoted_status_id_str": "1146589892148912128",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Jul 11 14:39:10 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1149327276569497601,
+        "id_str": "1149327276569497601",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Thu Jul 04 01:21:47 +0000 2019",
+            "favorite_count": 135,
+            "hashtags": [],
+            "id": 1146589892148912128,
+            "id_str": "1146589892148912128",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/bcjKyHSY36",
+                    "expanded_url": "https://twitter.com/JackPosobiec/status/1146589892148912128/photo/1",
+                    "id": 1146589887715512321,
+                    "media_url": "http://pbs.twimg.com/media/D-mBbZBWkAEtfAi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D-mBbZBWkAEtfAi.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 575,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 749,
+                            "h": 886,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 749,
+                            "h": 886,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/bcjKyHSY36"
+                },
+                {
+                    "display_url": "pic.twitter.com/bcjKyHSY36",
+                    "expanded_url": "https://twitter.com/JackPosobiec/status/1146589892148912128/photo/1",
+                    "id": 1146589887770046464,
+                    "media_url": "http://pbs.twimg.com/media/D-mBbZOWsAAPOiC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D-mBbZOWsAAPOiC.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 749,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 497,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 749,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/bcjKyHSY36"
+                }
+            ],
+            "retweet_count": 86,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Chuck Johnson posts a response to @DonBeyerVA https://t.co/bcjKyHSY36",
+            "urls": [],
+            "user": {
+                "created_at": "Mon May 28 13:31:22 +0000 2012",
+                "description": "@OANN Host. Catholic. Fmr Navy intel officer. Nationalist conservative. GTMO.\ud83d\udd75\ud83c\udffb\u200d\u2642\ufe0f Bio: https://t.co/d2XEDZza9s",
+                "favourites_count": 98417,
+                "followers_count": 510623,
+                "friends_count": 974,
+                "geo_enabled": true,
+                "id": 592730371,
+                "id_str": "592730371",
+                "listed_count": 4170,
+                "location": "Washington, DC",
+                "name": "Jack Posobiec \ud83c\uddfa\ud83c\uddf8",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/592730371/1558116202",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1147028244820045824/q5DXWwBK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147028244820045824/q5DXWwBK_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "JackPosobiec",
+                "statuses_count": 96606,
+                "url": "https://t.co/o6qMWKI1gN",
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 2319503065,
+                    "id_str": "2319503065",
+                    "name": "Don Beyer",
+                    "screen_name": "DonBeyerVA"
+                }
+            ]
+        },
+        "quoted_status_id": 1146589892148912128,
+        "quoted_status_id_str": "1146589892148912128",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Our descriptions of Chuck Johnson are footnoted to stories which quote him at length. Claiming he is not a conspira\u2026 https://t.co/4Sz0mT7DOQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149327276569497601",
+                "url": "https://t.co/4Sz0mT7DOQ"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 22 02:46:32 +0000 2011",
+            "description": "Comms @RepDonBeyer | past @JenniferWexton @DeborahRossNC @RepBenRayLujan @RepJerryNadler @BrownUniversity AVL | SciFi RocknRoll Nats Panthers | Tweets mine/dumb",
+            "favourites_count": 13946,
+            "followers_count": 1612,
+            "friends_count": 3416,
+            "geo_enabled": true,
+            "id": 377773483,
+            "id_str": "377773483",
+            "listed_count": 28,
+            "location": "United States",
+            "name": "Aaron Fritschner",
+            "profile_background_color": "FAFAFA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/377773483/1521880553",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/779718576731217920/Tow0LVfD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/779718576731217920/Tow0LVfD_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EDEDF2",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Fritschner",
+            "statuses_count": 20631
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @Fritschner: Our descriptions of Chuck Johnson are footnoted to stories which quote him at length. Claiming he is not a conspiracy theor\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 05 22:09:04 +0000 2015",
+        "description": "Representing Northern Virginia\u2019s #VA8 in Congress. Serve on @WaysMeansCmte, @HouseScience. Co-Chair @CaucusOnClimate. #StopGunViolence #EqualPay",
+        "favourites_count": 12547,
+        "followers_count": 74774,
+        "friends_count": 3384,
+        "geo_enabled": true,
+        "id": 2962868158,
+        "id_str": "2962868158",
+        "listed_count": 1301,
+        "location": "Northern Virginia & DC",
+        "name": "Rep. Don Beyer",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962868158/1548947972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096394670849036288/-8ShBJTO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096394670849036288/-8ShBJTO_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDonBeyer",
+        "statuses_count": 18240,
+        "url": "https://t.co/GLUWQ3oyIM",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 377773483,
+            "id_str": "377773483",
+            "name": "Aaron Fritschner",
+            "screen_name": "Fritschner"
+        }
+    ]
+}

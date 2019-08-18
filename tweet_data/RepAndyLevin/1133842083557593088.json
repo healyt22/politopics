@@ -1,0 +1,115 @@
+{
+    "created_at": "Wed May 29 21:06:33 +0000 2019",
+    "hashtags": [],
+    "id": 1133842083557593088,
+    "id_str": "1133842083557593088",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Wed May 29 17:51:14 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1133792930622312448,
+        "id_str": "1133792930622312448",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Sometimes @JulieMGreene and I talk to a guest who just gets it. @RepAndyLevin is a great example. Having a union or\u2026 https://t.co/DnDWDTtXb5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1133792930622312448",
+                "url": "https://t.co/DnDWDTtXb5"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 03 22:09:52 +0000 2011",
+            "description": "Labor speechwriter, podcaster and lover of the Giants, Knicks, and Syracuse Orange.",
+            "favourites_count": 186,
+            "followers_count": 265,
+            "friends_count": 663,
+            "geo_enabled": true,
+            "id": 247002463,
+            "id_str": "247002463",
+            "listed_count": 9,
+            "location": "Washington, DC",
+            "name": "Tim Schlittner",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/247002463/1544634562",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1072901745389563906/ktGFbGws_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072901745389563906/ktGFbGws_normal.jpg",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "SOTUTimmy",
+            "statuses_count": 1257,
+            "url": "https://t.co/AME0yxk4hU"
+        },
+        "user_mentions": [
+            {
+                "id": 335640696,
+                "id_str": "335640696",
+                "name": "Julie Greene",
+                "screen_name": "JulieMGreene"
+            },
+            {
+                "id": 1080277407867772930,
+                "id_str": "1080277407867772930",
+                "name": "Rep. Andy Levin",
+                "screen_name": "RepAndyLevin"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @SOTUTimmy: Sometimes @JulieMGreene and I talk to a guest who just gets it. @RepAndyLevin is a great example. Having a union organizer i\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 01:39:39 +0000 2019",
+        "default_profile": true,
+        "description": "Honored to represent #MI09 in Congress. Vice Chair of @EdLaborCmte, member of @HouseForeign. Democrat raising the standard of living for working people.",
+        "favourites_count": 67,
+        "followers_count": 11739,
+        "friends_count": 1952,
+        "geo_enabled": true,
+        "id": 1080277407867772930,
+        "id_str": "1080277407867772930",
+        "listed_count": 219,
+        "location": "Michigan, USA",
+        "name": "Rep. Andy Levin",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080277407867772930/1546536038",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080563046907609093/JULus5Yq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080563046907609093/JULus5Yq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyLevin",
+        "statuses_count": 527,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 247002463,
+            "id_str": "247002463",
+            "name": "Tim Schlittner",
+            "screen_name": "SOTUTimmy"
+        },
+        {
+            "id": 335640696,
+            "id_str": "335640696",
+            "name": "Julie Greene",
+            "screen_name": "JulieMGreene"
+        },
+        {
+            "id": 1080277407867772930,
+            "id_str": "1080277407867772930",
+            "name": "Rep. Andy Levin",
+            "screen_name": "RepAndyLevin"
+        }
+    ]
+}

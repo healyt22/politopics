@@ -1,0 +1,160 @@
+{
+    "created_at": "Fri Jul 12 18:05:47 +0000 2019",
+    "hashtags": [
+        {
+            "text": "summermeals"
+        }
+    ],
+    "id": 1149741661200834560,
+    "id_str": "1149741661200834560",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -77.41552582,
+                39.40729531
+            ]
+        },
+        "created_at": "Wed Jul 10 03:26:32 +0000 2019",
+        "favorite_count": 55,
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                39.40729531,
+                -77.41552582
+            ]
+        },
+        "hashtags": [
+            {
+                "text": "summermeals"
+            }
+        ],
+        "id": 1148795612885766144,
+        "id_str": "1148795612885766144",
+        "lang": "en",
+        "place": {
+            "id": "ec3b8b62828d8f6a",
+            "url": "https://api.twitter.com/1.1/geo/id/ec3b8b62828d8f6a.json",
+            "place_type": "city",
+            "name": "Frederick",
+            "full_name": "Frederick, MD",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.476711,
+                            39.369128
+                        ],
+                        [
+                            -77.359293,
+                            39.369128
+                        ],
+                        [
+                            -77.359293,
+                            39.494945
+                        ],
+                        [
+                            -77.476711,
+                            39.494945
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "text": "It was a great day witnessing and participating in #summermeals program organized by @fcpsmaryland Thank you to dav\u2026 https://t.co/fAva9nSlIO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148795612885766144",
+                "url": "https://t.co/fAva9nSlIO"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 10 01:47:51 +0000 2009",
+            "description": "Husband, Father, Chef/Owner, VOLT, LUNCHBOX, FAMILY MEAL, RANGE, AGGIO",
+            "favourites_count": 2781,
+            "followers_count": 265222,
+            "friends_count": 965,
+            "geo_enabled": true,
+            "id": 46006331,
+            "id_str": "46006331",
+            "listed_count": 3445,
+            "location": "Frederick, MD",
+            "name": "BRYAN VOLTAGGIO",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/46006331/1516546408",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/484705486827057152/eKJ2B2GC_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/484705486827057152/eKJ2B2GC_normal.jpeg",
+            "profile_link_color": "EE891D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F8EFD2",
+            "profile_text_color": "030003",
+            "screen_name": "BryanVoltaggio",
+            "statuses_count": 9972,
+            "url": "https://t.co/WiGoJ1bPdG",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 36720356,
+                "id_str": "36720356",
+                "name": "FCPS-MD",
+                "screen_name": "FCPSMaryland"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @BryanVoltaggio: It was a great day witnessing and participating in #summermeals program organized by @fcpsmaryland Thank you to davidjt\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 21:15:37 +0000 2019",
+        "default_profile": true,
+        "description": "Congressman representing the 6th District of Maryland. Husband, Father, Business Owner.",
+        "favourites_count": 159,
+        "followers_count": 6695,
+        "friends_count": 878,
+        "id": 1080573351914061825,
+        "id_str": "1080573351914061825",
+        "listed_count": 172,
+        "location": "Maryland\u2019s 6th District",
+        "name": "Rep. David Trone",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080573351914061825/1546536501",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDavidTrone",
+        "statuses_count": 551,
+        "url": "https://t.co/YsuCO1X7X4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 46006331,
+            "id_str": "46006331",
+            "name": "BRYAN VOLTAGGIO",
+            "screen_name": "BryanVoltaggio"
+        },
+        {
+            "id": 36720356,
+            "id_str": "36720356",
+            "name": "FCPS-MD",
+            "screen_name": "FCPSMaryland"
+        }
+    ]
+}

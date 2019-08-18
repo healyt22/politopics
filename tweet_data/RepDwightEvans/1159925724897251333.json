@@ -1,0 +1,189 @@
+{
+    "created_at": "Fri Aug 09 20:33:37 +0000 2019",
+    "hashtags": [],
+    "id": 1159925724897251333,
+    "id_str": "1159925724897251333",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/1S8OnIH2iF",
+            "expanded_url": "https://twitter.com/Patbagley/status/1159835860877004805/photo/1",
+            "id": 1159835853364981760,
+            "media_url": "http://pbs.twimg.com/media/EBiQkEWU8AAzCXc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBiQkEWU8AAzCXc.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1451,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 482,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 850,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/1S8OnIH2iF"
+        }
+    ],
+    "retweet_count": 167,
+    "retweeted_status": {
+        "created_at": "Fri Aug 09 14:36:32 +0000 2019",
+        "favorite_count": 356,
+        "hashtags": [],
+        "id": 1159835860877004805,
+        "id_str": "1159835860877004805",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/1S8OnIH2iF",
+                "expanded_url": "https://twitter.com/Patbagley/status/1159835860877004805/photo/1",
+                "id": 1159835853364981760,
+                "media_url": "http://pbs.twimg.com/media/EBiQkEWU8AAzCXc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBiQkEWU8AAzCXc.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1451,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 482,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 850,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/1S8OnIH2iF"
+            }
+        ],
+        "place": {
+            "id": "bd7c511e9f8bc5da",
+            "url": "https://api.twitter.com/1.1/geo/id/bd7c511e9f8bc5da.json",
+            "place_type": "city",
+            "name": "Salt Lake City",
+            "full_name": "Salt Lake City, UT",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -112.0383105,
+                            40.6998952
+                        ],
+                        [
+                            -111.795741,
+                            40.6998952
+                        ],
+                        [
+                            -111.795741,
+                            40.8317151
+                        ],
+                        [
+                            -112.0383105,
+                            40.8317151
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 167,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "Lock. Them. Up! https://t.co/1S8OnIH2iF",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Dec 21 08:12:54 +0000 2011",
+            "default_profile": true,
+            "description": "Longest continuously employed full-time editorial cartoonist in America. With The Salt Lake Tribune since 1979",
+            "favourites_count": 95434,
+            "followers_count": 26268,
+            "friends_count": 997,
+            "geo_enabled": true,
+            "id": 442593662,
+            "id_str": "442593662",
+            "listed_count": 722,
+            "location": "Salt Lake City",
+            "name": "Pat Bagley",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/442593662/1517960531",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107613713106792448/pygCuOQ3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107613713106792448/pygCuOQ3_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Patbagley",
+            "statuses_count": 70405,
+            "url": "https://t.co/m8EPmq6A7J"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @Patbagley: Lock. Them. Up! https://t.co/1S8OnIH2iF",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Nov 17 14:25:20 +0000 2009",
+        "default_profile": true,
+        "description": "Representing the 3rd Congressional District in PA. Making Ideas Matter since 1980. Connect on Facebook: https://t.co/xMYIke63lr",
+        "favourites_count": 3630,
+        "followers_count": 14942,
+        "friends_count": 3267,
+        "geo_enabled": true,
+        "id": 90639372,
+        "id_str": "90639372",
+        "listed_count": 661,
+        "location": "Philadelphia, PA",
+        "name": "Dwight Evans",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90639372/1451339780",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/879350983175925764/xUkaKXoa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/879350983175925764/xUkaKXoa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDwightEvans",
+        "statuses_count": 17015,
+        "url": "https://t.co/JF4XLr08tQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 442593662,
+            "id_str": "442593662",
+            "name": "Pat Bagley",
+            "screen_name": "Patbagley"
+        }
+    ]
+}

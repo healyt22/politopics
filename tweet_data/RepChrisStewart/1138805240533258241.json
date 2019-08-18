@@ -1,0 +1,109 @@
+{
+    "created_at": "Wed Jun 12 13:48:21 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [
+        {
+            "text": "GoArmy"
+        }
+    ],
+    "id": 1138805240533258241,
+    "id_str": "1138805240533258241",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 12 13:13:12 +0000 2019",
+        "favorite_count": 78,
+        "hashtags": [],
+        "id": 1138796391851970561,
+        "id_str": "1138796391851970561",
+        "lang": "en",
+        "retweet_count": 20,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you @MarioDB &amp; @RepChrisStewart for joining me in an engaging discussion on how to better serve our Soldiers\u2026 https://t.co/6NrWUVDgko",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138796391851970561",
+                "url": "https://t.co/6NrWUVDgko"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Dec 29 07:09:33 +0000 2016",
+            "default_profile": true,
+            "description": "The official account of the Secretary of the Army. You can now follow Dr. Esper at @EsperDoD. (Following, RTs & links \u2260 endorsement)",
+            "favourites_count": 16709,
+            "followers_count": 22859,
+            "friends_count": 1142,
+            "geo_enabled": true,
+            "id": 814367737342328833,
+            "id_str": "814367737342328833",
+            "listed_count": 159,
+            "name": "SecArmy",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/814367737342328833/1563923665",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1153810988455493634/uWvEwwJR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153810988455493634/uWvEwwJR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SecArmy",
+            "statuses_count": 1844,
+            "url": "https://t.co/HKBm7HgUpX",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 37094727,
+                "id_str": "37094727",
+                "name": "Mario Diaz-Balart",
+                "screen_name": "MarioDB"
+            },
+            {
+                "id": 1072008757,
+                "id_str": "1072008757",
+                "name": "Rep. Chris Stewart",
+                "screen_name": "RepChrisStewart"
+            }
+        ]
+    },
+    "quoted_status_id": 1138796391851970561,
+    "quoted_status_id_str": "1138796391851970561",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great to see you! #GoArmy https://t.co/mBaCEcRYzP",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/SecArmy/status/1138796391851970561",
+            "url": "https://t.co/mBaCEcRYzP"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 08 21:08:19 +0000 2013",
+        "description": "Utah's 2nd District Congressman. Former Air Force B-1 pilot, author, House Intelligence, Budget, & Appropriations Committees. Visit https://t.co/GUW6weAva6",
+        "favourites_count": 504,
+        "followers_count": 20988,
+        "friends_count": 371,
+        "geo_enabled": true,
+        "id": 1072008757,
+        "id_str": "1072008757",
+        "listed_count": 816,
+        "location": "Utah and DC",
+        "name": "Rep. Chris Stewart",
+        "profile_background_color": "BE1E2D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072008757/1562880146",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000828740520/3a6960ab5bb904c7a6e73e6099e2b2ef_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000828740520/3a6960ab5bb904c7a6e73e6099e2b2ef_normal.jpeg",
+        "profile_link_color": "1B75BB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepChrisStewart",
+        "statuses_count": 3368,
+        "url": "http://stewart.house.gov",
+        "verified": true
+    },
+    "user_mentions": []
+}

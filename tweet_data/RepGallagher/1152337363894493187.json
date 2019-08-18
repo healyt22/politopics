@@ -1,0 +1,134 @@
+{
+    "created_at": "Fri Jul 19 22:00:11 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [],
+    "id": 1152337363894493187,
+    "id_str": "1152337363894493187",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jul 19 18:51:10 +0000 2019",
+        "favorite_count": 20,
+        "hashtags": [],
+        "id": 1152289794304741382,
+        "id_str": "1152289794304741382",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Shout out to the 46 high school students from @wisconsin4h program for stopping by our Embassy to talk about agricu\u2026 https://t.co/TsVroL9MMt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1152289794304741382",
+                "url": "https://t.co/TsVroL9MMt"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 08 13:26:18 +0000 2012",
+            "description": "The Australian Embassy in the United States \ud83c\udde6\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 #Mateship. See @smartraveller for travel updates. For emergency consular assistance call +61 2 6261 3305.",
+            "favourites_count": 2240,
+            "followers_count": 17664,
+            "friends_count": 2390,
+            "geo_enabled": true,
+            "id": 745193748,
+            "id_str": "745193748",
+            "listed_count": 327,
+            "location": "Washington, DC",
+            "name": "Australia in the US \ud83c\udde6\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8",
+            "profile_background_color": "0C0C45",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/745193748/1505398549",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/903278688254304258/R2X-FFsN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/903278688254304258/R2X-FFsN_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "AusintheUS",
+            "statuses_count": 4520,
+            "url": "https://t.co/Rr8RxpcGZI",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1115687980440514560,
+                "id_str": "1115687980440514560",
+                "name": "Wisconsin 4-H",
+                "screen_name": "wisconsin4h"
+            }
+        ]
+    },
+    "quoted_status_id": 1152289794304741382,
+    "quoted_status_id_str": "1152289794304741382",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "On Wisconsin! https://t.co/0NetIFXYeR",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/AusintheUS/status/1152289794304741382",
+            "url": "https://t.co/0NetIFXYeR"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 02 17:02:57 +0000 2017",
+        "default_profile": true,
+        "description": "Green Bay Native, Marine Veteran, and Eisenhower Nerd proudly representing #WI08 in Congress. #GoPackGo. https://t.co/D2ANAop3fA",
+        "favourites_count": 166,
+        "followers_count": 15831,
+        "friends_count": 403,
+        "geo_enabled": true,
+        "id": 815966620300480514,
+        "id_str": "815966620300480514",
+        "listed_count": 444,
+        "location": "Green Bay, WI",
+        "name": "Rep. Mike Gallagher",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815966620300480514/1539873451",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819978410038624266/0Df5fXvA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819978410038624266/0Df5fXvA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGallagher",
+        "statuses_count": 2443,
+        "url": "https://t.co/uBDJgXRW2D",
+        "verified": true
+    },
+    "user_mentions": []
+}

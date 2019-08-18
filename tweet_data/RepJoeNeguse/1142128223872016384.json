@@ -1,0 +1,119 @@
+{
+    "created_at": "Fri Jun 21 17:52:42 +0000 2019",
+    "hashtags": [],
+    "id": 1142128223872016384,
+    "id_str": "1142128223872016384",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Jun 21 17:25:04 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1142121268357021701,
+        "id_str": "1142121268357021701",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "This weekend on \"The Trendline with @KSoltisAnderson:\"\n@RepJoeNeguse shares his thoughts on impeachment and reflect\u2026 https://t.co/kwDvK3QFpf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1142121268357021701",
+                "url": "https://t.co/kwDvK3QFpf"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jul 29 18:14:14 +0000 2011",
+            "description": "Politics of the United States for the People of the United States SiriusXM Channel 124.  Retweets are not agreement or endorsement.",
+            "favourites_count": 178,
+            "followers_count": 15219,
+            "friends_count": 565,
+            "geo_enabled": true,
+            "id": 344864408,
+            "id_str": "344864408",
+            "listed_count": 139,
+            "location": "Washington DC",
+            "name": "SiriusXM P.O.T.U.S.",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/344864408/1552068722",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1104082493160988673/kJJ8oBL6_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104082493160988673/kJJ8oBL6_normal.png",
+            "profile_link_color": "18D7F0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SXMPOTUS",
+            "statuses_count": 5314,
+            "url": "https://t.co/RbHvOmq40L",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 12889162,
+                "id_str": "12889162",
+                "name": "Kristen Soltis Anderson",
+                "screen_name": "KSoltisAnderson"
+            },
+            {
+                "id": 1078749802765139968,
+                "id_str": "1078749802765139968",
+                "name": "Rep. Joe Neguse",
+                "screen_name": "RepJoeNeguse"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @SXMPOTUS: This weekend on \"The Trendline with @KSoltisAnderson:\"\n@RepJoeNeguse shares his thoughts on impeachment and reflects on his D\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 28 20:29:29 +0000 2018",
+        "default_profile": true,
+        "description": "U.S. Rep. for Colorado\u2019s 2nd District. @NRDems @HouseJudiciary @ClimateCrisis & Vice-Chair @USProgressives. Proud Husband. Dad. First-generation American.",
+        "favourites_count": 333,
+        "followers_count": 12615,
+        "friends_count": 836,
+        "geo_enabled": true,
+        "id": 1078749802765139968,
+        "id_str": "1078749802765139968",
+        "listed_count": 320,
+        "location": "Northern Colorado",
+        "name": "Rep. Joe Neguse",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078749802765139968/1554924086",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1078835620246622209/3n6aNkEV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078835620246622209/3n6aNkEV_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeNeguse",
+        "statuses_count": 1344,
+        "url": "https://t.co/uQl52J20Oh",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 344864408,
+            "id_str": "344864408",
+            "name": "SiriusXM P.O.T.U.S.",
+            "screen_name": "SXMPOTUS"
+        },
+        {
+            "id": 12889162,
+            "id_str": "12889162",
+            "name": "Kristen Soltis Anderson",
+            "screen_name": "KSoltisAnderson"
+        },
+        {
+            "id": 1078749802765139968,
+            "id_str": "1078749802765139968",
+            "name": "Rep. Joe Neguse",
+            "screen_name": "RepJoeNeguse"
+        }
+    ]
+}

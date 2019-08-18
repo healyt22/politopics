@@ -1,0 +1,87 @@
+{
+    "created_at": "Mon Jun 24 14:54:07 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1143170442334744583,
+    "id_str": "1143170442334744583",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Reminder: the deadline to register for @fema Disaster Assistance is next Monday, July 1st. If you haven\u2019t yet regis\u2026 https://t.co/j9En4CBxLm",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143170442334744583",
+            "url": "https://t.co/j9En4CBxLm"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 16:38:10 +0000 2019",
+        "description": "Proud to serve as the U.S. Representative from Iowa's Third Congressional District.",
+        "favourites_count": 71,
+        "followers_count": 8485,
+        "friends_count": 300,
+        "geo_enabled": true,
+        "id": 1080865917377097728,
+        "id_str": "1080865917377097728",
+        "listed_count": 207,
+        "location": "Des Moines, IA",
+        "name": "Rep. Cindy Axne",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080865917377097728/1546613243",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080868174097043456/QomNGZDc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080868174097043456/QomNGZDc_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepCindyAxne",
+        "statuses_count": 497,
+        "url": "https://t.co/8HYX7IyY9b",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16669075,
+            "id_str": "16669075",
+            "name": "FEMA",
+            "screen_name": "fema"
+        }
+    ]
+}

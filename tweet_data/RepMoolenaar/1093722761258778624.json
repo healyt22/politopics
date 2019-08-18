@@ -1,0 +1,141 @@
+{
+    "created_at": "Fri Feb 08 04:06:41 +0000 2019",
+    "hashtags": [],
+    "id": 1093722761258778624,
+    "id_str": "1093722761258778624",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Feb 08 03:49:38 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1093718469131071488,
+        "id_str": "1093718469131071488",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@RepMoolenaar reacts to fellow Michigander\u2019s passing - political giant &amp; former Rep. John Dingell \u201cwhile we mourn\u2026 https://t.co/DhYxyuGvor",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1093718469131071488",
+                "url": "https://t.co/DhYxyuGvor"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 12 18:40:15 +0000 2010",
+            "description": "Washington Correspondent for @GrayDCnews covering the White House & Congress for 91 TV markets | Proud Tar Heel \ud83d\udc0f & rescue dog mom \ud83d\udc36",
+            "favourites_count": 2019,
+            "followers_count": 2283,
+            "friends_count": 1443,
+            "geo_enabled": true,
+            "id": 132254964,
+            "id_str": "132254964",
+            "listed_count": 142,
+            "location": "Washington, DC",
+            "name": "Alana Austin",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/132254964/1504709428",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/925053464798826497/LNVzB098_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/925053464798826497/LNVzB098_normal.jpg",
+            "profile_link_color": "696969",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000105",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "alana_austin",
+            "statuses_count": 18931,
+            "url": "https://t.co/PGNBmX0usv",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2696643955,
+                "id_str": "2696643955",
+                "name": "Rep. John Moolenaar",
+                "screen_name": "RepMoolenaar"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @alana_austin: .@RepMoolenaar reacts to fellow Michigander\u2019s passing - political giant &amp; former Rep. John Dingell \u201cwhile we mourn his pa\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 31 21:09:14 +0000 2014",
+        "default_profile": true,
+        "description": "Representing Michigan's Fourth Congressional District. This is the Twitter page of the official House office.",
+        "favourites_count": 470,
+        "followers_count": 11015,
+        "friends_count": 339,
+        "id": 2696643955,
+        "id_str": "2696643955",
+        "listed_count": 417,
+        "name": "Rep. John Moolenaar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696643955/1420046825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoolenaar",
+        "statuses_count": 854,
+        "url": "http://t.co/cwXZtKCJhJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 132254964,
+            "id_str": "132254964",
+            "name": "Alana Austin",
+            "screen_name": "alana_austin"
+        },
+        {
+            "id": 2696643955,
+            "id_str": "2696643955",
+            "name": "Rep. John Moolenaar",
+            "screen_name": "RepMoolenaar"
+        }
+    ]
+}

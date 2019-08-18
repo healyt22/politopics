@@ -1,0 +1,106 @@
+{
+    "created_at": "Thu Jul 11 21:30:32 +0000 2019",
+    "hashtags": [],
+    "id": 1149430797876768768,
+    "id_str": "1149430797876768768",
+    "lang": "en",
+    "retweet_count": 21,
+    "retweeted_status": {
+        "created_at": "Thu Jul 11 21:23:41 +0000 2019",
+        "favorite_count": 35,
+        "hashtags": [],
+        "id": 1149429076274364417,
+        "id_str": "1149429076274364417",
+        "lang": "en",
+        "retweet_count": 21,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Yesterday I introduced a resolution with @RepRonKind recognizing the importance of vet-to-vet support programs like\u2026 https://t.co/OcOuCNqHsN",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149429076274364417",
+                "url": "https://t.co/OcOuCNqHsN"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 02 17:02:57 +0000 2017",
+            "default_profile": true,
+            "description": "Green Bay Native, Marine Veteran, and Eisenhower Nerd proudly representing #WI08 in Congress. #GoPackGo. https://t.co/D2ANAop3fA",
+            "favourites_count": 166,
+            "followers_count": 15831,
+            "friends_count": 403,
+            "geo_enabled": true,
+            "id": 815966620300480514,
+            "id_str": "815966620300480514",
+            "listed_count": 444,
+            "location": "Green Bay, WI",
+            "name": "Rep. Mike Gallagher",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/815966620300480514/1539873451",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/819978410038624266/0Df5fXvA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/819978410038624266/0Df5fXvA_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepGallagher",
+            "statuses_count": 2443,
+            "url": "https://t.co/uBDJgXRW2D",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 112740986,
+                "id_str": "112740986",
+                "name": "Rep. Ron Kind",
+                "screen_name": "RepRonKind"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @RepGallagher: Yesterday I introduced a resolution with @RepRonKind recognizing the importance of vet-to-vet support programs like NEW B\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Feb 09 15:14:02 +0000 2010",
+        "description": "Proud Wisconsinite. \ud83c\udfc8\ud83e\uddc0\ud83c\uddfa\ud83c\uddf8\ud83c\udf7b I work for the people of Wisconsin\u2019s Third Congressional District.  Go Badgers! Go Brewers! Go Pack!",
+        "favourites_count": 13,
+        "followers_count": 15491,
+        "friends_count": 779,
+        "geo_enabled": true,
+        "id": 112740986,
+        "id_str": "112740986",
+        "listed_count": 955,
+        "location": "La Crosse, WI",
+        "name": "Rep. Ron Kind",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/112740986/1551220359",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100524258059522049/Fdmj0qny_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100524258059522049/Fdmj0qny_normal.png",
+        "profile_link_color": "CC0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D4D4A5",
+        "profile_text_color": "1F1F1F",
+        "profile_use_background_image": true,
+        "screen_name": "RepRonKind",
+        "statuses_count": 1537,
+        "url": "https://t.co/36VsaHRS7r",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 815966620300480514,
+            "id_str": "815966620300480514",
+            "name": "Rep. Mike Gallagher",
+            "screen_name": "RepGallagher"
+        },
+        {
+            "id": 112740986,
+            "id_str": "112740986",
+            "name": "Rep. Ron Kind",
+            "screen_name": "RepRonKind"
+        }
+    ]
+}

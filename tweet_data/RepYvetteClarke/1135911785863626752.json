@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jun 04 14:10:48 +0000 2019",
+    "favorite_count": 33,
+    "hashtags": [],
+    "id": 1135911785863626752,
+    "id_str": "1135911785863626752",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Tue Jun 04 13:52:14 +0000 2019",
+        "favorite_count": 1262,
+        "hashtags": [],
+        "id": 1135907114952646656,
+        "id_str": "1135907114952646656",
+        "lang": "en",
+        "retweet_count": 300,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "NY can lead in the fight to save our planet and transform our economy. The Climate and Community Protection Act set\u2026 https://t.co/AnrPToZK9u",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1135907114952646656",
+                "url": "https://t.co/AnrPToZK9u"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Dec 29 19:59:11 +0000 2018",
+            "default_profile": true,
+            "description": "Congresswoman for NY-14 (the Bronx + Queens). In a modern, moral, and wealthy society, no American should be too poor to live.",
+            "favourites_count": 21,
+            "followers_count": 187291,
+            "id": 1079104563280527364,
+            "id_str": "1079104563280527364",
+            "listed_count": 912,
+            "location": "Washington, DC",
+            "name": "Rep. Alexandria Ocasio-Cortez",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079104563280527364/1546812373",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082035570648498177/Jvl2NOx9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082035570648498177/Jvl2NOx9_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepAOC",
+            "statuses_count": 47,
+            "url": "https://t.co/v2uqN2fOcQ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1135907114952646656,
+    "quoted_status_id_str": "1135907114952646656",
+    "retweet_count": 14,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Earlier this year I introduced the BREATHE Act (H.R. 585) in Congress to protect our basic right to clean, safe air\u2026 https://t.co/ryDA2PrB6K",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1135911785863626752",
+            "url": "https://t.co/ryDA2PrB6K"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 20 20:14:21 +0000 2011",
+        "default_profile": true,
+        "description": "Representing New York\u2019s 9th Congressional District. Brooklyn bred. Vice Chair of @EnergyCommerce // press: sarah.sinovic@mail.house.gov",
+        "favourites_count": 7493,
+        "followers_count": 62114,
+        "friends_count": 3852,
+        "geo_enabled": true,
+        "id": 240812994,
+        "id_str": "240812994",
+        "listed_count": 1469,
+        "location": "Brooklyn, NY",
+        "name": "Yvette D. Clarke",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240812994/1554211887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999351152129884162/a1p9rErQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/999351152129884162/a1p9rErQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepYvetteClarke",
+        "statuses_count": 12470,
+        "verified": true
+    },
+    "user_mentions": []
+}

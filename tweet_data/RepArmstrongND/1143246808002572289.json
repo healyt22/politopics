@@ -1,0 +1,104 @@
+{
+    "created_at": "Mon Jun 24 19:57:34 +0000 2019",
+    "hashtags": [],
+    "id": 1143246808002572289,
+    "id_str": "1143246808002572289",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Jun 24 18:04:04 +0000 2019",
+        "favorite_count": 33,
+        "hashtags": [],
+        "id": 1143218245006057472,
+        "id_str": "1143218245006057472",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u201cI struggle outside the pool, and that\u2019s what makes me human.\u201d\n\nInspired by @MichaelPhelps\u2019 honesty &amp; courage in sh\u2026 https://t.co/QbyPijk2Mi",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143218245006057472",
+                "url": "https://t.co/QbyPijk2Mi"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 24 20:03:52 +0000 2017",
+            "default_profile": true,
+            "description": "First Lady of North Dakota. Instagram: FirstLadyND",
+            "favourites_count": 318,
+            "followers_count": 1477,
+            "friends_count": 237,
+            "geo_enabled": true,
+            "id": 835218710239432704,
+            "id_str": "835218710239432704",
+            "listed_count": 26,
+            "location": "Bismarck, ND",
+            "name": "First Lady Kathryn Burgum",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/835218710239432704/1536677164",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/835223280781037572/Z9ysNp3Y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/835223280781037572/Z9ysNp3Y_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FirstLadyND",
+            "statuses_count": 885,
+            "url": "https://t.co/QkMVWaUr2b"
+        },
+        "user_mentions": [
+            {
+                "id": 225539878,
+                "id_str": "225539878",
+                "name": "Michael Phelps",
+                "screen_name": "MichaelPhelps"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @FirstLadyND: \u201cI struggle outside the pool, and that\u2019s what makes me human.\u201d\n\nInspired by @MichaelPhelps\u2019 honesty &amp; courage in sharing h\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 17:27:12 +0000 2019",
+        "default_profile": true,
+        "description": "I'm a lifelong, devoted North Dakotan and a tireless advocate for making North Dakota a better place to live and work.",
+        "favourites_count": 236,
+        "followers_count": 8783,
+        "friends_count": 227,
+        "geo_enabled": true,
+        "id": 1080515866255593472,
+        "id_str": "1080515866255593472",
+        "listed_count": 156,
+        "location": "Dickinson, ND and Washington, DC",
+        "name": "Congressman Kelly Armstrong",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080515866255593472/1563561647",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080879174972264449/PE5-7Tn1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080879174972264449/PE5-7Tn1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepArmstrongND",
+        "statuses_count": 503,
+        "url": "https://t.co/bFYBcIEV4G",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 835218710239432704,
+            "id_str": "835218710239432704",
+            "name": "First Lady Kathryn Burgum",
+            "screen_name": "FirstLadyND"
+        },
+        {
+            "id": 225539878,
+            "id_str": "225539878",
+            "name": "Michael Phelps",
+            "screen_name": "MichaelPhelps"
+        }
+    ]
+}

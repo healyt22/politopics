@@ -1,0 +1,98 @@
+{
+    "created_at": "Fri Jun 28 22:58:09 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1144741808062246912,
+    "id_str": "1144741808062246912",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 26 19:30:00 +0000 2019",
+        "favorite_count": 58,
+        "hashtags": [],
+        "id": 1143964648296681472,
+        "id_str": "1143964648296681472",
+        "lang": "en",
+        "retweet_count": 18,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\u201cOver $3.1 billion has now been dedicated to the NIH, CDC and HRSA to understand ASD\u2026these efforts have translated\u2026 https://t.co/aswpRf5A1R",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143964648296681472",
+                "url": "https://t.co/aswpRf5A1R"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Mar 07 05:50:07 +0000 2009",
+            "description": "Autism Votes, an initiative of Autism Speaks, is a grassroots advocacy program for state and federal autism-related legislation. Check out www.autismvotes.org!",
+            "favourites_count": 401,
+            "followers_count": 25420,
+            "friends_count": 1526,
+            "geo_enabled": true,
+            "id": 23170304,
+            "id_str": "23170304",
+            "listed_count": 410,
+            "location": "New York",
+            "name": "Autism Speaks Advocacy",
+            "profile_background_color": "567EB9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23170304/1435579368",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1100854825586053120/TqF8rOIH_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100854825586053120/TqF8rOIH_normal.png",
+            "profile_link_color": "030363",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A60000",
+            "profile_text_color": "030202",
+            "screen_name": "autismvotes",
+            "statuses_count": 5424,
+            "url": "http://www.autismvotes.org"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1143964648296681472,
+    "quoted_status_id_str": "1143964648296681472",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Thanks for spreading the word, @Autismvotes. We do still have a long way to go, and we\u2019ve got a tight deadline comi\u2026 https://t.co/BZDyb6nuSW",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1144741808062246912",
+            "url": "https://t.co/BZDyb6nuSW"
+        }
+    ],
+    "user": {
+        "created_at": "Mon May 11 13:22:08 +0000 2009",
+        "description": "U.S. Member of Congress representing PA's 18th District",
+        "favourites_count": 5,
+        "followers_count": 19268,
+        "friends_count": 83,
+        "id": 39249305,
+        "id_str": "39249305",
+        "listed_count": 1117,
+        "location": "Pittsburgh, PA",
+        "name": "Mike Doyle",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39249305/1560199486",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "USRepMikeDoyle",
+        "statuses_count": 1773,
+        "url": "https://t.co/lnbMOLPFwX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 23170304,
+            "id_str": "23170304",
+            "name": "Autism Speaks Advocacy",
+            "screen_name": "autismvotes"
+        }
+    ]
+}

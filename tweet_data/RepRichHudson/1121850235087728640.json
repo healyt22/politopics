@@ -1,0 +1,138 @@
+{
+    "created_at": "Fri Apr 26 18:55:13 +0000 2019",
+    "hashtags": [],
+    "id": 1121850235087728640,
+    "id_str": "1121850235087728640",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Fri Apr 26 18:12:17 +0000 2019",
+        "favorite_count": 52,
+        "hashtags": [],
+        "id": 1121839428329267203,
+        "id_str": "1121839428329267203",
+        "lang": "en",
+        "place": {
+            "id": "07d9cdb7a0488001",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9cdb7a0488001.json",
+            "place_type": "poi",
+            "name": "Walter Reed - Building 10 (Eagle Zone)",
+            "full_name": "Walter Reed - Building 10 (Eagle Zone)",
+            "country_code": "",
+            "country": "",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.09438378037254,
+                            38.99990664624042
+                        ],
+                        [
+                            -77.09438378037254,
+                            38.99990664624042
+                        ],
+                        [
+                            -77.09438378037254,
+                            38.99990664624042
+                        ],
+                        [
+                            -77.09438378037254,
+                            38.99990664624042
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Grateful for Congressman @RepRichHudson his incredible friendship and his heart for Mike and all who wear our natio\u2026 https://t.co/LxNu3tsOdk",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1121839428329267203",
+                "url": "https://t.co/LxNu3tsOdk"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 19 16:01:24 +0000 2018",
+            "default_profile": true,
+            "description": "CEO @IndyFund \ud83c\uddfa\ud83c\uddf8 Advocate for Veterans & Caregivers of All Eras \ud83c\uddfa\ud83c\uddf8 wife to a severely wounded Hero. children\u2019s book: #HeroAtHome https://t.co/RiPRmfjORa",
+            "favourites_count": 1823,
+            "followers_count": 3229,
+            "friends_count": 238,
+            "geo_enabled": true,
+            "id": 965617319455191041,
+            "id_str": "965617319455191041",
+            "listed_count": 6,
+            "location": "United States",
+            "name": "Sarah Verardo",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/965617319455191041/1519056541",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1142795504188874752/t_AfzjtY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142795504188874752/t_AfzjtY_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "sarah_verardo",
+            "statuses_count": 1486,
+            "url": "https://t.co/RN6I75wMcr"
+        },
+        "user_mentions": [
+            {
+                "id": 935033864,
+                "id_str": "935033864",
+                "name": "Richard Hudson",
+                "screen_name": "RepRichHudson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @sarah_verardo: Grateful for Congressman @RepRichHudson his incredible friendship and his heart for Mike and all who wear our nation\u2019s u\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Nov 08 17:41:00 +0000 2012",
+        "description": "Official Twitter account for Congressman Richard Hudson -- proudly representing the 8th Congressional District of North Carolina.",
+        "favourites_count": 6256,
+        "followers_count": 17545,
+        "friends_count": 2330,
+        "id": 935033864,
+        "id_str": "935033864",
+        "listed_count": 699,
+        "location": "Concord, NC",
+        "name": "Richard Hudson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/935033864/1361291324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700164005684449280/UF6ckSJB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700164005684449280/UF6ckSJB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRichHudson",
+        "statuses_count": 7524,
+        "url": "https://t.co/KyMhp4Akkf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 965617319455191041,
+            "id_str": "965617319455191041",
+            "name": "Sarah Verardo",
+            "screen_name": "sarah_verardo"
+        },
+        {
+            "id": 935033864,
+            "id_str": "935033864",
+            "name": "Richard Hudson",
+            "screen_name": "RepRichHudson"
+        }
+    ]
+}

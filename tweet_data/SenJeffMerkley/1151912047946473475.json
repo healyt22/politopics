@@ -1,0 +1,161 @@
+{
+    "created_at": "Thu Jul 18 17:50:08 +0000 2019",
+    "hashtags": [],
+    "id": 1151912047946473475,
+    "id_str": "1151912047946473475",
+    "lang": "en",
+    "retweet_count": 18,
+    "retweeted_status": {
+        "created_at": "Thu Jul 18 15:11:00 +0000 2019",
+        "favorite_count": 86,
+        "hashtags": [],
+        "id": 1151872002065608704,
+        "id_str": "1151872002065608704",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 18,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Secretary-Treasurer @lizshuler and I are proud to join @SenJeffMerkley and Sen. @maziehirono today for the introduc\u2026 https://t.co/8wPJ6efCh6",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151872002065608704",
+                "url": "https://t.co/8wPJ6efCh6"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Oct 20 15:15:24 +0000 2011",
+            "description": "President of the @AFLCIO. Proud husband, dad, grandpa, and @MineWorkers member. Fighting to give everyone a voice on the job. #1u | he/him",
+            "favourites_count": 204,
+            "followers_count": 65408,
+            "friends_count": 1953,
+            "geo_enabled": true,
+            "id": 394741838,
+            "id_str": "394741838",
+            "listed_count": 820,
+            "name": "Richard Trumka",
+            "profile_background_color": "04161F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/394741838/1557516658",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/796428317385752580/Fd6iZWaJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/796428317385752580/Fd6iZWaJ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RichardTrumka",
+            "statuses_count": 6283,
+            "url": "https://t.co/s4d9ldZLs5",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 62343633,
+                "id_str": "62343633",
+                "name": "Liz Shuler",
+                "screen_name": "lizshuler"
+            },
+            {
+                "id": 29201047,
+                "id_str": "29201047",
+                "name": "Senator Jeff Merkley",
+                "screen_name": "SenJeffMerkley"
+            },
+            {
+                "id": 92186819,
+                "id_str": "92186819",
+                "name": "Senator Mazie Hirono",
+                "screen_name": "maziehirono"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RichardTrumka: Secretary-Treasurer @lizshuler and I are proud to join @SenJeffMerkley and Sen. @maziehirono today for the introduction\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Apr 06 13:38:39 +0000 2009",
+        "description": "U.S. Senator from the State of Oregon. Instagram: https://t.co/pECsFBm1G1",
+        "favourites_count": 602,
+        "followers_count": 446748,
+        "friends_count": 897,
+        "id": 29201047,
+        "id_str": "29201047",
+        "listed_count": 4633,
+        "location": "Oregon",
+        "name": "Senator Jeff Merkley",
+        "profile_background_color": "457292",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29201047/1473699074",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/873324219630854144/-7ZzOONo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/873324219630854144/-7ZzOONo_normal.jpg",
+        "profile_link_color": "93A427",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D9E8F2",
+        "profile_text_color": "333333",
+        "screen_name": "SenJeffMerkley",
+        "statuses_count": 10149,
+        "url": "https://t.co/uoOTYAkx5J",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 394741838,
+            "id_str": "394741838",
+            "name": "Richard Trumka",
+            "screen_name": "RichardTrumka"
+        },
+        {
+            "id": 62343633,
+            "id_str": "62343633",
+            "name": "Liz Shuler",
+            "screen_name": "lizshuler"
+        },
+        {
+            "id": 29201047,
+            "id_str": "29201047",
+            "name": "Senator Jeff Merkley",
+            "screen_name": "SenJeffMerkley"
+        },
+        {
+            "id": 92186819,
+            "id_str": "92186819",
+            "name": "Senator Mazie Hirono",
+            "screen_name": "maziehirono"
+        }
+    ]
+}

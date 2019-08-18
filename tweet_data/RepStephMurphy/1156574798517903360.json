@@ -1,0 +1,148 @@
+{
+    "created_at": "Wed Jul 31 14:38:14 +0000 2019",
+    "favorite_count": 27,
+    "hashtags": [
+        {
+            "text": "SanfordTownHall"
+        },
+        {
+            "text": "Sanford"
+        },
+        {
+            "text": "FlaPol"
+        },
+        {
+            "text": "FL07"
+        }
+    ],
+    "id": 1156574798517903360,
+    "id_str": "1156574798517903360",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/EvDStno6Tv",
+            "expanded_url": "https://twitter.com/RepStephMurphy/status/1156574798517903360/video/1",
+            "id": 1156574744407420929,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156574744407420929/pu/img/qrrxVN1etD017rYj.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156574744407420929/pu/img/qrrxVN1etD017rYj.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/EvDStno6Tv",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 15000,
+                "variants": [
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1156574744407420929/pu/vid/320x568/9WlMt5cIsj4RQ-2H.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1156574744407420929/pu/vid/360x640/28JfmncAc1P5ANe5.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1156574744407420929/pu/pl/MjGlesYGqHbIbZYl.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1156574744407420929/pu/vid/720x1280/HatvXncmu4FDF81o.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "place": {
+        "id": "0fc2eb2039946000",
+        "url": "https://api.twitter.com/1.1/geo/id/0fc2eb2039946000.json",
+        "place_type": "poi",
+        "name": "Sanford Civic Center",
+        "full_name": "Sanford Civic Center",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -81.2647151526796,
+                        28.81302007152036
+                    ],
+                    [
+                        -81.2647151526796,
+                        28.81302007152036
+                    ],
+                    [
+                        -81.2647151526796,
+                        28.81302007152036
+                    ],
+                    [
+                        -81.2647151526796,
+                        28.81302007152036
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201cIn order to serve you I have to begin by listening.\u201d\n\n#SanfordTownHall #Sanford #FlaPol #FL07 https://t.co/EvDStno6Tv",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 09 02:51:57 +0000 2016",
+        "description": "Fighting for progress and proudly representing Seminole & Orange Counties in the U.S. House of Representatives. #FL07",
+        "favourites_count": 513,
+        "followers_count": 22072,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 796183515998068736,
+        "id_str": "796183515998068736",
+        "listed_count": 634,
+        "location": "Winter Park, FL",
+        "name": "Rep. Stephanie Murphy",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/796183515998068736/1562094922",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096336998003101696/KaSvMntG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096336998003101696/KaSvMntG_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepStephMurphy",
+        "statuses_count": 2506,
+        "url": "https://t.co/7stdgh39et",
+        "verified": true
+    },
+    "user_mentions": []
+}

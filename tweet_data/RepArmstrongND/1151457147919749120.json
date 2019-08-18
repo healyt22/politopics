@@ -1,0 +1,149 @@
+{
+    "created_at": "Wed Jul 17 11:42:31 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1151457147919749120,
+    "id_str": "1151457147919749120",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Wed Jul 17 11:37:00 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1151455757419704321,
+        "id_str": "1151455757419704321",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+        "text": "COMING UP| 8am: @RepArmstrongND (R-ND) on the House condemning Pres. Trump's tweets\n\n8:30am: @RepAlGreen (D-TX) on\u2026 https://t.co/BLNntFHH11",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151455757419704321",
+                "url": "https://t.co/BLNntFHH11"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 20 21:05:41 +0000 2008",
+            "description": "C-SPAN's morning call-in program. Live every day from 7-10am ET with guests taking your calls and tweets. Join the conversation. https://t.co/WVBy5wxXOa",
+            "favourites_count": 1592,
+            "followers_count": 62856,
+            "friends_count": 5268,
+            "geo_enabled": true,
+            "id": 15923226,
+            "id_str": "15923226",
+            "listed_count": 1968,
+            "location": "Washington, DC",
+            "name": "Washington Journal",
+            "profile_background_color": "E3B456",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15923226/1552906192",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107594845097549824/wKKVt_lV_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107594845097549824/wKKVt_lV_normal.png",
+            "profile_link_color": "0E1259",
+            "profile_sidebar_border_color": "F2DB43",
+            "profile_sidebar_fill_color": "D1A347",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "cspanwj",
+            "statuses_count": 40636,
+            "url": "https://t.co/S60LwkBFso",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1080515866255593472,
+                "id_str": "1080515866255593472",
+                "name": "Congressman Kelly Armstrong",
+                "screen_name": "RepArmstrongND"
+            },
+            {
+                "id": 156333623,
+                "id_str": "156333623",
+                "name": "Congressman Al Green",
+                "screen_name": "RepAlGreen"
+            }
+        ]
+    },
+    "quoted_status_id": 1151455757419704321,
+    "quoted_status_id_str": "1151455757419704321",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Looking forward to joining @cspanwj in a few minutes! https://t.co/NvBrbgRuxj",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/cspanwj/status/1151455757419704321",
+            "url": "https://t.co/NvBrbgRuxj"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 17:27:12 +0000 2019",
+        "default_profile": true,
+        "description": "I'm a lifelong, devoted North Dakotan and a tireless advocate for making North Dakota a better place to live and work.",
+        "favourites_count": 236,
+        "followers_count": 8783,
+        "friends_count": 227,
+        "geo_enabled": true,
+        "id": 1080515866255593472,
+        "id_str": "1080515866255593472",
+        "listed_count": 156,
+        "location": "Dickinson, ND and Washington, DC",
+        "name": "Congressman Kelly Armstrong",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080515866255593472/1563561647",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080879174972264449/PE5-7Tn1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080879174972264449/PE5-7Tn1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepArmstrongND",
+        "statuses_count": 503,
+        "url": "https://t.co/bFYBcIEV4G",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15923226,
+            "id_str": "15923226",
+            "name": "Washington Journal",
+            "screen_name": "cspanwj"
+        }
+    ]
+}

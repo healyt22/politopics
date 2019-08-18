@@ -1,0 +1,79 @@
+{
+    "created_at": "Mon Jun 17 11:16:02 +0000 2019",
+    "favorite_count": 62,
+    "hashtags": [],
+    "id": 1140578845713666048,
+    "id_str": "1140578845713666048",
+    "lang": "en",
+    "place": {
+        "id": "3cd12646c811c87e",
+        "url": "https://api.twitter.com/1.1/geo/id/3cd12646c811c87e.json",
+        "place_type": "city",
+        "name": "Bismarck",
+        "full_name": "Bismarck, ND",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -100.839587,
+                        46.756481
+                    ],
+                    [
+                        -100.68871,
+                        46.756481
+                    ],
+                    [
+                        -100.68871,
+                        46.9033258
+                    ],
+                    [
+                        -100.839587,
+                        46.9033258
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 15,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "A flag worth dying for is worth protecting. https://t.co/ekXBjo160k",
+    "urls": [
+        {
+            "expanded_url": "http://www.fox13news.com/news/politics/trump-backs-bill-to-ban-flag-burning-a-no-brainer",
+            "url": "https://t.co/ekXBjo160k"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 30 20:54:06 +0000 2012",
+        "description": "Representing the great people of North Dakota in the United States Senate.",
+        "favourites_count": 139,
+        "followers_count": 19670,
+        "friends_count": 497,
+        "geo_enabled": true,
+        "id": 1048784496,
+        "id_str": "1048784496",
+        "listed_count": 802,
+        "name": "Sen. Kevin Cramer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048784496/1546464991",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenKevinCramer",
+        "statuses_count": 3909,
+        "url": "https://t.co/M4l7PNHhUi",
+        "verified": true
+    },
+    "user_mentions": []
+}

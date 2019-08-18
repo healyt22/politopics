@@ -1,0 +1,105 @@
+{
+    "created_at": "Thu Dec 21 19:45:40 +0000 2017",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "DreamActNOW"
+        }
+    ],
+    "id": 943930489030807553,
+    "id_str": "943930489030807553",
+    "in_reply_to_screen_name": "RepLujanGrisham",
+    "in_reply_to_user_id": 1061385474,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/cQiKH33gqB",
+            "expanded_url": "https://twitter.com/RepFilemonVela/status/943930489030807553/photo/1",
+            "id": 943930474593894400,
+            "media_url": "http://pbs.twimg.com/media/DRmDw_bVwAAUcIU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRmDw_bVwAAUcIU.jpg",
+            "sizes": {
+                "large": {
+                    "w": 1534,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 509,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 899,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/cQiKH33gqB"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RepLujanGrisham, @RepGutierrez, @RepGrijalvaCS, and me waiting to speak to @SenSchumer #DreamActNOW \ud83d\udde3\ud83d\udde3\ud83d\udde3 https://t.co/cQiKH33gqB",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Jan 12 16:24:06 +0000 2013",
+        "description": "U.S. Congressman for the 34th District of Texas - Privileged to represent South Texans.",
+        "favourites_count": 218,
+        "followers_count": 15883,
+        "friends_count": 387,
+        "geo_enabled": true,
+        "id": 1083448909,
+        "id_str": "1083448909",
+        "listed_count": 711,
+        "location": "District 34, Texas",
+        "name": "US Rep. Filemon Vela",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083448909/1399392026",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463712019523194880/pM1rWMry_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463712019523194880/pM1rWMry_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepFilemonVela",
+        "statuses_count": 1397,
+        "url": "https://t.co/PYuChi0OLA",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1061385474,
+            "id_str": "1061385474",
+            "name": "MichelleLujanGrisham",
+            "screen_name": "RepLujanGrisham"
+        },
+        {
+            "id": 36948268,
+            "id_str": "36948268",
+            "name": "Luis V. Gutierrez",
+            "screen_name": "RepGutierrez"
+        },
+        {
+            "id": 193137410,
+            "id_str": "193137410",
+            "name": "Rep. Raul Grijalva",
+            "screen_name": "RepGrijalvaCS"
+        },
+        {
+            "id": 17494010,
+            "id_str": "17494010",
+            "name": "Chuck Schumer",
+            "screen_name": "SenSchumer"
+        }
+    ]
+}

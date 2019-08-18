@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Apr 26 16:29:03 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "ksleg"
+        },
+        {
+            "text": "ks02"
+        },
+        {
+            "text": "Winning"
+        }
+    ],
+    "id": 1121813448701222912,
+    "id_str": "1121813448701222912",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Apr 26 12:30:54 +0000 2019",
+        "favorite_count": 4592,
+        "hashtags": [],
+        "id": 1121753519382519808,
+        "id_str": "1121753519382519808",
+        "lang": "en",
+        "retweet_count": 2048,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "BREAKING: US first-quarter GDP rose 3.2%, vs 2.5% growth expected https://t.co/C7HDOV0JuN",
+        "urls": [
+            {
+                "expanded_url": "https://cnb.cx/2VtyWho",
+                "url": "https://t.co/C7HDOV0JuN"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 25 19:48:57 +0000 2009",
+            "description": "Breaking news, real-time market updates & more from @CNBC.",
+            "favourites_count": 2,
+            "followers_count": 381735,
+            "friends_count": 52,
+            "geo_enabled": true,
+            "id": 26574283,
+            "id_str": "26574283",
+            "listed_count": 7270,
+            "name": "CNBC Now",
+            "profile_background_color": "010C13",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26574283/1533323170",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1025457837026275329/F51xxiuX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025457837026275329/F51xxiuX_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CCCCCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CNBCnow",
+            "statuses_count": 38589,
+            "url": "https://t.co/xNSucapdhO",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1121753519382519808,
+    "quoted_status_id_str": "1121753519382519808",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The economy continues to boom thanks to @realDonaldTrump ! \n\n#ksleg #ks02 #3.2% #Winning https://t.co/GTyKYRr1pv",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/CNBCnow/status/1121753519382519808",
+            "url": "https://t.co/GTyKYRr1pv"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 03:38:10 +0000 2019",
+        "default_profile": true,
+        "description": "Representing Kansas\u2019 2nd District in Congress",
+        "favourites_count": 72,
+        "followers_count": 2830,
+        "friends_count": 2814,
+        "id": 1080307235350241280,
+        "id_str": "1080307235350241280",
+        "listed_count": 101,
+        "location": "Topeka, KS",
+        "name": "Rep. Steve Watkins",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080307235350241280/1560113721",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137822687261339648/72oI1Vb9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137822687261339648/72oI1Vb9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Rep_Watkins",
+        "statuses_count": 389,
+        "url": "https://t.co/NOVR7WJIol",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

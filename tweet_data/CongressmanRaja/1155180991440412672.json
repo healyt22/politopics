@@ -1,0 +1,134 @@
+{
+    "created_at": "Sat Jul 27 18:19:45 +0000 2019",
+    "favorite_count": 18,
+    "hashtags": [],
+    "id": 1155180991440412672,
+    "id_str": "1155180991440412672",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/8WantTmpYz",
+            "expanded_url": "https://twitter.com/CongressmanRaja/status/1155180991440412672/photo/1",
+            "id": 1155180985467723777,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EAgG_GIW4AE8UrW.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EAgG_GIW4AE8UrW.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 240,
+                    "h": 100,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 100,
+                    "h": 100,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 240,
+                    "h": 100,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 240,
+                    "h": 100,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/8WantTmpYz",
+            "video_info": {
+                "aspect_ratio": [
+                    12,
+                    5
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/EAgG_GIW4AE8UrW.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "quoted_status": {
+        "created_at": "Thu Sep 01 10:31:17 +0000 2016",
+        "favorite_count": 59637,
+        "hashtags": [],
+        "id": 771294347501461504,
+        "id_str": "771294347501461504",
+        "lang": "en",
+        "retweet_count": 38447,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Mexico will pay for the wall!",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+            "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+            "favourites_count": 7,
+            "followers_count": 63207841,
+            "friends_count": 47,
+            "geo_enabled": true,
+            "id": 25073877,
+            "id_str": "25073877",
+            "listed_count": 106977,
+            "location": "Washington, DC",
+            "name": "Donald J. Trump",
+            "profile_background_color": "6D5C18",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "C5CEC0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "realDonaldTrump",
+            "statuses_count": 43579,
+            "url": "https://t.co/OMxB0x7xC5",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 771294347501461504,
+    "quoted_status_id_str": "771294347501461504",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "https://t.co/FfkczXPcJN https://t.co/8WantTmpYz",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/realDonaldTrump/status/771294347501461504",
+            "url": "https://t.co/FfkczXPcJN"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 28 18:39:42 +0000 2016",
+        "default_profile": true,
+        "description": "Official Twitter account of Congressman   Raja Krishnamoorthi, representing Illinois' 8th Congressional District.",
+        "favourites_count": 1262,
+        "followers_count": 17877,
+        "friends_count": 1772,
+        "id": 814179031956488192,
+        "id_str": "814179031956488192",
+        "listed_count": 508,
+        "location": "Schaumburg, IL",
+        "name": "Raja Krishnamoorthi",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814179031956488192/1483562500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanRaja",
+        "statuses_count": 3730,
+        "url": "https://t.co/zHGbk8wDWc",
+        "verified": true
+    },
+    "user_mentions": []
+}

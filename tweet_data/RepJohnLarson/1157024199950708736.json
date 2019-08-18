@@ -1,0 +1,80 @@
+{
+    "created_at": "Thu Aug 01 20:24:00 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1157024199950708736,
+    "id_str": "1157024199950708736",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/pcZ984BiNE",
+            "expanded_url": "https://twitter.com/RepJohnLarson/status/1157024199950708736/photo/1",
+            "id": 1157024194829402112,
+            "media_url": "http://pbs.twimg.com/media/EA6TYAFWwAA77TI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EA6TYAFWwAA77TI.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 453,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 799,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1364,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/pcZ984BiNE"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Catch me on Face the State with @DennisHouseTV this Sunday at 8:30 AM! https://t.co/pcZ984BiNE",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 24 21:47:31 +0000 2009",
+        "description": "Member of Congress representing the First  District of Connecticut.",
+        "favourites_count": 196,
+        "followers_count": 25371,
+        "friends_count": 689,
+        "id": 50452197,
+        "id_str": "50452197",
+        "listed_count": 1058,
+        "location": "Hartford, CT",
+        "name": "Rep. John Larson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50452197/1557852570",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979449416129097728/q0pTyqB9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979449416129097728/q0pTyqB9_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJohnLarson",
+        "statuses_count": 3685,
+        "url": "https://t.co/2WXsNSQ5rW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 57431229,
+            "id_str": "57431229",
+            "name": "Dennis House",
+            "screen_name": "DennisHouseTV"
+        }
+    ]
+}

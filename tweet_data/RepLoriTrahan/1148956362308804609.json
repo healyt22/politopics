@@ -1,0 +1,80 @@
+{
+    "created_at": "Wed Jul 10 14:05:18 +0000 2019",
+    "favorite_count": 18,
+    "hashtags": [],
+    "id": 1148956362308804609,
+    "id_str": "1148956362308804609",
+    "lang": "en",
+    "place": {
+        "id": "07d9e38a04c88000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e38a04c88000.json",
+        "place_type": "poi",
+        "name": "Library of Congress",
+        "full_name": "Library of Congress",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.00523797717473,
+                        38.88868144883415
+                    ],
+                    [
+                        -77.00523797717473,
+                        38.88868144883415
+                    ],
+                    [
+                        -77.00523797717473,
+                        38.88868144883415
+                    ],
+                    [
+                        -77.00523797717473,
+                        38.88868144883415
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "33 states have passed policies to increase access to Computer Science (CS) in K-12 but we\nneed to ensure these poli\u2026 https://t.co/kx1eYjCXvn",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1148956362308804609",
+            "url": "https://t.co/kx1eYjCXvn"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 31 18:12:28 +0000 2018",
+        "description": "Proudly representing Massachusetts' 3rd Congressional District in the United States Congress.",
+        "favourites_count": 1507,
+        "followers_count": 13429,
+        "friends_count": 812,
+        "geo_enabled": true,
+        "id": 1079802482640019456,
+        "id_str": "1079802482640019456",
+        "listed_count": 220,
+        "location": "Massachusetts, USA",
+        "name": "Congresswoman Lori Trahan",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079802482640019456/1563635553",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1079802597366788102/iwByLB57_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079802597366788102/iwByLB57_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepLoriTrahan",
+        "statuses_count": 1478,
+        "url": "https://t.co/H4NmF9Ma2f",
+        "verified": true
+    },
+    "user_mentions": []
+}

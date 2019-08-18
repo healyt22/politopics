@@ -1,0 +1,107 @@
+{
+    "created_at": "Tue Jul 30 05:07:57 +0000 2019",
+    "favorite_count": 115,
+    "hashtags": [],
+    "id": 1156068893871366145,
+    "id_str": "1156068893871366145",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/XGR4HgE5Sl",
+            "expanded_url": "https://twitter.com/RepRiggleman/status/1156068893871366145/video/1",
+            "id": 1156068558045995010,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156068558045995010/pu/img/CAx3NerRS1hheGkG.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156068558045995010/pu/img/CAx3NerRS1hheGkG.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/XGR4HgE5Sl",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 52638,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1156068558045995010/pu/vid/360x640/ythG3DtmMKYNX002.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1156068558045995010/pu/pl/mU4u1n4YGrdUdN2A.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1156068558045995010/pu/vid/320x568/r3nWLo5NS-IHpPgB.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1156068558045995010/pu/vid/720x1280/Vm2Pr88wtKGOPqiT.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 41,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Tonight I went on a ride-along with @CBP Border Patrol. https://t.co/XGR4HgE5Sl",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 16:40:09 +0000 2019",
+        "default_profile": true,
+        "description": "Official Twitter for Congressman Denver Riggleman, proudly representing VA-05",
+        "favourites_count": 138,
+        "followers_count": 4123,
+        "friends_count": 98,
+        "id": 1080504024695222273,
+        "id_str": "1080504024695222273",
+        "listed_count": 131,
+        "location": "Nelson County, VA",
+        "name": "Congressman Denver Riggleman",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080504024695222273/1546470119",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080504233311551490/MieXr9k1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080504233311551490/MieXr9k1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRiggleman",
+        "statuses_count": 746,
+        "url": "https://t.co/FzMaNM6XGR",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16613128,
+            "id_str": "16613128",
+            "name": "CBP",
+            "screen_name": "CBP"
+        }
+    ]
+}

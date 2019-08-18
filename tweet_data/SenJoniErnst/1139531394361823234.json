@@ -1,0 +1,108 @@
+{
+    "created_at": "Fri Jun 14 13:53:50 +0000 2019",
+    "favorite_count": 525,
+    "hashtags": [],
+    "id": 1139531394361823234,
+    "id_str": "1139531394361823234",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/U1iuO7rqti",
+            "expanded_url": "https://twitter.com/SenJoniErnst/status/1139531394361823234/video/1",
+            "id": 1139530933219069953,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1139530933219069953/img/2eiUHHFZ0UaM0RH_.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1139530933219069953/img/2eiUHHFZ0UaM0RH_.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/U1iuO7rqti",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 58959,
+                "variants": [
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1139530933219069953/vid/320x320/NHBGoW_c_TzvoPkj.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1139530933219069953/pl/1vktva9fk1OwHt2l.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1139530933219069953/vid/720x720/iGqJiauEw62ruwJ9.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1139530933219069953/vid/480x480/3sSGVder_W5qu-ve.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 68,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Happy 244th birthday to the great @USArmy! https://t.co/U1iuO7rqti",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Nov 02 13:32:54 +0000 2014",
+        "description": "Follow for news and updates from the Office of Iowa Senator Joni K. Ernst. Tweets from Joni are signed JKE.",
+        "favourites_count": 134,
+        "followers_count": 61490,
+        "friends_count": 146,
+        "geo_enabled": true,
+        "id": 2856787757,
+        "id_str": "2856787757",
+        "listed_count": 1232,
+        "location": "Iowa",
+        "name": "Joni Ernst",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856787757/1458665236",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088183053669855232/GVWfopWd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088183053669855232/GVWfopWd_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "SenJoniErnst",
+        "statuses_count": 3064,
+        "url": "http://t.co/zUYK5PQEOd",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 8775672,
+            "id_str": "8775672",
+            "name": "U.S. Army",
+            "screen_name": "USArmy"
+        }
+    ]
+}

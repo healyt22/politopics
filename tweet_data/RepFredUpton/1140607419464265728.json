@@ -1,0 +1,116 @@
+{
+    "created_at": "Mon Jun 17 13:09:34 +0000 2019",
+    "hashtags": [],
+    "id": 1140607419464265728,
+    "id_str": "1140607419464265728",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Jun 17 12:03:46 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1140590859286646786,
+        "id_str": "1140590859286646786",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Great turnout for @MWCoastChamber breakfast and Q&amp;A w/ @RepFredUpton. Top issues the audience wants to hear about:\u2026 https://t.co/q7CaIchmR8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1140590859286646786",
+                "url": "https://t.co/q7CaIchmR8"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 19 15:44:50 +0000 2010",
+            "description": "VP of Government Affairs @GRChamber | Father of 2 Amazing Boys and a Strong Baby Girl | Married to a Radiant Goddess | Proud Spartan | Golfer (ball and disc) |",
+            "favourites_count": 2601,
+            "followers_count": 1837,
+            "friends_count": 1221,
+            "geo_enabled": true,
+            "id": 115694556,
+            "id_str": "115694556",
+            "listed_count": 72,
+            "location": "Grand Rapids, MI",
+            "name": "Andy Johnston",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3212690263/59256d9ce69d757b3c786ba89e5807f3_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3212690263/59256d9ce69d757b3c786ba89e5807f3_normal.jpeg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AndyTJohnston",
+            "statuses_count": 3066,
+            "url": "https://t.co/Q3csmbmT0Q"
+        },
+        "user_mentions": [
+            {
+                "id": 26493911,
+                "id_str": "26493911",
+                "name": "West Coast Chamber",
+                "screen_name": "MWCoastChamber"
+            },
+            {
+                "id": 124224165,
+                "id_str": "124224165",
+                "name": "Fred Upton",
+                "screen_name": "RepFredUpton"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @AndyTJohnston: Great turnout for @MWCoastChamber breakfast and Q&amp;A w/ @RepFredUpton. Top issues the audience wants to hear about: trade\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 18 17:34:35 +0000 2010",
+        "description": "Call me Fred. Husband, Dad, & proud to represent Southwest Michigan.",
+        "favourites_count": 2154,
+        "followers_count": 26567,
+        "friends_count": 2040,
+        "geo_enabled": true,
+        "id": 124224165,
+        "id_str": "124224165",
+        "listed_count": 1254,
+        "location": "St. Joseph, Michigan",
+        "name": "Fred Upton",
+        "profile_background_color": "91D5EC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124224165/1554902865",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1133025054676201472/ZeYuIcgN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133025054676201472/ZeYuIcgN_normal.png",
+        "profile_link_color": "5A5D5E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "91D5EC",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepFredUpton",
+        "statuses_count": 6334,
+        "url": "https://t.co/3thchERYkn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 115694556,
+            "id_str": "115694556",
+            "name": "Andy Johnston",
+            "screen_name": "AndyTJohnston"
+        },
+        {
+            "id": 26493911,
+            "id_str": "26493911",
+            "name": "West Coast Chamber",
+            "screen_name": "MWCoastChamber"
+        },
+        {
+            "id": 124224165,
+            "id_str": "124224165",
+            "name": "Fred Upton",
+            "screen_name": "RepFredUpton"
+        }
+    ]
+}

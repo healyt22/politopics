@@ -1,0 +1,123 @@
+{
+    "created_at": "Fri Apr 12 15:09:00 +0000 2019",
+    "hashtags": [
+        {
+            "text": "BornAlive"
+        }
+    ],
+    "id": 1116719876033392641,
+    "id_str": "1116719876033392641",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Apr 12 15:06:51 +0000 2019",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 1116719332464168962,
+        "id_str": "1116719332464168962",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you @RepRussFulcher for your leadership. @SpeakerPelosi continues to deny the requests of members to bring\u2026 https://t.co/5T3LK3N3qs",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1116719332464168962",
+                "url": "https://t.co/5T3LK3N3qs"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 03 16:18:34 +0000 2009",
+            "description": "Concerned Women for America is the nation's largest public policy women's organization. Follow our CEO and President, @PYNance. [RT/follow/fav \u2260 endorsement]",
+            "favourites_count": 3443,
+            "followers_count": 12502,
+            "friends_count": 6175,
+            "geo_enabled": true,
+            "id": 19980678,
+            "id_str": "19980678",
+            "listed_count": 370,
+            "location": "Washington. DC",
+            "name": "CWA LAC",
+            "profile_background_color": "141914",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19980678/1549377020",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1052580693073686529/Pcpm8lfd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052580693073686529/Pcpm8lfd_normal.jpg",
+            "profile_link_color": "9D1C1F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "CWforA",
+            "statuses_count": 17914,
+            "url": "https://t.co/S7EWOytane",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1078741899572240384,
+                "id_str": "1078741899572240384",
+                "name": "Rep. Russ Fulcher",
+                "screen_name": "RepRussFulcher"
+            },
+            {
+                "id": 15764644,
+                "id_str": "15764644",
+                "name": "Nancy Pelosi",
+                "screen_name": "SpeakerPelosi"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CWforA: Thank you @RepRussFulcher for your leadership. @SpeakerPelosi continues to deny the requests of members to bring #BornAlive to\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 28 19:58:05 +0000 2018",
+        "default_profile": true,
+        "description": "The Official Account of Idaho's First District Congressman Russ Fulcher. #ID01",
+        "favourites_count": 172,
+        "followers_count": 1980,
+        "friends_count": 172,
+        "geo_enabled": true,
+        "id": 1078741899572240384,
+        "id_str": "1078741899572240384",
+        "listed_count": 110,
+        "location": "Washington, DC",
+        "name": "Rep. Russ Fulcher",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078741899572240384/1546614126",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1084841551463882753/ul2xePnL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084841551463882753/ul2xePnL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRussFulcher",
+        "statuses_count": 269,
+        "url": "https://t.co/DyAxM4ZKef",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19980678,
+            "id_str": "19980678",
+            "name": "CWA LAC",
+            "screen_name": "CWforA"
+        },
+        {
+            "id": 1078741899572240384,
+            "id_str": "1078741899572240384",
+            "name": "Rep. Russ Fulcher",
+            "screen_name": "RepRussFulcher"
+        },
+        {
+            "id": 15764644,
+            "id_str": "15764644",
+            "name": "Nancy Pelosi",
+            "screen_name": "SpeakerPelosi"
+        }
+    ]
+}

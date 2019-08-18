@@ -1,0 +1,147 @@
+{
+    "created_at": "Wed Jun 12 14:33:34 +0000 2019",
+    "favorite_count": 19,
+    "hashtags": [
+        {
+            "text": "maple"
+        }
+    ],
+    "id": 1138816616274288640,
+    "id_str": "1138816616274288640",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 11 22:00:16 +0000 2019",
+        "favorite_count": 69,
+        "hashtags": [
+            {
+                "text": "BREAKING"
+            },
+            {
+                "text": "Vt"
+            }
+        ],
+        "id": 1138566645214064642,
+        "id_str": "1138566645214064642",
+        "lang": "en",
+        "place": {
+            "id": "9aa25269f04766ab",
+            "url": "https://api.twitter.com/1.1/geo/id/9aa25269f04766ab.json",
+            "place_type": "admin",
+            "name": "Vermont",
+            "full_name": "Vermont, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.437741,
+                            42.726853
+                        ],
+                        [
+                            -71.464604,
+                            42.726853
+                        ],
+                        [
+                            -71.464604,
+                            45.01666
+                        ],
+                        [
+                            -73.437741,
+                            45.01666
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 18,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#BREAKING. \ud83c\udf41 #Vt leads U.S. in maple. 2.07 million gallons produced in 2019. That\u2019s 7% more than last year. Many su\u2026 https://t.co/gJNYw3yG6P",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138566645214064642",
+                "url": "https://t.co/gJNYw3yG6P"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 29 19:49:53 +0000 2009",
+            "default_profile": true,
+            "description": "VT Secretary of Agriculture, Food & Markets. Communication, Respect, Trust. Former News Director at WCAX-TV & WDEV Radio.",
+            "favourites_count": 7212,
+            "followers_count": 3289,
+            "friends_count": 2547,
+            "geo_enabled": true,
+            "id": 61279019,
+            "id_str": "61279019",
+            "listed_count": 94,
+            "location": "Cabot, Vt",
+            "name": "Anson Tebbetts",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/61279019/1421415355",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000266345847/d9be556284027f2621d103a826553829_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000266345847/d9be556284027f2621d103a826553829_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "anson_ag",
+            "statuses_count": 390,
+            "url": "https://t.co/4WzMSFAVNl"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138566645214064642,
+    "quoted_status_id_str": "1138566645214064642",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Pure Vermont #maple is the best in the world! @vermont_maple https://t.co/pfZqUmZX7f",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/anson_ag/status/1138566645214064642",
+            "url": "https://t.co/pfZqUmZX7f"
+        }
+    ],
+    "user": {
+        "created_at": "Tue May 07 16:10:47 +0000 2013",
+        "description": "Official Twitter Account for Congressman Peter Welch, proudly representing the great state of Vermont in the U.S. House of Representatives.",
+        "favourites_count": 97,
+        "followers_count": 18362,
+        "friends_count": 1977,
+        "geo_enabled": true,
+        "id": 1410590874,
+        "id_str": "1410590874",
+        "listed_count": 826,
+        "location": "Vermont and Washington, DC",
+        "name": "Rep. Peter Welch",
+        "profile_background_color": "F2FBFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410590874/1470422800",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593413173455257600/o0GKZGhi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593413173455257600/o0GKZGhi_normal.jpg",
+        "profile_link_color": "023D1D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "PeterWelch",
+        "statuses_count": 2324,
+        "url": "http://t.co/P7VlnuEP0v",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 250439366,
+            "id_str": "250439366",
+            "name": "Vermont Maple Syrup",
+            "screen_name": "vermont_maple"
+        }
+    ]
+}

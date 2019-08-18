@@ -1,0 +1,106 @@
+{
+    "created_at": "Fri Aug 09 21:24:00 +0000 2019",
+    "favorite_count": 18,
+    "hashtags": [],
+    "id": 1159938401761501184,
+    "id_str": "1159938401761501184",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Aug 09 16:15:06 +0000 2019",
+        "favorite_count": 462,
+        "hashtags": [],
+        "id": 1159860664493662208,
+        "id_str": "1159860664493662208",
+        "lang": "en",
+        "retweet_count": 149,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "\ud83d\udc3b Happy 75th birthday, Smokey Bear! \ud83d\udc3b https://t.co/XKq354CUjZ",
+        "urls": [
+            {
+                "expanded_url": "https://n.pr/2KFrd8n",
+                "url": "https://t.co/XKq354CUjZ"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 03 14:45:05 +0000 2007",
+            "description": "Political coverage and conversation from @NPR. Check out the NPR Politics podcast https://t.co/uEWQ8L0XzO and subscribe to our newsletter https://t.co/mqP6dZvuIc",
+            "favourites_count": 1731,
+            "followers_count": 2800357,
+            "friends_count": 99328,
+            "id": 5741722,
+            "id_str": "5741722",
+            "listed_count": 30920,
+            "location": "Washington, DC",
+            "name": "NPR Politics",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5741722/1484753897",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/632194867918163968/fZtGr19H_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/632194867918163968/fZtGr19H_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nprpolitics",
+            "statuses_count": 74497,
+            "url": "https://t.co/46mWjkSa5C",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1159860664493662208,
+    "quoted_status_id_str": "1159860664493662208",
+    "retweet_count": 2,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Happy 75th Birthday, Smokey! Across Colorado and the US, @smokey_bear and @forestservice have done vital work in fi\u2026 https://t.co/DoVtADuZFL",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1159938401761501184",
+            "url": "https://t.co/DoVtADuZFL"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Feb 10 22:17:52 +0000 2009",
+        "description": "Member of Congress, proudly representing the 7th District of Colorado https://t.co/wLRJaGd9rX",
+        "favourites_count": 1624,
+        "followers_count": 33176,
+        "friends_count": 4510,
+        "id": 20552026,
+        "id_str": "20552026",
+        "listed_count": 1376,
+        "location": "Colorado",
+        "name": "Rep. Ed Perlmutter",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20552026/1403113187",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978292192803422208/H3i3We-O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978292192803422208/H3i3We-O_normal.jpg",
+        "profile_link_color": "0400B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPerlmutter",
+        "statuses_count": 5541,
+        "url": "http://t.co/NZmeXSnqTP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21872782,
+            "id_str": "21872782",
+            "name": "Smokey Bear",
+            "screen_name": "smokey_bear"
+        },
+        {
+            "id": 20867568,
+            "id_str": "20867568",
+            "name": "USDA Forest Service",
+            "screen_name": "forestservice"
+        }
+    ]
+}

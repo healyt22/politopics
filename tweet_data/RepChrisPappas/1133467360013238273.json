@@ -1,0 +1,171 @@
+{
+    "created_at": "Tue May 28 20:17:32 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [
+        {
+            "text": "StanleyCup"
+        }
+    ],
+    "id": 1133467360013238273,
+    "id_str": "1133467360013238273",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 28 03:34:57 +0000 2019",
+        "favorite_count": 7906,
+        "hashtags": [
+            {
+                "text": "NHLBruins"
+            }
+        ],
+        "id": 1133215054772559872,
+        "id_str": "1133215054772559872",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/AzbOowmCur",
+                "expanded_url": "https://twitter.com/NHLBruins/status/1133215054772559872/video/1",
+                "id": 1133214393062313984,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1133214393062313984/img/ocyeHEBfmrgHfvWa.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1133214393062313984/img/ocyeHEBfmrgHfvWa.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 896,
+                        "h": 504,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 896,
+                        "h": 504,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/AzbOowmCur",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 79947,
+                    "variants": [
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1133214393062313984/vid/320x180/0NlJGnDHJ2CpD5Vd.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1133214393062313984/vid/640x360/ypSmKAgKsBKN30R8.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1133214393062313984/vid/896x504/V2EArflBNmzuF5e1.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1133214393062313984/pl/Y8wY_7kGbNYAwncJ.m3u8?tag=12"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 1799,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": ".@ToreyKrug: closet linebacker.\n\n#NHLBruins https://t.co/AzbOowmCur",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jun 02 17:51:52 +0000 2009",
+            "description": "Official Twitter Home of the Boston Bruins #NHLBruins",
+            "favourites_count": 4823,
+            "followers_count": 1497603,
+            "friends_count": 39,
+            "geo_enabled": true,
+            "id": 44166798,
+            "id_str": "44166798",
+            "listed_count": 7423,
+            "location": "Boston, MA",
+            "name": "Boston Bruins",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/44166798/1560393816",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1086761189382721536/H3XXzKpi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086761189382721536/H3XXzKpi_normal.jpg",
+            "profile_link_color": "9E0202",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F1F1F1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NHLBruins",
+            "statuses_count": 91301,
+            "url": "https://t.co/yT63yrOrhF",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1126004070,
+                "id_str": "1126004070",
+                "name": "Torey Krug",
+                "screen_name": "ToreyKrug"
+            }
+        ]
+    },
+    "quoted_status_id": 1133215054772559872,
+    "quoted_status_id_str": "1133215054772559872",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Go @NHLBruins! An exciting comeback victory last night in the #StanleyCup Final. One step closer to 3 straight Bost\u2026 https://t.co/aGJK0oP8DF",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1133467360013238273",
+            "url": "https://t.co/aGJK0oP8DF"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 28 11:54:50 +0000 2018",
+        "default_profile": true,
+        "description": "Member of Congress serving New Hampshire's 1st District | Life-long Manchester Resident, former Executive Councilor for District 4 | #NH01",
+        "favourites_count": 278,
+        "followers_count": 7013,
+        "friends_count": 595,
+        "geo_enabled": true,
+        "id": 1067748650485497862,
+        "id_str": "1067748650485497862",
+        "listed_count": 164,
+        "location": "Manchester, NH",
+        "name": "Congressman Chris Pappas",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067748650485497862/1560283895",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083084908640305153/OXrPrfxD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083084908640305153/OXrPrfxD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChrisPappas",
+        "statuses_count": 811,
+        "url": "https://t.co/4EQmOIv1cZ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 44166798,
+            "id_str": "44166798",
+            "name": "Boston Bruins",
+            "screen_name": "NHLBruins"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "created_at": "Mon May 20 18:35:39 +0000 2019",
+    "hashtags": [],
+    "id": 1130542618428026880,
+    "id_str": "1130542618428026880",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Mon May 20 15:05:16 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1130489675855159296,
+        "id_str": "1130489675855159296",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Announcing the 4th annual Capitol Hill Maker Faire on June 24th! Free and open to the public. Panels during the day\u2026 https://t.co/W97d6BEPPn",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1130489675855159296",
+                "url": "https://t.co/W97d6BEPPn"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 19 15:37:12 +0000 2014",
+            "default_profile": true,
+            "description": "Official Twitter handle of the Congressional Maker Caucus CoChairs:@RepTimRyan @SusanWBrooks @RepMarkTakano @RepSteveStivers",
+            "favourites_count": 122,
+            "followers_count": 1403,
+            "friends_count": 693,
+            "geo_enabled": true,
+            "id": 2398066861,
+            "id_str": "2398066861",
+            "listed_count": 64,
+            "name": "Maker Caucus",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2398066861/1458657398",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/446319608660623361/nJNsr5kB_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/446319608660623361/nJNsr5kB_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MakerCaucus",
+            "statuses_count": 476
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @MakerCaucus: Announcing the 4th annual Capitol Hill Maker Faire on June 24th! Free and open to the public. Panels during the day and a\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 26 14:58:17 +0000 2012",
+        "description": "Proudly Representing California's 41st District. Chairman: @VetAffairsDems. Member: @EdLaborCmte, @USProgressives, @LGBTEqCaucus, and @CAPAC.",
+        "favourites_count": 407,
+        "followers_count": 50209,
+        "friends_count": 430,
+        "id": 1037321378,
+        "id_str": "1037321378",
+        "listed_count": 1301,
+        "location": "Riverside, CA",
+        "name": "Mark Takano",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1037321378/1552597030",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978257751825682432/xuo-Enea_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978257751825682432/xuo-Enea_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "screen_name": "RepMarkTakano",
+        "statuses_count": 3414,
+        "url": "https://t.co/deOAwy64tV",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2398066861,
+            "id_str": "2398066861",
+            "name": "Maker Caucus",
+            "screen_name": "MakerCaucus"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "created_at": "Wed Aug 15 01:21:35 +0000 2018",
+    "favorite_count": 37,
+    "hashtags": [],
+    "id": 1029538562344210432,
+    "id_str": "1029538562344210432",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/0LUjhvEIxg",
+            "expanded_url": "https://twitter.com/KYComer/status/1029538562344210432/photo/1",
+            "id": 1029538550289551361,
+            "media_url": "http://pbs.twimg.com/media/Dkmn21SUUAEnSeW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dkmn21SUUAEnSeW.jpg",
+            "sizes": {
+                "small": {
+                    "w": 679,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1112,
+                    "h": 1114,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1112,
+                    "h": 1114,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/0LUjhvEIxg"
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Proud to represent @FortCampbell &amp; visit w/America\u2019s finest! Also met w/Hopkinsville Young Professionals &amp; Rotary. https://t.co/0LUjhvEIxg",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8370,
+        "followers_count": 12016,
+        "friends_count": 786,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 327,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5820,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 330602430,
+            "id_str": "330602430",
+            "name": "FortCampbell",
+            "screen_name": "FortCampbell"
+        }
+    ]
+}

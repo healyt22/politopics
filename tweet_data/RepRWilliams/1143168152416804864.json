@@ -1,0 +1,113 @@
+{
+    "created_at": "Mon Jun 24 14:45:01 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1143168152416804864,
+    "id_str": "1143168152416804864",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 24 13:39:40 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1143151708392099841,
+        "id_str": "1143151708392099841",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "text": "For @RogerWilliamsTX, the annual Congressional Baseball Game is personal. \n\nReally great read via @adampwillis\u2026 https://t.co/EACHa1cfQZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143151708392099841",
+                "url": "https://t.co/EACHa1cfQZ"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 11 20:48:32 +0000 2009",
+            "description": "Texas Tribune editor & enthusiast.  @d_hartstein\u2019s biggest fan. Balancing a toddler and a newsroom with only occasional grace.",
+            "favourites_count": 6114,
+            "followers_count": 27752,
+            "friends_count": 1758,
+            "geo_enabled": true,
+            "id": 20626103,
+            "id_str": "20626103",
+            "listed_count": 873,
+            "location": "Austin, TX",
+            "name": "Emily Ramshaw",
+            "profile_background_color": "94D487",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20626103/1484060504",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1011365134067908608/71EikAVH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011365134067908608/71EikAVH_normal.jpg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "65B0DA",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "9F60CD",
+            "screen_name": "eramshaw",
+            "statuses_count": 34129,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18197328,
+                "id_str": "18197328",
+                "name": "Roger Williams",
+                "screen_name": "RogerWilliamsTX"
+            },
+            {
+                "id": 3303363983,
+                "id_str": "3303363983",
+                "name": "Adam Willis",
+                "screen_name": "adampwillis"
+            }
+        ]
+    },
+    "quoted_status_id": 1143151708392099841,
+    "quoted_status_id_str": "1143151708392099841",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Getting ready for @thehillbaseball this week. Play ball! \u26be\ufe0f https://t.co/THSFDQ2p3j",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/eramshaw/status/1143151708392099841",
+            "url": "https://t.co/THSFDQ2p3j"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 10 19:21:22 +0000 2013",
+        "description": "I am honored to represent the 25th Congressional District of Texas. Member of @FinancialCmte.",
+        "favourites_count": 1030,
+        "followers_count": 11559,
+        "friends_count": 704,
+        "geo_enabled": true,
+        "id": 1077446982,
+        "id_str": "1077446982",
+        "listed_count": 611,
+        "location": "Central Texas",
+        "name": "Rep. Roger Williams",
+        "profile_background_color": "DEDDE0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077446982/1547135020",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436164065665093632/aealPAUa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/436164065665093632/aealPAUa_normal.jpeg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepRWilliams",
+        "statuses_count": 4904,
+        "url": "http://t.co/JVoBEX18T4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 322754909,
+            "id_str": "322754909",
+            "name": "Congressional Game",
+            "screen_name": "thehillbaseball"
+        }
+    ]
+}

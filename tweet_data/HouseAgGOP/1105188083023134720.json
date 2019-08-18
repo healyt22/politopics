@@ -1,0 +1,92 @@
+{
+    "created_at": "Mon Mar 11 19:25:47 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "HouseAg"
+        },
+        {
+            "text": "budget2020"
+        }
+    ],
+    "id": 1105188083023134720,
+    "id_str": "1105188083023134720",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/IdALzz6E7o",
+            "expanded_url": "https://twitter.com/HouseAgGOP/status/1105188083023134720/photo/1",
+            "id": 1105188080095580164,
+            "media_url": "http://pbs.twimg.com/media/D1ZqtAwX0AQJj1_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1ZqtAwX0AQJj1_.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 750,
+                    "h": 466,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 423,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 750,
+                    "h": 466,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/IdALzz6E7o"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#HouseAg Ranking Member @ConawayTX11 reacts to the president's #budget2020: https://t.co/d1ZryfInj2 https://t.co/IdALzz6E7o",
+    "urls": [
+        {
+            "expanded_url": "https://republicans-agriculture.house.gov/news/documentsingle.aspx?DocumentID=4503",
+            "url": "https://t.co/d1ZryfInj2"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 06 00:23:09 +0000 2011",
+        "description": "News and updates from Ranking Member K. Michael Conaway (TX-11) and the House Agriculture Committee Republicans.",
+        "favourites_count": 1235,
+        "followers_count": 22322,
+        "friends_count": 1202,
+        "id": 234573331,
+        "id_str": "234573331",
+        "listed_count": 739,
+        "location": "Washington, DC",
+        "name": "House Ag GOP",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234573331/1546292390",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1079854667159519232/pPY07xeq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079854667159519232/pPY07xeq_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "HouseAgGOP",
+        "statuses_count": 6224,
+        "url": "https://t.co/uOxGCh55qL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 295685416,
+            "id_str": "295685416",
+            "name": "Mike Conaway",
+            "screen_name": "ConawayTX11"
+        }
+    ]
+}

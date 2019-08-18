@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Jun 08 02:39:34 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1137187381935792128,
+    "id_str": "1137187381935792128",
+    "lang": "en",
+    "place": {
+        "id": "d6819fe60643ebc1",
+        "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+        "place_type": "city",
+        "name": "Alexandria",
+        "full_name": "Alexandria, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.144435,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.8448531
+                    ],
+                    [
+                        -77.144435,
+                        38.8448531
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Fri Jun 07 18:34:23 +0000 2019",
+        "favorite_count": 4497,
+        "hashtags": [],
+        "id": 1137065282709676032,
+        "id_str": "1137065282709676032",
+        "lang": "en",
+        "retweet_count": 1747,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The humanitarian &amp; security crisis at our border is getting worse. Yet the Democrat-controlled committee responsibl\u2026 https://t.co/1uYfkVHx8M",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1137065282709676032",
+                "url": "https://t.co/1uYfkVHx8M"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+            "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+            "favourites_count": 1209,
+            "followers_count": 319193,
+            "friends_count": 1287,
+            "id": 1209417007,
+            "id_str": "1209417007",
+            "listed_count": 2032,
+            "location": "Jefferson, LA",
+            "name": "Steve Scalise",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+            "profile_link_color": "021F59",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SteveScalise",
+            "statuses_count": 9832,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1137065282709676032,
+    "quoted_status_id_str": "1137065282709676032",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Hear, hear! It\u2019s high time they get to work and do their part to stop the human smuggling that is occurring every d\u2026 https://t.co/NrTD1AGg7Z",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1137187381935792128",
+            "url": "https://t.co/NrTD1AGg7Z"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 03 21:57:49 +0000 2011",
+        "description": "Representing Arkansas's 1st District in the United States House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee",
+        "favourites_count": 1550,
+        "followers_count": 19067,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 233693291,
+        "id_str": "233693291",
+        "listed_count": 907,
+        "location": "Washington, DC",
+        "name": "Rep Rick Crawford",
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233693291/1514907502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_link_color": "048C09",
+        "profile_sidebar_border_color": "2E517B",
+        "profile_sidebar_fill_color": "C1CCDE",
+        "profile_text_color": "2424C7",
+        "profile_use_background_image": true,
+        "screen_name": "RepRickCrawford",
+        "statuses_count": 5300,
+        "url": "https://t.co/Bh2OlD3a1Q",
+        "verified": true
+    },
+    "user_mentions": []
+}

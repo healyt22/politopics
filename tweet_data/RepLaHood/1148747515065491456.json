@@ -1,0 +1,129 @@
+{
+    "created_at": "Wed Jul 10 00:15:24 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [
+        {
+            "text": "AllStarGame"
+        }
+    ],
+    "id": 1148747515065491456,
+    "id_str": "1148747515065491456",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 09 13:53:29 +0000 2019",
+        "favorite_count": 213,
+        "hashtags": [
+            {
+                "text": "RedbirdProud"
+            }
+        ],
+        "id": 1148591001692528641,
+        "id_str": "1148591001692528641",
+        "lang": "en",
+        "retweet_count": 26,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "We are #RedbirdProud of @RedbirdBaseball alum @RealPaulDeJong who will represent the Cardinals tonight in the @MLB\u2026 https://t.co/wa5rIIkzan",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148591001692528641",
+                "url": "https://t.co/wa5rIIkzan"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 16 20:54:12 +0000 2011",
+            "description": "The official Twitter account of #REDBIRDbaseball. #BackTheBirds",
+            "favourites_count": 2021,
+            "followers_count": 8109,
+            "friends_count": 248,
+            "geo_enabled": true,
+            "id": 356426522,
+            "id_str": "356426522",
+            "listed_count": 92,
+            "location": "Normal, Illinois",
+            "name": "Illinois State Baseball",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/356426522/1565037427",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1013795138060070913/GLJWESKi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013795138060070913/GLJWESKi_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RedbirdBaseball",
+            "statuses_count": 11744,
+            "url": "https://t.co/NlR6Sdeu1G"
+        },
+        "user_mentions": [
+            {
+                "id": 356426522,
+                "id_str": "356426522",
+                "name": "Illinois State Baseball",
+                "screen_name": "RedbirdBaseball"
+            },
+            {
+                "id": 369835920,
+                "id_str": "369835920",
+                "name": "Paul DeJong",
+                "screen_name": "RealPaulDeJong"
+            },
+            {
+                "id": 18479513,
+                "id_str": "18479513",
+                "name": "MLB",
+                "screen_name": "MLB"
+            }
+        ]
+    },
+    "quoted_status_id": 1148591001692528641,
+    "quoted_status_id_str": "1148591001692528641",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Good luck to @IllinoisStateU alum Paul DeJong in the MLB #AllStarGame tonight! https://t.co/wxr4utQ5XR",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RedbirdBaseball/status/1148591001692528641",
+            "url": "https://t.co/wxr4utQ5XR"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Sep 17 14:16:48 +0000 2015",
+        "default_profile": true,
+        "description": "Proudly representing the 18th Congressional District of Illinois. Member of @WaysandMeansGOP.",
+        "favourites_count": 1071,
+        "followers_count": 13348,
+        "friends_count": 985,
+        "geo_enabled": true,
+        "id": 3686482216,
+        "id_str": "3686482216",
+        "listed_count": 406,
+        "location": "IL-18 Congressional District",
+        "name": "Darin LaHood",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3686482216/1458225244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/884784404098428929/vAzowMaE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/884784404098428929/vAzowMaE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLaHood",
+        "statuses_count": 1744,
+        "url": "https://t.co/4Vsi29h4ty",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 41873654,
+            "id_str": "41873654",
+            "name": "Illinois State",
+            "screen_name": "IllinoisStateU"
+        }
+    ]
+}

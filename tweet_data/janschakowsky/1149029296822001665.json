@@ -1,0 +1,137 @@
+{
+    "created_at": "Wed Jul 10 18:55:06 +0000 2019",
+    "favorite_count": 41,
+    "hashtags": [],
+    "id": 1149029296822001665,
+    "id_str": "1149029296822001665",
+    "lang": "und",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Wed Jul 10 18:34:57 +0000 2019",
+        "favorite_count": 1557,
+        "hashtags": [],
+        "id": 1149024224415293441,
+        "id_str": "1149024224415293441",
+        "lang": "en",
+        "retweet_count": 500,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Just sent a letter to @POTUS w/67 of my Democratic colleagues demanding Sec Acosta resign. It makes my skin crawl w\u2026 https://t.co/ta6VWDoOCL",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149024224415293441",
+                "url": "https://t.co/ta6VWDoOCL"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 17 17:02:38 +0000 2009",
+            "default_profile": true,
+            "description": "Fearless Fighter for women\u2019s equality, LGBTQ rights & the disenfranchised. Proud mom of 2 kids & Lab Buddy, wife & Rep for CA14, America's economic powerhouse!",
+            "favourites_count": 428,
+            "followers_count": 142583,
+            "friends_count": 21883,
+            "geo_enabled": true,
+            "id": 24913074,
+            "id_str": "24913074",
+            "listed_count": 2149,
+            "name": "Jackie Speier",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24913074/1558543616",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1100059741370417152/tmWEzsjo_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100059741370417152/tmWEzsjo_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepSpeier",
+            "statuses_count": 5678,
+            "url": "https://t.co/kqVDVfirna",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 822215679726100480,
+                "id_str": "822215679726100480",
+                "name": "President Trump",
+                "screen_name": "POTUS"
+            }
+        ]
+    },
+    "quoted_status_id": 1149024224415293441,
+    "quoted_status_id_str": "1149024224415293441",
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u270d\ufe0f\ud83d\ude4b\u200d\u2640\ufe0f\ud83d\udc4b https://t.co/iG9fSK00oJ",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/repspeier/status/1149024224415293441",
+            "url": "https://t.co/iG9fSK00oJ"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Mar 13 16:03:17 +0000 2009",
+        "default_profile": true,
+        "description": "Official Twitter account for Rep. Jan Schakowsky, Illinois 9th Congressional District",
+        "favourites_count": 953,
+        "followers_count": 44005,
+        "friends_count": 1375,
+        "geo_enabled": true,
+        "id": 24195214,
+        "id_str": "24195214",
+        "listed_count": 1728,
+        "location": "Chicago, IL",
+        "name": "Jan Schakowsky",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24195214/1546478385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978337720757096448/2aKjNkwQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978337720757096448/2aKjNkwQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "janschakowsky",
+        "statuses_count": 7783,
+        "url": "https://t.co/qdNbWpywjL",
+        "verified": true
+    },
+    "user_mentions": []
+}

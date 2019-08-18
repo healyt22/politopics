@@ -1,0 +1,148 @@
+{
+    "created_at": "Thu Aug 01 21:03:34 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "USMCA"
+        }
+    ],
+    "id": 1157034156829937664,
+    "id_str": "1157034156829937664",
+    "lang": "en",
+    "place": {
+        "id": "3b77caf94bfc81fe",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+        "place_type": "city",
+        "name": "Los Angeles",
+        "full_name": "Los Angeles, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Mon Jul 29 21:15:59 +0000 2019",
+        "favorite_count": 346,
+        "hashtags": [],
+        "id": 1155950119163838465,
+        "id_str": "1155950119163838465",
+        "lang": "en",
+        "retweet_count": 163,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "NEW: Steven Mnuchin has told colleagues that during the budget negotiations Nancy Pelosi privately assured him she\u2019\u2026 https://t.co/gAlk4nvxvl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1155950119163838465",
+                "url": "https://t.co/gAlk4nvxvl"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jul 02 08:39:41 +0000 2011",
+            "default_profile": true,
+            "description": "Reporter. Send me tips: jonathan@axios.com // jonathanvswan@protonmail.com // DM me for my Signal #.",
+            "favourites_count": 9218,
+            "followers_count": 202292,
+            "friends_count": 4797,
+            "id": 327862439,
+            "id_str": "327862439",
+            "listed_count": 3232,
+            "location": "Washington D.C.",
+            "name": "Jonathan Swan",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/327862439/1481411450",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/776573397153288193/05FGnuTa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/776573397153288193/05FGnuTa_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "jonathanvswan",
+            "statuses_count": 2134,
+            "url": "https://t.co/MVY3CnKmAn",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1155950119163838465,
+    "quoted_status_id_str": "1155950119163838465",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The idea that @SpeakerPelosi has already committed to a #USMCA vote by October is FALSE.\n\n@stevenmnuchin1 is incorr\u2026 https://t.co/nD8O2KNZpe",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1157034156829937664",
+            "url": "https://t.co/nD8O2KNZpe"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Mar 04 03:56:14 +0000 2014",
+        "default_profile": true,
+        "description": "Official account for U.S. Congressman Jimmy Gomez (CA-34, Los Angeles). Cmtees: @WaysMeansCmte @OversightDems Find us on FB: https://t.co/1pRH7kHn00",
+        "favourites_count": 1047,
+        "followers_count": 11543,
+        "friends_count": 3471,
+        "geo_enabled": true,
+        "id": 2371339658,
+        "id_str": "2371339658",
+        "listed_count": 404,
+        "location": "Los Angeles, CA",
+        "name": "Rep. Jimmy Gomez",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2371339658/1522043572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978147788667027456/Sshj14W0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978147788667027456/Sshj14W0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJimmyGomez",
+        "statuses_count": 3097,
+        "url": "https://t.co/PTPcf8ooHN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15764644,
+            "id_str": "15764644",
+            "name": "Nancy Pelosi",
+            "screen_name": "SpeakerPelosi"
+        },
+        {
+            "id": 799764016885329921,
+            "id_str": "799764016885329921",
+            "name": "Steven Mnuchin",
+            "screen_name": "stevenmnuchin1"
+        }
+    ]
+}

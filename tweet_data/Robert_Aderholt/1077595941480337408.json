@@ -1,0 +1,131 @@
+{
+    "created_at": "Tue Dec 25 16:04:27 +0000 2018",
+    "favorite_count": 28,
+    "hashtags": [],
+    "id": 1077595941480337408,
+    "id_str": "1077595941480337408",
+    "lang": "et",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/fuuXpiIAXE",
+            "expanded_url": "https://twitter.com/Robert_Aderholt/status/1077595941480337408/video/1",
+            "id": 1077595863369818112,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1077595863369818112/pu/img/VGsH0EuVjE7X8TgA.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1077595863369818112/pu/img/VGsH0EuVjE7X8TgA.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 406,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 406,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/fuuXpiIAXE",
+            "video_info": {
+                "aspect_ratio": [
+                    360,
+                    203
+                ],
+                "duration_millis": 53513,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1077595863369818112/pu/pl/DBxlegpZxPaMPn0G.m3u8?tag=6"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1077595863369818112/pu/vid/318x180/PHw3wUD1gQWAMwJ-.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1077595863369818112/pu/vid/720x406/gCiAPrMNNo84OwoO.mp4?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "place": {
+        "id": "07d9e4dc23486001",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e4dc23486001.json",
+        "place_type": "poi",
+        "name": "Arab City Park",
+        "full_name": "Arab City Park",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -86.48008024494561,
+                        34.319088154669274
+                    ],
+                    [
+                        -86.48008024494561,
+                        34.319088154669274
+                    ],
+                    [
+                        -86.48008024494561,
+                        34.319088154669274
+                    ],
+                    [
+                        -86.48008024494561,
+                        34.319088154669274
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Merry Christmas! https://t.co/fuuXpiIAXE",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 22 21:16:37 +0000 2009",
+        "description": "Proudly serving the 4th Congressional District of Alabama in the United States House of Representatives",
+        "favourites_count": 291,
+        "followers_count": 25960,
+        "friends_count": 374,
+        "geo_enabled": true,
+        "id": 76452765,
+        "id_str": "76452765",
+        "listed_count": 1127,
+        "location": "Haleyville, AL",
+        "name": "Rep. Robert Aderholt",
+        "profile_background_color": "1C24B0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76452765/1563387658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_link_color": "A60C25",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Robert_Aderholt",
+        "statuses_count": 1649,
+        "verified": true
+    },
+    "user_mentions": []
+}

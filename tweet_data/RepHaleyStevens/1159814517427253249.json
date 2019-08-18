@@ -1,0 +1,128 @@
+{
+    "created_at": "Fri Aug 09 13:11:43 +0000 2019",
+    "hashtags": [
+        {
+            "text": "advanced"
+        },
+        {
+            "text": "manufacturing"
+        }
+    ],
+    "id": 1159814517427253249,
+    "id_str": "1159814517427253249",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Aug 09 12:56:06 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "advanced"
+            },
+            {
+                "text": "manufacturing"
+            }
+        ],
+        "id": 1159810585208467457,
+        "id_str": "1159810585208467457",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "ICYMI: We had the chance to host @RepHaleyStevens and @rooprajfox2 recently to talk about #advanced #manufacturing\u2026 https://t.co/o2QAIpVuNm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159810585208467457",
+                "url": "https://t.co/o2QAIpVuNm"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 07 15:45:23 +0000 2015",
+            "description": "The future is lightweight. Learn more at https://t.co/iCmZJ2J1Xl",
+            "favourites_count": 1040,
+            "followers_count": 1209,
+            "friends_count": 1140,
+            "geo_enabled": true,
+            "id": 2966187155,
+            "id_str": "2966187155",
+            "listed_count": 59,
+            "location": "Detroit, MI",
+            "name": "LIFT",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966187155/1421172098",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/555061988024254464/9WZt6QRT_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/555061988024254464/9WZt6QRT_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "NewsfromLIFT",
+            "statuses_count": 1931,
+            "url": "https://t.co/uuw4mkVkpx"
+        },
+        "user_mentions": [
+            {
+                "id": 1076161611033968640,
+                "id_str": "1076161611033968640",
+                "name": "Rep. Haley Stevens",
+                "screen_name": "RepHaleyStevens"
+            },
+            {
+                "id": 21094636,
+                "id_str": "21094636",
+                "name": "Roop Raj",
+                "screen_name": "rooprajfox2"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NewsfromLIFT: ICYMI: We had the chance to host @RepHaleyStevens and @rooprajfox2 recently to talk about #advanced #manufacturing in sou\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 21 17:04:56 +0000 2018",
+        "default_profile": true,
+        "description": "Congresswoman for Michigan's 11th District.",
+        "favourites_count": 167,
+        "followers_count": 15212,
+        "friends_count": 280,
+        "id": 1076161611033968640,
+        "id_str": "1076161611033968640",
+        "listed_count": 238,
+        "name": "Rep. Haley Stevens",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076161611033968640/1555344748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080877539986497536/65XghImd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080877539986497536/65XghImd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHaleyStevens",
+        "statuses_count": 944,
+        "url": "https://t.co/PwGtudX2Y8",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2966187155,
+            "id_str": "2966187155",
+            "name": "LIFT",
+            "screen_name": "NewsfromLIFT"
+        },
+        {
+            "id": 1076161611033968640,
+            "id_str": "1076161611033968640",
+            "name": "Rep. Haley Stevens",
+            "screen_name": "RepHaleyStevens"
+        },
+        {
+            "id": 21094636,
+            "id_str": "21094636",
+            "name": "Roop Raj",
+            "screen_name": "rooprajfox2"
+        }
+    ]
+}

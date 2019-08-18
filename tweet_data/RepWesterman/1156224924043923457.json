@@ -1,0 +1,120 @@
+{
+    "created_at": "Tue Jul 30 15:27:58 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1156224924043923457,
+    "id_str": "1156224924043923457",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jul 29 19:47:01 +0000 2019",
+        "favorite_count": 106,
+        "hashtags": [],
+        "id": 1155927727775444992,
+        "id_str": "1155927727775444992",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/EPawWli46N",
+                "expanded_url": "https://twitter.com/Ouachita/status/1155927727775444992/photo/1",
+                "id": 1155927725867245569,
+                "media_url": "http://pbs.twimg.com/media/EAquJG5XoAEjIX1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAquJG5XoAEjIX1.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 435,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 767,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1450,
+                        "h": 927,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/EPawWli46N"
+            }
+        ],
+        "retweet_count": 8,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "We\u2019ve got views. https://t.co/EPawWli46N",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Apr 28 18:22:36 +0000 2009",
+            "description": "Welcome to the official Twitter account of Ouachita Baptist University. Discover the Ouachita difference!",
+            "favourites_count": 1747,
+            "followers_count": 7423,
+            "friends_count": 650,
+            "geo_enabled": true,
+            "id": 36138921,
+            "id_str": "36138921",
+            "listed_count": 101,
+            "location": "Arkadelphia, AR",
+            "name": "OBU",
+            "profile_background_color": "400F6D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/36138921/1499266049",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/779035829217861633/8LmOA9io_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/779035829217861633/8LmOA9io_normal.jpg",
+            "profile_link_color": "400F6D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C9B51D",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Ouachita",
+            "statuses_count": 11980,
+            "url": "http://t.co/2aPMbhKKMq",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1155927727775444992,
+    "quoted_status_id_str": "1155927727775444992",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The Natural State showing off for us \ud83c\udf33 https://t.co/6DLbkQ9xjW",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/Ouachita/status/1155927727775444992",
+            "url": "https://t.co/6DLbkQ9xjW"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Oct 31 03:57:48 +0000 2014",
+        "description": "Representing the 4th District of Arkansas. Husband. Father of 4. Hot Springs native. Engineer. Forester.",
+        "favourites_count": 1224,
+        "followers_count": 9218,
+        "friends_count": 248,
+        "geo_enabled": true,
+        "id": 2852998461,
+        "id_str": "2852998461",
+        "listed_count": 480,
+        "location": "Hot Springs, Arkansas",
+        "name": "Rep. Bruce Westerman",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2852998461/1529430870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875381309744533505/sT1DIGng_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875381309744533505/sT1DIGng_normal.jpg",
+        "profile_link_color": "BE0F34",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepWesterman",
+        "statuses_count": 5099,
+        "verified": true
+    },
+    "user_mentions": []
+}

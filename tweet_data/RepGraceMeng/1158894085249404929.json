@@ -1,0 +1,65 @@
+{
+    "created_at": "Wed Aug 07 00:14:15 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "NationalNightOut"
+        },
+        {
+            "text": "Flushing"
+        }
+    ],
+    "id": 1158894085249404929,
+    "id_str": "1158894085249404929",
+    "lang": "en",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Photos from my team at the @NYPD109Pct's #NationalNightOut in #Flushing and the @NYPD107Pct's event  in the\u2026 https://t.co/q9pE5waP4q",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1158894085249404929",
+            "url": "https://t.co/q9pE5waP4q"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 31 20:28:41 +0000 2012",
+        "description": "Representing NY's 6th Congressional District - Parts of West, Central and Northeast Queens.\n\nFor specific questions or concerns, please contact my office.",
+        "favourites_count": 832,
+        "followers_count": 30575,
+        "friends_count": 694,
+        "id": 1051127714,
+        "id_str": "1051127714",
+        "listed_count": 954,
+        "name": "Grace Meng",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051127714/1357593612",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3257470174/64291ff1f090e3193c2764925000a1fa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3257470174/64291ff1f090e3193c2764925000a1fa_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGraceMeng",
+        "statuses_count": 4561,
+        "url": "http://t.co/P1ajY4Fn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2374137654,
+            "id_str": "2374137654",
+            "name": "NYPD 109th Precinct",
+            "screen_name": "NYPD109Pct"
+        },
+        {
+            "id": 2374071080,
+            "id_str": "2374071080",
+            "name": "NYPD 107th Precinct",
+            "screen_name": "NYPD107Pct"
+        }
+    ]
+}

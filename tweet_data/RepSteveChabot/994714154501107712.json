@@ -1,0 +1,171 @@
+{
+    "created_at": "Thu May 10 23:01:49 +0000 2018",
+    "favorite_count": 10,
+    "hashtags": [],
+    "id": 994714154501107712,
+    "id_str": "994714154501107712",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Thu May 10 19:05:15 +0000 2018",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 994654618385879040,
+        "id_str": "994654618385879040",
+        "in_reply_to_screen_name": "NULpolicy",
+        "in_reply_to_status_id": 994653394475343872,
+        "in_reply_to_user_id": 904687550,
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Our Small Business Track leaders met with key members of the @HouseSmallBiz committee including chairman\u2026 https://t.co/cK3Y1vRtcw",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/994654618385879040",
+                "url": "https://t.co/cK3Y1vRtcw"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Oct 25 21:14:39 +0000 2012",
+            "description": "National Urban League's policy and advocacy arm. Retweets and likes are not endorsements.",
+            "favourites_count": 1802,
+            "followers_count": 2370,
+            "friends_count": 1292,
+            "geo_enabled": true,
+            "id": 904687550,
+            "id_str": "904687550",
+            "listed_count": 85,
+            "location": "Washington, DC",
+            "name": "NULWashington Bureau",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/904687550/1519752225",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000475575987/0d283b062cd92185ede1aff102a6352e_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000475575987/0d283b062cd92185ede1aff102a6352e_normal.jpeg",
+            "profile_link_color": "FAD272",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "NULpolicy",
+            "statuses_count": 11853,
+            "url": "https://t.co/ub1OBV48NO"
+        },
+        "user_mentions": [
+            {
+                "id": 861611548250394624,
+                "id_str": "861611548250394624",
+                "name": "House Committee on Small Business",
+                "screen_name": "HouseSmallBiz"
+            }
+        ]
+    },
+    "quoted_status_id": 994654618385879040,
+    "quoted_status_id_str": "994654618385879040",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "It was great to meet all of you today. Wishing you all success as you grow your small businesses! https://t.co/qParGkllof",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/nulpolicy/status/994654618385879040",
+            "url": "https://t.co/qParGkllof"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 13 15:03:08 +0000 2011",
+        "description": "Husband, grandpa, public servant, & proud Cincinnatian. Chairman of @HouseSmallBiz & senior Member on @HouseJudiciary & @HouseForeign.",
+        "favourites_count": 1767,
+        "followers_count": 27966,
+        "friends_count": 3008,
+        "geo_enabled": true,
+        "id": 237750442,
+        "id_str": "237750442",
+        "listed_count": 1106,
+        "location": "Cincinnati",
+        "name": "Rep. Steve Chabot",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237750442/1506718866",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_link_color": "666666",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B1D3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepSteveChabot",
+        "statuses_count": 3252,
+        "url": "https://t.co/uGxNrFAFsk",
+        "verified": true
+    },
+    "user_mentions": []
+}

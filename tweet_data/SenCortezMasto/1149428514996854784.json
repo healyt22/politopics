@@ -1,0 +1,118 @@
+{
+    "created_at": "Thu Jul 11 21:21:27 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [],
+    "id": 1149428514996854784,
+    "id_str": "1149428514996854784",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 10 20:21:34 +0000 2019",
+        "favorite_count": 62,
+        "hashtags": [
+            {
+                "text": "FIFAWWC"
+            }
+        ],
+        "id": 1149051056317485057,
+        "id_str": "1149051056317485057",
+        "lang": "en",
+        "retweet_count": 18,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Congratulations to all of the talented and dedicated women of @USWNT who won this year\u2019s #FIFAWWC. I'm introducing\u2026 https://t.co/QncPkd9kcn",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149051056317485057",
+                "url": "https://t.co/QncPkd9kcn"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 06 21:01:12 +0000 2009",
+            "description": "U.S. Senator from New Jersey. \ud83c\uddfa\ud83c\uddf8 Proud father of Alicia & Rob. Proud grandfather of Evangelina.",
+            "favourites_count": 2022,
+            "followers_count": 163167,
+            "friends_count": 987,
+            "geo_enabled": true,
+            "id": 18695134,
+            "id_str": "18695134",
+            "listed_count": 3796,
+            "location": "New Jersey, USA",
+            "name": "Senator Bob Menendez",
+            "profile_background_color": "273447",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18695134/1545829307",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1138088998419800064/bGqy6DbH_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138088998419800064/bGqy6DbH_normal.png",
+            "profile_link_color": "3283D1",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "screen_name": "SenatorMenendez",
+            "statuses_count": 10657,
+            "url": "https://t.co/P6lBJPCjWi",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 133448051,
+                "id_str": "133448051",
+                "name": "U.S. Soccer WNT",
+                "screen_name": "USWNT"
+            }
+        ]
+    },
+    "quoted_status_id": 1149051056317485057,
+    "quoted_status_id_str": "1149051056317485057",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@USWNT are champions on and off the field. @SenatorMenendez and I are celebrating our World Cup champions and stan\u2026 https://t.co/1ZAHwlOUYg",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1149428514996854784",
+            "url": "https://t.co/1ZAHwlOUYg"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Dec 20 20:53:22 +0000 2016",
+        "default_profile": true,
+        "description": "U.S. Senator from the great state of Nevada.",
+        "favourites_count": 1343,
+        "followers_count": 37135,
+        "friends_count": 789,
+        "geo_enabled": true,
+        "id": 811313565760163844,
+        "id_str": "811313565760163844",
+        "listed_count": 869,
+        "name": "Senator Cortez Masto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/811313565760163844/1543508943",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1068180241258995712/DFf2se46_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068180241258995712/DFf2se46_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCortezMasto",
+        "statuses_count": 5348,
+        "url": "https://t.co/v6sRnbH7nI",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 133448051,
+            "id_str": "133448051",
+            "name": "U.S. Soccer WNT",
+            "screen_name": "USWNT"
+        },
+        {
+            "id": 18695134,
+            "id_str": "18695134",
+            "name": "Senator Bob Menendez",
+            "screen_name": "SenatorMenendez"
+        }
+    ]
+}

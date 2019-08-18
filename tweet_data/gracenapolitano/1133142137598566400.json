@@ -1,0 +1,146 @@
+{
+    "created_at": "Mon May 27 22:45:13 +0000 2019",
+    "hashtags": [
+        {
+            "text": "MemorialDay"
+        }
+    ],
+    "id": 1133142137598566400,
+    "id_str": "1133142137598566400",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon May 27 19:19:23 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [
+            {
+                "text": "MemorialDay"
+            }
+        ],
+        "id": 1133090338115948544,
+        "id_str": "1133090338115948544",
+        "lang": "en",
+        "place": {
+            "id": "c2ad98c80a97adde",
+            "url": "https://api.twitter.com/1.1/geo/id/c2ad98c80a97adde.json",
+            "place_type": "city",
+            "name": "El Monte",
+            "full_name": "El Monte, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -118.073101,
+                            34.040871
+                        ],
+                        [
+                            -117.9974768,
+                            34.040871
+                        ],
+                        [
+                            -117.9974768,
+                            34.100871
+                        ],
+                        [
+                            -118.073101,
+                            34.100871
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We honored our fallen soldiers @MyElMonte\u2019s #MemorialDay Ceremony. VFW Post 10218 Commander Mark Tavera, Darrell Cr\u2026 https://t.co/I1chscHmme",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1133090338115948544",
+                "url": "https://t.co/I1chscHmme"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 07 22:22:41 +0000 2014",
+            "description": "Supervisor Hilda L. Solis, former Secretary of Labor, represents the #FirstDistrict on the Los Angeles County Board of Supervisors #BackHomeToServe",
+            "favourites_count": 3125,
+            "followers_count": 11844,
+            "friends_count": 825,
+            "geo_enabled": true,
+            "id": 2377732207,
+            "id_str": "2377732207",
+            "listed_count": 196,
+            "location": "Los Angeles, CA",
+            "name": "Hilda Solis",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2377732207/1417809995",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/796401639192002560/wRrTFnIO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/796401639192002560/wRrTFnIO_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "HildaSolis",
+            "statuses_count": 10689,
+            "url": "https://t.co/stdErCfbRx",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 993508767105875973,
+                "id_str": "993508767105875973",
+                "name": "City of El Monte",
+                "screen_name": "MyElMonte"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @HildaSolis: We honored our fallen soldiers @MyElMonte\u2019s #MemorialDay Ceremony. VFW Post 10218 Commander Mark Tavera, Darrell Cravey of\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 30 19:48:06 +0000 2010",
+        "description": "Congresswoman from California's 32nd Congressional District in the US House of Representatives",
+        "favourites_count": 211,
+        "followers_count": 35299,
+        "friends_count": 566,
+        "geo_enabled": true,
+        "id": 161411080,
+        "id_str": "161411080",
+        "location": "El Monte, CA",
+        "name": "Rep.Grace Napolitano",
+        "profile_background_color": "004780",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978299365545652231/kTKikH7M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978299365545652231/kTKikH7M_normal.jpg",
+        "profile_link_color": "304896",
+        "profile_sidebar_border_color": "D91612",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "645D5B",
+        "screen_name": "gracenapolitano",
+        "statuses_count": 2756,
+        "url": "https://t.co/7k3n9mOHmy",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2377732207,
+            "id_str": "2377732207",
+            "name": "Hilda Solis",
+            "screen_name": "HildaSolis"
+        },
+        {
+            "id": 993508767105875973,
+            "id_str": "993508767105875973",
+            "name": "City of El Monte",
+            "screen_name": "MyElMonte"
+        }
+    ]
+}

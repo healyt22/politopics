@@ -1,0 +1,84 @@
+{
+    "created_at": "Sun Mar 31 02:14:50 +0000 2019",
+    "favorite_count": 50,
+    "hashtags": [
+        {
+            "text": "KY1"
+        }
+    ],
+    "id": 1112176393310347264,
+    "id_str": "1112176393310347264",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/3kEWyw7Zxr",
+            "expanded_url": "https://twitter.com/KYComer/status/1112176393310347264/photo/1",
+            "id": 1112176377992757248,
+            "media_url": "http://pbs.twimg.com/media/D28-hfHWwAA7YhO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D28-hfHWwAA7YhO.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 1119,
+                    "h": 1109,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1119,
+                    "h": 1109,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 674,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/3kEWyw7Zxr"
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Exciting day in Franklin seeing old friends and speaking at the first ever Simpson County @KYGOP Banquet. #KY1 https://t.co/3kEWyw7Zxr",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 90386169,
+            "id_str": "90386169",
+            "name": "Republican Party of Kentucky",
+            "screen_name": "KYGOP"
+        }
+    ]
+}

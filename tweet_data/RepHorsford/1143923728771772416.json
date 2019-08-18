@@ -1,0 +1,84 @@
+{
+    "created_at": "Wed Jun 26 16:47:24 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "TeamHorsford"
+        }
+    ],
+    "id": 1143923728771772416,
+    "id_str": "1143923728771772416",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/huPsQcIWiX",
+            "expanded_url": "https://twitter.com/RepHorsford/status/1143923728771772416/photo/1",
+            "id": 1143923696152662018,
+            "media_url": "http://pbs.twimg.com/media/D-AIindU0AIVKtd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-AIindU0AIVKtd.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 1200,
+                    "h": 899,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 509,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1534,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/huPsQcIWiX"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Glad #TeamHorsford could witness the launch @RTCSNV\u2019s newest way of traveling through the Las Vegas Strip. https://t.co/huPsQcIWiX",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Oct 13 02:23:25 +0000 2011",
+        "description": "Official Twitter account of Congressman Steven Horsford. Proudly representing the people of Nevada's Fourth Congressional District. #NV04",
+        "favourites_count": 197,
+        "followers_count": 10097,
+        "friends_count": 1835,
+        "geo_enabled": true,
+        "id": 389840566,
+        "id_str": "389840566",
+        "listed_count": 461,
+        "location": "Nevada, USA",
+        "name": "Rep. Steven Horsford",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/389840566/1554557262",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080712516626305024/8vOXb5a__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080712516626305024/8vOXb5a__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHorsford",
+        "statuses_count": 2413,
+        "url": "https://t.co/A9ACM7VdCt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 83914441,
+            "id_str": "83914441",
+            "name": "RTC Southern Nevada",
+            "screen_name": "RTCSNV"
+        }
+    ]
+}

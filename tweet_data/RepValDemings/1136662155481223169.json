@@ -1,0 +1,105 @@
+{
+    "created_at": "Thu Jun 06 15:52:30 +0000 2019",
+    "hashtags": [],
+    "id": 1136662155481223169,
+    "id_str": "1136662155481223169",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Jun 06 14:01:53 +0000 2019",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 1136634318204342272,
+        "id_str": "1136634318204342272",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "At 5:44 p.m., tune in to hear the final on-air piece of StoryCorps: Orlando, a conversation between @RepValDemings\u2026 https://t.co/1rQaCCZ0Cw",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1136634318204342272",
+                "url": "https://t.co/1rQaCCZ0Cw"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 20 13:49:14 +0000 2009",
+            "description": "Public radio for Central Florida. On air, online & in community. Local news, @NPR, @BBC & more. GM @LaFontaine_O. \n\n90.7 FM | https://t.co/eUN5s5WWIF | WMFE app",
+            "favourites_count": 2203,
+            "followers_count": 5657,
+            "friends_count": 604,
+            "geo_enabled": true,
+            "id": 33517100,
+            "id_str": "33517100",
+            "listed_count": 341,
+            "location": "Orlando, Florida",
+            "name": "90.7 WMFE",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33517100/1559155652",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1133805054107049989/aUpnf01y_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133805054107049989/aUpnf01y_normal.png",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "wmfeorlando",
+            "statuses_count": 18085,
+            "url": "https://t.co/KsHeVds7P2"
+        },
+        "user_mentions": [
+            {
+                "id": 798973032362606600,
+                "id_str": "798973032362606600",
+                "name": "Rep. Val Demings",
+                "screen_name": "RepValDemings"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @wmfeorlando: At 5:44 p.m., tune in to hear the final on-air piece of StoryCorps: Orlando, a conversation between @RepValDemings and @OC\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 16 19:36:29 +0000 2016",
+        "description": "U.S. Representative Florida's 10th Congressional District. Public Servant. Former Orlando Police Chief. Christian. Wife. Mother. Grandmother. Harley Enthusiast.",
+        "favourites_count": 2288,
+        "followers_count": 19641,
+        "friends_count": 797,
+        "geo_enabled": true,
+        "id": 798973032362606600,
+        "id_str": "798973032362606600",
+        "listed_count": 554,
+        "location": "Washington, DC I Orlando, FL",
+        "name": "Rep. Val Demings",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/798973032362606600/1530553006",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013838545113485312/hWQSDnZp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013838545113485312/hWQSDnZp_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepValDemings",
+        "statuses_count": 4350,
+        "url": "https://t.co/9DRF1GBZ3J",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 33517100,
+            "id_str": "33517100",
+            "name": "90.7 WMFE",
+            "screen_name": "wmfeorlando"
+        },
+        {
+            "id": 798973032362606600,
+            "id_str": "798973032362606600",
+            "name": "Rep. Val Demings",
+            "screen_name": "RepValDemings"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "created_at": "Thu Jul 25 03:22:00 +0000 2019",
+    "favorite_count": 45,
+    "hashtags": [],
+    "id": 1154230291105558528,
+    "id_str": "1154230291105558528",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 24 23:27:21 +0000 2019",
+        "favorite_count": 566,
+        "hashtags": [],
+        "id": 1154171240430489601,
+        "id_str": "1154171240430489601",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mScP4UafA9",
+                "expanded_url": "https://twitter.com/thegoddamnJets_/status/1154171240430489601/video/1",
+                "id": 1154171172013191170,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1154171172013191170/pu/img/TJplRRlSK9565lvD.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1154171172013191170/pu/img/TJplRRlSK9565lvD.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/mScP4UafA9",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 20982,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1154171172013191170/pu/vid/480x270/mj6ViP8_ekTuhOe_.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1154171172013191170/pu/vid/640x360/qEUA_2PBDh1X7H_j.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1154171172013191170/pu/vid/1280x720/yKxF2waukuq1s5N2.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1154171172013191170/pu/pl/PW-2lZYe4aPNmvCy.m3u8?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 32,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "You guys were a Jeopardy clue tonight! @PodSaveAmerica @jonfavs @jonlovett @danpfeiffer @TVietor08 @priaribi https://t.co/mScP4UafA9",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jun 01 23:09:23 +0000 2010",
+            "default_profile": true,
+            "description": "Dog dad / House Targaryen \ud83d\udc32 / Long suffering Jets fan / Be Excellent To Each Other",
+            "favourites_count": 4608,
+            "followers_count": 17,
+            "friends_count": 210,
+            "id": 150829253,
+            "id_str": "150829253",
+            "listed_count": 1,
+            "location": "New York, USA",
+            "name": "Michael",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/523324784525197312/Y03KKO_v_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/523324784525197312/Y03KKO_v_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "thegoddamnJets_",
+            "statuses_count": 5260
+        },
+        "user_mentions": [
+            {
+                "id": 816869611480186880,
+                "id_str": "816869611480186880",
+                "name": "Pod Save America",
+                "screen_name": "PodSaveAmerica"
+            },
+            {
+                "id": 130496027,
+                "id_str": "130496027",
+                "name": "Jon Favreau",
+                "screen_name": "jonfavs"
+            },
+            {
+                "id": 174110843,
+                "id_str": "174110843",
+                "name": "Jon Lovett",
+                "screen_name": "jonlovett"
+            },
+            {
+                "id": 2922928743,
+                "id_str": "2922928743",
+                "name": "Dan Pfeiffer",
+                "screen_name": "danpfeiffer"
+            },
+            {
+                "id": 155784594,
+                "id_str": "155784594",
+                "name": "Tommy Vietor",
+                "screen_name": "TVietor08"
+            },
+            {
+                "id": 280134848,
+                "id_str": "280134848",
+                "name": "Priyanka Aribindi",
+                "screen_name": "priaribi"
+            }
+        ]
+    },
+    "quoted_status_id": 1154171240430489601,
+    "quoted_status_id_str": "1154171240430489601",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "A great example of the difference between twitter and real life... https://t.co/NaeOV93uBO",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/thegoddamnJets_/status/1154171240430489601",
+            "url": "https://t.co/NaeOV93uBO"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 27 16:31:09 +0000 2010",
+        "description": "Congressman from my hometown: Philadelphia, PA. Notre Dame & Harvard alum. Husband, dad and eternally hopeful Philly sports fan.",
+        "favourites_count": 7894,
+        "followers_count": 30301,
+        "friends_count": 2260,
+        "id": 231108733,
+        "id_str": "231108733",
+        "listed_count": 716,
+        "location": "Philadelphia and Washington",
+        "name": "US Rep Brendan Boyle",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231108733/1510508884",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1043581069524717568/XpUOVJAo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043581069524717568/XpUOVJAo_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepBrendanBoyle",
+        "statuses_count": 7288,
+        "url": "https://t.co/oaFinPKbyy",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,140 @@
+{
+    "created_at": "Wed Jun 26 15:44:18 +0000 2019",
+    "hashtags": [],
+    "id": 1143907847031394310,
+    "id_str": "1143907847031394310",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jun 26 15:18:03 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 1143901241627545601,
+        "id_str": "1143901241627545601",
+        "in_reply_to_screen_name": "TrishnaTweets",
+        "in_reply_to_status_id": 1143897704336154624,
+        "in_reply_to_user_id": 45634351,
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "\"If we can find justice, only then can healing begin,\" @RepDebHaaland. Thank  you also for the land acknowledgment\u2026 https://t.co/0gRefq8GPW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143901241627545601",
+                "url": "https://t.co/0gRefq8GPW"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 08 18:36:33 +0000 2009",
+            "description": "Voracious reader. Proud #immigrant. Fluent in NGO, ESL, code-switching. She/Her. Present: @OurOcean. Past: @World_Wildlife @nepalitimes \nOpinions my own.",
+            "favourites_count": 993,
+            "followers_count": 684,
+            "friends_count": 315,
+            "geo_enabled": true,
+            "id": 45634351,
+            "id_str": "45634351",
+            "listed_count": 18,
+            "location": "Washington DC",
+            "name": "Trishna | \u0924\u0943\u0937\u094d\u0923\u093e",
+            "profile_background_color": "D9B64E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/45634351/1446824647",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/852912048765882369/0ORdmkHQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/852912048765882369/0ORdmkHQ_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FAF6E8",
+            "profile_text_color": "634047",
+            "profile_use_background_image": true,
+            "screen_name": "TrishnaTweets",
+            "statuses_count": 1686
+        },
+        "user_mentions": [
+            {
+                "id": 1080695666760929280,
+                "id_str": "1080695666760929280",
+                "name": "Rep. Deb Haaland",
+                "screen_name": "RepDebHaaland"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @TrishnaTweets: \"If we can find justice, only then can healing begin,\" @RepDebHaaland. Thank  you also for the land acknowledgment and b\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 05:21:40 +0000 2019",
+        "description": "She/Her, Representing #NM CD1, one of the 1st Native American women serving in Congress. Pueblo woman. Single mom. Marathon runner. Non-fiction reader. #NMProud",
+        "favourites_count": 1238,
+        "followers_count": 59466,
+        "friends_count": 1382,
+        "geo_enabled": true,
+        "id": 1080695666760929280,
+        "id_str": "1080695666760929280",
+        "listed_count": 479,
+        "location": "Albuquerque, NM",
+        "name": "Rep. Deb Haaland",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080695666760929280/1562764982",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105916181217718272/PQVfEFpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105916181217718272/PQVfEFpJ_normal.png",
+        "profile_link_color": "1995AF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDebHaaland",
+        "statuses_count": 1386,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 45634351,
+            "id_str": "45634351",
+            "name": "Trishna | \u0924\u0943\u0937\u094d\u0923\u093e",
+            "screen_name": "TrishnaTweets"
+        },
+        {
+            "id": 1080695666760929280,
+            "id_str": "1080695666760929280",
+            "name": "Rep. Deb Haaland",
+            "screen_name": "RepDebHaaland"
+        }
+    ]
+}

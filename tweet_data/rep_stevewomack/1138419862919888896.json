@@ -1,0 +1,161 @@
+{
+    "created_at": "Tue Jun 11 12:17:00 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [
+        {
+            "text": "WPS"
+        }
+    ],
+    "id": 1138419862919888896,
+    "id_str": "1138419862919888896",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 11 01:46:38 +0000 2019",
+        "favorite_count": 1385,
+        "hashtags": [],
+        "id": 1138261223131176961,
+        "id_str": "1138261223131176961",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/WPzEOpR5w9",
+                "expanded_url": "https://twitter.com/RazorbackBSB/status/1138261223131176961/video/1",
+                "id": 1138260629502828544,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1138260629502828544/img/AXi3NX66KrFxv1DM.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1138260629502828544/img/AXi3NX66KrFxv1DM.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/WPzEOpR5w9",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 6006,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138260629502828544/vid/640x360/f4HosNW9WporkBqM.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138260629502828544/vid/480x270/5z95MC0UotB06vdK.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1138260629502828544/pl/n8e2FIIdEY5z_-5z.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138260629502828544/vid/1280x720/eCP2mUazp_IeEaf7.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 181,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "Final out. Hogpile. Repeat. \ud83d\ude0f https://t.co/WPzEOpR5w9",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jun 12 16:09:10 +0000 2012",
+            "description": "Official Account of Arkansas Razorbacks Baseball #OmaHogs \ud835\ude05 #ThisIsBaseball",
+            "favourites_count": 1273,
+            "followers_count": 161622,
+            "friends_count": 337,
+            "geo_enabled": true,
+            "id": 606433843,
+            "id_str": "606433843",
+            "listed_count": 505,
+            "location": "Baum-Walker Stadium",
+            "name": "Razorback Baseball",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/606433843/1560615301",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1083464506062196736/OyhgGJem_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083464506062196736/OyhgGJem_normal.jpg",
+            "profile_link_color": "A32136",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RazorbackBSB",
+            "statuses_count": 26236,
+            "url": "https://t.co/eO9G7tICnH",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138261223131176961,
+    "quoted_status_id_str": "1138261223131176961",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "ICYMI: @RazorbackBSB is headed to the College World Series!! #WPS https://t.co/4RbazSUGfF",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RazorbackBSB/status/1138261223131176961",
+            "url": "https://t.co/4RbazSUGfF"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 05 18:53:03 +0000 2011",
+        "description": "Proud to serve the folks of Arkansas's 3rd District. Ranking Member of @HouseBudgetGOP.",
+        "favourites_count": 1231,
+        "followers_count": 20746,
+        "friends_count": 1469,
+        "geo_enabled": true,
+        "id": 234469322,
+        "id_str": "234469322",
+        "listed_count": 950,
+        "location": "Arkansas's 3rd District",
+        "name": "Rep. Steve Womack",
+        "profile_background_color": "798185",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234469322/1527182179",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2043213363/Official_Pic_4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2043213363/Official_Pic_4_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "rep_stevewomack",
+        "statuses_count": 7039,
+        "url": "https://t.co/2iFHpbXo1l",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 606433843,
+            "id_str": "606433843",
+            "name": "Razorback Baseball",
+            "screen_name": "RazorbackBSB"
+        }
+    ]
+}

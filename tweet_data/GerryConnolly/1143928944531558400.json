@@ -1,0 +1,104 @@
+{
+    "created_at": "Wed Jun 26 17:08:08 +0000 2019",
+    "hashtags": [],
+    "id": 1143928944531558400,
+    "id_str": "1143928944531558400",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jun 26 17:07:51 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1143928876231532545,
+        "id_str": "1143928876231532545",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "The House of Representatives just passed an amendment from @GerryConnolly to block a threatened reduction in force\u2026 https://t.co/q6zqmrM3pp",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143928876231532545",
+                "url": "https://t.co/q6zqmrM3pp"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 07 12:23:45 +0000 2008",
+            "description": "News, events and insight on the business of federal technology. Have longer thoughts to share? Email tips@fcw.com.",
+            "favourites_count": 256,
+            "followers_count": 15088,
+            "friends_count": 2103,
+            "id": 17230113,
+            "id_str": "17230113",
+            "listed_count": 761,
+            "location": "Vienna, VA",
+            "name": "FCW",
+            "profile_background_color": "FF0000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17230113/1474901841",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/780421039574675456/uZ5pDZMD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/780421039574675456/uZ5pDZMD_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DEF2FA",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "screen_name": "FCWnow",
+            "statuses_count": 25630,
+            "url": "http://t.co/RsDJV6qrCS"
+        },
+        "user_mentions": [
+            {
+                "id": 78445977,
+                "id_str": "78445977",
+                "name": "Gerry Connolly",
+                "screen_name": "GerryConnolly"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @FCWnow: The House of Representatives just passed an amendment from @GerryConnolly to block a threatened reduction in force at OPM. The\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 29 23:17:33 +0000 2009",
+        "default_profile": true,
+        "description": "Proudly representing Virginia's 11th District",
+        "followers_count": 51401,
+        "friends_count": 241,
+        "geo_enabled": true,
+        "id": 78445977,
+        "id_str": "78445977",
+        "listed_count": 1137,
+        "location": "Virginia's 11th District",
+        "name": "Gerry Connolly",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78445977/1516539664",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/915643217315553281/u4Dqrk5H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/915643217315553281/u4Dqrk5H_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "GerryConnolly",
+        "statuses_count": 7457,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17230113,
+            "id_str": "17230113",
+            "name": "FCW",
+            "screen_name": "FCWnow"
+        },
+        {
+            "id": 78445977,
+            "id_str": "78445977",
+            "name": "Gerry Connolly",
+            "screen_name": "GerryConnolly"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "created_at": "Sun Aug 04 13:55:15 +0000 2019",
+    "hashtags": [],
+    "id": 1158013533545779200,
+    "id_str": "1158013533545779200",
+    "lang": "en",
+    "quoted_status_id": 1157857357562613760,
+    "quoted_status_id_str": "1157857357562613760",
+    "retweet_count": 22719,
+    "retweeted_status": {
+        "created_at": "Sun Aug 04 05:33:04 +0000 2019",
+        "favorite_count": 62809,
+        "hashtags": [],
+        "id": 1157887152400871424,
+        "id_str": "1157887152400871424",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Sun Aug 04 03:34:40 +0000 2019",
+            "favorite_count": 1963,
+            "hashtags": [],
+            "id": 1157857357562613760,
+            "id_str": "1157857357562613760",
+            "lang": "en",
+            "place": {
+                "id": "002e24c6736f069d",
+                "url": "https://api.twitter.com/1.1/geo/id/002e24c6736f069d.json",
+                "place_type": "city",
+                "name": "Bronx",
+                "full_name": "Bronx, NY",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -73.933612,
+                                40.785365
+                            ],
+                            [
+                                -73.765271,
+                                40.785365
+                            ],
+                            [
+                                -73.765271,
+                                40.91533
+                            ],
+                            [
+                                -73.933612,
+                                40.91533
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 2212,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "NEW: El Paso shooting suspect told investigators he wanted to shoot as many Mexicans as possible, two law enforceme\u2026 https://t.co/pKa5pIxIQB",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1157857357562613760",
+                    "url": "https://t.co/pKa5pIxIQB"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Feb 04 00:50:15 +0000 2009",
+                "description": "Senior Social Media Editor @ABC. Winner @NewMillWritings Fiction Prize, @ExpoReviewLit Flash 405 Award.",
+                "favourites_count": 22250,
+                "followers_count": 13578,
+                "friends_count": 3936,
+                "geo_enabled": true,
+                "id": 20017835,
+                "id_str": "20017835",
+                "listed_count": 483,
+                "location": "Brooklyn, NY",
+                "name": "Evan McMurry",
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20017835/1441388870",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1059952422351785986/TzvOPOiF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059952422351785986/TzvOPOiF_normal.jpg",
+                "profile_link_color": "2F3FED",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "screen_name": "evanmcmurry",
+                "statuses_count": 58791,
+                "url": "https://t.co/zfuyRPjfZZ",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1157857357562613760,
+        "quoted_status_id_str": "1157857357562613760",
+        "retweet_count": 22719,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The President and other leaders told this man that Mexicans are rapists and violent criminals. That they\u2019re taking\u2026 https://t.co/0J8mKPV1yK",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1157887152400871424",
+                "url": "https://t.co/0J8mKPV1yK"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 03 19:32:59 +0000 2011",
+            "description": "Founder of @MomsDemand, grassroots army of @Everytown. The @NRA\u2019s worst nightmare. Author of \u201cFight Like A Mother.\u201d IG: https://t.co/nS9vvTKwo3",
+            "favourites_count": 184194,
+            "followers_count": 383590,
+            "friends_count": 10923,
+            "geo_enabled": true,
+            "id": 246939630,
+            "id_str": "246939630",
+            "listed_count": 2912,
+            "name": "Shannon Watts",
+            "profile_background_color": "BADFCD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/246939630/1559184008",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1136640624428556289/4Dp0PZl2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136640624428556289/4Dp0PZl2_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "screen_name": "shannonrwatts",
+            "statuses_count": 108887,
+            "url": "https://t.co/tP8yoCG89B",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @shannonrwatts: The President and other leaders told this man that Mexicans are rapists and violent criminals. That they\u2019re taking our j\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 02 15:10:21 +0000 2010",
+        "description": "CongressTN09 Memphis;Judiciary&Transportation;Civil Rights&Liberties;Impeach45; Women&Minority Issues;Med. Research;Animal Welfare;Father of TN Ed. Lottery; Dem",
+        "favourites_count": 21591,
+        "followers_count": 66530,
+        "friends_count": 7388,
+        "geo_enabled": true,
+        "id": 162069635,
+        "id_str": "162069635",
+        "listed_count": 1673,
+        "location": "Memphis, TN and Washington, DC",
+        "name": "Steve Cohen",
+        "profile_background_color": "002436",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/162069635/1478383164",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096455442635636737/9KUK51VJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096455442635636737/9KUK51VJ_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepCohen",
+        "statuses_count": 9935,
+        "url": "https://t.co/8nluo21rdt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 246939630,
+            "id_str": "246939630",
+            "name": "Shannon Watts",
+            "screen_name": "shannonrwatts"
+        }
+    ]
+}

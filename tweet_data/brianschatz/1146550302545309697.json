@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 03 22:44:28 +0000 2019",
+    "hashtags": [],
+    "id": 1146550302545309697,
+    "id_str": "1146550302545309697",
+    "lang": "en",
+    "retweet_count": 40,
+    "retweeted_status": {
+        "created_at": "Wed Jul 03 22:09:27 +0000 2019",
+        "favorite_count": 135,
+        "hashtags": [],
+        "id": 1146541490082107392,
+        "id_str": "1146541490082107392",
+        "in_reply_to_screen_name": "dale_e_ho",
+        "in_reply_to_status_id": 1146540896613277696,
+        "in_reply_to_user_id": 70496137,
+        "lang": "en",
+        "retweet_count": 40,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@dale_e_ho This sentence says so much:\n\"In the event that the Commerce Department adopts a new rationale for includ\u2026 https://t.co/uQVqnhsPB7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146541490082107392",
+                "url": "https://t.co/uQVqnhsPB7"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 13 18:33:35 +0000 2014",
+            "default_profile": true,
+            "description": "Public Defender. Appellate Attorney. @bronxdefenders Speaking only for myself here.",
+            "favourites_count": 3341,
+            "followers_count": 190,
+            "friends_count": 414,
+            "id": 2387647370,
+            "id_str": "2387647370",
+            "listed_count": 4,
+            "location": "New York, NY",
+            "name": "Saul Zipkin",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/444182046609379328/eFbncmRa_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/444182046609379328/eFbncmRa_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SaulZipkin",
+            "statuses_count": 763
+        },
+        "user_mentions": [
+            {
+                "id": 70496137,
+                "id_str": "70496137",
+                "name": "Dale Ho",
+                "screen_name": "dale_e_ho"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SaulZipkin: @dale_e_ho This sentence says so much:\n\"In the event that the Commerce Department adopts a new rationale for including the\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 16 21:54:28 +0000 2009",
+        "description": "United States Senator from Hawaii. Dad. Climate Hawk. Appropriator. Chief Deputy Whip.",
+        "favourites_count": 5407,
+        "followers_count": 225018,
+        "friends_count": 2211,
+        "geo_enabled": true,
+        "id": 47747074,
+        "id_str": "47747074",
+        "listed_count": 2578,
+        "location": "\u00dcT: 19.72105,-155.087417",
+        "name": "Brian Schatz",
+        "profile_background_color": "063482",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47747074/1504655317",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/840179285440757761/McwUAXF8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/840179285440757761/McwUAXF8_normal.jpg",
+        "profile_link_color": "00B3FF",
+        "profile_sidebar_border_color": "1C65DC",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "1C65DC",
+        "profile_use_background_image": true,
+        "screen_name": "brianschatz",
+        "statuses_count": 11963,
+        "url": "https://t.co/TFoJ19ZTFY",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2387647370,
+            "id_str": "2387647370",
+            "name": "Saul Zipkin",
+            "screen_name": "SaulZipkin"
+        },
+        {
+            "id": 70496137,
+            "id_str": "70496137",
+            "name": "Dale Ho",
+            "screen_name": "dale_e_ho"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Mon Jan 28 21:17:32 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [],
+    "id": 1089995916336156673,
+    "id_str": "1089995916336156673",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jan 25 15:52:27 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1088826945167654912,
+        "id_str": "1088826945167654912",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "I'm honored &amp; humbled that Congressman @PatrickMcHenry has asked me to serve as his Vice Ranking Member of\u2026 https://t.co/DONSi9txE8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1088826945167654912",
+                "url": "https://t.co/DONSi9txE8"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 01 00:01:45 +0000 2013",
+            "description": "Official Twitter account for Congresswoman Ann Wagner-- proudly Representing the 2nd Congressional District of Missouri https://t.co/6TKCrqRcSw",
+            "favourites_count": 317,
+            "followers_count": 22592,
+            "friends_count": 2674,
+            "geo_enabled": true,
+            "id": 1051446626,
+            "id_str": "1051446626",
+            "listed_count": 817,
+            "location": "Ballwin, MO",
+            "name": "Ann Wagner",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051446626/1422549376",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/949026474769645568/gtC8XH4t_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/949026474769645568/gtC8XH4t_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "screen_name": "RepAnnWagner",
+            "statuses_count": 3620,
+            "url": "https://t.co/tFjsHUzj16",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 27676828,
+                "id_str": "27676828",
+                "name": "Patrick McHenry",
+                "screen_name": "PatrickMcHenry"
+            }
+        ]
+    },
+    "quoted_status_id": 1088826945167654912,
+    "quoted_status_id_str": "1088826945167654912",
+    "retweet_count": 3,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "In her new role as the Vice Ranking Member of @FinancialCmte I am confident @RepAnnWagner and I can continue the co\u2026 https://t.co/ghDy55y6m2",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1089995916336156673",
+            "url": "https://t.co/ghDy55y6m2"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 30 16:42:39 +0000 2009",
+        "description": "I represent the citizens of North Carolina\u2019s 10th District in the United States Congress.",
+        "favourites_count": 87,
+        "followers_count": 28516,
+        "friends_count": 3661,
+        "id": 27676828,
+        "id_str": "27676828",
+        "listed_count": 1454,
+        "location": "Denver, NC",
+        "name": "Patrick McHenry",
+        "profile_background_color": "1E4199",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27676828/1354309744",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105170838284914688/jMjKfSoz_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105170838284914688/jMjKfSoz_normal.png",
+        "profile_link_color": "C30913",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "98B9F1",
+        "profile_text_color": "3F2827",
+        "profile_use_background_image": true,
+        "screen_name": "PatrickMcHenry",
+        "statuses_count": 4916,
+        "url": "http://t.co/fKHDu4b6V5",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 42924141,
+            "id_str": "42924141",
+            "name": "Financial Services GOP",
+            "screen_name": "FinancialCmte"
+        },
+        {
+            "id": 1051446626,
+            "id_str": "1051446626",
+            "name": "Ann Wagner",
+            "screen_name": "RepAnnWagner"
+        }
+    ]
+}

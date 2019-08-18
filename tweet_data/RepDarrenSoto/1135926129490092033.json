@@ -1,0 +1,133 @@
+{
+    "created_at": "Tue Jun 04 15:07:48 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [
+        {
+            "text": "FosterYouthShadowDay"
+        }
+    ],
+    "id": 1135926129490092033,
+    "id_str": "1135926129490092033",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 04 14:50:29 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1135921770962120704,
+        "id_str": "1135921770962120704",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Shadowing  @RepDarrenSoto Today. Super Excited \ud83d\ude4c\ud83c\udffe",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Feb 17 23:38:02 +0000 2012",
+            "description": "Sweet, but not too sweet \ud83e\udddc\ud83c\udffe\u200d\u2640\ufe0f | Lesbian | 1994",
+            "favourites_count": 25651,
+            "followers_count": 1370,
+            "friends_count": 449,
+            "geo_enabled": true,
+            "id": 495432200,
+            "id_str": "495432200",
+            "listed_count": 5,
+            "location": " ",
+            "name": "nashdoll",
+            "profile_background_color": "EC8753",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/495432200/1563513072",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1149880467635806209/MDfmPq7I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149880467635806209/MDfmPq7I_normal.jpg",
+            "profile_link_color": "FCC87F",
+            "profile_sidebar_border_color": "F8513F",
+            "profile_sidebar_fill_color": "C18D54",
+            "profile_text_color": "EACDBF",
+            "profile_use_background_image": true,
+            "screen_name": "theedolljess",
+            "statuses_count": 73698,
+            "url": "https://t.co/niFfX7WxDU"
+        },
+        "user_mentions": [
+            {
+                "id": 818713465653051392,
+                "id_str": "818713465653051392",
+                "name": "US Rep. Darren Soto",
+                "screen_name": "RepDarrenSoto"
+            }
+        ]
+    },
+    "quoted_status_id": 1135921770962120704,
+    "quoted_status_id_str": "1135921770962120704",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "And Jessica we are proud to host you at the Capitol today as part of  #FosterYouthShadowDay and give opportunity to\u2026 https://t.co/xfrd0pFueA",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1135926129490092033",
+            "url": "https://t.co/xfrd0pFueA"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing Central Florida's 9th District: Osceola County and parts of Orange and Polk counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7\n\nOfficial Account",
+        "favourites_count": 4487,
+        "followers_count": 10261,
+        "friends_count": 3427,
+        "geo_enabled": true,
+        "id": 818713465653051392,
+        "id_str": "818713465653051392",
+        "listed_count": 435,
+        "location": "Kissimmee, Florida",
+        "name": "US Rep. Darren Soto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDarrenSoto",
+        "statuses_count": 3150,
+        "url": "https://t.co/3Iswy0Rzuf",
+        "verified": true
+    },
+    "user_mentions": []
+}

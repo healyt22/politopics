@@ -1,0 +1,204 @@
+{
+    "created_at": "Thu Jul 04 20:33:27 +0000 2019",
+    "hashtags": [],
+    "id": 1146879720312598528,
+    "id_str": "1146879720312598528",
+    "lang": "en",
+    "quoted_status_id": 1146058569046994944,
+    "quoted_status_id_str": "1146058569046994944",
+    "retweet_count": 112,
+    "retweeted_status": {
+        "created_at": "Wed Jul 03 15:05:51 +0000 2019",
+        "favorite_count": 535,
+        "hashtags": [],
+        "id": 1146434887911653377,
+        "id_str": "1146434887911653377",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Tue Jul 02 14:10:30 +0000 2019",
+            "favorite_count": 307,
+            "hashtags": [],
+            "id": 1146058569046994944,
+            "id_str": "1146058569046994944",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/ikAH7AG3uW",
+                    "expanded_url": "https://twitter.com/CBSNews/status/1146058569046994944/video/1",
+                    "id": 1146058408866353156,
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1146058408866353156/img/Fhnd8mrmrse7RjPY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1146058408866353156/img/Fhnd8mrmrse7RjPY.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/ikAH7AG3uW",
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 63773,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1146058408866353156/vid/480x480/jCbo8q0UEIlUofgx.mp4?tag=13"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1146058408866353156/pl/XyvE8bR9a2N3uuN0.m3u8?tag=13"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1146058408866353156/vid/320x320/dJdGo6nyLBWG5GuJ.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1146058408866353156/vid/720x720/ljR5wx-G9pRxwAaZ.mp4?tag=13"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "retweet_count": 86,
+            "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+            "text": "WATCH: President Trump says there will be tanks at July 4th celebration in Washington D.C. https://t.co/JBlq5FBApb https://t.co/ikAH7AG3uW",
+            "urls": [
+                {
+                    "expanded_url": "https://cbsn.ws/2RMxoef",
+                    "url": "https://t.co/JBlq5FBApb"
+                }
+            ],
+            "user": {
+                "created_at": "Thu Jun 05 00:54:31 +0000 2008",
+                "description": "Your source for original reporting and trusted news.",
+                "favourites_count": 288,
+                "followers_count": 6812249,
+                "friends_count": 455,
+                "id": 15012486,
+                "id_str": "15012486",
+                "listed_count": 50015,
+                "location": "New York, NY",
+                "name": "CBS News",
+                "profile_background_color": "D9DADA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/15012486/1559749831",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+                "profile_link_color": "B12124",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EAEDF0",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "screen_name": "CBSNews",
+                "statuses_count": 220262,
+                "url": "https://t.co/VGut7r2Vg5",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1146058569046994944,
+        "quoted_status_id_str": "1146058569046994944",
+        "retweet_count": 112,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Hey moron: There were no tanks in Philadelphia on July 4, 1776. Just a bunch of courageous patriots with pen and pa\u2026 https://t.co/NJg23ivDzd",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146434887911653377",
+                "url": "https://t.co/NJg23ivDzd"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Oct 04 15:07:38 +0000 2011",
+            "default_profile": true,
+            "description": "Chairman of the House Budget Committee. Congressman representing Kentucky\u2019s Third Congressional District.",
+            "favourites_count": 77,
+            "followers_count": 39637,
+            "friends_count": 521,
+            "id": 384913290,
+            "id_str": "384913290",
+            "listed_count": 1140,
+            "location": "Louisville, KY",
+            "name": "Rep. John Yarmuth",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/384913290/1529340952",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/978673581990260736/qEAFTWha_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/978673581990260736/qEAFTWha_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepJohnYarmuth",
+            "statuses_count": 3795,
+            "url": "https://t.co/SAtBB33YtF",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RepJohnYarmuth: Hey moron: There were no tanks in Philadelphia on July 4, 1776. Just a bunch of courageous patriots with pen and parchm\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 02 15:10:21 +0000 2010",
+        "description": "CongressTN09 Memphis;Judiciary&Transportation;Civil Rights&Liberties;Impeach45; Women&Minority Issues;Med. Research;Animal Welfare;Father of TN Ed. Lottery; Dem",
+        "favourites_count": 21141,
+        "followers_count": 65900,
+        "friends_count": 7414,
+        "geo_enabled": true,
+        "id": 162069635,
+        "id_str": "162069635",
+        "listed_count": 1636,
+        "location": "Memphis, TN and Washington, DC",
+        "name": "Steve Cohen",
+        "profile_background_color": "002436",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/162069635/1478383164",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096455442635636737/9KUK51VJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096455442635636737/9KUK51VJ_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepCohen",
+        "statuses_count": 9771,
+        "url": "https://t.co/8nluo21rdt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 384913290,
+            "id_str": "384913290",
+            "name": "Rep. John Yarmuth",
+            "screen_name": "RepJohnYarmuth"
+        }
+    ]
+}

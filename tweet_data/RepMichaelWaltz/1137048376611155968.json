@@ -1,0 +1,133 @@
+{
+    "created_at": "Fri Jun 07 17:27:12 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1137048376611155968,
+    "id_str": "1137048376611155968",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jun 07 13:56:02 +0000 2019",
+        "favorite_count": 9633,
+        "hashtags": [],
+        "id": 1136995231629565953,
+        "id_str": "1136995231629565953",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/hVUtjXWcpG",
+                "expanded_url": "https://twitter.com/WhiteHouse/status/1136995231629565953/photo/1",
+                "id": 1136995227384893441,
+                "media_url": "http://pbs.twimg.com/media/D8drIp-XUAEsVqz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D8drIp-XUAEsVqz.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1365,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/hVUtjXWcpG"
+            }
+        ],
+        "retweet_count": 1602,
+        "source": "<a href=\"https://www.whitehouse.gov/\" rel=\"nofollow\">WH Digital</a>",
+        "text": "Happy Birthday, @VP! https://t.co/hVUtjXWcpG",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+            "default_profile": true,
+            "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+            "favourites_count": 13,
+            "followers_count": 18792218,
+            "friends_count": 14,
+            "geo_enabled": true,
+            "id": 822215673812119553,
+            "id_str": "822215673812119553",
+            "listed_count": 10898,
+            "location": "Washington, D.C.",
+            "name": "The White House",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "WhiteHouse",
+            "statuses_count": 9963,
+            "url": "https://t.co/wyOVgSLgBV",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 818910970567344128,
+                "id_str": "818910970567344128",
+                "name": "Vice President Mike Pence",
+                "screen_name": "VP"
+            }
+        ]
+    },
+    "quoted_status_id": 1136995231629565953,
+    "quoted_status_id_str": "1136995231629565953",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Wishing a very happy birthday to our @VP! Grateful for all your hard work for our country. \ud83c\uddfa\ud83c\uddf8 https://t.co/I1ssm9xGlq",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1136995231629565953",
+            "url": "https://t.co/I1ssm9xGlq"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 07 23:20:25 +0000 2019",
+        "default_profile": true,
+        "description": "Congressman for #FL6 (Volusia, Flagler, Lake, St Johns Counties), Green Beret, National Guard Lt. Col., Author of \"Warrior Diplomat,\" Floridian, Father.",
+        "favourites_count": 394,
+        "followers_count": 4167,
+        "friends_count": 428,
+        "geo_enabled": true,
+        "id": 1082416697380913152,
+        "id_str": "1082416697380913152",
+        "listed_count": 103,
+        "name": "Rep. Michael Waltz",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082416697380913152/1560377890",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083828101317099520/VVlPDed3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083828101317099520/VVlPDed3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMichaelWaltz",
+        "statuses_count": 727,
+        "url": "https://t.co/QOB7UQmYz2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 818910970567344128,
+            "id_str": "818910970567344128",
+            "name": "Vice President Mike Pence",
+            "screen_name": "VP"
+        }
+    ]
+}

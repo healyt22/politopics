@@ -1,0 +1,105 @@
+{
+    "created_at": "Mon Jun 03 13:32:52 +0000 2019",
+    "hashtags": [],
+    "id": 1135539851208663041,
+    "id_str": "1135539851208663041",
+    "lang": "en",
+    "retweet_count": 116,
+    "retweeted_status": {
+        "created_at": "Sat Jun 01 16:02:51 +0000 2019",
+        "favorite_count": 991,
+        "hashtags": [],
+        "id": 1134852821680099329,
+        "id_str": "1134852821680099329",
+        "lang": "en",
+        "retweet_count": 116,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "To quote @TomCottonAR, \u201cPolice officers put the badge on every morning, not knowing for sure if they'll come home a\u2026 https://t.co/CFIH05T616",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1134852821680099329",
+                "url": "https://t.co/CFIH05T616"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 10 20:45:09 +0000 2009",
+            "description": "Celebrating 50 Yrs of Apollo @ https://t.co/gQ1LEQGomg; Gemini 12 & Apollo XI Astronaut & Moonwalker; West Point; USAF Col, Korean War Vet; MIT Founder",
+            "favourites_count": 4005,
+            "followers_count": 1478967,
+            "friends_count": 381,
+            "geo_enabled": true,
+            "id": 46220856,
+            "id_str": "46220856",
+            "listed_count": 9012,
+            "name": "Buzz Aldrin",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/46220856/1565300353",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1009048001740828673/6x8eBb-v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009048001740828673/6x8eBb-v_normal.jpg",
+            "profile_link_color": "F15B2A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "18171A",
+            "profile_use_background_image": true,
+            "screen_name": "TheRealBuzz",
+            "statuses_count": 3248,
+            "url": "https://t.co/xdBdYRdKiE",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 343041182,
+                "id_str": "343041182",
+                "name": "Tom Cotton",
+                "screen_name": "TomCottonAR"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @TheRealBuzz: To quote @TomCottonAR, \u201cPolice officers put the badge on every morning, not knowing for sure if they'll come home at night\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Nov 24 19:33:10 +0000 2012",
+        "description": "U.S. Senator proudly serving the state of Arkansas.",
+        "followers_count": 156463,
+        "friends_count": 352,
+        "geo_enabled": true,
+        "id": 968650362,
+        "id_str": "968650362",
+        "listed_count": 2410,
+        "name": "Tom Cotton",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/968650362/1366831169",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568884049058357248/M-VeVL9u_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/568884049058357248/M-VeVL9u_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenTomCotton",
+        "statuses_count": 8594,
+        "url": "http://t.co/gR93LLUqRV",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 46220856,
+            "id_str": "46220856",
+            "name": "Buzz Aldrin",
+            "screen_name": "TheRealBuzz"
+        },
+        {
+            "id": 343041182,
+            "id_str": "343041182",
+            "name": "Tom Cotton",
+            "screen_name": "TomCottonAR"
+        }
+    ]
+}

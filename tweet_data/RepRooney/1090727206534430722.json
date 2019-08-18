@@ -1,0 +1,109 @@
+{
+    "created_at": "Wed Jan 30 21:43:25 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [
+        {
+            "text": "CPAC2019"
+        }
+    ],
+    "id": 1090727206534430722,
+    "id_str": "1090727206534430722",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jan 30 21:27:26 +0000 2019",
+        "favorite_count": 30,
+        "hashtags": [],
+        "id": 1090723184968679426,
+        "id_str": "1090723184968679426",
+        "lang": "en",
+        "retweet_count": 11,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "The secret to @RepRooney's success in the private sector, overseas, and now in the halls of Congress is his ability\u2026 https://t.co/05WZrcgxRa",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1090723184968679426",
+                "url": "https://t.co/05WZrcgxRa"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 13 15:31:11 +0000 2009",
+            "description": "Official Twitter account of the American Conservative Union. Host of @CPAC #CPAC2019. Chaired by @mschlapp.",
+            "favourites_count": 7896,
+            "followers_count": 34508,
+            "friends_count": 6206,
+            "geo_enabled": true,
+            "id": 56401482,
+            "id_str": "56401482",
+            "listed_count": 706,
+            "location": "Alexandria, VA",
+            "name": "American Conservative Union",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/56401482/1559750063",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1139186021504077825/Q8Kl4wzw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139186021504077825/Q8Kl4wzw_normal.jpg",
+            "profile_link_color": "B00A0A",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "021624",
+            "profile_text_color": "930D0D",
+            "profile_use_background_image": true,
+            "screen_name": "ACUConservative",
+            "statuses_count": 23231,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 816111677917851649,
+                "id_str": "816111677917851649",
+                "name": "Francis Rooney",
+                "screen_name": "RepRooney"
+            }
+        ]
+    },
+    "quoted_status_id": 1090723184968679426,
+    "quoted_status_id_str": "1090723184968679426",
+    "retweet_count": 8,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Looking forward to #CPAC2019 - thanks to @ACUConservative for inviting me to speak. https://t.co/MsOOXj5CZF",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/ACUConservative/status/1090723184968679426",
+            "url": "https://t.co/MsOOXj5CZF"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 03 02:39:21 +0000 2017",
+        "default_profile": true,
+        "description": "Honored to serve the citizens of Florida's 19th Congressional District. Official Government account.",
+        "favourites_count": 276,
+        "followers_count": 7021,
+        "friends_count": 452,
+        "id": 816111677917851649,
+        "id_str": "816111677917851649",
+        "listed_count": 333,
+        "location": "SWFL",
+        "name": "Francis Rooney",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816111677917851649/1495747447",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865221777693134851/treodBIl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865221777693134851/treodBIl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRooney",
+        "statuses_count": 917,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 56401482,
+            "id_str": "56401482",
+            "name": "American Conservative Union",
+            "screen_name": "ACUConservative"
+        }
+    ]
+}

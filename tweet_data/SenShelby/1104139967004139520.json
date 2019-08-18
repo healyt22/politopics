@@ -1,0 +1,222 @@
+{
+    "created_at": "Fri Mar 08 22:00:56 +0000 2019",
+    "hashtags": [],
+    "id": 1104139967004139520,
+    "id_str": "1104139967004139520",
+    "lang": "en",
+    "quoted_status_id": 1103751091047538693,
+    "quoted_status_id_str": "1103751091047538693",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Thu Mar 07 22:35:14 +0000 2019",
+        "favorite_count": 38,
+        "hashtags": [],
+        "id": 1103786210064060417,
+        "id_str": "1103786210064060417",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Thu Mar 07 20:15:41 +0000 2019",
+            "favorite_count": 15,
+            "hashtags": [
+                {
+                    "text": "TBT"
+                },
+                {
+                    "text": "thisisalabama"
+                },
+                {
+                    "text": "mobilealabama"
+                },
+                {
+                    "text": "alabama"
+                },
+                {
+                    "text": "dronephotography"
+                }
+            ],
+            "id": 1103751091047538693,
+            "id_str": "1103751091047538693",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/pmsRkFuxN7",
+                    "expanded_url": "https://twitter.com/forrestjfunk/status/1103751091047538693/photo/1",
+                    "id": 1103750925703880705,
+                    "media_url": "http://pbs.twimg.com/media/D1FPnncWoAEt4_x.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D1FPnncWoAEt4_x.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1150,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/pmsRkFuxN7"
+                }
+            ],
+            "place": {
+                "id": "d049033410e9e81b",
+                "url": "https://api.twitter.com/1.1/geo/id/d049033410e9e81b.json",
+                "place_type": "city",
+                "name": "Mobile",
+                "full_name": "Mobile, AL",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -88.301598,
+                                30.523874
+                            ],
+                            [
+                                -88.021513,
+                                30.523874
+                            ],
+                            [
+                                -88.021513,
+                                30.843424
+                            ],
+                            [
+                                -88.301598,
+                                30.843424
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 9,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "The Port City flexing its industrial muscles.\ud83d\udcaa #TBT #thisisalabama #mobilealabama #alabama #dronephotography https://t.co/pmsRkFuxN7",
+            "urls": [],
+            "user": {
+                "created_at": "Sun May 15 02:24:38 +0000 2011",
+                "description": "I walk. I look. I see. I photograph. - Leon Livenstein \ud83d\udcf8 IG: @forrestjfunk & @dronealabama",
+                "favourites_count": 2066,
+                "followers_count": 499,
+                "friends_count": 471,
+                "geo_enabled": true,
+                "id": 298857710,
+                "id_str": "298857710",
+                "listed_count": 12,
+                "location": "Mobile, AL",
+                "name": "Forrest Funk | Digital Media | Photography",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/298857710/1564094893",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1146486715307253760/OgR4Wh6m_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146486715307253760/OgR4Wh6m_normal.jpg",
+                "profile_link_color": "990000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "forrestjfunk",
+                "statuses_count": 14398,
+                "url": "https://t.co/HjrZbIvIdC"
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1103751091047538693,
+        "quoted_status_id_str": "1103751091047538693",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Mobile strong! \ud83d\udcaa\ud83c\udffc\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f https://t.co/J1LRzxFVwb",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/forrestjfunk/status/1103751091047538693",
+                "url": "https://t.co/J1LRzxFVwb"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Nov 19 19:07:18 +0000 2014",
+            "description": "300 years old. Birthplace of Mardi Gras. Most Hall of Famers per capita. Global city with Southern charm.",
+            "favourites_count": 615,
+            "followers_count": 11505,
+            "friends_count": 1994,
+            "geo_enabled": true,
+            "id": 2884553931,
+            "id_str": "2884553931",
+            "listed_count": 86,
+            "location": "Mobile, AL",
+            "name": "City of Mobile",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2884553931/1522334911",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080219516523761664/K8N8imMe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080219516523761664/K8N8imMe_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "City_of_Mobile",
+            "statuses_count": 3314,
+            "url": "https://t.co/bG8bQvzISk"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @City_of_Mobile: Mobile strong! \ud83d\udcaa\ud83c\udffc\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f https://t.co/J1LRzxFVwb",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/forrestjfunk/status/1103751091047538693",
+            "url": "https://t.co/J1LRzxFVwb"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Feb 17 17:53:43 +0000 2009",
+        "description": "The official Twitter page for U.S. Senator Richard Shelby (R-Ala.) https://t.co/YqOy54UpSf",
+        "favourites_count": 335,
+        "followers_count": 82051,
+        "friends_count": 503,
+        "geo_enabled": true,
+        "id": 21111098,
+        "id_str": "21111098",
+        "listed_count": 2148,
+        "location": "Tuscaloosa, Alabama",
+        "name": "Richard Shelby",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21111098/1436912050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+        "profile_link_color": "A60000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "SenShelby",
+        "statuses_count": 2294,
+        "url": "https://t.co/1iULT8X6Vz",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2884553931,
+            "id_str": "2884553931",
+            "name": "City of Mobile",
+            "screen_name": "City_of_Mobile"
+        }
+    ]
+}

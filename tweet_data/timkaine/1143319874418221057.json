@@ -1,0 +1,162 @@
+{
+    "created_at": "Tue Jun 25 00:47:54 +0000 2019",
+    "favorite_count": 1627,
+    "hashtags": [],
+    "id": 1143319874418221057,
+    "id_str": "1143319874418221057",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 24 23:13:45 +0000 2019",
+        "favorite_count": 587,
+        "hashtags": [],
+        "id": 1143296179951865856,
+        "id_str": "1143296179951865856",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/a43tGqfQas",
+                "expanded_url": "https://twitter.com/thehill/status/1143296179951865856/video/1",
+                "id": 1143296014641704960,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1143296014641704960/img/CKTtKOwSeKoGimA4.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1143296014641704960/img/CKTtKOwSeKoGimA4.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/a43tGqfQas",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 30400,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1143296014641704960/pl/7lji52NwMVbyQwYT.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1143296014641704960/vid/640x360/-j-A9d81c0irz3dy.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1143296014641704960/vid/480x270/-_XlvnXMmw4U_D3_.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1143296014641704960/vid/1280x720/Pj1rAR5bIpZQdBUG.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 306,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "President Trump: I do not need congressional approval to strike Iran\n@HillTVLive https://t.co/rpyjB1Re1V https://t.co/a43tGqfQas",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/6JTWvvg",
+                "url": "https://t.co/rpyjB1Re1V"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3356620,
+            "friends_count": 256,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26244,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 609593,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 995478067597496322,
+                "id_str": "995478067597496322",
+                "name": "HILLTV",
+                "screen_name": "HillTVLive"
+            }
+        ]
+    },
+    "quoted_status_id": 1143296179951865856,
+    "quoted_status_id_str": "1143296179951865856",
+    "retweet_count": 511,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "This is a lie \u2014 and shows exactly why Congress needs to debate any war with Iran. https://t.co/9eRlSjUba4",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/thehill/status/1143296179951865856",
+            "url": "https://t.co/9eRlSjUba4"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 30 20:00:32 +0000 2010",
+        "description": "Husband to @AnneHolton, father of 3. U.S. Senator from Virginia. In my free time, I\u2019m either outdoors, reading, or jamming on the harmonica.",
+        "favourites_count": 838,
+        "followers_count": 988476,
+        "friends_count": 773,
+        "geo_enabled": true,
+        "id": 172858784,
+        "id_str": "172858784",
+        "listed_count": 6283,
+        "location": "Richmond, VA",
+        "name": "Tim Kaine",
+        "profile_background_color": "CFCFCF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/172858784/1495807361",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/922472118377476096/XqCk_uDv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/922472118377476096/XqCk_uDv_normal.jpg",
+        "profile_link_color": "AB0A0F",
+        "profile_sidebar_border_color": "191561",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "timkaine",
+        "statuses_count": 10044,
+        "url": "https://t.co/YNK0Xrmt2G",
+        "verified": true
+    },
+    "user_mentions": []
+}

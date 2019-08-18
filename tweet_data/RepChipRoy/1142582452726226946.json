@@ -1,0 +1,181 @@
+{
+    "created_at": "Sat Jun 22 23:57:39 +0000 2019",
+    "favorite_count": 120,
+    "hashtags": [],
+    "id": 1142582452726226946,
+    "id_str": "1142582452726226946",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Sat Jun 22 21:33:42 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "YAFCon"
+            }
+        ],
+        "id": 1142546225566081024,
+        "id_str": "1142546225566081024",
+        "lang": "en",
+        "place": {
+            "id": "f6ebc676e5cde864",
+            "url": "https://api.twitter.com/1.1/geo/id/f6ebc676e5cde864.json",
+            "place_type": "city",
+            "name": "Santa Barbara",
+            "full_name": "Santa Barbara, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -119.763341,
+                            34.395525
+                        ],
+                        [
+                            -119.639931,
+                            34.395525
+                        ],
+                        [
+                            -119.639931,
+                            34.464245
+                        ],
+                        [
+                            -119.763341,
+                            34.464245
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "LIVE NOW: @RepChipRoy takes the stage to inspire future conservative leaders at #YAFCon Watch live:\u2026 https://t.co/UvinYQET0N",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1142546225566081024",
+                "url": "https://t.co/UvinYQET0N"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Sep 05 20:04:51 +0000 2008",
+            "description": "Young America's Foundation introduces students to conservatism through our campus programs and conferences. The Foundation also preserves the Reagan Ranch.",
+            "favourites_count": 5911,
+            "followers_count": 78656,
+            "friends_count": 1462,
+            "geo_enabled": true,
+            "id": 16148677,
+            "id_str": "16148677",
+            "listed_count": 691,
+            "location": "Reston, VA",
+            "name": "YAF",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16148677/1555353489",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1069741969755267072/40LtbwZY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069741969755267072/40LtbwZY_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "yaf",
+            "statuses_count": 25342,
+            "url": "https://t.co/mSRQ1ALH3M",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1082790600292925440,
+                "id_str": "1082790600292925440",
+                "name": "Rep. Chip Roy",
+                "screen_name": "RepChipRoy"
+            }
+        ]
+    },
+    "quoted_status_id": 1142546225566081024,
+    "quoted_status_id_str": "1142546225566081024",
+    "retweet_count": 27,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thanks to @yaf for having me come speak to such a dedicated group of young patriots! Keep learning and fighting, y\u2019\u2026 https://t.co/ZuUYd72MT1",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1142582452726226946",
+            "url": "https://t.co/ZuUYd72MT1"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly representing the people of the 21st Congressional District of Texas.",
+        "favourites_count": 300,
+        "followers_count": 18341,
+        "friends_count": 38,
+        "geo_enabled": true,
+        "id": 1082790600292925440,
+        "id_str": "1082790600292925440",
+        "listed_count": 221,
+        "location": "Washington, DC",
+        "name": "Rep. Chip Roy",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1547050497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChipRoy",
+        "statuses_count": 1102,
+        "url": "https://t.co/HpJaJuKlOT",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16148677,
+            "id_str": "16148677",
+            "name": "YAF",
+            "screen_name": "yaf"
+        }
+    ]
+}

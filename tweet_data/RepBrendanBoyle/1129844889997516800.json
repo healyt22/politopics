@@ -1,0 +1,126 @@
+{
+    "created_at": "Sat May 18 20:23:07 +0000 2019",
+    "favorite_count": 22,
+    "hashtags": [],
+    "id": 1129844889997516800,
+    "id_str": "1129844889997516800",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri May 17 14:55:28 +0000 2019",
+        "favorite_count": 347,
+        "hashtags": [],
+        "id": 1129400042421465088,
+        "id_str": "1129400042421465088",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/EzDuyd69Jo",
+                "expanded_url": "https://twitter.com/KThomasDC/status/1129400042421465088/photo/1",
+                "id": 1129400035945451521,
+                "media_url": "http://pbs.twimg.com/media/D6xvWU_XkAEbfJt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D6xvWU_XkAEbfJt.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1334,
+                        "h": 750,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/EzDuyd69Jo"
+            }
+        ],
+        "retweet_count": 121,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u2066.@prioritiesUSA\u2019s current projected pathway to 270 (note where Ohio is located compared to AZ/NC/GA/IA/TX). https://t.co/EzDuyd69Jo",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Jul 17 03:16:45 +0000 2008",
+            "description": "@WSJ political reporter covering 2020 Dems. @AP alum. Hoya Saxa! RTs/links do not equal endorsements. ken.thomas@wsj.com #LGM",
+            "favourites_count": 3532,
+            "followers_count": 30764,
+            "friends_count": 2538,
+            "geo_enabled": true,
+            "id": 15463486,
+            "id_str": "15463486",
+            "listed_count": 1470,
+            "location": "Washington, DC",
+            "name": "Ken Thomas",
+            "profile_background_color": "1C0AC2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15463486/1532996896",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1146163497417527296/QOkiGLix_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146163497417527296/QOkiGLix_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "A1A2B5",
+            "profile_text_color": "333333",
+            "screen_name": "KThomasDC",
+            "statuses_count": 32731,
+            "url": "https://t.co/yAtAlLulQw",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 289963138,
+                "id_str": "289963138",
+                "name": "Priorities USA",
+                "screen_name": "prioritiesUSA"
+            }
+        ]
+    },
+    "quoted_status_id": 1129400042421465088,
+    "quoted_status_id_str": "1129400042421465088",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Note where PA sits on this map - it\u2019s the tipping point state. https://t.co/RNOVsslgWp",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/KThomasDC/status/1129400042421465088",
+            "url": "https://t.co/RNOVsslgWp"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 27 16:31:09 +0000 2010",
+        "description": "Congressman from my hometown: Philadelphia, PA. Notre Dame & Harvard alum. Husband, dad and eternally hopeful Philly sports fan.",
+        "favourites_count": 7750,
+        "followers_count": 30063,
+        "friends_count": 2232,
+        "id": 231108733,
+        "id_str": "231108733",
+        "listed_count": 712,
+        "location": "Philadelphia and Washington",
+        "name": "US Rep Brendan Boyle",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231108733/1510508884",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1043581069524717568/XpUOVJAo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043581069524717568/XpUOVJAo_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepBrendanBoyle",
+        "statuses_count": 7206,
+        "url": "https://t.co/oaFinPKbyy",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,147 @@
+{
+    "created_at": "Tue May 28 19:54:16 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1133461505050066944,
+    "id_str": "1133461505050066944",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 28 18:11:48 +0000 2019",
+        "favorite_count": 26,
+        "hashtags": [],
+        "id": 1133435719769382912,
+        "id_str": "1133435719769382912",
+        "lang": "en",
+        "place": {
+            "id": "39aac4dbc7252e68",
+            "url": "https://api.twitter.com/1.1/geo/id/39aac4dbc7252e68.json",
+            "place_type": "city",
+            "name": "Merrillville",
+            "full_name": "Merrillville, IN",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.395119,
+                            41.4470363
+                        ],
+                        [
+                            -87.24453,
+                            41.4470363
+                        ],
+                        [
+                            -87.24453,
+                            41.522608
+                        ],
+                        [
+                            -87.395119,
+                            41.522608
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Truly enjoyed joining @SenToddYoung for a Q&amp;A during @nwi\u2019s 12th annual Northwest Indiana Business and Industry Hal\u2026 https://t.co/JpUD3PlyNw",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1133435719769382912",
+                "url": "https://t.co/JpUD3PlyNw"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 17 03:35:39 +0000 2016",
+            "description": "Hoosier, Husband, Navy Veteran, Dog Dad, 51st Governor of the Great State of Indiana",
+            "favourites_count": 3604,
+            "followers_count": 21525,
+            "friends_count": 851,
+            "geo_enabled": true,
+            "id": 4919082864,
+            "id_str": "4919082864",
+            "listed_count": 310,
+            "name": "Eric Holcomb",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4919082864/1560262335",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/897924526603894789/ciQZkaUZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/897924526603894789/ciQZkaUZ_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "GovHolcomb",
+            "statuses_count": 5596,
+            "url": "https://t.co/NB0wSL6dzj",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 234128524,
+                "id_str": "234128524",
+                "name": "Senator Todd Young",
+                "screen_name": "SenToddYoung"
+            },
+            {
+                "id": 5508672,
+                "id_str": "5508672",
+                "name": "nwi.com",
+                "screen_name": "nwi"
+            }
+        ]
+    },
+    "quoted_status_id": 1133435719769382912,
+    "quoted_status_id_str": "1133435719769382912",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you at @NWI for having me at the 12th annual Northwest Indiana Business and Industry Hall of Fame luncheon. https://t.co/8mYCWeCsUn",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/GovHolcomb/status/1133435719769382912",
+            "url": "https://t.co/8mYCWeCsUn"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 04 22:35:16 +0000 2011",
+        "description": "I proudly serve Hoosier families in the U.S. Senate. Contact my office at (202) 224-5623 for assistance. You can also visit our website for additional info.",
+        "favourites_count": 195,
+        "followers_count": 43202,
+        "friends_count": 502,
+        "id": 234128524,
+        "id_str": "234128524",
+        "listed_count": 1477,
+        "location": "Indiana",
+        "name": "Senator Todd Young",
+        "profile_background_color": "00346F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234128524/1555085359",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839534166727360514/sm9KrCLP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839534166727360514/sm9KrCLP_normal.jpg",
+        "profile_link_color": "1D69A7",
+        "profile_sidebar_border_color": "1D69A7",
+        "profile_sidebar_fill_color": "EAEAEA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenToddYoung",
+        "statuses_count": 5130,
+        "url": "https://t.co/IhAAMvhCKv",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 5508672,
+            "id_str": "5508672",
+            "name": "nwi.com",
+            "screen_name": "nwi"
+        }
+    ]
+}

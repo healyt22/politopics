@@ -1,0 +1,101 @@
+{
+    "created_at": "Tue Jun 25 22:22:29 +0000 2019",
+    "favorite_count": 27,
+    "hashtags": [],
+    "id": 1143645665026859009,
+    "id_str": "1143645665026859009",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/sSAf4lKZ51",
+            "expanded_url": "https://twitter.com/RepBonamici/status/1143645665026859009/video/1",
+            "id": 1143645063458803713,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1143645063458803713/img/CoWoACtw70ejqS6B.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1143645063458803713/img/CoWoACtw70ejqS6B.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/sSAf4lKZ51",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 282334,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143645063458803713/vid/640x360/rQmn-jlIlLU_Zs1Q.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143645063458803713/vid/1280x720/61SP4CEU6lG43EjX.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1143645063458803713/pl/LuA8gnoAy6yjCGNw.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143645063458803713/vid/480x270/aKCpOj_qGJyRRdNa.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 7,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Climate change is an existential threat, and it requires the full attention of the federal government. https://t.co/sSAf4lKZ51",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 20 16:30:32 +0000 2012",
+        "description": "Representing Oregon's 1st District. Working to strengthen #PublicEducation, support #WorkingFamilies, & #DefendScience. Proud mom of two grown kids.",
+        "favourites_count": 593,
+        "followers_count": 28100,
+        "friends_count": 1257,
+        "geo_enabled": true,
+        "id": 558769636,
+        "id_str": "558769636",
+        "listed_count": 939,
+        "name": "Suzanne Bonamici",
+        "profile_background_color": "325B9D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/558769636/1513624686",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000084043080/816f970a918a5d6fe798f5451dd249d7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000084043080/816f970a918a5d6fe798f5451dd249d7_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBonamici",
+        "statuses_count": 4871,
+        "url": "http://t.co/4mNk46JctA",
+        "verified": true
+    },
+    "user_mentions": []
+}

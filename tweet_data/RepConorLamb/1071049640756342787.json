@@ -1,0 +1,162 @@
+{
+    "created_at": "Fri Dec 07 14:31:48 +0000 2018",
+    "favorite_count": 20,
+    "hashtags": [],
+    "id": 1071049640756342787,
+    "id_str": "1071049640756342787",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Dec 06 16:13:05 +0000 2018",
+        "favorite_count": 20,
+        "hashtags": [],
+        "id": 1070712743488032768,
+        "id_str": "1070712743488032768",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fplUwvW1QJ",
+                "expanded_url": "https://twitter.com/PITairport/status/1070712743488032768/photo/1",
+                "id": 1070712730032590848,
+                "media_url": "http://pbs.twimg.com/media/DtvvjhoU0AAVBJJ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DtvvjhoU0AAVBJJ.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/fplUwvW1QJ"
+            }
+        ],
+        "place": {
+            "id": "00173a837b85dc2b",
+            "url": "https://api.twitter.com/1.1/geo/id/00173a837b85dc2b.json",
+            "place_type": "city",
+            "name": "Moon",
+            "full_name": "Moon, PA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.2827473,
+                            40.472581
+                        ],
+                        [
+                            -80.17088,
+                            40.472581
+                        ],
+                        [
+                            -80.17088,
+                            40.5718533
+                        ],
+                        [
+                            -80.2827473,
+                            40.5718533
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Ground is officially broken on the Pittsburgh Airport Innovation Campus! https://t.co/fplUwvW1QJ",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Mar 13 13:30:47 +0000 2009",
+            "description": "A global aviation leader inspiring regional growth and prosperity",
+            "favourites_count": 12980,
+            "followers_count": 15422,
+            "friends_count": 1934,
+            "geo_enabled": true,
+            "id": 24170193,
+            "id_str": "24170193",
+            "listed_count": 488,
+            "location": "Pittsburgh, Pennsylvania",
+            "name": "Pittsburgh International Airport",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24170193/1550860602",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/718438509162401792/W8a02wGy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/718438509162401792/W8a02wGy_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "PITairport",
+            "statuses_count": 17100,
+            "url": "http://t.co/7YMaqugd4k",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1070712743488032768,
+    "quoted_status_id_str": "1070712743488032768",
+    "retweet_count": 9,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@PITairport's new Pittsburgh Airport Innovation Campus, built on the foundation of a strong public private partner\u2026 https://t.co/2qGzOuhh1C",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1071049640756342787",
+            "url": "https://t.co/2qGzOuhh1C"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Apr 12 15:42:03 +0000 2018",
+        "default_profile": true,
+        "description": "U.S. Representative for #PA17, including parts of Allegheny and Butler Counties, as well as all of Beaver County in southwestern PA.",
+        "favourites_count": 82,
+        "followers_count": 5451,
+        "friends_count": 246,
+        "id": 984456621417000960,
+        "id_str": "984456621417000960",
+        "listed_count": 169,
+        "location": "Mount Lebanon, PA",
+        "name": "Conor Lamb",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/984456621417000960/1546529754",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/984511126653231104/hEb3JBzy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/984511126653231104/hEb3JBzy_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepConorLamb",
+        "statuses_count": 300,
+        "url": "https://t.co/IV72iCUpal",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 24170193,
+            "id_str": "24170193",
+            "name": "Pittsburgh International Airport",
+            "screen_name": "PITairport"
+        }
+    ]
+}

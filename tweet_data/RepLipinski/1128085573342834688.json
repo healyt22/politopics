@@ -1,0 +1,111 @@
+{
+    "created_at": "Mon May 13 23:52:14 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "STEM"
+        }
+    ],
+    "id": 1128085573342834688,
+    "id_str": "1128085573342834688",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/mwcTsMY6UP",
+            "expanded_url": "https://twitter.com/RepLipinski/status/1128085573342834688/video/1",
+            "id": 1128084886642941955,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128084886642941955/pu/img/K3P257THS95sk1A6.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128084886642941955/pu/img/K3P257THS95sk1A6.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/mwcTsMY6UP",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 93874,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1128084886642941955/pu/pl/JeVNoYh8kTOz92pg.m3u8?tag=9"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1128084886642941955/pu/vid/1280x720/IE3LcznVCKuS6prL.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1128084886642941955/pu/vid/640x360/UHczkpIuNZDlTeI7.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1128084886642941955/pu/vid/320x180/bE-SyDvDFRBqbY2v.mp4?tag=9"
+                    }
+                ]
+            }
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Congressman Lipinski speaking at the #STEM Lab at @SaintXavier today. https://t.co/mwcTsMY6UP",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 13 17:03:06 +0000 2012",
+        "description": "Proudly representing the people of Illinois' 3rd Congressional District. Follow me on Facebook at https://t.co/oqe6Q8PbEE",
+        "favourites_count": 1086,
+        "followers_count": 14439,
+        "friends_count": 2526,
+        "id": 1009269193,
+        "id_str": "1009269193",
+        "listed_count": 711,
+        "name": "Rep. Daniel Lipinski",
+        "profile_background_color": "141CB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009269193/1374164575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092568323324284930/d0_wkX3V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092568323324284930/d0_wkX3V_normal.jpg",
+        "profile_link_color": "101FC9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLipinski",
+        "statuses_count": 3182,
+        "url": "https://t.co/QEykShdHO4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22581041,
+            "id_str": "22581041",
+            "name": "Saint Xavier",
+            "screen_name": "SaintXavier"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "created_at": "Fri Apr 05 19:47:00 +0000 2019",
+    "hashtags": [
+        {
+            "text": "AICommitted"
+        }
+    ],
+    "id": 1114253122229211141,
+    "id_str": "1114253122229211141",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Fri Apr 05 18:34:04 +0000 2019",
+        "favorite_count": 62,
+        "hashtags": [],
+        "id": 1114234765010440193,
+        "id_str": "1114234765010440193",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "A few of our guys had the opportunity to meet with @RepRichardNeal, who is himself an @AIConcampus alum!\u2026 https://t.co/mpgVZVR6aZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1114234765010440193",
+                "url": "https://t.co/mpgVZVR6aZ"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Nov 18 23:58:20 +0000 2013",
+            "description": "Official account for the D-I American International College men's ice hockey team. #AICommitted",
+            "favourites_count": 3329,
+            "followers_count": 3696,
+            "friends_count": 335,
+            "geo_enabled": true,
+            "id": 2202178495,
+            "id_str": "2202178495",
+            "listed_count": 51,
+            "location": "Springfield, Mass. | MMC",
+            "name": "AIC Hockey",
+            "profile_background_color": "FFDD00",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2202178495/1520179584",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974007715671441408/plPXF2mq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974007715671441408/plPXF2mq_normal.jpg",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AIC_Hockey",
+            "statuses_count": 8755,
+            "url": "https://t.co/3oEnThF4my"
+        },
+        "user_mentions": [
+            {
+                "id": 442824717,
+                "id_str": "442824717",
+                "name": "Rep. Richard Neal",
+                "screen_name": "RepRichardNeal"
+            },
+            {
+                "id": 538320315,
+                "id_str": "538320315",
+                "name": "AIC",
+                "screen_name": "AIConcampus"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AIC_Hockey: A few of our guys had the opportunity to meet with @RepRichardNeal, who is himself an @AIConcampus alum! #AICommitted https\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 21 14:18:30 +0000 2011",
+        "default_profile": true,
+        "description": "Serving the 1st District of Massachusetts in the US House of Representatives, with 87 cities & towns in western & central MA. Chairman of @WaysMeansCmte.",
+        "followers_count": 28165,
+        "friends_count": 57,
+        "id": 442824717,
+        "id_str": "442824717",
+        "listed_count": 931,
+        "name": "Rep. Richard Neal",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/442824717/1548792228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2245213250/TP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2245213250/TP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRichardNeal",
+        "statuses_count": 1883,
+        "url": "https://t.co/0gvFZ0xBDb",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2202178495,
+            "id_str": "2202178495",
+            "name": "AIC Hockey",
+            "screen_name": "AIC_Hockey"
+        },
+        {
+            "id": 442824717,
+            "id_str": "442824717",
+            "name": "Rep. Richard Neal",
+            "screen_name": "RepRichardNeal"
+        },
+        {
+            "id": 538320315,
+            "id_str": "538320315",
+            "name": "AIC",
+            "screen_name": "AIConcampus"
+        }
+    ]
+}

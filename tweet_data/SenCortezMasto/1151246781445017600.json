@@ -1,0 +1,133 @@
+{
+    "created_at": "Tue Jul 16 21:46:36 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [
+        {
+            "text": "LatinoConservationWeek"
+        }
+    ],
+    "id": 1151246781445017600,
+    "id_str": "1151246781445017600",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 16 12:19:26 +0000 2019",
+        "favorite_count": 76,
+        "hashtags": [
+            {
+                "text": "LatinoConservationWeek"
+            }
+        ],
+        "id": 1151104050584330242,
+        "id_str": "1151104050584330242",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QUYR5AsETa",
+                "expanded_url": "https://twitter.com/USFWS/status/1151104050584330242/photo/1",
+                "id": 1151104048285794304,
+                "media_url": "http://pbs.twimg.com/media/D_mLCHmWwAARQyB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_mLCHmWwAARQyB.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1072,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 356,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/QUYR5AsETa"
+            }
+        ],
+        "retweet_count": 33,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "Wishing everyone a wonderful #LatinoConservationWeek! Find an event near you at https://t.co/lQV7dLt596 https://t.co/QUYR5AsETa",
+        "urls": [
+            {
+                "expanded_url": "http://LatinoConservationWeek.com",
+                "url": "https://t.co/lQV7dLt596"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jul 17 12:06:12 +0000 2009",
+            "description": "The U.S. Fish and Wildlife Service (USFWS) is dedicated to the conservation, protection and enhancement of fish, wildlife and plants, and their habitats.",
+            "favourites_count": 36198,
+            "followers_count": 213289,
+            "friends_count": 48622,
+            "geo_enabled": true,
+            "id": 57625403,
+            "id_str": "57625403",
+            "listed_count": 3296,
+            "location": "Washington, DC",
+            "name": "US Fish and Wildlife",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/57625403/1481752554",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877224343352348672/TIrrbqtT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877224343352348672/TIrrbqtT_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "USFWS",
+            "statuses_count": 16220,
+            "url": "https://t.co/N2SA4UnmmD",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1151104050584330242,
+    "quoted_status_id_str": "1151104050584330242",
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "This week is #LatinoConservationWeek. Get outdoors &amp; explore some of the Silver State\u2019s incredible parks or partici\u2026 https://t.co/SiGj1UFUwU",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151246781445017600",
+            "url": "https://t.co/SiGj1UFUwU"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Dec 20 20:53:22 +0000 2016",
+        "default_profile": true,
+        "description": "U.S. Senator from the great state of Nevada.",
+        "favourites_count": 1350,
+        "followers_count": 37611,
+        "friends_count": 797,
+        "id": 811313565760163844,
+        "id_str": "811313565760163844",
+        "listed_count": 895,
+        "name": "Senator Cortez Masto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/811313565760163844/1543508943",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1068180241258995712/DFf2se46_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068180241258995712/DFf2se46_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCortezMasto",
+        "statuses_count": 5509,
+        "url": "https://t.co/v6sRnbH7nI",
+        "verified": true
+    },
+    "user_mentions": []
+}

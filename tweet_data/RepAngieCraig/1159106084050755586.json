@@ -1,0 +1,83 @@
+{
+    "created_at": "Wed Aug 07 14:16:40 +0000 2019",
+    "favorite_count": 19,
+    "hashtags": [],
+    "id": 1159106084050755586,
+    "id_str": "1159106084050755586",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/DiuQrum6WM",
+            "expanded_url": "https://twitter.com/RepAngieCraig/status/1159106084050755586/photo/1",
+            "id": 1159106062504660992,
+            "media_url": "http://pbs.twimg.com/media/EBX40piXkAA97p-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBX40piXkAA97p-.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/DiuQrum6WM"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Starting the day off right with a @MNFarmBureau Pancake Breakfast. @kevinpaap - pass the chocolate chips! https://t.co/DiuQrum6WM",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 01 22:00:55 +0000 2019",
+        "default_profile": true,
+        "description": "Official Twitter account of U.S. Rep Angie Craig representing Minnesota's 2nd CD.\n\n\ud83d\udcde: (651) 846-2120\n\ud83c\udfe2: 12940 Harriet Avenue South, #238, Burnsville, MN 55337",
+        "followers_count": 14675,
+        "friends_count": 455,
+        "id": 1080222360643485698,
+        "id_str": "1080222360643485698",
+        "listed_count": 260,
+        "name": "Angie Craig",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080222360643485698/1546446584",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080496704221310976/dquA_cvK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080496704221310976/dquA_cvK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAngieCraig",
+        "statuses_count": 631,
+        "url": "https://t.co/BKdiGpwNCb",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 97286436,
+            "id_str": "97286436",
+            "name": "MN Farm Bureau",
+            "screen_name": "MNFarmBureau"
+        },
+        {
+            "id": 45692603,
+            "id_str": "45692603",
+            "name": "Kevin Paap",
+            "screen_name": "kevinpaap"
+        }
+    ]
+}

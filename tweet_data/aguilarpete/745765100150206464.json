@@ -1,0 +1,89 @@
+{
+    "created_at": "Wed Jun 22 23:47:10 +0000 2016",
+    "favorite_count": 50,
+    "hashtags": [
+        {
+            "text": "NoBillNoBreak"
+        }
+    ],
+    "id": 745765100150206464,
+    "id_str": "745765100150206464",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/7PnFVg4GeJ",
+            "expanded_url": "https://twitter.com/aguilarpete/status/745765100150206464/photo/1",
+            "id": 745765093753896960,
+            "media_url": "http://pbs.twimg.com/media/Cll9ZssWQAAul3l.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cll9ZssWQAAul3l.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1024,
+                    "h": 768,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1024,
+                    "h": 768,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/7PnFVg4GeJ"
+        }
+    ],
+    "retweet_count": 23,
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "text": ".@ScottPetersSD and .@RepBetoORourke here taping the discussion so everyone can participate #NoBillNoBreak https://t.co/7PnFVg4GeJ",
+    "urls": [],
+    "user": {
+        "created_at": "Thu May 21 05:04:40 +0000 2009",
+        "description": "Dad. Husband. Former pothole filling Mayor and elected Representative of California's 31st district. Living the dream. Personal account",
+        "favourites_count": 4,
+        "followers_count": 2746,
+        "friends_count": 624,
+        "id": 41533245,
+        "id_str": "41533245",
+        "listed_count": 213,
+        "location": "Redlands, CA",
+        "name": "Pete Aguilar",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41533245/1425249861",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "aguilarpete",
+        "statuses_count": 734,
+        "url": "https://t.co/tTc0XSgDq9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 292594517,
+            "id_str": "292594517",
+            "name": "Scott Peters",
+            "screen_name": "ScottPetersSD"
+        },
+        {
+            "id": 1134292500,
+            "id_str": "1134292500",
+            "name": "Rep. Beto O'Rourke",
+            "screen_name": "RepBetoORourke"
+        }
+    ]
+}

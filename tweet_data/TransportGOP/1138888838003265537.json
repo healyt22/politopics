@@ -1,0 +1,104 @@
+{
+    "created_at": "Wed Jun 12 19:20:33 +0000 2019",
+    "hashtags": [],
+    "id": 1138888838003265537,
+    "id_str": "1138888838003265537",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/uqdi1EX59A",
+            "expanded_url": "https://twitter.com/TransportGOP/status/1138888838003265537/video/1",
+            "id": 1138888291586060288,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138888291586060288/pu/img/chOaH0i0xAS-8hD_.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138888291586060288/pu/img/chOaH0i0xAS-8hD_.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 315,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 555,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 592,
+                    "h": 1280,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/uqdi1EX59A",
+            "video_info": {
+                "aspect_ratio": [
+                    37,
+                    80
+                ],
+                "duration_millis": 29213,
+                "variants": [
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1138888291586060288/pu/vid/320x690/f5rnGr_yNWMnxGPw.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1138888291586060288/pu/pl/prEcWFLdc3Fe329J.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1138888291586060288/pu/vid/360x778/7_34OLeEllinP3h1.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1138888291586060288/pu/vid/592x1280/TUKuP-mC6dNuL82P.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83d\udcf8 keep up with all the committee action and follow us - https://t.co/zWdgfLd4jN https://t.co/uqdi1EX59A",
+    "urls": [
+        {
+            "expanded_url": "https://bit.ly/2Tnt4Gn",
+            "url": "https://t.co/zWdgfLd4jN"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Apr 27 19:14:48 +0000 2009",
+        "description": "Transportation & Infrastructure Committee:  Aviation, Maritime, Highway, Transit, Railroad, Pipeline, Hazmat, Water Resource. \nhttps://t.co/U77pFeIWjV",
+        "favourites_count": 1200,
+        "followers_count": 19389,
+        "friends_count": 743,
+        "id": 35829796,
+        "id_str": "35829796",
+        "listed_count": 905,
+        "location": "Washington, D.C.",
+        "name": "T&I Committee Republicans",
+        "profile_background_color": "002442",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35829796/1546902426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082725836996915201/KxeIMSB5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082725836996915201/KxeIMSB5_normal.jpg",
+        "profile_link_color": "FF4A4A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F9FEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "TransportGOP",
+        "statuses_count": 8158,
+        "url": "https://t.co/Nuz80ra8Hq",
+        "verified": true
+    },
+    "user_mentions": []
+}

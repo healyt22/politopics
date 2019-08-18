@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Feb 23 23:13:12 +0000 2019",
+    "hashtags": [],
+    "id": 1099447110720720896,
+    "id_str": "1099447110720720896",
+    "lang": "en",
+    "retweet_count": 11,
+    "retweeted_status": {
+        "created_at": "Sat Feb 23 19:56:00 +0000 2019",
+        "favorite_count": 23,
+        "hashtags": [],
+        "id": 1099397484357566464,
+        "id_str": "1099397484357566464",
+        "lang": "en",
+        "retweet_count": 11,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": ".@SenatorTester is co-sponsoring a bill that would permanently extend the Craft Beverage Modernization and Tax Refo\u2026 https://t.co/xdnb0Lp7TW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1099397484357566464",
+                "url": "https://t.co/xdnb0Lp7TW"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 18 21:28:54 +0000 2009",
+            "description": "Bringing you the latest from Montana's largest city. Follow for breaking, state and local news.",
+            "favourites_count": 808,
+            "followers_count": 34655,
+            "friends_count": 866,
+            "geo_enabled": true,
+            "id": 21243049,
+            "id_str": "21243049",
+            "listed_count": 548,
+            "location": "Billings, MT",
+            "name": "Billings Gazette",
+            "profile_background_color": "231F20",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21243049/1507585581",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/917484976949444608/6eoPhUDg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/917484976949444608/6eoPhUDg_normal.jpg",
+            "profile_link_color": "1270C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "billingsgazette",
+            "statuses_count": 67137,
+            "url": "http://t.co/zHuQuiSC2N"
+        },
+        "user_mentions": [
+            {
+                "id": 515822213,
+                "id_str": "515822213",
+                "name": "Senator Jon Tester",
+                "screen_name": "SenatorTester"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @billingsgazette: .@SenatorTester is co-sponsoring a bill that would permanently extend the Craft Beverage Modernization and Tax Reform\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 05 20:13:29 +0000 2012",
+        "description": "Third-generation Montana farmer. Proud grandfather. Former school teacher. Flattop icon. Trumpet player. Montana's senior Senator.",
+        "favourites_count": 300,
+        "followers_count": 94817,
+        "friends_count": 1001,
+        "geo_enabled": true,
+        "id": 515822213,
+        "id_str": "515822213",
+        "listed_count": 1370,
+        "location": "Montana",
+        "name": "Senator Jon Tester",
+        "profile_background_color": "0C0203",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/515822213/1490051228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_link_color": "FA610F",
+        "profile_sidebar_border_color": "D6BCAB",
+        "profile_sidebar_fill_color": "BE9658",
+        "profile_text_color": "544D3D",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTester",
+        "statuses_count": 4605,
+        "url": "http://t.co/G4S7FHr0Od",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21243049,
+            "id_str": "21243049",
+            "name": "Billings Gazette",
+            "screen_name": "billingsgazette"
+        },
+        {
+            "id": 515822213,
+            "id_str": "515822213",
+            "name": "Senator Jon Tester",
+            "screen_name": "SenatorTester"
+        }
+    ]
+}

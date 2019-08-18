@@ -2,6 +2,7 @@ import os, json, string, re
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from scipy.sparse import coo_matrix
@@ -9,27 +10,27 @@ from argparse import ArgumentParser
 import logging as log
 log.basicConfig(format='%(asctime)s | %(levelname)s | %(message)s',
                 datefmt='%m/%d/%Y %I:%M:%S %p',
-                level=log.DEBUG)
+                level=log.INFO)
 
 class Preprocess():
-    def __init__(self, handle):
+    def __init__(self, handle, n_terms=None):
         '''
         Initialize with raw json twitter data from /data directory
         '''
         self.handle = handle
-        log.info('Processing Tweets from ' + handle)
+        self.n_terms = n_terms
         base_path = os.path.dirname(os.path.realpath(__file__))
         data_dir = os.path.join(base_path,'tweet_data/{0}/'.format(handle))
         tweet_files = os.listdir(data_dir)
         self.data = []
+        log.info('Gathering Tweets from ' + data_dir)
         for tweet_file in tweet_files:
             filename = data_dir + tweet_file
             with open(filename) as json_file:
                 tweet_raw = json.load(json_file)
             self.data.append(tweet_raw)
-        self.tweets = {(handle + '-' + tweet['id_str']):tweet['text'] \
-            for tweet in self.data}
-        self.clean_tweets = {}
+        self.tweets = [tweet['text'] for tweet in self.data]
+        self.ids = [tweet['id_str'] for tweet in self.data]
         self.main()
 
     def preprocess(self, tweet):
@@ -49,26 +50,50 @@ class Preprocess():
         words = [word for word in stripped if word.isalpha()]
         # filter out stop words
         stop_words = set(stopwords.words('english'))
-        words = [w for w in words if not w in stop_words]
-        if words[0] == 'rt':
-            words = words[2:]
-        #words = ' '.join(words)
-        return(words)
+        word_list = [w for w in words if not w in stop_words]
+        if word_list[0] == 'rt':
+            word_list = word_list[2:]
+        word_str = ' '.join(word_list)
+        return(word_list, word_str)
+
+    def clean_tweets(self):
+        log.info('Processing Tweets from ' + self.handle)
+        self.clean_tweets = []
+        self.clean_tweets_str = []
+        for tweet in self.tweets:
+            try:
+                clean_tweet_list, clean_tweet_str = self.preprocess(tweet)
+                self.clean_tweets.append(clean_tweet_list)
+                self.clean_tweets_str.append(clean_tweet_str)
+            except IndexError:
+                log.warn('ERROR: ' + tweet)
+                continue
+
+    def tf_idf(self):
+        tfidf = TfidfVectorizer()
+        self.td_matrix = tfidf.fit_transform(self.clean_tweets_str)
+        self.vocab = tfidf.get_feature_names()
+        self.tf_idf = {}
+        nonzero_rows = self.td_matrix.nonzero()[0]
+        nonzero_cols = self.td_matrix.nonzero()[1]
+        for row_idx, col_idx in zip(nonzero_rows, nonzero_cols):
+            self.tf_idf.update({self.vocab[col_idx]: self.td_matrix[row_idx, col_idx]})
+        self.tf_idf = dict(sorted(self.tf_idf.items(), key=lambda x: x[1], reverse=True))
+        if self.n_terms is None:
+            self.n_terms = len(self.vocab)
+        #print('\n' + str(self.n_terms) + ' Most Important Terms for: ' + self.handle)
+        #for term, score in list(self.tf_idf.items())[0:self.n_terms]:
+        #    print(' | '.join([term, str(score)]))
 
     def main(self):
-        for tweet_id in self.tweets.keys():
-            tweet_i = self.tweets[tweet_id]
-            try:
-                clean_tweet = self.preprocess(tweet_i)
-                self.clean_tweets[tweet_id] = clean_tweet
-            except IndexError:
-                log.warn('ERROR: ' + tweet_i)
-                continue
-        #self.build_td()
+        self.clean_tweets()
+        self.tf_idf()
 
 if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument("-t", "--twitter_handle",
         help="Twitter handle to pull tweets against.")
+    parser.add_argument("-n", "--n_terms",
+        help="Number of top tf-idf terms")
     args = parser.parse_args()
-    Preprocess(args.twitter_handle).main()
+    Preprocess(args.twitter_handle, args.n_terms).main()

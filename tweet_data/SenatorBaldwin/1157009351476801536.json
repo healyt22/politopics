@@ -1,0 +1,124 @@
+{
+    "created_at": "Thu Aug 01 19:25:00 +0000 2019",
+    "favorite_count": 52,
+    "hashtags": [],
+    "id": 1157009351476801536,
+    "id_str": "1157009351476801536",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Aug 01 13:00:01 +0000 2019",
+        "favorite_count": 28,
+        "hashtags": [
+            {
+                "text": "WIStateFair"
+            }
+        ],
+        "id": 1156912469136175104,
+        "id_str": "1156912469136175104",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Y2r3aUqtaA",
+                "expanded_url": "https://twitter.com/wistatefair/status/1156912469136175104/photo/1",
+                "id": 1156721667873419264,
+                "media_url": "http://pbs.twimg.com/media/EA2AOnWXsAAhrPN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EA2AOnWXsAAhrPN.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Y2r3aUqtaA"
+            }
+        ],
+        "retweet_count": 13,
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "The best 11 days of summer start TODAY! It's time for the 2019 Wisconsin State Fair! #WIStateFair https://t.co/Y2r3aUqtaA",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Apr 20 16:44:38 +0000 2009",
+            "description": "Join us for the 2019 State Fair, Aug. 1-11! Animals, family activities, music and much more. #WIStateFair",
+            "favourites_count": 2348,
+            "followers_count": 21074,
+            "friends_count": 582,
+            "geo_enabled": true,
+            "id": 33575662,
+            "id_str": "33575662",
+            "listed_count": 458,
+            "name": "Wisconsin State Fair",
+            "profile_background_color": "4A913C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33575662/1563286829",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1081657396546727937/flbkCSFr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081657396546727937/flbkCSFr_normal.jpg",
+            "profile_link_color": "0D91A8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "screen_name": "wistatefair",
+            "statuses_count": 4342,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1156912469136175104,
+    "quoted_status_id_str": "1156912469136175104",
+    "retweet_count": 8,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "I can smell those freshly baked cream puffs all the way from Washington\u2026\n\nHappy first day of the Wisconsin State Fa\u2026 https://t.co/6pr1ERTyc2",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1157009351476801536",
+            "url": "https://t.co/6pr1ERTyc2"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 09 18:29:44 +0000 2013",
+        "description": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+        "favourites_count": 480,
+        "followers_count": 111300,
+        "friends_count": 2659,
+        "geo_enabled": true,
+        "id": 1074518754,
+        "id_str": "1074518754",
+        "listed_count": 2322,
+        "location": "Washington, D.C.",
+        "name": "Sen. Tammy Baldwin",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074518754/1524675375",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888484691120148481/IQiOuvpT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888484691120148481/IQiOuvpT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorBaldwin",
+        "statuses_count": 13330,
+        "url": "http://t.co/p7vErFeoRD",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,84 @@
+{
+    "created_at": "Sat Oct 27 16:10:22 +0000 2018",
+    "favorite_count": 39,
+    "hashtags": [
+        {
+            "text": "TeamComer"
+        }
+    ],
+    "id": 1056216543816835074,
+    "id_str": "1056216543816835074",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Ggora8MDXa",
+            "expanded_url": "https://twitter.com/KYComer/status/1056216543816835074/photo/1",
+            "id": 1056216517111537665,
+            "media_url": "http://pbs.twimg.com/media/DqhvU4RVYAE_neK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqhvU4RVYAE_neK.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 1200,
+                    "h": 667,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1138,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 378,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ggora8MDXa"
+        }
+    ],
+    "retweet_count": 8,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#TeamComer was in full force at the @murraystateuniv Homecoming Parade! https://t.co/Ggora8MDXa",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21405148,
+            "id_str": "21405148",
+            "name": "Murray State University",
+            "screen_name": "murraystateuniv"
+        }
+    ]
+}

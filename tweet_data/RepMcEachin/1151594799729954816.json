@@ -1,0 +1,153 @@
+{
+    "created_at": "Wed Jul 17 20:49:30 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1151594799729954816,
+    "id_str": "1151594799729954816",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 17 18:05:45 +0000 2019",
+        "favorite_count": 27,
+        "hashtags": [],
+        "id": 1151553590454104064,
+        "id_str": "1151553590454104064",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status_id": 1151505566625402881,
+        "quoted_status_id_str": "1151505566625402881",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Very excited to represent @VCU and @vcusoe at this hearing. https://t.co/Wj3SYsHYpc",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/Koolbeck/status/1151505566625402881",
+                "url": "https://t.co/Wj3SYsHYpc"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Oct 16 18:57:10 +0000 2016",
+            "default_profile": true,
+            "description": "Dean, VCU School of Education",
+            "favourites_count": 927,
+            "followers_count": 660,
+            "friends_count": 343,
+            "geo_enabled": true,
+            "id": 787729112517390336,
+            "id_str": "787729112517390336",
+            "listed_count": 5,
+            "location": "Richmond, VA",
+            "name": "Dr. Andrew P. Daire",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/787729112517390336/1554294698",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/787731687962583040/irBwOJjJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/787731687962583040/irBwOJjJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AndrewDaire",
+            "statuses_count": 754,
+            "url": "https://t.co/sgF0LMLWmV"
+        },
+        "user_mentions": [
+            {
+                "id": 156714051,
+                "id_str": "156714051",
+                "name": "VCU",
+                "screen_name": "VCU"
+            },
+            {
+                "id": 20072348,
+                "id_str": "20072348",
+                "name": "VCU Education",
+                "screen_name": "vcusoe"
+            }
+        ]
+    },
+    "quoted_status_id": 1151553590454104064,
+    "quoted_status_id_str": "1151553590454104064",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Pleased to see Dean @AndrewDaire on the Hill to testify at today\u2019s @EdLaborCmte hearing on the importance of divers\u2026 https://t.co/Am1YCYXDAc",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151594799729954816",
+            "url": "https://t.co/Am1YCYXDAc"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 03 07:15:10 +0000 2017",
+        "description": "Father, husband & Progressive Democrat. Proudly representing VA\u2019s Fighting 4th Congressional District #VA04. Member @EnergyCommerce  @climatecrisis & @NRDems.",
+        "favourites_count": 946,
+        "followers_count": 8469,
+        "friends_count": 1297,
+        "geo_enabled": true,
+        "id": 816181091673448448,
+        "id_str": "816181091673448448",
+        "listed_count": 385,
+        "name": "Rep. Donald McEachin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816181091673448448/1520458426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_link_color": "0A5539",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMcEachin",
+        "statuses_count": 3832,
+        "url": "https://t.co/IsHgFCD4gT",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 787729112517390336,
+            "id_str": "787729112517390336",
+            "name": "Dr. Andrew P. Daire",
+            "screen_name": "AndrewDaire"
+        },
+        {
+            "id": 7004382,
+            "id_str": "7004382",
+            "name": "Committee on Education & Labor",
+            "screen_name": "EdLaborCmte"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Sun Jun 23 18:00:00 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1142854834833379329,
+    "id_str": "1142854834833379329",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Xuu2d4brEm",
+            "expanded_url": "https://twitter.com/RepSmucker/status/1142854834833379329/video/1",
+            "id": 1142165754646863872,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142165754646863872/pu/img/LYwZDHDqfdx7UD-x.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142165754646863872/pu/img/LYwZDHDqfdx7UD-x.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Xuu2d4brEm",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 47347,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1142165754646863872/pu/vid/1280x720/Zy4_7jO4CwqOPzu1.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1142165754646863872/pu/vid/480x270/5cWWXoG9mV4fkF32.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1142165754646863872/pu/vid/640x360/lYPhjXCIeYnxlSiC.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1142165754646863872/pu/pl/fIEFJ9XMjiuTrIix.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "ICYMI- It was an pleasure to work with @SenToomey to honor Vietnam-era Veterans in Columbia last week. https://t.co/Xuu2d4brEm",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 20 18:31:13 +0000 2009",
+        "description": "Representing the people of #PA11 in the U.S. House of Representatives. Husband & father.",
+        "favourites_count": 142,
+        "followers_count": 7389,
+        "friends_count": 104,
+        "id": 41417564,
+        "id_str": "41417564",
+        "listed_count": 463,
+        "location": "Lancaster, PA",
+        "name": "Rep. Lloyd Smucker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41417564/1499786206",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/974660770322579456/jgo6fbWC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/974660770322579456/jgo6fbWC_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepSmucker",
+        "statuses_count": 3803,
+        "url": "https://t.co/YKMSx3njz4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 221162525,
+            "id_str": "221162525",
+            "name": "Senator Pat Toomey",
+            "screen_name": "SenToomey"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "created_at": "Tue Apr 23 19:52:43 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [
+        {
+            "text": "MuellerReport"
+        }
+    ],
+    "id": 1120777540598149124,
+    "id_str": "1120777540598149124",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "As I told @dagenmcdowell last week, the release of the #MuellerReport was a good day for President @realDonaldTrump\u2026 https://t.co/DJGEn0Bu7y",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1120777540598149124",
+            "url": "https://t.co/DJGEn0Bu7y"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Aug 06 15:25:19 +0000 2008",
+        "description": "Congressman for Texas' 26th District, M.D. (Ob/Gyn) in my former life",
+        "favourites_count": 117,
+        "followers_count": 28491,
+        "friends_count": 1970,
+        "geo_enabled": true,
+        "id": 15751083,
+        "id_str": "15751083",
+        "listed_count": 1502,
+        "location": "Washington, DC/Lake Dallas, TX",
+        "name": "Michael Burgess, MD",
+        "profile_background_color": "090A8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15751083/1483312385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FF2941",
+        "profile_sidebar_fill_color": "E2E3E9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "michaelcburgess",
+        "statuses_count": 5754,
+        "url": "http://t.co/qj3aLBJUa9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 58120509,
+            "id_str": "58120509",
+            "name": "Dagen McDowell",
+            "screen_name": "dagenmcdowell"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "created_at": "Tue Sep 11 21:05:32 +0000 2018",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "RoshHashanah"
+        }
+    ],
+    "id": 1039620983882178563,
+    "id_str": "1039620983882178563",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/5pNYkYXwt6",
+            "expanded_url": "https://twitter.com/virginiafoxx/status/1039620983882178563/photo/1",
+            "id": 1039620980056969217,
+            "media_url": "http://pbs.twimg.com/media/Dm15xfFW0AECo3j.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dm15xfFW0AECo3j.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 357,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 630,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1200,
+                    "h": 630,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/5pNYkYXwt6"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "To our friends celebrating #RoshHashanah, Tom and I wish you a blessed new year! https://t.co/5pNYkYXwt6",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 12 13:30:07 +0000 2008",
+        "description": "Congresswoman Virginia Foxx. Conservative representing North Carolina's Fifth District.",
+        "favourites_count": 119,
+        "followers_count": 24412,
+        "friends_count": 1391,
+        "geo_enabled": true,
+        "id": 16256269,
+        "id_str": "16256269",
+        "listed_count": 1440,
+        "location": "Banner Elk, NC",
+        "name": "Virginia Foxx",
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16256269/1540250456",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/826530077798187010/ol7ZEx04_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/826530077798187010/ol7ZEx04_normal.jpg",
+        "profile_link_color": "4A3DE0",
+        "profile_sidebar_border_color": "C0C2D6",
+        "profile_sidebar_fill_color": "EAEBFC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "virginiafoxx",
+        "statuses_count": 3909,
+        "url": "http://t.co/v3FwVSsRH1",
+        "verified": true
+    },
+    "user_mentions": []
+}

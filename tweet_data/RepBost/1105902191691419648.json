@@ -1,0 +1,153 @@
+{
+    "created_at": "Wed Mar 13 18:43:23 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [],
+    "id": 1105902191691419648,
+    "id_str": "1105902191691419648",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Mar 13 18:38:22 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1105900929209982977,
+        "id_str": "1105900929209982977",
+        "in_reply_to_screen_name": "RepBost",
+        "in_reply_to_user_id": 2964877294,
+        "lang": "en",
+        "place": {
+            "id": "8fa6d7a33b83ef26",
+            "url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json",
+            "place_type": "city",
+            "name": "Paradise",
+            "full_name": "Paradise, NV",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -115.2092535,
+                            35.984784
+                        ],
+                        [
+                            -115.0610763,
+                            35.984784
+                        ],
+                        [
+                            -115.0610763,
+                            36.137145
+                        ],
+                        [
+                            -115.2092535,
+                            36.137145
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@repBost @HomeDepot is investing over $1 billion in our supply chain to meet the needs of our customers. Help us re\u2026 https://t.co/DubapHK74m",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1105900929209982977",
+                "url": "https://t.co/DubapHK74m"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Mar 23 15:48:59 +0000 2014",
+            "default_profile": true,
+            "favourites_count": 681,
+            "followers_count": 126,
+            "friends_count": 64,
+            "geo_enabled": true,
+            "id": 2431288114,
+            "id_str": "2431288114",
+            "listed_count": 2,
+            "name": "THD 1979 Marion IL",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/652854330471632896/JYwIlFk__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/652854330471632896/JYwIlFk__normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "wamauzy",
+            "statuses_count": 167
+        },
+        "user_mentions": [
+            {
+                "id": 2964877294,
+                "id_str": "2964877294",
+                "name": "Rep. Mike Bost",
+                "screen_name": "RepBost"
+            },
+            {
+                "id": 14791918,
+                "id_str": "14791918",
+                "name": "The Home Depot",
+                "screen_name": "HomeDepot"
+            }
+        ]
+    },
+    "quoted_status_id": 1105900929209982977,
+    "quoted_status_id_str": "1105900929209982977",
+    "retweet_count": 3,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "The time for talk is over \u2013 we must act! I agree with @HomeDepot and @wamauzy that it\u2019s time for Congress to act on\u2026 https://t.co/7kocC6tmQI",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1105902191691419648",
+            "url": "https://t.co/7kocC6tmQI"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 06 19:55:08 +0000 2015",
+        "description": "Member of Congress proudly representing IL-12. Serving on @TransportGOP, @HouseAgGOP, and @HouseVetAffairs Committees. Find me on FB at https://t.co/cjWY9Itiyr",
+        "favourites_count": 341,
+        "followers_count": 11114,
+        "friends_count": 1887,
+        "geo_enabled": true,
+        "id": 2964877294,
+        "id_str": "2964877294",
+        "listed_count": 467,
+        "location": "IL-12 Congressional District",
+        "name": "Rep. Mike Bost",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964877294/1548969417",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553681697867575296/TbRJrmrc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553681697867575296/TbRJrmrc_normal.jpeg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepBost",
+        "statuses_count": 1906,
+        "url": "https://t.co/4tXoH7NdiQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14791918,
+            "id_str": "14791918",
+            "name": "The Home Depot",
+            "screen_name": "HomeDepot"
+        },
+        {
+            "id": 2431288114,
+            "id_str": "2431288114",
+            "name": "THD 1979 Marion IL",
+            "screen_name": "wamauzy"
+        }
+    ]
+}

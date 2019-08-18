@@ -1,0 +1,129 @@
+{
+    "created_at": "Fri Aug 16 14:02:19 +0000 2019",
+    "hashtags": [
+        {
+            "text": "abq"
+        }
+    ],
+    "id": 1162363965709701120,
+    "id_str": "1162363965709701120",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Aug 16 13:55:15 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "abq"
+            }
+        ],
+        "id": 1162362186250870784,
+        "id_str": "1162362186250870784",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Kitchen offers classes, work space and, soon, a cafe https://t.co/JOtEUxj7Me #abq via @abqjournal @MartinHeinrich",
+        "urls": [
+            {
+                "expanded_url": "https://abqjournal.com/1354490",
+                "url": "https://t.co/JOtEUxj7Me"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jul 03 16:40:36 +0000 2011",
+            "default_profile": true,
+            "description": "Albuquerque Journal staff writer",
+            "favourites_count": 2474,
+            "followers_count": 227,
+            "friends_count": 620,
+            "geo_enabled": true,
+            "id": 328569864,
+            "id_str": "328569864",
+            "listed_count": 7,
+            "location": "Albuquerque, NM",
+            "name": "Scott Turner",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/328569864/1437687194",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/624331531981488129/6zJh3k16_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/624331531981488129/6zJh3k16_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ScottTurner_",
+            "statuses_count": 2745
+        },
+        "user_mentions": [
+            {
+                "id": 14385076,
+                "id_str": "14385076",
+                "name": "Albuquerque Journal",
+                "screen_name": "ABQJournal"
+            },
+            {
+                "id": 1099199839,
+                "id_str": "1099199839",
+                "name": "Martin Heinrich",
+                "screen_name": "MartinHeinrich"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ScottTurner_: Kitchen offers classes, work space and, soon, a cafe https://t.co/JOtEUxj7Me #abq via @abqjournal @MartinHeinrich",
+    "urls": [
+        {
+            "expanded_url": "https://abqjournal.com/1354490",
+            "url": "https://t.co/JOtEUxj7Me"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 17 20:24:19 +0000 2013",
+        "description": "United States Senator from New Mexico",
+        "favourites_count": 680,
+        "followers_count": 189567,
+        "friends_count": 572,
+        "geo_enabled": true,
+        "id": 1099199839,
+        "id_str": "1099199839",
+        "listed_count": 1930,
+        "name": "Martin Heinrich",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099199839/1513792542",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091387172282867718/pNhlcC9I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091387172282867718/pNhlcC9I_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "MartinHeinrich",
+        "statuses_count": 7631,
+        "url": "https://t.co/97adkYcq3x",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 328569864,
+            "id_str": "328569864",
+            "name": "Scott Turner",
+            "screen_name": "ScottTurner_"
+        },
+        {
+            "id": 14385076,
+            "id_str": "14385076",
+            "name": "Albuquerque Journal",
+            "screen_name": "ABQJournal"
+        },
+        {
+            "id": 1099199839,
+            "id_str": "1099199839",
+            "name": "Martin Heinrich",
+            "screen_name": "MartinHeinrich"
+        }
+    ]
+}

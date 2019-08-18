@@ -1,0 +1,166 @@
+{
+    "created_at": "Wed Jun 12 23:00:00 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "stlblues"
+        },
+        {
+            "text": "StanleyCup"
+        },
+        {
+            "text": "WeAllBleedBlue"
+        }
+    ],
+    "id": 1138944065771397120,
+    "id_str": "1138944065771397120",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 12 15:33:39 +0000 2019",
+        "favorite_count": 3625,
+        "hashtags": [
+            {
+                "text": "stlblues"
+            },
+            {
+                "text": "WeAllBleedBlue"
+            }
+        ],
+        "id": 1138831739504214017,
+        "id_str": "1138831739504214017",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/kZF8syTrgS",
+                "expanded_url": "https://twitter.com/StLouisBlues/status/1138831739504214017/video/1",
+                "id": 1138831644981374976,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138831644981374976/pu/img/FYv3vFMmW80ldbgb.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138831644981374976/pu/img/FYv3vFMmW80ldbgb.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/kZF8syTrgS",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 32427,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1138831644981374976/pu/vid/480x270/aQbrIM-LoCqJysFB.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1138831644981374976/pu/pl/UzSXcbdwn_ahpkLV.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1138831644981374976/pu/vid/1280x720/gJOs59aXbWHFPYy9.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1138831644981374976/pu/vid/640x360/oqPW-VRCXZoNzkj3.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 305,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Final gameday skate. #stlblues #WeAllBleedBlue https://t.co/kZF8syTrgS",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Mar 05 20:47:12 +0000 2009",
+            "description": "Official Twitter account of the 2019 Stanley Cup Champion St. Louis Blues. #stlblues #WeAllBleedBlue",
+            "favourites_count": 6069,
+            "followers_count": 723670,
+            "friends_count": 5087,
+            "geo_enabled": true,
+            "id": 22976125,
+            "id_str": "22976125",
+            "listed_count": 4895,
+            "location": "St. Louis, MO",
+            "name": "St. Louis Blues \ud83c\udfc6",
+            "profile_background_color": "00529C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22976125/1560396241",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1139005723847876609/SjCzM9CC_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139005723847876609/SjCzM9CC_normal.png",
+            "profile_link_color": "00005A",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F0D53C",
+            "profile_text_color": "000000",
+            "screen_name": "StLouisBlues",
+            "statuses_count": 62948,
+            "url": "https://t.co/hLbWYdp466",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138831739504214017,
+    "quoted_status_id_str": "1138831739504214017",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "This is it. One game stands between the #stlblues and our first ever #StanleyCup. Tonight #WeAllBleedBlue\u2026 https://t.co/Fe3NWs4QkS",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138944065771397120",
+            "url": "https://t.co/Fe3NWs4QkS"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 26 16:13:03 +0000 2013",
+        "description": "Honored to represent the families of Missouri's 8th Congressional District in the United States House of Representatives.",
+        "favourites_count": 108,
+        "followers_count": 26318,
+        "friends_count": 962,
+        "geo_enabled": true,
+        "id": 1623308912,
+        "id_str": "1623308912",
+        "listed_count": 626,
+        "location": "MO-08",
+        "name": "Rep. Jason Smith",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1623308912/1446578714",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661622139779461120/sdj6vlvm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661622139779461120/sdj6vlvm_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJasonSmith",
+        "statuses_count": 3379,
+        "url": "http://t.co/dxAOG6A9MK",
+        "verified": true
+    },
+    "user_mentions": []
+}

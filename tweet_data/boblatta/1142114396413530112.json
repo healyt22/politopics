@@ -1,0 +1,111 @@
+{
+    "created_at": "Fri Jun 21 16:57:46 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "ProtectLife"
+        },
+        {
+            "text": "TitleX"
+        }
+    ],
+    "id": 1142114396413530112,
+    "id_str": "1142114396413530112",
+    "in_reply_to_screen_name": "boblatta",
+    "in_reply_to_status_id": 1142114059258617857,
+    "in_reply_to_user_id": 15394954,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/KRx4sdnknI",
+            "expanded_url": "https://twitter.com/boblatta/status/1142114396413530112/video/1",
+            "id": 1142114127688732672,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142114127688732672/pu/img/k1mhlvsso-kfLvIV.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142114127688732672/pu/img/k1mhlvsso-kfLvIV.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/KRx4sdnknI",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 33300,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1142114127688732672/pu/pl/1TYhSoJJ1wP2gvCj.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1142114127688732672/pu/vid/480x270/7qVq_R43MBkO4noJ.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1142114127688732672/pu/vid/640x360/IC5jjlHjiknkl9w9.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1142114127688732672/pu/vid/1280x720/byRyEBWJnqLOKk6I.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I also asked her to clarify if the \u201cgag rule\u201d with the #ProtectLife #TitleX Rule infringes on freedom of speech. https://t.co/KRx4sdnknI",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 11 18:33:24 +0000 2008",
+        "description": "Representing #OH5. Deputy Whip. Member of @HouseCommerce Committee. Republican Leader of the Communications and Technology Subcommittee.",
+        "favourites_count": 540,
+        "followers_count": 37780,
+        "friends_count": 2940,
+        "geo_enabled": true,
+        "id": 15394954,
+        "id_str": "15394954",
+        "listed_count": 1350,
+        "name": "U.S. Rep. Bob Latta",
+        "profile_background_color": "4F4F4F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15394954/1565216908",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621369511636135937/Zk5PgsWw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621369511636135937/Zk5PgsWw_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "550000",
+        "profile_sidebar_fill_color": "B2CEED",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "boblatta",
+        "statuses_count": 7168,
+        "url": "https://t.co/CIaeduqh2k",
+        "verified": true
+    },
+    "user_mentions": []
+}

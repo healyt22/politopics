@@ -1,0 +1,117 @@
+{
+    "created_at": "Fri Mar 15 13:24:48 +0000 2019",
+    "hashtags": [],
+    "id": 1106546793561686016,
+    "id_str": "1106546793561686016",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Mar 15 13:21:41 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 1106546006009757696,
+        "id_str": "1106546006009757696",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thanks to @RepTrey for visiting FC today and answering questions submitted by @FCClassof2k19 .  Great job\u2026 https://t.co/hzlnnzlFwI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1106546006009757696",
+                "url": "https://t.co/hzlnnzlFwI"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 21 21:49:46 +0000 2013",
+            "favourites_count": 3094,
+            "followers_count": 1469,
+            "friends_count": 141,
+            "geo_enabled": true,
+            "id": 1110132408,
+            "id_str": "1110132408",
+            "listed_count": 11,
+            "location": "Floyd Central High School",
+            "name": "Rob Willman, Ph.D.",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/748498563898937344/wziJQGus_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/748498563898937344/wziJQGus_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "FloydCentralHS",
+            "statuses_count": 4083
+        },
+        "user_mentions": [
+            {
+                "id": 811986281177772032,
+                "id_str": "811986281177772032",
+                "name": "Trey Hollingsworth",
+                "screen_name": "RepTrey"
+            },
+            {
+                "id": 999375892563550208,
+                "id_str": "999375892563550208",
+                "name": "Floyd Central Class of 2019",
+                "screen_name": "FCClassof2k19"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @FloydCentralHS: Thanks to @RepTrey for visiting FC today and answering questions submitted by @FCClassof2k19 .  Great job @meldrum_p an\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 22 17:26:30 +0000 2016",
+        "description": "Proudly serving my fellow Hoosiers of Indiana's 9th District. Member of the House Financial Services Committee.",
+        "favourites_count": 176,
+        "followers_count": 8652,
+        "friends_count": 619,
+        "id": 811986281177772032,
+        "id_str": "811986281177772032",
+        "listed_count": 311,
+        "location": "Indiana's 9th District",
+        "name": "Trey Hollingsworth",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/811986281177772032/1547661963",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088501775336902657/4O_H6qOp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088501775336902657/4O_H6qOp_normal.jpg",
+        "profile_link_color": "234176",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepTrey",
+        "statuses_count": 621,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1110132408,
+            "id_str": "1110132408",
+            "name": "Rob Willman, Ph.D.",
+            "screen_name": "FloydCentralHS"
+        },
+        {
+            "id": 811986281177772032,
+            "id_str": "811986281177772032",
+            "name": "Trey Hollingsworth",
+            "screen_name": "RepTrey"
+        },
+        {
+            "id": 999375892563550208,
+            "id_str": "999375892563550208",
+            "name": "Floyd Central Class of 2019",
+            "screen_name": "FCClassof2k19"
+        },
+        {
+            "id": 2566263154,
+            "id_str": "2566263154",
+            "name": "Kate Meldrum",
+            "screen_name": "meldrum_p"
+        }
+    ]
+}

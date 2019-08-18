@@ -1,0 +1,107 @@
+{
+    "created_at": "Tue May 07 22:53:52 +0000 2019",
+    "favorite_count": 22,
+    "hashtags": [
+        {
+            "text": "FreedomDinner"
+        }
+    ],
+    "id": 1125896558640291841,
+    "id_str": "1125896558640291841",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 07 22:41:57 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "FreedomDinner"
+            }
+        ],
+        "id": 1125893559746539520,
+        "id_str": "1125893559746539520",
+        "lang": "en",
+        "quoted_status_id": 1125867308201717761,
+        "quoted_status_id_str": "1125867308201717761",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Our Freedom Dinner and Award Ceremony starts in 20 minutes! Follow the conversation: #FreedomDinner https://t.co/mpgfi3TSEA",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/jdurquilla/status/1125867308201717761",
+                "url": "https://t.co/mpgfi3TSEA"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 30 20:23:37 +0000 2009",
+            "description": "The International Republican Institute is a nonprofit, nonpartisan organization committed to advancing freedom and democracy worldwide.",
+            "favourites_count": 1277,
+            "followers_count": 30535,
+            "friends_count": 6290,
+            "id": 36761621,
+            "id_str": "36761621",
+            "listed_count": 618,
+            "name": "IRI",
+            "profile_background_color": "ADADB0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/36761621/1514994616",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/462322137911422976/4OtVUn-2_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/462322137911422976/4OtVUn-2_normal.jpeg",
+            "profile_link_color": "A32638",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "IRIglobal",
+            "statuses_count": 32988,
+            "url": "http://t.co/736U4emMvI",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1125893559746539520,
+    "quoted_status_id_str": "1125893559746539520",
+    "retweet_count": 8,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Excited to join @IRIglobal this evening, celebrate freedom, and recommit to IRI\u2019s critical mission. #FreedomDinner https://t.co/OB7wViQMCs",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/IRIglobal/status/1125893559746539520",
+            "url": "https://t.co/OB7wViQMCs"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 05 21:25:42 +0000 2014",
+        "default_profile": true,
+        "description": "Official twitter account for U.S. Senator Dan Sullivan.  Proudly serving the state of Alaska.",
+        "favourites_count": 173,
+        "followers_count": 38129,
+        "friends_count": 694,
+        "geo_enabled": true,
+        "id": 2891210047,
+        "id_str": "2891210047",
+        "listed_count": 980,
+        "name": "Sen. Dan Sullivan",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553674509639618560/XOdVwVGN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553674509639618560/XOdVwVGN_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenDanSullivan",
+        "statuses_count": 2574,
+        "url": "http://t.co/9uIoLCChCm",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 36761621,
+            "id_str": "36761621",
+            "name": "IRI",
+            "screen_name": "IRIglobal"
+        }
+    ]
+}

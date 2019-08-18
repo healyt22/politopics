@@ -1,0 +1,84 @@
+{
+    "created_at": "Tue Jul 09 00:53:51 +0000 2019",
+    "favorite_count": 18,
+    "hashtags": [
+        {
+            "text": "Texas"
+        }
+    ],
+    "id": 1148394802121232384,
+    "id_str": "1148394802121232384",
+    "lang": "en",
+    "place": {
+        "id": "70e141776f5dc801",
+        "url": "https://api.twitter.com/1.1/geo/id/70e141776f5dc801.json",
+        "place_type": "city",
+        "name": "West Point",
+        "full_name": "West Point, NY",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -74.019942,
+                        41.319606
+                    ],
+                    [
+                        -73.95073,
+                        41.319606
+                    ],
+                    [
+                        -73.95073,
+                        41.413449
+                    ],
+                    [
+                        -74.019942,
+                        41.413449
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Sitting with cadets from the Lone Star State talking about all things #Texas.\u00a0\u00a0Football might have been a topic \ud83c\udfc8\u2026 https://t.co/wiDdwZ6sOy",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1148394802121232384",
+            "url": "https://t.co/wiDdwZ6sOy"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 03 14:06:44 +0000 2017",
+        "description": "Proudly representing the good people of West Texas in Congress.",
+        "favourites_count": 240,
+        "followers_count": 7314,
+        "friends_count": 1256,
+        "geo_enabled": true,
+        "id": 816284664658874368,
+        "id_str": "816284664658874368",
+        "listed_count": 310,
+        "location": "West Texas",
+        "name": "Rep. Arrington",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816284664658874368/1536674512",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1044646049791520768/2b1S7QU8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044646049791520768/2b1S7QU8_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepArrington",
+        "statuses_count": 1834,
+        "url": "https://t.co/DZziBJQejF",
+        "verified": true
+    },
+    "user_mentions": []
+}

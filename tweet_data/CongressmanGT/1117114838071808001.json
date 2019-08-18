@@ -1,0 +1,118 @@
+{
+    "created_at": "Sat Apr 13 17:18:27 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "EagleScout"
+        },
+        {
+            "text": "NESA"
+        },
+        {
+            "text": "BSA"
+        }
+    ],
+    "id": 1117114838071808001,
+    "id_str": "1117114838071808001",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/6YtQdI9efq",
+            "expanded_url": "https://twitter.com/CongressmanGT/status/1117114838071808001/photo/1",
+            "id": 1117114832539586561,
+            "media_url": "http://pbs.twimg.com/media/D4DKBX7XkAEfa4C.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4DKBX7XkAEfa4C.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/6YtQdI9efq"
+        }
+    ],
+    "place": {
+        "id": "3c0a28d72969fe75",
+        "url": "https://api.twitter.com/1.1/geo/id/3c0a28d72969fe75.json",
+        "place_type": "city",
+        "name": "DuBois",
+        "full_name": "DuBois, PA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -78.795764,
+                        41.099823
+                    ],
+                    [
+                        -78.718823,
+                        41.099823
+                    ],
+                    [
+                        -78.718823,
+                        41.149145
+                    ],
+                    [
+                        -78.795764,
+                        41.149145
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Attending the #EagleScout Court of Honor for DuBois Troop Scouts Lucas Knarr and Josiah Shaffer #NESA #BSA https://t.co/6YtQdI9efq",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 14 04:54:58 +0000 2009",
+        "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania's 15th Congressional District. #PA15",
+        "favourites_count": 368,
+        "followers_count": 20504,
+        "friends_count": 2970,
+        "geo_enabled": true,
+        "id": 18967498,
+        "id_str": "18967498",
+        "listed_count": 1175,
+        "location": "Howard, Pennsylvania",
+        "name": "Glenn 'GT' Thompson",
+        "profile_background_color": "383B78",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18967498/1546544253",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+        "profile_link_color": "0E17B5",
+        "profile_sidebar_border_color": "F7EFF7",
+        "profile_sidebar_fill_color": "FCFF57",
+        "profile_text_color": "0A090A",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanGT",
+        "statuses_count": 7403,
+        "url": "http://t.co/DvqrekKjtb",
+        "verified": true
+    },
+    "user_mentions": []
+}

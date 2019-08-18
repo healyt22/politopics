@@ -1,0 +1,113 @@
+{
+    "created_at": "Sun Jul 07 15:55:28 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [
+        {
+            "text": "USWNT"
+        },
+        {
+            "text": "WomensWorldCup"
+        },
+        {
+            "text": "USAvNED"
+        }
+    ],
+    "id": 1147896923845812224,
+    "id_str": "1147896923845812224",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/nORVLB9tqk",
+            "expanded_url": "https://twitter.com/RobinLynneKelly/status/1147896923845812224/video/1",
+            "id": 1147896807546073088,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147896807546073088/pu/img/SI6BAG-6evMLFr1U.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147896807546073088/pu/img/SI6BAG-6evMLFr1U.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/nORVLB9tqk",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 10507,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1147896807546073088/pu/vid/640x360/TDgJKz-jvF0lLPkU.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1147896807546073088/pu/vid/480x270/2MMIgwuZ2JQnWHPi.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1147896807546073088/pu/pl/EjSoGufeGF7IF1kc.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1147896807546073088/pu/vid/1280x720/u-1Oyw7uyWQflUXN.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "A message for #USWNT as they play in the #WomensWorldCup Finals today!  #USAvNED https://t.co/nORVLB9tqk",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 06 21:46:47 +0000 2009",
+        "default_profile": true,
+        "description": "Congresswoman, 2nd Illinois' Congressional district",
+        "favourites_count": 616,
+        "followers_count": 5809,
+        "friends_count": 4415,
+        "geo_enabled": true,
+        "id": 38285038,
+        "id_str": "38285038",
+        "listed_count": 314,
+        "location": "Matteson, Illinois",
+        "name": "Robin Kelly",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38285038/1551370123",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1027179306433302530/gMmiZTEI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1027179306433302530/gMmiZTEI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RobinLynneKelly",
+        "statuses_count": 6927,
+        "url": "https://t.co/VpGqIcMLEg",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,139 @@
+{
+    "created_at": "Tue Aug 13 15:17:49 +0000 2019",
+    "favorite_count": 26,
+    "hashtags": [
+        {
+            "text": "GACL19"
+        }
+    ],
+    "id": 1161295802452631552,
+    "id_str": "1161295802452631552",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Aug 13 14:03:03 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1161276983889866752,
+        "id_str": "1161276983889866752",
+        "lang": "en",
+        "place": {
+            "id": "11a2c1d62d4084d1",
+            "url": "https://api.twitter.com/1.1/geo/id/11a2c1d62d4084d1.json",
+            "place_type": "city",
+            "name": "Macon",
+            "full_name": "Macon, GA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.786106,
+                            32.7528097
+                        ],
+                        [
+                            -83.522053,
+                            32.7528097
+                        ],
+                        [
+                            -83.522053,
+                            32.944825
+                        ],
+                        [
+                            -83.786106,
+                            32.944825
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today the Georgia Chamber is in Macon, GA for our Congressional Luncheon event! We can\u2019t wait for guests to hear fr\u2026 https://t.co/mPOv6OboSt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161276983889866752",
+                "url": "https://t.co/mPOv6OboSt"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 20 15:05:36 +0000 2009",
+            "description": "Working to make Georgia a better state of business: Follow us for grassroots updates on legislative issues, chamber events & news from GA's business community",
+            "favourites_count": 3118,
+            "followers_count": 23044,
+            "friends_count": 9871,
+            "geo_enabled": true,
+            "id": 25517146,
+            "id_str": "25517146",
+            "listed_count": 343,
+            "location": "Atlanta, GA",
+            "name": "Georgia Chamber",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25517146/1565716114",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1057334523950641152/DYfqkKc8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057334523950641152/DYfqkKc8_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C9C9C9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GAChamber",
+            "statuses_count": 6984,
+            "url": "https://t.co/JwH017Si8o"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1161276983889866752,
+    "quoted_status_id_str": "1161276983889866752",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Looking forward to joining @GAChamber! #GACL19 https://t.co/lD8t7VJCy8",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/GAChamber/status/1161276983889866752",
+            "url": "https://t.co/lD8t7VJCy8"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 05 20:58:02 +0000 2014",
+        "default_profile": true,
+        "description": "Official Twitter account for U.S. Senator David Perdue of Georgia.",
+        "favourites_count": 537,
+        "followers_count": 66656,
+        "friends_count": 1012,
+        "geo_enabled": true,
+        "id": 2863210809,
+        "id_str": "2863210809",
+        "listed_count": 1359,
+        "location": "Georgia",
+        "name": "David Perdue",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863210809/1553346257",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/821843329008680967/zqpECZrD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/821843329008680967/zqpECZrD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sendavidperdue",
+        "statuses_count": 3956,
+        "url": "https://t.co/I3Xla8NlsK",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25517146,
+            "id_str": "25517146",
+            "name": "Georgia Chamber",
+            "screen_name": "GAChamber"
+        }
+    ]
+}

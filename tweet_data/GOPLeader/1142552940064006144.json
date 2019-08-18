@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Jun 22 22:00:23 +0000 2019",
+    "hashtags": [],
+    "id": 1142552940064006144,
+    "id_str": "1142552940064006144",
+    "lang": "en",
+    "retweet_count": 79,
+    "retweeted_status": {
+        "created_at": "Fri Jun 21 15:56:39 +0000 2019",
+        "favorite_count": 252,
+        "hashtags": [],
+        "id": 1142099019084312579,
+        "id_str": "1142099019084312579",
+        "lang": "en",
+        "retweet_count": 79,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\"There needs to be a national-level regulation, not state-by-state on what we\u2019re going to do about privacy,\"\u2026 https://t.co/c6a4nTn5DS",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1142099019084312579",
+                "url": "https://t.co/c6a4nTn5DS"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Sep 10 13:20:18 +0000 2010",
+            "default_profile": true,
+            "description": "Congressional reporter for the Wall Street Journal. Orioles AND Nats fan. Unabashed swim-a-holic.",
+            "favourites_count": 2664,
+            "followers_count": 10337,
+            "friends_count": 1496,
+            "id": 189129306,
+            "id_str": "189129306",
+            "listed_count": 439,
+            "location": "Washington, D.C.",
+            "name": "Kristina L. Peterson",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1006273186726490112/pzkJndLw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006273186726490112/pzkJndLw_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "kristinapet",
+            "statuses_count": 6245,
+            "url": "http://t.co/aBQXNrhtGJ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @kristinapet: \"There needs to be a national-level regulation, not state-by-state on what we\u2019re going to do about privacy,\" @GOPLeader te\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+        "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.\nhttps://t.co/ZqWsqD6L0T",
+        "favourites_count": 1742,
+        "followers_count": 311976,
+        "friends_count": 1385,
+        "geo_enabled": true,
+        "id": 19739126,
+        "id_str": "19739126",
+        "listed_count": 3905,
+        "location": "Bakersfield, CA",
+        "name": "Kevin McCarthy",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1561180371",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+        "profile_link_color": "0A2644",
+        "profile_sidebar_border_color": "FF0000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "122C73",
+        "profile_use_background_image": true,
+        "screen_name": "GOPLeader",
+        "statuses_count": 10644,
+        "url": "https://t.co/eB1lud6Yi3",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 189129306,
+            "id_str": "189129306",
+            "name": "Kristina L. Peterson",
+            "screen_name": "kristinapet"
+        },
+        {
+            "id": 19739126,
+            "id_str": "19739126",
+            "name": "Kevin McCarthy",
+            "screen_name": "GOPLeader"
+        }
+    ]
+}

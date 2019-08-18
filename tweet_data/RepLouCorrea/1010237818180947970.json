@@ -1,0 +1,168 @@
+{
+    "created_at": "Fri Jun 22 19:07:19 +0000 2018",
+    "hashtags": [],
+    "id": 1010237818180947970,
+    "id_str": "1010237818180947970",
+    "lang": "en",
+    "quoted_status_id": 1010229011941912576,
+    "quoted_status_id_str": "1010229011941912576",
+    "retweet_count": 14,
+    "retweeted_status": {
+        "created_at": "Fri Jun 22 19:01:59 +0000 2018",
+        "favorite_count": 40,
+        "hashtags": [],
+        "id": 1010236473763946496,
+        "id_str": "1010236473763946496",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Fri Jun 22 18:32:20 +0000 2018",
+            "favorite_count": 488,
+            "hashtags": [
+                {
+                    "text": "Democrats"
+                }
+            ],
+            "id": 1010229011941912576,
+            "id_str": "1010229011941912576",
+            "lang": "en",
+            "retweet_count": 241,
+            "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+            "text": "I am leading 122 #Democrats in demanding answers from @DHSgov &amp; @HHSgov. DHS+HHS Inspectors General must immediatel\u2026 https://t.co/8YQbXMsGXu",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1010229011941912576",
+                    "url": "https://t.co/8YQbXMsGXu"
+                }
+            ],
+            "user": {
+                "created_at": "Mon Jan 02 18:16:08 +0000 2017",
+                "default_profile": true,
+                "description": "Father. Public servant. Member of Congress. @HouseJudiciary @HomelandDemsHouse",
+                "favourites_count": 18,
+                "followers_count": 8392,
+                "friends_count": 8,
+                "id": 815985039485837312,
+                "id_str": "815985039485837312",
+                "listed_count": 375,
+                "location": "Santa Ana, CA",
+                "name": "Rep. Lou Correa",
+                "profile_background_color": "F5F8FA",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/815985039485837312/1517411599",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/958720189897625601/c-SpjpEc_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/958720189897625601/c-SpjpEc_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "RepLouCorrea",
+                "statuses_count": 566,
+                "url": "https://t.co/BEpOrcEkaK",
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 15647676,
+                    "id_str": "15647676",
+                    "name": "Homeland Security",
+                    "screen_name": "DHSgov"
+                },
+                {
+                    "id": 44783853,
+                    "id_str": "44783853",
+                    "name": "HHS.gov",
+                    "screen_name": "HHSGov"
+                }
+            ]
+        },
+        "quoted_status_id": 1010229011941912576,
+        "quoted_status_id_str": "1010229011941912576",
+        "retweet_count": 14,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Proud to stand with @RepLouCorrea and my fellow Democrats. We cannot allow the Trump Administration's inhumane fami\u2026 https://t.co/ANKMTh26IX",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1010236473763946496",
+                "url": "https://t.co/ANKMTh26IX"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Mar 22 04:32:56 +0000 2009",
+            "description": "I represented portions of southeastern MI in Congress from 1983-2019. Former Ways and Means Committee Member and leader.",
+            "favourites_count": 416,
+            "followers_count": 26253,
+            "friends_count": 17112,
+            "geo_enabled": true,
+            "id": 25781141,
+            "id_str": "25781141",
+            "listed_count": 1145,
+            "name": "Former U.S. Rep. Sandy Levin",
+            "profile_background_color": "040B57",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25781141/1348076617",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/654400470887239680/5c3vUQZZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/654400470887239680/5c3vUQZZ_normal.jpg",
+            "profile_link_color": "246630",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CCD6C7",
+            "profile_text_color": "333333",
+            "screen_name": "repsandylevin",
+            "statuses_count": 3255,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 815985039485837312,
+                "id_str": "815985039485837312",
+                "name": "Rep. Lou Correa",
+                "screen_name": "RepLouCorrea"
+            }
+        ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "RT @repsandylevin: Proud to stand with @RepLouCorrea and my fellow Democrats. We cannot allow the Trump Administration's inhumane family se\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 02 18:16:08 +0000 2017",
+        "default_profile": true,
+        "description": "Father. Public servant. Member of Congress. @HouseJudiciary @HomelandDemsHouse",
+        "favourites_count": 18,
+        "followers_count": 8392,
+        "friends_count": 8,
+        "id": 815985039485837312,
+        "id_str": "815985039485837312",
+        "listed_count": 375,
+        "location": "Santa Ana, CA",
+        "name": "Rep. Lou Correa",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815985039485837312/1517411599",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/958720189897625601/c-SpjpEc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/958720189897625601/c-SpjpEc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLouCorrea",
+        "statuses_count": 566,
+        "url": "https://t.co/BEpOrcEkaK",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25781141,
+            "id_str": "25781141",
+            "name": "Former U.S. Rep. Sandy Levin",
+            "screen_name": "repsandylevin"
+        },
+        {
+            "id": 815985039485837312,
+            "id_str": "815985039485837312",
+            "name": "Rep. Lou Correa",
+            "screen_name": "RepLouCorrea"
+        }
+    ]
+}

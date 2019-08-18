@@ -1,0 +1,116 @@
+{
+    "created_at": "Tue Jul 02 00:00:23 +0000 2019",
+    "hashtags": [],
+    "id": 1145844629604098048,
+    "id_str": "1145844629604098048",
+    "lang": "en",
+    "retweet_count": 8832,
+    "retweeted_status": {
+        "created_at": "Mon Jul 01 23:33:28 +0000 2019",
+        "favorite_count": 21701,
+        "hashtags": [],
+        "id": 1145837857539612673,
+        "id_str": "1145837857539612673",
+        "in_reply_to_screen_name": "JoaquinCastrotx",
+        "in_reply_to_status_id": 1145837849775869952,
+        "in_reply_to_user_id": 231510077,
+        "lang": "en",
+        "retweet_count": 8832,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "All Americans must help to change this system. Thank you to the members who attended today: @RepEscobar,\u2026 https://t.co/Y0BqJDDhjb",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1145837857539612673",
+                "url": "https://t.co/Y0BqJDDhjb"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+            "description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of Intelligence and @EdLaborCmte Commitees; host of @DiploCable.",
+            "favourites_count": 5746,
+            "followers_count": 207363,
+            "friends_count": 1914,
+            "geo_enabled": true,
+            "id": 231510077,
+            "id_str": "231510077",
+            "listed_count": 2474,
+            "location": "San Antonio, Texas",
+            "name": "Joaquin Castro",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JoaquinCastrotx",
+            "statuses_count": 14878,
+            "url": "http://t.co/SBuEnv1k",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1075517806551154689,
+                "id_str": "1075517806551154689",
+                "name": "Rep. Veronica Escobar",
+                "screen_name": "RepEscobar"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JoaquinCastrotx: All Americans must help to change this system. Thank you to the members who attended today: @RepEscobar, @RepJudyChu,\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 19:33:36 +0000 2013",
+        "description": "Official Twitter account of Congressman Joe Kennedy III, representing Massachusetts' 4th Congressional District.",
+        "favourites_count": 12,
+        "followers_count": 782157,
+        "friends_count": 699,
+        "geo_enabled": true,
+        "id": 1055907624,
+        "id_str": "1055907624",
+        "listed_count": 3314,
+        "name": "Rep. Joe Kennedy III",
+        "profile_background_color": "10214A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055907624/1506705689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_link_color": "BF1B1B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeKennedy",
+        "statuses_count": 5315,
+        "url": "https://t.co/rYNEysanC2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 231510077,
+            "id_str": "231510077",
+            "name": "Joaquin Castro",
+            "screen_name": "JoaquinCastrotx"
+        },
+        {
+            "id": 1075517806551154689,
+            "id_str": "1075517806551154689",
+            "name": "Rep. Veronica Escobar",
+            "screen_name": "RepEscobar"
+        },
+        {
+            "id": 193732179,
+            "id_str": "193732179",
+            "name": "Judy Chu",
+            "screen_name": "RepJudyChu"
+        }
+    ]
+}

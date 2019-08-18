@@ -1,0 +1,129 @@
+{
+    "created_at": "Fri Jan 11 21:49:59 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1083843489857708034,
+    "id_str": "1083843489857708034",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jan 11 16:47:52 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1083767458866122752,
+        "id_str": "1083767458866122752",
+        "lang": "en",
+        "place": {
+            "id": "de599025180e2ee7",
+            "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json",
+            "place_type": "admin",
+            "name": "Ohio",
+            "full_name": "Ohio, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.8203089,
+                            38.403186
+                        ],
+                        [
+                            -80.518626,
+                            38.403186
+                        ],
+                        [
+                            -80.518626,
+                            42.327133
+                        ],
+                        [
+                            -84.8203089,
+                            42.327133
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Should it take more training to be a barber than an EMT? @KatieWedell digs into Ohio's licensing laws. https://t.co/MbbBMSzC1X",
+        "urls": [
+            {
+                "expanded_url": "https://www.mydaytondailynews.com/business/employment/are-ohio-licensing-rules-out-whack/urMysXBWZQbEIExoTcY45K/?ref=cbTopWidget",
+                "url": "https://t.co/MbbBMSzC1X"
+            }
+        ],
+        "user": {
+            "created_at": "Tue May 27 21:03:29 +0000 2008",
+            "description": "I'm a reporter covering Ohio politics & state government for @daytondailynews.",
+            "favourites_count": 1501,
+            "followers_count": 5796,
+            "friends_count": 632,
+            "geo_enabled": true,
+            "id": 14925545,
+            "id_str": "14925545",
+            "listed_count": 279,
+            "location": "Columbus, OH",
+            "name": "Laura Bischoff",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14925545/1564927815",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1043472073492967425/NgY6pObU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043472073492967425/NgY6pObU_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "lbischoff",
+            "statuses_count": 14759,
+            "url": "https://t.co/7BM2WiXUh9"
+        },
+        "user_mentions": [
+            {
+                "id": 32913773,
+                "id_str": "32913773",
+                "name": "Katie Wedell",
+                "screen_name": "KatieWedell"
+            }
+        ]
+    },
+    "quoted_status_id": 1083767458866122752,
+    "quoted_status_id_str": "1083767458866122752",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Congrats to@DaytonDaily news for covering this story. As Chairman of Joint Economic Committee we heard testimony th\u2026 https://t.co/TNXyzDnyRK",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1083843489857708034",
+            "url": "https://t.co/TNXyzDnyRK"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Oct 29 15:02:02 +0000 2012",
+        "description": "Husband, Father, Son, OSU Alum, TBDBITL, #Buckeye fan.",
+        "favourites_count": 765,
+        "followers_count": 15247,
+        "friends_count": 892,
+        "id": 912608010,
+        "id_str": "912608010",
+        "listed_count": 507,
+        "name": "Pat Tiberi",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1042077847714783232/M11u-sm__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042077847714783232/M11u-sm__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "PatTiberi",
+        "statuses_count": 3697,
+        "verified": true
+    },
+    "user_mentions": []
+}

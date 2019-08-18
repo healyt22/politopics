@@ -1,0 +1,111 @@
+{
+    "created_at": "Thu Jul 25 19:33:09 +0000 2019",
+    "favorite_count": 177,
+    "hashtags": [
+        {
+            "text": "ForThePeople"
+        }
+    ],
+    "id": 1154474688535498752,
+    "id_str": "1154474688535498752",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/7JvLAqHek6",
+            "expanded_url": "https://twitter.com/RepCicilline/status/1154473638013353984/video/1",
+            "id": 1154468818414166016,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1154468818414166016/img/1aKzyZrAuULPcSjf.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1154468818414166016/img/1aKzyZrAuULPcSjf.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/7JvLAqHek6",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 86722,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1154468818414166016/pl/0xiL4lrBxIqgA7_j.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154468818414166016/vid/640x360/0FQCbdPhNV1sEFrn.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154468818414166016/vid/480x270/nSQ8ZinSEZdqfWsz.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154468818414166016/vid/1280x720/JXtyOL5qDlkQC61_.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 35,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Proud to celebrate 200 days of @HouseDemocrats delivering results #ForThePeople https://t.co/7JvLAqHek6",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Mar 10 13:53:21 +0000 2009",
+        "description": "Congressman for Rhode Island\u2019s 1st District.   DPCC Chair.  Antitrust Subcommittee Chairman. #ForThePeople",
+        "favourites_count": 2727,
+        "followers_count": 94860,
+        "friends_count": 5047,
+        "geo_enabled": true,
+        "id": 23593446,
+        "id_str": "23593446",
+        "listed_count": 1577,
+        "name": "David Cicilline",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23593446/1533056627",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960354458365554694/gaOJMfBF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960354458365554694/gaOJMfBF_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "davidcicilline",
+        "statuses_count": 19393,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43963249,
+            "id_str": "43963249",
+            "name": "House Democrats",
+            "screen_name": "HouseDemocrats"
+        }
+    ]
+}

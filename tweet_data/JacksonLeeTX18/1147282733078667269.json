@@ -1,0 +1,210 @@
+{
+    "created_at": "Fri Jul 05 23:14:53 +0000 2019",
+    "hashtags": [],
+    "id": 1147282733078667269,
+    "id_str": "1147282733078667269",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/YzSPmj0vDE",
+            "expanded_url": "https://twitter.com/Reuters/status/1147263889488457729/video/1",
+            "id": 1147199364395409410,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1147199364395409410/img/LQ2Ta9QvyvkBDEg9.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1147199364395409410/img/LQ2Ta9QvyvkBDEg9.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/YzSPmj0vDE",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 48516,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1147199364395409410/vid/1280x720/BsnkUlGsBWqmpaOl.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1147199364395409410/pl/1miS1PK76xyMncfo.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1147199364395409410/vid/480x270/OJmwkF7uyEoBb2Xt.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1147199364395409410/vid/640x360/s4HuJCn1bawh-Gur.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 387,
+    "retweeted_status": {
+        "created_at": "Fri Jul 05 22:00:01 +0000 2019",
+        "favorite_count": 954,
+        "hashtags": [],
+        "id": 1147263889488457729,
+        "id_str": "1147263889488457729",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YzSPmj0vDE",
+                "expanded_url": "https://twitter.com/Reuters/status/1147263889488457729/video/1",
+                "id": 1147199364395409410,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1147199364395409410/img/LQ2Ta9QvyvkBDEg9.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1147199364395409410/img/LQ2Ta9QvyvkBDEg9.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/YzSPmj0vDE",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 48516,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1147199364395409410/vid/1280x720/BsnkUlGsBWqmpaOl.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1147199364395409410/pl/1miS1PK76xyMncfo.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1147199364395409410/vid/480x270/OJmwkF7uyEoBb2Xt.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1147199364395409410/vid/640x360/s4HuJCn1bawh-Gur.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 387,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "A 12-year-old Nigerian coder creates laundry-folding robot https://t.co/YzSPmj0vDE",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Mar 20 17:46:05 +0000 2007",
+            "description": "Top and breaking news, pictures, and videos from Reuters.",
+            "favourites_count": 765,
+            "followers_count": 20588807,
+            "friends_count": 1084,
+            "id": 1652541,
+            "id_str": "1652541",
+            "listed_count": 118371,
+            "location": "Around the world",
+            "name": "Reuters Top News",
+            "profile_background_color": "444444",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1525365834",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+            "profile_link_color": "006F97",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F5F5F5",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "Reuters",
+            "statuses_count": 416565,
+            "url": "http://t.co/BmHxhkm3Mh",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @Reuters: A 12-year-old Nigerian coder creates laundry-folding robot https://t.co/YzSPmj0vDE",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Oct 07 16:13:13 +0000 2009",
+        "description": "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas' 18th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 9993,
+        "followers_count": 75987,
+        "friends_count": 2505,
+        "geo_enabled": true,
+        "id": 80612021,
+        "id_str": "80612021",
+        "listed_count": 1748,
+        "location": "Houston, TX",
+        "name": "Sheila Jackson Lee",
+        "profile_background_color": "F5F7FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80612021/1538174062",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+        "profile_link_color": "0A2AFC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E4E4E4",
+        "profile_text_color": "E61212",
+        "profile_use_background_image": true,
+        "screen_name": "JacksonLeeTX18",
+        "statuses_count": 7715,
+        "url": "https://t.co/5K4lQ3yBcP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1652541,
+            "id_str": "1652541",
+            "name": "Reuters Top News",
+            "screen_name": "Reuters"
+        }
+    ]
+}

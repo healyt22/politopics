@@ -1,0 +1,140 @@
+{
+    "created_at": "Wed Jul 17 19:41:29 +0000 2019",
+    "hashtags": [],
+    "id": 1151577682729197569,
+    "id_str": "1151577682729197569",
+    "lang": "en",
+    "retweet_count": 100,
+    "retweeted_status": {
+        "created_at": "Wed Jul 17 19:22:45 +0000 2019",
+        "favorite_count": 258,
+        "hashtags": [],
+        "id": 1151572966787993600,
+        "id_str": "1151572966787993600",
+        "lang": "en",
+        "place": {
+            "id": "161d2f18e3a0445a",
+            "url": "https://api.twitter.com/1.1/geo/id/161d2f18e3a0445a.json",
+            "place_type": "city",
+            "name": "Raleigh",
+            "full_name": "Raleigh, NC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.818343,
+                            35.7158045
+                        ],
+                        [
+                            -78.497331,
+                            35.7158045
+                        ],
+                        [
+                            -78.497331,
+                            35.9721579
+                        ],
+                        [
+                            -78.818343,
+                            35.9721579
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 100,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ". @BetsyDeVosED's Education Freedom Scholarship plan would expand opportunity and choice for all families across No\u2026 https://t.co/dwhN1Hamgq",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151572966787993600",
+                "url": "https://t.co/dwhN1Hamgq"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Sep 16 18:13:58 +0000 2013",
+            "description": "The official page for Lt. Governor Dan Forest.",
+            "favourites_count": 1529,
+            "followers_count": 6473,
+            "friends_count": 941,
+            "geo_enabled": true,
+            "id": 1872523242,
+            "id_str": "1872523242",
+            "listed_count": 113,
+            "location": "Raleigh, NC",
+            "name": "Lt. Gov. Dan Forest",
+            "profile_background_color": "D4D9DB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872523242/1429215165",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000771192131/142cd048bbd7ae13a43c2f37dd017e01_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000771192131/142cd048bbd7ae13a43c2f37dd017e01_normal.jpeg",
+            "profile_link_color": "FF0037",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LtGovDanForest",
+            "statuses_count": 2707,
+            "url": "https://t.co/qiWTxSjzkX",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 828997388920619008,
+                "id_str": "828997388920619008",
+                "name": "Secretary Betsy DeVos",
+                "screen_name": "BetsyDeVosED"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LtGovDanForest: . @BetsyDeVosED's Education Freedom Scholarship plan would expand opportunity and choice for all families across North\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Nov 22 02:20:50 +0000 2012",
+        "description": "Businessman, husband, and father proudly representing North Carolina's 11th Congressional District. Chairman of @freedomcaucus.",
+        "favourites_count": 390,
+        "followers_count": 354979,
+        "friends_count": 960,
+        "geo_enabled": true,
+        "id": 963480595,
+        "id_str": "963480595",
+        "listed_count": 2383,
+        "location": "Jackson County, NC",
+        "name": "Mark Meadows",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/963480595/1392915093",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827624420923539456/rcp86XAS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827624420923539456/rcp86XAS_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMarkMeadows",
+        "statuses_count": 2848,
+        "url": "https://t.co/awcfuLCQk1",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1872523242,
+            "id_str": "1872523242",
+            "name": "Lt. Gov. Dan Forest",
+            "screen_name": "LtGovDanForest"
+        },
+        {
+            "id": 828997388920619008,
+            "id_str": "828997388920619008",
+            "name": "Secretary Betsy DeVos",
+            "screen_name": "BetsyDeVosED"
+        }
+    ]
+}

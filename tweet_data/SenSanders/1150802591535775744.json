@@ -1,0 +1,108 @@
+{
+    "created_at": "Mon Jul 15 16:21:33 +0000 2019",
+    "favorite_count": 8438,
+    "hashtags": [],
+    "id": 1150802591535775744,
+    "id_str": "1150802591535775744",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jul 15 00:05:02 +0000 2019",
+        "favorite_count": 8995,
+        "hashtags": [
+            {
+                "text": "PrimeDay"
+            }
+        ],
+        "id": 1150556843204366338,
+        "id_str": "1150556843204366338",
+        "lang": "en",
+        "retweet_count": 4377,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "This is big: @Amazon warehouse workers plan to strike on #PrimeDay to protest dangerous working conditions, unfair\u2026 https://t.co/qFezPmCTUv",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150556843204366338",
+                "url": "https://t.co/qFezPmCTUv"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 26 18:50:39 +0000 2008",
+            "description": "The United Food and Commercial Workers is a family of hard-working men and women building a better life together, serving their communities. #union #retail",
+            "favourites_count": 9568,
+            "followers_count": 82969,
+            "friends_count": 57673,
+            "geo_enabled": true,
+            "id": 16000856,
+            "id_str": "16000856",
+            "listed_count": 1044,
+            "location": "Washington, DC",
+            "name": "UFCW",
+            "profile_background_color": "002B7F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16000856/1565192655",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/848929729465987072/5AHGLyl-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/848929729465987072/5AHGLyl-_normal.jpg",
+            "profile_link_color": "002B7F",
+            "profile_sidebar_border_color": "002B7F",
+            "profile_sidebar_fill_color": "FFC61E",
+            "profile_text_color": "002B7F",
+            "profile_use_background_image": true,
+            "screen_name": "UFCW",
+            "statuses_count": 19764,
+            "url": "https://t.co/Lhq4ItX8BL",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "name": "Amazon.com",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "quoted_status_id": 1150556843204366338,
+    "quoted_status_id_str": "1150556843204366338",
+    "retweet_count": 1788,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I stand in solidarity with the courageous Amazon workers engaging in a work stoppage against unconscionable working\u2026 https://t.co/fcV4HObJOA",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1150802591535775744",
+            "url": "https://t.co/fcV4HObJOA"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Apr 07 13:02:35 +0000 2009",
+        "description": "U.S. Senator Bernie Sanders of Vermont is the longest-serving independent in congressional history.",
+        "favourites_count": 182,
+        "followers_count": 8541109,
+        "friends_count": 2162,
+        "geo_enabled": true,
+        "id": 29442313,
+        "id_str": "29442313",
+        "listed_count": 27186,
+        "location": "Vermont/DC",
+        "name": "Bernie Sanders",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29442313/1430854323",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+        "profile_link_color": "03102D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6CCB6",
+        "profile_text_color": "304562",
+        "profile_use_background_image": true,
+        "screen_name": "SenSanders",
+        "statuses_count": 20487,
+        "url": "http://t.co/8AS4FI1oge",
+        "verified": true
+    },
+    "user_mentions": []
+}

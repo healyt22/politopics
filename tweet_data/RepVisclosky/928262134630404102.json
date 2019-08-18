@@ -1,0 +1,133 @@
+{
+    "created_at": "Wed Nov 08 14:05:13 +0000 2017",
+    "hashtags": [],
+    "id": 928262134630404102,
+    "id_str": "928262134630404102",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Tue Nov 07 20:31:04 +0000 2017",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 927996846664028161,
+        "id_str": "927996846664028161",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "text": "Steel Caucus Urges @POTUS to Defend American Steel during Visit to China https://t.co/3iDbqNTmOd @RepRickCrawford @RepVisclosky @RepBost",
+        "urls": [
+            {
+                "expanded_url": "https://crawford.house.gov/news/documentsingle.aspx?DocumentID=398525",
+                "url": "https://t.co/3iDbqNTmOd"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 01 12:43:56 +0000 2009",
+            "description": "Serves as the voice of the North American steel industry in the public policy arena and advances the case for steel in marketplace as the material of choice.",
+            "favourites_count": 800,
+            "followers_count": 11070,
+            "friends_count": 1108,
+            "id": 52714526,
+            "id_str": "52714526",
+            "listed_count": 213,
+            "location": "Washington, D.C.",
+            "name": "AISI",
+            "profile_background_color": "00466C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/697179788906143744/c0mOYCxP_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/697179788906143744/c0mOYCxP_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "9CA199",
+            "profile_sidebar_fill_color": "CCCCCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "aisisteel",
+            "statuses_count": 5077,
+            "url": "http://t.co/W3TPDXgp5z"
+        },
+        "user_mentions": [
+            {
+                "id": 822215679726100480,
+                "id_str": "822215679726100480",
+                "name": "President Trump",
+                "screen_name": "POTUS"
+            },
+            {
+                "id": 233693291,
+                "id_str": "233693291",
+                "name": "Rep Rick Crawford",
+                "screen_name": "RepRickCrawford"
+            },
+            {
+                "id": 193872188,
+                "id_str": "193872188",
+                "name": "Rep. Pete Visclosky",
+                "screen_name": "RepVisclosky"
+            },
+            {
+                "id": 2964877294,
+                "id_str": "2964877294",
+                "name": "Rep. Mike Bost",
+                "screen_name": "RepBost"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @aisisteel: Steel Caucus Urges @POTUS to Defend American Steel during Visit to China https://t.co/3iDbqNTmOd @RepRickCrawford @RepVisclo\u2026",
+    "urls": [
+        {
+            "expanded_url": "https://crawford.house.gov/news/documentsingle.aspx?DocumentID=398525",
+            "url": "https://t.co/3iDbqNTmOd"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 22 21:24:46 +0000 2010",
+        "description": "Tweets from the Office of Congressman Pete Visclosky, proudly representing the people of Indiana's First Congressional District. Policy: http://t.co/Wi81U7L5zE",
+        "favourites_count": 37,
+        "followers_count": 14962,
+        "friends_count": 1055,
+        "geo_enabled": true,
+        "id": 193872188,
+        "id_str": "193872188",
+        "listed_count": 698,
+        "location": "Northwest, IN - Washington, DC",
+        "name": "Rep. Pete Visclosky",
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193872188/1433276783",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568448535402532867/xbUar8z5_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/568448535402532867/xbUar8z5_normal.png",
+        "profile_link_color": "01064A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepVisclosky",
+        "statuses_count": 1899,
+        "url": "http://t.co/NunATQ3IeS",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 52714526,
+            "id_str": "52714526",
+            "name": "AISI",
+            "screen_name": "aisisteel"
+        },
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        },
+        {
+            "id": 233693291,
+            "id_str": "233693291",
+            "name": "Rep Rick Crawford",
+            "screen_name": "RepRickCrawford"
+        }
+    ]
+}

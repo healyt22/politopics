@@ -1,0 +1,122 @@
+{
+    "created_at": "Mon Jun 24 20:51:02 +0000 2019",
+    "favorite_count": 40,
+    "hashtags": [],
+    "id": 1143260262734192640,
+    "id_str": "1143260262734192640",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 24 17:30:00 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [
+            {
+                "text": "Pittsburgh"
+            },
+            {
+                "text": "PA"
+            }
+        ],
+        "id": 1143209673639780352,
+        "id_str": "1143209673639780352",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "Today in #Pittsburgh #PA history is being made! @BGAlliance released a platform to create good-paying jobs for work\u2026 https://t.co/izMETnjuRI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143209673639780352",
+                "url": "https://t.co/izMETnjuRI"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 27 16:53:54 +0000 2010",
+            "description": "Fighting for better jobs, communities and a brighter future. RT's \u2260 endorsements.",
+            "favourites_count": 9672,
+            "followers_count": 42451,
+            "friends_count": 1659,
+            "id": 108993692,
+            "id_str": "108993692",
+            "listed_count": 606,
+            "location": "U.S., Canada, Caribbean",
+            "name": "United Steelworkers",
+            "profile_background_color": "002C65",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/108993692/1565263331",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/851197778915016708/vxEvhnrt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851197778915016708/vxEvhnrt_normal.jpg",
+            "profile_link_color": "FFB515",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FDB931",
+            "profile_text_color": "021535",
+            "screen_name": "steelworkers",
+            "statuses_count": 17242,
+            "url": "http://t.co/CcstOmhriE"
+        },
+        "user_mentions": [
+            {
+                "id": 91386983,
+                "id_str": "91386983",
+                "name": "BlueGreen Alliance",
+                "screen_name": "BGAlliance"
+            }
+        ]
+    },
+    "quoted_status_id": 1143209673639780352,
+    "quoted_status_id_str": "1143209673639780352",
+    "retweet_count": 14,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "The @steelworkers, @BGAlliance &amp; @NWF get it. The time for action to address climate change is now, and we can do i\u2026 https://t.co/A2AOMlaLot",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143260262734192640",
+            "url": "https://t.co/A2AOMlaLot"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 13 17:43:41 +0000 2017",
+        "description": "Mom, wife, daughter, & loving but distracted friend. US Senator, MN. Birdwatcher and hiker. Prefers window seats, donuts, & MN beer, all together when possible.",
+        "favourites_count": 379,
+        "followers_count": 41463,
+        "friends_count": 1615,
+        "id": 941000686275387392,
+        "id_str": "941000686275387392",
+        "listed_count": 689,
+        "name": "Senator Tina Smith",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143580715700953088/l50Ay7X4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143580715700953088/l50Ay7X4_normal.png",
+        "profile_link_color": "4653A2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenTinaSmith",
+        "statuses_count": 2632,
+        "url": "https://t.co/ijpKqkvEVA",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 108993692,
+            "id_str": "108993692",
+            "name": "United Steelworkers",
+            "screen_name": "steelworkers"
+        },
+        {
+            "id": 91386983,
+            "id_str": "91386983",
+            "name": "BlueGreen Alliance",
+            "screen_name": "BGAlliance"
+        },
+        {
+            "id": 3554721,
+            "id_str": "3554721",
+            "name": "National Wildlife Federation",
+            "screen_name": "NWF"
+        }
+    ]
+}

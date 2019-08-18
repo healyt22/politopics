@@ -1,0 +1,168 @@
+{
+    "created_at": "Wed Jul 24 23:02:53 +0000 2019",
+    "hashtags": [
+        {
+            "text": "MuellerHearings"
+        }
+    ],
+    "id": 1154165080281497600,
+    "id_str": "1154165080281497600",
+    "lang": "en",
+    "retweet_count": 26,
+    "retweeted_status": {
+        "created_at": "Wed Jul 24 22:24:17 +0000 2019",
+        "favorite_count": 63,
+        "hashtags": [
+            {
+                "text": "MuellerHearings"
+            }
+        ],
+        "id": 1154155369482133504,
+        "id_str": "1154155369482133504",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/PsIpkSzbf9",
+                "expanded_url": "https://twitter.com/NBCNewsNow/status/1154155369482133504/video/1",
+                "id": 1154154276064808960,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1154154276064808960/img/AxJDKsWKHASlzEEi.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1154154276064808960/img/AxJDKsWKHASlzEEi.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/PsIpkSzbf9",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 385685,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1154154276064808960/vid/640x360/jueCxALe2efGqagW.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1154154276064808960/vid/480x270/PQWuhy7vtygYzDNs.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1154154276064808960/pl/gj9AcVIk0T2WvTrf.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1154154276064808960/vid/1280x720/tBurZJ-YTAExkKKX.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 26,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "Check out this exclusive behind the scenes look at how Rep. @davidcicilline prepared for the #MuellerHearings https://t.co/PsIpkSzbf9",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Aug 07 19:00:05 +0000 2007",
+            "description": "A new streaming news channel from @NBCNews.",
+            "favourites_count": 1100,
+            "followers_count": 83949,
+            "friends_count": 403,
+            "geo_enabled": true,
+            "id": 8036392,
+            "id_str": "8036392",
+            "listed_count": 2010,
+            "location": "New York, NY",
+            "name": "NBC News NOW",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/8036392/1557354524",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1131650557133938689/TmAm7HDQ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131650557133938689/TmAm7HDQ_normal.png",
+            "profile_link_color": "102039",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "NBCNewsNow",
+            "statuses_count": 38088,
+            "url": "https://t.co/C2ejYb9499",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 23593446,
+                "id_str": "23593446",
+                "name": "David Cicilline",
+                "screen_name": "davidcicilline"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NBCNewsNow: Check out this exclusive behind the scenes look at how Rep. @davidcicilline prepared for the #MuellerHearings https://t.co/\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Mar 10 13:53:21 +0000 2009",
+        "description": "Congressman for Rhode Island\u2019s 1st District.   DPCC Chair.  Antitrust Subcommittee Chairman. #ForThePeople",
+        "favourites_count": 2727,
+        "followers_count": 94860,
+        "friends_count": 5047,
+        "geo_enabled": true,
+        "id": 23593446,
+        "id_str": "23593446",
+        "listed_count": 1577,
+        "name": "David Cicilline",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23593446/1533056627",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960354458365554694/gaOJMfBF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960354458365554694/gaOJMfBF_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "davidcicilline",
+        "statuses_count": 19393,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 8036392,
+            "id_str": "8036392",
+            "name": "NBC News NOW",
+            "screen_name": "NBCNewsNow"
+        },
+        {
+            "id": 23593446,
+            "id_str": "23593446",
+            "name": "David Cicilline",
+            "screen_name": "davidcicilline"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "created_at": "Tue Apr 23 22:03:36 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1120810478144454656,
+    "id_str": "1120810478144454656",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 23 20:58:08 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1120794004419940353,
+        "id_str": "1120794004419940353",
+        "in_reply_to_screen_name": "SenHydeSmith",
+        "in_reply_to_user_id": 983348251972816896,
+        "lang": "en",
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "@SenHydeSmith presents our STEM grant check to \n@FairviewElemen4 Aerospace and Science Magnet School in Columbus, M\u2026 https://t.co/mqGtpGQnuO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1120794004419940353",
+                "url": "https://t.co/mqGtpGQnuO"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Nov 30 18:45:46 +0000 2009",
+            "description": "Our mission is to serve the 10 million people in the Tennessee Valley through Energy, Environment, and Economic Development.",
+            "favourites_count": 1854,
+            "followers_count": 21566,
+            "friends_count": 127,
+            "geo_enabled": true,
+            "id": 93688013,
+            "id_str": "93688013",
+            "listed_count": 420,
+            "name": "Tennessee Valley Authority",
+            "profile_background_color": "4A4B4D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/93688013/1546547120",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/598881751352541184/8vdgwYc0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/598881751352541184/8vdgwYc0_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "TVAnews",
+            "statuses_count": 5754,
+            "url": "http://t.co/NzITJ4mUDn",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 983348251972816896,
+                "id_str": "983348251972816896",
+                "name": "U.S. Senator Cindy Hyde-Smith",
+                "screen_name": "SenHydeSmith"
+            },
+            {
+                "id": 1024827731383668738,
+                "id_str": "1024827731383668738",
+                "name": "Fairview Elementary",
+                "screen_name": "FairviewElemen4"
+            }
+        ]
+    },
+    "quoted_status_id": 1120794004419940353,
+    "quoted_status_id_str": "1120794004419940353",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Enjoyed visiting with students at @FairviewElemen4. This @TVAnews grant will help support their continued work in f\u2026 https://t.co/CTa9Ggn7TW",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1120810478144454656",
+            "url": "https://t.co/CTa9Ggn7TW"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Apr 09 14:17:47 +0000 2018",
+        "default_profile": true,
+        "description": "Office of U.S. Senator Cindy Hyde-Smith (R-Miss.).",
+        "favourites_count": 1004,
+        "followers_count": 6925,
+        "friends_count": 581,
+        "geo_enabled": true,
+        "id": 983348251972816896,
+        "id_str": "983348251972816896",
+        "listed_count": 302,
+        "location": "Brookhaven",
+        "name": "U.S. Senator Cindy Hyde-Smith",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/983348251972816896/1548194897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/991802081119006721/hZJj2JSr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/991802081119006721/hZJj2JSr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenHydeSmith",
+        "statuses_count": 766,
+        "url": "https://t.co/cwhXwzYx2R",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1024827731383668738,
+            "id_str": "1024827731383668738",
+            "name": "Fairview Elementary",
+            "screen_name": "FairviewElemen4"
+        },
+        {
+            "id": 93688013,
+            "id_str": "93688013",
+            "name": "Tennessee Valley Authority",
+            "screen_name": "TVAnews"
+        }
+    ]
+}

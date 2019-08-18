@@ -1,0 +1,97 @@
+{
+    "created_at": "Fri May 10 21:23:24 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1126960956679049217,
+    "id_str": "1126960956679049217",
+    "in_reply_to_screen_name": "kyledcheney",
+    "in_reply_to_status_id": 1126605914910359552,
+    "in_reply_to_user_id": 23578274,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/c4LW6fkGDY",
+            "expanded_url": "https://twitter.com/Call_Me_Dutch/status/1126960956679049217/photo/1",
+            "id": 1126960950203027464,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D6PFA2iWkAg725F.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6PFA2iWkAg725F.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 354,
+                    "h": 200,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 354,
+                    "h": 200,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 354,
+                    "h": 200,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/c4LW6fkGDY",
+            "video_info": {
+                "aspect_ratio": [
+                    177,
+                    100
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/D6PFA2iWkAg725F.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@kyledcheney I can confirm it was delicious. https://t.co/c4LW6fkGDY",
+    "urls": [],
+    "user": {
+        "created_at": "Thu May 26 14:39:08 +0000 2011",
+        "description": "U.S. Congressman serving Maryland's 2nd District. Member of House Appropriations Committee. Loves all things Baltimore esp. the Ravens, Orioles and crabs.",
+        "favourites_count": 1045,
+        "followers_count": 16289,
+        "friends_count": 2172,
+        "geo_enabled": true,
+        "id": 305620929,
+        "id_str": "305620929",
+        "listed_count": 789,
+        "location": "Washington, DC",
+        "name": "Dutch Ruppersberger",
+        "profile_background_color": "4A913C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/305620929/1527186539",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096477613764296705/ddJY1pDH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096477613764296705/ddJY1pDH_normal.png",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "Call_Me_Dutch",
+        "statuses_count": 3859,
+        "url": "http://t.co/uAblmVkUWN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 23578274,
+            "id_str": "23578274",
+            "name": "Kyle Cheney",
+            "screen_name": "kyledcheney"
+        }
+    ]
+}

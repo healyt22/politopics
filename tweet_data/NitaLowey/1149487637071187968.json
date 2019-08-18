@@ -1,0 +1,148 @@
+{
+    "created_at": "Fri Jul 12 01:16:23 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [],
+    "id": 1149487637071187968,
+    "id_str": "1149487637071187968",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jul 11 13:59:00 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "Renew911VCF"
+            },
+            {
+                "text": "NeverForget"
+            }
+        ],
+        "id": 1149317166958829568,
+        "id_str": "1149317166958829568",
+        "lang": "en",
+        "place": {
+            "id": "7bc85d15fd696474",
+            "url": "https://api.twitter.com/1.1/geo/id/7bc85d15fd696474.json",
+            "place_type": "city",
+            "name": "Rye",
+            "full_name": "Rye, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.71583,
+                            40.939245
+                        ],
+                        [
+                            -73.65621,
+                            40.939245
+                        ],
+                        [
+                            -73.65621,
+                            40.997827
+                        ],
+                        [
+                            -73.71583,
+                            40.997827
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status_id": 1148974851467751425,
+        "quoted_status_id_str": "1148974851467751425",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Looking forward to this vote tomorrow and the support of @NitaLowey and @RepEliotEngel #Renew911VCF #NeverForget https://t.co/bVN9wCfQBi",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/IAFFNewsDesk/status/1148974851467751425",
+                "url": "https://t.co/bVN9wCfQBi"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 03 20:50:08 +0000 2013",
+            "description": "The Rye Professional Firefighters #Local2029 have been serving the people of the City of Rye, NY since 1919. International Association of Firefighters #RyeFire",
+            "favourites_count": 1750,
+            "followers_count": 631,
+            "friends_count": 351,
+            "geo_enabled": true,
+            "id": 1566683257,
+            "id_str": "1566683257",
+            "listed_count": 11,
+            "location": "Rye, NY",
+            "name": "Rye Firefighters \ud83c\uddfa\ud83c\uddf8",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1566683257/1510201731",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/928477244632203265/K_eJGUWH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/928477244632203265/K_eJGUWH_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "Local2029",
+            "statuses_count": 1012,
+            "url": "https://t.co/bD1KLXZnwd"
+        },
+        "user_mentions": [
+            {
+                "id": 221792092,
+                "id_str": "221792092",
+                "name": "Nita Lowey",
+                "screen_name": "NitaLowey"
+            },
+            {
+                "id": 164007407,
+                "id_str": "164007407",
+                "name": "Eliot Engel",
+                "screen_name": "RepEliotEngel"
+            }
+        ]
+    },
+    "quoted_status_id": 1149317166958829568,
+    "quoted_status_id_str": "1149317166958829568",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I\u2019m also looking forward to this vote. First responders risked their lives for us. This is the least we can do to s\u2026 https://t.co/rbszsSmQbK",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1149487637071187968",
+            "url": "https://t.co/rbszsSmQbK"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 01 16:36:35 +0000 2010",
+        "description": "Proudly representing NY17. @AppropsDems Chairwoman. RTs/follows \u2260 endorsements. Newsletter sign-up: https://t.co/JSmr63CIAQ",
+        "favourites_count": 151,
+        "followers_count": 33055,
+        "friends_count": 1931,
+        "id": 221792092,
+        "id_str": "221792092",
+        "listed_count": 1161,
+        "location": "New York and Washington, D.C.",
+        "name": "Nita Lowey",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/221792092/1546646319",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081339147669987328/-nwiMRFW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081339147669987328/-nwiMRFW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "NitaLowey",
+        "statuses_count": 4193,
+        "url": "https://t.co/VoLfqiVvjx",
+        "verified": true
+    },
+    "user_mentions": []
+}

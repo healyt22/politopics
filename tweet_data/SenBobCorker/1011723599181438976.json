@@ -1,0 +1,123 @@
+{
+    "created_at": "Tue Jun 26 21:31:17 +0000 2018",
+    "hashtags": [],
+    "id": 1011723599181438976,
+    "id_str": "1011723599181438976",
+    "lang": "en",
+    "retweet_count": 23,
+    "retweeted_status": {
+        "created_at": "Tue Jun 26 20:27:33 +0000 2018",
+        "favorite_count": 39,
+        "hashtags": [],
+        "id": 1011707560091676674,
+        "id_str": "1011707560091676674",
+        "lang": "en",
+        "retweet_count": 23,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We joined @USChamber &amp; more than 270 business &amp; farm groups urging the US Senate to support @SenBobCorker &amp;\u2026 https://t.co/DY67iyCPHP",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1011707560091676674",
+                "url": "https://t.co/DY67iyCPHP"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 07 18:01:10 +0000 2009",
+            "description": "We\u2019re the world\u2019s largest retail trade association. Every day, we stand up for the people, policies and ideas that help retail thrive.",
+            "favourites_count": 8896,
+            "followers_count": 55788,
+            "friends_count": 3253,
+            "geo_enabled": true,
+            "id": 63787812,
+            "id_str": "63787812",
+            "listed_count": 1647,
+            "location": "Washington, DC",
+            "name": "National Retail Federation",
+            "profile_background_color": "103A5F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/63787812/1551985357",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1104086354516951040/FxaXjah0_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104086354516951040/FxaXjah0_normal.png",
+            "profile_link_color": "103A5F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "93C432",
+            "profile_text_color": "444444",
+            "profile_use_background_image": true,
+            "screen_name": "NRFnews",
+            "statuses_count": 16029,
+            "url": "https://t.co/NoU0ga9iRt",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 85606078,
+                "id_str": "85606078",
+                "name": "U.S. Chamber",
+                "screen_name": "USChamber"
+            },
+            {
+                "id": 73303753,
+                "id_str": "73303753",
+                "name": "Senator Bob Corker",
+                "screen_name": "SenBobCorker"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NRFnews: We joined @USChamber &amp; more than 270 business &amp; farm groups urging the US Senate to support @SenBobCorker &amp; @SenToomey\u2019s bipar\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 11 03:56:08 +0000 2009",
+        "description": "Official news and updates from United States Senator Bob Corker (R-Tennessee) and his staff.",
+        "favourites_count": 124,
+        "followers_count": 397985,
+        "friends_count": 564,
+        "id": 73303753,
+        "id_str": "73303753",
+        "listed_count": 3882,
+        "location": "Tennessee",
+        "name": "Senator Bob Corker",
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73303753/1505929143",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/910557517343789057/Sh38oulI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/910557517343789057/Sh38oulI_normal.jpg",
+        "profile_link_color": "404040",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6C989",
+        "profile_text_color": "333333",
+        "screen_name": "SenBobCorker",
+        "statuses_count": 4270,
+        "url": "http://t.co/ZyiE2l8INn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 63787812,
+            "id_str": "63787812",
+            "name": "National Retail Federation",
+            "screen_name": "NRFnews"
+        },
+        {
+            "id": 85606078,
+            "id_str": "85606078",
+            "name": "U.S. Chamber",
+            "screen_name": "USChamber"
+        },
+        {
+            "id": 73303753,
+            "id_str": "73303753",
+            "name": "Senator Bob Corker",
+            "screen_name": "SenBobCorker"
+        },
+        {
+            "id": 221162525,
+            "id_str": "221162525",
+            "name": "Senator Pat Toomey",
+            "screen_name": "SenToomey"
+        }
+    ]
+}

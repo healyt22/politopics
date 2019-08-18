@@ -1,0 +1,161 @@
+{
+    "created_at": "Mon Nov 26 17:37:57 +0000 2018",
+    "hashtags": [],
+    "id": 1067110221732954112,
+    "id_str": "1067110221732954112",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Nov 19 17:33:31 +0000 2018",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1064572392050184194,
+        "id_str": "1064572392050184194",
+        "lang": "en",
+        "place": {
+            "id": "5b8df26e6d0be60b",
+            "url": "https://api.twitter.com/1.1/geo/id/5b8df26e6d0be60b.json",
+            "place_type": "city",
+            "name": "Smyrna",
+            "full_name": "Smyrna, GA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.561205,
+                            33.788139
+                        ],
+                        [
+                            -84.470367,
+                            33.788139
+                        ],
+                        [
+                            -84.470367,
+                            33.905391
+                        ],
+                        [
+                            -84.561205,
+                            33.905391
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Very productive @GACounty - @gacities local gov\u2019t roundtable discussion w/ @repdavidscott - lots of discussion re:\u2026 https://t.co/0QE0VclvH2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1064572392050184194",
+                "url": "https://t.co/0QE0VclvH2"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 29 19:47:43 +0000 2009",
+            "description": "my family, books, & naps - in that order, what I like. But what you'll prob see here: GA counties, tv references & politics...",
+            "favourites_count": 1100,
+            "followers_count": 284,
+            "friends_count": 658,
+            "geo_enabled": true,
+            "id": 36457604,
+            "id_str": "36457604",
+            "listed_count": 4,
+            "location": "Atlanta, GA",
+            "name": "kathleen t. bowen",
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/36457604/1356227015",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/534398998677700608/9nypA6qv_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/534398998677700608/9nypA6qv_normal.jpeg",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "kvtbowen",
+            "statuses_count": 771
+        },
+        "user_mentions": [
+            {
+                "id": 38269049,
+                "id_str": "38269049",
+                "name": "ACCG",
+                "screen_name": "GACounty"
+            },
+            {
+                "id": 14397132,
+                "id_str": "14397132",
+                "name": "Georgia Cities",
+                "screen_name": "gacities"
+            },
+            {
+                "id": 168673083,
+                "id_str": "168673083",
+                "name": "David Scott",
+                "screen_name": "repdavidscott"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @kvtbowen: Very productive @GACounty - @gacities local gov\u2019t roundtable discussion w/ @repdavidscott - lots of discussion re: grant oppo\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 20 14:10:32 +0000 2010",
+        "description": "Representing Georgia's 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+        "favourites_count": 2673,
+        "followers_count": 21046,
+        "friends_count": 1874,
+        "id": 168673083,
+        "id_str": "168673083",
+        "listed_count": 844,
+        "location": "Georgia",
+        "name": "David Scott",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168673083/1425489882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "repdavidscott",
+        "statuses_count": 2861,
+        "url": "http://t.co/86ovd85h30",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 36457604,
+            "id_str": "36457604",
+            "name": "kathleen t. bowen",
+            "screen_name": "kvtbowen"
+        },
+        {
+            "id": 38269049,
+            "id_str": "38269049",
+            "name": "ACCG",
+            "screen_name": "GACounty"
+        },
+        {
+            "id": 14397132,
+            "id_str": "14397132",
+            "name": "Georgia Cities",
+            "screen_name": "gacities"
+        },
+        {
+            "id": 168673083,
+            "id_str": "168673083",
+            "name": "David Scott",
+            "screen_name": "repdavidscott"
+        }
+    ]
+}

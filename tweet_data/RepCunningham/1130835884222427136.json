@@ -1,0 +1,108 @@
+{
+    "created_at": "Tue May 21 14:00:59 +0000 2019",
+    "favorite_count": 24,
+    "hashtags": [],
+    "id": 1130835884222427136,
+    "id_str": "1130835884222427136",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 21 13:19:24 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1130825418066550785,
+        "id_str": "1130825418066550785",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "NEW: @RepCunningham  is filing a bill this morning to combat Charleston flooding. The idea? Let the VA help.\u2026 https://t.co/rjnuuQVxTV",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1130825418066550785",
+                "url": "https://t.co/rjnuuQVxTV"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 15 04:52:14 +0000 2009",
+            "description": "Political reporter/newsletter author @postandcourier | Get SC politics in your inbox: https://t.co/kPCbHfCGQ3  | Open DMs | Send tips: cbyrd@postandcourier.com \ud83d\udd0d",
+            "favourites_count": 1082,
+            "followers_count": 6988,
+            "friends_count": 931,
+            "geo_enabled": true,
+            "id": 47262697,
+            "id_str": "47262697",
+            "listed_count": 280,
+            "location": "Charleston, SC",
+            "name": "Caitlin Byrd",
+            "profile_background_color": "3D006E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/47262697/1452459231",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1097855054588055553/B9SMGJhE_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097855054588055553/B9SMGJhE_normal.png",
+            "profile_link_color": "2D77A8",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7597D1",
+            "profile_text_color": "26024F",
+            "screen_name": "MaryCaitlinByrd",
+            "statuses_count": 42298,
+            "url": "https://t.co/CsnYnCivBO",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1080198683713507335,
+                "id_str": "1080198683713507335",
+                "name": "Rep. Joe Cunningham",
+                "screen_name": "RepCunningham"
+            }
+        ]
+    },
+    "quoted_status_id": 1130825418066550785,
+    "quoted_status_id_str": "1130825418066550785",
+    "retweet_count": 15,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Recurrent flooding is compromising access to @CharlestonVAMC just when our veterans might need it the most. My legi\u2026 https://t.co/v94lk6CAVz",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1130835884222427136",
+            "url": "https://t.co/v94lk6CAVz"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 01 20:26:50 +0000 2019",
+        "default_profile": true,
+        "description": "Official Twitter account of Rep. Joe Cunningham. Proud to serve the people of South Carolina's Lowcountry.",
+        "favourites_count": 46,
+        "followers_count": 15883,
+        "friends_count": 71,
+        "geo_enabled": true,
+        "id": 1080198683713507335,
+        "id_str": "1080198683713507335",
+        "listed_count": 192,
+        "name": "Rep. Joe Cunningham",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080198683713507335/1558213908",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080643131341762560/JHIdKOkJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080643131341762560/JHIdKOkJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepCunningham",
+        "statuses_count": 531,
+        "url": "https://t.co/AcVCcsMkAz",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 275488453,
+            "id_str": "275488453",
+            "name": "Ralph H. Johnson VA Medical Center",
+            "screen_name": "CharlestonVAMC"
+        }
+    ]
+}

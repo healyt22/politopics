@@ -1,0 +1,79 @@
+{
+    "created_at": "Thu Jul 25 23:59:30 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [
+        {
+            "text": "NationalInternDay"
+        }
+    ],
+    "id": 1154541718722633728,
+    "id_str": "1154541718722633728",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/epNG2u40tt",
+            "expanded_url": "https://twitter.com/CongMikeSimpson/status/1154541718722633728/photo/1",
+            "id": 1154541710648590336,
+            "media_url": "http://pbs.twimg.com/media/EAXBkZ2UwAAGGoz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAXBkZ2UwAAGGoz.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 256,
+                    "h": 320,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 256,
+                    "h": 320,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 256,
+                    "h": 320,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/epNG2u40tt"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Happy #NationalInternDay. A huge thanks to interns past, present, and future. It\u2019s never a dull moment in DC https://t.co/epNG2u40tt",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Sep 21 20:26:26 +0000 2009",
+        "default_profile": true,
+        "description": "Proudly representing Idaho's 2nd Congressional District",
+        "favourites_count": 245,
+        "followers_count": 17181,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 76132891,
+        "id_str": "76132891",
+        "listed_count": 651,
+        "location": "Washington, D.C.",
+        "name": "Cong. Mike Simpson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76132891/1541176451",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongMikeSimpson",
+        "statuses_count": 1131,
+        "url": "http://t.co/lRNTKPfcmE",
+        "verified": true
+    },
+    "user_mentions": []
+}

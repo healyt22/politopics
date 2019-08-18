@@ -1,0 +1,100 @@
+{
+    "created_at": "Mon Dec 24 21:40:23 +0000 2018",
+    "favorite_count": 4295,
+    "hashtags": [],
+    "id": 1077318093884538880,
+    "id_str": "1077318093884538880",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Hdy30vT62R",
+            "expanded_url": "https://twitter.com/SenBobCorker/status/1077318093884538880/video/1",
+            "id": 1077317565414805504,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1077317565414805504/pu/img/XT0JOB9RJT4x9owD.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1077317565414805504/pu/img/XT0JOB9RJT4x9owD.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Hdy30vT62R",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 47447,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1077317565414805504/pu/vid/1280x720/i33H8wwqG7Qp2k6t.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1077317565414805504/pu/vid/320x180/wh62xufuZje-1bIl.mp4?tag=6"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1077317565414805504/pu/pl/brhFlE0yvQq8BAuS.m3u8?tag=6"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1077317565414805504/pu/vid/640x360/dr_v7KqAEnfKFObf.mp4?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 269,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Elizabeth and I wish you and your family and very merry Christmas and a happy new year. https://t.co/Hdy30vT62R",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 11 03:56:08 +0000 2009",
+        "description": "Official news and updates from United States Senator Bob Corker (R-Tennessee) and his staff.",
+        "favourites_count": 124,
+        "followers_count": 397985,
+        "friends_count": 564,
+        "id": 73303753,
+        "id_str": "73303753",
+        "listed_count": 3882,
+        "location": "Tennessee",
+        "name": "Senator Bob Corker",
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73303753/1505929143",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/910557517343789057/Sh38oulI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/910557517343789057/Sh38oulI_normal.jpg",
+        "profile_link_color": "404040",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6C989",
+        "profile_text_color": "333333",
+        "screen_name": "SenBobCorker",
+        "statuses_count": 4270,
+        "url": "http://t.co/ZyiE2l8INn",
+        "verified": true
+    },
+    "user_mentions": []
+}

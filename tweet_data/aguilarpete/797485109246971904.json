@@ -1,0 +1,207 @@
+{
+    "created_at": "Sat Nov 12 17:04:01 +0000 2016",
+    "hashtags": [
+        {
+            "text": "RCFoundersDay"
+        }
+    ],
+    "id": 797485109246971904,
+    "id_str": "797485109246971904",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/kyPNocpj6M",
+            "expanded_url": "https://twitter.com/aguilarpete/status/797485109246971904/photo/1",
+            "id": 797485105321275392,
+            "media_url": "http://pbs.twimg.com/media/CxE8emBW8AA8yWS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxE8emBW8AA8yWS.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 768,
+                    "h": 1024,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 768,
+                    "h": 1024,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/kyPNocpj6M"
+        }
+    ],
+    "quoted_status": {
+        "created_at": "Sat Nov 12 16:59:13 +0000 2016",
+        "hashtags": [
+            {
+                "text": "RCFoundersDay"
+            }
+        ],
+        "id": 797483903950819328,
+        "id_str": "797483903950819328",
+        "in_reply_to_screen_name": "RepPeteAguilar",
+        "in_reply_to_user_id": 3018670151,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/npOD5gEpM6",
+                "expanded_url": "https://twitter.com/JanRutherfordCA/status/797483903950819328/photo/1",
+                "id": 797483897730711552,
+                "media_url": "http://pbs.twimg.com/media/CxE7YTZVQAAzkeK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CxE7YTZVQAAzkeK.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/npOD5gEpM6"
+            }
+        ],
+        "place": {
+            "id": "36ac79e68ace76e4",
+            "url": "https://api.twitter.com/1.1/geo/id/36ac79e68ace76e4.json",
+            "place_type": "city",
+            "name": "Rancho Cucamonga",
+            "full_name": "Rancho Cucamonga, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -117.637862,
+                            34.077184
+                        ],
+                        [
+                            -117.4864431,
+                            34.077184
+                        ],
+                        [
+                            -117.4864431,
+                            34.166156
+                        ],
+                        [
+                            -117.637862,
+                            34.166156
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RepPeteAguilar and I took dueling pre-parade photos at #RCFoundersDay We are ready to roll! https://t.co/npOD5gEpM6",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Feb 19 00:23:05 +0000 2009",
+            "default_profile": true,
+            "description": "Member, San Bernardino County Board of Supervisors; grateful and happy mommy of two terrific boys!",
+            "favourites_count": 2284,
+            "followers_count": 2732,
+            "friends_count": 1507,
+            "geo_enabled": true,
+            "id": 21258773,
+            "id_str": "21258773",
+            "listed_count": 33,
+            "location": "San Bernardino County, CA",
+            "name": "Janice Rutherford",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21258773/1550891458",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/979904359340232705/gkWwMnLP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/979904359340232705/gkWwMnLP_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JanRutherfordCA",
+            "statuses_count": 1404,
+            "url": "https://t.co/6DpvSYNhwP"
+        },
+        "user_mentions": [
+            {
+                "id": 3018670151,
+                "id_str": "3018670151",
+                "name": "Rep. Pete Aguilar",
+                "screen_name": "RepPeteAguilar"
+            }
+        ]
+    },
+    "quoted_status_id": 797483903950819328,
+    "quoted_status_id_str": "797483903950819328",
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "text": "I spy @JanRutherfordCA in the #RCFoundersDay parade route https://t.co/R4RIOFs93u https://t.co/kyPNocpj6M",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/JanRutherfordCA/status/797483903950819328",
+            "url": "https://t.co/R4RIOFs93u"
+        }
+    ],
+    "user": {
+        "created_at": "Thu May 21 05:04:40 +0000 2009",
+        "description": "Dad. Husband. Former pothole filling Mayor and elected Representative of California's 31st district. Living the dream. Personal account",
+        "favourites_count": 4,
+        "followers_count": 2746,
+        "friends_count": 624,
+        "id": 41533245,
+        "id_str": "41533245",
+        "listed_count": 213,
+        "location": "Redlands, CA",
+        "name": "Pete Aguilar",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41533245/1425249861",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "aguilarpete",
+        "statuses_count": 734,
+        "url": "https://t.co/tTc0XSgDq9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21258773,
+            "id_str": "21258773",
+            "name": "Janice Rutherford",
+            "screen_name": "JanRutherfordCA"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "created_at": "Wed Apr 17 21:59:26 +0000 2019",
+    "favorite_count": 53,
+    "hashtags": [],
+    "id": 1118635104409202691,
+    "id_str": "1118635104409202691",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Apr 17 21:52:05 +0000 2019",
+        "favorite_count": 39,
+        "hashtags": [
+            {
+                "text": "BREAKING"
+            }
+        ],
+        "id": 1118633252384837632,
+        "id_str": "1118633252384837632",
+        "lang": "en",
+        "retweet_count": 14,
+        "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+        "text": "#BREAKING: President Trump has signed a disaster declaration for Tennessee counties affected by flooding, storms, m\u2026 https://t.co/MOrBZ34EpV",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118633252384837632",
+                "url": "https://t.co/MOrBZ34EpV"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Nov 02 22:37:15 +0000 2008",
+            "description": "#WATE 6 On Your Side provides the latest news, weather, sports and traffic updates from East #Tennessee.",
+            "favourites_count": 7908,
+            "followers_count": 175422,
+            "friends_count": 1129,
+            "geo_enabled": true,
+            "id": 17121146,
+            "id_str": "17121146",
+            "listed_count": 891,
+            "location": "Knoxville, Tenn.",
+            "name": "WATE 6 On Your Side",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17121146/1529409004",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1161453781831364608/jI_d9IOw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161453781831364608/jI_d9IOw_normal.jpg",
+            "profile_link_color": "0050B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "6News",
+            "statuses_count": 192432,
+            "url": "https://t.co/QL5mKJooXw",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1118633252384837632,
+    "quoted_status_id_str": "1118633252384837632",
+    "retweet_count": 10,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thank you President @realDonaldTrump https://t.co/jXXJ0VTB89",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/6News/status/1118633252384837632",
+            "url": "https://t.co/jXXJ0VTB89"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Aug 13 04:04:35 +0000 2018",
+        "description": "Congressman representing Tennessee's 2nd District. Husband to Kelly. Father to Isabel. Serve on House Budget, Foreign Affairs, and Small Business committees.",
+        "favourites_count": 36,
+        "followers_count": 4451,
+        "friends_count": 300,
+        "geo_enabled": true,
+        "id": 1028854804087492613,
+        "id_str": "1028854804087492613",
+        "listed_count": 108,
+        "location": "East Tennessee",
+        "name": "Rep. Tim Burchett",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028854804087492613/1550172251",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1078105969543004160/vB8JwoxG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078105969543004160/vB8JwoxG_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepTimBurchett",
+        "statuses_count": 273,
+        "url": "https://t.co/bFphy5OASq",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

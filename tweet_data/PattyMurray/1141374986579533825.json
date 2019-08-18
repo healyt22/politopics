@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jun 19 15:59:37 +0000 2019",
+    "favorite_count": 54,
+    "hashtags": [],
+    "id": 1141374986579533825,
+    "id_str": "1141374986579533825",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 18 02:48:05 +0000 2019",
+        "favorite_count": 48,
+        "hashtags": [],
+        "id": 1140813403293962240,
+        "id_str": "1140813403293962240",
+        "in_reply_to_screen_name": "SenCortezMasto",
+        "in_reply_to_status_id": 1140811977205395456,
+        "in_reply_to_user_id": 811313565760163844,
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@PattyMurray &amp; I joined our colleagues in saying enough is enough. We wrote @HUDgov demanding that it rescind its\u2026 https://t.co/i8t4euvymi",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1140813403293962240",
+                "url": "https://t.co/i8t4euvymi"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 20 20:53:22 +0000 2016",
+            "default_profile": true,
+            "description": "U.S. Senator from the great state of Nevada.",
+            "favourites_count": 1343,
+            "followers_count": 37135,
+            "friends_count": 789,
+            "geo_enabled": true,
+            "id": 811313565760163844,
+            "id_str": "811313565760163844",
+            "listed_count": 869,
+            "name": "Senator Cortez Masto",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/811313565760163844/1543508943",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1068180241258995712/DFf2se46_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068180241258995712/DFf2se46_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenCortezMasto",
+            "statuses_count": 5348,
+            "url": "https://t.co/v6sRnbH7nI",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 293131808,
+                "id_str": "293131808",
+                "name": "Senator Patty Murray",
+                "screen_name": "PattyMurray"
+            },
+            {
+                "id": 19948202,
+                "id_str": "19948202",
+                "name": "HUDgov",
+                "screen_name": "HUDgov"
+            }
+        ]
+    },
+    "quoted_status_id": 1140813403293962240,
+    "quoted_status_id_str": "1140813403293962240",
+    "retweet_count": 23,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@HUDgov's new rule would allow shelters to willfully discriminate against transgender people. This is cruel and un\u2026 https://t.co/65XyyIDnro",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1141374986579533825",
+            "url": "https://t.co/65XyyIDnro"
+        }
+    ],
+    "user": {
+        "created_at": "Wed May 04 20:23:35 +0000 2011",
+        "description": "Official account of U.S. Senator Patty Murray (D-WA) | Tweets come from staff unless signed \u201c-PM\u201d by Senator Murray | RT\u2260endorsement",
+        "favourites_count": 240,
+        "followers_count": 421765,
+        "friends_count": 2173,
+        "geo_enabled": true,
+        "id": 293131808,
+        "id_str": "293131808",
+        "listed_count": 3671,
+        "location": "WA & DC",
+        "name": "Senator Patty Murray",
+        "profile_background_color": "D7E0E0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/293131808/1498749086",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1022425619597062144/WYF3RM9v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022425619597062144/WYF3RM9v_normal.jpg",
+        "profile_link_color": "163E69",
+        "profile_sidebar_border_color": "18044F",
+        "profile_sidebar_fill_color": "C0CCC6",
+        "profile_text_color": "220252",
+        "profile_use_background_image": true,
+        "screen_name": "PattyMurray",
+        "statuses_count": 16586,
+        "url": "http://t.co/7bd8QMhqRT",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19948202,
+            "id_str": "19948202",
+            "name": "HUDgov",
+            "screen_name": "HUDgov"
+        }
+    ]
+}

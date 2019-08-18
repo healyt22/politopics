@@ -1,0 +1,120 @@
+{
+    "created_at": "Fri May 24 13:32:19 +0000 2019",
+    "hashtags": [],
+    "id": 1131915833448501249,
+    "id_str": "1131915833448501249",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu May 23 22:14:01 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1131684734629818368,
+        "id_str": "1131684734629818368",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/kK1J3mZg4E",
+                "expanded_url": "https://twitter.com/ashleydiggs/status/1131684734629818368/photo/1",
+                "id": 1131684730422870017,
+                "media_url": "http://pbs.twimg.com/media/D7SNRDKWwAECg20.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D7SNRDKWwAECg20.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/kK1J3mZg4E"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you, Congressman @RepWesterman for your time with us today! Truly the highlight of our trip! https://t.co/kK1J3mZg4E",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Oct 28 03:26:34 +0000 2008",
+            "favourites_count": 18,
+            "followers_count": 103,
+            "friends_count": 201,
+            "id": 17014331,
+            "id_str": "17014331",
+            "name": "ashleydiggs",
+            "profile_background_color": "0A0A0A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17014331/1468583888",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/882388693499207680/nNpidJkf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/882388693499207680/nNpidJkf_normal.jpg",
+            "profile_link_color": "21EBC9",
+            "profile_sidebar_border_color": "F00E8E",
+            "profile_sidebar_fill_color": "0A0A0A",
+            "profile_text_color": "E81272",
+            "profile_use_background_image": true,
+            "screen_name": "ashleydiggs",
+            "statuses_count": 1474
+        },
+        "user_mentions": [
+            {
+                "id": 2852998461,
+                "id_str": "2852998461",
+                "name": "Rep. Bruce Westerman",
+                "screen_name": "RepWesterman"
+            }
+        ]
+    },
+    "quoted_status_id": 1131684734629818368,
+    "quoted_status_id_str": "1131684734629818368",
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Glad to have you! https://t.co/LzCWwzFRAT",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/ashleydiggs/status/1131684734629818368",
+            "url": "https://t.co/LzCWwzFRAT"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Oct 31 03:57:48 +0000 2014",
+        "description": "Representing the 4th District of Arkansas. Husband. Father of 4. Hot Springs native. Engineer. Forester.",
+        "favourites_count": 1224,
+        "followers_count": 9218,
+        "friends_count": 248,
+        "geo_enabled": true,
+        "id": 2852998461,
+        "id_str": "2852998461",
+        "listed_count": 480,
+        "location": "Hot Springs, Arkansas",
+        "name": "Rep. Bruce Westerman",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2852998461/1529430870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875381309744533505/sT1DIGng_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875381309744533505/sT1DIGng_normal.jpg",
+        "profile_link_color": "BE0F34",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepWesterman",
+        "statuses_count": 5099,
+        "verified": true
+    },
+    "user_mentions": []
+}

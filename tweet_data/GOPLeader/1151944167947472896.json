@@ -1,0 +1,105 @@
+{
+    "created_at": "Thu Jul 18 19:57:46 +0000 2019",
+    "favorite_count": 316,
+    "hashtags": [
+        {
+            "text": "USMCA"
+        }
+    ],
+    "id": 1151944167947472896,
+    "id_str": "1151944167947472896",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 79,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great meeting with @KernCountyFB, @TulCoFB, and @CAFarmBureau. We agree: #USMCA will make California even stronger\u2026 https://t.co/JUg0RGJXb2",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151944167947472896",
+            "url": "https://t.co/JUg0RGJXb2"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+        "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.\nhttps://t.co/ZqWsqD6L0T",
+        "favourites_count": 1766,
+        "followers_count": 339790,
+        "friends_count": 1387,
+        "geo_enabled": true,
+        "id": 19739126,
+        "id_str": "19739126",
+        "listed_count": 3970,
+        "location": "Bakersfield, CA",
+        "name": "Kevin McCarthy",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1561180371",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+        "profile_link_color": "0A2644",
+        "profile_sidebar_border_color": "FF0000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "122C73",
+        "profile_use_background_image": true,
+        "screen_name": "GOPLeader",
+        "statuses_count": 10752,
+        "url": "https://t.co/eB1lud6Yi3",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 415715175,
+            "id_str": "415715175",
+            "name": "KernCountyFarmBureau",
+            "screen_name": "KernCountyFB"
+        },
+        {
+            "id": 2677071630,
+            "id_str": "2677071630",
+            "name": "Tulare County Farm Bureau",
+            "screen_name": "tulcofb"
+        },
+        {
+            "id": 75375556,
+            "id_str": "75375556",
+            "name": "CA Farm Bureau",
+            "screen_name": "CAFarmBureau"
+        }
+    ]
+}

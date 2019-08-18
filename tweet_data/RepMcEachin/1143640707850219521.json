@@ -1,0 +1,231 @@
+{
+    "created_at": "Tue Jun 25 22:02:47 +0000 2019",
+    "hashtags": [
+        {
+            "text": "EJConvening"
+        }
+    ],
+    "id": 1143640707850219521,
+    "id_str": "1143640707850219521",
+    "lang": "en",
+    "quoted_status_id": 1143538609431207936,
+    "quoted_status_id_str": "1143538609431207936",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Jun 25 21:28:43 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "EJConvening"
+            }
+        ],
+        "id": 1143632135292694533,
+        "id_str": "1143632135292694533",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Tue Jun 25 15:17:05 +0000 2019",
+            "favorite_count": 49,
+            "hashtags": [
+                {
+                    "text": "ejconvening"
+                }
+            ],
+            "id": 1143538609431207936,
+            "id_str": "1143538609431207936",
+            "lang": "en",
+            "place": {
+                "id": "01fbe706f872cb32",
+                "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+                "place_type": "city",
+                "name": "Washington",
+                "full_name": "Washington, DC",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -77.119401,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.9953797
+                            ],
+                            [
+                                -77.119401,
+                                38.9953797
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 30,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Can\u2019t wait to join @NRDems and @RepRaulGrijalva at tomorrow\u2019s first ever #ejconvening on the Hill! I am thrilled to\u2026 https://t.co/pFLR5AAAIk",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1143538609431207936",
+                    "url": "https://t.co/pFLR5AAAIk"
+                }
+            ],
+            "user": {
+                "created_at": "Tue Jan 03 07:15:10 +0000 2017",
+                "description": "Father, husband & Progressive Democrat. Proudly representing VA\u2019s Fighting 4th Congressional District #VA04. Member @EnergyCommerce  @climatecrisis & @NRDems.",
+                "favourites_count": 946,
+                "followers_count": 8469,
+                "friends_count": 1297,
+                "geo_enabled": true,
+                "id": 816181091673448448,
+                "id_str": "816181091673448448",
+                "listed_count": 385,
+                "name": "Rep. Donald McEachin",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/816181091673448448/1520458426",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+                "profile_link_color": "0A5539",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "RepMcEachin",
+                "statuses_count": 3832,
+                "url": "https://t.co/IsHgFCD4gT",
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 247486443,
+                    "id_str": "247486443",
+                    "name": "Natural Resources Committee",
+                    "screen_name": "NRDems"
+                },
+                {
+                    "id": 28602948,
+                    "id_str": "28602948",
+                    "name": "Raul M. Grijalva",
+                    "screen_name": "RepRaulGrijalva"
+                }
+            ]
+        },
+        "quoted_status_id": 1143538609431207936,
+        "quoted_status_id_str": "1143538609431207936",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Still time to sign up for the first-ever #EJConvening on Capitol Hill hosted by @SEEC Vice-Chair @RepMcEachin and\u2026 https://t.co/hnlJjGivOf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143632135292694533",
+                "url": "https://t.co/hnlJjGivOf"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 06 14:05:54 +0000 2009",
+            "default_profile": true,
+            "description": "Official twitter account of the House of Representatives Sustainable Energy & Environment Coalition (SEEC).",
+            "favourites_count": 1102,
+            "followers_count": 6608,
+            "friends_count": 2282,
+            "geo_enabled": true,
+            "id": 29205600,
+            "id_str": "29205600",
+            "listed_count": 326,
+            "location": "U.S. House of Representatives",
+            "name": "House of Reps. SEEC",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1693158864/logo__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1693158864/logo__normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SEEC",
+            "statuses_count": 9103,
+            "url": "https://t.co/aEhHC9fJR7",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 29205600,
+                "id_str": "29205600",
+                "name": "House of Reps. SEEC",
+                "screen_name": "SEEC"
+            },
+            {
+                "id": 816181091673448448,
+                "id_str": "816181091673448448",
+                "name": "Rep. Donald McEachin",
+                "screen_name": "RepMcEachin"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SEEC: Still time to sign up for the first-ever #EJConvening on Capitol Hill hosted by @SEEC Vice-Chair @RepMcEachin and @NRDems Chair @\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 03 07:15:10 +0000 2017",
+        "description": "Father, husband & Progressive Democrat. Proudly representing VA\u2019s Fighting 4th Congressional District #VA04. Member @EnergyCommerce  @climatecrisis & @NRDems.",
+        "favourites_count": 946,
+        "followers_count": 8469,
+        "friends_count": 1297,
+        "geo_enabled": true,
+        "id": 816181091673448448,
+        "id_str": "816181091673448448",
+        "listed_count": 385,
+        "name": "Rep. Donald McEachin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816181091673448448/1520458426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_link_color": "0A5539",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMcEachin",
+        "statuses_count": 3832,
+        "url": "https://t.co/IsHgFCD4gT",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 29205600,
+            "id_str": "29205600",
+            "name": "House of Reps. SEEC",
+            "screen_name": "SEEC"
+        },
+        {
+            "id": 29205600,
+            "id_str": "29205600",
+            "name": "House of Reps. SEEC",
+            "screen_name": "SEEC"
+        },
+        {
+            "id": 816181091673448448,
+            "id_str": "816181091673448448",
+            "name": "Rep. Donald McEachin",
+            "screen_name": "RepMcEachin"
+        },
+        {
+            "id": 247486443,
+            "id_str": "247486443",
+            "name": "Natural Resources Committee",
+            "screen_name": "NRDems"
+        }
+    ]
+}

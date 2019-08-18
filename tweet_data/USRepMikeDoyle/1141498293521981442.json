@@ -1,0 +1,79 @@
+{
+    "created_at": "Thu Jun 20 00:09:35 +0000 2019",
+    "favorite_count": 31,
+    "hashtags": [],
+    "id": 1141498293521981442,
+    "id_str": "1141498293521981442",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/6SjltrdOFC",
+            "expanded_url": "https://twitter.com/USRepMikeDoyle/status/1141498293521981442/photo/1",
+            "id": 1141498281182269440,
+            "media_url": "http://pbs.twimg.com/media/D9dqo4mWkAAy9WY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9dqo4mWkAAy9WY.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 901,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 511,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1538,
+                    "h": 2048,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/6SjltrdOFC"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Cheering on Pennsylvania\u2019s @RepHoulahan and the rest of the Women\u2019s Congressional Softball Team this evening! https://t.co/6SjltrdOFC",
+    "urls": [],
+    "user": {
+        "created_at": "Mon May 11 13:22:08 +0000 2009",
+        "description": "U.S. Member of Congress representing PA's 18th District",
+        "favourites_count": 5,
+        "followers_count": 19268,
+        "friends_count": 83,
+        "id": 39249305,
+        "id_str": "39249305",
+        "listed_count": 1117,
+        "location": "Pittsburgh, PA",
+        "name": "Mike Doyle",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39249305/1560199486",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "USRepMikeDoyle",
+        "statuses_count": 1773,
+        "url": "https://t.co/lnbMOLPFwX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1052896620797460481,
+            "id_str": "1052896620797460481",
+            "name": "Chrissy Houlahan",
+            "screen_name": "RepHoulahan"
+        }
+    ]
+}

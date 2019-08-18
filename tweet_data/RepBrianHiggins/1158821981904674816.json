@@ -1,0 +1,66 @@
+{
+    "created_at": "Tue Aug 06 19:27:45 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1158821981904674816,
+    "id_str": "1158821981904674816",
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": ".@NiagaraCounty and @ErieCountyNY each receive $325,000 in federal @DHSgov funding for Northern Border security eff\u2026 https://t.co/iOJBzqpOM3",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1158821981904674816",
+            "url": "https://t.co/iOJBzqpOM3"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Apr 20 16:47:06 +0000 2009",
+        "description": "Official account for the Office of Congressman Brian Higgins (NY-26) representing portions of Erie and Niagara counties. http://t.co/Cpl0TlH2JW",
+        "favourites_count": 425,
+        "followers_count": 23664,
+        "friends_count": 3651,
+        "geo_enabled": true,
+        "id": 33576489,
+        "id_str": "33576489",
+        "listed_count": 1110,
+        "location": "WNY and Washington, DC",
+        "name": "Brian Higgins",
+        "profile_background_color": "0B868C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33576489/1401727504",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655008552243761152/vHUDf1-r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655008552243761152/vHUDf1-r_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBrianHiggins",
+        "statuses_count": 14394,
+        "url": "http://t.co/O0L2n6ZElF",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 974095136,
+            "id_str": "974095136",
+            "name": "Niagara County",
+            "screen_name": "NiagaraCounty"
+        },
+        {
+            "id": 2776817201,
+            "id_str": "2776817201",
+            "name": "Erie County, NY",
+            "screen_name": "ErieCountyNY"
+        },
+        {
+            "id": 15647676,
+            "id_str": "15647676",
+            "name": "Homeland Security",
+            "screen_name": "DHSgov"
+        }
+    ]
+}

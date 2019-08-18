@@ -1,0 +1,193 @@
+{
+    "created_at": "Wed Jul 10 02:17:57 +0000 2019",
+    "favorite_count": 31,
+    "hashtags": [
+        {
+            "text": "CookieStrong"
+        }
+    ],
+    "id": 1148778353081683968,
+    "id_str": "1148778353081683968",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Wed Jul 10 01:51:42 +0000 2019",
+        "favorite_count": 4260,
+        "hashtags": [],
+        "id": 1148771746448736256,
+        "id_str": "1148771746448736256",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XnnN8Gjz4R",
+                "expanded_url": "https://twitter.com/MLBONFOX/status/1148771746448736256/video/1",
+                "id": 1148771219413450752,
+                "media_url": "http://pbs.twimg.com/media/D_FBoHLUcAErSqT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_FBoHLUcAErSqT.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/XnnN8Gjz4R",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 120653,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1148771219413450752/vid/640x360/CekjJQtQ0NMzOzZf.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1148771219413450752/pl/ieDPTtVyB5JiMNM5.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1148771219413450752/vid/480x270/N6lLQpVem43XOnL0.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1148771219413450752/vid/1280x720/wGXS4ThdftbXyudt.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 1145,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "We all stand united against cancer. \n\nWho do you stand up for? https://t.co/XnnN8Gjz4R",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Mar 04 19:26:09 +0000 2009",
+            "description": "Eat, sleep, breathe baseball? We do too: Official @FOXSports MLB Coverage and home of \"MLB Whiparound\" - WATCH weeknights at 11PM ET/8 PM PT on @FS1",
+            "favourites_count": 6428,
+            "followers_count": 737101,
+            "friends_count": 1271,
+            "geo_enabled": true,
+            "id": 22819823,
+            "id_str": "22819823",
+            "listed_count": 6461,
+            "name": "FOX Sports: MLB",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22819823/1562963798",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1149779374238887936/umoYkQq1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149779374238887936/umoYkQq1_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MLBONFOX",
+            "statuses_count": 66504,
+            "url": "https://t.co/caab3vi7qW",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1148771746448736256,
+    "quoted_status_id_str": "1148771746448736256",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "We\u2019re all standing with you @Cookie_Carrasco #CookieStrong https://t.co/nXwc3LSjLQ",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/MLBONFOX/status/1148771746448736256",
+            "url": "https://t.co/nXwc3LSjLQ"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 28 21:12:14 +0000 2012",
+        "description": "Father, husband, and former prosecutor proudly representing #OH14",
+        "favourites_count": 531,
+        "followers_count": 20865,
+        "friends_count": 2524,
+        "geo_enabled": true,
+        "id": 976969338,
+        "id_str": "976969338",
+        "listed_count": 622,
+        "location": "Washington, DC",
+        "name": "Dave Joyce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/976969338/1494534964",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/471370204589469696/jzOCXHSW_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/471370204589469696/jzOCXHSW_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepDaveJoyce",
+        "statuses_count": 4385,
+        "url": "http://t.co/w7lVGg29p2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3340693993,
+            "id_str": "3340693993",
+            "name": "Carlos Carrasco",
+            "screen_name": "Cookie_Carrasco"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "created_at": "Fri Jun 21 16:23:18 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "NationalSelfieDay"
+        }
+    ],
+    "id": 1142105723553366016,
+    "id_str": "1142105723553366016",
+    "in_reply_to_screen_name": "USDA",
+    "in_reply_to_status_id": 1142103703333285890,
+    "in_reply_to_user_id": 61853389,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/2DvagJem8e",
+            "expanded_url": "https://twitter.com/RepSpanberger/status/1142105723553366016/photo/1",
+            "id": 1142105581660098560,
+            "media_url": "http://pbs.twimg.com/media/D9mS-bLXUAA26cR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9mS-bLXUAA26cR.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 385,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 903,
+                    "h": 511,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 903,
+                    "h": 511,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/2DvagJem8e"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@USDA Moo-ve over @USDA, we've got a bit of a crowd. #NationalSelfieDay https://t.co/2DvagJem8e",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 28 21:55:19 +0000 2018",
+        "description": "Proudly serving #VA07 in the U.S. House. Former CIA operative, former federal agent, and current Girl Scout leader. Mom of 3.",
+        "favourites_count": 203,
+        "followers_count": 19022,
+        "friends_count": 518,
+        "id": 1078771401497161728,
+        "id_str": "1078771401497161728",
+        "listed_count": 253,
+        "location": "Virginia, USA",
+        "name": "Rep. Abigail Spanberger",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078771401497161728/1563133152",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080671481040904192/3QHucc8i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080671481040904192/3QHucc8i_normal.jpg",
+        "profile_link_color": "8DC5E6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepSpanberger",
+        "statuses_count": 1111,
+        "url": "https://t.co/oq8e4gMMJ4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 61853389,
+            "id_str": "61853389",
+            "name": "Dept. of Agriculture",
+            "screen_name": "USDA"
+        },
+        {
+            "id": 61853389,
+            "id_str": "61853389",
+            "name": "Dept. of Agriculture",
+            "screen_name": "USDA"
+        }
+    ]
+}

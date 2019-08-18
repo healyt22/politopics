@@ -1,0 +1,115 @@
+{
+    "created_at": "Wed Jul 17 19:00:18 +0000 2019",
+    "favorite_count": 77,
+    "hashtags": [],
+    "id": 1151567317681233922,
+    "id_str": "1151567317681233922",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 17 15:32:54 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1151515123569319936,
+        "id_str": "1151515123569319936",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "\u201cThreats to members are coming from new places...We must understand how the [@CapitolPolice] is adapting to the new\u2026 https://t.co/ooFuSjy9o8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151515123569319936",
+                "url": "https://t.co/ooFuSjy9o8"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 29 15:55:44 +0000 2009",
+            "description": "Dem Committee on House Administration, US House of Reps with jurisdictions on fed elections, & oversight of House personnel-security-technology-admin functions",
+            "favourites_count": 288,
+            "followers_count": 4056,
+            "friends_count": 495,
+            "geo_enabled": true,
+            "id": 19716781,
+            "id_str": "19716781",
+            "listed_count": 158,
+            "location": "Washington, DC",
+            "name": "CHA Dems",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19716781/1498500842",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1081232124974432257/I1LNtUYF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081232124974432257/I1LNtUYF_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HouseAdm_Dems",
+            "statuses_count": 4014,
+            "url": "http://t.co/V39QpuB5k0",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 16503916,
+                "id_str": "16503916",
+                "name": "U.S. Capitol Police",
+                "screen_name": "CapitolPolice"
+            }
+        ]
+    },
+    "quoted_status_id": 1151515123569319936,
+    "quoted_status_id_str": "1151515123569319936",
+    "retweet_count": 20,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Some of my colleagues like Rep. @Ilhan Omar receive death threats multiple times a week. When @realDonaldTrump invo\u2026 https://t.co/l8mTGG9swv",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151567317681233922",
+            "url": "https://t.co/l8mTGG9swv"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Mar 17 21:06:21 +0000 2011",
+        "default_profile": true,
+        "description": "Member of Congress Proudly Representing CA's 19th Congressional District in Silicon Valley's cities of San Jose, Morgan Hill & Gilroy",
+        "favourites_count": 22,
+        "followers_count": 45992,
+        "friends_count": 118,
+        "id": 267938462,
+        "id_str": "267938462",
+        "listed_count": 1173,
+        "name": "Rep. Zoe Lofgren",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267938462/1392215420",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/510125443094024192/eVbv3QDN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/510125443094024192/eVbv3QDN_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepZoeLofgren",
+        "statuses_count": 2319,
+        "url": "http://t.co/gxyqi3ANcp",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1082334352711790593,
+            "id_str": "1082334352711790593",
+            "name": "Rep. Ilhan Omar",
+            "screen_name": "Ilhan"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

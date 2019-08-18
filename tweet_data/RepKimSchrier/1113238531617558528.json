@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Apr 03 00:35:23 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1113238531617558528,
+    "id_str": "1113238531617558528",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 02 21:27:00 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1113191122254352385,
+        "id_str": "1113191122254352385",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/91YDCEsXpX",
+                "expanded_url": "https://twitter.com/cspanwj/status/1113191122254352385/photo/1",
+                "id": 1113080593238122496,
+                "media_url": "http://pbs.twimg.com/media/D3J05vZW4AAZE7b.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D3J05vZW4AAZE7b.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/91YDCEsXpX"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "WEDS| @RepKimSchrier (D-WA) talks about the future of the Affordable Care Act \n\nCall in at 7:30am! https://t.co/91YDCEsXpX",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Aug 20 21:05:41 +0000 2008",
+            "description": "C-SPAN's morning call-in program. Live every day from 7-10am ET with guests taking your calls and tweets. Join the conversation. https://t.co/WVBy5wxXOa",
+            "favourites_count": 1592,
+            "followers_count": 62856,
+            "friends_count": 5268,
+            "geo_enabled": true,
+            "id": 15923226,
+            "id_str": "15923226",
+            "listed_count": 1968,
+            "location": "Washington, DC",
+            "name": "Washington Journal",
+            "profile_background_color": "E3B456",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15923226/1552906192",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107594845097549824/wKKVt_lV_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107594845097549824/wKKVt_lV_normal.png",
+            "profile_link_color": "0E1259",
+            "profile_sidebar_border_color": "F2DB43",
+            "profile_sidebar_fill_color": "D1A347",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "cspanwj",
+            "statuses_count": 40636,
+            "url": "https://t.co/S60LwkBFso",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1080462532815532032,
+                "id_str": "1080462532815532032",
+                "name": "Rep. Kim Schrier",
+                "screen_name": "RepKimSchrier"
+            }
+        ]
+    },
+    "quoted_status_id": 1113191122254352385,
+    "quoted_status_id_str": "1113191122254352385",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Looking forward to it! https://t.co/gciVHf1HLh",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/cspanwj/status/1113191122254352385",
+            "url": "https://t.co/gciVHf1HLh"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 13:55:16 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly representing the people of Washington State\u2019s 8th District. Pediatrician. Mom.",
+        "favourites_count": 113,
+        "followers_count": 7377,
+        "friends_count": 67,
+        "id": 1080462532815532032,
+        "id_str": "1080462532815532032",
+        "listed_count": 202,
+        "location": "Washington, DC",
+        "name": "Rep. Kim Schrier",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080462532815532032/1556719960",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129401036349857793/zvLbPQb6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129401036349857793/zvLbPQb6_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepKimSchrier",
+        "statuses_count": 308,
+        "url": "https://t.co/IurKFdz2L9",
+        "verified": true
+    },
+    "user_mentions": []
+}

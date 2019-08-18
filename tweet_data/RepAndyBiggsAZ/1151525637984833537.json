@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 17 16:14:41 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [],
+    "id": 1151525637984833537,
+    "id_str": "1151525637984833537",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 17 15:16:56 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1151511106743164930,
+        "id_str": "1151511106743164930",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "According to @JimBridenstine \"Arizona universities - either one of them - are leading the world in public engagemen\u2026 https://t.co/c1bOTWnos2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151511106743164930",
+                "url": "https://t.co/c1bOTWnos2"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Dec 16 02:33:49 +0000 2007",
+            "description": "Unofficial NASA News Coverage Since 1996. Edited by @KeithCowing",
+            "favourites_count": 1934,
+            "followers_count": 79673,
+            "friends_count": 286,
+            "geo_enabled": true,
+            "id": 11211372,
+            "id_str": "11211372",
+            "listed_count": 2408,
+            "location": "Reston, VA",
+            "name": "NASA Watch",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/11211372/1512951081",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/424382265/nasawatch.twitter_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/424382265/nasawatch.twitter_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "448DBC",
+            "profile_sidebar_fill_color": "91C6FF",
+            "profile_text_color": "000000",
+            "screen_name": "NASAWatch",
+            "statuses_count": 93093,
+            "url": "http://t.co/TOHojOWXYS"
+        },
+        "user_mentions": [
+            {
+                "id": 243418245,
+                "id_str": "243418245",
+                "name": "Jim Bridenstine",
+                "screen_name": "JimBridenstine"
+            }
+        ]
+    },
+    "quoted_status_id": 1151511106743164930,
+    "quoted_status_id_str": "1151511106743164930",
+    "retweet_count": 4,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Kudos to our Arizona universities - making a difference for America's space efforts. https://t.co/8MkOaqKhO6",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NASAWatch/status/1151511106743164930",
+            "url": "https://t.co/8MkOaqKhO6"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+        "default_profile": true,
+        "description": "Representing Arizona's Fighting Fifth.",
+        "favourites_count": 3734,
+        "followers_count": 26796,
+        "friends_count": 1227,
+        "id": 816652616625168388,
+        "id_str": "816652616625168388",
+        "listed_count": 582,
+        "location": "Arizona, USA",
+        "name": "Rep Andy Biggs",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1558381518",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyBiggsAZ",
+        "statuses_count": 5735,
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,134 @@
+{
+    "created_at": "Wed Apr 24 15:01:55 +0000 2019",
+    "hashtags": [],
+    "id": 1121066746545352704,
+    "id_str": "1121066746545352704",
+    "lang": "en",
+    "retweet_count": 49,
+    "retweeted_status": {
+        "created_at": "Wed Apr 24 14:06:03 +0000 2019",
+        "favorite_count": 128,
+        "hashtags": [],
+        "id": 1121052688043712513,
+        "id_str": "1121052688043712513",
+        "in_reply_to_screen_name": "SenatorDurbin",
+        "in_reply_to_status_id": 1121052686529499136,
+        "in_reply_to_user_id": 247334603,
+        "lang": "en",
+        "retweet_count": 49,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Yesterday @ChuckGrassley, @SenBooker, @SenMikeLee, and I sent a letter to OPM about this proposed hiring requiremen\u2026 https://t.co/O5n0lvhtqn",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1121052688043712513",
+                "url": "https://t.co/O5n0lvhtqn"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 04 15:50:42 +0000 2011",
+            "default_profile": true,
+            "description": "Serving the people of Illinois. Democratic Whip.",
+            "favourites_count": 577,
+            "followers_count": 616628,
+            "friends_count": 2412,
+            "geo_enabled": true,
+            "id": 247334603,
+            "id_str": "247334603",
+            "listed_count": 4973,
+            "name": "Senator Dick Durbin",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/247334603/1438365026",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/871723567456686081/fbJgQgO1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/871723567456686081/fbJgQgO1_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenatorDurbin",
+            "statuses_count": 14768,
+            "url": "https://t.co/75Y2c3yeVH",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 10615232,
+                "id_str": "10615232",
+                "name": "ChuckGrassley",
+                "screen_name": "ChuckGrassley"
+            },
+            {
+                "id": 2167097881,
+                "id_str": "2167097881",
+                "name": "Sen. Cory Booker",
+                "screen_name": "SenBooker"
+            },
+            {
+                "id": 88784440,
+                "id_str": "88784440",
+                "name": "Mike Lee",
+                "screen_name": "SenMikeLee"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SenatorDurbin: Yesterday @ChuckGrassley, @SenBooker, @SenMikeLee, and I sent a letter to OPM about this proposed hiring requirement. We\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Oct 31 19:02:04 +0000 2013",
+        "default_profile": true,
+        "description": "The U.S. Senate Office of Cory Booker, D-NJ. Tweets by staff.",
+        "favourites_count": 1346,
+        "followers_count": 140993,
+        "friends_count": 5932,
+        "id": 2167097881,
+        "id_str": "2167097881",
+        "listed_count": 1885,
+        "location": "New Jersey * Washington, DC",
+        "name": "Sen. Cory Booker",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2167097881/1516035218",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827586956376829952/F-rxck4H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827586956376829952/F-rxck4H_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenBooker",
+        "statuses_count": 5200,
+        "url": "http://t.co/bl28yzvbjQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 247334603,
+            "id_str": "247334603",
+            "name": "Senator Dick Durbin",
+            "screen_name": "SenatorDurbin"
+        },
+        {
+            "id": 10615232,
+            "id_str": "10615232",
+            "name": "ChuckGrassley",
+            "screen_name": "ChuckGrassley"
+        },
+        {
+            "id": 2167097881,
+            "id_str": "2167097881",
+            "name": "Sen. Cory Booker",
+            "screen_name": "SenBooker"
+        },
+        {
+            "id": 88784440,
+            "id_str": "88784440",
+            "name": "Mike Lee",
+            "screen_name": "SenMikeLee"
+        }
+    ]
+}

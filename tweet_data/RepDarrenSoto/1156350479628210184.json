@@ -1,0 +1,134 @@
+{
+    "created_at": "Tue Jul 30 23:46:52 +0000 2019",
+    "hashtags": [
+        {
+            "text": "USMCA"
+        }
+    ],
+    "id": 1156350479628210184,
+    "id_str": "1156350479628210184",
+    "lang": "en",
+    "retweet_count": 15,
+    "retweeted_status": {
+        "created_at": "Tue Jul 30 16:11:36 +0000 2019",
+        "favorite_count": 27,
+        "hashtags": [
+            {
+                "text": "USMCA"
+            }
+        ],
+        "id": 1156235905092464640,
+        "id_str": "1156235905092464640",
+        "lang": "en",
+        "place": {
+            "id": "ecbe2aea853af44e",
+            "url": "https://api.twitter.com/1.1/geo/id/ecbe2aea853af44e.json",
+            "place_type": "city",
+            "name": "Tallahassee",
+            "full_name": "Tallahassee, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.386548,
+                            30.365093
+                        ],
+                        [
+                            -84.1458,
+                            30.365093
+                        ],
+                        [
+                            -84.1458,
+                            30.587338
+                        ],
+                        [
+                            -84.386548,
+                            30.587338
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The #USMCA will worsen NAFTA\u2019s failures, lacking any kind of protection for seasonal produce farmers.\n\nIf it moves\u2026 https://t.co/53ytGIcCLF",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156235905092464640",
+                "url": "https://t.co/53ytGIcCLF"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 09 21:36:16 +0000 2018",
+            "description": "Florida\u2019s 12th Commissioner of Agriculture & Consumer Services. Working to keep Florida growing. Follow @FDACS for more Department news.",
+            "favourites_count": 261,
+            "followers_count": 3656,
+            "friends_count": 139,
+            "geo_enabled": true,
+            "id": 1061009601355829255,
+            "id_str": "1061009601355829255",
+            "listed_count": 22,
+            "location": "Tallahassee, FL",
+            "name": "Commissioner Nikki Fried",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061009601355829255/1550074308",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1095714082794151938/iNGylUmF_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095714082794151938/iNGylUmF_normal.png",
+            "profile_link_color": "038D50",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "NikkiFriedFL",
+            "statuses_count": 395,
+            "url": "https://t.co/D0jgdDyfqO",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NikkiFriedFL: The #USMCA will worsen NAFTA\u2019s failures, lacking any kind of protection for seasonal produce farmers.\n\nIf it moves forwar\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing Central Florida's 9th District: Osceola County and parts of Orange and Polk counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7\n\nOfficial Account",
+        "favourites_count": 4695,
+        "followers_count": 10786,
+        "friends_count": 3441,
+        "geo_enabled": true,
+        "id": 818713465653051392,
+        "id_str": "818713465653051392",
+        "listed_count": 446,
+        "location": "Kissimmee, Florida",
+        "name": "US Rep. Darren Soto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDarrenSoto",
+        "statuses_count": 3265,
+        "url": "https://t.co/3Iswy0Rzuf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1061009601355829255,
+            "id_str": "1061009601355829255",
+            "name": "Commissioner Nikki Fried",
+            "screen_name": "NikkiFriedFL"
+        }
+    ]
+}

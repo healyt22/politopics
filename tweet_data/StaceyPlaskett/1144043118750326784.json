@@ -1,0 +1,112 @@
+{
+    "created_at": "Thu Jun 27 00:41:49 +0000 2019",
+    "favorite_count": 22,
+    "hashtags": [
+        {
+            "text": "Democratwinning"
+        }
+    ],
+    "id": 1144043118750326784,
+    "id_str": "1144043118750326784",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/l4NpVLpe8l",
+            "expanded_url": "https://twitter.com/StaceyPlaskett/status/1144043118750326784/video/1",
+            "id": 1144042935958327297,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144042935958327297/pu/img/cVfyij5jJIcDi_QP.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144042935958327297/pu/img/cVfyij5jJIcDi_QP.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/l4NpVLpe8l",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 3550,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1144042935958327297/pu/pl/ZvIFV26UJkIqNssI.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1144042935958327297/pu/vid/360x640/1jj7A5u5fsG60o1F.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1144042935958327297/pu/vid/320x568/4iZhkFzgLeCvAjzq.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1144042935958327297/pu/vid/720x1280/w68uksgGXrUz8IQ6.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Team @StaceyPlaskett is all about that #Democratwinning life! LOL \nShow em ladies!!! https://t.co/l4NpVLpe8l",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Aug 11 14:40:01 +0000 2014",
+        "description": "Proudly representing the Virgin Islands of the United States",
+        "favourites_count": 1119,
+        "followers_count": 47468,
+        "friends_count": 539,
+        "geo_enabled": true,
+        "id": 2724095695,
+        "id_str": "2724095695",
+        "listed_count": 531,
+        "location": "U.S. Virgin Is. | Wash., DC",
+        "name": "Rep. Stacey Plaskett",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2724095695/1547666981",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100828137414365185/sDq9fJeO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100828137414365185/sDq9fJeO_normal.png",
+        "profile_link_color": "003B5A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "StaceyPlaskett",
+        "statuses_count": 1538,
+        "url": "http://t.co/T9tJ8F2eLe",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2724095695,
+            "id_str": "2724095695",
+            "name": "Rep. Stacey Plaskett",
+            "screen_name": "StaceyPlaskett"
+        }
+    ]
+}

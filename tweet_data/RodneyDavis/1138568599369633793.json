@@ -1,0 +1,128 @@
+{
+    "created_at": "Tue Jun 11 22:08:02 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "USA"
+        }
+    ],
+    "id": 1138568599369633793,
+    "id_str": "1138568599369633793",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 11 21:18:05 +0000 2019",
+        "favorite_count": 12070,
+        "hashtags": [
+            {
+                "text": "FIFAWWC"
+            }
+        ],
+        "id": 1138556030508457984,
+        "id_str": "1138556030508457984",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/j4001ZBLlH",
+                "expanded_url": "https://twitter.com/USWNT/status/1138556030508457984/photo/1",
+                "id": 1138556019913531392,
+                "media_url": "http://pbs.twimg.com/media/D8z2qvPUIAA4FHa.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D8z2qvPUIAA4FHa.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 342,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 515,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 515,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/j4001ZBLlH"
+            }
+        ],
+        "retweet_count": 3665,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Historic Win at the #FIFAWWC https://t.co/j4001ZBLlH",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Apr 15 20:39:54 +0000 2010",
+            "description": "4x @FIFAWWC Champs. 4x Olympic Gold. #USWNT \ud83c\uddfa\ud83c\uddf8\u26bd\ufe0f",
+            "favourites_count": 3540,
+            "followers_count": 2482393,
+            "friends_count": 105,
+            "geo_enabled": true,
+            "id": 133448051,
+            "id_str": "133448051",
+            "listed_count": 5347,
+            "location": "World Champions",
+            "name": "U.S. Soccer WNT",
+            "profile_background_color": "E4E5E6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/133448051/1565991603",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147913561185968128/8q7dvHH__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147913561185968128/8q7dvHH__normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "USWNT",
+            "statuses_count": 23561,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138556030508457984,
+    "quoted_status_id_str": "1138556030508457984",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "This is awesome! Go #USA https://t.co/smpNxpQu3h",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/USWNT/status/1138556030508457984",
+            "url": "https://t.co/smpNxpQu3h"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Dec 06 14:20:04 +0000 2012",
+        "description": "Proudly representing the 13th Congressional District of Illinois and marginalized Nickelback fans everywhere.",
+        "favourites_count": 191,
+        "followers_count": 21744,
+        "friends_count": 559,
+        "geo_enabled": true,
+        "id": 993153006,
+        "id_str": "993153006",
+        "listed_count": 854,
+        "location": "Taylorville, IL",
+        "name": "US Rep Rodney Davis",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/993153006/1497639898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/861602080712216576/Qa1f4EOG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/861602080712216576/Qa1f4EOG_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RodneyDavis",
+        "statuses_count": 6113,
+        "url": "http://t.co/foaAG4Df",
+        "verified": true
+    },
+    "user_mentions": []
+}

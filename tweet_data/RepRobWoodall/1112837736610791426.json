@@ -1,0 +1,67 @@
+{
+    "created_at": "Mon Apr 01 22:02:46 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 1112837736610791426,
+    "id_str": "1112837736610791426",
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "In today's e-newsletter, I examine @POTUS\u2019s budget request &amp; discuss how @HouseGOP &amp; @HouseDemocrats should work to\u2026 https://t.co/X9WLnkc0Xp",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1112837736610791426",
+            "url": "https://t.co/X9WLnkc0Xp"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 10 21:01:47 +0000 2014",
+        "default_profile": true,
+        "description": "U.S. Representative for the Seventh District of Georgia. Serving on the Rules Committee, Transportation & Infrastructure Committee, and House Budget Committee.",
+        "favourites_count": 159,
+        "followers_count": 13805,
+        "friends_count": 716,
+        "geo_enabled": true,
+        "id": 2382685057,
+        "id_str": "2382685057",
+        "listed_count": 462,
+        "location": "Lawrenceville, GA; Wash., D.C.",
+        "name": "Rob Woodall",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2382685057/1484167865",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/522063908387819521/dUyi07Xy_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/522063908387819521/dUyi07Xy_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRobWoodall",
+        "statuses_count": 1096,
+        "url": "http://t.co/twbdtrZomN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        },
+        {
+            "id": 15207668,
+            "id_str": "15207668",
+            "name": "House Republicans",
+            "screen_name": "HouseGOP"
+        },
+        {
+            "id": 43963249,
+            "id_str": "43963249",
+            "name": "House Democrats",
+            "screen_name": "HouseDemocrats"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "created_at": "Thu Jul 11 13:53:04 +0000 2019",
+    "hashtags": [
+        {
+            "text": "cleanenergy"
+        }
+    ],
+    "id": 1149315673212018693,
+    "id_str": "1149315673212018693",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Jul 11 13:44:19 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "cleanenergy"
+            }
+        ],
+        "id": 1149313471932223493,
+        "id_str": "1149313471932223493",
+        "in_reply_to_screen_name": "BCSECleanEnergy",
+        "in_reply_to_status_id": 1149311623565389824,
+        "in_reply_to_user_id": 312698496,
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Rep @cathymcmorris is the first speaker at the REEE Expo! She says now is the time to be promoting #cleanenergy tec\u2026 https://t.co/TtVTDdIu7n",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149313471932223493",
+                "url": "https://t.co/TtVTDdIu7n"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 07 14:44:14 +0000 2011",
+            "description": "The Business Council for Sustainable Energy: A coalition of the energy efficiency, natural gas & renewable energy industries. Tweets/RTs/Likes \u2260 Endorsement",
+            "favourites_count": 2426,
+            "followers_count": 6796,
+            "friends_count": 2904,
+            "geo_enabled": true,
+            "id": 312698496,
+            "id_str": "312698496",
+            "listed_count": 332,
+            "name": "BCSE Clean Energy",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/312698496/1518638421",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/695237282132070402/N16khDbl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/695237282132070402/N16khDbl_normal.jpg",
+            "profile_link_color": "002D55",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "screen_name": "BCSECleanEnergy",
+            "statuses_count": 15921,
+            "url": "https://t.co/HgsPZXMXy3"
+        },
+        "user_mentions": [
+            {
+                "id": 17976923,
+                "id_str": "17976923",
+                "name": "CathyMcMorrisRodgers",
+                "screen_name": "cathymcmorris"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @BCSECleanEnergy: Rep @cathymcmorris is the first speaker at the REEE Expo! She says now is the time to be promoting #cleanenergy techno\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Dec 08 23:17:15 +0000 2008",
+        "description": "Proudly serving Washington's beautiful 5th District in Congress. Pioneer. Trailblazer. Leader. Working Mom of Three. Wife. Ability Advocate. Trustbuilder.",
+        "favourites_count": 1233,
+        "followers_count": 49538,
+        "friends_count": 5123,
+        "geo_enabled": true,
+        "id": 17976923,
+        "id_str": "17976923",
+        "listed_count": 2024,
+        "location": "Spokane, WA & Washington, DC",
+        "name": "CathyMcMorrisRodgers",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17976923/1521214720",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741337467714953217/5t14nEYg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741337467714953217/5t14nEYg_normal.jpg",
+        "profile_link_color": "0814FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "cathymcmorris",
+        "statuses_count": 11161,
+        "url": "https://t.co/VmKvrs9Ni1",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 312698496,
+            "id_str": "312698496",
+            "name": "BCSE Clean Energy",
+            "screen_name": "BCSECleanEnergy"
+        },
+        {
+            "id": 17976923,
+            "id_str": "17976923",
+            "name": "CathyMcMorrisRodgers",
+            "screen_name": "cathymcmorris"
+        }
+    ]
+}

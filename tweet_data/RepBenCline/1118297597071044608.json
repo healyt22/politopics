@@ -1,0 +1,128 @@
+{
+    "created_at": "Tue Apr 16 23:38:18 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [],
+    "id": 1118297597071044608,
+    "id_str": "1118297597071044608",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 16 22:18:09 +0000 2019",
+        "favorite_count": 85,
+        "hashtags": [],
+        "id": 1118277427589992448,
+        "id_str": "1118277427589992448",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 55,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Bipartisan congressional initiative issues joint request to SCOTUS Chief Justice Roberts for same-day audio to impr\u2026 https://t.co/wE6oa8uOko",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118277427589992448",
+                "url": "https://t.co/wE6oa8uOko"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 30 17:29:46 +0000 2012",
+            "description": "Researching foreign influence, political ads & \u201cdark money\u201d at @OpenSecretsDC \u2022 NC wolfpack & UDC Law alum \u2022 Bibliophile \u2022 No legal advice or endorsements here",
+            "favourites_count": 32722,
+            "followers_count": 36532,
+            "following": true,
+            "friends_count": 1998,
+            "geo_enabled": true,
+            "id": 792038436,
+            "id_str": "792038436",
+            "listed_count": 767,
+            "location": "Raleigh, NC \u2708 Washington, DC",
+            "name": "Anna Massoglia",
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/792038436/1461708040",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1143048927790477312/kmK91lCD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143048927790477312/kmK91lCD_normal.jpg",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "annalecta",
+            "statuses_count": 18422,
+            "url": "https://t.co/opzIK98HaY",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1118277427589992448,
+    "quoted_status_id_str": "1118277427589992448",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Glad to lead this bipartisan effort to provide transparency on this important issue. https://t.co/6qPDDAyIny",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/annalecta/status/1118277427589992448",
+            "url": "https://t.co/6qPDDAyIny"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 10 15:57:26 +0000 2018",
+        "default_profile": true,
+        "description": "Representing the 6th District of Virginia. Member of House @EdLaborGOP and @JudiciaryGOP Committees.",
+        "favourites_count": 48,
+        "followers_count": 6138,
+        "friends_count": 220,
+        "id": 1072158357237174272,
+        "id_str": "1072158357237174272",
+        "listed_count": 144,
+        "location": "Rockbridge County, Virginia",
+        "name": "Congressman Ben Cline",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072158357237174272/1546453531",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080526430851747841/A1ugejo0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080526430851747841/A1ugejo0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBenCline",
+        "statuses_count": 268,
+        "url": "https://t.co/85A2wNen3Y",
+        "verified": true
+    },
+    "user_mentions": []
+}

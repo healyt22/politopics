@@ -1,0 +1,140 @@
+{
+    "created_at": "Fri Jul 12 03:24:00 +0000 2019",
+    "hashtags": [],
+    "id": 1149519752735281158,
+    "id_str": "1149519752735281158",
+    "lang": "en",
+    "retweet_count": 114,
+    "retweeted_status": {
+        "created_at": "Fri Jul 12 02:52:59 +0000 2019",
+        "favorite_count": 211,
+        "hashtags": [],
+        "id": 1149511946368012294,
+        "id_str": "1149511946368012294",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 114,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Rep. @JoaquinCastrotx said the expected ICE raids will lead to government-sponsored family separations \u2014 and a seco\u2026 https://t.co/X326iJDy2W",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149511946368012294",
+                "url": "https://t.co/X326iJDy2W"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 11 02:58:04 +0000 2016",
+            "description": "Inmigrante \ud83c\udde8\ud83c\uddf4\ud83c\uddfa\ud83c\uddf8. 3-time Emmy Award-winning reporter, @CBSNews. Proud @RutgersU Scarlet Knight. \"Se hace camino al andar\". \ud83d\udce7: camilo.montoyagalvez@cbsi.com",
+            "favourites_count": 2280,
+            "followers_count": 676,
+            "friends_count": 302,
+            "geo_enabled": true,
+            "id": 4770270556,
+            "id_str": "4770270556",
+            "listed_count": 19,
+            "location": "Washington, DC",
+            "name": "Camilo Montoya-Galvez",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4770270556/1558664918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1156792683769356291/z4VuTw9u_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156792683769356291/z4VuTw9u_normal.jpg",
+            "profile_link_color": "FFCC4D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "camiloreports",
+            "statuses_count": 1101,
+            "url": "https://t.co/XxGTyhVXRm"
+        },
+        "user_mentions": [
+            {
+                "id": 231510077,
+                "id_str": "231510077",
+                "name": "Joaquin Castro",
+                "screen_name": "JoaquinCastrotx"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @camiloreports: Rep. @JoaquinCastrotx said the expected ICE raids will lead to government-sponsored family separations \u2014 and a second ed\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+        "description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of Intelligence and @EdLaborCmte Commitees; host of @DiploCable.",
+        "favourites_count": 5746,
+        "followers_count": 207363,
+        "friends_count": 1914,
+        "geo_enabled": true,
+        "id": 231510077,
+        "id_str": "231510077",
+        "listed_count": 2474,
+        "location": "San Antonio, Texas",
+        "name": "Joaquin Castro",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoaquinCastrotx",
+        "statuses_count": 14878,
+        "url": "http://t.co/SBuEnv1k",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 4770270556,
+            "id_str": "4770270556",
+            "name": "Camilo Montoya-Galvez",
+            "screen_name": "camiloreports"
+        },
+        {
+            "id": 231510077,
+            "id_str": "231510077",
+            "name": "Joaquin Castro",
+            "screen_name": "JoaquinCastrotx"
+        }
+    ]
+}

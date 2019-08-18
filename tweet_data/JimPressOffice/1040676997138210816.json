@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Sep 14 19:01:45 +0000 2018",
+    "hashtags": [],
+    "id": 1040676997138210816,
+    "id_str": "1040676997138210816",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Fri Sep 14 18:29:45 +0000 2018",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1040668943180939264,
+        "id_str": "1040668943180939264",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "an important development in the IST debacle. Credit to @JimPressOffice Congressman Sensenbrenner for sponsoring thi\u2026 https://t.co/CMc4fYsIoH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1040668943180939264",
+                "url": "https://t.co/CMc4fYsIoH"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 06 19:10:02 +0000 2011",
+            "description": "CEO of @eBay, the world's marketplace. Silicon Valley by way of NY.",
+            "favourites_count": 445,
+            "followers_count": 12516,
+            "friends_count": 194,
+            "geo_enabled": true,
+            "id": 234859616,
+            "id_str": "234859616",
+            "listed_count": 243,
+            "location": "San Jose, CA",
+            "name": "Devin Wenig",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/234859616/1476740410",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1141748498590654464/9yy1YDwv_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141748498590654464/9yy1YDwv_normal.png",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "devinwenig",
+            "statuses_count": 2296,
+            "url": "https://t.co/4fx1RKw3Xp",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 851621377,
+                "id_str": "851621377",
+                "name": "Sensenbrenner Press",
+                "screen_name": "JimPressOffice"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @devinwenig: an important development in the IST debacle. Credit to @JimPressOffice Congressman Sensenbrenner for sponsoring this bill a\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 28 19:31:33 +0000 2012",
+        "description": "Press Office of Congressman Jim Sensenbrenner, representing Wisconsin's Fifth District. Former Chair of House Judiciary Committee.",
+        "favourites_count": 350,
+        "followers_count": 9096,
+        "friends_count": 624,
+        "geo_enabled": true,
+        "id": 851621377,
+        "id_str": "851621377",
+        "listed_count": 590,
+        "name": "Sensenbrenner Press",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/851621377/1462220205",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JimPressOffice",
+        "statuses_count": 1517,
+        "url": "http://t.co/VNdLE9VEEs",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 234859616,
+            "id_str": "234859616",
+            "name": "Devin Wenig",
+            "screen_name": "devinwenig"
+        },
+        {
+            "id": 851621377,
+            "id_str": "851621377",
+            "name": "Sensenbrenner Press",
+            "screen_name": "JimPressOffice"
+        }
+    ]
+}

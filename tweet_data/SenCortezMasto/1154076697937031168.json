@@ -1,0 +1,129 @@
+{
+    "created_at": "Wed Jul 24 17:11:41 +0000 2019",
+    "favorite_count": 27,
+    "hashtags": [],
+    "id": 1154076697937031168,
+    "id_str": "1154076697937031168",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 23 14:45:00 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1153677396895096832,
+        "id_str": "1153677396895096832",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/sskb4JGIvw",
+                "expanded_url": "https://twitter.com/TheNVIndy/status/1153677396895096832/photo/1",
+                "id": 1153658570384142336,
+                "media_url": "http://pbs.twimg.com/media/EAKeW3_U8AALtkC.png",
+                "media_url_https": "https://pbs.twimg.com/media/EAKeW3_U8AALtkC.png",
+                "sizes": {
+                    "small": {
+                        "w": 285,
+                        "h": 154,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 285,
+                        "h": 154,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 285,
+                        "h": 154,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/sskb4JGIvw"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "UNLV hosts first-ever nursing camp for high schoolers amid a workforce shortage:\nhttps://t.co/inx6yuqCuq https://t.co/sskb4JGIvw",
+        "urls": [
+            {
+                "expanded_url": "https://thenevadaindependent.com/article/with-eye-on-nevadas-workforce-shortages-unlv-hosts-first-ever-nursing-camp-for-high-schoolers",
+                "url": "https://t.co/inx6yuqCuq"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 04 05:16:14 +0000 2016",
+            "default_profile": true,
+            "description": "Politics. Policy. Govt. Business. | Your state. Your news. Your voice.",
+            "favourites_count": 1149,
+            "followers_count": 15718,
+            "geo_enabled": true,
+            "id": 794407888567476224,
+            "id_str": "794407888567476224",
+            "listed_count": 344,
+            "location": "Nevada, USA",
+            "name": "Nevada Independent",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/794407888567476224/1553238838",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/821392699345420292/M7VC0Ddj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/821392699345420292/M7VC0Ddj_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "TheNVIndy",
+            "statuses_count": 7928,
+            "url": "https://t.co/XTr3KZmrD2"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1153677396895096832,
+    "quoted_status_id_str": "1153677396895096832",
+    "retweet_count": 6,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "NV is suffering from a shortage of health care workers. @unlv is working to change that by giving high schoolers &amp;\u2026 https://t.co/suCZBKaxQI",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1154076697937031168",
+            "url": "https://t.co/suCZBKaxQI"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Dec 20 20:53:22 +0000 2016",
+        "default_profile": true,
+        "description": "U.S. Senator from the great state of Nevada.",
+        "favourites_count": 1350,
+        "followers_count": 37611,
+        "friends_count": 797,
+        "id": 811313565760163844,
+        "id_str": "811313565760163844",
+        "listed_count": 895,
+        "name": "Senator Cortez Masto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/811313565760163844/1543508943",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1068180241258995712/DFf2se46_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068180241258995712/DFf2se46_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCortezMasto",
+        "statuses_count": 5509,
+        "url": "https://t.co/v6sRnbH7nI",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 40268530,
+            "id_str": "40268530",
+            "name": "UNLV",
+            "screen_name": "unlv"
+        }
+    ]
+}

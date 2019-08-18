@@ -1,0 +1,138 @@
+{
+    "created_at": "Tue Jun 25 14:55:35 +0000 2019",
+    "hashtags": [],
+    "id": 1143533202235170817,
+    "id_str": "1143533202235170817",
+    "lang": "en",
+    "retweet_count": 12,
+    "retweeted_status": {
+        "created_at": "Tue Jun 25 14:40:17 +0000 2019",
+        "favorite_count": 21,
+        "hashtags": [],
+        "id": 1143529348382830595,
+        "id_str": "1143529348382830595",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 12,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @RepJoshHarder for taking the time to meet with our advocates and listen to why they raise their voice fo\u2026 https://t.co/NQCrijEmCW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143529348382830595",
+                "url": "https://t.co/NQCrijEmCW"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Oct 27 21:27:32 +0000 2008",
+            "description": "Pancreatic Cancer Action Network is dedicated to advancing research, supporting patients & creating hope. #WageHope #PANCaware https://t.co/JsbamlC55F",
+            "favourites_count": 22537,
+            "followers_count": 20483,
+            "friends_count": 5800,
+            "geo_enabled": true,
+            "id": 17007608,
+            "id_str": "17007608",
+            "listed_count": 487,
+            "location": "United States",
+            "name": "PanCAN",
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17007608/1549042631",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1118210461848072193/jtqT15ec_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118210461848072193/jtqT15ec_normal.png",
+            "profile_link_color": "642D8B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F7F4F7",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "screen_name": "PanCAN",
+            "statuses_count": 28376,
+            "url": "https://t.co/JsbamlC55F"
+        },
+        "user_mentions": [
+            {
+                "id": 1080851152151953410,
+                "id_str": "1080851152151953410",
+                "name": "Rep. Josh Harder",
+                "screen_name": "RepJoshHarder"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @PanCAN: Thank you @RepJoshHarder for taking the time to meet with our advocates and listen to why they raise their voice for more feder\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 15:39:30 +0000 2019",
+        "description": "Turlock guy. Modesto High grad. Pam\u2019s husband. Foster dog dad. Proudly serving the Central Valley in Congress.",
+        "favourites_count": 94,
+        "followers_count": 13608,
+        "friends_count": 212,
+        "id": 1080851152151953410,
+        "id_str": "1080851152151953410",
+        "listed_count": 181,
+        "name": "Rep. Josh Harder",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080851152151953410/1552868138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1126542509767823360/JsNdEfWy_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126542509767823360/JsNdEfWy_normal.png",
+        "profile_link_color": "003462",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepJoshHarder",
+        "statuses_count": 574,
+        "url": "https://t.co/75rDwigQ8m",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17007608,
+            "id_str": "17007608",
+            "name": "PanCAN",
+            "screen_name": "PanCAN"
+        },
+        {
+            "id": 1080851152151953410,
+            "id_str": "1080851152151953410",
+            "name": "Rep. Josh Harder",
+            "screen_name": "RepJoshHarder"
+        }
+    ]
+}

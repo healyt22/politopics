@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jul 16 16:06:29 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1151161187360563203,
+    "id_str": "1151161187360563203",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/7NXHdatf7o",
+            "expanded_url": "https://twitter.com/SenatorWicker/status/1151161187360563203/video/1",
+            "id": 1151160872557039616,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1151160872557039616/pu/img/3dYjrAIaNW-_OlVu.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1151160872557039616/pu/img/3dYjrAIaNW-_OlVu.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/7NXHdatf7o",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 24291,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1151160872557039616/pu/vid/640x360/VXXWsrhS_9e-LvpK.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1151160872557039616/pu/vid/480x270/XnCq4yB2yobOzvHk.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1151160872557039616/pu/vid/1280x720/6_HdYtGDK5U7Gw4-.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1151160872557039616/pu/pl/vXN-dzL3ojoZ0WD1.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "I agree with @JimInhofe and @TimKaine. @EsperDOD is the all-star we need to lead the @DeptofDefense. https://t.co/7NXHdatf7o",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Mar 11 14:59:01 +0000 2011",
+        "description": "Senior U.S. Senator for Mississippi. Chairman @SenateCommerce. Please visit my website for updates.",
+        "favourites_count": 1206,
+        "followers_count": 84239,
+        "friends_count": 365,
+        "geo_enabled": true,
+        "id": 264219447,
+        "id_str": "264219447",
+        "listed_count": 1883,
+        "location": "Mississippi & Washington, DC",
+        "name": "Senator Roger Wicker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/264219447/1402419137",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1053286698438803456/c5VspcNT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053286698438803456/c5VspcNT_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorWicker",
+        "statuses_count": 5254,
+        "url": "https://t.co/iD8pcNybj9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 7270292,
+            "id_str": "7270292",
+            "name": "Jim Inhofe",
+            "screen_name": "JimInhofe"
+        },
+        {
+            "id": 172858784,
+            "id_str": "172858784",
+            "name": "Tim Kaine",
+            "screen_name": "timkaine"
+        },
+        {
+            "id": 1142185061439197186,
+            "id_str": "1142185061439197186",
+            "name": "Secretary of Defense Dr. Mark T. Esper",
+            "screen_name": "EsperDoD"
+        },
+        {
+            "id": 66369181,
+            "id_str": "66369181",
+            "name": "U.S. Dept of Defense",
+            "screen_name": "DeptofDefense"
+        }
+    ]
+}

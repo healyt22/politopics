@@ -1,0 +1,112 @@
+{
+    "created_at": "Mon Jul 15 20:58:58 +0000 2019",
+    "hashtags": [],
+    "id": 1150872407734964224,
+    "id_str": "1150872407734964224",
+    "lang": "en",
+    "retweet_count": 93,
+    "retweeted_status": {
+        "created_at": "Mon Jul 15 20:34:06 +0000 2019",
+        "favorite_count": 211,
+        "hashtags": [],
+        "id": 1150866149158117377,
+        "id_str": "1150866149158117377",
+        "lang": "en",
+        "retweet_count": 93,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Richard V. Spencer serves as acting defense secretary starting July 15, following @POTUS Trump\u2019s nomination of\u2026 https://t.co/gw5pBUvaUI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150866149158117377",
+                "url": "https://t.co/gw5pBUvaUI"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 17 14:43:00 +0000 2009",
+            "description": "The official account of the U.S. Department of Defense. Following, RTs, links, and likes \u2260 endorsement. #KnowYourMil",
+            "favourites_count": 3754,
+            "followers_count": 5849802,
+            "friends_count": 457,
+            "geo_enabled": true,
+            "id": 66369181,
+            "id_str": "66369181",
+            "listed_count": 13935,
+            "location": "Washington, DC",
+            "name": "U.S. Dept of Defense",
+            "profile_background_color": "003875",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/66369181/1557498246",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/992451978054729734/CGtMu6Ji_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/992451978054729734/CGtMu6Ji_normal.jpg",
+            "profile_link_color": "355D92",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DEDEDE",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DeptofDefense",
+            "statuses_count": 25918,
+            "url": "https://t.co/nx8Zxh4nEZ",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 822215679726100480,
+                "id_str": "822215679726100480",
+                "name": "President Trump",
+                "screen_name": "POTUS"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DeptofDefense: Richard V. Spencer serves as acting defense secretary starting July 15, following @POTUS Trump\u2019s nomination of @SecArmy\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon May 20 15:02:21 +0000 2013",
+        "default_profile": true,
+        "description": "Representing Missouri\u2019s 7th District in the United States Congress - Member of the House Energy and Commerce Committee",
+        "favourites_count": 281,
+        "followers_count": 18798,
+        "friends_count": 4334,
+        "id": 1444015610,
+        "id_str": "1444015610",
+        "listed_count": 630,
+        "name": "U.S. Rep. Billy Long",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444015610/1369083530",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/931238240396423168/Zew9SE9S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/931238240396423168/Zew9SE9S_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "USRepLong",
+        "statuses_count": 7532,
+        "url": "https://t.co/uG5DCdtUfQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 66369181,
+            "id_str": "66369181",
+            "name": "U.S. Dept of Defense",
+            "screen_name": "DeptofDefense"
+        },
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        },
+        {
+            "id": 814367737342328833,
+            "id_str": "814367737342328833",
+            "name": "SecArmy",
+            "screen_name": "SecArmy"
+        }
+    ]
+}

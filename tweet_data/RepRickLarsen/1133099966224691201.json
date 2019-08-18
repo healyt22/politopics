@@ -1,0 +1,103 @@
+{
+    "created_at": "Mon May 27 19:57:38 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1133099966224691201,
+    "id_str": "1133099966224691201",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/jiV01m0zsO",
+            "expanded_url": "https://twitter.com/RepRickLarsen/status/1133099966224691201/video/1",
+            "id": 1133099355953455106,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1133099355953455106/pu/img/ZhDI3mjxkQCnMJL-.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1133099355953455106/pu/img/ZhDI3mjxkQCnMJL-.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/jiV01m0zsO",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 29424,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1133099355953455106/pu/pl/3lMSaDkDx77Roxx2.m3u8?tag=9"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1133099355953455106/pu/vid/720x1280/q11y12uuafA4ni-u.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1133099355953455106/pu/vid/360x640/fRM_uCcRdCzS_ygv.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1133099355953455106/pu/vid/320x568/5RTHZGTv3gqTbBY2.mp4?tag=9"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Memorial Day in Stanwood, WA, at the memorial at the Floyd Norgaard Cultural Center. https://t.co/jiV01m0zsO",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Nov 03 13:59:42 +0000 2011",
+        "default_profile": true,
+        "description": "Born and raised in Arlington, Wash. Chair, Aviation Subcommittee",
+        "favourites_count": 2094,
+        "followers_count": 18916,
+        "friends_count": 5449,
+        "geo_enabled": true,
+        "id": 404132211,
+        "id_str": "404132211",
+        "listed_count": 805,
+        "location": "Washington's 2nd District",
+        "name": "Rep. Rick Larsen",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/404132211/1490725185",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRickLarsen",
+        "statuses_count": 9389,
+        "url": "http://t.co/2eHh43tMLB",
+        "verified": true
+    },
+    "user_mentions": []
+}

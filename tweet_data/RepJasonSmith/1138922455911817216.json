@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jun 12 21:34:08 +0000 2019",
+    "favorite_count": 27,
+    "hashtags": [],
+    "id": 1138922455911817216,
+    "id_str": "1138922455911817216",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/eNMenqPL9x",
+            "expanded_url": "https://twitter.com/RepJasonSmith/status/1138922455911817216/video/1",
+            "id": 1138922014226493440,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138922014226493440/pu/img/FqykHaJYk1B8nfZN.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138922014226493440/pu/img/FqykHaJYk1B8nfZN.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/eNMenqPL9x",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 87900,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1138922014226493440/pu/vid/480x270/oJl6TZMaaoSz4cmN.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1138922014226493440/pu/vid/640x360/GtE6OeyMouuxHwxJ.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1138922014226493440/pu/pl/2Z-FuOCM7eQ8MBC7.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The irony of the Green New Deal is it would harm the best stewards of the environment \u2013 farmers and ranchers. https://t.co/eNMenqPL9x",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 26 16:13:03 +0000 2013",
+        "description": "Honored to represent the families of Missouri's 8th Congressional District in the United States House of Representatives.",
+        "favourites_count": 108,
+        "followers_count": 26318,
+        "friends_count": 962,
+        "geo_enabled": true,
+        "id": 1623308912,
+        "id_str": "1623308912",
+        "listed_count": 626,
+        "location": "MO-08",
+        "name": "Rep. Jason Smith",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1623308912/1446578714",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661622139779461120/sdj6vlvm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661622139779461120/sdj6vlvm_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJasonSmith",
+        "statuses_count": 3379,
+        "url": "http://t.co/dxAOG6A9MK",
+        "verified": true
+    },
+    "user_mentions": []
+}

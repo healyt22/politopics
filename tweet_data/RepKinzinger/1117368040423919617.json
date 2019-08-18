@@ -1,0 +1,88 @@
+{
+    "created_at": "Sun Apr 14 10:04:35 +0000 2019",
+    "favorite_count": 66,
+    "hashtags": [],
+    "id": 1117368040423919617,
+    "id_str": "1117368040423919617",
+    "lang": "en",
+    "place": {
+        "id": "583bd538eb3129d1",
+        "url": "https://api.twitter.com/1.1/geo/id/583bd538eb3129d1.json",
+        "place_type": "country",
+        "name": "Lebanon",
+        "full_name": "Lebanon",
+        "country_code": "LB",
+        "country": "Lebanon",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        35.0757711,
+                        33.054742
+                    ],
+                    [
+                        36.6232583,
+                        33.054742
+                    ],
+                    [
+                        36.6232583,
+                        34.6919892
+                    ],
+                    [
+                        35.0757711,
+                        34.6919892
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 17,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Our visit to the Blue Line was a unique opportunity to learn about the work @UNIFIL_ does to stabilize the region.\u2026 https://t.co/VvHEdNVUSc",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1117368040423919617",
+            "url": "https://t.co/VvHEdNVUSc"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 24 21:04:11 +0000 2010",
+        "description": "I represent Illinois' 16th District. It's an honor to serve in Congress on @HouseCommerce @HouseForeignGOP & to serve as a pilot in the Air National Guard.",
+        "favourites_count": 2941,
+        "followers_count": 53897,
+        "friends_count": 965,
+        "geo_enabled": true,
+        "id": 219429281,
+        "id_str": "219429281",
+        "listed_count": 1538,
+        "location": "Channahon, IL",
+        "name": "Adam Kinzinger",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/219429281/1504905657",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694232632503201794/JoCP5r3E_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694232632503201794/JoCP5r3E_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepKinzinger",
+        "statuses_count": 7900,
+        "url": "https://t.co/GgL4IzZXrZ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 280531704,
+            "id_str": "280531704",
+            "name": "UNIFIL",
+            "screen_name": "UNIFIL_"
+        }
+    ]
+}

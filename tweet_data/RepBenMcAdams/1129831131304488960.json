@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat May 18 19:28:27 +0000 2019",
+    "favorite_count": 23,
+    "hashtags": [
+        {
+            "text": "utpol"
+        }
+    ],
+    "id": 1129831131304488960,
+    "id_str": "1129831131304488960",
+    "in_reply_to_screen_name": "derekkitchen",
+    "in_reply_to_status_id": 1129829055111372801,
+    "in_reply_to_user_id": 65775538,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/XnkTzk59Sp",
+            "expanded_url": "https://twitter.com/RepBenMcAdams/status/1129831131304488960/photo/1",
+            "id": 1129831124971032576,
+            "media_url": "http://pbs.twimg.com/media/D633bAwUEAARVij.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D633bAwUEAARVij.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 1024,
+                    "h": 768,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1024,
+                    "h": 768,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/XnkTzk59Sp"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@derekkitchen @SimGillDA was there too. Where were you @JennyWilsonUT? Didn\u2019t you get the meeting notice? #utpol https://t.co/XnkTzk59Sp",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 28 23:18:15 +0000 2010",
+        "description": "The official Twitter account for Utah's 4th Congressional District representative",
+        "favourites_count": 1021,
+        "followers_count": 10874,
+        "friends_count": 1106,
+        "geo_enabled": true,
+        "id": 196362083,
+        "id_str": "196362083",
+        "listed_count": 323,
+        "location": "Utah, USA",
+        "name": "Rep. Ben McAdams",
+        "profile_background_color": "7A3838",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196362083/1547180285",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_link_color": "702323",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBenMcAdams",
+        "statuses_count": 4200,
+        "url": "https://t.co/12wZyksOHt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 65775538,
+            "id_str": "65775538",
+            "name": "Derek Kitchen",
+            "screen_name": "derekkitchen"
+        },
+        {
+            "id": 128104445,
+            "id_str": "128104445",
+            "name": "Sim Gill",
+            "screen_name": "SimGillDA"
+        },
+        {
+            "id": 2335899655,
+            "id_str": "2335899655",
+            "name": "Jenny Wilson",
+            "screen_name": "JennyWilsonUT"
+        }
+    ]
+}

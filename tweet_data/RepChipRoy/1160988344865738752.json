@@ -1,0 +1,128 @@
+{
+    "created_at": "Mon Aug 12 18:56:06 +0000 2019",
+    "hashtags": [],
+    "id": 1160988344865738752,
+    "id_str": "1160988344865738752",
+    "lang": "en",
+    "retweet_count": 18,
+    "retweeted_status": {
+        "created_at": "Mon Aug 12 13:23:56 +0000 2019",
+        "favorite_count": 52,
+        "hashtags": [],
+        "id": 1160904752235974658,
+        "id_str": "1160904752235974658",
+        "lang": "en",
+        "place": {
+            "id": "c3f37afa9efcf94b",
+            "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+            "place_type": "city",
+            "name": "Austin",
+            "full_name": "Austin, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.928935,
+                            30.127892
+                        ],
+                        [
+                            -97.5805133,
+                            30.127892
+                        ],
+                        [
+                            -97.5805133,
+                            30.5187994
+                        ],
+                        [
+                            -97.928935,
+                            30.5187994
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 18,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "END OF AN ERA: today is the Butler Park Pitch &amp; Putt\u2019s last day of operation under the Kinser family, who\u2019s been in\u2026 https://t.co/SkHrKEpY5L",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1160904752235974658",
+                "url": "https://t.co/SkHrKEpY5L"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 03 02:52:29 +0000 2013",
+            "default_profile": true,
+            "description": "Morning newsie @KVUE \u2615\ufe0f\u2600\ufe0f Formerly @KLBKNews @CNN | Proud Texas Ex @utaustin \\m/ Coastal Bend native \ud83c\udf0a My views. Story ideas? Let me know! ladami@kvue.com",
+            "favourites_count": 13127,
+            "followers_count": 2236,
+            "friends_count": 1924,
+            "geo_enabled": true,
+            "id": 1056696348,
+            "id_str": "1056696348",
+            "listed_count": 29,
+            "location": "Austin, TX",
+            "name": "Leslie Adami",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056696348/1535235072",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1118289155212173312/8GQjbroO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118289155212173312/8GQjbroO_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LeslieAdami",
+            "statuses_count": 13473,
+            "url": "https://t.co/y3jEqb03c9",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @LeslieAdami: END OF AN ERA: today is the Butler Park Pitch &amp; Putt\u2019s last day of operation under the Kinser family, who\u2019s been in charge\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly representing the people of the 21st Congressional District of Texas.",
+        "favourites_count": 325,
+        "followers_count": 21932,
+        "friends_count": 36,
+        "geo_enabled": true,
+        "id": 1082790600292925440,
+        "id_str": "1082790600292925440",
+        "listed_count": 246,
+        "location": "Washington, DC",
+        "name": "Rep. Chip Roy",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1547050497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChipRoy",
+        "statuses_count": 1211,
+        "url": "https://t.co/HpJaJuKlOT",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1056696348,
+            "id_str": "1056696348",
+            "name": "Leslie Adami",
+            "screen_name": "LeslieAdami"
+        }
+    ]
+}

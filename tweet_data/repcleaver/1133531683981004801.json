@@ -1,0 +1,166 @@
+{
+    "created_at": "Wed May 29 00:33:08 +0000 2019",
+    "hashtags": [],
+    "id": 1133531683981004801,
+    "id_str": "1133531683981004801",
+    "lang": "en",
+    "retweet_count": 19,
+    "retweeted_status": {
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -94.58092102,
+                39.23440672
+            ]
+        },
+        "created_at": "Wed May 29 00:29:52 +0000 2019",
+        "favorite_count": 23,
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                39.23440672,
+                -94.58092102
+            ]
+        },
+        "hashtags": [],
+        "id": 1133530865340887040,
+        "id_str": "1133530865340887040",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/r30iiRoXcI",
+                "expanded_url": "https://twitter.com/NWSSevereTstorm/status/1133530865340887040/photo/1",
+                "id": 1133530863902183426,
+                "media_url": "http://pbs.twimg.com/media/D7scUKTU0AIen6r.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D7scUKTU0AIen6r.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1020,
+                        "h": 860,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 573,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1020,
+                        "h": 860,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/r30iiRoXcI"
+            }
+        ],
+        "place": {
+            "id": "e5731aae9bb5e805",
+            "url": "https://api.twitter.com/1.1/geo/id/e5731aae9bb5e805.json",
+            "place_type": "city",
+            "name": "Gladstone",
+            "full_name": "Gladstone, MO",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.593389,
+                            39.1737377
+                        ],
+                        [
+                            -94.529799,
+                            39.1737377
+                        ],
+                        [
+                            -94.529799,
+                            39.235151
+                        ],
+                        [
+                            -94.593389,
+                            39.235151
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 19,
+        "source": "<a href=\"http://weather.gov/\" rel=\"nofollow\">NWSSevereTstorm</a>",
+        "text": "Severe Thunderstorm Warning continues for Gladstone MO, Parkville MO, Pleasant Valley MO until 7:45 PM CDT https://t.co/r30iiRoXcI",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jun 03 20:36:41 +0000 2014",
+            "default_profile": true,
+            "description": "Official Twitter National Weather Service account used to distribute experimental severe thunderstorm impact graphics. Read more at: http://t.co/j1qyDV2Jw5",
+            "followers_count": 32604,
+            "geo_enabled": true,
+            "id": 2544250500,
+            "id_str": "2544250500",
+            "listed_count": 1006,
+            "name": "NWS Severe Tstorm",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2544250500/1401827917",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/473926382393643009/vxIWpuvl_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/473926382393643009/vxIWpuvl_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NWSSevereTstorm",
+            "statuses_count": 206482,
+            "url": "http://t.co/iGsuslzVWY",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @NWSSevereTstorm: Severe Thunderstorm Warning continues for Gladstone MO, Parkville MO, Pleasant Valley MO until 7:45 PM CDT https://t.c\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 06 19:14:47 +0000 2010",
+        "description": "This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri's Fifth District.",
+        "favourites_count": 474,
+        "followers_count": 41954,
+        "friends_count": 1021,
+        "geo_enabled": true,
+        "id": 163570705,
+        "id_str": "163570705",
+        "listed_count": 1143,
+        "name": "Rep. Emanuel Cleaver",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163570705/1553799524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repcleaver",
+        "statuses_count": 6606,
+        "url": "https://t.co/dOfaqxI1gQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2544250500,
+            "id_str": "2544250500",
+            "name": "NWS Severe Tstorm",
+            "screen_name": "NWSSevereTstorm"
+        }
+    ]
+}

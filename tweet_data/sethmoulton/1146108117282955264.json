@@ -1,0 +1,152 @@
+{
+    "created_at": "Tue Jul 02 17:27:23 +0000 2019",
+    "favorite_count": 759,
+    "hashtags": [],
+    "id": 1146108117282955264,
+    "id_str": "1146108117282955264",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 02 13:33:00 +0000 2019",
+        "favorite_count": 378,
+        "hashtags": [],
+        "id": 1146049132026400769,
+        "id_str": "1146049132026400769",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Ocp01kaKCM",
+                "expanded_url": "https://twitter.com/nowthisnews/status/1146049132026400769/video/1",
+                "id": 1145807786674151424,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1145807786674151424/img/oX9DHDcw8SM80sQY.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1145807786674151424/img/oX9DHDcw8SM80sQY.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/Ocp01kaKCM",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 208976,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1145807786674151424/pl/h8RsAWWSZa0UN8NC.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1145807786674151424/vid/720x720/mV_99GFH6z3n5nU8.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1145807786674151424/vid/320x320/VlpjE3tRFFv1wjB9.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1145807786674151424/vid/480x480/HrQ3oMkgI2_PXKwa.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 137,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "This 9/11 first responder gave his late colleague\u2019s badge to Mitch McConnell as a message https://t.co/Ocp01kaKCM",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jul 17 20:31:08 +0000 2012",
+            "description": "Stories that move. Send us tips: contact@nowthismedia.com.   Subscribe to our daily newsletter: https://t.co/rvOBeIv1rM",
+            "favourites_count": 12692,
+            "followers_count": 2372447,
+            "friends_count": 12226,
+            "geo_enabled": true,
+            "id": 701725963,
+            "id_str": "701725963",
+            "listed_count": 9376,
+            "location": "The Internet & NYC",
+            "name": "NowThis",
+            "profile_background_color": "7FDBB6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nowthisnews",
+            "statuses_count": 127437,
+            "url": "http://t.co/1NLX7sJ52o",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1146049132026400769,
+    "quoted_status_id_str": "1146049132026400769",
+    "retweet_count": 191,
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "Do not betray the the 9/11 first responders who have done more to serve this country than you ever will\u2026 https://t.co/iuCYfeicOl",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1146108117282955264",
+            "url": "https://t.co/iuCYfeicOl"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 07 03:35:59 +0000 2011",
+        "default_profile": true,
+        "description": "Father, husband, Marine, Congressman, and candidate for President of the United States. \n\nIt's time for a new generation of leadership.",
+        "favourites_count": 3999,
+        "followers_count": 143995,
+        "friends_count": 2365,
+        "geo_enabled": true,
+        "id": 248495200,
+        "id_str": "248495200",
+        "listed_count": 2476,
+        "location": "Salem, MA",
+        "name": "Seth Moulton",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248495200/1559917656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sethmoulton",
+        "statuses_count": 10762,
+        "url": "https://t.co/x3XcV4cO6O",
+        "verified": true
+    },
+    "user_mentions": []
+}

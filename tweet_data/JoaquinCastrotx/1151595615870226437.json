@@ -1,0 +1,177 @@
+{
+    "created_at": "Wed Jul 17 20:52:45 +0000 2019",
+    "hashtags": [],
+    "id": 1151595615870226437,
+    "id_str": "1151595615870226437",
+    "lang": "en",
+    "quoted_status_id": 1151582234782121984,
+    "quoted_status_id_str": "1151582234782121984",
+    "retweet_count": 1024,
+    "retweeted_status": {
+        "created_at": "Wed Jul 17 20:02:13 +0000 2019",
+        "favorite_count": 6258,
+        "hashtags": [],
+        "id": 1151582901714268162,
+        "id_str": "1151582901714268162",
+        "lang": "en",
+        "place": {
+            "id": "00ab941b685334e3",
+            "url": "https://api.twitter.com/1.1/geo/id/00ab941b685334e3.json",
+            "place_type": "city",
+            "name": "Nashville",
+            "full_name": "Nashville, TN",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.022482,
+                            35.9945681
+                        ],
+                        [
+                            -86.560616,
+                            35.9945681
+                        ],
+                        [
+                            -86.560616,
+                            36.405448
+                        ],
+                        [
+                            -87.022482,
+                            36.405448
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Wed Jul 17 19:59:34 +0000 2019",
+            "favorite_count": 588,
+            "hashtags": [],
+            "id": 1151582234782121984,
+            "id_str": "1151582234782121984",
+            "lang": "en",
+            "retweet_count": 171,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "\"Go back\" is how racists try to deny my American heritage. But this is my country and I'm not leaving, says\u2026 https://t.co/oRcg7acnNr",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1151582234782121984",
+                    "url": "https://t.co/oRcg7acnNr"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Sep 06 13:03:25 +0000 2017",
+                "description": "THINK is NBC News' home for fresh opinion, sharp analysis and powerful essays.",
+                "favourites_count": 51,
+                "followers_count": 15246,
+                "friends_count": 966,
+                "id": 905416143313219584,
+                "id_str": "905416143313219584",
+                "listed_count": 272,
+                "location": "Manhattan, NY",
+                "name": "NBC News THINK",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/905416143313219584/1505477671",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/907735845410664448/7QIVKYhv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/907735845410664448/7QIVKYhv_normal.jpg",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "NBCNewsTHINK",
+                "statuses_count": 5205,
+                "url": "https://t.co/9ukmwoD5NL",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1151582234782121984,
+        "quoted_status_id_str": "1151582234782121984",
+        "retweet_count": 1024,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u201cSo, to Trump &amp; the GOP, my name is Kurt Bardella. My first name is German, my last is Italian and I was born in Se\u2026 https://t.co/U5iLLqzsNY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151582901714268162",
+                "url": "https://t.co/U5iLLqzsNY"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Dec 18 04:02:37 +0000 2008",
+            "description": "Creator/Writer #countrymusic email @MorningHangover Contributor USAToday @NBCNewsTHINK, fmr @GOPOversight Spokesperson who became a Dem. Read @OurDailyPlanet",
+            "favourites_count": 31136,
+            "followers_count": 23795,
+            "friends_count": 3495,
+            "geo_enabled": true,
+            "id": 18208368,
+            "id_str": "18208368",
+            "listed_count": 343,
+            "location": "Arlington, VA",
+            "name": "Kurt Bardella",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18208368/1528166635",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1142913330144829440/-sSdU7gO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142913330144829440/-sSdU7gO_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "kurtbardella",
+            "statuses_count": 52408,
+            "url": "https://t.co/RcPNm8FLpb",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @kurtbardella: \u201cSo, to Trump &amp; the GOP, my name is Kurt Bardella. My first name is German, my last is Italian and I was born in Seoul an\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+        "description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of Intelligence and @EdLaborCmte Commitees; host of @DiploCable.",
+        "favourites_count": 5746,
+        "followers_count": 207363,
+        "friends_count": 1914,
+        "geo_enabled": true,
+        "id": 231510077,
+        "id_str": "231510077",
+        "listed_count": 2474,
+        "location": "San Antonio, Texas",
+        "name": "Joaquin Castro",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoaquinCastrotx",
+        "statuses_count": 14878,
+        "url": "http://t.co/SBuEnv1k",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18208368,
+            "id_str": "18208368",
+            "name": "Kurt Bardella",
+            "screen_name": "kurtbardella"
+        }
+    ]
+}

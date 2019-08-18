@@ -1,0 +1,152 @@
+{
+    "created_at": "Thu Jun 20 15:16:49 +0000 2019",
+    "hashtags": [],
+    "id": 1141726606379147269,
+    "id_str": "1141726606379147269",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Jun 19 19:27:11 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 1141427223636955138,
+        "id_str": "1141427223636955138",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "It was a treat to have @RepFrenchHill and @RepRickCrawford meet with our students this morning and school them with\u2026 https://t.co/jNS3mhmwkF",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141427223636955138",
+                "url": "https://t.co/jNS3mhmwkF"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 04 17:56:21 +0000 2010",
+            "default_profile": true,
+            "description": "Seeker of Grace. Staunch Arkansan. Dad. Husband. Electric Cooperatives of Arkansas.  Less than mediocre guitar player.",
+            "favourites_count": 3483,
+            "followers_count": 677,
+            "friends_count": 1265,
+            "geo_enabled": true,
+            "id": 101821739,
+            "id_str": "101821739",
+            "listed_count": 12,
+            "location": "Little Rock, Arkansas",
+            "name": "JD Lowery",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/101821739/1434379350",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/808758410753687552/jN_i5-4X_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/808758410753687552/jN_i5-4X_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "jd_lowery",
+            "statuses_count": 2205
+        },
+        "user_mentions": [
+            {
+                "id": 2953974395,
+                "id_str": "2953974395",
+                "name": "French Hill",
+                "screen_name": "RepFrenchHill"
+            },
+            {
+                "id": 233693291,
+                "id_str": "233693291",
+                "name": "Rep Rick Crawford",
+                "screen_name": "RepRickCrawford"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @jd_lowery: It was a treat to have @RepFrenchHill and @RepRickCrawford meet with our students this morning and school them with a histor\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 03 21:57:49 +0000 2011",
+        "description": "Representing Arkansas's 1st District in the United States House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee",
+        "favourites_count": 1550,
+        "followers_count": 19067,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 233693291,
+        "id_str": "233693291",
+        "listed_count": 907,
+        "location": "Washington, DC",
+        "name": "Rep Rick Crawford",
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233693291/1514907502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_link_color": "048C09",
+        "profile_sidebar_border_color": "2E517B",
+        "profile_sidebar_fill_color": "C1CCDE",
+        "profile_text_color": "2424C7",
+        "profile_use_background_image": true,
+        "screen_name": "RepRickCrawford",
+        "statuses_count": 5300,
+        "url": "https://t.co/Bh2OlD3a1Q",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 101821739,
+            "id_str": "101821739",
+            "name": "JD Lowery",
+            "screen_name": "jd_lowery"
+        },
+        {
+            "id": 2953974395,
+            "id_str": "2953974395",
+            "name": "French Hill",
+            "screen_name": "RepFrenchHill"
+        },
+        {
+            "id": 233693291,
+            "id_str": "233693291",
+            "name": "Rep Rick Crawford",
+            "screen_name": "RepRickCrawford"
+        }
+    ]
+}

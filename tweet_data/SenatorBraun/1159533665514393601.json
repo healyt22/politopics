@@ -1,0 +1,120 @@
+{
+    "created_at": "Thu Aug 08 18:35:43 +0000 2019",
+    "hashtags": [
+        {
+            "text": "StopRxGreed"
+        }
+    ],
+    "id": 1159533665514393601,
+    "id_str": "1159533665514393601",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Thu Aug 08 17:59:53 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1159524646166966272,
+        "id_str": "1159524646166966272",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": ".@Addison_Pollock was able to catch up with @SenatorBraun this afternoon and thank him for his efforts to\u2026 https://t.co/5hpay8DSvW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159524646166966272",
+                "url": "https://t.co/5hpay8DSvW"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 02 15:17:26 +0000 2010",
+            "description": "AARP is leading a revolution in the way people view & live life after 50.",
+            "favourites_count": 874,
+            "followers_count": 2693,
+            "friends_count": 1639,
+            "geo_enabled": true,
+            "id": 151082261,
+            "id_str": "151082261",
+            "listed_count": 101,
+            "location": "Indiana",
+            "name": "AARP Indiana",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151082261/1493910850",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974715983217623041/TgfoAe5-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974715983217623041/TgfoAe5-_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "screen_name": "AARPIndiana",
+            "statuses_count": 11377,
+            "url": "http://t.co/q6mZML8j9G"
+        },
+        "user_mentions": [
+            {
+                "id": 1441915830,
+                "id_str": "1441915830",
+                "name": "Addison Pollock",
+                "screen_name": "Addison_Pollock"
+            },
+            {
+                "id": 1080870981877534720,
+                "id_str": "1080870981877534720",
+                "name": "Senator Mike Braun",
+                "screen_name": "SenatorBraun"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @AARPIndiana: .@Addison_Pollock was able to catch up with @SenatorBraun this afternoon and thank him for his efforts to #StopRxGreed. Th\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 16:58:18 +0000 2019",
+        "description": "Main Street entrepreneur & Hoosier U.S. Senator from Jasper, IN.",
+        "favourites_count": 8,
+        "followers_count": 5972,
+        "friends_count": 111,
+        "geo_enabled": true,
+        "id": 1080870981877534720,
+        "id_str": "1080870981877534720",
+        "listed_count": 199,
+        "location": "Jasper, IN",
+        "name": "Senator Mike Braun",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080870981877534720/1560287247",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080872040184401924/tXytvVUd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080872040184401924/tXytvVUd_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenatorBraun",
+        "statuses_count": 538,
+        "url": "https://t.co/ChBgzUcPIG",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 151082261,
+            "id_str": "151082261",
+            "name": "AARP Indiana",
+            "screen_name": "AARPIndiana"
+        },
+        {
+            "id": 1441915830,
+            "id_str": "1441915830",
+            "name": "Addison Pollock",
+            "screen_name": "Addison_Pollock"
+        },
+        {
+            "id": 1080870981877534720,
+            "id_str": "1080870981877534720",
+            "name": "Senator Mike Braun",
+            "screen_name": "SenatorBraun"
+        }
+    ]
+}

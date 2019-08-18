@@ -1,0 +1,111 @@
+{
+    "created_at": "Tue Jun 04 15:11:20 +0000 2019",
+    "favorite_count": 70,
+    "hashtags": [],
+    "id": 1135927018661527552,
+    "id_str": "1135927018661527552",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 03 20:45:24 +0000 2019",
+        "favorite_count": 32,
+        "hashtags": [
+            {
+                "text": "AL"
+            }
+        ],
+        "id": 1135648703216308224,
+        "id_str": "1135648703216308224",
+        "lang": "en",
+        "retweet_count": 12,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Proud to receive an outpouring of positive feedback from members of @ALHospitals &amp; #AL residents thanks to @CMSGov\u2019\u2026 https://t.co/53QMwmJ5lL",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1135648703216308224",
+                "url": "https://t.co/53QMwmJ5lL"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 17 17:53:43 +0000 2009",
+            "description": "The official Twitter page for U.S. Senator Richard Shelby (R-Ala.) https://t.co/YqOy54UpSf",
+            "favourites_count": 335,
+            "followers_count": 82051,
+            "friends_count": 503,
+            "geo_enabled": true,
+            "id": 21111098,
+            "id_str": "21111098",
+            "listed_count": 2148,
+            "location": "Tuscaloosa, Alabama",
+            "name": "Richard Shelby",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21111098/1436912050",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+            "profile_link_color": "A60000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "screen_name": "SenShelby",
+            "statuses_count": 2294,
+            "url": "https://t.co/1iULT8X6Vz",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2612131224,
+                "id_str": "2612131224",
+                "name": "AL Hospital Assoc.",
+                "screen_name": "ALhospitals"
+            },
+            {
+                "id": 70837868,
+                "id_str": "70837868",
+                "name": "CMSGov",
+                "screen_name": "CMSGov"
+            }
+        ]
+    },
+    "quoted_status_id": 1135648703216308224,
+    "quoted_status_id_str": "1135648703216308224",
+    "retweet_count": 37,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Alabama hospitals are struggling. 13 have closed since 2011, 7 rural and 6 urban. \n\nThe wage index is long-overdue\u2026 https://t.co/N2B2l2YMHi",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1135927018661527552",
+            "url": "https://t.co/N2B2l2YMHi"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 13 22:59:11 +0000 2017",
+        "default_profile": true,
+        "description": "Latest news from the Office of U.S. Senator Doug Jones. Account managed by staff. Tweets from the Senator signed -Doug.",
+        "favourites_count": 175,
+        "followers_count": 21775,
+        "friends_count": 276,
+        "geo_enabled": true,
+        "id": 941080085121175552,
+        "id_str": "941080085121175552",
+        "listed_count": 473,
+        "location": "Birmingham, AL",
+        "name": "Doug Jones",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/941080085121175552/1532030094",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020031896741400577/RvxrHrIA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020031896741400577/RvxrHrIA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenDougJones",
+        "statuses_count": 919,
+        "url": "https://t.co/ybmvFhggOr",
+        "verified": true
+    },
+    "user_mentions": []
+}

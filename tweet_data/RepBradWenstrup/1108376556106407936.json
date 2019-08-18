@@ -1,0 +1,108 @@
+{
+    "created_at": "Wed Mar 20 14:35:38 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [],
+    "id": 1108376556106407936,
+    "id_str": "1108376556106407936",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Mar 20 14:11:18 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1108370434783956994,
+        "id_str": "1108370434783956994",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Fun chat with @RepBradWenstrup, mostly about life away from Capitol Hill. He talks about adopting a little girl las\u2026 https://t.co/n08DQp0L5N",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1108370434783956994",
+                "url": "https://t.co/n08DQp0L5N"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 31 21:11:50 +0000 2010",
+            "description": "https://t.co/mDBCcYYlHL | @Enquirer political columnist. \u201cThat's So Cincinnati\u201d pod curmudgeon. Lifelong @HerdFB fan. Live MLK's dream.",
+            "favourites_count": 12743,
+            "followers_count": 7284,
+            "friends_count": 528,
+            "geo_enabled": true,
+            "id": 185379059,
+            "id_str": "185379059",
+            "listed_count": 206,
+            "location": "Cincinnati, Ohio",
+            "name": "Jason Williams",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/185379059/1549597889",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1320639748/6096_1133330018149_1374240709_30502405_1151711_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1320639748/6096_1133330018149_1374240709_30502405_1151711_n_normal.jpg",
+            "profile_link_color": "3DEBEB",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "jwilliamscincy",
+            "statuses_count": 18312,
+            "url": "https://t.co/hr8ybSv0xC",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 518644221,
+                "id_str": "518644221",
+                "name": "Brad Wenstrup",
+                "screen_name": "RepBradWenstrup"
+            }
+        ]
+    },
+    "quoted_status_id": 1108370434783956994,
+    "quoted_status_id_str": "1108370434783956994",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great talking with you @jwilliamscincy https://t.co/z5aMepRPoh",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/jwilliamscincy/status/1108370434783956994",
+            "url": "https://t.co/z5aMepRPoh"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Mar 08 16:25:14 +0000 2012",
+        "description": "US Representative for the people of Ohio's 2nd District, Physician, Army Reservist, Dad, Lifelong Ohioan",
+        "favourites_count": 773,
+        "followers_count": 22725,
+        "friends_count": 1032,
+        "geo_enabled": true,
+        "id": 518644221,
+        "id_str": "518644221",
+        "listed_count": 685,
+        "name": "Brad Wenstrup",
+        "profile_background_color": "B30000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/518644221/1497304139",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000172004781/b7b9dc516fbf3a3a1f5bbfff3ae9aa51_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000172004781/b7b9dc516fbf3a3a1f5bbfff3ae9aa51_normal.png",
+        "profile_link_color": "B30000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBradWenstrup",
+        "statuses_count": 5309,
+        "url": "https://t.co/PMxYuFsMOw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 185379059,
+            "id_str": "185379059",
+            "name": "Jason Williams",
+            "screen_name": "jwilliamscincy"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed May 15 15:56:37 +0000 2019",
+    "hashtags": [],
+    "id": 1128690656199815168,
+    "id_str": "1128690656199815168",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Wed May 15 15:29:55 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1128683936765362177,
+        "id_str": "1128683936765362177",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+        "text": "WATCH: @RepSarbanes on resources needed for election security,\n\n\"paper ballots in every election, risk audits being\u2026 https://t.co/pCjs9TWtVG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1128683936765362177",
+                "url": "https://t.co/pCjs9TWtVG"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 20 21:05:41 +0000 2008",
+            "description": "C-SPAN's morning call-in program. Live every day from 7-10am ET with guests taking your calls and tweets. Join the conversation. https://t.co/WVBy5wxXOa",
+            "favourites_count": 1584,
+            "followers_count": 62548,
+            "friends_count": 5236,
+            "geo_enabled": true,
+            "id": 15923226,
+            "id_str": "15923226",
+            "listed_count": 1959,
+            "location": "Washington, DC",
+            "name": "Washington Journal",
+            "profile_background_color": "E3B456",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15923226/1552906192",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107594845097549824/wKKVt_lV_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107594845097549824/wKKVt_lV_normal.png",
+            "profile_link_color": "0E1259",
+            "profile_sidebar_border_color": "F2DB43",
+            "profile_sidebar_fill_color": "D1A347",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "cspanwj",
+            "statuses_count": 40183,
+            "url": "https://t.co/S60LwkBFso",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 364415553,
+                "id_str": "364415553",
+                "name": "Rep. John Sarbanes",
+                "screen_name": "RepSarbanes"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @cspanwj: WATCH: @RepSarbanes on resources needed for election security,\n\n\"paper ballots in every election, risk audits being conducted,\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Aug 29 18:44:47 +0000 2011",
+        "description": "Representing Maryland\u2019s 3rd District. Author of #HR1. Cleaning up corruption #ForThePeople. Chair: @House_DRTF. Member: @OversightDems & @EnergyCommerce.",
+        "favourites_count": 242,
+        "followers_count": 21976,
+        "friends_count": 516,
+        "geo_enabled": true,
+        "id": 364415553,
+        "id_str": "364415553",
+        "listed_count": 823,
+        "location": "Maryland",
+        "name": "Rep. John Sarbanes",
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/364415553/1450112915",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/512000635386855425/iDW41TJ9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/512000635386855425/iDW41TJ9_normal.jpeg",
+        "profile_link_color": "558ADE",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepSarbanes",
+        "statuses_count": 2004,
+        "url": "https://t.co/xkBEGeSvuh",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15923226,
+            "id_str": "15923226",
+            "name": "Washington Journal",
+            "screen_name": "cspanwj"
+        },
+        {
+            "id": 364415553,
+            "id_str": "364415553",
+            "name": "Rep. John Sarbanes",
+            "screen_name": "RepSarbanes"
+        }
+    ]
+}

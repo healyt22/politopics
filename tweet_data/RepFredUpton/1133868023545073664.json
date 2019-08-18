@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed May 29 22:49:37 +0000 2019",
+    "hashtags": [],
+    "id": 1133868023545073664,
+    "id_str": "1133868023545073664",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed May 29 20:29:38 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1133832796148043776,
+        "id_str": "1133832796148043776",
+        "lang": "en",
+        "place": {
+            "id": "67d92742f1ebf307",
+            "url": "https://api.twitter.com/1.1/geo/id/67d92742f1ebf307.json",
+            "place_type": "admin",
+            "name": "Michigan",
+            "full_name": "Michigan, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.4181075,
+                            41.696088
+                        ],
+                        [
+                            -82.122971,
+                            41.696088
+                        ],
+                        [
+                            -82.122971,
+                            48.306272
+                        ],
+                        [
+                            -90.4181075,
+                            48.306272
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u201cThe problem solvers caucus was successful in changing the rules of the House to reduce bipartisanship.\u201d Says\u2026 https://t.co/TAaOTr35jk",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1133832796148043776",
+                "url": "https://t.co/TAaOTr35jk"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 18 15:53:07 +0000 2009",
+            "description": "Visit our Chamber blog to read up-to-date news from one of the most respected chambers of commerce in the country: https://t.co/nMzmnD0szY",
+            "favourites_count": 6574,
+            "followers_count": 27483,
+            "friends_count": 1045,
+            "geo_enabled": true,
+            "id": 66715032,
+            "id_str": "66715032",
+            "listed_count": 635,
+            "location": "Detroit, Michigan",
+            "name": "Detroit Chamber",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/66715032/1487173083",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/502542102727630848/BgwNVDnc_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/502542102727630848/BgwNVDnc_normal.jpeg",
+            "profile_link_color": "2F479E",
+            "profile_sidebar_border_color": "2F479E",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "DetroitChamber",
+            "statuses_count": 17761,
+            "url": "https://t.co/b5lx3NK3Zq",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @DetroitChamber: \u201cThe problem solvers caucus was successful in changing the rules of the House to reduce bipartisanship.\u201d Says @RepFredU\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 18 17:34:35 +0000 2010",
+        "description": "Call me Fred. Husband, Dad, & proud to represent Southwest Michigan.",
+        "favourites_count": 2154,
+        "followers_count": 26567,
+        "friends_count": 2040,
+        "geo_enabled": true,
+        "id": 124224165,
+        "id_str": "124224165",
+        "listed_count": 1254,
+        "location": "St. Joseph, Michigan",
+        "name": "Fred Upton",
+        "profile_background_color": "91D5EC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124224165/1554902865",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1133025054676201472/ZeYuIcgN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133025054676201472/ZeYuIcgN_normal.png",
+        "profile_link_color": "5A5D5E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "91D5EC",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepFredUpton",
+        "statuses_count": 6334,
+        "url": "https://t.co/3thchERYkn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 66715032,
+            "id_str": "66715032",
+            "name": "Detroit Chamber",
+            "screen_name": "DetroitChamber"
+        }
+    ]
+}

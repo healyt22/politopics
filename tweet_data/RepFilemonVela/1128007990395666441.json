@@ -1,0 +1,128 @@
+{
+    "created_at": "Mon May 13 18:43:56 +0000 2019",
+    "hashtags": [],
+    "id": 1128007990395666441,
+    "id_str": "1128007990395666441",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon May 13 15:59:30 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1127966605475045376,
+        "id_str": "1127966605475045376",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Dialogue with the Fed: @RepFilemonVela discusses economic growth in Texas with @DallasFed President @RobSKaplan. Th\u2026 https://t.co/SVPqZ2NEXg",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1127966605475045376",
+                "url": "https://t.co/SVPqZ2NEXg"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 13 15:33:52 +0000 2010",
+            "description": "The Dallas Fed serves the Eleventh Federal Reserve District: Texas, northern Louisiana and southern New Mexico.",
+            "favourites_count": 230,
+            "followers_count": 58143,
+            "friends_count": 62,
+            "id": 143477156,
+            "id_str": "143477156",
+            "listed_count": 1448,
+            "name": "Dallas Fed",
+            "profile_background_color": "394351",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/143477156/1482100109",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/811243029440794625/u6hjHuWq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/811243029440794625/u6hjHuWq_normal.jpg",
+            "profile_link_color": "0063A9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DED3A5",
+            "profile_text_color": "333333",
+            "screen_name": "DallasFed",
+            "statuses_count": 5004,
+            "url": "http://t.co/1mIeWJooVn",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1083448909,
+                "id_str": "1083448909",
+                "name": "US Rep. Filemon Vela",
+                "screen_name": "RepFilemonVela"
+            },
+            {
+                "id": 143477156,
+                "id_str": "143477156",
+                "name": "Dallas Fed",
+                "screen_name": "DallasFed"
+            },
+            {
+                "id": 295368170,
+                "id_str": "295368170",
+                "name": "Rob S. Kaplan",
+                "screen_name": "RobSKaplan"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DallasFed: Dialogue with the Fed: @RepFilemonVela discusses economic growth in Texas with @DallasFed President @RobSKaplan. The moderat\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Jan 12 16:24:06 +0000 2013",
+        "description": "U.S. Congressman for the 34th District of Texas - Privileged to represent South Texans.",
+        "favourites_count": 218,
+        "followers_count": 15883,
+        "friends_count": 387,
+        "geo_enabled": true,
+        "id": 1083448909,
+        "id_str": "1083448909",
+        "listed_count": 711,
+        "location": "District 34, Texas",
+        "name": "US Rep. Filemon Vela",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083448909/1399392026",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463712019523194880/pM1rWMry_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463712019523194880/pM1rWMry_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepFilemonVela",
+        "statuses_count": 1397,
+        "url": "https://t.co/PYuChi0OLA",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 143477156,
+            "id_str": "143477156",
+            "name": "Dallas Fed",
+            "screen_name": "DallasFed"
+        },
+        {
+            "id": 1083448909,
+            "id_str": "1083448909",
+            "name": "US Rep. Filemon Vela",
+            "screen_name": "RepFilemonVela"
+        },
+        {
+            "id": 143477156,
+            "id_str": "143477156",
+            "name": "Dallas Fed",
+            "screen_name": "DallasFed"
+        },
+        {
+            "id": 295368170,
+            "id_str": "295368170",
+            "name": "Rob S. Kaplan",
+            "screen_name": "RobSKaplan"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "created_at": "Fri Apr 19 21:04:13 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [
+        {
+            "text": "CA21"
+        }
+    ],
+    "id": 1119345985132666881,
+    "id_str": "1119345985132666881",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/NSYSOa0oY1",
+            "expanded_url": "https://twitter.com/RepTjCox/status/1119345985132666881/video/1",
+            "id": 1119345928727613441,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119345928727613441/pu/img/7t9yd8BIhL8cOGIw.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119345928727613441/pu/img/7t9yd8BIhL8cOGIw.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/NSYSOa0oY1",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 58128,
+                "variants": [
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1119345928727613441/pu/vid/320x568/CYvPZZtV-XHaUbR_.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1119345928727613441/pu/vid/720x1280/9nS_zOsILK-TvYS0.mp4?tag=8"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1119345928727613441/pu/pl/RFD5bT1N01DUzPFA.m3u8?tag=8"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1119345928727613441/pu/vid/360x640/kJiVeqsR7x8x1FA3.mp4?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "A (somewhat belated) message on our first 100 Days in office #CA21 https://t.co/NSYSOa0oY1",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 17:17:54 +0000 2019",
+        "default_profile": true,
+        "description": "Engineer, dad, small businessman. Serving with @HouseAgDems to grow opportunity in #CA21. Chair, Subcommittee on Oversight and Investigations, @NRDems.",
+        "favourites_count": 322,
+        "followers_count": 5360,
+        "friends_count": 546,
+        "geo_enabled": true,
+        "id": 1080875913926139910,
+        "id_str": "1080875913926139910",
+        "listed_count": 150,
+        "name": "Congressman TJ Cox",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080875913926139910/1554311206",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080982336043446273/yvmQILva_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080982336043446273/yvmQILva_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTjCox",
+        "statuses_count": 642,
+        "url": "https://t.co/szOHjcJFAj",
+        "verified": true
+    },
+    "user_mentions": []
+}

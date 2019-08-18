@@ -1,0 +1,98 @@
+{
+    "created_at": "Mon Jul 01 22:02:55 +0000 2019",
+    "hashtags": [],
+    "id": 1145815070376714241,
+    "id_str": "1145815070376714241",
+    "lang": "en",
+    "retweet_count": 320,
+    "retweeted_status": {
+        "created_at": "Mon Jul 01 21:53:14 +0000 2019",
+        "favorite_count": 666,
+        "hashtags": [],
+        "id": 1145812632361943040,
+        "id_str": "1145812632361943040",
+        "lang": "en",
+        "retweet_count": 320,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "A tour of two Border Patrol facilities for more than a dozen members of Congress just \u201cwent off the rails,\u201d\u2026 https://t.co/MwJn1rzbgA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1145812632361943040",
+                "url": "https://t.co/MwJn1rzbgA"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 29 17:40:09 +0000 2013",
+            "description": "#VICENewsTonight airs Tuesday-Friday at 7:30 PM on @HBO / Call us: 1.888.317.8423 / Sign up now for the VICE News Daily Brief https://t.co/4GC2cAfPjY",
+            "favourites_count": 3855,
+            "followers_count": 950505,
+            "friends_count": 855,
+            "geo_enabled": true,
+            "id": 1630896181,
+            "id_str": "1630896181",
+            "listed_count": 11465,
+            "location": "Worldwide",
+            "name": "VICE News",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1630896181/1478800860",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1125407496854757376/_9bIv7p5_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125407496854757376/_9bIv7p5_normal.png",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "vicenews",
+            "statuses_count": 106977,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @vicenews: A tour of two Border Patrol facilities for more than a dozen members of Congress just \u201cwent off the rails,\u201d @RepJoeKennedy sa\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 19:33:36 +0000 2013",
+        "description": "Official Twitter account of Congressman Joe Kennedy III, representing Massachusetts' 4th Congressional District.",
+        "favourites_count": 12,
+        "followers_count": 782157,
+        "friends_count": 699,
+        "geo_enabled": true,
+        "id": 1055907624,
+        "id_str": "1055907624",
+        "listed_count": 3314,
+        "name": "Rep. Joe Kennedy III",
+        "profile_background_color": "10214A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055907624/1506705689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_link_color": "BF1B1B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeKennedy",
+        "statuses_count": 5315,
+        "url": "https://t.co/rYNEysanC2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1630896181,
+            "id_str": "1630896181",
+            "name": "VICE News",
+            "screen_name": "vicenews"
+        },
+        {
+            "id": 1055907624,
+            "id_str": "1055907624",
+            "name": "Rep. Joe Kennedy III",
+            "screen_name": "RepJoeKennedy"
+        }
+    ]
+}

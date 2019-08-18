@@ -1,0 +1,101 @@
+{
+    "created_at": "Fri Apr 12 23:14:43 +0000 2019",
+    "favorite_count": 28,
+    "hashtags": [],
+    "id": 1116842108747485186,
+    "id_str": "1116842108747485186",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Gw10qVPKZw",
+            "expanded_url": "https://twitter.com/SenDanSullivan/status/1116842108747485186/video/1",
+            "id": 1116807629093908481,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1116807629093908481/img/pm-tFU3ZqZHegEX_.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1116807629093908481/img/pm-tFU3ZqZHegEX_.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Gw10qVPKZw",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 140807,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1116807629093908481/vid/640x360/vy66_1D18XKf0muj.mp4?tag=11"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1116807629093908481/pl/o44leLCntvm_XwWW.m3u8?tag=11"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1116807629093908481/vid/1280x720/bk1C9Srm-n0RvPkI.mp4?tag=11"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1116807629093908481/vid/320x180/56A1_V-KwDCL0F4h.mp4?tag=11"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "We're bringing Alaska's home-grown Choose Respect initiative to the whole country. https://t.co/Gw10qVPKZw",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 05 21:25:42 +0000 2014",
+        "default_profile": true,
+        "description": "Official twitter account for U.S. Senator Dan Sullivan.  Proudly serving the state of Alaska.",
+        "favourites_count": 161,
+        "followers_count": 37519,
+        "friends_count": 690,
+        "geo_enabled": true,
+        "id": 2891210047,
+        "id_str": "2891210047",
+        "listed_count": 963,
+        "name": "Sen. Dan Sullivan",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553674509639618560/XOdVwVGN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553674509639618560/XOdVwVGN_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenDanSullivan",
+        "statuses_count": 2525,
+        "url": "http://t.co/9uIoLCChCm",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,126 @@
+{
+    "created_at": "Fri Jan 04 19:36:06 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1081273083548364800,
+    "id_str": "1081273083548364800",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jan 04 19:26:49 +0000 2019",
+        "favorite_count": 29,
+        "hashtags": [
+            {
+                "text": "idpol"
+            }
+        ],
+        "id": 1081270745261518848,
+        "id_str": "1081270745261518848",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/NIrEWGJ742",
+                "expanded_url": "https://twitter.com/BetsyZRussell/status/1081270745261518848/photo/1",
+                "id": 1081270737879486464,
+                "media_url": "http://pbs.twimg.com/media/DwFyAd1U0AAnuCw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DwFyAd1U0AAnuCw.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/NIrEWGJ742"
+            }
+        ],
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Little is sworn in as Idaho\u2019s next governor #idpol https://t.co/NIrEWGJ742",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Jun 03 13:41:11 +0000 2009",
+            "default_profile": true,
+            "description": "Boise bureau chief for the Idaho Press, covering Idaho politics. Writes the \u201cEye on Boise\u201d blog. President of the Idaho Press Club. Skier, windsurfer.",
+            "favourites_count": 648,
+            "followers_count": 7740,
+            "friends_count": 435,
+            "id": 44360214,
+            "id_str": "44360214",
+            "listed_count": 300,
+            "location": "Boise, Idaho",
+            "name": "Betsy Z. Russell",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/44360214/1494285297",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/546054480341385216/dcxlr-OP_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/546054480341385216/dcxlr-OP_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BetsyZRussell",
+            "statuses_count": 24333,
+            "url": "https://t.co/sy4pbcgyzq"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1081270745261518848,
+    "quoted_status_id_str": "1081270745261518848",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Congratulations to Governor Brad Little, the 33rd governor of our state. \nWe look forward to your leadership. https://t.co/RnTgtDaKs3",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/BetsyZRussell/status/1081270745261518848",
+            "url": "https://t.co/RnTgtDaKs3"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Sep 21 20:26:26 +0000 2009",
+        "default_profile": true,
+        "description": "Proudly representing Idaho's 2nd Congressional District",
+        "favourites_count": 236,
+        "followers_count": 17084,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 76132891,
+        "id_str": "76132891",
+        "listed_count": 642,
+        "location": "Washington, D.C.",
+        "name": "Cong. Mike Simpson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76132891/1541176451",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongMikeSimpson",
+        "statuses_count": 1113,
+        "url": "http://t.co/lRNTKPfcmE",
+        "verified": true
+    },
+    "user_mentions": []
+}

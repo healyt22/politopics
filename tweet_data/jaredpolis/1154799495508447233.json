@@ -1,0 +1,152 @@
+{
+    "created_at": "Fri Jul 26 17:03:49 +0000 2019",
+    "hashtags": [],
+    "id": 1154799495508447233,
+    "id_str": "1154799495508447233",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Jul 26 16:43:14 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1154794316843245568,
+        "id_str": "1154794316843245568",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/PVWmB9WzS6",
+                "expanded_url": "https://twitter.com/MrCippy/status/1154794316843245568/photo/1",
+                "id": 1154794311369625601,
+                "media_url": "http://pbs.twimg.com/media/EAanTs3UEAEKhfH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAanTs3UEAEKhfH.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1228,
+                        "h": 292,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 285,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 162,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/PVWmB9WzS6"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "text": "Hey @jaredpolis, you see this from @eater? \n\nThe Great American Chile Highway. \n\nhttps://t.co/UsDncXrumm https://t.co/PVWmB9WzS6",
+        "urls": [
+            {
+                "expanded_url": "https://www.eater.com/platform/amp/2019/1/23/18182665/best-new-mexico-chile-restaurants-interstate-25",
+                "url": "https://t.co/UsDncXrumm"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jun 08 18:33:34 +0000 2008",
+            "description": "I write about technology for a living. I brew beer for fun.",
+            "favourites_count": 3311,
+            "followers_count": 6437,
+            "friends_count": 1001,
+            "id": 15048808,
+            "id_str": "15048808",
+            "listed_count": 263,
+            "location": "Pueblo, CO",
+            "name": "Jason Cipriani",
+            "profile_background_color": "6AB4E6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15048808/1562111685",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1146205593784344576/pL6YhM7c_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146205593784344576/pL6YhM7c_normal.jpg",
+            "profile_link_color": "050505",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C8B05B",
+            "profile_text_color": "C89568",
+            "screen_name": "MrCippy",
+            "statuses_count": 3484,
+            "url": "https://t.co/UKg9wmAJtd",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 15361570,
+                "id_str": "15361570",
+                "name": "Jared Polis",
+                "screen_name": "jaredpolis"
+            },
+            {
+                "id": 26329195,
+                "id_str": "26329195",
+                "name": "Eater",
+                "screen_name": "Eater"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MrCippy: Hey @jaredpolis, you see this from @eater? \n\nThe Great American Chile Highway. \n\nhttps://t.co/UsDncXrumm https://t.co/PVWmB9Wz\u2026",
+    "urls": [
+        {
+            "expanded_url": "https://www.eater.com/platform/amp/2019/1/23/18182665/best-new-mexico-chile-restaurants-interstate-25",
+            "url": "https://t.co/UsDncXrumm"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jul 09 03:04:04 +0000 2008",
+        "description": "father, entrepreneur,education policy, baseball, tech, politics, gaymer - Former member of Congress, current Governor of CO",
+        "favourites_count": 9308,
+        "followers_count": 74560,
+        "friends_count": 5505,
+        "geo_enabled": true,
+        "id": 15361570,
+        "id_str": "15361570",
+        "listed_count": 2148,
+        "location": "Boulder, CO",
+        "name": "Jared Polis",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15361570/1558563740",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/752314449206341633/SoUVQR8U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/752314449206341633/SoUVQR8U_normal.jpg",
+        "profile_link_color": "445CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "jaredpolis",
+        "statuses_count": 6788,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15048808,
+            "id_str": "15048808",
+            "name": "Jason Cipriani",
+            "screen_name": "MrCippy"
+        },
+        {
+            "id": 15361570,
+            "id_str": "15361570",
+            "name": "Jared Polis",
+            "screen_name": "jaredpolis"
+        },
+        {
+            "id": 26329195,
+            "id_str": "26329195",
+            "name": "Eater",
+            "screen_name": "Eater"
+        }
+    ]
+}

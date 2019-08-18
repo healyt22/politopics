@@ -1,0 +1,80 @@
+{
+    "created_at": "Fri Apr 05 21:25:30 +0000 2019",
+    "favorite_count": 291,
+    "hashtags": [],
+    "id": 1114277907189260288,
+    "id_str": "1114277907189260288",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/a6RCZZY5TB",
+            "expanded_url": "https://twitter.com/Rep_Hunter/status/1114277907189260288/photo/1",
+            "id": 1114277899614412800,
+            "media_url": "http://pbs.twimg.com/media/D3a12JOV4AACtCM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D3a12JOV4AACtCM.jpg",
+            "sizes": {
+                "large": {
+                    "w": 1334,
+                    "h": 750,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 382,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/a6RCZZY5TB"
+        }
+    ],
+    "retweet_count": 46,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Touring the border with @realDonaldTrump. https://t.co/a6RCZZY5TB",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Mar 26 21:04:26 +0000 2013",
+        "default_profile": true,
+        "description": "Proudly representing California\u2019s 50th District https://t.co/0yyKBsCmQe",
+        "favourites_count": 65,
+        "followers_count": 19138,
+        "friends_count": 250,
+        "id": 1305596696,
+        "id_str": "1305596696",
+        "listed_count": 943,
+        "name": "Rep. Duncan Hunter",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1305596696/1556136507",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143236660580294657/2B23lsIo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143236660580294657/2B23lsIo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Rep_Hunter",
+        "statuses_count": 883,
+        "url": "https://t.co/JmFka1DZNM",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

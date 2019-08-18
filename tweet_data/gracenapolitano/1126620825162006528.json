@@ -1,0 +1,138 @@
+{
+    "created_at": "Thu May 09 22:51:50 +0000 2019",
+    "hashtags": [],
+    "id": 1126620825162006528,
+    "id_str": "1126620825162006528",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Thu May 09 14:52:21 +0000 2019",
+        "favorite_count": 26,
+        "hashtags": [],
+        "id": 1126500156524855296,
+        "id_str": "1126500156524855296",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Our @LACDMH is the largest county-operated mental health department in the nation with programs in over 85+ sites,\u2026 https://t.co/jN5u0fwX2u",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1126500156524855296",
+                "url": "https://t.co/jN5u0fwX2u"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 07 22:22:41 +0000 2014",
+            "description": "Supervisor Hilda L. Solis, former Secretary of Labor, represents the #FirstDistrict on the Los Angeles County Board of Supervisors #BackHomeToServe",
+            "favourites_count": 3125,
+            "followers_count": 11844,
+            "friends_count": 825,
+            "geo_enabled": true,
+            "id": 2377732207,
+            "id_str": "2377732207",
+            "listed_count": 196,
+            "location": "Los Angeles, CA",
+            "name": "Hilda Solis",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2377732207/1417809995",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/796401639192002560/wRrTFnIO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/796401639192002560/wRrTFnIO_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "HildaSolis",
+            "statuses_count": 10689,
+            "url": "https://t.co/stdErCfbRx",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 855487049876385792,
+                "id_str": "855487049876385792",
+                "name": "LA County Dept of Mental Health",
+                "screen_name": "LACDMH"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @HildaSolis: Our @LACDMH is the largest county-operated mental health department in the nation with programs in over 85+ sites, includin\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 30 19:48:06 +0000 2010",
+        "description": "Congresswoman from California's 32nd Congressional District in the US House of Representatives",
+        "favourites_count": 211,
+        "followers_count": 35299,
+        "friends_count": 566,
+        "geo_enabled": true,
+        "id": 161411080,
+        "id_str": "161411080",
+        "location": "El Monte, CA",
+        "name": "Rep.Grace Napolitano",
+        "profile_background_color": "004780",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978299365545652231/kTKikH7M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978299365545652231/kTKikH7M_normal.jpg",
+        "profile_link_color": "304896",
+        "profile_sidebar_border_color": "D91612",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "645D5B",
+        "screen_name": "gracenapolitano",
+        "statuses_count": 2756,
+        "url": "https://t.co/7k3n9mOHmy",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2377732207,
+            "id_str": "2377732207",
+            "name": "Hilda Solis",
+            "screen_name": "HildaSolis"
+        },
+        {
+            "id": 855487049876385792,
+            "id_str": "855487049876385792",
+            "name": "LA County Dept of Mental Health",
+            "screen_name": "LACDMH"
+        }
+    ]
+}

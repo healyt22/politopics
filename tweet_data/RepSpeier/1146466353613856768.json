@@ -1,0 +1,131 @@
+{
+    "created_at": "Wed Jul 03 17:10:53 +0000 2019",
+    "favorite_count": 68,
+    "hashtags": [],
+    "id": 1146466353613856768,
+    "id_str": "1146466353613856768",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 03 13:24:59 +0000 2019",
+        "favorite_count": 82,
+        "hashtags": [],
+        "id": 1146409504004816897,
+        "id_str": "1146409504004816897",
+        "lang": "en",
+        "place": {
+            "id": "01a9a39529b27f36",
+            "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+            "place_type": "city",
+            "name": "Manhattan",
+            "full_name": "Manhattan, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.026675,
+                            40.683935
+                        ],
+                        [
+                            -73.910408,
+                            40.683935
+                        ],
+                        [
+                            -73.910408,
+                            40.877483
+                        ],
+                        [
+                            -74.026675,
+                            40.877483
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 35,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "BREAKING NEWS out of Boston MA! \u201cMAYOR WALSH LEADS RESOLUTION CALLING FOR ELECTED OFFICIALS NATIONWIDE TO SUPPORT T\u2026 https://t.co/BaMUuu3tpE",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146409504004816897",
+                "url": "https://t.co/BaMUuu3tpE"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 12 15:58:41 +0000 2013",
+            "description": "Believers in equal rights. Working to ratify the Equal Rights Amendment into the US Constitution. Welcome to an Equal Future. https://t.co/TFlwQalAxD #ERANow",
+            "favourites_count": 5446,
+            "followers_count": 5632,
+            "friends_count": 618,
+            "geo_enabled": true,
+            "id": 2190601830,
+            "id_str": "2190601830",
+            "listed_count": 87,
+            "location": "Washington, DC and NY, NY",
+            "name": "ERA Coalition",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2190601830/1501687605",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1098982099930046464/0RkZYal2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098982099930046464/0RkZYal2_normal.jpg",
+            "profile_link_color": "6A287E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ERACoalition",
+            "statuses_count": 4444,
+            "url": "https://t.co/0qyZFSFnwo",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1146409504004816897,
+    "quoted_status_id_str": "1146409504004816897",
+    "retweet_count": 24,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Bravo Mayor Walsh and the more than 100 mayors from across the country who joined you in recognizing the importance\u2026 https://t.co/k71O98NxV9",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1146466353613856768",
+            "url": "https://t.co/k71O98NxV9"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Mar 17 17:02:38 +0000 2009",
+        "default_profile": true,
+        "description": "Fearless Fighter for women\u2019s equality, LGBTQ rights & the disenfranchised. Proud mom of 2 kids & puppy Emma, wife & Rep for CA14, America's economic powerhouse!",
+        "favourites_count": 431,
+        "followers_count": 144281,
+        "friends_count": 21864,
+        "geo_enabled": true,
+        "id": 24913074,
+        "id_str": "24913074",
+        "listed_count": 2174,
+        "name": "Jackie Speier",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24913074/1558543616",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100059741370417152/tmWEzsjo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100059741370417152/tmWEzsjo_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSpeier",
+        "statuses_count": 5750,
+        "url": "https://t.co/kqVDVfirna",
+        "verified": true
+    },
+    "user_mentions": []
+}

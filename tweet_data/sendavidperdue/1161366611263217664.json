@@ -1,0 +1,103 @@
+{
+    "created_at": "Tue Aug 13 19:59:11 +0000 2019",
+    "favorite_count": 148,
+    "hashtags": [],
+    "id": 1161366611263217664,
+    "id_str": "1161366611263217664",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Pl3CiKE4Oy",
+            "expanded_url": "https://twitter.com/sendavidperdue/status/1161366611263217664/video/1",
+            "id": 1161366542677880833,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161366542677880833/pu/img/zoB9r3mr0UiMJd57.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161366542677880833/pu/img/zoB9r3mr0UiMJd57.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Pl3CiKE4Oy",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 34568,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1161366542677880833/pu/pl/bnV0d6uc-BmEgGPZ.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1161366542677880833/pu/vid/640x360/4CQHDReBIcBSZWhh.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1161366542677880833/pu/vid/1280x720/tylmxJvPMYNXw15s.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1161366542677880833/pu/vid/480x270/0Mm1m82WMVzOoOAu.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 14,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "This is the house I grew up in. I\u2019ve lived &amp; worked all over the world, but Warner Robins will always be my home. https://t.co/Pl3CiKE4Oy",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 05 20:58:02 +0000 2014",
+        "default_profile": true,
+        "description": "Official Twitter account for U.S. Senator David Perdue of Georgia.",
+        "favourites_count": 537,
+        "followers_count": 66656,
+        "friends_count": 1012,
+        "geo_enabled": true,
+        "id": 2863210809,
+        "id_str": "2863210809",
+        "listed_count": 1359,
+        "location": "Georgia",
+        "name": "David Perdue",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863210809/1553346257",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/821843329008680967/zqpECZrD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/821843329008680967/zqpECZrD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sendavidperdue",
+        "statuses_count": 3956,
+        "url": "https://t.co/I3Xla8NlsK",
+        "verified": true
+    },
+    "user_mentions": []
+}

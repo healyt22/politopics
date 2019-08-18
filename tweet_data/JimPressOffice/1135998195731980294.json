@@ -1,0 +1,206 @@
+{
+    "created_at": "Tue Jun 04 19:54:10 +0000 2019",
+    "hashtags": [
+        {
+            "text": "WIPPSWashington"
+        }
+    ],
+    "id": 1135998195731980294,
+    "id_str": "1135998195731980294",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ltxfm1eWxb",
+            "expanded_url": "https://twitter.com/WIPPS_org/status/1135982134613688325/photo/1",
+            "id": 1135982118872395777,
+            "media_url": "http://pbs.twimg.com/media/D8PRt-qVsAE7eUx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8PRt-qVsAE7eUx.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/ltxfm1eWxb"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Jun 04 18:50:21 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "WIPPSWashington"
+            }
+        ],
+        "id": 1135982134613688325,
+        "id_str": "1135982134613688325",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ltxfm1eWxb",
+                "expanded_url": "https://twitter.com/WIPPS_org/status/1135982134613688325/photo/1",
+                "id": 1135982118872395777,
+                "media_url": "http://pbs.twimg.com/media/D8PRt-qVsAE7eUx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D8PRt-qVsAE7eUx.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ltxfm1eWxb"
+            }
+        ],
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Our #WIPPSWashington students are diving into immigration with @JimPressOffice! https://t.co/ltxfm1eWxb",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jul 02 17:21:26 +0000 2012",
+            "description": "Based in Wausau, WIPPS links community resources, expert research, and engaged students to inform and engage people about local and national issues.",
+            "favourites_count": 908,
+            "followers_count": 322,
+            "friends_count": 288,
+            "geo_enabled": true,
+            "id": 624844399,
+            "id_str": "624844399",
+            "listed_count": 9,
+            "location": "Wausau, WI",
+            "name": "Wisconsin Institute for Public Policy and Service",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/624844399/1565031736",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1102903300402434048/Gv_mLXgj_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102903300402434048/Gv_mLXgj_normal.png",
+            "profile_link_color": "DD0031",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "WIPPS_org",
+            "statuses_count": 863,
+            "url": "http://t.co/b9PfkCTg3m"
+        },
+        "user_mentions": [
+            {
+                "id": 851621377,
+                "id_str": "851621377",
+                "name": "Sensenbrenner Press",
+                "screen_name": "JimPressOffice"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @WIPPS_org: Our #WIPPSWashington students are diving into immigration with @JimPressOffice! https://t.co/ltxfm1eWxb",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 28 19:31:33 +0000 2012",
+        "description": "Press Office of Congressman Jim Sensenbrenner, representing Wisconsin's Fifth District. Former Chair of House Judiciary Committee.",
+        "favourites_count": 350,
+        "followers_count": 9096,
+        "friends_count": 624,
+        "geo_enabled": true,
+        "id": 851621377,
+        "id_str": "851621377",
+        "listed_count": 590,
+        "name": "Sensenbrenner Press",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/851621377/1462220205",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JimPressOffice",
+        "statuses_count": 1517,
+        "url": "http://t.co/VNdLE9VEEs",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 624844399,
+            "id_str": "624844399",
+            "name": "Wisconsin Institute for Public Policy and Service",
+            "screen_name": "WIPPS_org"
+        },
+        {
+            "id": 851621377,
+            "id_str": "851621377",
+            "name": "Sensenbrenner Press",
+            "screen_name": "JimPressOffice"
+        }
+    ]
+}

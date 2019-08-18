@@ -1,0 +1,138 @@
+{
+    "created_at": "Thu Mar 28 20:38:38 +0000 2019",
+    "favorite_count": 201,
+    "hashtags": [],
+    "id": 1111367010208878596,
+    "id_str": "1111367010208878596",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Mar 27 19:26:36 +0000 2019",
+        "favorite_count": 3216,
+        "hashtags": [
+            {
+                "text": "OpeningDayLA"
+            }
+        ],
+        "id": 1110986495827931136,
+        "id_str": "1110986495827931136",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/i3CfqpIYkr",
+                "expanded_url": "https://twitter.com/Dodgers/status/1110986495827931136/photo/1",
+                "id": 1110986276726099969,
+                "media_url": "http://pbs.twimg.com/media/D2sEIeaX0AEucnG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D2sEIeaX0AEucnG.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/i3CfqpIYkr"
+            }
+        ],
+        "retweet_count": 1034,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "This will work. We promise. \n\nLimited number of #OpeningDayLA tickets available at https://t.co/DZQkfNw0Kj. https://t.co/i3CfqpIYkr",
+        "urls": [
+            {
+                "expanded_url": "http://Dodgers.com/tickets",
+                "url": "https://t.co/DZQkfNw0Kj"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 06 07:54:04 +0000 2009",
+            "description": "The Official Twitter account of the Los Angeles Dodgers // Photoblog: https://t.co/R4M1Cp18t8 // Blog: @DodgerInsider",
+            "favourites_count": 24790,
+            "followers_count": 2157503,
+            "friends_count": 432,
+            "geo_enabled": true,
+            "id": 23043294,
+            "id_str": "23043294",
+            "listed_count": 8597,
+            "location": "1000 Vin Scully Avenue",
+            "name": "Los Angeles Dodgers",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23043294/1565203750",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1144392451647348737/gJSqdTbO_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144392451647348737/gJSqdTbO_normal.png",
+            "profile_link_color": "005A9C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Dodgers",
+            "statuses_count": 121461,
+            "url": "https://t.co/nUE41zoC6W",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1110986495827931136,
+    "quoted_status_id_str": "1110986495827931136",
+    "retweet_count": 27,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "This did not work. Probably because @SpeakerPelosi is a Giants fan. https://t.co/xQjsFDmxW8",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/Dodgers/status/1110986495827931136",
+            "url": "https://t.co/xQjsFDmxW8"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Feb 04 21:01:23 +0000 2015",
+        "default_profile": true,
+        "description": "Pete Aguilar represents CA\u2019s 31st Congressional District. A former mayor, Rep. Aguilar is committed to strengthening the Inland Empire\u2019s middle class.",
+        "favourites_count": 3,
+        "followers_count": 12488,
+        "friends_count": 326,
+        "id": 3018670151,
+        "id_str": "3018670151",
+        "listed_count": 571,
+        "location": "San Bernardino, CA",
+        "name": "Rep. Pete Aguilar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018670151/1522169391",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978674008735584256/vlRYXhmR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978674008735584256/vlRYXhmR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPeteAguilar",
+        "statuses_count": 1678,
+        "url": "http://t.co/o4deRoUnuK",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15764644,
+            "id_str": "15764644",
+            "name": "Nancy Pelosi",
+            "screen_name": "SpeakerPelosi"
+        }
+    ]
+}

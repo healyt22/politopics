@@ -1,0 +1,131 @@
+{
+    "created_at": "Tue Mar 12 16:36:09 +0000 2019",
+    "hashtags": [],
+    "id": 1105507781451399171,
+    "id_str": "1105507781451399171",
+    "lang": "en",
+    "retweet_count": 20,
+    "retweeted_status": {
+        "created_at": "Tue Mar 12 15:15:03 +0000 2019",
+        "favorite_count": 57,
+        "hashtags": [],
+        "id": 1105487374258180098,
+        "id_str": "1105487374258180098",
+        "lang": "en",
+        "retweet_count": 20,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@RepHuffman presses @BLMNational\u2019s Mike Nedd on whether the agency is \u201cin the energy business,\u201d as fmr @Interior s\u2026 https://t.co/ECd3q1KX4Z",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1105487374258180098",
+                "url": "https://t.co/ECd3q1KX4Z"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Apr 17 19:16:48 +0000 2007",
+            "description": "We work to protect America's last unspoiled, public wildlands before they're gone forever. Join us in the cause!",
+            "favourites_count": 1540,
+            "followers_count": 98919,
+            "friends_count": 4750,
+            "geo_enabled": true,
+            "id": 5031151,
+            "id_str": "5031151",
+            "listed_count": 2659,
+            "location": "United States",
+            "name": "Wilderness Society \ud83c\udf33",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5031151/1551834365",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1047163885545902080/_wq9Lue5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047163885545902080/_wq9Lue5_normal.jpg",
+            "profile_link_color": "083868",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "568E14",
+            "profile_use_background_image": true,
+            "screen_name": "Wilderness",
+            "statuses_count": 30535,
+            "url": "https://t.co/ubNzPLCt9x",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1071102246,
+                "id_str": "1071102246",
+                "name": "Rep. Jared Huffman",
+                "screen_name": "RepHuffman"
+            },
+            {
+                "id": 140457196,
+                "id_str": "140457196",
+                "name": "BLMNational",
+                "screen_name": "BLMNational"
+            },
+            {
+                "id": 76348185,
+                "id_str": "76348185",
+                "name": "US Department of the Interior",
+                "screen_name": "Interior"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @Wilderness: .@RepHuffman presses @BLMNational\u2019s Mike Nedd on whether the agency is \u201cin the energy business,\u201d as fmr @Interior secretary\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 14:52:00 +0000 2013",
+        "default_profile": true,
+        "description": "Congressman for California's North Coast. On Facebook at https://t.co/a4QfL2Jw5p.   Listen to my brand new podcast at https://t.co/XDE8MuHKxF",
+        "favourites_count": 39,
+        "followers_count": 33191,
+        "friends_count": 821,
+        "id": 1071102246,
+        "id_str": "1071102246",
+        "listed_count": 863,
+        "location": "California's North Coast",
+        "name": "Rep. Jared Huffman",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071102246/1562005240",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651435990100279296/5lQBk2Ut_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651435990100279296/5lQBk2Ut_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHuffman",
+        "statuses_count": 2496,
+        "url": "http://t.co/1EuZeNQsh6",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 5031151,
+            "id_str": "5031151",
+            "name": "Wilderness Society \ud83c\udf33",
+            "screen_name": "Wilderness"
+        },
+        {
+            "id": 1071102246,
+            "id_str": "1071102246",
+            "name": "Rep. Jared Huffman",
+            "screen_name": "RepHuffman"
+        },
+        {
+            "id": 140457196,
+            "id_str": "140457196",
+            "name": "BLMNational",
+            "screen_name": "BLMNational"
+        },
+        {
+            "id": 76348185,
+            "id_str": "76348185",
+            "name": "US Department of the Interior",
+            "screen_name": "Interior"
+        }
+    ]
+}

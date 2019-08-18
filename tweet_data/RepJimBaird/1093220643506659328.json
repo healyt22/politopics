@@ -1,0 +1,132 @@
+{
+    "created_at": "Wed Feb 06 18:51:27 +0000 2019",
+    "hashtags": [],
+    "id": 1093220643506659328,
+    "id_str": "1093220643506659328",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Feb 06 16:12:18 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1093180591959433222,
+        "id_str": "1093180591959433222",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/0gYAl9raaQ",
+                "expanded_url": "https://twitter.com/housesciencegop/status/1093180591959433222/photo/1",
+                "id": 1093180588767526914,
+                "media_url": "http://pbs.twimg.com/media/DyvB9BzXQAIB9uh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DyvB9BzXQAIB9uh.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/0gYAl9raaQ"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Welcome Freshman @RepJimBaird as the Ranking Member on the Subcommittee on Research and Technology https://t.co/0gYAl9raaQ",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Mar 06 19:06:28 +0000 2009",
+            "description": "Official Twitter page of the Committee on Science, Space, and Technology Republicans. Frank Lucas, Ranking Member https://t.co/wBe2jSx2Kk",
+            "favourites_count": 1959,
+            "followers_count": 166389,
+            "friends_count": 1165,
+            "geo_enabled": true,
+            "id": 23103488,
+            "id_str": "23103488",
+            "listed_count": 920,
+            "location": "Washington D.C.",
+            "name": "Sci, Space, & Tech GOP",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23103488/1550870474",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/639553426632785920/ElVmijPN_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/639553426632785920/ElVmijPN_normal.png",
+            "profile_link_color": "2121A3",
+            "profile_sidebar_border_color": "4C586B",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "FFFFFF",
+            "profile_use_background_image": true,
+            "screen_name": "housesciencegop",
+            "statuses_count": 4619,
+            "url": "https://t.co/nJ6MJDw1p9",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1086316494450032640,
+                "id_str": "1086316494450032640",
+                "name": "Congressman Jim Baird",
+                "screen_name": "RepJimBaird"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @housesciencegop: Welcome Freshman @RepJimBaird as the Ranking Member on the Subcommittee on Research and Technology https://t.co/0gYAl9\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 18 17:36:49 +0000 2019",
+        "default_profile": true,
+        "description": "Lifelong Hoosier proudly representing the 4th Congressional District.",
+        "favourites_count": 8,
+        "followers_count": 1476,
+        "friends_count": 377,
+        "id": 1086316494450032640,
+        "id_str": "1086316494450032640",
+        "listed_count": 86,
+        "location": "Indiana, USA",
+        "name": "Congressman Jim Baird",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086316494450032640/1547833353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1086318018630746113/kobDQry9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086318018630746113/kobDQry9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJimBaird",
+        "statuses_count": 204,
+        "url": "https://t.co/8voGTCDqS3",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 23103488,
+            "id_str": "23103488",
+            "name": "Sci, Space, & Tech GOP",
+            "screen_name": "housesciencegop"
+        },
+        {
+            "id": 1086316494450032640,
+            "id_str": "1086316494450032640",
+            "name": "Congressman Jim Baird",
+            "screen_name": "RepJimBaird"
+        }
+    ]
+}

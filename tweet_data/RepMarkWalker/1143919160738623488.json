@@ -1,0 +1,150 @@
+{
+    "created_at": "Wed Jun 26 16:29:15 +0000 2019",
+    "hashtags": [],
+    "id": 1143919160738623488,
+    "id_str": "1143919160738623488",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed Jun 26 14:29:50 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1143889108265132032,
+        "id_str": "1143889108265132032",
+        "lang": "en",
+        "place": {
+            "id": "161d2f18e3a0445a",
+            "url": "https://api.twitter.com/1.1/geo/id/161d2f18e3a0445a.json",
+            "place_type": "city",
+            "name": "Raleigh",
+            "full_name": "Raleigh, NC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.818343,
+                            35.7158045
+                        ],
+                        [
+                            -78.497331,
+                            35.7158045
+                        ],
+                        [
+                            -78.497331,
+                            35.9721579
+                        ],
+                        [
+                            -78.818343,
+                            35.9721579
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "I joined @KCOnTheRadio to discuss my recent visit with @usedgov officials where we covered such topics as funding f\u2026 https://t.co/0ygMIz2IhW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143889108265132032",
+                "url": "https://t.co/0ygMIz2IhW"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Sep 16 18:13:58 +0000 2013",
+            "description": "The official page for Lt. Governor Dan Forest.",
+            "favourites_count": 1529,
+            "followers_count": 6473,
+            "friends_count": 941,
+            "geo_enabled": true,
+            "id": 1872523242,
+            "id_str": "1872523242",
+            "listed_count": 113,
+            "location": "Raleigh, NC",
+            "name": "Lt. Gov. Dan Forest",
+            "profile_background_color": "D4D9DB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872523242/1429215165",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000771192131/142cd048bbd7ae13a43c2f37dd017e01_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000771192131/142cd048bbd7ae13a43c2f37dd017e01_normal.jpeg",
+            "profile_link_color": "FF0037",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LtGovDanForest",
+            "statuses_count": 2707,
+            "url": "https://t.co/qiWTxSjzkX",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2321292223,
+                "id_str": "2321292223",
+                "name": "KC O'Dea Program",
+                "screen_name": "KCOnTheRadio"
+            },
+            {
+                "id": 20437286,
+                "id_str": "20437286",
+                "name": "U.S. Department of Education",
+                "screen_name": "usedgov"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @LtGovDanForest: I joined @KCOnTheRadio to discuss my recent visit with @usedgov officials where we covered such topics as funding flexi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 07 16:20:28 +0000 2015",
+        "description": "US Congressman. @housegop Vice Chair. Ranking Member on Subcommittee for Intelligence and Counterterrorism. Former Pastor gratefully representing #NC06.",
+        "favourites_count": 4523,
+        "followers_count": 20053,
+        "friends_count": 1080,
+        "geo_enabled": true,
+        "id": 2966205003,
+        "id_str": "2966205003",
+        "listed_count": 637,
+        "name": "Rep. Mark Walker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966205003/1515012979",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_link_color": "0B2343",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMarkWalker",
+        "statuses_count": 4921,
+        "url": "https://t.co/uvTWAFvWvC",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1872523242,
+            "id_str": "1872523242",
+            "name": "Lt. Gov. Dan Forest",
+            "screen_name": "LtGovDanForest"
+        },
+        {
+            "id": 2321292223,
+            "id_str": "2321292223",
+            "name": "KC O'Dea Program",
+            "screen_name": "KCOnTheRadio"
+        },
+        {
+            "id": 20437286,
+            "id_str": "20437286",
+            "name": "U.S. Department of Education",
+            "screen_name": "usedgov"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "created_at": "Sun Apr 21 15:06:00 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "HappyEaster"
+        }
+    ],
+    "id": 1119980612406919170,
+    "id_str": "1119980612406919170",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/OgF5LFyARo",
+            "expanded_url": "https://twitter.com/DonaldNorcross/status/1119980612406919170/photo/1",
+            "id": 1119980595550072832,
+            "media_url": "http://pbs.twimg.com/media/D4r4avEXsAA0zj8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4r4avEXsAA0zj8.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 340,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1024,
+                    "h": 512,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1024,
+                    "h": 512,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/OgF5LFyARo"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "From my family to yours, #HappyEaster. https://t.co/OgF5LFyARo",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Mar 27 20:08:34 +0000 2015",
+        "description": "Congressman, NJ-01 \u2022 Electrician \u2022 Born & Raised in South Jersey \u2022 Husband, Dad, Granddad \u2022 @EdLaborCmte Member \u2022 @HASCDemocrats TAL Chair",
+        "favourites_count": 2688,
+        "followers_count": 9015,
+        "friends_count": 1234,
+        "geo_enabled": true,
+        "id": 3122099613,
+        "id_str": "3122099613",
+        "listed_count": 483,
+        "name": "Donald Norcross",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3122099613/1522337915",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1050098504515899392/h6RzXCGt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050098504515899392/h6RzXCGt_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "DonaldNorcross",
+        "statuses_count": 7462,
+        "url": "https://t.co/yD13GE8LK4",
+        "verified": true
+    },
+    "user_mentions": []
+}

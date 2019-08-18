@@ -1,0 +1,129 @@
+{
+    "created_at": "Tue Aug 13 19:55:53 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1161365778484092934,
+    "id_str": "1161365778484092934",
+    "lang": "en",
+    "place": {
+        "id": "f5e5f4de49d8e42f",
+        "url": "https://api.twitter.com/1.1/geo/id/f5e5f4de49d8e42f.json",
+        "place_type": "city",
+        "name": "Bedlno",
+        "full_name": "Bedlno, Polska",
+        "country_code": "PL",
+        "country": "Poland",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        19.4978263,
+                        52.116282
+                    ],
+                    [
+                        19.7182592,
+                        52.116282
+                    ],
+                    [
+                        19.7182592,
+                        52.2357601
+                    ],
+                    [
+                        19.4978263,
+                        52.2357601
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Mon Aug 12 20:26:02 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1161010978257027085,
+        "id_str": "1161010978257027085",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Wind energy is a major, mainstream power source that is growing strong. In Kansas, Iowa &amp; Oklahoma wind power provi\u2026 https://t.co/s0ZgvfEklB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161010978257027085",
+                "url": "https://t.co/s0ZgvfEklB"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 06 19:06:28 +0000 2009",
+            "description": "Official Twitter page of the Committee on Science, Space, and Technology Republicans. Frank Lucas, Ranking Member https://t.co/wBe2jSx2Kk",
+            "favourites_count": 2120,
+            "followers_count": 166208,
+            "friends_count": 1209,
+            "geo_enabled": true,
+            "id": 23103488,
+            "id_str": "23103488",
+            "listed_count": 927,
+            "location": "Washington D.C.",
+            "name": "Sci, Space, & Tech GOP",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23103488/1550870474",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/639553426632785920/ElVmijPN_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/639553426632785920/ElVmijPN_normal.png",
+            "profile_link_color": "2121A3",
+            "profile_sidebar_border_color": "4C586B",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "FFFFFF",
+            "profile_use_background_image": true,
+            "screen_name": "housesciencegop",
+            "statuses_count": 4691,
+            "url": "https://t.co/nJ6MJDw1p9",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1161010978257027085,
+    "quoted_status_id_str": "1161010978257027085",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Wind energy supports over 7,000 jobs in Oklahoma while providing more than 30% of the state\u2019s energy. As the 3rd hi\u2026 https://t.co/O2z1tuk60f",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1161365778484092934",
+            "url": "https://t.co/O2z1tuk60f"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 25 15:24:07 +0000 2011",
+        "description": "Husband, Dad, 5th Generation Oklahoman. Ranking Member @housesciencegop. Proudly representing Oklahoma\u2019s Third Congressional District.",
+        "favourites_count": 40,
+        "followers_count": 19512,
+        "friends_count": 322,
+        "geo_enabled": true,
+        "id": 242772524,
+        "id_str": "242772524",
+        "listed_count": 514,
+        "location": "Cheyenne, OK",
+        "name": "Frank Lucas",
+        "profile_background_color": "1B597A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242772524/1401460311",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628275690253774848/4zKOn1iP_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628275690253774848/4zKOn1iP_normal.png",
+        "profile_link_color": "48730F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepFrankLucas",
+        "statuses_count": 995,
+        "url": "https://t.co/S3duYhCDDn",
+        "verified": true
+    },
+    "user_mentions": []
+}

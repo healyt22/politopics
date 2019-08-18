@@ -1,0 +1,220 @@
+{
+    "created_at": "Fri Jul 19 01:00:29 +0000 2019",
+    "hashtags": [
+        {
+            "text": "1job"
+        }
+    ],
+    "id": 1152020348625227776,
+    "id_str": "1152020348625227776",
+    "lang": "en",
+    "quoted_status_id": 1152006916605763584,
+    "quoted_status_id_str": "1152006916605763584",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Jul 19 00:16:43 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [
+            {
+                "text": "1job"
+            }
+        ],
+        "id": 1152009337285443584,
+        "id_str": "1152009337285443584",
+        "lang": "en",
+        "place": {
+            "id": "1d9a5370a355ab0c",
+            "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+            "place_type": "city",
+            "name": "Chicago",
+            "full_name": "Chicago, IL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.940033,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            42.0230669
+                        ],
+                        [
+                            -87.940033,
+                            42.0230669
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Fri Jul 19 00:07:06 +0000 2019",
+            "favorite_count": 117,
+            "hashtags": [],
+            "id": 1152006916605763584,
+            "id_str": "1152006916605763584",
+            "lang": "en",
+            "retweet_count": 46,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "MoC so far confirmed to join us Tues @ DCA:\n\n@SenBlumenthal (CT)\n@EleanorNorton (DC)\n@RepDarrenSoto (FL)\u2026 https://t.co/6ZF70NsxrV",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1152006916605763584",
+                    "url": "https://t.co/6ZF70NsxrV"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Aug 24 16:16:34 +0000 2011",
+                "description": "UNITE HERE represents workers throughout the U.S. and Canada who work in the hotel, gaming, food service, and airport industries. \ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\udde6",
+                "favourites_count": 13930,
+                "followers_count": 29862,
+                "friends_count": 11764,
+                "geo_enabled": true,
+                "id": 361321755,
+                "id_str": "361321755",
+                "listed_count": 534,
+                "location": "United States and Canada",
+                "name": "UNITE HERE",
+                "profile_background_color": "F02D34",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/361321755/1562204672",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1159625984846393345/A0W1v_wi_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159625984846393345/A0W1v_wi_normal.png",
+                "profile_link_color": "FC0A12",
+                "profile_sidebar_border_color": "D6D6D6",
+                "profile_sidebar_fill_color": "D6D6D6",
+                "profile_text_color": "333333",
+                "screen_name": "unitehere",
+                "statuses_count": 47281,
+                "url": "https://t.co/mw6kqZTzjf",
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 278124059,
+                    "id_str": "278124059",
+                    "name": "Richard Blumenthal",
+                    "screen_name": "SenBlumenthal"
+                },
+                {
+                    "id": 23600262,
+                    "id_str": "23600262",
+                    "name": "Eleanor Holmes Norton",
+                    "screen_name": "EleanorNorton"
+                },
+                {
+                    "id": 818713465653051392,
+                    "id_str": "818713465653051392",
+                    "name": "US Rep. Darren Soto",
+                    "screen_name": "RepDarrenSoto"
+                }
+            ]
+        },
+        "quoted_status_id": 1152006916605763584,
+        "quoted_status_id_str": "1152006916605763584",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Respect to @RepDarrenSoto for standing with airline food workers! #1job https://t.co/lxM2JFMIi4",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/unitehere/status/1152006916605763584",
+                "url": "https://t.co/lxM2JFMIi4"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Apr 05 14:55:30 +0000 2011",
+            "description": "President of UNITE HERE! Local 362 & the Central Florida AFL-CIO. \u00a1Vamos Orlando! #1u #1job",
+            "favourites_count": 1071,
+            "followers_count": 489,
+            "friends_count": 465,
+            "geo_enabled": true,
+            "id": 277522402,
+            "id_str": "277522402",
+            "listed_count": 19,
+            "location": "Orlando, FL, USA",
+            "name": "Eric Clinton",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/277522402/1508274797",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1115093600776413184/d2_8IctU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115093600776413184/d2_8IctU_normal.jpg",
+            "profile_link_color": "D60722",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "0A010A",
+            "profile_use_background_image": true,
+            "screen_name": "EricBClinton",
+            "statuses_count": 1610,
+            "url": "https://t.co/RGwN4PCx9l"
+        },
+        "user_mentions": [
+            {
+                "id": 818713465653051392,
+                "id_str": "818713465653051392",
+                "name": "US Rep. Darren Soto",
+                "screen_name": "RepDarrenSoto"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @EricBClinton: Respect to @RepDarrenSoto for standing with airline food workers! #1job https://t.co/lxM2JFMIi4",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/unitehere/status/1152006916605763584",
+            "url": "https://t.co/lxM2JFMIi4"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing Central Florida's 9th District: Osceola County and parts of Orange and Polk counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7\n\nOfficial Account",
+        "favourites_count": 4695,
+        "followers_count": 10786,
+        "friends_count": 3441,
+        "geo_enabled": true,
+        "id": 818713465653051392,
+        "id_str": "818713465653051392",
+        "listed_count": 446,
+        "location": "Kissimmee, Florida",
+        "name": "US Rep. Darren Soto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDarrenSoto",
+        "statuses_count": 3265,
+        "url": "https://t.co/3Iswy0Rzuf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 277522402,
+            "id_str": "277522402",
+            "name": "Eric Clinton",
+            "screen_name": "EricBClinton"
+        },
+        {
+            "id": 818713465653051392,
+            "id_str": "818713465653051392",
+            "name": "US Rep. Darren Soto",
+            "screen_name": "RepDarrenSoto"
+        }
+    ]
+}

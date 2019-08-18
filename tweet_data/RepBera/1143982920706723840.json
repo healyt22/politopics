@@ -1,0 +1,112 @@
+{
+    "created_at": "Wed Jun 26 20:42:37 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "Ebola"
+        }
+    ],
+    "id": 1143982920706723840,
+    "id_str": "1143982920706723840",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 26 20:32:23 +0000 2019",
+        "favorite_count": 182,
+        "hashtags": [
+            {
+                "text": "DRC"
+            },
+            {
+                "text": "Ebola"
+            }
+        ],
+        "id": 1143980345592885250,
+        "id_str": "1143980345592885250",
+        "lang": "en",
+        "retweet_count": 71,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Last week I traveled to the #DRC in response to the current #Ebola outbreak to meet with health workers who are tir\u2026 https://t.co/TZYZwhzrgl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143980345592885250",
+                "url": "https://t.co/TZYZwhzrgl"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 04 18:44:52 +0000 2017",
+            "default_profile": true,
+            "description": "Administrator of @USAID. Our development efforts advance American interests by promoting global security, prosperity and self-reliance.",
+            "favourites_count": 445,
+            "followers_count": 29804,
+            "friends_count": 198,
+            "id": 893543272504852480,
+            "id_str": "893543272504852480",
+            "listed_count": 213,
+            "name": "Mark Green",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/893543272504852480/1502108549",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/894534104712179712/waKnfsAu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/894534104712179712/waKnfsAu_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "USAIDMarkGreen",
+            "statuses_count": 1918,
+            "url": "https://t.co/805bt2LdRQ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1143980345592885250,
+    "quoted_status_id_str": "1143980345592885250",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you @USAID and all the health care workers on the ground who are working to prevent the spread of #Ebola.\n\nAs\u2026 https://t.co/RfFVIiAYNO",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143982920706723840",
+            "url": "https://t.co/RfFVIiAYNO"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Nov 16 01:39:54 +0000 2012",
+        "default_profile": true,
+        "description": "Father, husband, doctor. Proudly representing Sacramento County, California in the U.S. House of Representatives #CA07.",
+        "favourites_count": 200,
+        "followers_count": 34109,
+        "friends_count": 746,
+        "geo_enabled": true,
+        "id": 950783972,
+        "id_str": "950783972",
+        "listed_count": 951,
+        "location": "Elk Grove, California",
+        "name": "Ami Bera, M.D.",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/950783972/1562685257",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/722533785481248769/LJz8Qkxj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/722533785481248769/LJz8Qkxj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBera",
+        "statuses_count": 3848,
+        "url": "https://t.co/sQPbW1JPOd",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 36683668,
+            "id_str": "36683668",
+            "name": "USAID",
+            "screen_name": "USAID"
+        }
+    ]
+}

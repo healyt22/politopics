@@ -1,0 +1,134 @@
+{
+    "created_at": "Wed Mar 06 17:48:18 +0000 2019",
+    "hashtags": [
+        {
+            "text": "CWD"
+        }
+    ],
+    "id": 1103351614973378560,
+    "id_str": "1103351614973378560",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Mar 06 17:47:51 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1103351497855664129,
+        "id_str": "1103351497855664129",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you @RepRonKind, @JimPressOffice, and @SenatorTester for introducing legislation that will fund the fight aga\u2026 https://t.co/bI9K2o6ltZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1103351497855664129",
+                "url": "https://t.co/bI9K2o6ltZ"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 27 20:23:41 +0000 2009",
+            "description": "The Theodore Roosevelt Conservation Partnership works to guarantee all Americans quality places to hunt and fish. #OriginalConservationists #PublicLandsProud",
+            "favourites_count": 4077,
+            "followers_count": 17985,
+            "friends_count": 2438,
+            "geo_enabled": true,
+            "id": 69393978,
+            "id_str": "69393978",
+            "listed_count": 318,
+            "location": "Washington, DC",
+            "name": "The TRCP",
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/69393978/1563377661",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/786973342372917248/GCLQpcVl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/786973342372917248/GCLQpcVl_normal.jpg",
+            "profile_link_color": "9D582E",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "TheTRCP",
+            "statuses_count": 15721,
+            "url": "https://t.co/jNoag0Fuaf",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 112740986,
+                "id_str": "112740986",
+                "name": "Rep. Ron Kind",
+                "screen_name": "RepRonKind"
+            },
+            {
+                "id": 851621377,
+                "id_str": "851621377",
+                "name": "Sensenbrenner Press",
+                "screen_name": "JimPressOffice"
+            },
+            {
+                "id": 515822213,
+                "id_str": "515822213",
+                "name": "Senator Jon Tester",
+                "screen_name": "SenatorTester"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @TheTRCP: Thank you @RepRonKind, @JimPressOffice, and @SenatorTester for introducing legislation that will fund the fight against #CWD a\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 28 19:31:33 +0000 2012",
+        "description": "Press Office of Congressman Jim Sensenbrenner, representing Wisconsin's Fifth District. Former Chair of House Judiciary Committee.",
+        "favourites_count": 350,
+        "followers_count": 9096,
+        "friends_count": 624,
+        "geo_enabled": true,
+        "id": 851621377,
+        "id_str": "851621377",
+        "listed_count": 590,
+        "name": "Sensenbrenner Press",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/851621377/1462220205",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JimPressOffice",
+        "statuses_count": 1517,
+        "url": "http://t.co/VNdLE9VEEs",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 69393978,
+            "id_str": "69393978",
+            "name": "The TRCP",
+            "screen_name": "TheTRCP"
+        },
+        {
+            "id": 112740986,
+            "id_str": "112740986",
+            "name": "Rep. Ron Kind",
+            "screen_name": "RepRonKind"
+        },
+        {
+            "id": 851621377,
+            "id_str": "851621377",
+            "name": "Sensenbrenner Press",
+            "screen_name": "JimPressOffice"
+        },
+        {
+            "id": 515822213,
+            "id_str": "515822213",
+            "name": "Senator Jon Tester",
+            "screen_name": "SenatorTester"
+        }
+    ]
+}

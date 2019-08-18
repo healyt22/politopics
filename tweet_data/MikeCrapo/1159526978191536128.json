@@ -1,0 +1,112 @@
+{
+    "created_at": "Thu Aug 08 18:09:09 +0000 2019",
+    "hashtags": [],
+    "id": 1159526978191536128,
+    "id_str": "1159526978191536128",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu Aug 08 16:01:23 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1159494826464862209,
+        "id_str": "1159494826464862209",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Facebook is helping to launch a new digital currency.  But lawmakers are concerned.  @JLAngeline talks with\u2026 https://t.co/iIBtLUucNU",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159494826464862209",
+                "url": "https://t.co/iIBtLUucNU"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 01 14:03:04 +0000 2015",
+            "description": "@J_Policastro @tedfioraliso @PeterZampa @KyleMidura @alana_austin @JLAngeline @Allison_Maass @DaborowskiKaren @ngrimnews @nappsack @KristinKasperDC",
+            "favourites_count": 137,
+            "followers_count": 2507,
+            "friends_count": 1247,
+            "id": 3305610617,
+            "id_str": "3305610617",
+            "listed_count": 79,
+            "location": "Washington, DC",
+            "name": "Gray Television Washington News Bureau",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3305610617/1547165340",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/861598157863571456/siYMqPXo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/861598157863571456/siYMqPXo_normal.jpg",
+            "profile_link_color": "E21836",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "GrayDCnews",
+            "statuses_count": 3305,
+            "url": "https://t.co/RUpfHAqFgi",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18276967,
+                "id_str": "18276967",
+                "name": "Jillian Angeline",
+                "screen_name": "JLAngeline"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @GrayDCnews: Facebook is helping to launch a new digital currency.  But lawmakers are concerned.  @JLAngeline talks with @MikeCrapo and\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 05 22:16:35 +0000 2012",
+        "description": "United States Senator for the great state of Idaho.",
+        "favourites_count": 744,
+        "followers_count": 96401,
+        "friends_count": 743,
+        "geo_enabled": true,
+        "id": 600463589,
+        "id_str": "600463589",
+        "listed_count": 1742,
+        "location": "Idaho & Washington, D.C.",
+        "name": "Senator Mike Crapo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/600463589/1358530313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "MikeCrapo",
+        "statuses_count": 6558,
+        "url": "http://t.co/W6cAM2HKzW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3305610617,
+            "id_str": "3305610617",
+            "name": "Gray Television Washington News Bureau",
+            "screen_name": "GrayDCnews"
+        },
+        {
+            "id": 18276967,
+            "id_str": "18276967",
+            "name": "Jillian Angeline",
+            "screen_name": "JLAngeline"
+        },
+        {
+            "id": 600463589,
+            "id_str": "600463589",
+            "name": "Senator Mike Crapo",
+            "screen_name": "MikeCrapo"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "created_at": "Wed Jul 17 20:08:26 +0000 2019",
+    "favorite_count": 25,
+    "hashtags": [],
+    "id": 1151584463111041024,
+    "id_str": "1151584463111041024",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 17 18:16:20 +0000 2019",
+        "favorite_count": 23,
+        "hashtags": [],
+        "id": 1151556252935368704,
+        "id_str": "1151556252935368704",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "WATCH: President @BillClinton praises his first boss in politics, Bertie Bowman. Only on @CBSThisMorning.\u2026 https://t.co/lDlDAGIM8Q",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151556252935368704",
+                "url": "https://t.co/lDlDAGIM8Q"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Nov 03 17:05:29 +0000 2008",
+            "description": "News that matters. Original reporting. Every morning 7-9 a.m.",
+            "favourites_count": 10145,
+            "followers_count": 376928,
+            "friends_count": 2789,
+            "geo_enabled": true,
+            "id": 17134268,
+            "id_str": "17134268",
+            "listed_count": 4405,
+            "location": "United States",
+            "name": "CBS This Morning",
+            "profile_background_color": "FDFAED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17134268/1560973038",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147114353679843329/W3nIPg4K_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147114353679843329/W3nIPg4K_normal.png",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FDFAED",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "CBSThisMorning",
+            "statuses_count": 127421,
+            "url": "https://t.co/6D6oTC6fgL",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1330457336,
+                "id_str": "1330457336",
+                "name": "Bill Clinton",
+                "screen_name": "BillClinton"
+            },
+            {
+                "id": 17134268,
+                "id_str": "17134268",
+                "name": "CBS This Morning",
+                "screen_name": "CBSThisMorning"
+            }
+        ]
+    },
+    "quoted_status_id": 1151556252935368704,
+    "quoted_status_id_str": "1151556252935368704",
+    "retweet_count": 14,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great to see @SenateForeign\u2019s Bertie Bowman being recognized again. Bertie is hearing coordinator for the committee\u2026 https://t.co/VMSwYZjZGg",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151584463111041024",
+            "url": "https://t.co/VMSwYZjZGg"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 29 20:09:30 +0000 2009",
+        "description": "U.S. Senator Johnny Isakson, R-Ga. | Committees: Veterans' Affairs, Chairman; Ethics, Chairman; Foreign Relations; HELP; Finance.\nKeep comments family friendly.",
+        "favourites_count": 819,
+        "followers_count": 66373,
+        "friends_count": 456,
+        "geo_enabled": true,
+        "id": 78403308,
+        "id_str": "78403308",
+        "listed_count": 2132,
+        "location": "GA & DC",
+        "name": "Johnny Isakson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78403308/1488812068",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorIsakson",
+        "statuses_count": 6318,
+        "url": "http://t.co/n3mMYfmg5C",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1121114158907428866,
+            "id_str": "1121114158907428866",
+            "name": "U.S. Senate Foreign Relations Committee",
+            "screen_name": "SenateForeign"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "created_at": "Wed May 22 20:31:45 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1131296614260383745,
+    "id_str": "1131296614260383745",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great news &amp; @Sprint/@TMobile merger: FCC Chair @AjitPaiFCC recommends merger, pointing to companies' commitment to\u2026 https://t.co/tU2ZeARABd",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1131296614260383745",
+            "url": "https://t.co/tU2ZeARABd"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 03:38:10 +0000 2019",
+        "default_profile": true,
+        "description": "Representing Kansas\u2019 2nd District in Congress",
+        "favourites_count": 76,
+        "followers_count": 2946,
+        "friends_count": 2531,
+        "id": 1080307235350241280,
+        "id_str": "1080307235350241280",
+        "listed_count": 113,
+        "location": "Topeka, KS",
+        "name": "Rep. Steve Watkins",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080307235350241280/1560113721",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137822687261339648/72oI1Vb9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137822687261339648/72oI1Vb9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Rep_Watkins",
+        "statuses_count": 430,
+        "url": "https://t.co/NOVR7WJIol",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14626738,
+            "id_str": "14626738",
+            "name": "Sprint",
+            "screen_name": "sprint"
+        },
+        {
+            "id": 17338082,
+            "id_str": "17338082",
+            "name": "T-Mobile",
+            "screen_name": "TMobile"
+        },
+        {
+            "id": 575658149,
+            "id_str": "575658149",
+            "name": "Ajit Pai",
+            "screen_name": "AjitPaiFCC"
+        }
+    ]
+}

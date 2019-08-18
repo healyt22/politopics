@@ -1,0 +1,106 @@
+{
+    "created_at": "Fri Apr 19 21:25:44 +0000 2019",
+    "hashtags": [],
+    "id": 1119351397949034496,
+    "id_str": "1119351397949034496",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Apr 19 21:05:38 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1119346341677871106,
+        "id_str": "1119346341677871106",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Caught up with @RepJohnCurtis to talk tech. \"The biggest thing I hear in Utah County and Salt Lake County is we don\u2026 https://t.co/k4SHTGIa40",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1119346341677871106",
+                "url": "https://t.co/k4SHTGIa40"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 22 19:19:53 +0000 2011",
+            "description": "News Anchor/ Senior Political Correspondent/ Inside Utah Politics Host @abc4utah.",
+            "favourites_count": 1274,
+            "followers_count": 2942,
+            "friends_count": 372,
+            "geo_enabled": true,
+            "id": 256148899,
+            "id_str": "256148899",
+            "listed_count": 119,
+            "location": "Salt Lake City, Utah",
+            "name": "Glen Mills",
+            "profile_background_color": "DD2E44",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/256148899/1563216917",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/966473418366332928/rFse73XP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/966473418366332928/rFse73XP_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "screen_name": "GlenMillsABC4",
+            "statuses_count": 9395,
+            "url": "https://t.co/CcZBh8X3W6",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 931614483050414080,
+                "id_str": "931614483050414080",
+                "name": "Rep. John Curtis",
+                "screen_name": "RepJohnCurtis"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @GlenMillsABC4: Caught up with @RepJohnCurtis to talk tech. \"The biggest thing I hear in Utah County and Salt Lake County is we don't ha\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Nov 17 20:06:16 +0000 2017",
+        "description": "Official account for Congressman John Curtis, self-proclaimed millennial. Proudly serving the people of Utah's 3rd district.",
+        "favourites_count": 1039,
+        "followers_count": 3131,
+        "friends_count": 191,
+        "geo_enabled": true,
+        "id": 931614483050414080,
+        "id_str": "931614483050414080",
+        "listed_count": 159,
+        "location": "Utah and DC",
+        "name": "Rep. John Curtis",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/931614483050414080/1552422198",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143191800548663299/9Ffm2sDG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143191800548663299/9Ffm2sDG_normal.png",
+        "profile_link_color": "6C7614",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepJohnCurtis",
+        "statuses_count": 1701,
+        "url": "https://t.co/EXDQ281Hrl",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 256148899,
+            "id_str": "256148899",
+            "name": "Glen Mills",
+            "screen_name": "GlenMillsABC4"
+        },
+        {
+            "id": 931614483050414080,
+            "id_str": "931614483050414080",
+            "name": "Rep. John Curtis",
+            "screen_name": "RepJohnCurtis"
+        }
+    ]
+}

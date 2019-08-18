@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Feb 23 23:13:28 +0000 2019",
+    "hashtags": [],
+    "id": 1099447178131632133,
+    "id_str": "1099447178131632133",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Sat Feb 23 16:53:55 +0000 2019",
+        "favorite_count": 17,
+        "hashtags": [],
+        "id": 1099351658943954944,
+        "id_str": "1099351658943954944",
+        "lang": "en",
+        "place": {
+            "id": "c3f37afa9efcf94b",
+            "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+            "place_type": "city",
+            "name": "Austin",
+            "full_name": "Austin, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.928935,
+                            30.127892
+                        ],
+                        [
+                            -97.5805133,
+                            30.127892
+                        ],
+                        [
+                            -97.5805133,
+                            30.5187994
+                        ],
+                        [
+                            -97.928935,
+                            30.5187994
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @SenatorTester for championing independent brewers, like BA member @KettleHouseBrew, by supporting perman\u2026 https://t.co/93q8ky1Gxf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1099351658943954944",
+                "url": "https://t.co/93q8ky1Gxf"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jul 11 22:46:13 +0000 2008",
+            "default_profile": true,
+            "description": "President and CEO for the Brewers Association. The BA is the trade group for America's craft breweries.",
+            "favourites_count": 198,
+            "followers_count": 1294,
+            "friends_count": 191,
+            "geo_enabled": true,
+            "id": 15397759,
+            "id_str": "15397759",
+            "listed_count": 29,
+            "location": "Boulder, CO",
+            "name": "Bob Pease",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/731259425873264641/mA0R7Hho_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/731259425873264641/mA0R7Hho_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BobPease",
+            "statuses_count": 1065
+        },
+        "user_mentions": [
+            {
+                "id": 515822213,
+                "id_str": "515822213",
+                "name": "Senator Jon Tester",
+                "screen_name": "SenatorTester"
+            },
+            {
+                "id": 10675562,
+                "id_str": "10675562",
+                "name": "KettleHouse Brew",
+                "screen_name": "kettlehousebrew"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @BobPease: Thank you @SenatorTester for championing independent brewers, like BA member @KettleHouseBrew, by supporting permanency of th\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 05 20:13:29 +0000 2012",
+        "description": "Third-generation Montana farmer. Proud grandfather. Former school teacher. Flattop icon. Trumpet player. Montana's senior Senator.",
+        "favourites_count": 300,
+        "followers_count": 94817,
+        "friends_count": 1001,
+        "geo_enabled": true,
+        "id": 515822213,
+        "id_str": "515822213",
+        "listed_count": 1370,
+        "location": "Montana",
+        "name": "Senator Jon Tester",
+        "profile_background_color": "0C0203",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/515822213/1490051228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_link_color": "FA610F",
+        "profile_sidebar_border_color": "D6BCAB",
+        "profile_sidebar_fill_color": "BE9658",
+        "profile_text_color": "544D3D",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTester",
+        "statuses_count": 4605,
+        "url": "http://t.co/G4S7FHr0Od",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15397759,
+            "id_str": "15397759",
+            "name": "Bob Pease",
+            "screen_name": "BobPease"
+        },
+        {
+            "id": 515822213,
+            "id_str": "515822213",
+            "name": "Senator Jon Tester",
+            "screen_name": "SenatorTester"
+        },
+        {
+            "id": 10675562,
+            "id_str": "10675562",
+            "name": "KettleHouse Brew",
+            "screen_name": "kettlehousebrew"
+        }
+    ]
+}

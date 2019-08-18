@@ -1,0 +1,138 @@
+{
+    "created_at": "Tue Jul 16 13:55:06 +0000 2019",
+    "hashtags": [],
+    "id": 1151128125918588928,
+    "id_str": "1151128125918588928",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 13:16:41 +0000 2019",
+        "favorite_count": 21,
+        "hashtags": [],
+        "id": 1151118458299604993,
+        "id_str": "1151118458299604993",
+        "lang": "en",
+        "place": {
+            "id": "0fc342b3d1147000",
+            "url": "https://api.twitter.com/1.1/geo/id/0fc342b3d1147000.json",
+            "place_type": "poi",
+            "name": "United States Capitol",
+            "full_name": "United States Capitol",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today @house_democracy convenes leadership from 18 parliaments from around the world to discuss the role of legisla\u2026 https://t.co/asc0QSfPSC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151118458299604993",
+                "url": "https://t.co/asc0QSfPSC"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Aug 10 22:52:43 +0000 2013",
+            "description": "Butler Alum. Former Hill staffer. Midwestern guy at heart. Legislative Strengthening Specialist @IRIGlobal. Opinions are my own.",
+            "favourites_count": 7292,
+            "followers_count": 579,
+            "friends_count": 1735,
+            "geo_enabled": true,
+            "id": 1661127290,
+            "id_str": "1661127290",
+            "listed_count": 11,
+            "location": "Washington, DC",
+            "name": "Scott Nemeth",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661127290/1561431955",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1053426510844039169/ocyBkMHc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053426510844039169/ocyBkMHc_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "snemeth13",
+            "statuses_count": 3689
+        },
+        "user_mentions": [
+            {
+                "id": 4061871443,
+                "id_str": "4061871443",
+                "name": "HDP",
+                "screen_name": "house_democracy"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @snemeth13: Today @house_democracy convenes leadership from 18 parliaments from around the world to discuss the role of legislative bodi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jun 14 19:44:06 +0000 2010",
+        "description": "I am proud to represent NC's 4th Congressional District, which includes Orange and parts of Wake and Durham Counties.",
+        "favourites_count": 888,
+        "followers_count": 29774,
+        "friends_count": 2696,
+        "geo_enabled": true,
+        "id": 155669457,
+        "id_str": "155669457",
+        "listed_count": 978,
+        "name": "David E. Price",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/155669457/1527112408",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978257235192287232/XUsOnM3Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978257235192287232/XUsOnM3Z_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepDavidEPrice",
+        "statuses_count": 4590,
+        "url": "https://t.co/Ie8fVlfmac",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1661127290,
+            "id_str": "1661127290",
+            "name": "Scott Nemeth",
+            "screen_name": "snemeth13"
+        },
+        {
+            "id": 4061871443,
+            "id_str": "4061871443",
+            "name": "HDP",
+            "screen_name": "house_democracy"
+        }
+    ]
+}

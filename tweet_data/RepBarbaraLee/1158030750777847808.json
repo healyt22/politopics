@@ -1,0 +1,132 @@
+{
+    "created_at": "Sun Aug 04 15:03:40 +0000 2019",
+    "favorite_count": 286,
+    "hashtags": [
+        {
+            "text": "Dayton"
+        }
+    ],
+    "id": 1158030750777847808,
+    "id_str": "1158030750777847808",
+    "lang": "en",
+    "place": {
+        "id": "d6819fe60643ebc1",
+        "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+        "place_type": "city",
+        "name": "Alexandria",
+        "full_name": "Alexandria, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.144435,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.8448531
+                    ],
+                    [
+                        -77.144435,
+                        38.8448531
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Sun Aug 04 12:55:56 +0000 2019",
+        "favorite_count": 201,
+        "hashtags": [],
+        "id": 1157998604000403456,
+        "id_str": "1157998604000403456",
+        "lang": "en",
+        "retweet_count": 200,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "9 killed in Ohio in second US mass shooting within 24 hours https://t.co/36rzUhFcAr",
+        "urls": [
+            {
+                "expanded_url": "https://wapo.st/31bKvce",
+                "url": "https://t.co/36rzUhFcAr"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 27 11:19:39 +0000 2007",
+            "description": "Breaking news, analysis, and opinion. Founded in 1877. Our staff on Twitter: https://t.co/VV0UBAMHg8",
+            "favourites_count": 4582,
+            "followers_count": 14022468,
+            "friends_count": 1538,
+            "geo_enabled": true,
+            "id": 2467791,
+            "id_str": "2467791",
+            "location": "Washington, DC",
+            "name": "The Washington Post",
+            "profile_background_color": "333333",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+            "profile_link_color": "0057EC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DBDBDB",
+            "profile_text_color": "323232",
+            "profile_use_background_image": true,
+            "screen_name": "washingtonpost",
+            "statuses_count": 326876,
+            "url": "http://t.co/Hq7hTYkOPg",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1157998604000403456,
+    "quoted_status_id_str": "1157998604000403456",
+    "retweet_count": 89,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "My heart is with the victims and the people of #Dayton. \n\nTwo communities torn apart by gun violence in just 13 hou\u2026 https://t.co/B54LUsd3gr",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1158030750777847808",
+            "url": "https://t.co/B54LUsd3gr"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 07 16:28:28 +0000 2011",
+        "description": "Progressive Democrat representing the #EastBay. Promoting justice for all, peace, & human rights. @ProChoiceCaucus Co-Chair. Proud member of the #resistance.",
+        "favourites_count": 4007,
+        "followers_count": 244079,
+        "friends_count": 16284,
+        "geo_enabled": true,
+        "id": 248735463,
+        "id_str": "248735463",
+        "listed_count": 3323,
+        "location": "Washington, DC and Oakland, CA",
+        "name": "Rep. Barbara Lee",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248735463/1438096272",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/831276027674558470/o7pTafU9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/831276027674558470/o7pTafU9_normal.jpg",
+        "profile_link_color": "B71234",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBarbaraLee",
+        "statuses_count": 10029,
+        "url": "https://t.co/hfpx6kAg4s",
+        "verified": true
+    },
+    "user_mentions": []
+}

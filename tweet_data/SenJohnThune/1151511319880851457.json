@@ -1,0 +1,105 @@
+{
+    "created_at": "Wed Jul 17 15:17:47 +0000 2019",
+    "favorite_count": 19,
+    "hashtags": [
+        {
+            "text": "Apollo11"
+        }
+    ],
+    "id": 1151511319880851457,
+    "id_str": "1151511319880851457",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 16 17:17:36 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [],
+        "id": 1151179086410276864,
+        "id_str": "1151179086410276864",
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "TOMORROW at 10:30AM: The Commerce Committee will hold a hearing on the future of @NASA\u2019s human spaceflight program.\u2026 https://t.co/C6UOhHfykM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151179086410276864",
+                "url": "https://t.co/C6UOhHfykM"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Oct 06 17:11:49 +0000 2011",
+            "description": "Chairman @SenatorWicker | U.S. Senate Commerce, Science, and Transportation Committee",
+            "favourites_count": 101,
+            "followers_count": 6364,
+            "friends_count": 223,
+            "id": 386092483,
+            "id_str": "386092483",
+            "listed_count": 321,
+            "location": "Washington, D.C.",
+            "name": "Senate Commerce",
+            "profile_background_color": "264B59",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/386092483/1547066983",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1083083441640558594/amR4Axad_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083083441640558594/amR4Axad_normal.jpg",
+            "profile_link_color": "6AA2B8",
+            "profile_sidebar_border_color": "DFDFDF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenateCommerce",
+            "statuses_count": 1743,
+            "url": "http://t.co/Fw8hcmiAEz",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 11348282,
+                "id_str": "11348282",
+                "name": "NASA",
+                "screen_name": "NASA"
+            }
+        ]
+    },
+    "quoted_status_id": 1151179086410276864,
+    "quoted_status_id_str": "1151179086410276864",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "50 years ago today, #Apollo11 was on its journey to the moon.\n \nAs we remember our past space explorations, my\u2026 https://t.co/UsQsKI1S6A",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151511319880851457",
+            "url": "https://t.co/UsQsKI1S6A"
+        }
+    ],
+    "user": {
+        "created_at": "Tue May 10 16:41:48 +0000 2011",
+        "description": "U.S. Senator John Thune, South Dakota. Senate Republican Whip. Father. Grandfather. Husband. Avid Outdoorsman. Sports Fan.",
+        "favourites_count": 57,
+        "followers_count": 94771,
+        "friends_count": 325,
+        "geo_enabled": true,
+        "id": 296361085,
+        "id_str": "296361085",
+        "listed_count": 2311,
+        "name": "Senator John Thune",
+        "profile_background_color": "F8F4E4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296361085/1452790054",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110550047966543873/ppEe8HG0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110550047966543873/ppEe8HG0_normal.png",
+        "profile_link_color": "264B59",
+        "profile_sidebar_border_color": "990000",
+        "profile_sidebar_fill_color": "333333",
+        "profile_text_color": "808080",
+        "profile_use_background_image": true,
+        "screen_name": "SenJohnThune",
+        "statuses_count": 5474,
+        "url": "http://t.co/OiwOiAFGGw",
+        "verified": true
+    },
+    "user_mentions": []
+}

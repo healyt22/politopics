@@ -1,0 +1,150 @@
+{
+    "created_at": "Wed Jul 24 00:03:52 +0000 2019",
+    "favorite_count": 78,
+    "hashtags": [],
+    "id": 1153818040561070080,
+    "id_str": "1153818040561070080",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 23 22:54:26 +0000 2019",
+        "favorite_count": 353,
+        "hashtags": [],
+        "id": 1153800566599905280,
+        "id_str": "1153800566599905280",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/j0nsJLz4rF",
+                "expanded_url": "https://twitter.com/RepJimBanks/status/1153800566599905280/video/1",
+                "id": 1153800502674513920,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1153800502674513920/pu/img/Oh0Qopo51g9ZRItz.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1153800502674513920/pu/img/Oh0Qopo51g9ZRItz.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/j0nsJLz4rF",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 13067,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1153800502674513920/pu/vid/720x1280/aV2E0HPH2kovbEwu.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1153800502674513920/pu/vid/360x640/Bh4zCN9mYf04q4nM.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1153800502674513920/pu/pl/kfE8B6HmwhWr1gog.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1153800502674513920/pu/vid/320x568/onsteK95nvu7y8qZ.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 104,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Another day at the Capitol... https://t.co/j0nsJLz4rF",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jan 03 03:57:24 +0000 2017",
+            "default_profile": true,
+            "description": "Official account of U.S. Congressman Jim Banks (IN-3).",
+            "favourites_count": 211,
+            "followers_count": 10037,
+            "friends_count": 1196,
+            "geo_enabled": true,
+            "id": 816131319033950208,
+            "id_str": "816131319033950208",
+            "listed_count": 390,
+            "location": "Indiana's 3rd District",
+            "name": "Jim Banks",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/816131319033950208/1530037460",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1057387589861285890/5dgSPb6C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057387589861285890/5dgSPb6C_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepJimBanks",
+            "statuses_count": 3995,
+            "url": "https://t.co/Uxbf6p28Ch",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1153800566599905280,
+    "quoted_status_id_str": "1153800566599905280",
+    "retweet_count": 38,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Climate/anti-fossil fuels protestors glued themselves to doors in the Capitol complex. But without fossil fuels, th\u2026 https://t.co/lliYAwkOK2",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153818040561070080",
+            "url": "https://t.co/lliYAwkOK2"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 19 20:45:16 +0000 2011",
+        "description": "Christian, husband, father, small business owner. Lover of football & the outdoors. Employee for the people of SC's Third Congressional District. Call me Jeff.",
+        "favourites_count": 738,
+        "followers_count": 55069,
+        "friends_count": 17280,
+        "geo_enabled": true,
+        "id": 240393970,
+        "id_str": "240393970",
+        "listed_count": 1396,
+        "location": "Laurens, SC",
+        "name": "Rep. Jeff Duncan",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240393970/1530882265",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/848513070867591168/6X517ab3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/848513070867591168/6X517ab3_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJeffDuncan",
+        "statuses_count": 8901,
+        "url": "https://t.co/SmkIIIu2vS",
+        "verified": true
+    },
+    "user_mentions": []
+}

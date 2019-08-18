@@ -1,0 +1,101 @@
+{
+    "created_at": "Thu Apr 18 21:53:39 +0000 2019",
+    "favorite_count": 135,
+    "hashtags": [],
+    "id": 1118996033797853184,
+    "id_str": "1118996033797853184",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/uC0pUGww9F",
+            "expanded_url": "https://twitter.com/Rep_Hunter/status/1118996033797853184/video/1",
+            "id": 1118995889023066112,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118995889023066112/pu/img/uuy0IJHbVnVBtFyv.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118995889023066112/pu/img/uuy0IJHbVnVBtFyv.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/uC0pUGww9F",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 67067,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1118995889023066112/pu/vid/720x1280/n4wu213v3__h9Zwf.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1118995889023066112/pu/vid/360x640/3_G5E1Tf8kAkv9D1.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1118995889023066112/pu/vid/320x568/ddMw7-zzphI6bWXM.mp4?tag=8"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1118995889023066112/pu/pl/8hgoxFe67GKR-9DT.m3u8?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 60,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Leaving the border in Arizona, real crisis taking place, plus my take on the Mueller Report. https://t.co/uC0pUGww9F",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Mar 26 21:04:26 +0000 2013",
+        "default_profile": true,
+        "description": "Proudly representing California\u2019s 50th District https://t.co/0yyKBsCmQe",
+        "favourites_count": 65,
+        "followers_count": 19138,
+        "friends_count": 250,
+        "id": 1305596696,
+        "id_str": "1305596696",
+        "listed_count": 943,
+        "name": "Rep. Duncan Hunter",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1305596696/1556136507",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143236660580294657/2B23lsIo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143236660580294657/2B23lsIo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Rep_Hunter",
+        "statuses_count": 883,
+        "url": "https://t.co/JmFka1DZNM",
+        "verified": true
+    },
+    "user_mentions": []
+}

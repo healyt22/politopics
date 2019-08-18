@@ -1,0 +1,68 @@
+{
+    "created_at": "Wed May 01 00:27:29 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1123383403292893184,
+    "id_str": "1123383403292893184",
+    "in_reply_to_screen_name": "RepJohnCurtis",
+    "in_reply_to_status_id": 1123350571291955201,
+    "in_reply_to_user_id": 931614483050414080,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RepJohnCurtis @koletrain2 @RepFinkenauer @RepDean Rootbeer is almost as bipartisan as bacon! Almost. Well done, neighbor.",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 28 23:18:15 +0000 2010",
+        "description": "The official Twitter account for Utah's 4th Congressional District representative",
+        "favourites_count": 1021,
+        "followers_count": 10874,
+        "friends_count": 1106,
+        "geo_enabled": true,
+        "id": 196362083,
+        "id_str": "196362083",
+        "listed_count": 323,
+        "location": "Utah, USA",
+        "name": "Rep. Ben McAdams",
+        "profile_background_color": "7A3838",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196362083/1547180285",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_link_color": "702323",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBenMcAdams",
+        "statuses_count": 4200,
+        "url": "https://t.co/12wZyksOHt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 931614483050414080,
+            "id_str": "931614483050414080",
+            "name": "Rep. John Curtis",
+            "screen_name": "RepJohnCurtis"
+        },
+        {
+            "id": 3104246268,
+            "id_str": "3104246268",
+            "name": "PutinsPuppet",
+            "screen_name": "koletrain2"
+        },
+        {
+            "id": 1081256295469068288,
+            "id_str": "1081256295469068288",
+            "name": "Abby Finkenauer",
+            "screen_name": "RepFinkenauer"
+        },
+        {
+            "id": 567508925,
+            "id_str": "567508925",
+            "name": "Congresswoman Madeleine Dean",
+            "screen_name": "RepDean"
+        }
+    ]
+}

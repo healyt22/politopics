@@ -1,0 +1,142 @@
+{
+    "created_at": "Thu Jul 04 01:11:51 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1146587390258999296,
+    "id_str": "1146587390258999296",
+    "in_reply_to_screen_name": "BenWinslow",
+    "in_reply_to_status_id": 1146586931104378881,
+    "in_reply_to_user_id": 18493702,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/rxLcoSYch5",
+            "expanded_url": "https://twitter.com/RepBenMcAdams/status/1146587390258999296/photo/1",
+            "id": 1146587364740833280,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D-l_IiNUIAARfvq.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-l_IiNUIAARfvq.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 498,
+                    "h": 242,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 498,
+                    "h": 242,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 498,
+                    "h": 242,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/rxLcoSYch5",
+            "video_info": {
+                "aspect_ratio": [
+                    249,
+                    121
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/D-l_IiNUIAARfvq.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "place": {
+        "id": "fb9549afa6f81fa6",
+        "url": "https://api.twitter.com/1.1/geo/id/fb9549afa6f81fa6.json",
+        "place_type": "city",
+        "name": "Sandy",
+        "full_name": "Sandy, UT",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -111.9216582,
+                        40.528084
+                    ],
+                    [
+                        -111.800273,
+                        40.528084
+                    ],
+                    [
+                        -111.800273,
+                        40.6168271
+                    ],
+                    [
+                        -111.9216582,
+                        40.6168271
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BenWinslow @UTNationalGuard @BenWinslow Always ahead of the curve. https://t.co/rxLcoSYch5",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 28 23:18:15 +0000 2010",
+        "description": "The official Twitter account for Utah's 4th Congressional District representative",
+        "favourites_count": 1021,
+        "followers_count": 10874,
+        "friends_count": 1106,
+        "geo_enabled": true,
+        "id": 196362083,
+        "id_str": "196362083",
+        "listed_count": 323,
+        "location": "Utah, USA",
+        "name": "Rep. Ben McAdams",
+        "profile_background_color": "7A3838",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196362083/1547180285",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_link_color": "702323",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBenMcAdams",
+        "statuses_count": 4200,
+        "url": "https://t.co/12wZyksOHt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18493702,
+            "id_str": "18493702",
+            "name": "Ben Winslow",
+            "screen_name": "BenWinslow"
+        },
+        {
+            "id": 24898148,
+            "id_str": "24898148",
+            "name": "Utah National Guard",
+            "screen_name": "UTNationalGuard"
+        },
+        {
+            "id": 18493702,
+            "id_str": "18493702",
+            "name": "Ben Winslow",
+            "screen_name": "BenWinslow"
+        }
+    ]
+}

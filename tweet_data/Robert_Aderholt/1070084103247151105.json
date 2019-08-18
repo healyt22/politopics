@@ -1,0 +1,80 @@
+{
+    "created_at": "Tue Dec 04 22:35:06 +0000 2018",
+    "favorite_count": 28,
+    "hashtags": [],
+    "id": 1070084103247151105,
+    "id_str": "1070084103247151105",
+    "lang": "en",
+    "place": {
+        "id": "288de3df481163e8",
+        "url": "https://api.twitter.com/1.1/geo/id/288de3df481163e8.json",
+        "place_type": "admin",
+        "name": "Alabama",
+        "full_name": "Alabama, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -88.473228,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        35.008029
+                    ],
+                    [
+                        -88.473228,
+                        35.008029
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 9,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Go Albertville!     How an Alabama company is getting President George H.W. Bush to his final resting place https://t.co/uDAYbPEfEI",
+    "urls": [
+        {
+            "expanded_url": "https://yellowhammernews.com/how-an-alabama-company-is-getting-president-george-h-w-bush-to-his-final-resting-place/",
+            "url": "https://t.co/uDAYbPEfEI"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 22 21:16:37 +0000 2009",
+        "description": "Proudly serving the 4th Congressional District of Alabama in the United States House of Representatives",
+        "favourites_count": 291,
+        "followers_count": 25960,
+        "friends_count": 374,
+        "geo_enabled": true,
+        "id": 76452765,
+        "id_str": "76452765",
+        "listed_count": 1127,
+        "location": "Haleyville, AL",
+        "name": "Rep. Robert Aderholt",
+        "profile_background_color": "1C24B0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76452765/1563387658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_link_color": "A60C25",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Robert_Aderholt",
+        "statuses_count": 1649,
+        "verified": true
+    },
+    "user_mentions": []
+}

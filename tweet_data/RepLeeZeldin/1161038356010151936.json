@@ -1,0 +1,131 @@
+{
+    "created_at": "Mon Aug 12 22:14:49 +0000 2019",
+    "favorite_count": 483,
+    "hashtags": [],
+    "id": 1161038356010151936,
+    "id_str": "1161038356010151936",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Aug 12 17:34:27 +0000 2019",
+        "favorite_count": 81,
+        "hashtags": [
+            {
+                "text": "BREAKING"
+            }
+        ],
+        "id": 1160967797129830400,
+        "id_str": "1160967797129830400",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TuuToesUPn",
+                "expanded_url": "https://twitter.com/thehill/status/1160967797129830400/photo/1",
+                "id": 1160967795393347584,
+                "media_url": "http://pbs.twimg.com/media/EByWDxAWwAAq_k3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EByWDxAWwAAq_k3.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/TuuToesUPn"
+            }
+        ],
+        "retweet_count": 66,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "#BREAKING: NYPD investigating attacks on Hasidic Jews in Williamsburg as hate crime https://t.co/KrrFdLWPBo https://t.co/TuuToesUPn",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/qTvtRsB",
+                "url": "https://t.co/KrrFdLWPBo"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3356619,
+            "friends_count": 256,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26244,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 609592,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1160967797129830400,
+    "quoted_status_id_str": "1160967797129830400",
+    "retweet_count": 227,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "This is happening way too often in Brooklyn. These attacks absolutely warrant an effective investigation &amp; prosecut\u2026 https://t.co/Ep9GfZwXmv",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1161038356010151936",
+            "url": "https://t.co/Ep9GfZwXmv"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Aug 20 19:25:47 +0000 2014",
+        "default_profile": true,
+        "description": "Proudly representing New York's First Congressional District.",
+        "favourites_count": 25,
+        "followers_count": 90501,
+        "friends_count": 1858,
+        "id": 2750127259,
+        "id_str": "2750127259",
+        "listed_count": 958,
+        "name": "Lee Zeldin",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2750127259/1522445343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/866759502867161088/ZGcdQunZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/866759502867161088/ZGcdQunZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLeeZeldin",
+        "statuses_count": 2363,
+        "url": "https://t.co/Kj9kXazM0U",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,98 @@
+{
+    "created_at": "Tue Jul 16 19:55:59 +0000 2019",
+    "favorite_count": 60,
+    "hashtags": [],
+    "id": 1151218943216037889,
+    "id_str": "1151218943216037889",
+    "in_reply_to_screen_name": "NydiaVelazquez",
+    "in_reply_to_status_id": 1151218942507126784,
+    "in_reply_to_user_id": 164369297,
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 18,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Today, I\u2019m condemning @TheJusticeDept\u2019s decision &amp; calling on @NYPD to fire the officer who gets to not only walk f\u2026 https://t.co/s1eNlmcAfs",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151218943216037889",
+            "url": "https://t.co/s1eNlmcAfs"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 08 18:18:20 +0000 2010",
+        "default_profile": true,
+        "description": "Represents New York's 7th Congressional District in the U.S. House of Representatives. Chairwoman of House Small Business Committee. Follow us @HouseSmallBiz",
+        "favourites_count": 629,
+        "followers_count": 58907,
+        "friends_count": 5103,
+        "geo_enabled": true,
+        "id": 164369297,
+        "id_str": "164369297",
+        "listed_count": 1371,
+        "location": "NYC and DC",
+        "name": "Rep. Nydia Velazquez",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164369297/1523637643",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994585599343554561/duJdBxTR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994585599343554561/duJdBxTR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "NydiaVelazquez",
+        "statuses_count": 6935,
+        "url": "https://t.co/Gahd1XU986",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 73181712,
+            "id_str": "73181712",
+            "name": "Justice Department",
+            "screen_name": "TheJusticeDept"
+        },
+        {
+            "id": 1540846382,
+            "id_str": "1540846382",
+            "name": "NYPD",
+            "screen_name": "NYPD"
+        }
+    ]
+}

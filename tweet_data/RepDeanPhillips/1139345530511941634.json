@@ -1,0 +1,95 @@
+{
+    "created_at": "Fri Jun 14 01:35:17 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [],
+    "id": 1139345530511941634,
+    "id_str": "1139345530511941634",
+    "in_reply_to_screen_name": "RepTomEmmer",
+    "in_reply_to_status_id": 1139338215725457408,
+    "in_reply_to_user_id": 2914515430,
+    "lang": "en",
+    "place": {
+        "id": "f5dbf46b0e401a18",
+        "url": "https://api.twitter.com/1.1/geo/id/f5dbf46b0e401a18.json",
+        "place_type": "city",
+        "name": "Deephaven",
+        "full_name": "Deephaven, MN",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -93.549325,
+                        44.909677
+                    ],
+                    [
+                        -93.502337,
+                        44.909677
+                    ],
+                    [
+                        -93.502337,
+                        44.9459198
+                    ],
+                    [
+                        -93.549325,
+                        44.9459198
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RepTomEmmer @RepPeteStauber @Delta This explains why it was such a smooth flight ;) \u2708\ufe0f",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Nov 10 17:30:23 +0000 2018",
+        "default_profile": true,
+        "description": "Exposing truth, cleaning-up corruption & inspiring collaboration in Congress. Member of House Financial Services, Foreign Affairs, & Ethics Committees. #MN03",
+        "favourites_count": 2688,
+        "followers_count": 11462,
+        "friends_count": 767,
+        "geo_enabled": true,
+        "id": 1061310112013434882,
+        "id_str": "1061310112013434882",
+        "listed_count": 214,
+        "location": "Minnesota, USA",
+        "name": "Rep. Dean Phillips",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061310112013434882/1543962611",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDeanPhillips",
+        "statuses_count": 608,
+        "url": "https://t.co/shLWxHqqwP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2914515430,
+            "id_str": "2914515430",
+            "name": "Tom Emmer",
+            "screen_name": "RepTomEmmer"
+        },
+        {
+            "id": 1075830599007510535,
+            "id_str": "1075830599007510535",
+            "name": "Pete Stauber",
+            "screen_name": "RepPeteStauber"
+        },
+        {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta"
+        }
+    ]
+}

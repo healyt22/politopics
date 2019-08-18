@@ -1,0 +1,129 @@
+{
+    "created_at": "Mon May 06 23:59:00 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [],
+    "id": 1125550561472811009,
+    "id_str": "1125550561472811009",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon May 06 13:33:59 +0000 2019",
+        "favorite_count": 369,
+        "hashtags": [
+            {
+                "text": "NationalNursesDay"
+            },
+            {
+                "text": "1u"
+            }
+        ],
+        "id": 1125393273772806146,
+        "id_str": "1125393273772806146",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pfrG4mr8Lx",
+                "expanded_url": "https://twitter.com/AFLCIO/status/1125393273772806146/photo/1",
+                "id": 1125393270228566016,
+                "media_url": "http://pbs.twimg.com/media/D54zN3iWwAAM6Kx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D54zN3iWwAAM6Kx.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/pfrG4mr8Lx"
+            }
+        ],
+        "retweet_count": 214,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Happy #NationalNursesDay #1u https://t.co/pfrG4mr8Lx",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Nov 08 15:58:10 +0000 2007",
+            "description": "The voice of working people in America's unions. Fighting for an inclusive economy that lifts wages and creates a better life for all. #1u",
+            "favourites_count": 10398,
+            "followers_count": 120057,
+            "friends_count": 6851,
+            "geo_enabled": true,
+            "id": 10069612,
+            "id_str": "10069612",
+            "listed_count": 2686,
+            "location": "Washington, DC",
+            "name": "AFL-CIO",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/10069612/1563203146",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151497459669098496/BRHHjUrl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151497459669098496/BRHHjUrl_normal.jpg",
+            "profile_link_color": "165F67",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F4F6F4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AFLCIO",
+            "statuses_count": 74599,
+            "url": "https://t.co/s4d9ldZLs5",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1125393273772806146,
+    "quoted_status_id_str": "1125393273772806146",
+    "retweet_count": 2,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "In our communities and across the country, nurses are doing amazing, lifesaving work every day. Thank you to all of\u2026 https://t.co/DPWrOKOVAb",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1125550561472811009",
+            "url": "https://t.co/DPWrOKOVAb"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Dec 28 21:57:06 +0000 2018",
+        "default_profile": true,
+        "description": "Husband to my college sweetheart. Father to two troublemaking baby boys. Public servant and Congressman from New Jersey's Third District",
+        "favourites_count": 98,
+        "followers_count": 5442,
+        "friends_count": 319,
+        "geo_enabled": true,
+        "id": 1078771848882593793,
+        "id_str": "1078771848882593793",
+        "listed_count": 153,
+        "location": "Bordentown, NJ",
+        "name": "RepAndyKim",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078771848882593793/1553620354",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1078778328537018368/e3-EvSkb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078778328537018368/e3-EvSkb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyKimNJ",
+        "statuses_count": 442,
+        "url": "https://t.co/8NkgQm9ePq",
+        "verified": true
+    },
+    "user_mentions": []
+}

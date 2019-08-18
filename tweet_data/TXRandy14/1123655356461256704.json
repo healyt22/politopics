@@ -1,0 +1,122 @@
+{
+    "created_at": "Wed May 01 18:28:08 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1123655356461256704,
+    "id_str": "1123655356461256704",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 30 20:22:36 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1123321776401014784,
+        "id_str": "1123321776401014784",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dpTCer2lpC",
+                "expanded_url": "https://twitter.com/Alexruoff/status/1123321776401014784/photo/1",
+                "id": 1123321771678216197,
+                "media_url": "http://pbs.twimg.com/media/D5bXMyFXsAUtFzy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D5bXMyFXsAUtFzy.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/dpTCer2lpC"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Rules Committee spread post Medicare for All hearing. https://t.co/dpTCer2lpC",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Jan 24 01:19:21 +0000 2010",
+            "description": "Health reporter for @BGOV. Maryland native. Tips and feedback are welcome: aruoff@bgov.com",
+            "favourites_count": 855,
+            "followers_count": 3335,
+            "friends_count": 1616,
+            "geo_enabled": true,
+            "id": 107865996,
+            "id_str": "107865996",
+            "listed_count": 205,
+            "location": "Washington",
+            "name": "Alex Ruoff",
+            "profile_background_color": "89C9FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000660333340/947d1e7d8749f240207f6e07b8e70295_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000660333340/947d1e7d8749f240207f6e07b8e70295_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "Alexruoff",
+            "statuses_count": 7846,
+            "url": "https://t.co/gA7FUosFVD",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1123321776401014784,
+    "quoted_status_id_str": "1123321776401014784",
+    "retweet_count": 14,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "So... the D\u2019s are counting their \u201cproverbial chickens\u201d before they\u2019re hatched... If they think healthcare is expens\u2026 https://t.co/h5C0S0Tg2S",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1123655356461256704",
+            "url": "https://t.co/h5C0S0Tg2S"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 15:30:06 +0000 2013",
+        "default_profile": true,
+        "description": "Representative for the 14th Congressional District of Texas. https://t.co/3YiUH3WeW6 | Instagram: TXRandy14",
+        "favourites_count": 226,
+        "followers_count": 16002,
+        "friends_count": 481,
+        "geo_enabled": true,
+        "id": 1058051748,
+        "id_str": "1058051748",
+        "listed_count": 692,
+        "location": "Friendswood, TX",
+        "name": "Randy Weber",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058051748/1357229443",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616654502184263680/na4q3hZH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616654502184263680/na4q3hZH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "TXRandy14",
+        "statuses_count": 2692,
+        "url": "https://t.co/8FFRq1l3TV",
+        "verified": true
+    },
+    "user_mentions": []
+}

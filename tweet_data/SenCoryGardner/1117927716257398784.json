@@ -1,0 +1,130 @@
+{
+    "created_at": "Mon Apr 15 23:08:32 +0000 2019",
+    "favorite_count": 80,
+    "hashtags": [],
+    "id": 1117927716257398784,
+    "id_str": "1117927716257398784",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Apr 15 21:11:53 +0000 2019",
+        "favorite_count": 2811,
+        "hashtags": [],
+        "id": 1117898360537567232,
+        "id_str": "1117898360537567232",
+        "in_reply_to_screen_name": "Reuters",
+        "in_reply_to_status_id": 1117895615470428160,
+        "in_reply_to_user_id": 1652541,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TY5eMaZf1c",
+                "expanded_url": "https://twitter.com/Reuters/status/1117898360537567232/photo/1",
+                "id": 1117897615545446400,
+                "media_url": "http://pbs.twimg.com/media/D4OR9V3XsAAV8uv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D4OR9V3XsAAV8uv.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/TY5eMaZf1c"
+            }
+        ],
+        "retweet_count": 1178,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "MORE: Notre-Dame's two towers have now been saved - French firefighting official https://t.co/tj1oGwXwUs https://t.co/TY5eMaZf1c",
+        "urls": [
+            {
+                "expanded_url": "https://reut.rs/2KGbB8a",
+                "url": "https://t.co/tj1oGwXwUs"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 20 17:46:05 +0000 2007",
+            "description": "Top and breaking news, pictures, and videos from Reuters.",
+            "favourites_count": 765,
+            "followers_count": 20588807,
+            "friends_count": 1084,
+            "id": 1652541,
+            "id_str": "1652541",
+            "listed_count": 118371,
+            "location": "Around the world",
+            "name": "Reuters Top News",
+            "profile_background_color": "444444",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1525365834",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+            "profile_link_color": "006F97",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F5F5F5",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "Reuters",
+            "statuses_count": 416565,
+            "url": "http://t.co/BmHxhkm3Mh",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1117898360537567232,
+    "quoted_status_id_str": "1117898360537567232",
+    "retweet_count": 14,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Heartbreaking to see fire ravage Notre Dame. No matter the physical damage, this pillar of faith will always be wit\u2026 https://t.co/UNO9ycVYE6",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1117927716257398784",
+            "url": "https://t.co/UNO9ycVYE6"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 07 17:02:56 +0000 2011",
+        "description": "Proudly serving the state of Colorado in the United States Senate. This is my official Senate Twitter account.",
+        "favourites_count": 78,
+        "followers_count": 117501,
+        "friends_count": 271,
+        "geo_enabled": true,
+        "id": 235217558,
+        "id_str": "235217558",
+        "listed_count": 2085,
+        "location": "Colorado",
+        "name": "Cory Gardner",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/235217558/1456516556",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm_normal.jpeg",
+        "profile_link_color": "003CB3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCoryGardner",
+        "statuses_count": 4645,
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -4,7 +4,7 @@ from argparse import ArgumentParser
 import logging as log
 log.basicConfig(format='%(asctime)s | %(levelname)s | %(message)s',
                 datefmt='%m/%d/%Y %I:%M:%S %p',
-                level=log.DEBUG)
+                level=log.INFO)
 
 class GetTweets():
     def __init__(self):
@@ -45,6 +45,8 @@ class GetTweets():
         timeline = self.api.GetUserTimeline(screen_name=handle, count = n)
         for raw_tweet in timeline:
             tweet = raw_tweet.AsDict()
+            msg = ' | '.join([tweet['id_str'], tweet['user']['name'], tweet['text']])
+            log.info(msg)
             params = {
                 'screen_name': tweet['user']['screen_name'],
                 'id': tweet['id']

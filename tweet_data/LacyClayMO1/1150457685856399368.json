@@ -1,0 +1,131 @@
+{
+    "created_at": "Sun Jul 14 17:31:01 +0000 2019",
+    "hashtags": [],
+    "id": 1150457685856399368,
+    "id_str": "1150457685856399368",
+    "lang": "en",
+    "retweet_count": 5729,
+    "retweeted_status": {
+        "created_at": "Sun Jul 14 14:56:14 +0000 2019",
+        "favorite_count": 30756,
+        "hashtags": [],
+        "id": 1150418735410425856,
+        "id_str": "1150418735410425856",
+        "in_reply_to_screen_name": "gtconway3d",
+        "in_reply_to_status_id": 1150418732201775104,
+        "in_reply_to_user_id": 471677441,
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5729,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "... of their respective districts to represent them in Congress under Art. I, \u00a7 2 of the Constitution of the United\u2026 https://t.co/VTLql3PhEw",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150418735410425856",
+                "url": "https://t.co/VTLql3PhEw"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 23 04:23:10 +0000 2012",
+            "default_profile": true,
+            "description": "Lawyer. Windmill cancer survivor. Favorite quote: \u201cIf we had had confidence that the president clearly did not commit a crime, we would have said so.\u201d",
+            "favourites_count": 2855,
+            "followers_count": 612112,
+            "friends_count": 1003,
+            "geo_enabled": true,
+            "id": 471677441,
+            "id_str": "471677441",
+            "listed_count": 2592,
+            "location": "Originally came from the U.S.",
+            "name": "George Conway",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/471677441/1563362268",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1783627578/image_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1783627578/image_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "gtconway3d",
+            "statuses_count": 13543
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @gtconway3d: ... of their respective districts to represent them in Congress under Art. I, \u00a7 2 of the Constitution of the United States.\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 19 16:41:06 +0000 2012",
+        "default_profile": true,
+        "description": "Official Campaign Twitter Account of Lacy Clay for Congress. US Rep, Missouri 1st District. R/Ts & links are not endorsements.",
+        "favourites_count": 19271,
+        "followers_count": 10350,
+        "friends_count": 2688,
+        "geo_enabled": true,
+        "id": 584912320,
+        "id_str": "584912320",
+        "listed_count": 605,
+        "location": "St. Louis, MO",
+        "name": "Lacy Clay MO1st",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/584912320/1467869397",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2363796933/8n10rzwlg5hvynzyv568_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2363796933/8n10rzwlg5hvynzyv568_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "LacyClayMO1",
+        "statuses_count": 19344,
+        "url": "https://t.co/M1086ZAdUj",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 471677441,
+            "id_str": "471677441",
+            "name": "George Conway",
+            "screen_name": "gtconway3d"
+        }
+    ]
+}

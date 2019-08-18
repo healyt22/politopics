@@ -1,0 +1,92 @@
+{
+    "created_at": "Sun Jun 16 15:19:28 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "FathersDay"
+        },
+        {
+            "text": "ThanksDad"
+        }
+    ],
+    "id": 1140277720636678144,
+    "id_str": "1140277720636678144",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/pvbOE18tfv",
+            "expanded_url": "https://twitter.com/RepShalala/status/1140277720636678144/photo/1",
+            "id": 1140277694388723712,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D9MUhYdXYAAL7jd.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9MUhYdXYAAL7jd.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 900,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/pvbOE18tfv",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/D9MUhYdXYAAL7jd.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "On #FathersDay, we celebrate the men in our lives who lead us, inspire us and push us forward. #ThanksDad https://t.co/pvbOE18tfv",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Nov 08 17:28:17 +0000 2018",
+        "description": "Proudly serving the people of #FL27. Former Prez of @Univmiami \ud83d\ude4c\ud83c\udffc, Sec. of @HHSgov, & @PeaceCorps volunteer.\n\nMember of @EdLaborCmte and @RulesDemocrats.",
+        "favourites_count": 760,
+        "followers_count": 13291,
+        "friends_count": 547,
+        "geo_enabled": true,
+        "id": 1060584809095925762,
+        "id_str": "1060584809095925762",
+        "listed_count": 221,
+        "name": "Rep. Donna E. Shalala",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060584809095925762/1550252765",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096465474454519809/HoNTvcgv_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096465474454519809/HoNTvcgv_normal.png",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepShalala",
+        "statuses_count": 1073,
+        "url": "https://t.co/2w8VpTjkGd",
+        "verified": true
+    },
+    "user_mentions": []
+}

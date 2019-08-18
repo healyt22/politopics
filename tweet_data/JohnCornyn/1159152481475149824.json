@@ -1,0 +1,115 @@
+{
+    "created_at": "Wed Aug 07 17:21:02 +0000 2019",
+    "hashtags": [],
+    "id": 1159152481475149824,
+    "id_str": "1159152481475149824",
+    "lang": "en",
+    "retweet_count": 102,
+    "retweeted_status": {
+        "created_at": "Wed Aug 07 17:00:29 +0000 2019",
+        "favorite_count": 366,
+        "hashtags": [],
+        "id": 1159147312993591296,
+        "id_str": "1159147312993591296",
+        "lang": "en",
+        "retweet_count": 102,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Senators @JohnCornyn and @ @tedcruz spoke about the tragic shooting. Talked about how a lot has been done with gun\u2026 https://t.co/b282Dgey0x",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159147312993591296",
+                "url": "https://t.co/b282Dgey0x"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 22 16:32:01 +0000 2019",
+            "default_profile": true,
+            "description": "#CBS4ThisMorning anchor and @CBS4Local at 12 p.m. reporter!",
+            "favourites_count": 72,
+            "followers_count": 150,
+            "friends_count": 94,
+            "id": 1109130622033891328,
+            "id_str": "1109130622033891328",
+            "listed_count": 5,
+            "location": "El Paso, TX",
+            "name": "Justin Kree",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109130622033891328/1553526450",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1110197415422894081/4zoCZA4C_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110197415422894081/4zoCZA4C_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JustinCBS4",
+            "statuses_count": 326,
+            "url": "https://t.co/0L8q9WeSBZ"
+        },
+        "user_mentions": [
+            {
+                "id": 13218102,
+                "id_str": "13218102",
+                "name": "Senator John Cornyn",
+                "screen_name": "JohnCornyn"
+            },
+            {
+                "id": 23022687,
+                "id_str": "23022687",
+                "name": "Ted Cruz",
+                "screen_name": "tedcruz"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JustinCBS4: Senators @JohnCornyn and @ @tedcruz spoke about the tragic shooting. Talked about how a lot has been done with gun control\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 07 19:52:55 +0000 2008",
+        "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs =/= endorsements",
+        "favourites_count": 61,
+        "followers_count": 218482,
+        "friends_count": 11659,
+        "id": 13218102,
+        "id_str": "13218102",
+        "listed_count": 5435,
+        "location": "Austin, Texas",
+        "name": "Senator John Cornyn",
+        "profile_background_color": "71829E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13218102/1558356879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1062343144048603136/fpH4AUOc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062343144048603136/fpH4AUOc_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "002D62",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "002D62",
+        "profile_use_background_image": true,
+        "screen_name": "JohnCornyn",
+        "statuses_count": 32209,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1109130622033891328,
+            "id_str": "1109130622033891328",
+            "name": "Justin Kree",
+            "screen_name": "JustinCBS4"
+        },
+        {
+            "id": 13218102,
+            "id_str": "13218102",
+            "name": "Senator John Cornyn",
+            "screen_name": "JohnCornyn"
+        },
+        {
+            "id": 23022687,
+            "id_str": "23022687",
+            "name": "Ted Cruz",
+            "screen_name": "tedcruz"
+        }
+    ]
+}

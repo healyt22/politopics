@@ -1,0 +1,142 @@
+{
+    "created_at": "Wed Feb 13 20:04:28 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 1095775736445710336,
+    "id_str": "1095775736445710336",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Feb 13 17:24:34 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1095735493877293056,
+        "id_str": "1095735493877293056",
+        "lang": "en",
+        "place": {
+            "id": "07d9d27111487001",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d27111487001.json",
+            "place_type": "poi",
+            "name": "U.S. Capitol - Senate",
+            "full_name": "U.S. Capitol - Senate",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.0090103149414,
+                            38.89034806599386
+                        ],
+                        [
+                            -77.0090103149414,
+                            38.89034806599386
+                        ],
+                        [
+                            -77.0090103149414,
+                            38.89034806599386
+                        ],
+                        [
+                            -77.0090103149414,
+                            38.89034806599386
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Great to have @TXRandy14 , straight out of a @housesciencegop hearing, kicking off this month\u2019s Atomic Wings Lunch\u2026 https://t.co/ScfZJDZtNG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1095735493877293056",
+                "url": "https://t.co/ScfZJDZtNG"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 06 17:39:20 +0000 2008",
+            "description": "Managing Director, Policy @ClearPathAction, fmr Congressional policy advisor, @MiamiUniversity & @TFASorg alum, @Bengals & @Reds sympathizer, @Capitals convert",
+            "favourites_count": 3807,
+            "followers_count": 1617,
+            "friends_count": 2792,
+            "geo_enabled": true,
+            "id": 15031183,
+            "id_str": "15031183",
+            "listed_count": 51,
+            "location": "Washington, DC",
+            "name": "Jeremy Harrell",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15031183/1493136777",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/541080285769506816/9bH-WjoV_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/541080285769506816/9bH-WjoV_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "jharrell",
+            "statuses_count": 13823
+        },
+        "user_mentions": [
+            {
+                "id": 1058051748,
+                "id_str": "1058051748",
+                "name": "Randy Weber",
+                "screen_name": "TXRandy14"
+            },
+            {
+                "id": 23103488,
+                "id_str": "23103488",
+                "name": "Sci, Space, & Tech GOP",
+                "screen_name": "housesciencegop"
+            }
+        ]
+    },
+    "quoted_status_id": 1095735493877293056,
+    "quoted_status_id_str": "1095735493877293056",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thanks for the invite! Great panel, too! https://t.co/Zpmvtuq5AE",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/jharrell/status/1095735493877293056",
+            "url": "https://t.co/Zpmvtuq5AE"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 15:30:06 +0000 2013",
+        "default_profile": true,
+        "description": "Representative for the 14th Congressional District of Texas. https://t.co/3YiUH3WeW6 | Instagram: TXRandy14",
+        "favourites_count": 226,
+        "followers_count": 16002,
+        "friends_count": 481,
+        "geo_enabled": true,
+        "id": 1058051748,
+        "id_str": "1058051748",
+        "listed_count": 692,
+        "location": "Friendswood, TX",
+        "name": "Randy Weber",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058051748/1357229443",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616654502184263680/na4q3hZH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616654502184263680/na4q3hZH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "TXRandy14",
+        "statuses_count": 2692,
+        "url": "https://t.co/8FFRq1l3TV",
+        "verified": true
+    },
+    "user_mentions": []
+}

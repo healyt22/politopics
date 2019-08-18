@@ -1,0 +1,121 @@
+{
+    "created_at": "Thu Aug 15 16:04:48 +0000 2019",
+    "hashtags": [
+        {
+            "text": "HurricaneWatch"
+        },
+        {
+            "text": "Biloxi"
+        }
+    ],
+    "id": 1162032398676168705,
+    "id_str": "1162032398676168705",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Thu Aug 15 14:45:02 +0000 2019",
+        "favorite_count": 8,
+        "hashtags": [
+            {
+                "text": "HurricaneWatch"
+            },
+            {
+                "text": "Biloxi"
+            }
+        ],
+        "id": 1162012324686913537,
+        "id_str": "1162012324686913537",
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "On Aug 15 1969 the @NHC_Atlantic issued a #HurricaneWatch for a 110 miles stretch for the coastline from #Biloxi to\u2026 https://t.co/dyIO1DAyDu",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162012324686913537",
+                "url": "https://t.co/dyIO1DAyDu"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 14 21:15:17 +0000 2008",
+            "description": "This Twitter account is not monitored 24-hours a day.  In case of an emergency please dial 9-1-1.",
+            "favourites_count": 621,
+            "followers_count": 20212,
+            "friends_count": 377,
+            "geo_enabled": true,
+            "id": 17395987,
+            "id_str": "17395987",
+            "listed_count": 623,
+            "location": "Pearl, MS",
+            "name": "MSEMA",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17395987/1550784300",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/951113620028567559/9-K_BoRe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/951113620028567559/9-K_BoRe_normal.jpg",
+            "profile_link_color": "275262",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MSEMA",
+            "statuses_count": 8125,
+            "url": "http://t.co/qsVZz6aaQm",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 299798272,
+                "id_str": "299798272",
+                "name": "National Hurricane Center",
+                "screen_name": "NHC_Atlantic"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @MSEMA: On Aug 15 1969 the @NHC_Atlantic issued a #HurricaneWatch for a 110 miles stretch for the coastline from #Biloxi to St Marks Flo\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Mar 11 14:59:01 +0000 2011",
+        "description": "Senior U.S. Senator for Mississippi. Chairman @SenateCommerce. Please visit my website for updates.",
+        "favourites_count": 1206,
+        "followers_count": 84239,
+        "friends_count": 365,
+        "geo_enabled": true,
+        "id": 264219447,
+        "id_str": "264219447",
+        "listed_count": 1883,
+        "location": "Mississippi & Washington, DC",
+        "name": "Senator Roger Wicker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/264219447/1402419137",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1053286698438803456/c5VspcNT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053286698438803456/c5VspcNT_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorWicker",
+        "statuses_count": 5254,
+        "url": "https://t.co/iD8pcNybj9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17395987,
+            "id_str": "17395987",
+            "name": "MSEMA",
+            "screen_name": "MSEMA"
+        },
+        {
+            "id": 299798272,
+            "id_str": "299798272",
+            "name": "National Hurricane Center",
+            "screen_name": "NHC_Atlantic"
+        }
+    ]
+}

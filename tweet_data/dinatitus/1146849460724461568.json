@@ -1,0 +1,201 @@
+{
+    "created_at": "Thu Jul 04 18:33:13 +0000 2019",
+    "hashtags": [
+        {
+            "text": "4thofJuly"
+        },
+        {
+            "text": "1u"
+        }
+    ],
+    "id": 1146849460724461568,
+    "id_str": "1146849460724461568",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/FZsm83h15g",
+            "expanded_url": "https://twitter.com/AFLCIO/status/1146795578145292289/photo/1",
+            "id": 1146795573556764673,
+            "media_url": "http://pbs.twimg.com/media/D-o8f4fXYAEEkCo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-o8f4fXYAEEkCo.jpg",
+            "sizes": {
+                "large": {
+                    "w": 2048,
+                    "h": 1152,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/FZsm83h15g"
+        }
+    ],
+    "retweet_count": 36,
+    "retweeted_status": {
+        "created_at": "Thu Jul 04 14:59:06 +0000 2019",
+        "favorite_count": 76,
+        "hashtags": [
+            {
+                "text": "4thofJuly"
+            },
+            {
+                "text": "1u"
+            }
+        ],
+        "id": 1146795578145292289,
+        "id_str": "1146795578145292289",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/FZsm83h15g",
+                "expanded_url": "https://twitter.com/AFLCIO/status/1146795578145292289/photo/1",
+                "id": 1146795573556764673,
+                "media_url": "http://pbs.twimg.com/media/D-o8f4fXYAEEkCo.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-o8f4fXYAEEkCo.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/FZsm83h15g"
+            }
+        ],
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 36,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "From America\u2019s Labor Unions to you, we wish you and your family a safe and Happy #4thofJuly \ud83c\uddfa\ud83c\uddf8 #1u https://t.co/FZsm83h15g",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Nov 08 15:58:10 +0000 2007",
+            "description": "The voice of working people in America's unions. Fighting for an inclusive economy that lifts wages and creates a better life for all. #1u",
+            "favourites_count": 10585,
+            "followers_count": 122052,
+            "friends_count": 6872,
+            "geo_enabled": true,
+            "id": 10069612,
+            "id_str": "10069612",
+            "listed_count": 2689,
+            "location": "Washington, DC",
+            "name": "AFL-CIO",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/10069612/1564413756",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151497459669098496/BRHHjUrl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151497459669098496/BRHHjUrl_normal.jpg",
+            "profile_link_color": "165F67",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F4F6F4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AFLCIO",
+            "statuses_count": 75047,
+            "url": "https://t.co/s4d9lehmjD",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AFLCIO: From America\u2019s Labor Unions to you, we wish you and your family a safe and Happy #4thofJuly \ud83c\uddfa\ud83c\uddf8 #1u https://t.co/FZsm83h15g",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 05 20:49:41 +0000 2008",
+        "description": "Representative of Nevada's First District. Tweeting politics, culture & #OnlyInDistrict1.",
+        "favourites_count": 7546,
+        "followers_count": 9301,
+        "friends_count": 1259,
+        "geo_enabled": true,
+        "id": 17907578,
+        "id_str": "17907578",
+        "listed_count": 401,
+        "location": "Fabulous Las Vegas, Nevada",
+        "name": "Dina Titus",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17907578/1485036291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "dinatitus",
+        "statuses_count": 7094,
+        "url": "https://t.co/nJxR59HXbP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 10069612,
+            "id_str": "10069612",
+            "name": "AFL-CIO",
+            "screen_name": "AFLCIO"
+        }
+    ]
+}

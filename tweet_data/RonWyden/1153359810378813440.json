@@ -1,0 +1,108 @@
+{
+    "created_at": "Mon Jul 22 17:43:01 +0000 2019",
+    "hashtags": [],
+    "id": 1153359810378813440,
+    "id_str": "1153359810378813440",
+    "lang": "en",
+    "retweet_count": 17,
+    "retweeted_status": {
+        "created_at": "Mon Jul 22 13:43:57 +0000 2019",
+        "favorite_count": 44,
+        "hashtags": [],
+        "id": 1153299645495414784,
+        "id_str": "1153299645495414784",
+        "in_reply_to_screen_name": "LittleLobbyists",
+        "in_reply_to_status_id": 1153299630446325761,
+        "in_reply_to_user_id": 877403265683656704,
+        "lang": "en",
+        "retweet_count": 17,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Senator @RonWyden: \u201cPolitics is not top down, it\u2019s bottom up. And you know who does that better than anybody around\u2026 https://t.co/bWZvxDKYBb",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1153299645495414784",
+                "url": "https://t.co/bWZvxDKYBb"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 21 05:50:14 +0000 2017",
+            "default_profile": true,
+            "description": "Families advocating for our kids with complex medical needs and disabilities by changing hearts and minds on Capitol Hill\n\n(* not actual lobbyists \ud83d\ude09)",
+            "favourites_count": 3013,
+            "followers_count": 14550,
+            "friends_count": 146,
+            "geo_enabled": true,
+            "id": 877403265683656704,
+            "id_str": "877403265683656704",
+            "listed_count": 168,
+            "name": "Little Lobbyists",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/877403265683656704/1510066959",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/925741574834806785/-P4oEaJC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/925741574834806785/-P4oEaJC_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LittleLobbyists",
+            "statuses_count": 4490,
+            "url": "https://t.co/7OcmyrHKcx",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 250188760,
+                "id_str": "250188760",
+                "name": "Ron Wyden",
+                "screen_name": "RonWyden"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @LittleLobbyists: Senator @RonWyden: \u201cPolitics is not top down, it\u2019s bottom up. And you know who does that better than anybody around? I\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 10 16:08:15 +0000 2011",
+        "description": "U.S. Senator from Oregon. @SenateFinance Ranking Member. Follow @WydenPress for updates from my staff. Instagram: https://t.co/a6CyBjcD79",
+        "favourites_count": 65,
+        "followers_count": 452350,
+        "friends_count": 470,
+        "geo_enabled": true,
+        "id": 250188760,
+        "id_str": "250188760",
+        "listed_count": 4095,
+        "location": "Oregon",
+        "name": "Ron Wyden",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/250188760/1398198071",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/847448688448294912/zobeO8dK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/847448688448294912/zobeO8dK_normal.jpg",
+        "profile_link_color": "1784B6",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RonWyden",
+        "statuses_count": 8732,
+        "url": "https://t.co/PeDrcHcuFw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 877403265683656704,
+            "id_str": "877403265683656704",
+            "name": "Little Lobbyists",
+            "screen_name": "LittleLobbyists"
+        },
+        {
+            "id": 250188760,
+            "id_str": "250188760",
+            "name": "Ron Wyden",
+            "screen_name": "RonWyden"
+        }
+    ]
+}

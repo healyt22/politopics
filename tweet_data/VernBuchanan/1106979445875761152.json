@@ -1,0 +1,66 @@
+{
+    "created_at": "Sat Mar 16 18:04:01 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 1106979445875761152,
+    "id_str": "1106979445875761152",
+    "lang": "en",
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@POTUS @realDonaldTrump has indicated his support. Now it's up to Congress to pass my bill with @marcorubio. https://t.co/Pc4QRiH9EB",
+    "urls": [
+        {
+            "expanded_url": "https://www.washingtonpost.com/opinions/trump-is-right-daylight-saving-time-should-be-permanent/2019/03/15/e983315c-466a-11e9-8aab-95b8d80a1e4f_story.html",
+            "url": "https://t.co/Pc4QRiH9EB"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 09 21:05:19 +0000 2009",
+        "description": "U.S. Congressman",
+        "favourites_count": 42,
+        "followers_count": 29245,
+        "friends_count": 10407,
+        "geo_enabled": true,
+        "id": 20467163,
+        "id_str": "20467163",
+        "listed_count": 1384,
+        "location": "Florida's 16th District",
+        "name": "Rep. Vern Buchanan",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20467163/1423601951",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+        "profile_link_color": "000AB4",
+        "profile_sidebar_border_color": "050505",
+        "profile_sidebar_fill_color": "D4C8C8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "VernBuchanan",
+        "statuses_count": 2677,
+        "url": "http://t.co/Uq79SDySq2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        },
+        {
+            "id": 15745368,
+            "id_str": "15745368",
+            "name": "Marco Rubio",
+            "screen_name": "marcorubio"
+        }
+    ]
+}

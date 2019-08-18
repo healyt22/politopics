@@ -1,0 +1,102 @@
+{
+    "created_at": "Fri Jun 07 00:07:38 +0000 2019",
+    "favorite_count": 92,
+    "hashtags": [],
+    "id": 1136786760694996992,
+    "id_str": "1136786760694996992",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/F0lIBTsqh9",
+            "expanded_url": "https://twitter.com/RepTedDeutch/status/1136786760694996992/video/1",
+            "id": 1136786685692383233,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136786685692383233/pu/img/uyVC0q8GZL3EW28c.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136786685692383233/pu/img/uyVC0q8GZL3EW28c.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/F0lIBTsqh9",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 31295,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1136786685692383233/pu/vid/480x270/jBOoRTHV6q-F1qi5.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1136786685692383233/pu/vid/640x360/bUISn7q-vQyg9Cur.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1136786685692383233/pu/pl/exRfOhVviugyG9j4.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1136786685692383233/pu/vid/1280x720/sa-YhofBiq4Gg08t.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 23,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "No to drilling off our coast. \nNo to drilling in the Everglades. \nJust no. https://t.co/F0lIBTsqh9",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Apr 27 19:51:54 +0000 2010",
+        "description": "Chairman of Ethics Committee. Chairman of Subcommittee on Middle East, North Africa & Int\u2019l Terrorism. Member of Judiciary Committee. I rep Broward & Palm Beach",
+        "favourites_count": 906,
+        "followers_count": 63501,
+        "friends_count": 2589,
+        "geo_enabled": true,
+        "id": 137794015,
+        "id_str": "137794015",
+        "listed_count": 1636,
+        "location": "Florida, USA",
+        "name": "Rep. Ted Deutch",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137794015/1550243934",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096428638751330305/zLPeaJ3O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096428638751330305/zLPeaJ3O_normal.jpg",
+        "profile_link_color": "084B8A",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTedDeutch",
+        "statuses_count": 8285,
+        "url": "https://t.co/yp6YjUk7GH",
+        "verified": true
+    },
+    "user_mentions": []
+}

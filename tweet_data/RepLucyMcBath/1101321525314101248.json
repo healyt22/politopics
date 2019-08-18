@@ -1,0 +1,92 @@
+{
+    "created_at": "Fri Mar 01 03:21:27 +0000 2019",
+    "favorite_count": 223,
+    "hashtags": [
+        {
+            "text": "HR8"
+        },
+        {
+            "text": "HR1112"
+        }
+    ],
+    "id": 1101321525314101248,
+    "id_str": "1101321525314101248",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/JGyTNI4EVc",
+            "expanded_url": "https://twitter.com/RepLucyMcBath/status/1101321525314101248/photo/1",
+            "id": 1101321519806992386,
+            "media_url": "http://pbs.twimg.com/media/D0iuFlOW0AIfViD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D0iuFlOW0AIfViD.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 898,
+                    "h": 1023,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 898,
+                    "h": 1023,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 597,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/JGyTNI4EVc"
+        }
+    ],
+    "retweet_count": 39,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I\u2019ll be on @CNN with @donlemon at 10:30PM to discuss the passage of #HR8 &amp; #HR1112 and the historic 116th Congress. https://t.co/JGyTNI4EVc",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 07 20:56:25 +0000 2019",
+        "default_profile": true,
+        "description": "Mother. Fighter. Congresswoman. #GA06",
+        "favourites_count": 68,
+        "followers_count": 18183,
+        "friends_count": 298,
+        "geo_enabled": true,
+        "id": 1082380458976051202,
+        "id_str": "1082380458976051202",
+        "listed_count": 236,
+        "name": "Rep. Lucy McBath",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082380458976051202/1552092528",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096472053761392640/KGsi_PNA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096472053761392640/KGsi_PNA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLucyMcBath",
+        "statuses_count": 255,
+        "url": "https://t.co/U1HRPBdZAi",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN"
+        },
+        {
+            "id": 16051471,
+            "id_str": "16051471",
+            "name": "Don Lemon",
+            "screen_name": "donlemon"
+        }
+    ]
+}

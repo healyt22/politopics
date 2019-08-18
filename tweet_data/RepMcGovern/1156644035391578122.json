@@ -1,0 +1,83 @@
+{
+    "created_at": "Wed Jul 31 19:13:22 +0000 2019",
+    "favorite_count": 21,
+    "hashtags": [],
+    "id": 1156644035391578122,
+    "id_str": "1156644035391578122",
+    "in_reply_to_screen_name": "RepMcGovern",
+    "in_reply_to_status_id": 1156628342151536642,
+    "in_reply_to_user_id": 242426145,
+    "lang": "en",
+    "place": {
+        "id": "0018b7037ca3ee03",
+        "url": "https://api.twitter.com/1.1/geo/id/0018b7037ca3ee03.json",
+        "place_type": "city",
+        "name": "Upton",
+        "full_name": "Upton, MA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -71.649168,
+                        42.149823
+                    ],
+                    [
+                        -71.551711,
+                        42.149823
+                    ],
+                    [
+                        -71.551711,
+                        42.188747
+                    ],
+                    [
+                        -71.649168,
+                        42.188747
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Roadside Farm Tour update from Kelly\u2019s Family Farm! Today we\u2019re visiting farms in: \n\n\ud83d\udcccPhillipston\n\ud83d\udcccRutland\n\ud83d\udcccPaxton\u2026 https://t.co/gr4P1uJY3d",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1156644035391578122",
+            "url": "https://t.co/gr4P1uJY3d"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 24 19:18:36 +0000 2011",
+        "description": "Dad. Husband. #Worcester born & raised. Chairman of @RulesDemocrats & @CECCgov. Co-Chair of @TLhumanrights. Fighting to #EndHungerNow #OverturnCitizensUnited",
+        "favourites_count": 594,
+        "followers_count": 60163,
+        "friends_count": 643,
+        "geo_enabled": true,
+        "id": 242426145,
+        "id_str": "242426145",
+        "listed_count": 1597,
+        "location": "Massachusetts, USA",
+        "name": "Rep. Jim McGovern",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242426145/1558546870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131403484769792002/y6gaH257_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131403484769792002/y6gaH257_normal.jpg",
+        "profile_link_color": "336699",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMcGovern",
+        "statuses_count": 10004,
+        "url": "https://t.co/f2XcW4hsKs",
+        "verified": true
+    },
+    "user_mentions": []
+}

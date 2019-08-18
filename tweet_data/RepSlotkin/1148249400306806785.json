@@ -1,0 +1,112 @@
+{
+    "created_at": "Mon Jul 08 15:16:05 +0000 2019",
+    "hashtags": [],
+    "id": 1148249400306806785,
+    "id_str": "1148249400306806785",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Mon Jul 08 12:17:14 +0000 2019",
+        "favorite_count": 43,
+        "hashtags": [],
+        "id": 1148204394363674624,
+        "id_str": "1148204394363674624",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Meeting with @RepSlotkin and leaders in our community at @rochester_u in a roundtable discussion about the various\u2026 https://t.co/bFfb2VBeVs",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148204394363674624",
+                "url": "https://t.co/bFfb2VBeVs"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Nov 26 19:04:10 +0000 2018",
+            "default_profile": true,
+            "description": "Superintendent of the Rochester Community School District",
+            "favourites_count": 3,
+            "followers_count": 490,
+            "friends_count": 82,
+            "geo_enabled": true,
+            "id": 1067131920276967424,
+            "id_str": "1067131920276967424",
+            "listed_count": 3,
+            "name": "Robert Shaner",
+            "profile_background_color": "F5F8FA",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1067463551651012608/zm9XBqWN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067463551651012608/zm9XBqWN_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RobertShaner2",
+            "statuses_count": 121
+        },
+        "user_mentions": [
+            {
+                "id": 1078401427347857408,
+                "id_str": "1078401427347857408",
+                "name": "Rep. Elissa Slotkin",
+                "screen_name": "RepSlotkin"
+            },
+            {
+                "id": 23124644,
+                "id_str": "23124644",
+                "name": "Rochester University",
+                "screen_name": "rochester_u"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RobertShaner2: Meeting with @RepSlotkin and leaders in our community at @rochester_u in a roundtable discussion about the various chall\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 27 21:25:10 +0000 2018",
+        "description": "Congresswoman for Michigan's 8th Congressional District. Proud Michigander. Former Acting Assistant Secretary of Defense, CIA analyst.",
+        "favourites_count": 18,
+        "followers_count": 17989,
+        "friends_count": 499,
+        "id": 1078401427347857408,
+        "id_str": "1078401427347857408",
+        "listed_count": 271,
+        "location": "Michigan, USA",
+        "name": "Rep. Elissa Slotkin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078401427347857408/1546432967",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085661888631848961/lIgv5rBv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085661888631848961/lIgv5rBv_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepSlotkin",
+        "statuses_count": 358,
+        "url": "https://t.co/zH6SghCDpq",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1067131920276967424,
+            "id_str": "1067131920276967424",
+            "name": "Robert Shaner",
+            "screen_name": "RobertShaner2"
+        },
+        {
+            "id": 1078401427347857408,
+            "id_str": "1078401427347857408",
+            "name": "Rep. Elissa Slotkin",
+            "screen_name": "RepSlotkin"
+        },
+        {
+            "id": 23124644,
+            "id_str": "23124644",
+            "name": "Rochester University",
+            "screen_name": "rochester_u"
+        }
+    ]
+}

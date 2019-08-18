@@ -1,0 +1,99 @@
+{
+    "created_at": "Wed Jul 24 22:47:30 +0000 2019",
+    "favorite_count": 590,
+    "hashtags": [],
+    "id": 1154161209350008833,
+    "id_str": "1154161209350008833",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/V2gV7Dbga6",
+            "expanded_url": "https://twitter.com/RepMcClintock/status/1154161209350008833/video/1",
+            "id": 1154161178328932352,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1154161178328932352/pu/img/KyShHA04ZK96JGSC.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1154161178328932352/pu/img/KyShHA04ZK96JGSC.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/V2gV7Dbga6",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 13347,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1154161178328932352/pu/vid/480x270/mxwGh5av17fhBcpm.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1154161178328932352/pu/vid/1280x720/lYgDirXne-rN2lJ_.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1154161178328932352/pu/vid/640x360/owiFIoaDE8WQXKI1.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1154161178328932352/pu/pl/Gw5zsnywEXOKuj_j.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 188,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "The Mueller Report summarized in three words - Ding Dong Ditch. https://t.co/V2gV7Dbga6",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 24 00:21:07 +0000 2009",
+        "description": "United States Representative, 4th District of California",
+        "favourites_count": 1,
+        "followers_count": 14559,
+        "id": 50152441,
+        "id_str": "50152441",
+        "listed_count": 1204,
+        "location": "Washington, DC",
+        "name": "Tom McClintock",
+        "profile_background_color": "093552",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+        "profile_link_color": "3078B8",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMcClintock",
+        "statuses_count": 496,
+        "url": "http://t.co/M52pLVZcTJ",
+        "verified": true
+    },
+    "user_mentions": []
+}

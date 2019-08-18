@@ -1,0 +1,119 @@
+{
+    "created_at": "Thu Aug 01 18:45:20 +0000 2019",
+    "hashtags": [],
+    "id": 1156999369951809536,
+    "id_str": "1156999369951809536",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Thu Aug 01 18:42:36 +0000 2019",
+        "favorite_count": 39,
+        "hashtags": [],
+        "id": 1156998680383229959,
+        "id_str": "1156998680383229959",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Next stop the Everett Public Library @eplsdotorg with @RepRickLarsen. Love learning about the rich history of this\u2026 https://t.co/U97b1UyKta",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156998680383229959",
+                "url": "https://t.co/U97b1UyKta"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Sep 09 20:05:24 +0000 2016",
+            "default_profile": true,
+            "description": "14th Librarian of Congress. Let's explore @LibraryCongress and #makehistory together.",
+            "favourites_count": 1700,
+            "followers_count": 58168,
+            "friends_count": 11,
+            "geo_enabled": true,
+            "id": 774337933893636096,
+            "id_str": "774337933893636096",
+            "listed_count": 830,
+            "location": "Washington, DC",
+            "name": "Carla Hayden",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/774337933893636096/1473855904",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/776034096392859648/M-tdzTnU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/776034096392859648/M-tdzTnU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LibnOfCongress",
+            "statuses_count": 1446,
+            "url": "https://t.co/xenuIG9JLc",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2400024511,
+                "id_str": "2400024511",
+                "name": "EverettPublicLibrary",
+                "screen_name": "eplsdotorg"
+            },
+            {
+                "id": 404132211,
+                "id_str": "404132211",
+                "name": "Rep. Rick Larsen",
+                "screen_name": "RepRickLarsen"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LibnOfCongress: Next stop the Everett Public Library @eplsdotorg with @RepRickLarsen. Love learning about the rich history of this area\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Nov 03 13:59:42 +0000 2011",
+        "default_profile": true,
+        "description": "Born and raised in Arlington, Wash. Chair, Aviation Subcommittee",
+        "favourites_count": 2136,
+        "followers_count": 19200,
+        "friends_count": 5448,
+        "geo_enabled": true,
+        "id": 404132211,
+        "id_str": "404132211",
+        "listed_count": 823,
+        "location": "Washington's 2nd District",
+        "name": "Rep. Rick Larsen",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/404132211/1490725185",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRickLarsen",
+        "statuses_count": 9475,
+        "url": "http://t.co/2eHh43tMLB",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 774337933893636096,
+            "id_str": "774337933893636096",
+            "name": "Carla Hayden",
+            "screen_name": "LibnOfCongress"
+        },
+        {
+            "id": 2400024511,
+            "id_str": "2400024511",
+            "name": "EverettPublicLibrary",
+            "screen_name": "eplsdotorg"
+        },
+        {
+            "id": 404132211,
+            "id_str": "404132211",
+            "name": "Rep. Rick Larsen",
+            "screen_name": "RepRickLarsen"
+        }
+    ]
+}

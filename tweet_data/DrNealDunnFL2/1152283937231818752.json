@@ -1,0 +1,127 @@
+{
+    "created_at": "Fri Jul 19 18:27:53 +0000 2019",
+    "hashtags": [],
+    "id": 1152283937231818752,
+    "id_str": "1152283937231818752",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Thu Jul 18 21:02:56 +0000 2019",
+        "favorite_count": 18,
+        "hashtags": [],
+        "id": 1151960566086426637,
+        "id_str": "1151960566086426637",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Enviva would also like to thank among others @GovRonDeSantis, Senator @marcorubio, @SenRickScott and Congressman\u2026 https://t.co/FVPX3gjhZc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151960566086426637",
+                "url": "https://t.co/FVPX3gjhZc"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Sep 28 16:09:41 +0000 2009",
+            "description": "Enviva is an international alternative energy company specializing in sustainable wood biomass for renewable energy applications.",
+            "favourites_count": 284,
+            "followers_count": 2082,
+            "friends_count": 884,
+            "geo_enabled": true,
+            "id": 78050846,
+            "id_str": "78050846",
+            "listed_count": 39,
+            "location": "Bethesda, MD",
+            "name": "Enviva",
+            "profile_background_color": "8DC73F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/78050846/1553695167",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1144632225809555456/un5EwXfa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144632225809555456/un5EwXfa_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "98999B",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "98999B",
+            "profile_use_background_image": true,
+            "screen_name": "EnvivaBiomass",
+            "statuses_count": 1322,
+            "url": "http://t.co/40cdzzirDA"
+        },
+        "user_mentions": [
+            {
+                "id": 1058807868,
+                "id_str": "1058807868",
+                "name": "Ron DeSantis",
+                "screen_name": "GovRonDeSantis"
+            },
+            {
+                "id": 15745368,
+                "id_str": "15745368",
+                "name": "Marco Rubio",
+                "screen_name": "marcorubio"
+            },
+            {
+                "id": 131546062,
+                "id_str": "131546062",
+                "name": "Rick Scott",
+                "screen_name": "SenRickScott"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @EnvivaBiomass: Enviva would also like to thank among others @GovRonDeSantis, Senator @marcorubio, @SenRickScott and Congressman @DrNeal\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 02 16:06:07 +0000 2017",
+        "default_profile": true,
+        "description": "Official government Twitter account for Congressman Neal Dunn (FL-02).",
+        "favourites_count": 205,
+        "followers_count": 6653,
+        "friends_count": 236,
+        "id": 815952318487298048,
+        "id_str": "815952318487298048",
+        "listed_count": 343,
+        "name": "Dr. Neal Dunn",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815952318487298048/1498081645",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/817396749270732800/5rj6yCMh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/817396749270732800/5rj6yCMh_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "DrNealDunnFL2",
+        "statuses_count": 1563,
+        "url": "https://t.co/6TJeLaAA4w",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 78050846,
+            "id_str": "78050846",
+            "name": "Enviva",
+            "screen_name": "EnvivaBiomass"
+        },
+        {
+            "id": 1058807868,
+            "id_str": "1058807868",
+            "name": "Ron DeSantis",
+            "screen_name": "GovRonDeSantis"
+        },
+        {
+            "id": 15745368,
+            "id_str": "15745368",
+            "name": "Marco Rubio",
+            "screen_name": "marcorubio"
+        },
+        {
+            "id": 131546062,
+            "id_str": "131546062",
+            "name": "Rick Scott",
+            "screen_name": "SenRickScott"
+        }
+    ]
+}

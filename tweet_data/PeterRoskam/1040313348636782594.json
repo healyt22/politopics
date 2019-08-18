@@ -1,0 +1,185 @@
+{
+    "created_at": "Thu Sep 13 18:56:45 +0000 2018",
+    "hashtags": [],
+    "id": 1040313348636782594,
+    "id_str": "1040313348636782594",
+    "lang": "en",
+    "quoted_status_id": 1040239616442466304,
+    "quoted_status_id_str": "1040239616442466304",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Thu Sep 13 18:50:43 +0000 2018",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 1040311833264091136,
+        "id_str": "1040311833264091136",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Thu Sep 13 14:03:45 +0000 2018",
+            "favorite_count": 4,
+            "hashtags": [
+                {
+                    "text": "demdayconvo"
+                }
+            ],
+            "id": 1040239616442466304,
+            "id_str": "1040239616442466304",
+            "lang": "en",
+            "retweet_count": 2,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "#demdayconvo article 4 (democracy and the developing world): The Erosion of Democracy in Developing and Transition\u2026 https://t.co/eyu5UDnFoD",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1040239616442466304",
+                    "url": "https://t.co/eyu5UDnFoD"
+                }
+            ],
+            "user": {
+                "created_at": "Mon Jul 06 17:02:19 +0000 2009",
+                "default_profile": true,
+                "description": "Think tank sharing transatlantic perspectives on global challenges & exploring how technology shapes our world. We're the US arm of Germany-based @BertelsmannSt",
+                "favourites_count": 1091,
+                "followers_count": 2796,
+                "friends_count": 738,
+                "geo_enabled": true,
+                "id": 54263477,
+                "id_str": "54263477",
+                "listed_count": 161,
+                "location": "Washington, DC",
+                "name": "Bertelsmann Foundation",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/54263477/1502739437",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/897180465144233984/CY0s_jpo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/897180465144233984/CY0s_jpo_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "BertelsmannFdn",
+                "statuses_count": 3857,
+                "url": "http://t.co/XAfHfiANel"
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1040239616442466304,
+        "quoted_status_id_str": "1040239616442466304",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Very important and similar to the @house_democracy work of Chairman @PeterRoskam and @RepDavidEPrice, especially th\u2026 https://t.co/MJjklYlvrQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1040311833264091136",
+                "url": "https://t.co/MJjklYlvrQ"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Oct 28 16:47:19 +0000 2015",
+            "default_profile": true,
+            "description": "A bi-partisan U.S. House Commission working with partner countries to create effective democratic legislatures. Chairman @RepDavidEPrice, Co-Chair @VernBuchanan",
+            "favourites_count": 343,
+            "followers_count": 1253,
+            "friends_count": 647,
+            "geo_enabled": true,
+            "id": 4061871443,
+            "id_str": "4061871443",
+            "listed_count": 14,
+            "name": "HDP",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4061871443/1548453686",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/659421027705851905/KRjAzsOi_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/659421027705851905/KRjAzsOi_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "house_democracy",
+            "statuses_count": 488,
+            "url": "https://t.co/c7E6Kz9g2F",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 4061871443,
+                "id_str": "4061871443",
+                "name": "HDP",
+                "screen_name": "house_democracy"
+            },
+            {
+                "id": 20015903,
+                "id_str": "20015903",
+                "name": "Peter Roskam",
+                "screen_name": "PeterRoskam"
+            },
+            {
+                "id": 155669457,
+                "id_str": "155669457",
+                "name": "David E. Price",
+                "screen_name": "RepDavidEPrice"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @house_democracy: Very important and similar to the @house_democracy work of Chairman @PeterRoskam and @RepDavidEPrice, especially the l\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 04 00:11:56 +0000 2009",
+        "description": "Husband, father, and former U.S. Representative for the 6th District of Illinois.",
+        "favourites_count": 694,
+        "followers_count": 29134,
+        "friends_count": 4449,
+        "geo_enabled": true,
+        "id": 20015903,
+        "id_str": "20015903",
+        "listed_count": 1458,
+        "location": "Wheaton, IL",
+        "name": "Peter Roskam",
+        "profile_background_color": "083B9B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20015903/1491251027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819282338651766784/5VWiVBcS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819282338651766784/5VWiVBcS_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "F10E13",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "E40C19",
+        "profile_use_background_image": true,
+        "screen_name": "PeterRoskam",
+        "statuses_count": 7064,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 4061871443,
+            "id_str": "4061871443",
+            "name": "HDP",
+            "screen_name": "house_democracy"
+        },
+        {
+            "id": 4061871443,
+            "id_str": "4061871443",
+            "name": "HDP",
+            "screen_name": "house_democracy"
+        },
+        {
+            "id": 20015903,
+            "id_str": "20015903",
+            "name": "Peter Roskam",
+            "screen_name": "PeterRoskam"
+        },
+        {
+            "id": 155669457,
+            "id_str": "155669457",
+            "name": "David E. Price",
+            "screen_name": "RepDavidEPrice"
+        }
+    ]
+}

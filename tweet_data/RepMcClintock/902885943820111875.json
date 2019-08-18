@@ -1,0 +1,91 @@
+{
+    "created_at": "Wed Aug 30 13:29:18 +0000 2017",
+    "hashtags": [],
+    "id": 902885943820111875,
+    "id_str": "902885943820111875",
+    "lang": "en",
+    "retweet_count": 157,
+    "retweeted_status": {
+        "created_at": "Wed Aug 30 00:24:33 +0000 2017",
+        "favorite_count": 250,
+        "hashtags": [],
+        "id": 902688455896948736,
+        "id_str": "902688455896948736",
+        "lang": "en",
+        "retweet_count": 157,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Hwy 41 is closed from Oakhurst to Wawona. There is no access to Yosemite along Hwy 41 due to the Railroad Fire. Pho\u2026 https://t.co/pgtk6tFRUH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/902688455896948736",
+                "url": "https://t.co/pgtk6tFRUH"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 07 16:26:35 +0000 2009",
+            "description": "National Park Service's primary source for news and information from Yosemite National Park.",
+            "favourites_count": 133,
+            "followers_count": 701339,
+            "friends_count": 20,
+            "geo_enabled": true,
+            "id": 18726942,
+            "id_str": "18726942",
+            "listed_count": 2627,
+            "location": "Yosemite National Park, CA",
+            "name": "Yosemite National Park",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18726942/1499464892",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2729953592/5afe7b5385c9388e33684f8083294beb_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2729953592/5afe7b5385c9388e33684f8083294beb_normal.png",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "YosemiteNPS",
+            "statuses_count": 7284,
+            "url": "http://t.co/meZJzhpM2r",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @YosemiteNPS: Hwy 41 is closed from Oakhurst to Wawona. There is no access to Yosemite along Hwy 41 due to the Railroad Fire. Photos USF\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 24 00:21:07 +0000 2009",
+        "description": "United States Representative, 4th District of California",
+        "favourites_count": 1,
+        "followers_count": 14559,
+        "id": 50152441,
+        "id_str": "50152441",
+        "listed_count": 1204,
+        "location": "Washington, DC",
+        "name": "Tom McClintock",
+        "profile_background_color": "093552",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+        "profile_link_color": "3078B8",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMcClintock",
+        "statuses_count": 496,
+        "url": "http://t.co/M52pLVZcTJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18726942,
+            "id_str": "18726942",
+            "name": "Yosemite National Park",
+            "screen_name": "YosemiteNPS"
+        }
+    ]
+}

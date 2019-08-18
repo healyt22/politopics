@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jul 16 15:16:52 +0000 2019",
+    "hashtags": [],
+    "id": 1151148701336952832,
+    "id_str": "1151148701336952832",
+    "lang": "en",
+    "retweet_count": 71,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 15:14:33 +0000 2019",
+        "favorite_count": 256,
+        "hashtags": [],
+        "id": 1151148120845275137,
+        "id_str": "1151148120845275137",
+        "lang": "en",
+        "place": {
+            "id": "0fc2caeb4c95b002",
+            "url": "https://api.twitter.com/1.1/geo/id/0fc2caeb4c95b002.json",
+            "place_type": "poi",
+            "name": "HC-8 Meeting Room",
+            "full_name": "HC-8 Meeting Room",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.009581,
+                            38.889457
+                        ],
+                        [
+                            -77.009581,
+                            38.889457
+                        ],
+                        [
+                            -77.009581,
+                            38.889457
+                        ],
+                        [
+                            -77.009581,
+                            38.889457
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 71,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The data is clear, raising the minimum wage is good for:\n\ud83d\udc77\u200d\u2642\ufe0fWorkers\n\ud83d\udc69\u200d\ud83d\udcbcWomen\n\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66Families\nAND\n\ud83d\udcc8Our economy\n\nNo\u2026 https://t.co/8aDUQPrQWr",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151148120845275137",
+                "url": "https://t.co/8aDUQPrQWr"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Nov 29 22:42:02 +0000 2018",
+            "description": "Congresswoman serving the Antelope, Simi & Santa Clarita Valleys in #CA25. But call me Katie. Let\u2019s get to work.",
+            "favourites_count": 583,
+            "followers_count": 67622,
+            "friends_count": 1094,
+            "geo_enabled": true,
+            "id": 1068273911224094721,
+            "id_str": "1068273911224094721",
+            "listed_count": 521,
+            "location": "Santa Clarita, CA",
+            "name": "Rep. Katie Hill",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068273911224094721/1552064607",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080961085824413696/E383XYgx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080961085824413696/E383XYgx_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "RepKatieHill",
+            "statuses_count": 1018,
+            "url": "https://t.co/bAFs5H574m",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RepKatieHill: The data is clear, raising the minimum wage is good for:\n\ud83d\udc77\u200d\u2642\ufe0fWorkers\n\ud83d\udc69\u200d\ud83d\udcbcWomen\n\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66Families\nAND\n\ud83d\udcc8Our economy\n\nNo one wh\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 15 18:53:47 +0000 2014",
+        "default_profile": true,
+        "description": "Vice Chair of the House Democratic Caucus. Proudly representing the people of the 5th District of Massachusetts.",
+        "favourites_count": 1376,
+        "followers_count": 67193,
+        "friends_count": 1383,
+        "geo_enabled": true,
+        "id": 2293131060,
+        "id_str": "2293131060",
+        "listed_count": 1252,
+        "name": "Katherine Clark",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293131060/1546611807",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepKClark",
+        "statuses_count": 5312,
+        "url": "https://t.co/qWMKEO845O",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1068273911224094721,
+            "id_str": "1068273911224094721",
+            "name": "Rep. Katie Hill",
+            "screen_name": "RepKatieHill"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Thu May 23 20:17:25 +0000 2019",
+    "favorite_count": 44,
+    "hashtags": [],
+    "id": 1131655391685894144,
+    "id_str": "1131655391685894144",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu May 23 19:51:55 +0000 2019",
+        "favorite_count": 388,
+        "hashtags": [],
+        "id": 1131648975696793606,
+        "id_str": "1131648975696793606",
+        "lang": "en",
+        "retweet_count": 129,
+        "source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+        "text": "President Trump announces $16 billion in aid to farmers hurt by the ongoing U.S.-China trade war\u2026 https://t.co/UrPV6RXIqM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131648975696793606",
+                "url": "https://t.co/UrPV6RXIqM"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 05 00:54:31 +0000 2008",
+            "description": "Your source for original reporting and trusted news.",
+            "favourites_count": 288,
+            "followers_count": 6812247,
+            "friends_count": 455,
+            "id": 15012486,
+            "id_str": "15012486",
+            "listed_count": 50015,
+            "location": "New York, NY",
+            "name": "CBS News",
+            "profile_background_color": "D9DADA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15012486/1559749831",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+            "profile_link_color": "B12124",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EAEDF0",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "CBSNews",
+            "statuses_count": 220262,
+            "url": "https://t.co/VGut7r2Vg5",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1131648975696793606,
+    "quoted_status_id_str": "1131648975696793606",
+    "retweet_count": 9,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "I spoke with @POTUS @realDonaldTrump this morning and expressed my appreciation for protecting the hardworking farm\u2026 https://t.co/jArQ6fhXvW",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1131655391685894144",
+            "url": "https://t.co/jArQ6fhXvW"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 30 20:54:06 +0000 2012",
+        "description": "Representing the great people of North Dakota in the United States Senate.",
+        "favourites_count": 137,
+        "followers_count": 19440,
+        "friends_count": 496,
+        "geo_enabled": true,
+        "id": 1048784496,
+        "id_str": "1048784496",
+        "listed_count": 783,
+        "name": "Sen. Kevin Cramer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048784496/1546464991",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenKevinCramer",
+        "statuses_count": 3840,
+        "url": "https://t.co/M4l7PNHhUi",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

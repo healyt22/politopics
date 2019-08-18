@@ -1,0 +1,76 @@
+{
+    "created_at": "Wed Feb 27 18:29:32 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1100825275410104321,
+    "id_str": "1100825275410104321",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/MBY2BxMq5M",
+            "expanded_url": "https://twitter.com/RepMcClintock/status/1100825275410104321/photo/1",
+            "id": 1100824989161410568,
+            "media_url": "http://pbs.twimg.com/media/D0bqfsbW0AgY4p3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D0bqfsbW0AgY4p3.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 616,
+                    "h": 370,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 616,
+                    "h": 370,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 616,
+                    "h": 370,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/MBY2BxMq5M"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Voted YES yesterday on S. 47- Natural Resources Management Act:\nhttps://t.co/6fHQQDnF78 https://t.co/MBY2BxMq5M",
+    "urls": [
+        {
+            "expanded_url": "https://mcclintock.house.gov/newsroom/vote-notes/s47-natural-resources-management-act-yes",
+            "url": "https://t.co/6fHQQDnF78"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jun 24 00:21:07 +0000 2009",
+        "description": "United States Representative, 4th District of California",
+        "favourites_count": 1,
+        "followers_count": 14559,
+        "id": 50152441,
+        "id_str": "50152441",
+        "listed_count": 1204,
+        "location": "Washington, DC",
+        "name": "Tom McClintock",
+        "profile_background_color": "093552",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+        "profile_link_color": "3078B8",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMcClintock",
+        "statuses_count": 496,
+        "url": "http://t.co/M52pLVZcTJ",
+        "verified": true
+    },
+    "user_mentions": []
+}

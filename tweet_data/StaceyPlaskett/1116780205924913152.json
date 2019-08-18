@@ -1,0 +1,97 @@
+{
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -77.0105,
+            38.8868
+        ]
+    },
+    "created_at": "Fri Apr 12 19:08:44 +0000 2019",
+    "favorite_count": 9,
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            38.8868,
+            -77.0105
+        ]
+    },
+    "hashtags": [
+        {
+            "text": "VIStrong"
+        }
+    ],
+    "id": 1116780205924913152,
+    "id_str": "1116780205924913152",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "#VIStrong @ Rayburn House Office Building https://t.co/PGPLz5hPsk",
+    "urls": [
+        {
+            "expanded_url": "https://www.instagram.com/p/BwKYXf3B94N/?utm_source=ig_twitter_share&igshid=1vipcsfkh9ci3",
+            "url": "https://t.co/PGPLz5hPsk"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Aug 11 14:40:01 +0000 2014",
+        "description": "Proudly representing the Virgin Islands of the United States",
+        "favourites_count": 1120,
+        "followers_count": 47720,
+        "friends_count": 538,
+        "geo_enabled": true,
+        "id": 2724095695,
+        "id_str": "2724095695",
+        "listed_count": 519,
+        "location": "U.S. Virgin Is. | Wash., DC",
+        "name": "Rep. Stacey Plaskett",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2724095695/1547666981",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100828137414365185/sDq9fJeO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100828137414365185/sDq9fJeO_normal.png",
+        "profile_link_color": "003B5A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "StaceyPlaskett",
+        "statuses_count": 1526,
+        "url": "http://t.co/T9tJ8F2eLe",
+        "verified": true
+    },
+    "user_mentions": []
+}

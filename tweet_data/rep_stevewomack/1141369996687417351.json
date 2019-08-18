@@ -1,0 +1,152 @@
+{
+    "created_at": "Wed Jun 19 15:39:47 +0000 2019",
+    "hashtags": [],
+    "id": 1141369996687417351,
+    "id_str": "1141369996687417351",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Jun 19 14:48:42 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1141357142265536513,
+        "id_str": "1141357142265536513",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We appreciate @rep_stevewomack for taking the time to visit with our @ElecCoopsArk Youth Tour students this morning\u2026 https://t.co/1dsBpXwPqs",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141357142265536513",
+                "url": "https://t.co/1dsBpXwPqs"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 04 17:56:21 +0000 2010",
+            "default_profile": true,
+            "description": "Seeker of Grace. Staunch Arkansan. Dad. Husband. Electric Cooperatives of Arkansas.  Less than mediocre guitar player.",
+            "favourites_count": 3483,
+            "followers_count": 677,
+            "friends_count": 1265,
+            "geo_enabled": true,
+            "id": 101821739,
+            "id_str": "101821739",
+            "listed_count": 12,
+            "location": "Little Rock, Arkansas",
+            "name": "JD Lowery",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/101821739/1434379350",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/808758410753687552/jN_i5-4X_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/808758410753687552/jN_i5-4X_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "jd_lowery",
+            "statuses_count": 2205
+        },
+        "user_mentions": [
+            {
+                "id": 234469322,
+                "id_str": "234469322",
+                "name": "Rep. Steve Womack",
+                "screen_name": "rep_stevewomack"
+            },
+            {
+                "id": 1905205968,
+                "id_str": "1905205968",
+                "name": "Elec Co-ops of Ark",
+                "screen_name": "ElecCoopsArk"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @jd_lowery: We appreciate @rep_stevewomack for taking the time to visit with our @ElecCoopsArk Youth Tour students this morning.  They w\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 05 18:53:03 +0000 2011",
+        "description": "Proud to serve the folks of Arkansas's 3rd District. Ranking Member of @HouseBudgetGOP.",
+        "favourites_count": 1274,
+        "followers_count": 20905,
+        "friends_count": 1476,
+        "geo_enabled": true,
+        "id": 234469322,
+        "id_str": "234469322",
+        "listed_count": 964,
+        "location": "Arkansas's 3rd District",
+        "name": "Rep. Steve Womack",
+        "profile_background_color": "798185",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234469322/1527182179",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2043213363/Official_Pic_4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2043213363/Official_Pic_4_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "rep_stevewomack",
+        "statuses_count": 7114,
+        "url": "https://t.co/2iFHpbXo1l",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 101821739,
+            "id_str": "101821739",
+            "name": "JD Lowery",
+            "screen_name": "jd_lowery"
+        },
+        {
+            "id": 234469322,
+            "id_str": "234469322",
+            "name": "Rep. Steve Womack",
+            "screen_name": "rep_stevewomack"
+        },
+        {
+            "id": 1905205968,
+            "id_str": "1905205968",
+            "name": "Elec Co-ops of Ark",
+            "screen_name": "ElecCoopsArk"
+        }
+    ]
+}

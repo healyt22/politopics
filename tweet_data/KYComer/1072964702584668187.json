@@ -1,0 +1,105 @@
+{
+    "created_at": "Wed Dec 12 21:21:34 +0000 2018",
+    "favorite_count": 232,
+    "hashtags": [
+        {
+            "text": "FarmBill"
+        }
+    ],
+    "id": 1072964702584668187,
+    "id_str": "1072964702584668187",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/oD7MQ7raP1",
+            "expanded_url": "https://twitter.com/KYComer/status/1072964702584668187/video/1",
+            "id": 1072964624872603648,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1072964624872603648/pu/img/6Goo3qx88e3lciA2.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1072964624872603648/pu/img/6Goo3qx88e3lciA2.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/oD7MQ7raP1",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 45012,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1072964624872603648/pu/vid/1280x720/qPbqBTbPTfVJ9UGi.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1072964624872603648/pu/vid/640x360/2ecZSzes-mheB1Vv.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1072964624872603648/pu/vid/320x180/k435AG-p8k7Y803O.mp4?tag=6"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1072964624872603648/pu/pl/0eHI5q8plWvM_9Az.m3u8?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 54,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "By a vote of 369-47, #FarmBill passed the House! It passed Senate yesterday. Now it heads to the President\u2019s desk. https://t.co/oD7MQ7raP1",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": []
+}

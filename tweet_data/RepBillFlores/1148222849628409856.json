@@ -1,0 +1,106 @@
+{
+    "created_at": "Mon Jul 08 13:30:34 +0000 2019",
+    "hashtags": [],
+    "id": 1148222849628409856,
+    "id_str": "1148222849628409856",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Jul 03 14:00:15 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1146418377285603328,
+        "id_str": "1146418377285603328",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "\u201cPrograms like this are really, really important for the future of the economy,\u201d @RepBillFlores said. \u201cThese studen\u2026 https://t.co/QszAu3NvQV",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146418377285603328",
+                "url": "https://t.co/QszAu3NvQV"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 12 21:46:26 +0000 2008",
+            "description": "News updates and other stuff of Central Texas interest from the Trib staff. Obligatory tagline: Not a feed.",
+            "favourites_count": 1206,
+            "followers_count": 32167,
+            "friends_count": 1203,
+            "geo_enabled": true,
+            "id": 15101583,
+            "id_str": "15101583",
+            "listed_count": 462,
+            "location": "Waco, TX",
+            "name": "Waco Tribune-Herald",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15101583/1523027797",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/982275757807300608/OnoGiA2F_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/982275757807300608/OnoGiA2F_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "wacotrib",
+            "statuses_count": 30984,
+            "url": "http://t.co/Yv5dOpkEis",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 237312687,
+                "id_str": "237312687",
+                "name": "U.S. Representative Bill Flores",
+                "screen_name": "RepBillFlores"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @wacotrib: \u201cPrograms like this are really, really important for the future of the economy,\u201d @RepBillFlores said. \u201cThese students who are\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 12 15:20:23 +0000 2011",
+        "description": "I serve hardworking Texas families in District 17 to rebuild our national security, improve economic opportunity, and protect our Constitutional liberties.",
+        "favourites_count": 4420,
+        "followers_count": 19925,
+        "friends_count": 3801,
+        "geo_enabled": true,
+        "id": 237312687,
+        "id_str": "237312687",
+        "listed_count": 999,
+        "location": "17th District of Texas",
+        "name": "U.S. Representative Bill Flores",
+        "profile_background_color": "3D020D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237312687/1487103224",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558737418287722496/JSryyVjS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/558737418287722496/JSryyVjS_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBillFlores",
+        "statuses_count": 10151,
+        "url": "https://t.co/sdeY8itPYQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15101583,
+            "id_str": "15101583",
+            "name": "Waco Tribune-Herald",
+            "screen_name": "wacotrib"
+        },
+        {
+            "id": 237312687,
+            "id_str": "237312687",
+            "name": "U.S. Representative Bill Flores",
+            "screen_name": "RepBillFlores"
+        }
+    ]
+}

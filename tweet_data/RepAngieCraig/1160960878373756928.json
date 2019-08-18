@@ -1,0 +1,148 @@
+{
+    "created_at": "Mon Aug 12 17:06:57 +0000 2019",
+    "favorite_count": 36,
+    "hashtags": [],
+    "id": 1160960878373756928,
+    "id_str": "1160960878373756928",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Aug 12 16:42:19 +0000 2019",
+        "favorite_count": 30,
+        "hashtags": [
+            {
+                "text": "MN02"
+            },
+            {
+                "text": "MN03"
+            }
+        ],
+        "id": 1160954676482908160,
+        "id_str": "1160954676482908160",
+        "lang": "en",
+        "place": {
+            "id": "0683697d2e1481df",
+            "url": "https://api.twitter.com/1.1/geo/id/0683697d2e1481df.json",
+            "place_type": "city",
+            "name": "Prior Lake",
+            "full_name": "Prior Lake, MN",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.489043,
+                            44.685054
+                        ],
+                        [
+                            -93.379603,
+                            44.685054
+                        ],
+                        [
+                            -93.379603,
+                            44.7612354
+                        ],
+                        [
+                            -93.489043,
+                            44.7612354
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status_id": 1160935473109512192,
+        "quoted_status_id_str": "1160935473109512192",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "My friend @RepAngieCraig and I are on the road in #MN02 and #MN03 to listen and learn about transportation and infr\u2026 https://t.co/89UR6Hl5YI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1160954676482908160",
+                "url": "https://t.co/89UR6Hl5YI"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Nov 10 17:30:23 +0000 2018",
+            "default_profile": true,
+            "description": "Exposing truth, cleaning-up corruption & inspiring collaboration in Congress. Member of House Financial Services, Foreign Affairs, & Ethics Committees. #MN03",
+            "favourites_count": 2688,
+            "followers_count": 11462,
+            "friends_count": 767,
+            "geo_enabled": true,
+            "id": 1061310112013434882,
+            "id_str": "1061310112013434882",
+            "listed_count": 214,
+            "location": "Minnesota, USA",
+            "name": "Rep. Dean Phillips",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061310112013434882/1543962611",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepDeanPhillips",
+            "statuses_count": 608,
+            "url": "https://t.co/shLWxHqqwP",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1080222360643485698,
+                "id_str": "1080222360643485698",
+                "name": "Angie Craig",
+                "screen_name": "RepAngieCraig"
+            }
+        ]
+    },
+    "quoted_status_id": 1160954676482908160,
+    "quoted_status_id_str": "1160954676482908160",
+    "retweet_count": 6,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Kicked off Transportation Week with @RepDeanPhillips in Prior Lake this morning! We held a roundtable on water qual\u2026 https://t.co/tXBl6nZScD",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1160960878373756928",
+            "url": "https://t.co/tXBl6nZScD"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 01 22:00:55 +0000 2019",
+        "default_profile": true,
+        "description": "Official Twitter account of U.S. Rep Angie Craig representing Minnesota's 2nd CD.\n\n\ud83d\udcde: (651) 846-2120\n\ud83c\udfe2: 12940 Harriet Avenue South, #238, Burnsville, MN 55337",
+        "followers_count": 14675,
+        "friends_count": 455,
+        "id": 1080222360643485698,
+        "id_str": "1080222360643485698",
+        "listed_count": 260,
+        "name": "Angie Craig",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080222360643485698/1546446584",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080496704221310976/dquA_cvK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080496704221310976/dquA_cvK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAngieCraig",
+        "statuses_count": 631,
+        "url": "https://t.co/BKdiGpwNCb",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1061310112013434882,
+            "id_str": "1061310112013434882",
+            "name": "Rep. Dean Phillips",
+            "screen_name": "RepDeanPhillips"
+        }
+    ]
+}

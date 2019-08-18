@@ -1,0 +1,132 @@
+{
+    "created_at": "Wed Jun 26 18:53:12 +0000 2019",
+    "favorite_count": 140,
+    "hashtags": [],
+    "id": 1143955385612681216,
+    "id_str": "1143955385612681216",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 26 11:24:06 +0000 2019",
+        "favorite_count": 21,
+        "hashtags": [],
+        "id": 1143842366895415296,
+        "id_str": "1143842366895415296",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ty0eXFftFE",
+                "expanded_url": "https://twitter.com/AD_Rank/status/1143842366895415296/photo/1",
+                "id": 1143842361107255296,
+                "media_url": "http://pbs.twimg.com/media/D9--kSzXkAARpoM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9--kSzXkAARpoM.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ty0eXFftFE"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This was a nice surprise in my office mailbox this morning! Thanks .@SenSchumer! https://t.co/ty0eXFftFE",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Sep 12 15:15:20 +0000 2014",
+            "description": "Assist prof of American politics at SUNY Oswego; studies youth & politics, feminism, and popular culture for both love and money",
+            "favourites_count": 276,
+            "followers_count": 135,
+            "friends_count": 294,
+            "id": 2805729926,
+            "id_str": "2805729926",
+            "listed_count": 1,
+            "location": "Oswego, NY",
+            "name": "Allison Rank",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2805729926/1410538859",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/742502975583588353/TjOl2sio_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/742502975583588353/TjOl2sio_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AD_Rank",
+            "statuses_count": 167
+        },
+        "user_mentions": [
+            {
+                "id": 17494010,
+                "id_str": "17494010",
+                "name": "Chuck Schumer",
+                "screen_name": "SenSchumer"
+            }
+        ]
+    },
+    "quoted_status_id": 1143842366895415296,
+    "quoted_status_id_str": "1143842366895415296",
+    "retweet_count": 29,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Congratulations @AD_Rank on the John Saltmarsh Award for Emerging Leaders in Civic Engagement from the American Dem\u2026 https://t.co/nKXqFySucf",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143955385612681216",
+            "url": "https://t.co/nKXqFySucf"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 19 20:10:20 +0000 2008",
+        "description": "Official account of Senator Chuck Schumer - New York\u2019s Senator RT\u2260endorsement",
+        "favourites_count": 215,
+        "followers_count": 1835270,
+        "friends_count": 25692,
+        "id": 17494010,
+        "id_str": "17494010",
+        "listed_count": 10291,
+        "location": "New York, NY",
+        "name": "Chuck Schumer",
+        "profile_background_color": "43090B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17494010/1522865010",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978655909198036993/Gpnx2Os2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978655909198036993/Gpnx2Os2_normal.jpg",
+        "profile_link_color": "FF6005",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E7E9EF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenSchumer",
+        "statuses_count": 15346,
+        "url": "https://t.co/8Vw6E2f47h",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2805729926,
+            "id_str": "2805729926",
+            "name": "Allison Rank",
+            "screen_name": "AD_Rank"
+        }
+    ]
+}

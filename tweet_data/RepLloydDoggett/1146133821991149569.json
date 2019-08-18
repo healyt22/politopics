@@ -1,0 +1,120 @@
+{
+    "created_at": "Tue Jul 02 19:09:31 +0000 2019",
+    "hashtags": [],
+    "id": 1146133821991149569,
+    "id_str": "1146133821991149569",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Jul 02 17:46:38 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1146112961230069760,
+        "id_str": "1146112961230069760",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Nobody has been more dogged in DC than Texas @RepLloydDoggett when it comes to demanding @realDonaldTrump tax retur\u2026 https://t.co/D7sBhnkkXV",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146112961230069760",
+                "url": "https://t.co/D7sBhnkkXV"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 21 22:56:10 +0000 2008",
+            "description": "Hearst Newspapers DC. Books: Dinner at the New Gene Cafe; Big Muddy Blues. Illinoisan, Chesapeake Bay now. Garlic grower. Email me. bill.lambrecht@hearstdc.com",
+            "favourites_count": 226,
+            "followers_count": 3525,
+            "friends_count": 1941,
+            "geo_enabled": true,
+            "id": 15938122,
+            "id_str": "15938122",
+            "listed_count": 167,
+            "location": "Washington, D.C.",
+            "name": "Bill Lambrecht",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15938122/1408738999",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/58735526/Bill_20Lambrecht_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/58735526/Bill_20Lambrecht_normal.jpg",
+            "profile_link_color": "00B380",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "AED3DB",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "blambrecht",
+            "statuses_count": 5151,
+            "url": "https://t.co/a5RiwJY32x",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 153944899,
+                "id_str": "153944899",
+                "name": "Lloyd Doggett",
+                "screen_name": "RepLloydDoggett"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @blambrecht: Nobody has been more dogged in DC than Texas @RepLloydDoggett when it comes to demanding @realDonaldTrump tax returns, whic\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 09 23:53:50 +0000 2010",
+        "description": "Representing communities from San Antonio to Austin. Chairman of the Health Subcommittee on the House Ways & Means Committee.",
+        "favourites_count": 276,
+        "followers_count": 34465,
+        "friends_count": 501,
+        "geo_enabled": true,
+        "id": 153944899,
+        "id_str": "153944899",
+        "listed_count": 1350,
+        "location": "Texas",
+        "name": "Lloyd Doggett",
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153944899/1541168154",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2512072298/x393d17j8ghxhd4aieu2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2512072298/x393d17j8ghxhd4aieu2_normal.jpeg",
+        "profile_link_color": "002566",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLloydDoggett",
+        "statuses_count": 7841,
+        "url": "http://t.co/ukPGmJS3hB",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15938122,
+            "id_str": "15938122",
+            "name": "Bill Lambrecht",
+            "screen_name": "blambrecht"
+        },
+        {
+            "id": 153944899,
+            "id_str": "153944899",
+            "name": "Lloyd Doggett",
+            "screen_name": "RepLloydDoggett"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "created_at": "Sat Aug 03 01:23:41 +0000 2019",
+    "hashtags": [],
+    "id": 1157462004111724552,
+    "id_str": "1157462004111724552",
+    "lang": "en",
+    "quoted_status_id": 1157246562260725760,
+    "quoted_status_id_str": "1157246562260725760",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Fri Aug 02 21:08:17 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1157397733185085441,
+        "id_str": "1157397733185085441",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Fri Aug 02 11:07:35 +0000 2019",
+            "favorite_count": 499,
+            "hashtags": [],
+            "id": 1157246562260725760,
+            "id_str": "1157246562260725760",
+            "lang": "en",
+            "place": {
+                "id": "01fbe706f872cb32",
+                "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+                "place_type": "city",
+                "name": "Washington",
+                "full_name": "Washington, DC",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -77.119401,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.9953797
+                            ],
+                            [
+                                -77.119401,
+                                38.9953797
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "quoted_status_id": 1157245671956713472,
+            "quoted_status_id_str": "1157245671956713472",
+            "retweet_count": 102,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "The country really needs an all-hands-on-deck effort to clean up old lead. https://t.co/ODcyEIkEuX",
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/crampell/status/1157245671956713472",
+                    "url": "https://t.co/ODcyEIkEuX"
+                }
+            ],
+            "user": {
+                "created_at": "Tue Jul 15 21:44:28 +0000 2008",
+                "description": "10x tweeter. AirBNB Superhost. Dad. Chief Neoliberal Shill, 2019. The Weeds podcast. Proud owner of a non-conforming garage. Vox co-founder.",
+                "favourites_count": 15623,
+                "followers_count": 434511,
+                "friends_count": 876,
+                "geo_enabled": true,
+                "id": 15446531,
+                "id_str": "15446531",
+                "listed_count": 11228,
+                "location": "Washington, DC",
+                "name": "Matthew Yglesias",
+                "profile_background_color": "ABB8C2",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/15446531/1560120768",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1137540960735436801/aZ8kNI8Z_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137540960735436801/aZ8kNI8Z_normal.jpg",
+                "profile_link_color": "89C9FA",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "mattyglesias",
+                "statuses_count": 2758,
+                "url": "https://t.co/nOeiO7sYh8",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1157246562260725760,
+        "quoted_status_id_str": "1157246562260725760",
+        "retweet_count": 8,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "We must get lead out of our schools! That\u2019s why we need @EdLaborCmte Chairman @BobbyScott\u2019s Rebuild America\u2019s Schoo\u2026 https://t.co/deiRc2KokF",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1157397733185085441",
+                "url": "https://t.co/deiRc2KokF"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 17 14:25:20 +0000 2009",
+            "default_profile": true,
+            "description": "Representing the 3rd Congressional District in PA. Making Ideas Matter since 1980. Connect on Facebook: https://t.co/xMYIke63lr",
+            "favourites_count": 3630,
+            "followers_count": 14942,
+            "friends_count": 3267,
+            "geo_enabled": true,
+            "id": 90639372,
+            "id_str": "90639372",
+            "listed_count": 661,
+            "location": "Philadelphia, PA",
+            "name": "Dwight Evans",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/90639372/1451339780",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/879350983175925764/xUkaKXoa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/879350983175925764/xUkaKXoa_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepDwightEvans",
+            "statuses_count": 17015,
+            "url": "https://t.co/JF4XLr08tQ",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 7004382,
+                "id_str": "7004382",
+                "name": "Committee on Education & Labor",
+                "screen_name": "EdLaborCmte"
+            },
+            {
+                "id": 161791703,
+                "id_str": "161791703",
+                "name": "Rep. Bobby Scott",
+                "screen_name": "BobbyScott"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RepDwightEvans: We must get lead out of our schools! That\u2019s why we need @EdLaborCmte Chairman @BobbyScott\u2019s Rebuild America\u2019s Schools A\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Nov 17 14:25:20 +0000 2009",
+        "default_profile": true,
+        "description": "Representing the 3rd Congressional District in PA. Making Ideas Matter since 1980. Connect on Facebook: https://t.co/xMYIke63lr",
+        "favourites_count": 3630,
+        "followers_count": 14942,
+        "friends_count": 3267,
+        "geo_enabled": true,
+        "id": 90639372,
+        "id_str": "90639372",
+        "listed_count": 661,
+        "location": "Philadelphia, PA",
+        "name": "Dwight Evans",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90639372/1451339780",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/879350983175925764/xUkaKXoa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/879350983175925764/xUkaKXoa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDwightEvans",
+        "statuses_count": 17015,
+        "url": "https://t.co/JF4XLr08tQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 90639372,
+            "id_str": "90639372",
+            "name": "Dwight Evans",
+            "screen_name": "RepDwightEvans"
+        },
+        {
+            "id": 7004382,
+            "id_str": "7004382",
+            "name": "Committee on Education & Labor",
+            "screen_name": "EdLaborCmte"
+        },
+        {
+            "id": 161791703,
+            "id_str": "161791703",
+            "name": "Rep. Bobby Scott",
+            "screen_name": "BobbyScott"
+        }
+    ]
+}

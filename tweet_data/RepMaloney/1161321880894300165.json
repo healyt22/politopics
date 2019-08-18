@@ -1,0 +1,111 @@
+{
+    "created_at": "Tue Aug 13 17:01:27 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "Brooklyn"
+        }
+    ],
+    "id": 1161321880894300165,
+    "id_str": "1161321880894300165",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Aug 12 15:29:14 +0000 2019",
+        "favorite_count": 71,
+        "hashtags": [],
+        "id": 1160936288377278465,
+        "id_str": "1160936288377278465",
+        "lang": "en",
+        "retweet_count": 48,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The @NYPDHateCrimes Unit and the @NYPD90Pct are investigating a series of assaults which occurred this morning in t\u2026 https://t.co/vHLZBeEVAm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1160936288377278465",
+                "url": "https://t.co/vHLZBeEVAm"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 24 19:54:16 +0000 2014",
+            "description": "NYPD Chief of Detectives. Account not monitored 24/7 - use 911 and 311. User policy: https://t.co/zsNvfzmw5C",
+            "favourites_count": 4197,
+            "followers_count": 27474,
+            "friends_count": 518,
+            "geo_enabled": true,
+            "id": 2586249666,
+            "id_str": "2586249666",
+            "listed_count": 269,
+            "location": "New York City",
+            "name": "Chief Dermot F. Shea",
+            "profile_background_color": "005CB9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2586249666/1556884741",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1100006594417442816/OMsOkUa9_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100006594417442816/OMsOkUa9_normal.png",
+            "profile_link_color": "005CB9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "NYPDDetectives",
+            "statuses_count": 2720,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 908044479629799425,
+                "id_str": "908044479629799425",
+                "name": "NYPD Hate Crimes",
+                "screen_name": "NYPDHateCrimes"
+            },
+            {
+                "id": 2372714718,
+                "id_str": "2372714718",
+                "name": "NYPD 90th Precinct",
+                "screen_name": "NYPD90Pct"
+            }
+        ]
+    },
+    "quoted_status_id": 1160936288377278465,
+    "quoted_status_id_str": "1160936288377278465",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Yesterday, 3 Jewish men were attacked in #Brooklyn. These vicious acts of violence are part of a larger pattern of\u2026 https://t.co/ncaRPw0UAW",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1161321880894300165",
+            "url": "https://t.co/ncaRPw0UAW"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 28 19:06:50 +0000 2011",
+        "description": "Honored to rep #NY12 in the US House. A progressive fmr teacher fighting for #Manhattan, #Brooklyn & #Queens. Proud to wear FDNY coat to #renew911VCF! DMs open",
+        "favourites_count": 6408,
+        "followers_count": 42347,
+        "friends_count": 3281,
+        "geo_enabled": true,
+        "id": 258900199,
+        "id_str": "258900199",
+        "listed_count": 1323,
+        "location": "New York City",
+        "name": "Carolyn  B. Maloney",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258900199/1549467399",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMaloney",
+        "statuses_count": 10833,
+        "url": "https://t.co/EhTt891RCX",
+        "verified": true
+    },
+    "user_mentions": []
+}

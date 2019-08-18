@@ -1,0 +1,123 @@
+{
+    "created_at": "Wed May 22 20:50:13 +0000 2019",
+    "hashtags": [],
+    "id": 1131301260848771072,
+    "id_str": "1131301260848771072",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed May 22 20:42:44 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1131299377337831425,
+        "id_str": "1131299377337831425",
+        "lang": "en",
+        "place": {
+            "id": "f2dabb4da43780ea",
+            "url": "https://api.twitter.com/1.1/geo/id/f2dabb4da43780ea.json",
+            "place_type": "city",
+            "name": "Port Hueneme",
+            "full_name": "Port Hueneme, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -119.221552,
+                            34.138118
+                        ],
+                        [
+                            -119.186037,
+                            34.138118
+                        ],
+                        [
+                            -119.186037,
+                            34.181304
+                        ],
+                        [
+                            -119.221552,
+                            34.181304
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\u2693\ufe0fToday is National Maritime Day!\u2693\ufe0f\n\nTo all the ship crews, operators, stevedores, security, customers, and everyon\u2026 https://t.co/8nefDbdt0O",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131299377337831425",
+                "url": "https://t.co/8nefDbdt0O"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 06 23:13:24 +0000 2014",
+            "description": "A top US port for cars & produce. #committedtocommunity - brings $1.7 billion in economic activity and creates 15,834 trade-related jobs. #wemakecargomove",
+            "favourites_count": 1830,
+            "followers_count": 1272,
+            "friends_count": 1364,
+            "geo_enabled": true,
+            "id": 2551166035,
+            "id_str": "2551166035",
+            "listed_count": 25,
+            "location": "Port Hueneme, CA",
+            "name": "The Port of Hueneme",
+            "profile_background_color": "54B046",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2551166035/1515612828",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/476112687131140097/k4qLb8T7_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/476112687131140097/k4qLb8T7_normal.jpeg",
+            "profile_link_color": "54B046",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "portofhueneme",
+            "statuses_count": 1322
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @portofhueneme: \u2693\ufe0fToday is National Maritime Day!\u2693\ufe0f\n\nTo all the ship crews, operators, stevedores, security, customers, and everyone in\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Mar 05 14:51:28 +0000 2013",
+        "default_profile": true,
+        "description": "Serving #CA26 & fighting for Ventura County. Chairwoman of @VetAffairsDems Health Subcommittee & #WomenVetsTaskForce. Member of @TransportDems & @ClimateCrisis.",
+        "followers_count": 16691,
+        "friends_count": 1031,
+        "id": 1243902714,
+        "id_str": "1243902714",
+        "listed_count": 817,
+        "location": "Ventura County & Washington, DC",
+        "name": "Congresswoman Julia Brownley",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243902714/1556889431",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096422273437831168/b9lioe1R_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096422273437831168/b9lioe1R_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBrownley",
+        "statuses_count": 4776,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2551166035,
+            "id_str": "2551166035",
+            "name": "The Port of Hueneme",
+            "screen_name": "portofhueneme"
+        }
+    ]
+}

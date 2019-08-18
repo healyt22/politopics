@@ -1,0 +1,104 @@
+{
+    "created_at": "Mon May 13 16:43:39 +0000 2019",
+    "hashtags": [
+        {
+            "text": "EqualityAct"
+        }
+    ],
+    "id": 1127977719776542721,
+    "id_str": "1127977719776542721",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sat May 11 18:00:00 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "EqualityAct"
+            }
+        ],
+        "id": 1127272157975736320,
+        "id_str": "1127272157975736320",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "The #EqualityAct was introduced in the U.S. Congress and co-sponsored by elected members from Arizona including:\n\ud83d\udc99\u2026 https://t.co/PWtcEHrNMy",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1127272157975736320",
+                "url": "https://t.co/PWtcEHrNMy"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 20 17:52:51 +0000 2008",
+            "description": "The Human Rights Campaign is America\u2019s largest civil rights organization fighting for #LGBTQ people. Follow us for info on LGBTQ rights in Arizona.",
+            "favourites_count": 677,
+            "followers_count": 7233,
+            "friends_count": 6600,
+            "geo_enabled": true,
+            "id": 15920551,
+            "id_str": "15920551",
+            "listed_count": 177,
+            "location": "Arizona",
+            "name": "HRC in Arizona",
+            "profile_background_color": "1A171A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15920551/1528845932",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1006628081145016320/H52-k8d0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006628081145016320/H52-k8d0_normal.jpg",
+            "profile_link_color": "81AEDE",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFCC00",
+            "profile_text_color": "333333",
+            "screen_name": "HRCaz",
+            "statuses_count": 6385,
+            "url": "https://t.co/ggPa5frftU",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @HRCaz: The #EqualityAct was introduced in the U.S. Congress and co-sponsored by elected members from Arizona including:\n\ud83d\udc99@SenatorSinema\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 17:54:19 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly serving Arizona's 9th Congressional District",
+        "favourites_count": 67,
+        "followers_count": 3958,
+        "friends_count": 1129,
+        "id": 1080885078425784320,
+        "id_str": "1080885078425784320",
+        "listed_count": 167,
+        "name": "Greg Stanton",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080885078425784320/1546958876",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080997387831832577/QeoSs0Jd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080997387831832577/QeoSs0Jd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGregStanton",
+        "statuses_count": 306,
+        "url": "https://t.co/3BRXv6iBwh",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15920551,
+            "id_str": "15920551",
+            "name": "HRC in Arizona",
+            "screen_name": "HRCaz"
+        },
+        {
+            "id": 1080844782,
+            "id_str": "1080844782",
+            "name": "Kyrsten Sinema",
+            "screen_name": "SenatorSinema"
+        }
+    ]
+}

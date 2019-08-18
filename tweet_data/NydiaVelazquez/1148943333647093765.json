@@ -1,0 +1,111 @@
+{
+    "created_at": "Wed Jul 10 13:13:31 +0000 2019",
+    "hashtags": [],
+    "id": 1148943333647093765,
+    "id_str": "1148943333647093765",
+    "lang": "en",
+    "retweet_count": 72,
+    "retweeted_status": {
+        "created_at": "Wed Jul 10 01:14:22 +0000 2019",
+        "favorite_count": 111,
+        "hashtags": [],
+        "id": 1148762352201977857,
+        "id_str": "1148762352201977857",
+        "in_reply_to_screen_name": "HispanicCaucus",
+        "in_reply_to_status_id": 1148761466125860864,
+        "in_reply_to_user_id": 33530012,
+        "lang": "en",
+        "retweet_count": 72,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "A 15 yr old girl described how a @CBP agent groped &amp; sexually assaulted her. Boys reported verbal abuse &amp; being for\u2026 https://t.co/TGe86riQPM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148762352201977857",
+                "url": "https://t.co/TGe86riQPM"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 20 14:33:01 +0000 2009",
+            "description": "The 38-Member Congressional Hispanic Caucus advocates for issues important to Latinos via the legislative process in Congress.",
+            "favourites_count": 4364,
+            "followers_count": 62768,
+            "friends_count": 3098,
+            "geo_enabled": true,
+            "id": 33530012,
+            "id_str": "33530012",
+            "listed_count": 1178,
+            "location": "Washington, DC",
+            "name": "Hispanic Caucus",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33530012/1549074342",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1091509544373628931/lg-1Eobc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091509544373628931/lg-1Eobc_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HispanicCaucus",
+            "statuses_count": 30698,
+            "url": "http://t.co/M5o7LhojfY",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 16613128,
+                "id_str": "16613128",
+                "name": "CBP",
+                "screen_name": "CBP"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @HispanicCaucus: A 15 yr old girl described how a @CBP agent groped &amp; sexually assaulted her. Boys reported verbal abuse &amp; being forced\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 08 18:18:20 +0000 2010",
+        "default_profile": true,
+        "description": "Represents New York's 7th Congressional District in the U.S. House of Representatives. Chairwoman of House Small Business Committee. Follow us @HouseSmallBiz",
+        "favourites_count": 629,
+        "followers_count": 58907,
+        "friends_count": 5103,
+        "geo_enabled": true,
+        "id": 164369297,
+        "id_str": "164369297",
+        "listed_count": 1371,
+        "location": "NYC and DC",
+        "name": "Rep. Nydia Velazquez",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164369297/1523637643",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994585599343554561/duJdBxTR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994585599343554561/duJdBxTR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "NydiaVelazquez",
+        "statuses_count": 6935,
+        "url": "https://t.co/Gahd1XU986",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 33530012,
+            "id_str": "33530012",
+            "name": "Hispanic Caucus",
+            "screen_name": "HispanicCaucus"
+        },
+        {
+            "id": 16613128,
+            "id_str": "16613128",
+            "name": "CBP",
+            "screen_name": "CBP"
+        }
+    ]
+}

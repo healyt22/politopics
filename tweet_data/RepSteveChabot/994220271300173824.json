@@ -1,0 +1,131 @@
+{
+    "created_at": "Wed May 09 14:19:19 +0000 2018",
+    "favorite_count": 57,
+    "hashtags": [
+        {
+            "text": "DSWorks"
+        }
+    ],
+    "id": 994220271300173824,
+    "id_str": "994220271300173824",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Wed May 09 13:56:32 +0000 2018",
+        "favorite_count": 337,
+        "hashtags": [],
+        "id": 994214540391997440,
+        "id_str": "994214540391997440",
+        "lang": "en",
+        "retweet_count": 80,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "John is fueling up to testify before the House Committee on Small Business. He will show how he and people with dif\u2026 https://t.co/qDjCaKh0vl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/994214540391997440",
+                "url": "https://t.co/qDjCaKh0vl"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 06 18:56:30 +0000 2016",
+            "default_profile": true,
+            "description": "We're inspired by our co-founder, John Cronin, a young man with Down syndrome, who loves his socks & wants to share that joy with everyone.",
+            "favourites_count": 3976,
+            "followers_count": 8615,
+            "friends_count": 158,
+            "geo_enabled": true,
+            "id": 806210727170244612,
+            "id_str": "806210727170244612",
+            "listed_count": 31,
+            "location": "Melville, NY",
+            "name": "John's Crazy Socks",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/806210727170244612/1530289263",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1112814727246372866/XUoiE1KH_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112814727246372866/XUoiE1KH_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JohnsCrazySocks",
+            "statuses_count": 3341,
+            "url": "https://t.co/LHd8oaEnE9"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 994214540391997440,
+    "quoted_status_id_str": "994214540391997440",
+    "retweet_count": 23,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Looking forward to meeting you, John! Keep up the great work. #DSWorks https://t.co/0x6jlcPkhZ",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/johnscrazysocks/status/994214540391997440",
+            "url": "https://t.co/0x6jlcPkhZ"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 13 15:03:08 +0000 2011",
+        "description": "Husband, grandpa, public servant, & proud Cincinnatian. Chairman of @HouseSmallBiz & senior Member on @HouseJudiciary & @HouseForeign.",
+        "favourites_count": 1767,
+        "followers_count": 27966,
+        "friends_count": 3008,
+        "geo_enabled": true,
+        "id": 237750442,
+        "id_str": "237750442",
+        "listed_count": 1106,
+        "location": "Cincinnati",
+        "name": "Rep. Steve Chabot",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237750442/1506718866",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_link_color": "666666",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B1D3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepSteveChabot",
+        "statuses_count": 3252,
+        "url": "https://t.co/uGxNrFAFsk",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,111 @@
+{
+    "created_at": "Sun Jun 30 19:16:34 +0000 2019",
+    "favorite_count": 5138,
+    "hashtags": [
+        {
+            "text": "Pride"
+        },
+        {
+            "text": "Pride"
+        },
+        {
+            "text": "Pride"
+        }
+    ],
+    "id": 1145410817732595714,
+    "id_str": "1145410817732595714",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/otCEt2uhDY",
+            "expanded_url": "https://twitter.com/SenSchumer/status/1145410817732595714/video/1",
+            "id": 1145410784907976704,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1145410784907976704/pu/img/YH_Lqttu4VUYTVgb.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1145410784907976704/pu/img/YH_Lqttu4VUYTVgb.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/otCEt2uhDY",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 5200,
+                "variants": [
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1145410784907976704/pu/vid/320x320/wz5Q3YfaWh7FskTU.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1145410784907976704/pu/vid/720x720/hhohCZw4QwouEqD2.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1145410784907976704/pu/pl/eylc1hm4Ut0xJM05.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1145410784907976704/pu/vid/480x480/80z4J5Flj-QFu42K.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 870,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#Pride\n#Pride\n#Pride https://t.co/otCEt2uhDY",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 19 20:10:20 +0000 2008",
+        "description": "Official account of Senator Chuck Schumer - New York\u2019s Senator RT\u2260endorsement",
+        "favourites_count": 215,
+        "followers_count": 1835270,
+        "friends_count": 25692,
+        "id": 17494010,
+        "id_str": "17494010",
+        "listed_count": 10291,
+        "location": "New York, NY",
+        "name": "Chuck Schumer",
+        "profile_background_color": "43090B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17494010/1522865010",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978655909198036993/Gpnx2Os2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978655909198036993/Gpnx2Os2_normal.jpg",
+        "profile_link_color": "FF6005",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E7E9EF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenSchumer",
+        "statuses_count": 15346,
+        "url": "https://t.co/8Vw6E2f47h",
+        "verified": true
+    },
+    "user_mentions": []
+}

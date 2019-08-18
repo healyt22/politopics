@@ -1,0 +1,144 @@
+{
+    "created_at": "Wed Jul 24 17:23:17 +0000 2019",
+    "hashtags": [
+        {
+            "text": "FarmCredit"
+        },
+        {
+            "text": "ag"
+        },
+        {
+            "text": "HouseAg"
+        }
+    ],
+    "id": 1154079617671675904,
+    "id_str": "1154079617671675904",
+    "lang": "en",
+    "retweet_count": 11,
+    "retweeted_status": {
+        "created_at": "Wed Jul 24 14:05:12 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [
+            {
+                "text": "FarmCredit"
+            },
+            {
+                "text": "ag"
+            }
+        ],
+        "id": 1154029771409580034,
+        "id_str": "1154029771409580034",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 11,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This morning, the women of #FarmCredit heard from three outstanding #ag leaders during Coffee with Women of the\u2026 https://t.co/Lwx06mrrvw",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154029771409580034",
+                "url": "https://t.co/Lwx06mrrvw"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 01 12:43:19 +0000 2008",
+            "description": "Farm Credit supports rural communities and agriculture with reliable, consistent credit and financial services, today and tomorrow.",
+            "favourites_count": 9276,
+            "followers_count": 13262,
+            "friends_count": 4450,
+            "geo_enabled": true,
+            "id": 15287435,
+            "id_str": "15287435",
+            "listed_count": 237,
+            "location": "All 50 States and Puerto Rico",
+            "name": "Farm Credit System",
+            "profile_background_color": "329613",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15287435/1519680239",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/852165545528971264/Q3Ig4yRH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/852165545528971264/Q3Ig4yRH_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "farmcredit",
+            "statuses_count": 5878,
+            "url": "https://t.co/uxpOadbK3g",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @farmcredit: This morning, the women of #FarmCredit heard from three outstanding #ag leaders during Coffee with Women of the #HouseAg Co\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 13 15:38:52 +0000 2011",
+        "description": "I serve the hardworking Missourians of #MO4. Working to reduce big govt. burden & unleash American spirit. On Armed Services and Agriculture Committees.",
+        "favourites_count": 444,
+        "followers_count": 21688,
+        "friends_count": 1034,
+        "geo_enabled": true,
+        "id": 237763317,
+        "id_str": "237763317",
+        "listed_count": 1063,
+        "location": "Harrisonville, Missouri",
+        "name": "Rep. Vicky Hartzler",
+        "profile_background_color": "0D3F6E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237763317/1435159166",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/613719612581089280/aIg3Odi0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/613719612581089280/aIg3Odi0_normal.jpg",
+        "profile_link_color": "930D12",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepHartzler",
+        "statuses_count": 6929,
+        "url": "http://t.co/67BpQ5eROP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15287435,
+            "id_str": "15287435",
+            "name": "Farm Credit System",
+            "screen_name": "farmcredit"
+        }
+    ]
+}

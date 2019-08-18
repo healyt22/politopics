@@ -1,0 +1,107 @@
+{
+    "created_at": "Sun Sep 03 23:26:15 +0000 2017",
+    "hashtags": [
+        {
+            "text": "Mission"
+        }
+    ],
+    "id": 904485722824077312,
+    "id_str": "904485722824077312",
+    "lang": "en",
+    "retweet_count": 13,
+    "retweeted_status": {
+        "created_at": "Sun Sep 03 22:24:58 +0000 2017",
+        "favorite_count": 25,
+        "hashtags": [],
+        "id": 904470298971389952,
+        "id_str": "904470298971389952",
+        "lang": "en",
+        "retweet_count": 13,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "CAL FIRE is assisting the @Sierra_NF with a wildfire off Mission Dr &amp; Italian Bar Rd. E of North Fork (Madera Co)\u2026 https://t.co/9U0ELCRLzc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/904470298971389952",
+                "url": "https://t.co/9U0ELCRLzc"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 18 22:36:09 +0000 2009",
+            "description": "Official Twitter Account of CAL FIRE",
+            "favourites_count": 857,
+            "followers_count": 290058,
+            "friends_count": 63,
+            "geo_enabled": true,
+            "id": 21249970,
+            "id_str": "21249970",
+            "listed_count": 3169,
+            "location": "Sacramento, CA",
+            "name": "CAL FIRE",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21249970/1560902469",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158891560496328704/mREEzszz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158891560496328704/mREEzszz_normal.jpg",
+            "profile_link_color": "B0060E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CCD4DF",
+            "profile_text_color": "080808",
+            "profile_use_background_image": true,
+            "screen_name": "CAL_FIRE",
+            "statuses_count": 14339,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 552851321,
+                "id_str": "552851321",
+                "name": "Sierra Ntl. Forest",
+                "screen_name": "Sierra_NF"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CAL_FIRE: CAL FIRE is assisting the @Sierra_NF with a wildfire off Mission Dr &amp; Italian Bar Rd. E of North Fork (Madera Co) #Mission Fi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 24 00:21:07 +0000 2009",
+        "description": "United States Representative, 4th District of California",
+        "favourites_count": 1,
+        "followers_count": 14559,
+        "id": 50152441,
+        "id_str": "50152441",
+        "listed_count": 1204,
+        "location": "Washington, DC",
+        "name": "Tom McClintock",
+        "profile_background_color": "093552",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+        "profile_link_color": "3078B8",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMcClintock",
+        "statuses_count": 496,
+        "url": "http://t.co/M52pLVZcTJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21249970,
+            "id_str": "21249970",
+            "name": "CAL FIRE",
+            "screen_name": "CAL_FIRE"
+        },
+        {
+            "id": 552851321,
+            "id_str": "552851321",
+            "name": "Sierra Ntl. Forest",
+            "screen_name": "Sierra_NF"
+        }
+    ]
+}

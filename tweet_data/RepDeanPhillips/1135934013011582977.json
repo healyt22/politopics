@@ -1,0 +1,121 @@
+{
+    "created_at": "Tue Jun 04 15:39:07 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1135934013011582977,
+    "id_str": "1135934013011582977",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 03 16:46:49 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1135588660949192705,
+        "id_str": "1135588660949192705",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ALMGRBP1Ti",
+                "expanded_url": "https://twitter.com/RandyMaluchnik/status/1135588660949192705/photo/1",
+                "id": 1135588655937069056,
+                "media_url": "http://pbs.twimg.com/media/D8Jr3bAXoAAZaEN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D8Jr3bAXoAAZaEN.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 801,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1367,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ALMGRBP1Ti"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Suzette and I with Congressman Phillips at the Chaska Area Fishing with Friends Event Saturday. https://t.co/ALMGRBP1Ti",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jun 30 05:33:01 +0000 2009",
+            "default_profile": true,
+            "description": "Carver County Commissioner",
+            "favourites_count": 1096,
+            "followers_count": 1141,
+            "friends_count": 2680,
+            "geo_enabled": true,
+            "id": 52315729,
+            "id_str": "52315729",
+            "listed_count": 33,
+            "location": "Chaska, Minnesota",
+            "name": "Randy Maluchnik",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52315729/1424026441",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/567034275950637056/1xKYfnYg_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/567034275950637056/1xKYfnYg_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RandyMaluchnik",
+            "statuses_count": 13001,
+            "url": "https://t.co/2gvpplHps1"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1135588660949192705,
+    "quoted_status_id_str": "1135588660949192705",
+    "retweet_count": 1,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "I enjoyed a sunny afternoon learning about fishing safety and the extraordinary natural resources of\u2026 https://t.co/eep1gScZ0J",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1135934013011582977",
+            "url": "https://t.co/eep1gScZ0J"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Nov 10 17:30:23 +0000 2018",
+        "default_profile": true,
+        "description": "Exposing truth, cleaning-up corruption & inspiring collaboration in Congress. Member of House Financial Services, Foreign Affairs, & Ethics Committees. #MN03",
+        "favourites_count": 2331,
+        "followers_count": 9927,
+        "friends_count": 753,
+        "geo_enabled": true,
+        "id": 1061310112013434882,
+        "id_str": "1061310112013434882",
+        "listed_count": 192,
+        "location": "Minnesota, USA",
+        "name": "Rep. Dean Phillips",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061310112013434882/1543962611",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDeanPhillips",
+        "statuses_count": 527,
+        "url": "https://t.co/shLWxHqqwP",
+        "verified": true
+    },
+    "user_mentions": []
+}

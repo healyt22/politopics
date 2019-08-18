@@ -1,0 +1,132 @@
+{
+    "created_at": "Mon Jul 29 15:28:47 +0000 2019",
+    "favorite_count": 22,
+    "hashtags": [],
+    "id": 1155862741288177665,
+    "id_str": "1155862741288177665",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Mon Jul 29 10:02:03 +0000 2019",
+        "favorite_count": 3077,
+        "hashtags": [],
+        "id": 1155780517557624837,
+        "id_str": "1155780517557624837",
+        "lang": "en",
+        "retweet_count": 1514,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "\"My son had his whole life to live and he was only six. That\u2019s all I can say,\" says father of 6-year-old killed at\u2026 https://t.co/YAX2SAk9Av",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1155780517557624837",
+                "url": "https://t.co/YAX2SAk9Av"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 18 23:19:17 +0000 2008",
+            "description": "The leading source of global news and info for more than 75 years. Our new free streaming service: @NBCNewsNow",
+            "favourites_count": 768,
+            "followers_count": 6720890,
+            "friends_count": 1760,
+            "geo_enabled": true,
+            "id": 14173315,
+            "id_str": "14173315",
+            "listed_count": 41731,
+            "location": "New York, NY",
+            "name": "NBC News",
+            "profile_background_color": "062131",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1564408207",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+            "profile_link_color": "5172A0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "NBCNews",
+            "statuses_count": 219396,
+            "url": "https://t.co/Z73is4fJ3x",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1155780517557624837,
+    "quoted_status_id_str": "1155780517557624837",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "From the Granite State to California \u2013 our hearts are with the Gilroy community.\n\nWe cannot afford to allow such se\u2026 https://t.co/Nogni9Gq0V",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1155862741288177665",
+            "url": "https://t.co/Nogni9Gq0V"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 20:29:22 +0000 2013",
+        "default_profile": true,
+        "description": "Honored to serve the people of New Hampshire\u2019s Second District in Congress.",
+        "favourites_count": 686,
+        "followers_count": 21785,
+        "friends_count": 2315,
+        "geo_enabled": true,
+        "id": 1058717720,
+        "id_str": "1058717720",
+        "listed_count": 810,
+        "location": "NH's 2nd District",
+        "name": "Ann McLane Kuster",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058717720/1359664710",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/859420869008994304/SGpr9ua7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/859420869008994304/SGpr9ua7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAnnieKuster",
+        "statuses_count": 4838,
+        "url": "http://t.co/1ApjVskz3y",
+        "verified": true
+    },
+    "user_mentions": []
+}

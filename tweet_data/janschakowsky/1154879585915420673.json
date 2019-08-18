@@ -1,0 +1,103 @@
+{
+    "created_at": "Fri Jul 26 22:22:04 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1154879585915420673,
+    "id_str": "1154879585915420673",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/xVpfFuZ3hz",
+            "expanded_url": "https://twitter.com/janschakowsky/status/1154879585915420673/video/1",
+            "id": 1154878054377971712,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1154878054377971712/img/5AaheE79x5w5ouOv.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1154878054377971712/img/5AaheE79x5w5ouOv.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/xVpfFuZ3hz",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 284718,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154878054377971712/vid/1280x720/qpP3phHHcoBADjQE.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154878054377971712/vid/640x360/RH2dP1cC6DomR2K9.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1154878054377971712/pl/GbXDu9DKhGev38dm.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154878054377971712/vid/480x270/t4LR7l4ymAWYIwp4.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Check out my latest edition of Jan's Plans &amp; Pans! https://t.co/xVpfFuZ3hz",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Mar 13 16:03:17 +0000 2009",
+        "default_profile": true,
+        "description": "Official Twitter account for Rep. Jan Schakowsky, Illinois 9th Congressional District",
+        "favourites_count": 1042,
+        "followers_count": 44326,
+        "friends_count": 1373,
+        "geo_enabled": true,
+        "id": 24195214,
+        "id_str": "24195214",
+        "listed_count": 1752,
+        "location": "Chicago, IL",
+        "name": "Jan Schakowsky",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24195214/1546478385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978337720757096448/2aKjNkwQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978337720757096448/2aKjNkwQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "janschakowsky",
+        "statuses_count": 7981,
+        "url": "https://t.co/qdNbWpywjL",
+        "verified": true
+    },
+    "user_mentions": []
+}

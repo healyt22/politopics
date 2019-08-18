@@ -1,0 +1,123 @@
+{
+    "created_at": "Wed Apr 03 18:51:55 +0000 2019",
+    "hashtags": [],
+    "id": 1113514481852796928,
+    "id_str": "1113514481852796928",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Apr 03 18:50:56 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1113514234510548998,
+        "id_str": "1113514234510548998",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The Department of @Interior joined the Committee today to discuss the budget requests for the @NatlParkService,\u2026 https://t.co/8UrIvNRfpC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1113514234510548998",
+                "url": "https://t.co/8UrIvNRfpC"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 19 17:15:54 +0000 2011",
+            "description": "Members committed to reviewing the Federal budget, conducting oversight, and making funding decisions, line-by-line. Ranking Member @RepKayGranger (R-TX)",
+            "favourites_count": 1987,
+            "followers_count": 14454,
+            "friends_count": 242,
+            "id": 301549400,
+            "id_str": "301549400",
+            "listed_count": 510,
+            "location": "Washington, DC",
+            "name": "Appropriations Republicans",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/301549400/1539709083",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105208700560687104/bqquZiU__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105208700560687104/bqquZiU__normal.png",
+            "profile_link_color": "FFFFFF",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HouseAppropsGOP",
+            "statuses_count": 5762,
+            "url": "https://t.co/ODKPFEPgRf",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 76348185,
+                "id_str": "76348185",
+                "name": "US Department of the Interior",
+                "screen_name": "Interior"
+            },
+            {
+                "id": 36771809,
+                "id_str": "36771809",
+                "name": "NationalParkService",
+                "screen_name": "NatlParkService"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @HouseAppropsGOP: The Department of @Interior joined the Committee today to discuss the budget requests for the @NatlParkService, @USFWS\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 28 21:12:14 +0000 2012",
+        "description": "Father, husband, and former prosecutor proudly representing #OH14",
+        "favourites_count": 479,
+        "followers_count": 20766,
+        "friends_count": 2521,
+        "geo_enabled": true,
+        "id": 976969338,
+        "id_str": "976969338",
+        "listed_count": 621,
+        "location": "Washington, DC",
+        "name": "Dave Joyce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/976969338/1494534964",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/471370204589469696/jzOCXHSW_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/471370204589469696/jzOCXHSW_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepDaveJoyce",
+        "statuses_count": 4343,
+        "url": "http://t.co/w7lVGg29p2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 301549400,
+            "id_str": "301549400",
+            "name": "Appropriations Republicans",
+            "screen_name": "HouseAppropsGOP"
+        },
+        {
+            "id": 76348185,
+            "id_str": "76348185",
+            "name": "US Department of the Interior",
+            "screen_name": "Interior"
+        },
+        {
+            "id": 36771809,
+            "id_str": "36771809",
+            "name": "NationalParkService",
+            "screen_name": "NatlParkService"
+        },
+        {
+            "id": 57625403,
+            "id_str": "57625403",
+            "name": "US Fish and Wildlife",
+            "screen_name": "USFWS"
+        }
+    ]
+}

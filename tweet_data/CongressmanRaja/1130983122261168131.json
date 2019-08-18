@@ -1,0 +1,238 @@
+{
+    "created_at": "Tue May 21 23:46:03 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Iran"
+        },
+        {
+            "text": "Trump"
+        },
+        {
+            "text": "Iran"
+        }
+    ],
+    "id": 1130983122261168131,
+    "id_str": "1130983122261168131",
+    "lang": "en",
+    "quoted_status_id": 1130980606706249729,
+    "quoted_status_id_str": "1130980606706249729",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Tue May 21 23:43:56 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "Iran"
+            },
+            {
+                "text": "Trump"
+            }
+        ],
+        "id": 1130982587197984768,
+        "id_str": "1130982587197984768",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Tue May 21 23:36:03 +0000 2019",
+            "favorite_count": 6,
+            "hashtags": [
+                {
+                    "text": "Trump"
+                },
+                {
+                    "text": "Iran"
+                }
+            ],
+            "id": 1130980606706249729,
+            "id_str": "1130980606706249729",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/ABJLhIyCJ2",
+                    "expanded_url": "https://twitter.com/cnntoday/status/1130980606706249729/video/1",
+                    "id": 1130980128635346945,
+                    "media_url": "http://pbs.twimg.com/media/D7IM3NbV4AE2uQM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D7IM3NbV4AE2uQM.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/ABJLhIyCJ2",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 347147,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1130980128635346945/vid/640x360/QP4f68Kkls4-dewH.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1130980128635346945/vid/1280x720/8XC9xQuz8l-Tntu0.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1130980128635346945/vid/320x180/hwxSobSeIuAEMji_.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1130980128635346945/pl/RhbCXaChCfAxHUwW.m3u8?tag=12"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "retweet_count": 1,
+            "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+            "text": "\u201cWe have to de-escalate immediately.\u201d - @CongressmanRaja on #Trump #Iran https://t.co/ABJLhIyCJ2",
+            "urls": [],
+            "user": {
+                "created_at": "Wed Oct 08 15:16:22 +0000 2014",
+                "description": "Tune to @CNNI's premiere Asia morning news show, @CNNToday at 6a HKT, covering the world's biggest headlines.",
+                "favourites_count": 330,
+                "followers_count": 8492,
+                "friends_count": 648,
+                "id": 2815610751,
+                "id_str": "2815610751",
+                "listed_count": 119,
+                "name": "CNN Today",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2815610751/1560981954",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/824027763971657728/TVEWtUhg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/824027763971657728/TVEWtUhg_normal.jpg",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "cnntoday",
+                "statuses_count": 3583,
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 814179031956488192,
+                    "id_str": "814179031956488192",
+                    "name": "Raja Krishnamoorthi",
+                    "screen_name": "CongressmanRaja"
+                }
+            ]
+        },
+        "quoted_status_id": 1130980606706249729,
+        "quoted_status_id_str": "1130980606706249729",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "After briefings to Congress on intel re #Iran @CongressmanRaja warns: \u201cWe have to de-escalate immediately.\u201d  #Trump\u2026 https://t.co/OVpRQqNQVt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1130982587197984768",
+                "url": "https://t.co/OVpRQqNQVt"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 22 16:07:07 +0000 2009",
+            "description": "Australian anchor and correspondent for CNN International.  Anchors CNN Today at 5-7.30p ET, 6-8.30a HK, 10p-12a GMT. Retweets/follows do not = endorsement.",
+            "favourites_count": 2102,
+            "followers_count": 21220,
+            "friends_count": 2069,
+            "geo_enabled": true,
+            "id": 34312259,
+            "id_str": "34312259",
+            "listed_count": 628,
+            "location": "Atlanta, Georgia, USA",
+            "name": "Michael Holmes",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/34312259/1412882732",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/852347757/twitter_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/852347757/twitter_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "holmescnn",
+            "statuses_count": 7866,
+            "url": "http://t.co/8iME01BQji",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 814179031956488192,
+                "id_str": "814179031956488192",
+                "name": "Raja Krishnamoorthi",
+                "screen_name": "CongressmanRaja"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @holmescnn: After briefings to Congress on intel re #Iran @CongressmanRaja warns: \u201cWe have to de-escalate immediately.\u201d  #Trump #Iran #i\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 28 18:39:42 +0000 2016",
+        "default_profile": true,
+        "description": "Official Twitter account of Congressman   Raja Krishnamoorthi, representing Illinois' 8th Congressional District.",
+        "favourites_count": 1262,
+        "followers_count": 17877,
+        "friends_count": 1772,
+        "id": 814179031956488192,
+        "id_str": "814179031956488192",
+        "listed_count": 508,
+        "location": "Schaumburg, IL",
+        "name": "Raja Krishnamoorthi",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814179031956488192/1483562500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanRaja",
+        "statuses_count": 3730,
+        "url": "https://t.co/zHGbk8wDWc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 34312259,
+            "id_str": "34312259",
+            "name": "Michael Holmes",
+            "screen_name": "holmescnn"
+        },
+        {
+            "id": 814179031956488192,
+            "id_str": "814179031956488192",
+            "name": "Raja Krishnamoorthi",
+            "screen_name": "CongressmanRaja"
+        }
+    ]
+}

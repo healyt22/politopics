@@ -1,0 +1,132 @@
+{
+    "created_at": "Wed Apr 03 17:06:26 +0000 2019",
+    "hashtags": [],
+    "id": 1113487935171641344,
+    "id_str": "1113487935171641344",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Wed Apr 03 00:43:13 +0000 2019",
+        "favorite_count": 31,
+        "hashtags": [],
+        "id": 1113240504290955264,
+        "id_str": "1113240504290955264",
+        "lang": "en",
+        "place": {
+            "id": "319ee7b36c9149da",
+            "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json",
+            "place_type": "city",
+            "name": "Arlington",
+            "full_name": "Arlington, VA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.172219,
+                            38.827378
+                        ],
+                        [
+                            -77.031779,
+                            38.827378
+                        ],
+                        [
+                            -77.031779,
+                            38.934311
+                        ],
+                        [
+                            -77.172219,
+                            38.934311
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "When we visit with @RepTedYoho\u2019s D.C. Offices his LA, Jamie always listens to our requests! Thank you, Congressman\u2026 https://t.co/wM5UfUATsJ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1113240504290955264",
+                "url": "https://t.co/wM5UfUATsJ"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 18 17:46:52 +0000 2017",
+            "description": "Public Policy Manage helping advocates re-package their personal experiences w/ Alzheimer\u2019s into positive messages that inspire progress in Florida. #ENDALZ",
+            "favourites_count": 11995,
+            "followers_count": 3242,
+            "friends_count": 2734,
+            "geo_enabled": true,
+            "id": 833009903769886722,
+            "id_str": "833009903769886722",
+            "listed_count": 12,
+            "location": "Atlantic Beach, FL",
+            "name": "Evan Holler",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/833009903769886722/1511126857",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/929785309927231488/dD_ltDT7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/929785309927231488/dD_ltDT7_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "Holler4Alz",
+            "statuses_count": 3271,
+            "url": "https://t.co/nZJmGX79PG"
+        },
+        "user_mentions": [
+            {
+                "id": 1071900114,
+                "id_str": "1071900114",
+                "name": "Ted Yoho",
+                "screen_name": "RepTedYoho"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AlzAdvocateFL: When we visit with @RepTedYoho\u2019s D.C. Offices his LA, Jamie always listens to our requests! Thank you, Congressman and y\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 20:25:18 +0000 2013",
+        "description": "Representing Florida's 3rd Congressional District; large animal veterinarian; conservative business owner; Member of @HouseForeignGOP  & @HouseAgGOP Committees",
+        "favourites_count": 147,
+        "followers_count": 32275,
+        "friends_count": 309,
+        "id": 1071900114,
+        "id_str": "1071900114",
+        "listed_count": 913,
+        "name": "Ted Yoho",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071900114/1368207742",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTedYoho",
+        "statuses_count": 1411,
+        "url": "https://t.co/9wBRsUS6FX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1071900114,
+            "id_str": "1071900114",
+            "name": "Ted Yoho",
+            "screen_name": "RepTedYoho"
+        }
+    ]
+}

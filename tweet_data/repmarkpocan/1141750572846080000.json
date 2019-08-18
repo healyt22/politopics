@@ -1,0 +1,124 @@
+{
+    "created_at": "Thu Jun 20 16:52:03 +0000 2019",
+    "favorite_count": 85,
+    "hashtags": [],
+    "id": 1141750572846080000,
+    "id_str": "1141750572846080000",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jun 20 16:34:09 +0000 2019",
+        "favorite_count": 93,
+        "hashtags": [],
+        "id": 1141746066062286848,
+        "id_str": "1141746066062286848",
+        "in_reply_to_screen_name": "josh_wingrove",
+        "in_reply_to_status_id": 1141728015401050112,
+        "in_reply_to_user_id": 164075542,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/98RiuXjcEF",
+                "expanded_url": "https://twitter.com/josh_wingrove/status/1141746066062286848/photo/1",
+                "id": 1141745576322752512,
+                "media_url": "http://pbs.twimg.com/media/D9hLjWyXYAAWnr4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9hLjWyXYAAWnr4.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/98RiuXjcEF"
+            }
+        ],
+        "retweet_count": 37,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Trump has a model of the new airplane design on his Oval Office table. https://t.co/98RiuXjcEF",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Jul 08 00:15:20 +0000 2010",
+            "description": "White House reporter, Bloomberg News. Views are my own. e: jwingrove4@bloomberg.net, insta: josh_wingrove",
+            "favourites_count": 5436,
+            "followers_count": 28228,
+            "friends_count": 4466,
+            "geo_enabled": true,
+            "id": 164075542,
+            "id_str": "164075542",
+            "listed_count": 805,
+            "name": "Josh Wingrove",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/164075542/1562423927",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147515400277647360/czKsEUk5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147515400277647360/czKsEUk5_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "josh_wingrove",
+            "statuses_count": 38811,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1141746066062286848,
+    "quoted_status_id_str": "1141746066062286848",
+    "retweet_count": 16,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Can someone at the White House send our man-child President outside to play with his toy plane instead of stoking a\u2026 https://t.co/YZNQOT8p1x",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1141750572846080000",
+            "url": "https://t.co/YZNQOT8p1x"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Feb 21 22:59:04 +0000 2013",
+        "description": "Honored to serve the people of Wisconsin's Second District. Co-Chair of @USProgressives and @LGBTEqCaucus. Member of @AppropsDems",
+        "favourites_count": 1194,
+        "followers_count": 87688,
+        "friends_count": 5527,
+        "geo_enabled": true,
+        "id": 1206227149,
+        "id_str": "1206227149",
+        "listed_count": 1278,
+        "location": "Madison, WI",
+        "name": "Rep. Mark Pocan",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1206227149/1524146572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039192566044999682/TNyedeNK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039192566044999682/TNyedeNK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repmarkpocan",
+        "statuses_count": 5967,
+        "url": "https://t.co/IvGB2NpiqX",
+        "verified": true
+    },
+    "user_mentions": []
+}

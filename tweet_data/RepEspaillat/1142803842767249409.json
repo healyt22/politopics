@@ -1,0 +1,139 @@
+{
+    "created_at": "Sun Jun 23 14:37:23 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "NY13"
+        }
+    ],
+    "id": 1142803842767249409,
+    "id_str": "1142803842767249409",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jun 22 23:30:36 +0000 2019",
+        "favorite_count": 31,
+        "hashtags": [],
+        "id": 1142575645286965251,
+        "id_str": "1142575645286965251",
+        "lang": "en",
+        "place": {
+            "id": "01b828da4311466f",
+            "url": "https://api.twitter.com/1.1/geo/id/01b828da4311466f.json",
+            "place_type": "city",
+            "name": "Croton-on-Hudson",
+            "full_name": "Croton-on-Hudson, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.946553,
+                            41.168161
+                        ],
+                        [
+                            -73.847928,
+                            41.168161
+                        ],
+                        [
+                            -73.847928,
+                            41.334491
+                        ],
+                        [
+                            -73.946553,
+                            41.334491
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status_id": 1142567729632821249,
+        "quoted_status_id_str": "1142567729632821249",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "APPREHENDED \u203c\ufe0f https://t.co/LmQyxefut6",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/NYPDTips/status/1142567729632821249",
+                "url": "https://t.co/LmQyxefut6"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 04 15:41:43 +0000 2014",
+            "description": "Deputy Inspector Peter Andrea, Commanding Officer. The official Twitter of the 34th Precinct. User policy: https://t.co/zsNvfzmw5C",
+            "favourites_count": 17119,
+            "followers_count": 6847,
+            "friends_count": 1361,
+            "geo_enabled": true,
+            "id": 2372084323,
+            "id_str": "2372084323",
+            "listed_count": 116,
+            "location": "4295 Broadway, New York",
+            "name": "NYPD 34th Precinct",
+            "profile_background_color": "005CB9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2372084323/1548962887",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1133854686484869120/9IXsaf-K_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133854686484869120/9IXsaf-K_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "NYPD34Pct",
+            "statuses_count": 4283,
+            "url": "https://t.co/MV17GxZ0LP",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1142575645286965251,
+    "quoted_status_id_str": "1142575645286965251",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thank you for your efforts to keep #NY13 neighborhoods safe. @NYPDnews https://t.co/3HGx8RshEh",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NYPD34Pct/status/1142575645286965251",
+            "url": "https://t.co/3HGx8RshEh"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 05 18:32:15 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly serving New York\u2019s 13th Congressional District. @HispanicCaucus @HouseForeign @TransportDems @HouseSmallBiz. Follow my work in Washington and #NY13",
+        "favourites_count": 4270,
+        "followers_count": 14849,
+        "friends_count": 1511,
+        "geo_enabled": true,
+        "id": 817076257770835968,
+        "id_str": "817076257770835968",
+        "listed_count": 481,
+        "location": "https://www.facebook.com/Congr",
+        "name": "Adriano Espaillat",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817076257770835968/1549406735",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827580972442988545/RJ5H4gCN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827580972442988545/RJ5H4gCN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepEspaillat",
+        "statuses_count": 8140,
+        "url": "https://t.co/lcRqmQFAbz",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17393196,
+            "id_str": "17393196",
+            "name": "NYPD NEWS",
+            "screen_name": "NYPDnews"
+        }
+    ]
+}

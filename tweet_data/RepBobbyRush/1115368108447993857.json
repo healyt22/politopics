@@ -1,0 +1,126 @@
+{
+    "created_at": "Mon Apr 08 21:37:34 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1115368108447993857,
+    "id_str": "1115368108447993857",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Apr 08 20:08:15 +0000 2019",
+        "favorite_count": 8444,
+        "hashtags": [],
+        "id": 1115345630719877120,
+        "id_str": "1115345630719877120",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/AYi6B4lNMz",
+                "expanded_url": "https://twitter.com/justinjm1/status/1115345630719877120/photo/1",
+                "id": 1115345618640211969,
+                "media_url": "http://pbs.twimg.com/media/D3qA7kjWkAESxK_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D3qA7kjWkAESxK_.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 599,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1136,
+                        "h": 1000,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1136,
+                        "h": 1000,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/AYi6B4lNMz"
+            }
+        ],
+        "retweet_count": 6764,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Trump told border agents to break U.S. law and defy judicial orders https://t.co/Mq2yyX42Mo https://t.co/AYi6B4lNMz",
+        "urls": [
+            {
+                "expanded_url": "https://www.cnn.com/2019/04/08/politics/trump-family-separation-el-paso-kirstjen-nielsen/index.html",
+                "url": "https://t.co/Mq2yyX42Mo"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 08 19:44:58 +0000 2010",
+            "description": "National Editor @thedailybeast. Alumnus of @NYMag, @TheAtlantic, @umich",
+            "favourites_count": 13479,
+            "followers_count": 59900,
+            "friends_count": 2740,
+            "geo_enabled": true,
+            "id": 164397041,
+            "id_str": "164397041",
+            "listed_count": 1615,
+            "location": "NYC",
+            "name": "Justin Miller",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/164397041/1514727811",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/721067925470220288/I4Eys6uM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/721067925470220288/I4Eys6uM_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "justinjm1",
+            "statuses_count": 15249,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1115345630719877120,
+    "quoted_status_id_str": "1115345630719877120",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Trump July 2016: \"I am the law and order candidate\"\n\nTrump April 2019: https://t.co/YhPrytWfOt",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/justinjm1/status/1115345630719877120",
+            "url": "https://t.co/YhPrytWfOt"
+        }
+    ],
+    "user": {
+        "created_at": "Wed May 25 20:59:25 +0000 2011",
+        "default_profile": true,
+        "description": "Official Twitter account of Congressman Bobby L. Rush, proudly representing the 1st Congressional District of Illinois.",
+        "favourites_count": 432,
+        "followers_count": 20276,
+        "friends_count": 960,
+        "geo_enabled": true,
+        "id": 305216911,
+        "id_str": "305216911",
+        "listed_count": 945,
+        "location": "Chicago, IL",
+        "name": "Bobby L. Rush",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/305216911/1518124449",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004884463963303936/qe5m6af2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004884463963303936/qe5m6af2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBobbyRush",
+        "statuses_count": 2900,
+        "url": "https://t.co/m46YtFAWex",
+        "verified": true
+    },
+    "user_mentions": []
+}

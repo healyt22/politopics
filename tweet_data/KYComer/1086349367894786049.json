@@ -1,0 +1,165 @@
+{
+    "created_at": "Fri Jan 18 19:47:27 +0000 2019",
+    "favorite_count": 85,
+    "hashtags": [
+        {
+            "text": "KY1"
+        }
+    ],
+    "id": 1086349367894786049,
+    "id_str": "1086349367894786049",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jan 18 17:44:26 +0000 2019",
+        "favorite_count": 22,
+        "hashtags": [
+            {
+                "text": "KBT2019"
+            }
+        ],
+        "id": 1086318409040707585,
+        "id_str": "1086318409040707585",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2vsahFKNdl",
+                "expanded_url": "https://twitter.com/KBT4AllModes/status/1086318409040707585/photo/1",
+                "id": 1086318386030637056,
+                "media_url": "http://pbs.twimg.com/media/DxNg0QhU8AAD1d7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DxNg0QhU8AAD1d7.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/2vsahFKNdl"
+            },
+            {
+                "display_url": "pic.twitter.com/2vsahFKNdl",
+                "expanded_url": "https://twitter.com/KBT4AllModes/status/1086318409040707585/photo/1",
+                "id": 1086318386005434368,
+                "media_url": "http://pbs.twimg.com/media/DxNg0QbUYAAcnuj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DxNg0QbUYAAcnuj.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/2vsahFKNdl"
+            }
+        ],
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks so much @KYComer for closing out our conference this year! #KBT2019 https://t.co/2vsahFKNdl",
+        "urls": [],
+        "user": {
+            "created_at": "Tue May 15 03:25:07 +0000 2012",
+            "description": "Kentuckians for Better Transportation is a member association advocating and educating for all modes of  transportation in The Commonwealth.",
+            "favourites_count": 987,
+            "followers_count": 1075,
+            "friends_count": 863,
+            "geo_enabled": true,
+            "id": 580577850,
+            "id_str": "580577850",
+            "listed_count": 15,
+            "location": "Kentucky",
+            "name": "KBT",
+            "profile_background_color": "2610CF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/502889468655718401/GykDlFed_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/502889468655718401/GykDlFed_normal.jpeg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "KBT4AllModes",
+            "statuses_count": 3214,
+            "url": "http://t.co/IUj632VMvi"
+        },
+        "user_mentions": [
+            {
+                "id": 838462994,
+                "id_str": "838462994",
+                "name": "James Comer",
+                "screen_name": "KYComer"
+            }
+        ]
+    },
+    "quoted_status_id": 1086318409040707585,
+    "quoted_status_id_str": "1086318409040707585",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thanks for having me! Enjoyed speaking about the importance of infrastructure investment in Kentucky. #KY1 https://t.co/Yu4RWzbLZ5",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/kbt4allmodes/status/1086318409040707585",
+            "url": "https://t.co/Yu4RWzbLZ5"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": []
+}

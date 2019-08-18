@@ -1,0 +1,167 @@
+{
+    "created_at": "Thu Apr 18 15:36:54 +0000 2019",
+    "hashtags": [
+        {
+            "text": "knowwv"
+        },
+        {
+            "text": "wvpress"
+        }
+    ],
+    "id": 1118901224886145025,
+    "id_str": "1118901224886145025",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Apr 18 15:32:00 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1118899990926172161,
+        "id_str": "1118899990926172161",
+        "lang": "en",
+        "place": {
+            "id": "71f2805dd75bc147",
+            "url": "https://api.twitter.com/1.1/geo/id/71f2805dd75bc147.json",
+            "place_type": "city",
+            "name": "Charleston",
+            "full_name": "Charleston, WV",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.7071748,
+                            38.293241
+                        ],
+                        [
+                            -81.560235,
+                            38.293241
+                        ],
+                        [
+                            -81.560235,
+                            38.401731
+                        ],
+                        [
+                            -81.7071748,
+                            38.401731
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "WV Rep. David McKinley: Energy tech research a key to future https://t.co/P6eAW1meXd @RepMcKinley @wvforward\u2026 https://t.co/9z8nyZjWkP",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://wvpress.org/?p=67904",
+                "url": "https://t.co/P6eAW1meXd"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118899990926172161",
+                "url": "https://t.co/9z8nyZjWkP"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 17 01:47:40 +0000 2012",
+            "default_profile": true,
+            "description": "The West Virginia Press Association is a non-profit trade association representing the daily and weekly #WVNewspapers. #WV #WVPress #HowToReachWV #KnowWV",
+            "favourites_count": 1113,
+            "followers_count": 4748,
+            "friends_count": 969,
+            "geo_enabled": true,
+            "id": 700153740,
+            "id_str": "700153740",
+            "listed_count": 111,
+            "location": "Charleston, WV",
+            "name": "WV Press Association",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/700153740/1423240039",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/563732692525531137/zpKAz3EM_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/563732692525531137/zpKAz3EM_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "WVPress",
+            "statuses_count": 16039,
+            "url": "http://t.co/aO2GV64FGT"
+        },
+        "user_mentions": [
+            {
+                "id": 240427862,
+                "id_str": "240427862",
+                "name": "David B. McKinley",
+                "screen_name": "RepMcKinley"
+            },
+            {
+                "id": 1009445362468302848,
+                "id_str": "1009445362468302848",
+                "name": "WVForward",
+                "screen_name": "WVForward"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @WVPress: WV Rep. David McKinley: Energy tech research a key to future https://t.co/P6eAW1meXd @RepMcKinley @wvforward #knowwv #wvpress\u2026",
+    "urls": [
+        {
+            "expanded_url": "https://wvpress.org/?p=67904",
+            "url": "https://t.co/P6eAW1meXd"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 19 22:29:00 +0000 2011",
+        "description": "Proud to serve the First District of West Virginia in the U.S. House of Representatives. Member of the Energy and Commerce Committee. Staff-run account",
+        "favourites_count": 568,
+        "followers_count": 30398,
+        "friends_count": 1074,
+        "geo_enabled": true,
+        "id": 240427862,
+        "id_str": "240427862",
+        "listed_count": 869,
+        "name": "David B. McKinley",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240427862/1518113770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1128746342518525952/DyT_BdAm_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128746342518525952/DyT_BdAm_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMcKinley",
+        "statuses_count": 5966,
+        "url": "http://t.co/5H1HsbP76e",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 700153740,
+            "id_str": "700153740",
+            "name": "WV Press Association",
+            "screen_name": "WVPress"
+        },
+        {
+            "id": 240427862,
+            "id_str": "240427862",
+            "name": "David B. McKinley",
+            "screen_name": "RepMcKinley"
+        },
+        {
+            "id": 1009445362468302848,
+            "id_str": "1009445362468302848",
+            "name": "WVForward",
+            "screen_name": "WVForward"
+        }
+    ]
+}

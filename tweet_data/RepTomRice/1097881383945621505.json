@@ -1,0 +1,100 @@
+{
+    "created_at": "Tue Feb 19 15:31:34 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1097881383945621505,
+    "id_str": "1097881383945621505",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/3k8dDXFyoG",
+            "expanded_url": "https://twitter.com/RepTomRice/status/1097881383945621505/video/1",
+            "id": 1097881171478958082,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097881171478958082/pu/img/QMLEZhOcKd9AJQDx.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097881171478958082/pu/img/QMLEZhOcKd9AJQDx.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/3k8dDXFyoG",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 109632,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1097881171478958082/pu/vid/1280x720/ljJoOqg6No-icZUa.mp4?tag=6"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1097881171478958082/pu/pl/BDQZWf4q7G10sIaf.m3u8?tag=6"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1097881171478958082/pu/vid/640x360/CkkERYQtiLWRCspo.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1097881171478958082/pu/vid/320x180/EBCrXefVmd-Yc-Qh.mp4?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great kick off to our district work week at Myrtle Beach Middle School this morning! https://t.co/3k8dDXFyoG",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 17:35:05 +0000 2013",
+        "description": "Former CPA and tax lawyer. Proudly representing South Carolina's 7th Congressional District. Find me on FB at https://t.co/1YXogZ4l3N.",
+        "favourites_count": 44,
+        "followers_count": 16151,
+        "friends_count": 409,
+        "id": 1058345042,
+        "id_str": "1058345042",
+        "listed_count": 593,
+        "name": "Congressman Tom Rice",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058345042/1357751553",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3087214605/bd94115eb4cbc13f474eea2d678e6372_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3087214605/bd94115eb4cbc13f474eea2d678e6372_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTomRice",
+        "statuses_count": 1931,
+        "url": "http://t.co/S6o0ATa6",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,136 @@
+{
+    "created_at": "Thu May 23 16:04:52 +0000 2019",
+    "hashtags": [
+        {
+            "text": "PassEthansLaw"
+        }
+    ],
+    "id": 1131591837536460800,
+    "id_str": "1131591837536460800",
+    "lang": "en",
+    "retweet_count": 66,
+    "retweeted_status": {
+        "created_at": "Thu May 23 13:15:40 +0000 2019",
+        "favorite_count": 154,
+        "hashtags": [
+            {
+                "text": "PassEthansLaw"
+            }
+        ],
+        "id": 1131549255838162944,
+        "id_str": "1131549255838162944",
+        "lang": "en",
+        "place": {
+            "id": "e86b380cfefcced5",
+            "url": "https://api.twitter.com/1.1/geo/id/e86b380cfefcced5.json",
+            "place_type": "admin",
+            "name": "Connecticut",
+            "full_name": "Connecticut, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.727776,
+                            40.950918
+                        ],
+                        [
+                            -71.786994,
+                            40.950918
+                        ],
+                        [
+                            -71.786994,
+                            42.050588
+                        ],
+                        [
+                            -73.727776,
+                            42.050588
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 66,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "4.6 million children live in homes with at least one gun that is loaded &amp; unlocked. Congress must #PassEthansLaw to\u2026 https://t.co/GpIvjM7DNT",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131549255838162944",
+                "url": "https://t.co/GpIvjM7DNT"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 04 16:39:21 +0000 2013",
+            "description": "Newtown Action Alliance is a national grassroots grp formed after the shooting at Sandy Hook Elementary School to bring about legislative & cultural change.",
+            "favourites_count": 5107,
+            "followers_count": 31499,
+            "friends_count": 3228,
+            "geo_enabled": true,
+            "id": 1148468052,
+            "id_str": "1148468052",
+            "listed_count": 372,
+            "location": "Sandy Hook, Connecticut ",
+            "name": "Newtown Action",
+            "profile_background_color": "006E3D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1148468052/1360362343",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1138041517896032256/rP-okMQY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138041517896032256/rP-okMQY_normal.jpg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "NewtownAction",
+            "statuses_count": 19855,
+            "url": "https://t.co/VvvH6TguCE",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NewtownAction: 4.6 million children live in homes with at least one gun that is loaded &amp; unlocked. Congress must #PassEthansLaw to prom\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 12 18:36:58 +0000 2009",
+        "default_profile": true,
+        "description": "U.S. Congressman for Rhode Island's Second District",
+        "favourites_count": 2842,
+        "followers_count": 24513,
+        "friends_count": 4606,
+        "geo_enabled": true,
+        "id": 18909919,
+        "id_str": "18909919",
+        "listed_count": 1087,
+        "location": "Warwick, RI and Washington, DC",
+        "name": "Jim Langevin",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18909919/1540749532",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/601406584728748033/7161SuAe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/601406584728748033/7161SuAe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JimLangevin",
+        "statuses_count": 11273,
+        "url": "https://t.co/YIM4FH08Bf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1148468052,
+            "id_str": "1148468052",
+            "name": "Newtown Action",
+            "screen_name": "NewtownAction"
+        }
+    ]
+}

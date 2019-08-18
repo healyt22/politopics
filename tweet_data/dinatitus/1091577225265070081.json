@@ -1,0 +1,118 @@
+{
+    "created_at": "Sat Feb 02 06:01:05 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [
+        {
+            "text": "OnlyInDistrict1"
+        }
+    ],
+    "id": 1091577225265070081,
+    "id_str": "1091577225265070081",
+    "lang": "fr",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/5FDU4B5jFv",
+            "expanded_url": "https://twitter.com/dinatitus/status/1091577225265070081/photo/1",
+            "id": 1091577218294317056,
+            "media_url": "http://pbs.twimg.com/media/DyYPslVXgAAHz4C.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DyYPslVXgAAHz4C.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/5FDU4B5jFv"
+        }
+    ],
+    "place": {
+        "id": "07d9db041d482001",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9db041d482001.json",
+        "place_type": "poi",
+        "name": "Chicago Joe's",
+        "full_name": "Chicago Joe's",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -115.14794592894721,
+                        36.1609796133773
+                    ],
+                    [
+                        -115.14794592894721,
+                        36.1609796133773
+                    ],
+                    [
+                        -115.14794592894721,
+                        36.1609796133773
+                    ],
+                    [
+                        -115.14794592894721,
+                        36.1609796133773
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Apr\u00e8s @SmithCenterLV dinner at an old favorite, Chicago Joe\u2019s #OnlyInDistrict1. https://t.co/5FDU4B5jFv",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 05 20:49:41 +0000 2008",
+        "description": "Representative of Nevada's First District. Tweeting politics, culture & #OnlyInDistrict1.",
+        "favourites_count": 7505,
+        "followers_count": 9040,
+        "friends_count": 1257,
+        "geo_enabled": true,
+        "id": 17907578,
+        "id_str": "17907578",
+        "listed_count": 389,
+        "location": "Fabulous Las Vegas, Nevada",
+        "name": "Dina Titus",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17907578/1485036291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "dinatitus",
+        "statuses_count": 7050,
+        "url": "https://t.co/nJxR59HXbP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 250373093,
+            "id_str": "250373093",
+            "name": "The Smith Center",
+            "screen_name": "SmithCenterLV"
+        }
+    ]
+}

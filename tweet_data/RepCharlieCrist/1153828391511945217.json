@@ -1,0 +1,119 @@
+{
+    "created_at": "Wed Jul 24 00:45:00 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1153828391511945217,
+    "id_str": "1153828391511945217",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 23 15:07:35 +0000 2019",
+        "favorite_count": 57,
+        "hashtags": [
+            {
+                "text": "EqualPay"
+            }
+        ],
+        "id": 1153683080944730112,
+        "id_str": "1153683080944730112",
+        "lang": "en",
+        "retweet_count": 23,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The @USWNT inspired women across the nation to demand no less than what they deserve \u2013 #EqualPay for equal work. It\u2026 https://t.co/s8k04WYtYw",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1153683080944730112",
+                "url": "https://t.co/s8k04WYtYw"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 06 19:20:50 +0000 2009",
+            "description": "Representing California's 6th Congressional District. Member of the @EnergyCommerce Committee.",
+            "favourites_count": 271,
+            "followers_count": 36068,
+            "friends_count": 9186,
+            "geo_enabled": true,
+            "id": 38254095,
+            "id_str": "38254095",
+            "listed_count": 1124,
+            "location": "Sacramento, CA",
+            "name": "Rep. Doris Matsui",
+            "profile_background_color": "D4CCE8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38254095/1559062275",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E4EAED",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DorisMatsui",
+            "statuses_count": 3407,
+            "url": "http://t.co/dt820eUUHc",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 133448051,
+                "id_str": "133448051",
+                "name": "U.S. Soccer WNT",
+                "screen_name": "USWNT"
+            }
+        ]
+    },
+    "quoted_status_id": 1153683080944730112,
+    "quoted_status_id_str": "1153683080944730112",
+    "retweet_count": 1,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Thank you @DorisMatsui &amp; @RosaDelauro for you leadership on this issue and most importantly a BIG thank you to\u2026 https://t.co/xkH69IBrha",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153828391511945217",
+            "url": "https://t.co/xkH69IBrha"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 02 21:16:29 +0000 2017",
+        "default_profile": true,
+        "description": "Representing Florida's 13th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 260,
+        "followers_count": 10687,
+        "friends_count": 333,
+        "geo_enabled": true,
+        "id": 816030424778543104,
+        "id_str": "816030424778543104",
+        "listed_count": 369,
+        "location": "St Petersburg, FL",
+        "name": "Rep. Charlie Crist",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816030424778543104/1490903836",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/821404691007471616/coBO0h0x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/821404691007471616/coBO0h0x_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepCharlieCrist",
+        "statuses_count": 2401,
+        "url": "https://t.co/fTF3LKbrKV",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 38254095,
+            "id_str": "38254095",
+            "name": "Rep. Doris Matsui",
+            "screen_name": "DorisMatsui"
+        },
+        {
+            "id": 140519774,
+            "id_str": "140519774",
+            "name": "Rosa DeLauro",
+            "screen_name": "rosadelauro"
+        }
+    ]
+}

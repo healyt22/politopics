@@ -1,0 +1,103 @@
+{
+    "created_at": "Mon Jul 01 20:09:09 +0000 2019",
+    "favorite_count": 24,
+    "hashtags": [],
+    "id": 1145786438220492800,
+    "id_str": "1145786438220492800",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jun 29 14:30:08 +0000 2019",
+        "favorite_count": 11404,
+        "hashtags": [],
+        "id": 1144976349259603968,
+        "id_str": "1144976349259603968",
+        "lang": "en",
+        "retweet_count": 5366,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Donald Trump Jr., the president\u2019s eldest son, shared another person\u2019s tweet during the Democratic debate this week\u2026 https://t.co/WSZnO0qBfJ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1144976349259603968",
+                "url": "https://t.co/WSZnO0qBfJ"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+            "description": "News tips? Share them here: https://t.co/ghL9OoYKMM\n\n\"The Weekly\" is our new TV series. Episodes air Sundays at 10 p.m. on FX and on Hulu the next day.",
+            "favourites_count": 18383,
+            "followers_count": 43916167,
+            "friends_count": 896,
+            "id": 807095,
+            "id_str": "807095",
+            "listed_count": 200312,
+            "location": "New York City",
+            "name": "The New York Times",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1564166986",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+            "profile_link_color": "607696",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nytimes",
+            "statuses_count": 368775,
+            "url": "http://t.co/ahvuWqicF9",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1144976349259603968,
+    "quoted_status_id_str": "1144976349259603968",
+    "retweet_count": 9,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "PUH-LEASE. Attacking a Black woman--@SenKamalaHarris--in this way is both RACIST and HYPOCRITICAL, coming from the\u2026 https://t.co/Z4bYUnlsrK",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1145786438220492800",
+            "url": "https://t.co/Z4bYUnlsrK"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 20 20:14:21 +0000 2011",
+        "default_profile": true,
+        "description": "Representing New York\u2019s 9th Congressional District. Brooklyn bred. Vice Chair of @EnergyCommerce // press: sarah.sinovic@mail.house.gov",
+        "favourites_count": 7493,
+        "followers_count": 62114,
+        "friends_count": 3852,
+        "geo_enabled": true,
+        "id": 240812994,
+        "id_str": "240812994",
+        "listed_count": 1469,
+        "location": "Brooklyn, NY",
+        "name": "Yvette D. Clarke",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240812994/1554211887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999351152129884162/a1p9rErQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/999351152129884162/a1p9rErQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepYvetteClarke",
+        "statuses_count": 12470,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 803694179079458816,
+            "id_str": "803694179079458816",
+            "name": "Kamala Harris",
+            "screen_name": "SenKamalaHarris"
+        }
+    ]
+}

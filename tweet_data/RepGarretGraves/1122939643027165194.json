@@ -1,0 +1,125 @@
+{
+    "created_at": "Mon Apr 29 19:04:08 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1122939643027165194,
+    "id_str": "1122939643027165194",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Apr 26 20:07:31 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1121868428560805888,
+        "id_str": "1121868428560805888",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KW0zLGFmKw",
+                "expanded_url": "https://twitter.com/StemMagnetofPC/status/1121868428560805888/photo/1",
+                "id": 1121868419748519936,
+                "media_url": "http://pbs.twimg.com/media/D5GtYkPW4AAIGeN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D5GtYkPW4AAIGeN.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/KW0zLGFmKw"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Perhaps this is the group that will fix the BR traffic problem @garretgraves https://t.co/KW0zLGFmKw",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Oct 31 01:47:00 +0000 2018",
+            "default_profile": true,
+            "description": "Official Twitter of Stem Magnet Academy of Pointe Coupee Parish\ud83d\udc9c\ud83e\udde1",
+            "favourites_count": 2,
+            "followers_count": 40,
+            "friends_count": 38,
+            "id": 1057448823331741696,
+            "id_str": "1057448823331741696",
+            "name": "Stem Magnet Academy of Pointe Coupee Parish",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1057448823331741696/1540950921",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1057449379240599557/o_EX5s7g_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057449379240599557/o_EX5s7g_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "StemMagnetofPC",
+            "statuses_count": 31,
+            "url": "https://t.co/8WiqjVqBwt"
+        },
+        "user_mentions": [
+            {
+                "id": 587100576,
+                "id_str": "587100576",
+                "name": "Garret Graves",
+                "screen_name": "garretgraves"
+            }
+        ]
+    },
+    "quoted_status_id": 1121868428560805888,
+    "quoted_status_id_str": "1121868428560805888",
+    "retweet_count": 2,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Congrats to the students at STEM Magnet Academy of Pointe Coupee who are finalists in a national bridge design comp\u2026 https://t.co/PhUmqqZfjP",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1122939643027165194",
+            "url": "https://t.co/PhUmqqZfjP"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Dec 30 17:51:24 +0000 2014",
+        "default_profile": true,
+        "description": "Official Twitter Page of Congressman Garret Graves (LA06)",
+        "favourites_count": 311,
+        "followers_count": 12180,
+        "friends_count": 1115,
+        "geo_enabled": true,
+        "id": 2951574214,
+        "id_str": "2951574214",
+        "listed_count": 383,
+        "location": "Follow us on Facebook: ",
+        "name": "Rep. Garret Graves",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951574214/1421440830",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553292029963145216/lzwyCMoA_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553292029963145216/lzwyCMoA_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGarretGraves",
+        "statuses_count": 3574,
+        "url": "https://t.co/glkM2IIXms",
+        "verified": true
+    },
+    "user_mentions": []
+}

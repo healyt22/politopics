@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 17 00:58:33 +0000 2019",
+    "favorite_count": 189,
+    "hashtags": [],
+    "id": 1151295089207062530,
+    "id_str": "1151295089207062530",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Tue Jul 16 23:09:20 +0000 2019",
+        "favorite_count": 693,
+        "hashtags": [],
+        "id": 1151267602565685248,
+        "id_str": "1151267602565685248",
+        "lang": "en",
+        "retweet_count": 192,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "WATCH: House passes resolution condemning Trump's racist tweets. https://t.co/0TX3wpsweo",
+        "urls": [
+            {
+                "expanded_url": "https://on.msnbc.com/2XPHT1z",
+                "url": "https://t.co/0TX3wpsweo"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 29 13:15:41 +0000 2007",
+            "description": "The place for in-depth analysis, political commentary and informed perspectives.",
+            "favourites_count": 697,
+            "followers_count": 2605483,
+            "friends_count": 645,
+            "geo_enabled": true,
+            "id": 2836421,
+            "id_str": "2836421",
+            "listed_count": 22787,
+            "name": "MSNBC",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836421/1562086301",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+            "profile_link_color": "0CB1C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "MSNBC",
+            "statuses_count": 175022,
+            "url": "https://t.co/5TAF6ijWwt",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1151267602565685248,
+    "quoted_status_id_str": "1151267602565685248",
+    "retweet_count": 44,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Today the House resolutely declared that, contrary to the President\u2019s comments, we believe immigrants have made Ame\u2026 https://t.co/VxXErSQpoH",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151295089207062530",
+            "url": "https://t.co/VxXErSQpoH"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Dec 08 17:00:41 +0000 2016",
+        "description": "Proudly serving MD's 8th District. Member of: @rulesdemocrats | @housejudiciary | @oversightdems | @houseadm_dems. https://t.co/EkyEyszJWc",
+        "favourites_count": 10167,
+        "followers_count": 62431,
+        "friends_count": 4613,
+        "geo_enabled": true,
+        "id": 806906355214852096,
+        "id_str": "806906355214852096",
+        "listed_count": 948,
+        "location": "Maryland's 8th District",
+        "name": "Rep. Jamie Raskin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/806906355214852096/1521810245",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096425621528432640/xjSVVXNB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096425621528432640/xjSVVXNB_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRaskin",
+        "statuses_count": 6514,
+        "url": "https://t.co/bo0IGrClrq",
+        "verified": true
+    },
+    "user_mentions": []
+}

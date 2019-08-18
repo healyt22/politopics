@@ -1,0 +1,111 @@
+{
+    "created_at": "Wed May 22 14:57:10 +0000 2019",
+    "hashtags": [],
+    "id": 1131212412449959940,
+    "id_str": "1131212412449959940",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed May 22 14:49:13 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1131210410437292033,
+        "id_str": "1131210410437292033",
+        "in_reply_to_screen_name": "emilylhauser",
+        "in_reply_to_status_id": 1131208951834513408,
+        "in_reply_to_user_id": 106228835,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Just spoke to a v helpful @RepDannyDavis staffer who told me they've already received a few calls urging the Congre\u2026 https://t.co/N1ffqMvsAo",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131210410437292033",
+                "url": "https://t.co/N1ffqMvsAo"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 18 22:22:42 +0000 2010",
+            "description": "I write - hire me! @chicagotribune @TheDailyBeast @TheWeek @TheAtlantic @haaretz etc. Librarian. Pretty geeky. Made up my mind & I won't turn around. (She/her)",
+            "favourites_count": 31496,
+            "followers_count": 15188,
+            "friends_count": 1748,
+            "id": 106228835,
+            "id_str": "106228835",
+            "listed_count": 602,
+            "location": "outside Chicago",
+            "name": "Emily L. Hauser",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/106228835/1484165558",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1133005094197313538/PpITTxEW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133005094197313538/PpITTxEW_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "emilylhauser",
+            "statuses_count": 162524,
+            "url": "https://t.co/X206i4ogGK",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 789244177,
+                "id_str": "789244177",
+                "name": "Rep. Danny K. Davis",
+                "screen_name": "RepDannyDavis"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @emilylhauser: Just spoke to a v helpful @RepDannyDavis staffer who told me they've already received a few calls urging the Congressman\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Aug 29 12:31:09 +0000 2012",
+        "description": "\u201cThe People\u2019s Congressman\u201d US House Representative for Illinois' 7th District. Serving on the 116th Congress Committee on Ways and Means.",
+        "favourites_count": 390,
+        "followers_count": 12615,
+        "friends_count": 356,
+        "geo_enabled": true,
+        "id": 789244177,
+        "id_str": "789244177",
+        "listed_count": 625,
+        "location": "Chicago, IL",
+        "name": "Rep. Danny K. Davis",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/789244177/1421861843",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3401719858/fcb6d46529b4a43ccc07c296062ddb19_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3401719858/fcb6d46529b4a43ccc07c296062ddb19_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDannyDavis",
+        "statuses_count": 2083,
+        "url": "https://t.co/N9drWjh1kd",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 106228835,
+            "id_str": "106228835",
+            "name": "Emily L. Hauser",
+            "screen_name": "emilylhauser"
+        },
+        {
+            "id": 789244177,
+            "id_str": "789244177",
+            "name": "Rep. Danny K. Davis",
+            "screen_name": "RepDannyDavis"
+        }
+    ]
+}

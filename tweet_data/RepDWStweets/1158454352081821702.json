@@ -1,0 +1,125 @@
+{
+    "created_at": "Mon Aug 05 19:06:55 +0000 2019",
+    "hashtags": [],
+    "id": 1158454352081821702,
+    "id_str": "1158454352081821702",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Mon Aug 05 18:48:37 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1158449749147693056,
+        "id_str": "1158449749147693056",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "\"The blood is on your hands,\" @RepDWStweets says about @realDonaldTrump.\nMore, from interview: https://t.co/OGNdCFDOXc",
+        "urls": [
+            {
+                "expanded_url": "https://bit.ly/2ODfSuX",
+                "url": "https://t.co/OGNdCFDOXc"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 07 16:13:38 +0000 2009",
+            "default_profile": true,
+            "description": "Anthony Man is the political writer at the South Florida Sun Sentinel. Email: aman [at] https://t.co/HJblLLv29d",
+            "favourites_count": 756,
+            "followers_count": 10246,
+            "friends_count": 1438,
+            "geo_enabled": true,
+            "id": 20317002,
+            "id_str": "20317002",
+            "listed_count": 320,
+            "location": "Fort Lauderdale, FL",
+            "name": "Anthony Man",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20317002/1420563322",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/840279749062737920/0JdleNPi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/840279749062737920/0JdleNPi_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "browardpolitics",
+            "statuses_count": 22678,
+            "url": "https://t.co/vbHECIYfhs",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1140648348,
+                "id_str": "1140648348",
+                "name": "Rep. Debbie Wasserman Schultz",
+                "screen_name": "RepDWStweets"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @browardpolitics: \"The blood is on your hands,\" @RepDWStweets says about @realDonaldTrump.\nMore, from interview: https://t.co/OGNdCFDOXc",
+    "urls": [
+        {
+            "expanded_url": "https://bit.ly/2ODfSuX",
+            "url": "https://t.co/OGNdCFDOXc"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Feb 01 20:31:25 +0000 2013",
+        "default_profile": true,
+        "description": "U.S. Congresswoman proudly representing the people of Florida's 23rd District in our nation's capital.",
+        "favourites_count": 333,
+        "followers_count": 14428,
+        "friends_count": 2282,
+        "geo_enabled": true,
+        "id": 1140648348,
+        "id_str": "1140648348",
+        "listed_count": 580,
+        "location": "Weston & Washington",
+        "name": "Rep. Debbie Wasserman Schultz",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140648348/1524856273",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096410556469256193/EAJqWXYr_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096410556469256193/EAJqWXYr_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDWStweets",
+        "statuses_count": 4400,
+        "url": "http://t.co/L7PfQxOrER",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 20317002,
+            "id_str": "20317002",
+            "name": "Anthony Man",
+            "screen_name": "browardpolitics"
+        },
+        {
+            "id": 1140648348,
+            "id_str": "1140648348",
+            "name": "Rep. Debbie Wasserman Schultz",
+            "screen_name": "RepDWStweets"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

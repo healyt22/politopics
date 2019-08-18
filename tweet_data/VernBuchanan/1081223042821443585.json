@@ -1,0 +1,131 @@
+{
+    "created_at": "Fri Jan 04 16:17:16 +0000 2019",
+    "hashtags": [],
+    "id": 1081223042821443585,
+    "id_str": "1081223042821443585",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Fri Jan 04 15:00:28 +0000 2019",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 1081203714998837248,
+        "id_str": "1081203714998837248",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": ".@marcorubio, @VernBuchanan, @RepAlLawsonJr unveil Defending Domestic Produce Production Act to fend off Mexican ag\u2026 https://t.co/dPmMXXhYKw",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1081203714998837248",
+                "url": "https://t.co/dPmMXXhYKw"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 02 18:10:49 +0000 2010",
+            "description": "The right source for breaking news and thoughtful commentary on the latest happenings in Florida politics, government and business.",
+            "favourites_count": 2,
+            "followers_count": 8838,
+            "friends_count": 348,
+            "geo_enabled": true,
+            "id": 119110363,
+            "id_str": "119110363",
+            "listed_count": 363,
+            "location": "Tallahassee, Florida",
+            "name": "Sunshine State News",
+            "profile_background_color": "F6F6F6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/119110363/1490968913",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/885507379483164674/dTPDk_2N_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/885507379483164674/dTPDk_2N_normal.jpg",
+            "profile_link_color": "177EC8",
+            "profile_sidebar_border_color": "177EC8",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SSNAlerts",
+            "statuses_count": 25691,
+            "url": "http://t.co/2N3VhDXl6H"
+        },
+        "user_mentions": [
+            {
+                "id": 15745368,
+                "id_str": "15745368",
+                "name": "Marco Rubio",
+                "screen_name": "marcorubio"
+            },
+            {
+                "id": 20467163,
+                "id_str": "20467163",
+                "name": "Rep. Vern Buchanan",
+                "screen_name": "VernBuchanan"
+            },
+            {
+                "id": 818472418620608512,
+                "id_str": "818472418620608512",
+                "name": "US Rep. Al Lawson Jr",
+                "screen_name": "RepAlLawsonJr"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SSNAlerts: .@marcorubio, @VernBuchanan, @RepAlLawsonJr unveil Defending Domestic Produce Production Act to fend off Mexican agriculture\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Feb 09 21:05:19 +0000 2009",
+        "description": "U.S. Congressman",
+        "favourites_count": 42,
+        "followers_count": 29209,
+        "friends_count": 10429,
+        "geo_enabled": true,
+        "id": 20467163,
+        "id_str": "20467163",
+        "listed_count": 1384,
+        "location": "Florida's 16th District",
+        "name": "Rep. Vern Buchanan",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20467163/1423601951",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+        "profile_link_color": "000AB4",
+        "profile_sidebar_border_color": "050505",
+        "profile_sidebar_fill_color": "D4C8C8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "VernBuchanan",
+        "statuses_count": 2667,
+        "url": "http://t.co/Uq79SDySq2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 119110363,
+            "id_str": "119110363",
+            "name": "Sunshine State News",
+            "screen_name": "SSNAlerts"
+        },
+        {
+            "id": 15745368,
+            "id_str": "15745368",
+            "name": "Marco Rubio",
+            "screen_name": "marcorubio"
+        },
+        {
+            "id": 20467163,
+            "id_str": "20467163",
+            "name": "Rep. Vern Buchanan",
+            "screen_name": "VernBuchanan"
+        },
+        {
+            "id": 818472418620608512,
+            "id_str": "818472418620608512",
+            "name": "US Rep. Al Lawson Jr",
+            "screen_name": "RepAlLawsonJr"
+        }
+    ]
+}

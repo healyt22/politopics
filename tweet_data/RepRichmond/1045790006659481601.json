@@ -1,0 +1,152 @@
+{
+    "created_at": "Fri Sep 28 21:39:02 +0000 2018",
+    "hashtags": [],
+    "id": 1045790006659481601,
+    "id_str": "1045790006659481601",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Thu Sep 27 14:28:33 +0000 2018",
+        "favorite_count": 23,
+        "hashtags": [],
+        "id": 1045319283939659776,
+        "id_str": "1045319283939659776",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "In strategic partnership with @BlackwomensRJ, @WWAVinc  meets with Congressman Cedric Richmond. Here, our Executive\u2026 https://t.co/XBFM8sJcOH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1045319283939659776",
+                "url": "https://t.co/XBFM8sJcOH"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 11 17:36:30 +0000 2012",
+            "description": "Harm Reduction, Health Promotion, Reproductive Justice Policy Initiatives: WWAV is a women-centered, trans-inclusive organization.",
+            "favourites_count": 1003,
+            "followers_count": 3855,
+            "friends_count": 789,
+            "geo_enabled": true,
+            "id": 605682003,
+            "id_str": "605682003",
+            "listed_count": 134,
+            "location": "New Orleans, LA",
+            "name": "Women With A Vision",
+            "profile_background_color": "E0D7DF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/605682003/1561661503",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/952135704649355264/NWV0Op7L_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/952135704649355264/NWV0Op7L_normal.jpg",
+            "profile_link_color": "0C0CF2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "WWAVinc",
+            "statuses_count": 13915,
+            "url": "https://t.co/vQeUDQD8B9"
+        },
+        "user_mentions": [
+            {
+                "id": 122125066,
+                "id_str": "122125066",
+                "name": "In Our Own Voice",
+                "screen_name": "BlackWomensRJ"
+            },
+            {
+                "id": 605682003,
+                "id_str": "605682003",
+                "name": "Women With A Vision",
+                "screen_name": "WWAVinc"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @WWAVinc: In strategic partnership with @BlackwomensRJ, @WWAVinc  meets with Congressman Cedric Richmond. Here, our Executive Director,\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 17 17:30:45 +0000 2011",
+        "description": "Representing the 2nd Congressional District of Louisiana and the Who Dat Nation. House Democratic Assistant to the Majority Whip. Instagram: @repcedric",
+        "favourites_count": 788,
+        "followers_count": 29399,
+        "friends_count": 873,
+        "id": 267854863,
+        "id_str": "267854863",
+        "listed_count": 1024,
+        "name": "Rep Cedric Richmond",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267854863/1467299086",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839888450597834752/5-yqcIpy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839888450597834752/5-yqcIpy_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRichmond",
+        "statuses_count": 2517,
+        "url": "https://t.co/pacN0v0wSJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 605682003,
+            "id_str": "605682003",
+            "name": "Women With A Vision",
+            "screen_name": "WWAVinc"
+        },
+        {
+            "id": 122125066,
+            "id_str": "122125066",
+            "name": "In Our Own Voice",
+            "screen_name": "BlackWomensRJ"
+        },
+        {
+            "id": 605682003,
+            "id_str": "605682003",
+            "name": "Women With A Vision",
+            "screen_name": "WWAVinc"
+        }
+    ]
+}

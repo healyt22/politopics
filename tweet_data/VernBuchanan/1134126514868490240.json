@@ -1,0 +1,123 @@
+{
+    "created_at": "Thu May 30 15:56:46 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [
+        {
+            "text": "Canada"
+        },
+        {
+            "text": "USMCA"
+        }
+    ],
+    "id": 1134126514868490240,
+    "id_str": "1134126514868490240",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu May 30 14:21:52 +0000 2019",
+        "favorite_count": 4995,
+        "hashtags": [],
+        "id": 1134102630861611008,
+        "id_str": "1134102630861611008",
+        "lang": "en",
+        "retweet_count": 937,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Heading to Ottawa, Canada with @SecondLady for critical trade meetings with Prime Minister @JustinTrudeau. The\u2026 https://t.co/DZqtlbx3NM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1134102630861611008",
+                "url": "https://t.co/DZqtlbx3NM"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 10 20:02:44 +0000 2017",
+            "default_profile": true,
+            "description": "Vice President Mike Pence. Husband, father, & honored to serve as the 48th Vice President of the United States. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+            "favourites_count": 16,
+            "followers_count": 7748114,
+            "friends_count": 13,
+            "geo_enabled": true,
+            "id": 818910970567344128,
+            "id_str": "818910970567344128",
+            "listed_count": 9411,
+            "location": "Washington, D.C.",
+            "name": "Vice President Mike Pence",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/818910970567344128/1559336634",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "VP",
+            "statuses_count": 7020,
+            "url": "https://t.co/8TGZjBkuaR",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 822127086194348032,
+                "id_str": "822127086194348032",
+                "name": "Second Lady Karen Pence",
+                "screen_name": "SecondLady"
+            },
+            {
+                "id": 14260960,
+                "id_str": "14260960",
+                "name": "Justin Trudeau",
+                "screen_name": "JustinTrudeau"
+            }
+        ]
+    },
+    "quoted_status_id": 1134102630861611008,
+    "quoted_status_id_str": "1134102630861611008",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I applaud @VP Pence\u2019s efforts in #Canada to get #USMCA across the finish line. There is too much at stake: U.S. tra\u2026 https://t.co/X87v7QasvW",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1134126514868490240",
+            "url": "https://t.co/X87v7QasvW"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 09 21:05:19 +0000 2009",
+        "description": "U.S. Congressman",
+        "favourites_count": 42,
+        "followers_count": 29245,
+        "friends_count": 10407,
+        "geo_enabled": true,
+        "id": 20467163,
+        "id_str": "20467163",
+        "listed_count": 1384,
+        "location": "Florida's 16th District",
+        "name": "Rep. Vern Buchanan",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20467163/1423601951",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+        "profile_link_color": "000AB4",
+        "profile_sidebar_border_color": "050505",
+        "profile_sidebar_fill_color": "D4C8C8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "VernBuchanan",
+        "statuses_count": 2677,
+        "url": "http://t.co/Uq79SDySq2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 818910970567344128,
+            "id_str": "818910970567344128",
+            "name": "Vice President Mike Pence",
+            "screen_name": "VP"
+        }
+    ]
+}

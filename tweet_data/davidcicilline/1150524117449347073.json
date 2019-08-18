@@ -1,0 +1,159 @@
+{
+    "created_at": "Sun Jul 14 21:54:59 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Veteran"
+        }
+    ],
+    "id": 1150524117449347073,
+    "id_str": "1150524117449347073",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sun Jul 14 16:14:16 +0000 2019",
+        "favorite_count": 17,
+        "hashtags": [
+            {
+                "text": "Veteran"
+            }
+        ],
+        "id": 1150438370830704641,
+        "id_str": "1150438370830704641",
+        "lang": "en",
+        "place": {
+            "id": "47623c4cf6ca7957",
+            "url": "https://api.twitter.com/1.1/geo/id/47623c4cf6ca7957.json",
+            "place_type": "city",
+            "name": "Pawtucket",
+            "full_name": "Pawtucket, RI",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.422117,
+                            41.856092
+                        ],
+                        [
+                            -71.333899,
+                            41.856092
+                        ],
+                        [
+                            -71.333899,
+                            41.8984
+                        ],
+                        [
+                            -71.422117,
+                            41.8984
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Great showing at Congressman @davidcicilline #Veteran event in @CityofPawtucket Slater Park. Sharing information en\u2026 https://t.co/mNuuhDDWC0",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150438370830704641",
+                "url": "https://t.co/mNuuhDDWC0"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 15 17:33:42 +0000 2015",
+            "default_profile": true,
+            "description": "The Rhode Island Office of Healthy Aging empowers older adults & those with disabilities to age healthfully & happily. (Formerly known as RIDEA-Elderly Affairs)",
+            "favourites_count": 759,
+            "followers_count": 665,
+            "friends_count": 192,
+            "geo_enabled": true,
+            "id": 3666198016,
+            "id_str": "3666198016",
+            "listed_count": 25,
+            "location": "Cranston, RI",
+            "name": "R.I. Office of Healthy Aging",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3666198016/1561992716",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145707030730223616/GiTk-kql_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145707030730223616/GiTk-kql_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HealthyAgingRI",
+            "statuses_count": 2483,
+            "url": "https://t.co/h0nxWTP7UU"
+        },
+        "user_mentions": [
+            {
+                "id": 23593446,
+                "id_str": "23593446",
+                "name": "David Cicilline",
+                "screen_name": "davidcicilline"
+            },
+            {
+                "id": 241227847,
+                "id_str": "241227847",
+                "name": "City of Pawtucket RI",
+                "screen_name": "CityofPawtucket"
+            }
+        ]
+    },
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "text": "RT @HealthyAgingRI: Great showing at Congressman @davidcicilline #Veteran event in @CityofPawtucket Slater Park. Sharing information enable\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Mar 10 13:53:21 +0000 2009",
+        "description": "Congressman for Rhode Island\u2019s 1st District.   DPCC Chair.  Antitrust Subcommittee Chairman. #ForThePeople",
+        "favourites_count": 2666,
+        "followers_count": 92435,
+        "friends_count": 4807,
+        "geo_enabled": true,
+        "id": 23593446,
+        "id_str": "23593446",
+        "listed_count": 1533,
+        "name": "David Cicilline",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23593446/1533056627",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960354458365554694/gaOJMfBF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960354458365554694/gaOJMfBF_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "davidcicilline",
+        "statuses_count": 19206,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3666198016,
+            "id_str": "3666198016",
+            "name": "R.I. Office of Healthy Aging",
+            "screen_name": "HealthyAgingRI"
+        },
+        {
+            "id": 23593446,
+            "id_str": "23593446",
+            "name": "David Cicilline",
+            "screen_name": "davidcicilline"
+        },
+        {
+            "id": 241227847,
+            "id_str": "241227847",
+            "name": "City of Pawtucket RI",
+            "screen_name": "CityofPawtucket"
+        }
+    ]
+}

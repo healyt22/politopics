@@ -1,0 +1,126 @@
+{
+    "created_at": "Fri Aug 03 15:33:21 +0000 2018",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1025404259205111808,
+    "id_str": "1025404259205111808",
+    "lang": "und",
+    "quoted_status": {
+        "created_at": "Thu Aug 02 20:47:08 +0000 2018",
+        "favorite_count": 37,
+        "hashtags": [],
+        "id": 1025120838201344000,
+        "id_str": "1025120838201344000",
+        "lang": "en",
+        "place": {
+            "id": "07d9c976ad080002",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c976ad080002.json",
+            "place_type": "poi",
+            "name": "Angelo State University",
+            "full_name": "Angelo State University",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -100.45993530254363,
+                            31.439836419890565
+                        ],
+                        [
+                            -100.45993530254363,
+                            31.439836419890565
+                        ],
+                        [
+                            -100.45993530254363,
+                            31.439836419890565
+                        ],
+                        [
+                            -100.45993530254363,
+                            31.439836419890565
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Closing out another successful West Texas Legislative Summit with Congressman Mike Conaway and Senator Charles Perr\u2026 https://t.co/xwmpYKoKsq",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1025120838201344000",
+                "url": "https://t.co/xwmpYKoKsq"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 25 17:15:33 +0000 2013",
+            "default_profile": true,
+            "description": "State Representative serving Coke, Concho, Glasscock, Howard, Irion, Reagan, Runnels, Sterling, & Tom Green Counties",
+            "favourites_count": 1131,
+            "followers_count": 4011,
+            "friends_count": 428,
+            "geo_enabled": true,
+            "id": 1546246813,
+            "id_str": "1546246813",
+            "listed_count": 107,
+            "name": "Drew Darby",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546246813/1533214929",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000045656461/cf1155418f13d9a469a8cc1e6c64470d_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000045656461/cf1155418f13d9a469a8cc1e6c64470d_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "drewdarby4Tx",
+            "statuses_count": 809,
+            "url": "https://t.co/5QSb0iqsJL"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1025120838201344000,
+    "quoted_status_id_str": "1025120838201344000",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb https://t.co/ANmypnJdhz",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/drewdarby4Tx/status/1025120838201344000",
+            "url": "https://t.co/ANmypnJdhz"
+        }
+    ],
+    "user": {
+        "created_at": "Mon May 09 13:56:50 +0000 2011",
+        "description": "Proud to serve the 11th Congressional District of Texas. Ranking Member of @HouseAgGOP, member of @HASCRepublicans & #HPSCI.",
+        "favourites_count": 160,
+        "followers_count": 21661,
+        "friends_count": 1422,
+        "geo_enabled": true,
+        "id": 295685416,
+        "id_str": "295685416",
+        "listed_count": 824,
+        "name": "Mike Conaway",
+        "profile_background_color": "F0F3F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/295685416/1517244708",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1021419293676908544/8ETWjoht_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021419293676908544/8ETWjoht_normal.jpg",
+        "profile_link_color": "080808",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "ConawayTX11",
+        "statuses_count": 1001,
+        "url": "https://t.co/cm0zGBQaLP",
+        "verified": true
+    },
+    "user_mentions": []
+}

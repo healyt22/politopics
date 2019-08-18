@@ -1,0 +1,144 @@
+{
+    "created_at": "Mon May 06 19:35:10 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1125484166685044737,
+    "id_str": "1125484166685044737",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon May 06 19:12:23 +0000 2019",
+        "favorite_count": 17,
+        "hashtags": [],
+        "id": 1125478434002690050,
+        "id_str": "1125478434002690050",
+        "lang": "en",
+        "place": {
+            "id": "c0b8e8dc81930292",
+            "url": "https://api.twitter.com/1.1/geo/id/c0b8e8dc81930292.json",
+            "place_type": "city",
+            "name": "Baltimore",
+            "full_name": "Baltimore, MD",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.7115205,
+                            39.197211
+                        ],
+                        [
+                            -76.529443,
+                            39.197211
+                        ],
+                        [
+                            -76.529443,
+                            39.372215
+                        ],
+                        [
+                            -76.7115205,
+                            39.372215
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status_id": 1125431609706942464,
+        "quoted_status_id_str": "1125431609706942464",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "America......do you want to REALLY hear why Congresswoman @RepLucyMcBath was elected!? \n\nJoin us this Wednesday in\u2026 https://t.co/fn3GAAnbYk",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1125478434002690050",
+                "url": "https://t.co/fn3GAAnbYk"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Mar 23 16:20:26 +0000 2013",
+            "description": "Trauma Surgeon @hopkinsmedicine #GunViolence Survivor, Board Member Brady Campaign @bradybuzz,  Founder @docsdemand @ThisIsOurLane #ShareAGunViolenceStory",
+            "favourites_count": 12921,
+            "followers_count": 48121,
+            "friends_count": 5321,
+            "geo_enabled": true,
+            "id": 1291868311,
+            "id_str": "1291868311",
+            "listed_count": 173,
+            "location": "Fairfax Station, VA",
+            "name": "Joseph Sakran",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291868311/1561757013",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1136943037236596736/gm6wNZLF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136943037236596736/gm6wNZLF_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JosephSakran",
+            "statuses_count": 12061,
+            "url": "https://t.co/z9xM0rBnnU",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1082380458976051202,
+                "id_str": "1082380458976051202",
+                "name": "Rep. Lucy McBath",
+                "screen_name": "RepLucyMcBath"
+            }
+        ]
+    },
+    "quoted_status_id": 1125478434002690050,
+    "quoted_status_id_str": "1125478434002690050",
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Couldn\u2019t be more honored to have Dr. Sakran and @RepLucyMcBath at my gun violence prevention forum.\n\nJoin us from 7\u2026 https://t.co/8zw8HXTFhp",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1125484166685044737",
+            "url": "https://t.co/8zw8HXTFhp"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 21:15:37 +0000 2019",
+        "default_profile": true,
+        "description": "Congressman representing the 6th District of Maryland. Husband, Father, Business Owner.",
+        "favourites_count": 149,
+        "followers_count": 6366,
+        "friends_count": 854,
+        "id": 1080573351914061825,
+        "id_str": "1080573351914061825",
+        "listed_count": 1,
+        "location": "Maryland\u2019s 6th District",
+        "name": "Rep. David Trone",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080573351914061825/1546536501",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDavidTrone",
+        "statuses_count": 459,
+        "url": "https://t.co/YsuCO1X7X4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1082380458976051202,
+            "id_str": "1082380458976051202",
+            "name": "Rep. Lucy McBath",
+            "screen_name": "RepLucyMcBath"
+        }
+    ]
+}

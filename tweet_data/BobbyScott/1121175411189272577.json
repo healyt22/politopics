@@ -1,0 +1,87 @@
+{
+    "created_at": "Wed Apr 24 22:13:43 +0000 2019",
+    "favorite_count": 23,
+    "hashtags": [],
+    "id": 1121175411189272577,
+    "id_str": "1121175411189272577",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/mIHqIe7Zbg",
+            "expanded_url": "https://twitter.com/BobbyScott/status/1121175411189272577/photo/1",
+            "id": 1121175405602443266,
+            "media_url": "http://pbs.twimg.com/media/D483F1XWkAIESLw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D483F1XWkAIESLw.jpg",
+            "sizes": {
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/mIHqIe7Zbg"
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "It was great to have Delegate James and @SLMillaci at my Town Hall at @GoCHSTruckers in Portsmouth last night. https://t.co/mIHqIe7Zbg",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 01 19:57:00 +0000 2010",
+        "description": "Proudly representing Virginia's 3rd Congressional District. Chairman, Committee on Education and Labor @EdLaborCmte.",
+        "favourites_count": 1054,
+        "followers_count": 34491,
+        "friends_count": 2969,
+        "geo_enabled": true,
+        "id": 161791703,
+        "id_str": "161791703",
+        "listed_count": 1178,
+        "location": "Newport News, VA",
+        "name": "Rep. Bobby Scott",
+        "profile_background_color": "244055",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/161791703/1504616852",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741365169926905856/NjQFTLYl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741365169926905856/NjQFTLYl_normal.jpg",
+        "profile_link_color": "575757",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D3D3E0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "BobbyScott",
+        "statuses_count": 5864,
+        "url": "https://t.co/gWMFDglGRu",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 936614297299574790,
+            "id_str": "936614297299574790",
+            "name": "Mr. Shawn L. Millaci",
+            "screen_name": "SLMillaci"
+        },
+        {
+            "id": 730047691896586240,
+            "id_str": "730047691896586240",
+            "name": "Churchland High",
+            "screen_name": "GoCHSTruckers"
+        }
+    ]
+}

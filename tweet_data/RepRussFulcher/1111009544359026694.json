@@ -1,0 +1,121 @@
+{
+    "created_at": "Wed Mar 27 20:58:11 +0000 2019",
+    "hashtags": [],
+    "id": 1111009544359026694,
+    "id_str": "1111009544359026694",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed Mar 27 18:56:29 +0000 2019",
+        "favorite_count": 26,
+        "hashtags": [],
+        "id": 1110978918515961856,
+        "id_str": "1110978918515961856",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to @RepRussFulcher and staff for meeting with me to discuss NSF funding and research in Idaho! @UIdahoCNR\u2026 https://t.co/HkklvRXd35",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1110978918515961856",
+                "url": "https://t.co/HkklvRXd35"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jan 15 19:48:16 +0000 2012",
+            "description": "@uidaho PhD Candidate, @uwmadison alum. aspiring ecosystem ecologist studying \ud83c\udf32\ud83d\udd25& climate change. typical hiker, runner, & lover of mountains.",
+            "favourites_count": 262,
+            "followers_count": 99,
+            "friends_count": 206,
+            "geo_enabled": true,
+            "id": 464936533,
+            "id_str": "464936533",
+            "location": "Moscow, ID",
+            "name": "Kristina Bartowitz",
+            "profile_background_color": "30DBBF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/464936533/1505334378",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1016757519358705664/xlzEG2NB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016757519358705664/xlzEG2NB_normal.jpg",
+            "profile_link_color": "40B87A",
+            "profile_sidebar_border_color": "E6BDE6",
+            "profile_sidebar_fill_color": "E0C9E0",
+            "profile_text_color": "423742",
+            "profile_use_background_image": true,
+            "screen_name": "kribartowitz",
+            "statuses_count": 64
+        },
+        "user_mentions": [
+            {
+                "id": 1078741899572240384,
+                "id_str": "1078741899572240384",
+                "name": "Rep. Russ Fulcher",
+                "screen_name": "RepRussFulcher"
+            },
+            {
+                "id": 902515674,
+                "id_str": "902515674",
+                "name": "U-Idaho CNR",
+                "screen_name": "UIdahoCNR"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @kribartowitz: Thanks to @RepRussFulcher and staff for meeting with me to discuss NSF funding and research in Idaho! @UIdahoCNR @uidaho\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 28 19:58:05 +0000 2018",
+        "default_profile": true,
+        "description": "The Official Account of Idaho's First District Congressman Russ Fulcher. #ID01",
+        "favourites_count": 172,
+        "followers_count": 1980,
+        "friends_count": 172,
+        "geo_enabled": true,
+        "id": 1078741899572240384,
+        "id_str": "1078741899572240384",
+        "listed_count": 110,
+        "location": "Washington, DC",
+        "name": "Rep. Russ Fulcher",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078741899572240384/1546614126",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1084841551463882753/ul2xePnL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084841551463882753/ul2xePnL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRussFulcher",
+        "statuses_count": 269,
+        "url": "https://t.co/DyAxM4ZKef",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 464936533,
+            "id_str": "464936533",
+            "name": "Kristina Bartowitz",
+            "screen_name": "kribartowitz"
+        },
+        {
+            "id": 1078741899572240384,
+            "id_str": "1078741899572240384",
+            "name": "Rep. Russ Fulcher",
+            "screen_name": "RepRussFulcher"
+        },
+        {
+            "id": 902515674,
+            "id_str": "902515674",
+            "name": "U-Idaho CNR",
+            "screen_name": "UIdahoCNR"
+        },
+        {
+            "id": 17388410,
+            "id_str": "17388410",
+            "name": "University of Idaho",
+            "screen_name": "uidaho"
+        }
+    ]
+}

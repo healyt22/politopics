@@ -1,0 +1,282 @@
+{
+    "created_at": "Sat Jun 08 15:58:20 +0000 2019",
+    "hashtags": [
+        {
+            "text": "ThisIsBaseball"
+        },
+        {
+            "text": "OmaHogsSZN"
+        }
+    ],
+    "id": 1137388396865839107,
+    "id_str": "1137388396865839107",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/jFu8Nx22ix",
+            "expanded_url": "https://twitter.com/Tusk_UA/status/1137356241297186816/video/1",
+            "id": 1137356193293373440,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137356193293373440/pu/img/42nrTiQw2_PVsXZY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137356193293373440/pu/img/42nrTiQw2_PVsXZY.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/jFu8Nx22ix",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 9800,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1137356193293373440/pu/pl/nFLGZ0Lz6M-soBHI.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137356193293373440/pu/vid/320x568/fFkIGk1tAxsGp8jP.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137356193293373440/pu/vid/720x1280/Ae1O-gK1UeEvHytP.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137356193293373440/pu/vid/360x640/1Wjdfc3q9y3hJ99Q.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 50,
+    "retweeted_status": {
+        "created_at": "Sat Jun 08 13:50:33 +0000 2019",
+        "favorite_count": 445,
+        "hashtags": [
+            {
+                "text": "ThisIsBaseball"
+            },
+            {
+                "text": "OmaHogsSZN"
+            }
+        ],
+        "id": 1137356241297186816,
+        "id_str": "1137356241297186816",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/jFu8Nx22ix",
+                "expanded_url": "https://twitter.com/Tusk_UA/status/1137356241297186816/video/1",
+                "id": 1137356193293373440,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137356193293373440/pu/img/42nrTiQw2_PVsXZY.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137356193293373440/pu/img/42nrTiQw2_PVsXZY.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/jFu8Nx22ix",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 9800,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1137356193293373440/pu/pl/nFLGZ0Lz6M-soBHI.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1137356193293373440/pu/vid/320x568/fFkIGk1tAxsGp8jP.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1137356193293373440/pu/vid/720x1280/Ae1O-gK1UeEvHytP.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1137356193293373440/pu/vid/360x640/1Wjdfc3q9y3hJ99Q.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "place": {
+            "id": "e8ad2641c1cb666c",
+            "url": "https://api.twitter.com/1.1/geo/id/e8ad2641c1cb666c.json",
+            "place_type": "admin",
+            "name": "Arkansas",
+            "full_name": "Arkansas, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.61771,
+                            33.004106
+                        ],
+                        [
+                            -89.644838,
+                            33.004106
+                        ],
+                        [
+                            -89.644838,
+                            36.499767
+                        ],
+                        [
+                            -94.61771,
+                            36.499767
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 50,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I\u2019M HERE AND I AM READY!!! @RazorbackBSB @ArkRazorbacks #ThisIsBaseball #OmaHogsSZN https://t.co/jFu8Nx22ix",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Sep 05 19:59:24 +0000 2014",
+            "default_profile": true,
+            "description": "The official live mascot of the Arkansas Razorbacks. Favorite foods: Grapes, Corn & Watermelon. Son of Tusk IV.",
+            "favourites_count": 6223,
+            "followers_count": 7696,
+            "friends_count": 387,
+            "geo_enabled": true,
+            "id": 2792561041,
+            "id_str": "2792561041",
+            "listed_count": 44,
+            "name": "TUSK V",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2792561041/1562021551",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145827545788624896/ACXjFUZA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145827545788624896/ACXjFUZA_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Tusk_UA",
+            "statuses_count": 2764,
+            "url": "https://t.co/qHUzfai1D1"
+        },
+        "user_mentions": [
+            {
+                "id": 606433843,
+                "id_str": "606433843",
+                "name": "Razorback Baseball",
+                "screen_name": "RazorbackBSB"
+            },
+            {
+                "id": 15640215,
+                "id_str": "15640215",
+                "name": "Arkansas Razorbacks",
+                "screen_name": "ArkRazorbacks"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Tusk_UA: I\u2019M HERE AND I AM READY!!! @RazorbackBSB @ArkRazorbacks #ThisIsBaseball #OmaHogsSZN https://t.co/jFu8Nx22ix",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 05 18:53:03 +0000 2011",
+        "description": "Proud to serve the folks of Arkansas's 3rd District. Ranking Member of @HouseBudgetGOP.",
+        "favourites_count": 1231,
+        "followers_count": 20746,
+        "friends_count": 1469,
+        "geo_enabled": true,
+        "id": 234469322,
+        "id_str": "234469322",
+        "listed_count": 950,
+        "location": "Arkansas's 3rd District",
+        "name": "Rep. Steve Womack",
+        "profile_background_color": "798185",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234469322/1527182179",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2043213363/Official_Pic_4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2043213363/Official_Pic_4_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "rep_stevewomack",
+        "statuses_count": 7039,
+        "url": "https://t.co/2iFHpbXo1l",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2792561041,
+            "id_str": "2792561041",
+            "name": "TUSK V",
+            "screen_name": "Tusk_UA"
+        },
+        {
+            "id": 606433843,
+            "id_str": "606433843",
+            "name": "Razorback Baseball",
+            "screen_name": "RazorbackBSB"
+        },
+        {
+            "id": 15640215,
+            "id_str": "15640215",
+            "name": "Arkansas Razorbacks",
+            "screen_name": "ArkRazorbacks"
+        }
+    ]
+}

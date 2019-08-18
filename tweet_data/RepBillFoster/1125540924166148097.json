@@ -1,0 +1,114 @@
+{
+    "created_at": "Mon May 06 23:20:42 +0000 2019",
+    "hashtags": [],
+    "id": 1125540924166148097,
+    "id_str": "1125540924166148097",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Mon May 06 20:20:11 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1125495494283800576,
+        "id_str": "1125495494283800576",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you to all who supported our fundraiser for @GirlUp yesterday, especially @RepBillFoster! So grateful that he\u2026 https://t.co/MRNT09nMky",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1125495494283800576",
+                "url": "https://t.co/MRNT09nMky"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Oct 25 02:04:30 +0000 2018",
+            "description": "The @GirlUp club in Naperville, IL! We are #GlobalCitizens working to effect change by standing up for & empowering girls around the \ud83c\udf0e through the @UNFoundation",
+            "favourites_count": 213,
+            "followers_count": 36,
+            "friends_count": 144,
+            "geo_enabled": true,
+            "id": 1055278900916506624,
+            "id_str": "1055278900916506624",
+            "location": "Naperville, IL",
+            "name": "Girl Up Naperville",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055278900916506624/1546832247",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082118222931992576/_99pet18_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082118222931992576/_99pet18_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "GirlUpNaper",
+            "statuses_count": 173
+        },
+        "user_mentions": [
+            {
+                "id": 128246602,
+                "id_str": "128246602",
+                "name": "Girl Up",
+                "screen_name": "GirlUp"
+            },
+            {
+                "id": 1080509366,
+                "id_str": "1080509366",
+                "name": "Bill Foster",
+                "screen_name": "RepBillFoster"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GirlUpNaper: Thank you to all who supported our fundraiser for @GirlUp yesterday, especially @RepBillFoster! So grateful that he attend\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 11 18:17:11 +0000 2013",
+        "description": "Congressman Bill Foster is a scientist and businessman representing the 11th Congressional District of Illinois",
+        "favourites_count": 294,
+        "followers_count": 41045,
+        "friends_count": 1773,
+        "id": 1080509366,
+        "id_str": "1080509366",
+        "listed_count": 816,
+        "location": "Naperville, IL",
+        "name": "Bill Foster",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080509366/1371843668",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654326440079429632/YqEhH_t7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654326440079429632/YqEhH_t7_normal.jpg",
+        "profile_link_color": "116685",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBillFoster",
+        "statuses_count": 3205,
+        "url": "https://t.co/MUUnxZciRU",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1055278900916506624,
+            "id_str": "1055278900916506624",
+            "name": "Girl Up Naperville",
+            "screen_name": "GirlUpNaper"
+        },
+        {
+            "id": 128246602,
+            "id_str": "128246602",
+            "name": "Girl Up",
+            "screen_name": "GirlUp"
+        },
+        {
+            "id": 1080509366,
+            "id_str": "1080509366",
+            "name": "Bill Foster",
+            "screen_name": "RepBillFoster"
+        }
+    ]
+}

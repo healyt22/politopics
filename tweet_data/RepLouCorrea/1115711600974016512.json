@@ -1,0 +1,83 @@
+{
+    "created_at": "Tue Apr 09 20:22:29 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [
+        {
+            "text": "labor"
+        }
+    ],
+    "id": 1115711600974016512,
+    "id_str": "1115711600974016512",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/s5Jut1BRjG",
+            "expanded_url": "https://twitter.com/RepLouCorrea/status/1115711600974016512/photo/1",
+            "id": 1115711531906478080,
+            "media_url": "http://pbs.twimg.com/media/D3vNuhsXsAAO3RI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D3vNuhsXsAAO3RI.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 382,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1151,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/s5Jut1BRjG"
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "Happy to welcome representatives from @LIUNA to my office. My doors always open to #labor! https://t.co/s5Jut1BRjG",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 02 18:16:08 +0000 2017",
+        "default_profile": true,
+        "description": "Father. Public servant. Member of Congress. @HouseJudiciary @HomelandDemsHouse",
+        "favourites_count": 18,
+        "followers_count": 8392,
+        "friends_count": 8,
+        "id": 815985039485837312,
+        "id_str": "815985039485837312",
+        "listed_count": 375,
+        "location": "Santa Ana, CA",
+        "name": "Rep. Lou Correa",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815985039485837312/1517411599",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/958720189897625601/c-SpjpEc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/958720189897625601/c-SpjpEc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLouCorrea",
+        "statuses_count": 566,
+        "url": "https://t.co/BEpOrcEkaK",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 57002648,
+            "id_str": "57002648",
+            "name": "LIUNA",
+            "screen_name": "LIUNA"
+        }
+    ]
+}

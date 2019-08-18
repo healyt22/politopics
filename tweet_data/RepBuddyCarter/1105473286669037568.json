@@ -1,0 +1,120 @@
+{
+    "created_at": "Tue Mar 12 14:19:04 +0000 2019",
+    "hashtags": [],
+    "id": 1105473286669037568,
+    "id_str": "1105473286669037568",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Tue Mar 12 13:25:14 +0000 2019",
+        "favorite_count": 17,
+        "hashtags": [],
+        "id": 1105459738890944513,
+        "id_str": "1105459738890944513",
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Eastern Oregon Telecom's @joefranell in the @EastOregonian today: \"Republicans and Democrats actually agree on the\u2026 https://t.co/WLkXnF6AME",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1105459738890944513",
+                "url": "https://t.co/WLkXnF6AME"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 16 17:31:34 +0000 2009",
+            "description": "Proudly serving the people of Oregon's Second Congressional District.| Republican Leader of @housecommerce",
+            "favourites_count": 44,
+            "followers_count": 29701,
+            "friends_count": 173,
+            "geo_enabled": true,
+            "id": 32010840,
+            "id_str": "32010840",
+            "listed_count": 1407,
+            "location": "Oregon",
+            "name": "Rep. Greg Walden",
+            "profile_background_color": "336600",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32010840/1408657438",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/705033575066943488/W58QO-EK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/705033575066943488/W58QO-EK_normal.jpg",
+            "profile_link_color": "336600",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FAFAFA",
+            "profile_text_color": "0A090A",
+            "profile_use_background_image": true,
+            "screen_name": "repgregwalden",
+            "statuses_count": 2712,
+            "url": "https://t.co/Tehr6W0tBF",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 791734731834466304,
+                "id_str": "791734731834466304",
+                "name": "Joseph Franell",
+                "screen_name": "joefranell"
+            },
+            {
+                "id": 20657565,
+                "id_str": "20657565",
+                "name": "East Oregonian",
+                "screen_name": "EastOregonian"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @repgregwalden: Eastern Oregon Telecom's @joefranell in the @EastOregonian today: \"Republicans and Democrats actually agree on the key p\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 12 00:33:43 +0000 2015",
+        "default_profile": true,
+        "description": "Proudly serving Georgia's 1st Congressional District",
+        "favourites_count": 120,
+        "followers_count": 19961,
+        "friends_count": 286,
+        "geo_enabled": true,
+        "id": 2973870195,
+        "id_str": "2973870195",
+        "listed_count": 476,
+        "name": "Buddy Carter",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2973870195/1506088879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/554437784912400384/N6PPUUz2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/554437784912400384/N6PPUUz2_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBuddyCarter",
+        "statuses_count": 1866,
+        "url": "https://t.co/zGq0mX8dEy",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 32010840,
+            "id_str": "32010840",
+            "name": "Rep. Greg Walden",
+            "screen_name": "repgregwalden"
+        },
+        {
+            "id": 791734731834466304,
+            "id_str": "791734731834466304",
+            "name": "Joseph Franell",
+            "screen_name": "joefranell"
+        },
+        {
+            "id": 20657565,
+            "id_str": "20657565",
+            "name": "East Oregonian",
+            "screen_name": "EastOregonian"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "created_at": "Tue Feb 12 15:34:25 +0000 2019",
+    "favorite_count": 933,
+    "hashtags": [],
+    "id": 1095345387563614208,
+    "id_str": "1095345387563614208",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ARmeZTzZLu",
+            "expanded_url": "https://twitter.com/SenSasse/status/1095345387563614208/photo/1",
+            "id": 1095342760607936519,
+            "media_url": "http://pbs.twimg.com/media/DzNwb_lU8Acp6xo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DzNwb_lU8Acp6xo.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 147,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1116,
+                    "h": 242,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1116,
+                    "h": 242,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/ARmeZTzZLu"
+        }
+    ],
+    "retweet_count": 320,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Op-Ed in @USATODAY: Don't Let Infanticide Be A Partisan Issue. https://t.co/puPAC9f8KK https://t.co/ARmeZTzZLu",
+    "urls": [
+        {
+            "expanded_url": "https://www.usatoday.com/story/opinion/2019/02/12/ben-sasse-infanticide-abortion-democrats-ralph-northam-column/2836381002/?fbclid=IwAR0Jxu9dHhNinuOuZ51NhNmx2yipk7dydewwwgG-wKRwAifFkmejCIffubU",
+            "url": "https://t.co/puPAC9f8KK"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 05 22:39:56 +0000 2015",
+        "default_profile": true,
+        "description": "The press office account of U.S. Sen. Sasse. His (less political/hopefully more interesting) personal account is @ BenSasse.",
+        "favourites_count": 1,
+        "followers_count": 144013,
+        "friends_count": 1,
+        "id": 2962923040,
+        "id_str": "2962923040",
+        "listed_count": 1831,
+        "name": "Senator Ben Sasse",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962923040/1445881489",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009479405968621570/-ms4YWy0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009479405968621570/-ms4YWy0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenSasse",
+        "statuses_count": 903,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15754281,
+            "id_str": "15754281",
+            "name": "USA TODAY",
+            "screen_name": "USATODAY"
+        }
+    ]
+}

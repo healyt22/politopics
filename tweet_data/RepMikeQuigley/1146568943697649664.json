@@ -1,0 +1,108 @@
+{
+    "created_at": "Wed Jul 03 23:58:33 +0000 2019",
+    "hashtags": [],
+    "id": 1146568943697649664,
+    "id_str": "1146568943697649664",
+    "lang": "en",
+    "retweet_count": 11,
+    "retweeted_status": {
+        "created_at": "Wed Jul 03 23:53:14 +0000 2019",
+        "favorite_count": 52,
+        "hashtags": [],
+        "id": 1146567605899210753,
+        "id_str": "1146567605899210753",
+        "lang": "en",
+        "retweet_count": 11,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\"In 8 minutes, he moved the dial. He's going to have 4 hours to go into more detail.\" @RepMikeQuigley on Mueller's\u2026 https://t.co/hriRPWbBSH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146567605899210753",
+                "url": "https://t.co/hriRPWbBSH"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Oct 21 19:32:51 +0000 2010",
+            "description": "Hardball with Chris Matthews is hosted by @HardballChris. Like us on Facebook and follow us on Instagram. Join the conversation with #Hardball.",
+            "favourites_count": 492,
+            "followers_count": 443854,
+            "friends_count": 804,
+            "geo_enabled": true,
+            "id": 205864193,
+            "id_str": "205864193",
+            "listed_count": 2365,
+            "location": "Washington, D.C.",
+            "name": "Hardball",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/205864193/1561837386",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/883068351148429318/NpFFNpaL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/883068351148429318/NpFFNpaL_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "hardball",
+            "statuses_count": 56081,
+            "url": "https://t.co/AyDhXmdr7s",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 56864092,
+                "id_str": "56864092",
+                "name": "Mike Quigley",
+                "screen_name": "RepMikeQuigley"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @hardball: \"In 8 minutes, he moved the dial. He's going to have 4 hours to go into more detail.\" @RepMikeQuigley on Mueller's upcoming t\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jul 15 00:10:43 +0000 2009",
+        "description": "#IL05 Democratic Congressman, House Appropriator, member of Intelligence Committee, amateur hockey player & proud Cubs fan https://t.co/zL9fkzy188",
+        "favourites_count": 294,
+        "followers_count": 45094,
+        "friends_count": 2184,
+        "geo_enabled": true,
+        "id": 56864092,
+        "id_str": "56864092",
+        "listed_count": 1686,
+        "location": "Chicago, IL; Washington, DC",
+        "name": "Mike Quigley",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56864092/1453393415",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/722431331184066565/LCCfS3fM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/722431331184066565/LCCfS3fM_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMikeQuigley",
+        "statuses_count": 12085,
+        "url": "https://t.co/6va5Z6HIQf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 205864193,
+            "id_str": "205864193",
+            "name": "Hardball",
+            "screen_name": "hardball"
+        },
+        {
+            "id": 56864092,
+            "id_str": "56864092",
+            "name": "Mike Quigley",
+            "screen_name": "RepMikeQuigley"
+        }
+    ]
+}

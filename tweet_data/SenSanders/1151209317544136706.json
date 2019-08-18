@@ -1,0 +1,130 @@
+{
+    "created_at": "Tue Jul 16 19:17:44 +0000 2019",
+    "hashtags": [],
+    "id": 1151209317544136706,
+    "id_str": "1151209317544136706",
+    "lang": "en",
+    "retweet_count": 564,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 16:57:42 +0000 2019",
+        "favorite_count": 1862,
+        "hashtags": [],
+        "id": 1151174079388499968,
+        "id_str": "1151174079388499968",
+        "lang": "en",
+        "retweet_count": 564,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thirteen Congresspeople, including @SenSanders @AOC @IlhanMN, sent a letter calling on the Dept. of Labor to \"immed\u2026 https://t.co/H6auUX1Ohg",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151174079388499968",
+                "url": "https://t.co/H6auUX1Ohg"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 08 21:46:31 +0000 2013",
+            "default_profile": true,
+            "description": "Reporter @YahooFinance | Grad @newmarkjschool | Formerly @MONEY @TheIslandNow  @tricyclemag | Bylines @CJR @CityLimitsNews. Send tips to max.zahn@oath.com",
+            "favourites_count": 5206,
+            "followers_count": 808,
+            "friends_count": 923,
+            "geo_enabled": true,
+            "id": 1337710483,
+            "id_str": "1337710483",
+            "listed_count": 20,
+            "location": "Brooklyn, NY",
+            "name": "Max Zahn",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/971151067487653888/W9B-nAEk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/971151067487653888/W9B-nAEk_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MaxZahn_",
+            "statuses_count": 2436,
+            "url": "https://t.co/aSv1Tii2Hn"
+        },
+        "user_mentions": [
+            {
+                "id": 29442313,
+                "id_str": "29442313",
+                "name": "Bernie Sanders",
+                "screen_name": "SenSanders"
+            },
+            {
+                "id": 138203134,
+                "id_str": "138203134",
+                "name": "Alexandria Ocasio-Cortez",
+                "screen_name": "AOC"
+            },
+            {
+                "id": 783792992,
+                "id_str": "783792992",
+                "name": "Ilhan Omar",
+                "screen_name": "IlhanMN"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @MaxZahn_: Thirteen Congresspeople, including @SenSanders @AOC @IlhanMN, sent a letter calling on the Dept. of Labor to \"immediately inv\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Apr 07 13:02:35 +0000 2009",
+        "description": "U.S. Senator Bernie Sanders of Vermont is the longest-serving independent in congressional history.",
+        "favourites_count": 182,
+        "followers_count": 8541109,
+        "friends_count": 2162,
+        "geo_enabled": true,
+        "id": 29442313,
+        "id_str": "29442313",
+        "listed_count": 27186,
+        "location": "Vermont/DC",
+        "name": "Bernie Sanders",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29442313/1430854323",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+        "profile_link_color": "03102D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6CCB6",
+        "profile_text_color": "304562",
+        "profile_use_background_image": true,
+        "screen_name": "SenSanders",
+        "statuses_count": 20487,
+        "url": "http://t.co/8AS4FI1oge",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1337710483,
+            "id_str": "1337710483",
+            "name": "Max Zahn",
+            "screen_name": "MaxZahn_"
+        },
+        {
+            "id": 29442313,
+            "id_str": "29442313",
+            "name": "Bernie Sanders",
+            "screen_name": "SenSanders"
+        },
+        {
+            "id": 138203134,
+            "id_str": "138203134",
+            "name": "Alexandria Ocasio-Cortez",
+            "screen_name": "AOC"
+        },
+        {
+            "id": 783792992,
+            "id_str": "783792992",
+            "name": "Ilhan Omar",
+            "screen_name": "IlhanMN"
+        }
+    ]
+}

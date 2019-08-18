@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Aug 13 18:47:05 +0000 2019",
+    "hashtags": [],
+    "id": 1161348465575833600,
+    "id_str": "1161348465575833600",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Aug 12 20:24:38 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1161010627353202688,
+        "id_str": "1161010627353202688",
+        "lang": "en",
+        "place": {
+            "id": "0aa49830dc7e7320",
+            "url": "https://api.twitter.com/1.1/geo/id/0aa49830dc7e7320.json",
+            "place_type": "city",
+            "name": "Sedalia",
+            "full_name": "Sedalia, MO",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.311072,
+                            38.666969
+                        ],
+                        [
+                            -93.149907,
+                            38.666969
+                        ],
+                        [
+                            -93.149907,
+                            38.728524
+                        ],
+                        [
+                            -93.311072,
+                            38.728524
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\"I like helping my siblings show. My advice to them is to stay calm. If you get stressed, the sheep will get stress\u2026 https://t.co/oPUfpXPDns",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161010627353202688",
+                "url": "https://t.co/oPUfpXPDns"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 05 16:29:53 +0000 2009",
+            "description": "Promoting and protecting Missouri's number one industry: agriculture. | #doMORE | #beMORE | Join us at https://t.co/ygv46M2lnD",
+            "favourites_count": 4021,
+            "followers_count": 6994,
+            "friends_count": 789,
+            "geo_enabled": true,
+            "id": 44930735,
+            "id_str": "44930735",
+            "listed_count": 199,
+            "location": "Jefferson City, MO",
+            "name": "Missouri Dept. of Ag",
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/44930735/1495672078",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/628204573937668096/fOpX97ZT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/628204573937668096/fOpX97ZT_normal.jpg",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MoAgriculture",
+            "statuses_count": 5963,
+            "url": "https://t.co/LqjG9pdl51"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MoAgriculture: \"I like helping my siblings show. My advice to them is to stay calm. If you get stressed, the sheep will get stressed. I\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon May 20 15:02:21 +0000 2013",
+        "default_profile": true,
+        "description": "Representing Missouri\u2019s 7th District in the United States Congress - Member of the House Energy and Commerce Committee",
+        "favourites_count": 284,
+        "followers_count": 18845,
+        "friends_count": 4324,
+        "id": 1444015610,
+        "id_str": "1444015610",
+        "listed_count": 637,
+        "name": "U.S. Rep. Billy Long",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444015610/1369083530",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/931238240396423168/Zew9SE9S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/931238240396423168/Zew9SE9S_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "USRepLong",
+        "statuses_count": 7742,
+        "url": "https://t.co/uG5DCdtUfQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 44930735,
+            "id_str": "44930735",
+            "name": "Missouri Dept. of Ag",
+            "screen_name": "MoAgriculture"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "created_at": "Wed Feb 06 22:27:20 +0000 2019",
+    "favorite_count": 19,
+    "hashtags": [
+        {
+            "text": "AL"
+        }
+    ],
+    "id": 1093274973060382726,
+    "id_str": "1093274973060382726",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Wed Feb 06 17:17:52 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1093197095924916226,
+        "id_str": "1093197095924916226",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/6xw5aHcD6J",
+                "expanded_url": "https://twitter.com/Outdoor_Alabama/status/1093197095924916226/photo/1",
+                "id": 1093197084998668288,
+                "media_url": "http://pbs.twimg.com/media/DyvQ9PDWkAAehuw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DyvQ9PDWkAAehuw.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 385,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1159,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 679,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/6xw5aHcD6J"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Alabama Announces 2019 Private Angler Red Snapper Fishing Season\nhttps://t.co/HeJRg5X1Dn https://t.co/6xw5aHcD6J",
+        "urls": [
+            {
+                "expanded_url": "https://www.outdooralabama.com/node/2531",
+                "url": "https://t.co/HeJRg5X1Dn"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Apr 05 21:11:08 +0000 2011",
+            "description": "Support Alabama's wildlife by purchasing a hunting, fishing or heritage license. License revenues are matched with federal funds to improve natural resources.",
+            "favourites_count": 7,
+            "followers_count": 4202,
+            "friends_count": 252,
+            "id": 277690430,
+            "id_str": "277690430",
+            "listed_count": 99,
+            "location": "Montgomery, Alabama",
+            "name": "Outdoor Alabama",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/277690430/1462284797",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/705427925613547521/mSH4vXm3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/705427925613547521/mSH4vXm3_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Outdoor_Alabama",
+            "statuses_count": 2951,
+            "url": "http://t.co/tcuWucIsWq"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1093197095924916226,
+    "quoted_status_id_str": "1093197095924916226",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Excellent news for Alabama\u2019s fishermen today \u2013 for the 2nd year, #AL is operating under an EFP, established through\u2026 https://t.co/TEvh4V3OXe",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1093274973060382726",
+            "url": "https://t.co/TEvh4V3OXe"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Feb 17 17:53:43 +0000 2009",
+        "description": "The official Twitter page for U.S. Senator Richard Shelby (R-Ala.) https://t.co/YqOy54UpSf",
+        "favourites_count": 332,
+        "followers_count": 81702,
+        "friends_count": 501,
+        "geo_enabled": true,
+        "id": 21111098,
+        "id_str": "21111098",
+        "listed_count": 2135,
+        "location": "Tuscaloosa, Alabama",
+        "name": "Richard Shelby",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21111098/1436912050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+        "profile_link_color": "A60000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "SenShelby",
+        "statuses_count": 2267,
+        "url": "https://t.co/1iULT8X6Vz",
+        "verified": true
+    },
+    "user_mentions": []
+}

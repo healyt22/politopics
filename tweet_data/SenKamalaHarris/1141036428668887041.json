@@ -1,0 +1,125 @@
+{
+    "created_at": "Tue Jun 18 17:34:18 +0000 2019",
+    "favorite_count": 835,
+    "hashtags": [],
+    "id": 1141036428668887041,
+    "id_str": "1141036428668887041",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 18 03:18:47 +0000 2019",
+        "favorite_count": 142,
+        "hashtags": [],
+        "id": 1140821131160694784,
+        "id_str": "1140821131160694784",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/de2C1MuPhV",
+                "expanded_url": "https://twitter.com/CBSNews/status/1140821131160694784/photo/1",
+                "id": 1140821129231327233,
+                "media_url": "http://pbs.twimg.com/media/D9UCxdAX4AE5sZN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9UCxdAX4AE5sZN.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 538,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 538,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/de2C1MuPhV"
+            }
+        ],
+        "retweet_count": 121,
+        "source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+        "text": "U.S. cuts millions in aid to Central America, fulfilling Trump's vow https://t.co/ZMFRIsqYFZ https://t.co/de2C1MuPhV",
+        "urls": [
+            {
+                "expanded_url": "https://cbsn.ws/2WPMjtN",
+                "url": "https://t.co/ZMFRIsqYFZ"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 05 00:54:31 +0000 2008",
+            "description": "Your source for original reporting and trusted news.",
+            "favourites_count": 288,
+            "followers_count": 6812247,
+            "friends_count": 455,
+            "id": 15012486,
+            "id_str": "15012486",
+            "listed_count": 50015,
+            "location": "New York, NY",
+            "name": "CBS News",
+            "profile_background_color": "D9DADA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15012486/1559749831",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+            "profile_link_color": "B12124",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EAEDF0",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "CBSNews",
+            "statuses_count": 220262,
+            "url": "https://t.co/VGut7r2Vg5",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1140821131160694784,
+    "quoted_status_id_str": "1140821131160694784",
+    "retweet_count": 252,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "This is completely backwards &amp; nothing more than a short-sighted attempt to throw red meat at the administration's\u2026 https://t.co/gZ8lnTIKTC",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1141036428668887041",
+            "url": "https://t.co/gZ8lnTIKTC"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Nov 29 20:16:39 +0000 2016",
+        "default_profile": true,
+        "description": "United States Senator for California",
+        "favourites_count": 483,
+        "followers_count": 835183,
+        "friends_count": 645,
+        "geo_enabled": true,
+        "id": 803694179079458816,
+        "id_str": "803694179079458816",
+        "listed_count": 4518,
+        "name": "Kamala Harris",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/803694179079458816/1521647792",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/974690906669572098/Y6w06trG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/974690906669572098/Y6w06trG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenKamalaHarris",
+        "statuses_count": 3426,
+        "url": "https://t.co/d7fwQc0xoD",
+        "verified": true
+    },
+    "user_mentions": []
+}

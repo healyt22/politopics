@@ -1,0 +1,128 @@
+{
+    "created_at": "Sun Aug 11 20:20:46 +0000 2019",
+    "favorite_count": 518,
+    "hashtags": [],
+    "id": 1160647263443652613,
+    "id_str": "1160647263443652613",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun Aug 11 16:23:10 +0000 2019",
+        "favorite_count": 5197,
+        "hashtags": [],
+        "id": 1160587472545492992,
+        "id_str": "1160587472545492992",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/k2kay8YD7I",
+                "expanded_url": "https://twitter.com/TBInvestigation/status/1160587472545492992/photo/1",
+                "id": 1160587244958302211,
+                "media_url": "http://pbs.twimg.com/media/EBs780KWwAMX3Vn.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBs780KWwAMX3Vn.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/k2kay8YD7I"
+            }
+        ],
+        "retweet_count": 1056,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "CAPTURED! https://t.co/k2kay8YD7I",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Apr 26 19:42:53 +0000 2011",
+            "description": "The Tennessee Bureau of Investigation is the state's lead law enforcement agency. Media inquiries: TBI.Media@tn.gov. Use policy: https://t.co/Zi27lzTmdE",
+            "favourites_count": 881,
+            "followers_count": 41506,
+            "friends_count": 1017,
+            "id": 288395542,
+            "id_str": "288395542",
+            "listed_count": 409,
+            "location": "Tennessee",
+            "name": "TBI",
+            "profile_background_color": "AFC1C7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/288395542/1506352279",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/782980521974464513/XVO7sAMi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/782980521974464513/XVO7sAMi_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "TBInvestigation",
+            "statuses_count": 4006,
+            "url": "https://t.co/ntkCrLAZMw",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1160587472545492992,
+    "quoted_status_id_str": "1160587472545492992",
+    "retweet_count": 132,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great job by the hard working men and women @TBInvestigation. Thank you for keeping Tennesseans safe. https://t.co/mJ8c7T6MMy",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/tbinvestigation/status/1160587472545492992",
+            "url": "https://t.co/mJ8c7T6MMy"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Apr 06 18:05:33 +0000 2011",
+        "description": "I am honored to serve the people of Tennessee.",
+        "favourites_count": 561,
+        "followers_count": 85126,
+        "friends_count": 2720,
+        "geo_enabled": true,
+        "id": 278145569,
+        "id_str": "278145569",
+        "listed_count": 1834,
+        "location": "Brentwood, TN",
+        "name": "Sen. Marsha Blackburn",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/278145569/1549925243",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082735690213924864/VRFUWsuH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082735690213924864/VRFUWsuH_normal.jpg",
+        "profile_link_color": "EF4244",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "MarshaBlackburn",
+        "statuses_count": 6765,
+        "url": "https://t.co/sdip4ai5Ok",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 288395542,
+            "id_str": "288395542",
+            "name": "TBI",
+            "screen_name": "TBInvestigation"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "created_at": "Mon Jun 03 20:59:36 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Everglades"
+        },
+        {
+            "text": "TamiamiTrail"
+        }
+    ],
+    "id": 1135652276423548929,
+    "id_str": "1135652276423548929",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Jun 03 18:53:50 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "Everglades"
+            }
+        ],
+        "id": 1135620627199647744,
+        "id_str": "1135620627199647744",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Florida\u2019s efforts to restore the #Everglades received a $60 million boost Monday from the @USDOT to finish the\u2026 https://t.co/6xqgh91CHL",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1135620627199647744",
+                "url": "https://t.co/6xqgh91CHL"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 17 18:48:22 +0000 2008",
+            "description": "News and insider info from CBS4 News in S. Florida",
+            "favourites_count": 4172,
+            "followers_count": 91171,
+            "friends_count": 1375,
+            "geo_enabled": true,
+            "id": 16334281,
+            "id_str": "16334281",
+            "listed_count": 2001,
+            "location": "Miami",
+            "name": "CBS4 Miami",
+            "profile_background_color": "FFB366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16334281/1538188923",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/700409121779118082/UgxNjfx4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/700409121779118082/UgxNjfx4_normal.jpg",
+            "profile_link_color": "5BC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "160F43",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "CBSMiami",
+            "statuses_count": 176239,
+            "url": "http://t.co/yvLh9O4gB3",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 393562221,
+                "id_str": "393562221",
+                "name": "TransportationGov",
+                "screen_name": "USDOT"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CBSMiami: Florida\u2019s efforts to restore the #Everglades received a $60 million boost Monday from the @USDOT to finish the #TamiamiTrail\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 02 00:52:48 +0000 2009",
+        "description": "I am proud to represent Florida's 25th Congressional District and serve on @HouseAppropsGOP as Transportation, Housing + Urban Development Ranking Member",
+        "favourites_count": 372,
+        "followers_count": 51724,
+        "friends_count": 233,
+        "geo_enabled": true,
+        "id": 37094727,
+        "id_str": "37094727",
+        "listed_count": 1211,
+        "location": "Florida & Washington, DC",
+        "name": "Mario Diaz-Balart",
+        "profile_background_color": "042854",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37094727/1497278778",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827178282378461184/jo8DMh_J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827178282378461184/jo8DMh_J_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1688AB",
+        "profile_text_color": "08020D",
+        "profile_use_background_image": true,
+        "screen_name": "MarioDB",
+        "statuses_count": 7765,
+        "url": "https://t.co/GyXi8NDS8j",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16334281,
+            "id_str": "16334281",
+            "name": "CBS4 Miami",
+            "screen_name": "CBSMiami"
+        },
+        {
+            "id": 393562221,
+            "id_str": "393562221",
+            "name": "TransportationGov",
+            "screen_name": "USDOT"
+        }
+    ]
+}

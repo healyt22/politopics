@@ -1,0 +1,125 @@
+{
+    "created_at": "Wed Feb 06 03:11:38 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [
+        {
+            "text": "SOTU"
+        }
+    ],
+    "id": 1092984131179425792,
+    "id_str": "1092984131179425792",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Feb 06 02:58:33 +0000 2019",
+        "favorite_count": 22799,
+        "hashtags": [],
+        "id": 1092980839820996608,
+        "id_str": "1092980839820996608",
+        "lang": "es",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KCxjHKmtE0",
+                "expanded_url": "https://twitter.com/WhiteHouse/status/1092980839820996608/photo/1",
+                "id": 1092980833873547264,
+                "media_url": "http://pbs.twimg.com/media/DysMRw1X0AAyfeF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DysMRw1X0AAyfeF.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/KCxjHKmtE0"
+            }
+        ],
+        "retweet_count": 4062,
+        "source": "<a href=\"https://www.whitehouse.gov/\" rel=\"nofollow\">WH Digital</a>",
+        "text": "Grace Eline, cancer survivor. https://t.co/KCxjHKmtE0",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+            "default_profile": true,
+            "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+            "favourites_count": 13,
+            "followers_count": 18918767,
+            "friends_count": 14,
+            "geo_enabled": true,
+            "id": 822215673812119553,
+            "id_str": "822215673812119553",
+            "listed_count": 11051,
+            "location": "Washington, D.C.",
+            "name": "The White House",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "WhiteHouse",
+            "statuses_count": 10592,
+            "url": "https://t.co/wyOVgSLgBV",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1092980839820996608,
+    "quoted_status_id_str": "1092980839820996608",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "What a brave and inspiring young woman. #SOTU https://t.co/5J7Nx4xYfA",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1092980839820996608",
+            "url": "https://t.co/5J7Nx4xYfA"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 06 16:01:46 +0000 2011",
+        "description": "I am proud to represent the 8th Congressional District of Georgia. | Committees: @HASCRepublicans and @HouseAgGOP | Also at https://t.co/gEh48fmc4Q.",
+        "favourites_count": 70,
+        "followers_count": 22251,
+        "friends_count": 464,
+        "geo_enabled": true,
+        "id": 234797704,
+        "id_str": "234797704",
+        "listed_count": 877,
+        "location": "Tifton, GA",
+        "name": "Rep. Austin Scott",
+        "profile_background_color": "11172E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234797704/1556219331",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081244884747587584/-1aghkni_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081244884747587584/-1aghkni_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "11172E",
+        "profile_sidebar_fill_color": "CCCDDB",
+        "profile_text_color": "11172E",
+        "profile_use_background_image": true,
+        "screen_name": "AustinScottGA08",
+        "statuses_count": 2926,
+        "url": "http://t.co/GQwXIhub9a",
+        "verified": true
+    },
+    "user_mentions": []
+}

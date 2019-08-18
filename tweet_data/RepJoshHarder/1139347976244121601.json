@@ -1,0 +1,99 @@
+{
+    "created_at": "Fri Jun 14 01:45:00 +0000 2019",
+    "favorite_count": 132,
+    "hashtags": [],
+    "id": 1139347976244121601,
+    "id_str": "1139347976244121601",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Zqfcv5m244",
+            "expanded_url": "https://twitter.com/RepJoshHarder/status/1139347976244121601/video/1",
+            "id": 1139246477853769729,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139246477853769729/pu/img/wnQFKSzYwVoR4oIY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139246477853769729/pu/img/wnQFKSzYwVoR4oIY.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Zqfcv5m244",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 64731,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1139246477853769729/pu/pl/EauMr7KpA6m5eVA9.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1139246477853769729/pu/vid/1280x720/-FtbF_Sm9ichKnDi.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1139246477853769729/pu/vid/480x270/q9MCZ6TalHJ3ecNw.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1139246477853769729/pu/vid/640x360/O7kxNTaLUK769x1j.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 37,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "We need to protect our Dreamers. Today I stood on the House floor and called on (in Spanish!) the Senate to act. https://t.co/Zqfcv5m244",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 15:39:30 +0000 2019",
+        "description": "Turlock guy. Modesto High grad. Pam\u2019s husband. Foster dog dad. Proudly serving the Central Valley in Congress.",
+        "favourites_count": 94,
+        "followers_count": 13608,
+        "friends_count": 212,
+        "id": 1080851152151953410,
+        "id_str": "1080851152151953410",
+        "listed_count": 181,
+        "name": "Rep. Josh Harder",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080851152151953410/1552868138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1126542509767823360/JsNdEfWy_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126542509767823360/JsNdEfWy_normal.png",
+        "profile_link_color": "003462",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepJoshHarder",
+        "statuses_count": 574,
+        "url": "https://t.co/75rDwigQ8m",
+        "verified": true
+    },
+    "user_mentions": []
+}

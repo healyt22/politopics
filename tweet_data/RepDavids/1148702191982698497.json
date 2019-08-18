@@ -1,0 +1,115 @@
+{
+    "created_at": "Tue Jul 09 21:15:19 +0000 2019",
+    "hashtags": [],
+    "id": 1148702191982698497,
+    "id_str": "1148702191982698497",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Tue Jul 09 20:10:24 +0000 2019",
+        "favorite_count": 17,
+        "hashtags": [],
+        "id": 1148685856414347264,
+        "id_str": "1148685856414347264",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "Last week, @Berkel_and_Co hosted @RepDavids at its industrial equipment facility in Bonner Springs, Kansas. Thank y\u2026 https://t.co/D5gkTFRd5i",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148685856414347264",
+                "url": "https://t.co/D5gkTFRd5i"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 13 16:02:23 +0000 2012",
+            "description": "The Employee-Owned S Corporations of America (ESCA) is the Washington, DC voice for employee-owned S corporations.",
+            "favourites_count": 91,
+            "followers_count": 1201,
+            "friends_count": 1284,
+            "id": 523397097,
+            "id_str": "523397097",
+            "listed_count": 27,
+            "location": "Washington, DC",
+            "name": "ESCA",
+            "profile_background_color": "78727A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/523397097/1348063183",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2144877867/workers_cover_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2144877867/workers_cover_normal.JPG",
+            "profile_link_color": "92BCD1",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F0E8BB",
+            "profile_text_color": "E1D9C0",
+            "profile_use_background_image": true,
+            "screen_name": "EmployeesOwn",
+            "statuses_count": 3492,
+            "url": "http://t.co/jkmuylb07p"
+        },
+        "user_mentions": [
+            {
+                "id": 461357511,
+                "id_str": "461357511",
+                "name": "BERKEL",
+                "screen_name": "Berkel_and_Co"
+            },
+            {
+                "id": 1080516116395499522,
+                "id_str": "1080516116395499522",
+                "name": "Rep. Sharice Davids",
+                "screen_name": "RepDavids"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @EmployeesOwn: Last week, @Berkel_and_Co hosted @RepDavids at its industrial equipment facility in Bonner Springs, Kansas. Thank you, Co\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 17:28:11 +0000 2019",
+        "default_profile": true,
+        "description": "Proud to represent #KS03 in the United States Congress.",
+        "favourites_count": 440,
+        "followers_count": 49233,
+        "friends_count": 353,
+        "id": 1080516116395499522,
+        "id_str": "1080516116395499522",
+        "listed_count": 392,
+        "location": "Kansas, USA",
+        "name": "Rep. Sharice Davids",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080516116395499522/1548286703",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1084915988011892736/jGQS0NvE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084915988011892736/jGQS0NvE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDavids",
+        "statuses_count": 559,
+        "url": "https://t.co/hd4ry6hCni",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 523397097,
+            "id_str": "523397097",
+            "name": "ESCA",
+            "screen_name": "EmployeesOwn"
+        },
+        {
+            "id": 461357511,
+            "id_str": "461357511",
+            "name": "BERKEL",
+            "screen_name": "Berkel_and_Co"
+        },
+        {
+            "id": 1080516116395499522,
+            "id_str": "1080516116395499522",
+            "name": "Rep. Sharice Davids",
+            "screen_name": "RepDavids"
+        }
+    ]
+}

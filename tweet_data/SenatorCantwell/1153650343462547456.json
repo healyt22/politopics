@@ -1,0 +1,108 @@
+{
+    "created_at": "Tue Jul 23 12:57:30 +0000 2019",
+    "hashtags": [],
+    "id": 1153650343462547456,
+    "id_str": "1153650343462547456",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Jul 23 12:55:12 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1153649765856534528,
+        "id_str": "1153649765856534528",
+        "in_reply_to_screen_name": "commercedems",
+        "in_reply_to_status_id": 1153649764304588800,
+        "in_reply_to_user_id": 1097141276552630272,
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "\"In light of the @washingtonpost story, it\u2019s time for an independent investigation of the Commission\u2019s repeated fai\u2026 https://t.co/hvFvCKQd7P",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1153649765856534528",
+                "url": "https://t.co/hvFvCKQd7P"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Feb 17 14:30:39 +0000 2019",
+            "default_profile": true,
+            "description": "@SenatorCantwell serves as the Ranking Member on the Senate Commerce Committee. Follow us for updates from Democratic staff.",
+            "favourites_count": 145,
+            "followers_count": 367,
+            "friends_count": 349,
+            "id": 1097141276552630272,
+            "id_str": "1097141276552630272",
+            "listed_count": 9,
+            "location": "Washington, DC",
+            "name": "Senate Commerce Democrats",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097141276552630272/1551283678",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1097147253381349379/ZX3Jwrp-_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097147253381349379/ZX3Jwrp-_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "commercedems",
+            "statuses_count": 206,
+            "url": "https://t.co/MVNEtQWkY7",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @commercedems: \"In light of the @washingtonpost story, it\u2019s time for an independent investigation of the Commission\u2019s repeated failure t\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 25 19:21:52 +0000 2010",
+        "description": "U.S. Senator from Washington State | Tweets from Maria are signed \u2013MC | Facebook: https://t.co/qLmMk10nJI RT\u2260endorsement",
+        "favourites_count": 814,
+        "followers_count": 230257,
+        "friends_count": 2205,
+        "id": 117501995,
+        "id_str": "117501995",
+        "listed_count": 2493,
+        "location": "Washington, DC",
+        "name": "Sen. Maria Cantwell",
+        "profile_background_color": "B8B6B6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117501995/1525958289",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112707249032626176/j7drmGgX_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112707249032626176/j7drmGgX_normal.png",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "25377E",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "25378F",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorCantwell",
+        "statuses_count": 8396,
+        "url": "https://t.co/5P50HzPLoB",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1097141276552630272,
+            "id_str": "1097141276552630272",
+            "name": "Senate Commerce Democrats",
+            "screen_name": "commercedems"
+        },
+        {
+            "id": 2467791,
+            "id_str": "2467791",
+            "name": "The Washington Post",
+            "screen_name": "washingtonpost"
+        }
+    ]
+}

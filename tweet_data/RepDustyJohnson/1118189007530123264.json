@@ -1,0 +1,101 @@
+{
+    "created_at": "Tue Apr 16 16:26:48 +0000 2019",
+    "favorite_count": 45,
+    "hashtags": [],
+    "id": 1118189007530123264,
+    "id_str": "1118189007530123264",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/TQ8FYinPcN",
+            "expanded_url": "https://twitter.com/RepDustyJohnson/status/1118189007530123264/video/1",
+            "id": 1118188902672523264,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118188902672523264/pu/img/SdjUAQbBU7zpj-uK.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118188902672523264/pu/img/SdjUAQbBU7zpj-uK.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/TQ8FYinPcN",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 52455,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1118188902672523264/pu/vid/320x180/KcpIv_JrGUPXUUWK.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1118188902672523264/pu/vid/640x360/tMtJF7P-2uk5gZhe.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1118188902672523264/pu/vid/1280x720/5DtYEdmRwhWDl8gi.mp4?tag=8"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1118188902672523264/pu/pl/YQz22yKUmkFsRNR9.m3u8?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 12,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Reviewing construction at the border https://t.co/TQ8FYinPcN",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Dec 17 21:44:20 +0000 2018",
+        "description": "South Dakota's lone U.S. Representative - husband, father, & proud South Dakotan.",
+        "favourites_count": 86,
+        "followers_count": 3061,
+        "friends_count": 123,
+        "geo_enabled": true,
+        "id": 1074782372594413569,
+        "id_str": "1074782372594413569",
+        "listed_count": 98,
+        "location": "Mitchell, SD",
+        "name": "Rep. Dusty Johnson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074782372594413569/1547143930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDustyJohnson",
+        "statuses_count": 353,
+        "url": "https://t.co/O0W5qo3H9S",
+        "verified": true
+    },
+    "user_mentions": []
+}

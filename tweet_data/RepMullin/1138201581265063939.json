@@ -1,0 +1,120 @@
+{
+    "created_at": "Mon Jun 10 21:49:38 +0000 2019",
+    "hashtags": [
+        {
+            "text": "okwx"
+        }
+    ],
+    "id": 1138201581265063939,
+    "id_str": "1138201581265063939",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Mon Jun 10 13:31:11 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1138076144656441344,
+        "id_str": "1138076144656441344",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "For disaster assistance, please contact @fema by calling 1-800-621-FEMA (3362) or visiting https://t.co/qoF6Fl6Hi2\u2026 https://t.co/6irfSE2h6m",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://disasterassistance.gov",
+                "url": "https://t.co/qoF6Fl6Hi2"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138076144656441344",
+                "url": "https://t.co/6irfSE2h6m"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 09 12:26:06 +0000 2009",
+            "description": "Twitter home to Oklahoma Department of Emergency Management (OEM).",
+            "favourites_count": 3829,
+            "followers_count": 11982,
+            "friends_count": 585,
+            "geo_enabled": true,
+            "id": 18799695,
+            "id_str": "18799695",
+            "listed_count": 602,
+            "location": "Oklahoma",
+            "name": "OK Emergency Mgmt",
+            "profile_background_color": "01172E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18799695/1508764483",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/882662663246954497/m18Xif3O_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/882662663246954497/m18Xif3O_normal.jpg",
+            "profile_link_color": "8C9BC1",
+            "profile_sidebar_border_color": "DFDFDF",
+            "profile_sidebar_fill_color": "F2F2F2",
+            "profile_text_color": "333333",
+            "screen_name": "okem",
+            "statuses_count": 3685,
+            "url": "http://t.co/8hJog6S1ib",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 16669075,
+                "id_str": "16669075",
+                "name": "FEMA",
+                "screen_name": "fema"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @okem: For disaster assistance, please contact @fema by calling 1-800-621-FEMA (3362) or visiting https://t.co/qoF6Fl6Hi2 #okwx https://\u2026",
+    "urls": [
+        {
+            "expanded_url": "http://disasterassistance.gov",
+            "url": "https://t.co/qoF6Fl6Hi2"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 04 12:43:55 +0000 2013",
+        "default_profile": true,
+        "description": "Father of five. Small business owner. Honored to represent Oklahoma\u2019s conservative values in Congress. https://t.co/0jHkAECORk",
+        "favourites_count": 636,
+        "followers_count": 18665,
+        "friends_count": 708,
+        "geo_enabled": true,
+        "id": 1060370282,
+        "id_str": "1060370282",
+        "listed_count": 684,
+        "location": "Oklahoma",
+        "name": "Markwayne Mullin",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060370282/1485533313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936684558841532416/NA_AK7gd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936684558841532416/NA_AK7gd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMullin",
+        "statuses_count": 3120,
+        "url": "https://t.co/Qv5teppuYQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18799695,
+            "id_str": "18799695",
+            "name": "OK Emergency Mgmt",
+            "screen_name": "okem"
+        },
+        {
+            "id": 16669075,
+            "id_str": "16669075",
+            "name": "FEMA",
+            "screen_name": "fema"
+        }
+    ]
+}

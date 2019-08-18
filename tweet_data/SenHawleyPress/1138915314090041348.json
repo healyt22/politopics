@@ -1,0 +1,139 @@
+{
+    "created_at": "Wed Jun 12 21:05:45 +0000 2019",
+    "hashtags": [],
+    "id": 1138915314090041348,
+    "id_str": "1138915314090041348",
+    "lang": "en",
+    "retweet_count": 26,
+    "retweeted_status": {
+        "created_at": "Wed Jun 12 19:59:14 +0000 2019",
+        "favorite_count": 46,
+        "hashtags": [],
+        "id": 1138898574589251584,
+        "id_str": "1138898574589251584",
+        "lang": "en",
+        "place": {
+            "id": "0570f015c264cbd9",
+            "url": "https://api.twitter.com/1.1/geo/id/0570f015c264cbd9.json",
+            "place_type": "city",
+            "name": "St Louis",
+            "full_name": "St Louis, MO",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.3205158,
+                            38.5331934
+                        ],
+                        [
+                            -90.175132,
+                            38.5331934
+                        ],
+                        [
+                            -90.175132,
+                            38.774349
+                        ],
+                        [
+                            -90.3205158,
+                            38.774349
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 26,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I talked with @HawleyMO today about how his legislative advocacy toward big technology companies is being received\u2026 https://t.co/pJRZzxrvfw",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138898574589251584",
+                "url": "https://t.co/pJRZzxrvfw"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Apr 11 19:53:20 +0000 2008",
+            "description": "Political correspondent for @stlpublicradio. Lover of karaoke, @RockBand & disappointing sports teams. Married to @LToddLibrarian. Brandon and Declan\u2019s dad.",
+            "favourites_count": 6104,
+            "followers_count": 16056,
+            "friends_count": 1675,
+            "geo_enabled": true,
+            "id": 14364006,
+            "id_str": "14364006",
+            "listed_count": 750,
+            "location": "Richmond Heights, MO",
+            "name": "Jason Rosenbaum",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14364006/1554317832",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1073296886126112768/fy8ti-6F_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073296886126112768/fy8ti-6F_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "jrosenbaum",
+            "statuses_count": 77386,
+            "url": "https://t.co/7kydueLhRi",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2352629311,
+                "id_str": "2352629311",
+                "name": "Josh Hawley",
+                "screen_name": "HawleyMO"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @jrosenbaum: I talked with @HawleyMO today about how his legislative advocacy toward big technology companies is being received \u2014 especi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 22:55:42 +0000 2019",
+        "default_profile": true,
+        "description": "Tweets from the office of U.S. Senator Josh Hawley.",
+        "favourites_count": 227,
+        "followers_count": 3863,
+        "friends_count": 758,
+        "geo_enabled": true,
+        "id": 1080960924687704064,
+        "id_str": "1080960924687704064",
+        "listed_count": 117,
+        "location": "Missouri",
+        "name": "Senator Hawley Press Office",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080960924687704064/1551992524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenHawleyPress",
+        "statuses_count": 539,
+        "url": "https://t.co/P2uqbfyKpN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14364006,
+            "id_str": "14364006",
+            "name": "Jason Rosenbaum",
+            "screen_name": "jrosenbaum"
+        },
+        {
+            "id": 2352629311,
+            "id_str": "2352629311",
+            "name": "Josh Hawley",
+            "screen_name": "HawleyMO"
+        }
+    ]
+}

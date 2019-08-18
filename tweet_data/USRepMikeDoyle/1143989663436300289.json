@@ -1,0 +1,99 @@
+{
+    "created_at": "Wed Jun 26 21:09:24 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [],
+    "id": 1143989663436300289,
+    "id_str": "1143989663436300289",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 26 14:41:49 +0000 2019",
+        "favorite_count": 1505,
+        "hashtags": [],
+        "id": 1143892124703842304,
+        "id_str": "1143892124703842304",
+        "lang": "en",
+        "retweet_count": 473,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "I\u2018m sharing the story of my recent loss because we need to recognize that mental health issues know no boundaries.\u2026 https://t.co/UryE5Y0OOx",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143892124703842304",
+                "url": "https://t.co/UryE5Y0OOx"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Dec 03 16:57:05 +0000 2018",
+            "default_profile": true,
+            "description": "Proud to represent Pennsylvania's 7th Congressional District",
+            "favourites_count": 531,
+            "followers_count": 5638,
+            "friends_count": 489,
+            "geo_enabled": true,
+            "id": 1069636653353000962,
+            "id_str": "1069636653353000962",
+            "listed_count": 207,
+            "location": "United States",
+            "name": "Rep. Susan Wild",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069636653353000962/1559144985",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1069999547026419713/gQssbReA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069999547026419713/gQssbReA_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepSusanWild",
+            "statuses_count": 886,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1143892124703842304,
+    "quoted_status_id_str": "1143892124703842304",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you for sharing your story, @RepSusanWild. No more suffering \u2013 we need to take action on mental health awaren\u2026 https://t.co/5t13rqIFYU",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143989663436300289",
+            "url": "https://t.co/5t13rqIFYU"
+        }
+    ],
+    "user": {
+        "created_at": "Mon May 11 13:22:08 +0000 2009",
+        "description": "U.S. Member of Congress representing PA's 18th District",
+        "favourites_count": 5,
+        "followers_count": 19268,
+        "friends_count": 83,
+        "id": 39249305,
+        "id_str": "39249305",
+        "listed_count": 1117,
+        "location": "Pittsburgh, PA",
+        "name": "Mike Doyle",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39249305/1560199486",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "USRepMikeDoyle",
+        "statuses_count": 1773,
+        "url": "https://t.co/lnbMOLPFwX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1069636653353000962,
+            "id_str": "1069636653353000962",
+            "name": "Rep. Susan Wild",
+            "screen_name": "RepSusanWild"
+        }
+    ]
+}

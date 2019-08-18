@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jun 13 00:02:41 +0000 2019",
+    "favorite_count": 78,
+    "hashtags": [
+        {
+            "text": "WeAllBleedBlue"
+        }
+    ],
+    "id": 1138959841580507138,
+    "id_str": "1138959841580507138",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/6eGKMJJWJ4",
+            "expanded_url": "https://twitter.com/RoyBlunt/status/1138959841580507138/photo/1",
+            "id": 1138959830566285313,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D85l7nJXsAEmSHB.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D85l7nJXsAEmSHB.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 480,
+                    "h": 242,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 480,
+                    "h": 242,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 480,
+                    "h": 242,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/6eGKMJJWJ4",
+            "video_info": {
+                "aspect_ratio": [
+                    240,
+                    121
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/D85l7nJXsAEmSHB.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 14,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "We\u2019ve waited a long time for this. Let\u2019s go @StLouisBlues! #WeAllBleedBlue https://t.co/6eGKMJJWJ4",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 19 02:58:03 +0000 2009",
+        "description": "Official account of U.S. Senator Roy Blunt. Honored to represent the great state of Missouri. Serves as @SenateRPC Chairman.",
+        "favourites_count": 102,
+        "followers_count": 105356,
+        "friends_count": 6973,
+        "id": 21269970,
+        "id_str": "21269970",
+        "listed_count": 3484,
+        "location": "Missouri",
+        "name": "Senator Roy Blunt",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21269970/1407953971",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/535810548802125824/X0pxn3zA_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/535810548802125824/X0pxn3zA_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RoyBlunt",
+        "statuses_count": 11712,
+        "url": "http://t.co/PG3SSnhQDI",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22976125,
+            "id_str": "22976125",
+            "name": "St. Louis Blues \ud83c\udfc6",
+            "screen_name": "StLouisBlues"
+        }
+    ]
+}

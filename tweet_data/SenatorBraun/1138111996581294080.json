@@ -1,0 +1,80 @@
+{
+    "created_at": "Mon Jun 10 15:53:39 +0000 2019",
+    "favorite_count": 23,
+    "hashtags": [],
+    "id": 1138111996581294080,
+    "id_str": "1138111996581294080",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Met with the Indiana doctors and medical industry professionals on my Healthcare Advisory Committee this morning to\u2026 https://t.co/c4sBNDP1sO",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138111996581294080",
+            "url": "https://t.co/c4sBNDP1sO"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 16:58:18 +0000 2019",
+        "description": "Main Street entrepreneur & Hoosier U.S. Senator from Jasper, IN.",
+        "favourites_count": 8,
+        "followers_count": 5972,
+        "friends_count": 111,
+        "geo_enabled": true,
+        "id": 1080870981877534720,
+        "id_str": "1080870981877534720",
+        "listed_count": 199,
+        "location": "Jasper, IN",
+        "name": "Senator Mike Braun",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080870981877534720/1560287247",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080872040184401924/tXytvVUd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080872040184401924/tXytvVUd_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenatorBraun",
+        "statuses_count": 538,
+        "url": "https://t.co/ChBgzUcPIG",
+        "verified": true
+    },
+    "user_mentions": []
+}

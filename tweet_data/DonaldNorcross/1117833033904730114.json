@@ -1,0 +1,139 @@
+{
+    "created_at": "Mon Apr 15 16:52:18 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "StandUpToTaxFraud"
+        }
+    ],
+    "id": 1117833033904730114,
+    "id_str": "1117833033904730114",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Apr 15 12:40:24 +0000 2019",
+        "favorite_count": 17,
+        "hashtags": [
+            {
+                "text": "StopTaxFraud"
+            },
+            {
+                "text": "StandUpToTaxFraud"
+            },
+            {
+                "text": "StandUpSpeakOut"
+            }
+        ],
+        "id": 1117769643589021701,
+        "id_str": "1117769643589021701",
+        "lang": "en",
+        "place": {
+            "id": "e4a0d228eb6be76b",
+            "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+            "place_type": "city",
+            "name": "Philadelphia",
+            "full_name": "Philadelphia, PA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.280284,
+                            39.871811
+                        ],
+                        [
+                            -74.955712,
+                            39.871811
+                        ],
+                        [
+                            -74.955712,
+                            40.13792
+                        ],
+                        [
+                            -75.280284,
+                            40.13792
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 16,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The day is here! Check back for updates throughout the day! #StopTaxFraud #StandUpToTaxFraud #StandUpSpeakOut\u2026 https://t.co/7gpBVIEIUU",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1117769643589021701",
+                "url": "https://t.co/7gpBVIEIUU"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jan 02 18:14:51 +0000 2016",
+            "description": "KML represents about 42,500 members in DE, DC, MD, NJ, PA, VA, WV and 10 NC counties. #KMLCarpenters #UnionStrong",
+            "favourites_count": 124,
+            "followers_count": 357,
+            "friends_count": 258,
+            "geo_enabled": true,
+            "id": 4697727272,
+            "id_str": "4697727272",
+            "listed_count": 2,
+            "location": "Pittsburgh, PA",
+            "name": "kmlcarpenters",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4697727272/1520008055",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/969609695374737408/xupiYj9l_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/969609695374737408/xupiYj9l_normal.jpg",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "kmlcarpenters",
+            "statuses_count": 424,
+            "url": "https://t.co/2QSEBLXzoW"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1117769643589021701,
+    "quoted_status_id_str": "1117769643589021701",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Proud to support our local, national &amp; international carpenters who #StandUpToTaxFraud.\n\nThere are shady contractor\u2026 https://t.co/8zZvMy25TX",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1117833033904730114",
+            "url": "https://t.co/8zZvMy25TX"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Mar 27 20:08:34 +0000 2015",
+        "description": "Congressman, NJ-01 \u2022 Electrician \u2022 Born & Raised in South Jersey \u2022 Husband, Dad, Granddad \u2022 @EdLaborCmte Member \u2022 @HASCDemocrats TAL Chair",
+        "favourites_count": 2688,
+        "followers_count": 9015,
+        "friends_count": 1234,
+        "geo_enabled": true,
+        "id": 3122099613,
+        "id_str": "3122099613",
+        "listed_count": 483,
+        "name": "Donald Norcross",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3122099613/1522337915",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1050098504515899392/h6RzXCGt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050098504515899392/h6RzXCGt_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "DonaldNorcross",
+        "statuses_count": 7462,
+        "url": "https://t.co/yD13GE8LK4",
+        "verified": true
+    },
+    "user_mentions": []
+}

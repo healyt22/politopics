@@ -1,0 +1,91 @@
+{
+    "created_at": "Mon Jul 15 14:07:52 +0000 2019",
+    "hashtags": [],
+    "id": 1150768947580592128,
+    "id_str": "1150768947580592128",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Mon Jul 15 11:12:16 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1150724759518351360,
+        "id_str": "1150724759518351360",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "More rain is on the way. Returning to work? PLEASE remember not to drive across flooded roads. If it is raining so\u2026 https://t.co/I6qZNsleld",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150724759518351360",
+                "url": "https://t.co/I6qZNsleld"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Sep 04 20:37:35 +0000 2011",
+            "description": "@WBRZweather has detailed local forecasts, radar updates and the latest weather alerts in the #BatonRouge area!",
+            "favourites_count": 209,
+            "followers_count": 9159,
+            "friends_count": 16,
+            "geo_enabled": true,
+            "id": 367945799,
+            "id_str": "367945799",
+            "listed_count": 129,
+            "location": "Baton Rouge, LA",
+            "name": "WBRZ Weather",
+            "profile_background_color": "555A5C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/367945799/1529084550",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/973564157021716481/WdnlB-1c_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/973564157021716481/WdnlB-1c_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "WBRZweather",
+            "statuses_count": 29204,
+            "url": "http://t.co/Bz5AdGrkFW"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @WBRZweather: More rain is on the way. Returning to work? PLEASE remember not to drive across flooded roads. If it is raining so hard th\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 12 20:05:23 +0000 2018",
+        "default_profile": true,
+        "description": "Treated uninsured patients as a doctor in Louisiana\u2019s charity hospital system, now serving the people of my state in the US Senate. Proud LSU grad! #GeauxTigers",
+        "favourites_count": 188,
+        "followers_count": 12339,
+        "friends_count": 1091,
+        "id": 1017500185356853248,
+        "id_str": "1017500185356853248",
+        "listed_count": 284,
+        "location": "Baton Rouge, LA",
+        "name": "U.S. Senator Bill Cassidy, M.D.",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017500185356853248/1547826031",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017836622145040386/DcP_lQSc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017836622145040386/DcP_lQSc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenBillCassidy",
+        "statuses_count": 1461,
+        "url": "https://t.co/yd6jxEbab5",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 367945799,
+            "id_str": "367945799",
+            "name": "WBRZ Weather",
+            "screen_name": "WBRZweather"
+        }
+    ]
+}

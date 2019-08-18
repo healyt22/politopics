@@ -1,0 +1,106 @@
+{
+    "created_at": "Fri Aug 21 23:32:41 +0000 2015",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "CAWaterCrisis"
+        }
+    ],
+    "id": 634870768892006400,
+    "id_str": "634870768892006400",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/KrrrYNGlbb",
+            "expanded_url": "https://twitter.com/Rep_DevinNunes/status/634870768892006400/photo/1",
+            "id": 634870768438870017,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CM-DmacUAAErqSB.png",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CM-DmacUAAErqSB.png",
+            "sizes": {
+                "large": {
+                    "w": 900,
+                    "h": 542,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 410,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 542,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                }
+            },
+            "type": "animated_gif",
+            "url": "http://t.co/KrrrYNGlbb",
+            "video_info": {
+                "aspect_ratio": [
+                    450,
+                    271
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/CM-DmacUAAErqSB.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Discussing #CAWaterCrisis w/ @SenAndyVidak and others at 5 PST today. Listen live on @kmjnow: http://t.co/SatYXNYCC4 http://t.co/KrrrYNGlbb",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/Rdt8v",
+            "url": "http://t.co/SatYXNYCC4"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 29 21:40:22 +0000 2011",
+        "default_profile": true,
+        "followers_count": 34272,
+        "friends_count": 15,
+        "id": 344972339,
+        "id_str": "344972339",
+        "listed_count": 488,
+        "location": "Washington, DC",
+        "name": "Rep. Devin Nunes",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344972339/1353428355",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDevinNunes",
+        "statuses_count": 169,
+        "url": "http://t.co/qslO3rsq"
+    },
+    "user_mentions": [
+        {
+            "id": 1689528176,
+            "id_str": "1689528176",
+            "name": "Andy Vidak",
+            "screen_name": "SenAndyVidak"
+        },
+        {
+            "id": 40051702,
+            "id_str": "40051702",
+            "name": "KMJNOW",
+            "screen_name": "KMJNOW"
+        }
+    ]
+}

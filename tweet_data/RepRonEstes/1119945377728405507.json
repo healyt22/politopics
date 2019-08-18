@@ -1,0 +1,105 @@
+{
+    "created_at": "Sun Apr 21 12:46:00 +0000 2019",
+    "favorite_count": 18,
+    "hashtags": [
+        {
+            "text": "Easter"
+        }
+    ],
+    "id": 1119945377728405507,
+    "id_str": "1119945377728405507",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/rIIUWit5dK",
+            "expanded_url": "https://twitter.com/RepRonEstes/status/1119945377728405507/video/1",
+            "id": 1119321448131309570,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119321448131309570/pu/img/SPyw1tv3Dlm9HYhi.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119321448131309570/pu/img/SPyw1tv3Dlm9HYhi.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/rIIUWit5dK",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 50117,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1119321448131309570/pu/vid/320x180/HZmn6BWCyFH696rs.mp4?tag=8"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1119321448131309570/pu/pl/VGZsI_LfCdkUn3_o.m3u8?tag=8"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1119321448131309570/pu/vid/1280x720/6OtHz_pMWhs4Ih0H.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1119321448131309570/pu/vid/640x360/WmLUDQSuOVk0o1M5.mp4?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Have a happy and blessed #Easter. https://t.co/rIIUWit5dK",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Apr 19 15:15:27 +0000 2017",
+        "description": "Official Twitter of Congressman Ron Estes. Proudly serving the 4th District of Kansas\ud83c\udf3b#KS04",
+        "favourites_count": 122,
+        "followers_count": 4283,
+        "friends_count": 1849,
+        "geo_enabled": true,
+        "id": 854715071116849157,
+        "id_str": "854715071116849157",
+        "listed_count": 212,
+        "location": "Wichita, KS",
+        "name": "Rep. Ron Estes",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/854715071116849157/1543595538",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/859497281317482498/9I2gHXlr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/859497281317482498/9I2gHXlr_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRonEstes",
+        "statuses_count": 903,
+        "url": "https://t.co/NJSexJkaxg",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jun 26 14:02:31 +0000 2019",
+    "favorite_count": 24,
+    "hashtags": [
+        {
+            "text": "CongressionalBaseballGame"
+        }
+    ],
+    "id": 1143882232576323584,
+    "id_str": "1143882232576323584",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/nxYchT4FNe",
+            "expanded_url": "https://twitter.com/RepCarbajal/status/1143882232576323584/video/1",
+            "id": 1143882206907195392,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143882206907195392/pu/img/5_xDjxdJg2UhSFVD.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143882206907195392/pu/img/5_xDjxdJg2UhSFVD.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 352,
+                    "h": 200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 352,
+                    "h": 200,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 352,
+                    "h": 200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/nxYchT4FNe",
+            "video_info": {
+                "aspect_ratio": [
+                    44,
+                    25
+                ],
+                "duration_millis": 11132,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1143882206907195392/pu/vid/352x200/APwMsBifRHkMUboV.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1143882206907195392/pu/pl/IO-xofHM2ue_jXPC.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "T-9 hours until the #CongressionalBaseballGame for charity! Fit a last minute batting practice in this morning. \u26be\ufe0f https://t.co/nxYchT4FNe",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 03 05:42:06 +0000 2017",
+        "description": "Father, husband, & veteran proudly representing California\u2019s 24th District. Working to protect the environment, improve our economy, and support our veterans.",
+        "favourites_count": 206,
+        "followers_count": 9603,
+        "friends_count": 824,
+        "id": 816157667882373120,
+        "id_str": "816157667882373120",
+        "listed_count": 404,
+        "name": "Rep. Salud Carbajal",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816157667882373120/1483423693",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1101128802963505152/AfgDKkfc_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101128802963505152/AfgDKkfc_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepCarbajal",
+        "statuses_count": 2090,
+        "url": "https://t.co/NUyaVL9EFp",
+        "verified": true
+    },
+    "user_mentions": []
+}

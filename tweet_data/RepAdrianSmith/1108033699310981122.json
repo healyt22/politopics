@@ -1,0 +1,110 @@
+{
+    "created_at": "Tue Mar 19 15:53:14 +0000 2019",
+    "hashtags": [],
+    "id": 1108033699310981122,
+    "id_str": "1108033699310981122",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Tue Mar 19 15:49:32 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1108032766732656642,
+        "id_str": "1108032766732656642",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @RepAdrianSmith for visiting @NebDairy member Bousquet Dairy to tour their farm and flooding damage. Than\u2026 https://t.co/Lbmu1I8TU2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1108032766732656642",
+                "url": "https://t.co/Lbmu1I8TU2"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 10 16:47:56 +0000 2017",
+            "default_profile": true,
+            "favourites_count": 232,
+            "followers_count": 189,
+            "friends_count": 185,
+            "id": 818861944593666049,
+            "id_str": "818861944593666049",
+            "name": "NebStateDairyAssn",
+            "profile_background_color": "F5F8FA",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/830484158241705984/Y_sgNdRc_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/830484158241705984/Y_sgNdRc_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NebDairy",
+            "statuses_count": 384
+        },
+        "user_mentions": [
+            {
+                "id": 296245061,
+                "id_str": "296245061",
+                "name": "Rep. Adrian Smith",
+                "screen_name": "RepAdrianSmith"
+            },
+            {
+                "id": 818861944593666049,
+                "id_str": "818861944593666049",
+                "name": "NebStateDairyAssn",
+                "screen_name": "NebDairy"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NebDairy: Thank you @RepAdrianSmith for visiting @NebDairy member Bousquet Dairy to tour their farm and flooding damage. Thank you for\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue May 10 12:52:01 +0000 2011",
+        "description": "Proudly serving the 3rd District of Nebraska in the U.S. House of Representatives",
+        "favourites_count": 1,
+        "followers_count": 12432,
+        "friends_count": 392,
+        "id": 296245061,
+        "id_str": "296245061",
+        "listed_count": 618,
+        "location": "Gering, NE / Washington, DC",
+        "name": "Rep. Adrian Smith",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296245061/1487278194",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/832318343872921605/fJFr9CvP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/832318343872921605/fJFr9CvP_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAdrianSmith",
+        "statuses_count": 3636,
+        "url": "http://t.co/pOBhoFPbKa",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 818861944593666049,
+            "id_str": "818861944593666049",
+            "name": "NebStateDairyAssn",
+            "screen_name": "NebDairy"
+        },
+        {
+            "id": 296245061,
+            "id_str": "296245061",
+            "name": "Rep. Adrian Smith",
+            "screen_name": "RepAdrianSmith"
+        },
+        {
+            "id": 818861944593666049,
+            "id_str": "818861944593666049",
+            "name": "NebStateDairyAssn",
+            "screen_name": "NebDairy"
+        }
+    ]
+}

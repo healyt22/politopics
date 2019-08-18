@@ -1,0 +1,80 @@
+{
+    "created_at": "Sat Jun 25 00:01:53 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "ABetterWay"
+        }
+    ],
+    "id": 746493579799977984,
+    "id_str": "746493579799977984",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/WTXY8kCePE",
+            "expanded_url": "https://twitter.com/Rep_DevinNunes/status/746493579799977984/photo/1",
+            "id": 746493577090441216,
+            "media_url": "http://pbs.twimg.com/media/ClwT9AmWIAAoTDM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ClwT9AmWIAAoTDM.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 236,
+                    "h": 180,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 236,
+                    "h": 180,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 236,
+                    "h": 180,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/WTXY8kCePE"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "June 24, 2016 - the day the tax revolution began: https://t.co/omacCJbR1h #ABetterWay https://t.co/WTXY8kCePE",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/HZ9s301CoXQ",
+            "url": "https://t.co/omacCJbR1h"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 29 21:40:22 +0000 2011",
+        "default_profile": true,
+        "followers_count": 34272,
+        "friends_count": 15,
+        "id": 344972339,
+        "id_str": "344972339",
+        "listed_count": 488,
+        "location": "Washington, DC",
+        "name": "Rep. Devin Nunes",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344972339/1353428355",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDevinNunes",
+        "statuses_count": 169,
+        "url": "http://t.co/qslO3rsq"
+    },
+    "user_mentions": []
+}

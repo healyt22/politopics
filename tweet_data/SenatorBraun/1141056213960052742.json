@@ -1,0 +1,171 @@
+{
+    "created_at": "Tue Jun 18 18:52:55 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1141056213960052742,
+    "id_str": "1141056213960052742",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Tue Jun 18 18:23:54 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "guybensonshow"
+            }
+        ],
+        "id": 1141048911760633856,
+        "id_str": "1141048911760633856",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "less than an hour till the #guybensonshow is live! coming up @SenatorBraun, @LizRNC &amp; @tomhfh. Tune in on @SIRIUSXM\u2026 https://t.co/JHMZsiCXHZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141048911760633856",
+                "url": "https://t.co/JHMZsiCXHZ"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 21 17:55:00 +0000 2018",
+            "description": "3-6 PM ET FOX News Talk, Sirius XM 450, and on the FOX News App!",
+            "favourites_count": 191,
+            "followers_count": 4948,
+            "friends_count": 460,
+            "geo_enabled": true,
+            "id": 966370685240135703,
+            "id_str": "966370685240135703",
+            "listed_count": 46,
+            "location": "Washington, DC",
+            "name": "The Guy Benson Show",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/966370685240135703/1559393511",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1126373510119657472/n4OO3yiu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126373510119657472/n4OO3yiu_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "GuyBensonShow",
+            "statuses_count": 324
+        },
+        "user_mentions": [
+            {
+                "id": 1080870981877534720,
+                "id_str": "1080870981877534720",
+                "name": "Senator Mike Braun",
+                "screen_name": "SenatorBraun"
+            },
+            {
+                "id": 757832485,
+                "id_str": "757832485",
+                "name": "Elizabeth Harrington",
+                "screen_name": "LizRNC"
+            },
+            {
+                "id": 453473029,
+                "id_str": "453473029",
+                "name": "Tom Harwood",
+                "screen_name": "tomhfh"
+            },
+            {
+                "id": 189258194,
+                "id_str": "189258194",
+                "name": "SiriusXM",
+                "screen_name": "SIRIUSXM"
+            }
+        ]
+    },
+    "quoted_status_id": 1141048911760633856,
+    "quoted_status_id_str": "1141048911760633856",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Tune in to the @GuyBensonShow on @foxnewsradio at 3:  https://t.co/3VnJrJeXsD https://t.co/ZBgO0Lzf75",
+    "urls": [
+        {
+            "expanded_url": "https://radio.foxnews.com/fox-news-talk/guy-benson/",
+            "url": "https://t.co/3VnJrJeXsD"
+        },
+        {
+            "expanded_url": "https://twitter.com/GuyBensonShow/status/1141048911760633856",
+            "url": "https://t.co/ZBgO0Lzf75"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 16:58:18 +0000 2019",
+        "description": "Main Street entrepreneur & Hoosier U.S. Senator from Jasper, IN.",
+        "favourites_count": 8,
+        "followers_count": 5972,
+        "friends_count": 111,
+        "geo_enabled": true,
+        "id": 1080870981877534720,
+        "id_str": "1080870981877534720",
+        "listed_count": 199,
+        "location": "Jasper, IN",
+        "name": "Senator Mike Braun",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080870981877534720/1560287247",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080872040184401924/tXytvVUd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080872040184401924/tXytvVUd_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenatorBraun",
+        "statuses_count": 538,
+        "url": "https://t.co/ChBgzUcPIG",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 966370685240135703,
+            "id_str": "966370685240135703",
+            "name": "The Guy Benson Show",
+            "screen_name": "GuyBensonShow"
+        },
+        {
+            "id": 11611052,
+            "id_str": "11611052",
+            "name": "FOX News Radio",
+            "screen_name": "foxnewsradio"
+        }
+    ]
+}

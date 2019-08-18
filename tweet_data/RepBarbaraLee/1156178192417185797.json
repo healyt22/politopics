@@ -1,0 +1,85 @@
+{
+    "created_at": "Tue Jul 30 12:22:16 +0000 2019",
+    "favorite_count": 139,
+    "hashtags": [
+        {
+            "text": "SickleCell"
+        }
+    ],
+    "id": 1156178192417185797,
+    "id_str": "1156178192417185797",
+    "lang": "en",
+    "place": {
+        "id": "319ee7b36c9149da",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json",
+        "place_type": "city",
+        "name": "Arlington",
+        "full_name": "Arlington, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 49,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "About 1 in 13 African Americans are born with #SickleCell Trait. Stories like this highlight exactly why we need to\u2026 https://t.co/Ialal2rMWJ",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1156178192417185797",
+            "url": "https://t.co/Ialal2rMWJ"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 07 16:28:28 +0000 2011",
+        "description": "Progressive Democrat representing the #EastBay. Promoting justice for all, peace, & human rights. @ProChoiceCaucus Co-Chair. Proud member of the #resistance.",
+        "favourites_count": 4007,
+        "followers_count": 244079,
+        "friends_count": 16284,
+        "geo_enabled": true,
+        "id": 248735463,
+        "id_str": "248735463",
+        "listed_count": 3323,
+        "location": "Washington, DC and Oakland, CA",
+        "name": "Rep. Barbara Lee",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248735463/1438096272",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/831276027674558470/o7pTafU9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/831276027674558470/o7pTafU9_normal.jpg",
+        "profile_link_color": "B71234",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBarbaraLee",
+        "statuses_count": 10029,
+        "url": "https://t.co/hfpx6kAg4s",
+        "verified": true
+    },
+    "user_mentions": []
+}

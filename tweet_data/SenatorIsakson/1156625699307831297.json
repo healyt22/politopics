@@ -1,0 +1,126 @@
+{
+    "created_at": "Wed Jul 31 18:00:30 +0000 2019",
+    "favorite_count": 33,
+    "hashtags": [],
+    "id": 1156625699307831297,
+    "id_str": "1156625699307831297",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 31 12:45:25 +0000 2019",
+        "favorite_count": 45,
+        "hashtags": [
+            {
+                "text": "HAPPENINGNOW"
+            }
+        ],
+        "id": 1156546407865737220,
+        "id_str": "1156546407865737220",
+        "lang": "en",
+        "retweet_count": 11,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#HAPPENINGNOW over 280 more Soldiers of the @48thIBCT have landed on @USAGStewartHAAF &amp; as special as today is, it\u2026 https://t.co/X57gfcqbco",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156546407865737220",
+                "url": "https://t.co/X57gfcqbco"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 17 19:22:22 +0000 2009",
+            "description": "This is the official Georgia National Guard Twitter profile. (Follows and RTs are not endorsements)",
+            "favourites_count": 855,
+            "followers_count": 14814,
+            "friends_count": 1991,
+            "geo_enabled": true,
+            "id": 48079753,
+            "id_str": "48079753",
+            "listed_count": 416,
+            "location": "Marietta, Ga",
+            "name": "GA National Guard",
+            "profile_background_color": "01437D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/48079753/1437415220",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/644551516/GeorgiaNationalGuard_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/644551516/GeorgiaNationalGuard_normal.png",
+            "profile_link_color": "751A1A",
+            "profile_sidebar_border_color": "07071A",
+            "profile_sidebar_fill_color": "E4E6ED",
+            "profile_text_color": "23278C",
+            "profile_use_background_image": true,
+            "screen_name": "GeorgiaGuard",
+            "statuses_count": 8574,
+            "url": "https://t.co/iabaTPQu9u",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 872521034288812032,
+                "id_str": "872521034288812032",
+                "name": "48th IBCT",
+                "screen_name": "48thIBCT"
+            },
+            {
+                "id": 953990990615990273,
+                "id_str": "953990990615990273",
+                "name": "Fort Stewart-Hunter Army Airfield",
+                "screen_name": "USAGStewartHAAF"
+            }
+        ]
+    },
+    "quoted_status_id": 1156546407865737220,
+    "quoted_status_id_str": "1156546407865737220",
+    "retweet_count": 10,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "This morning, more soldiers from @48thIBCT returned home to @USAGStewartHAAF from their deployment in Afghanistan.\u2026 https://t.co/9dOPRUnVpq",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1156625699307831297",
+            "url": "https://t.co/9dOPRUnVpq"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 29 20:09:30 +0000 2009",
+        "description": "U.S. Senator Johnny Isakson, R-Ga. | Committees: Veterans' Affairs, Chairman; Ethics, Chairman; Foreign Relations; HELP; Finance.\nKeep comments family friendly.",
+        "favourites_count": 819,
+        "followers_count": 66373,
+        "friends_count": 456,
+        "geo_enabled": true,
+        "id": 78403308,
+        "id_str": "78403308",
+        "listed_count": 2132,
+        "location": "GA & DC",
+        "name": "Johnny Isakson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78403308/1488812068",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorIsakson",
+        "statuses_count": 6318,
+        "url": "http://t.co/n3mMYfmg5C",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 872521034288812032,
+            "id_str": "872521034288812032",
+            "name": "48th IBCT",
+            "screen_name": "48thIBCT"
+        },
+        {
+            "id": 953990990615990273,
+            "id_str": "953990990615990273",
+            "name": "Fort Stewart-Hunter Army Airfield",
+            "screen_name": "USAGStewartHAAF"
+        }
+    ]
+}

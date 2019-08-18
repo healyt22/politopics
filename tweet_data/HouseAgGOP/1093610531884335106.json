@@ -1,0 +1,176 @@
+{
+    "created_at": "Thu Feb 07 20:40:43 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [
+        {
+            "text": "HouseAg"
+        },
+        {
+            "text": "116thCongress"
+        }
+    ],
+    "id": 1093610531884335106,
+    "id_str": "1093610531884335106",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Feb 07 16:25:33 +0000 2019",
+        "favorite_count": 35,
+        "hashtags": [
+            {
+                "text": "TrentTreats"
+            },
+            {
+                "text": "KellyKrispies"
+            }
+        ],
+        "id": 1093546315898896390,
+        "id_str": "1093546315898896390",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ccDn1bATqW",
+                "expanded_url": "https://twitter.com/RepRickCrawford/status/1093546315898896390/photo/1",
+                "id": 1093546311104823296,
+                "media_url": "http://pbs.twimg.com/media/Dy0Ok3rXgAAtauK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Dy0Ok3rXgAAtauK.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1936,
+                        "h": 1936,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ccDn1bATqW"
+            }
+        ],
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Different Congress, same snacks #TrentTreats #KellyKrispies @RepTrentKelly https://t.co/ccDn1bATqW",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jan 03 21:57:49 +0000 2011",
+            "description": "Representing Arkansas's 1st District in the United States House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee",
+            "favourites_count": 1519,
+            "followers_count": 18734,
+            "friends_count": 1047,
+            "geo_enabled": true,
+            "id": 233693291,
+            "id_str": "233693291",
+            "listed_count": 894,
+            "location": "Washington, DC",
+            "name": "Rep Rick Crawford",
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/233693291/1514907502",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+            "profile_link_color": "048C09",
+            "profile_sidebar_border_color": "2E517B",
+            "profile_sidebar_fill_color": "C1CCDE",
+            "profile_text_color": "2424C7",
+            "profile_use_background_image": true,
+            "screen_name": "RepRickCrawford",
+            "statuses_count": 5255,
+            "url": "https://t.co/Bh2OlD3a1Q",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 3317799825,
+                "id_str": "3317799825",
+                "name": "Trent Kelly",
+                "screen_name": "RepTrentKelly"
+            }
+        ]
+    },
+    "quoted_status_id": 1093546315898896390,
+    "quoted_status_id_str": "1093546315898896390",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Need to fuel up for the first #HouseAg business mtg of the #116thCongress. https://t.co/4Ck4htCcDi",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RepRickCrawford/status/1093546315898896390",
+            "url": "https://t.co/4Ck4htCcDi"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 06 00:23:09 +0000 2011",
+        "description": "News and updates from Ranking Member K. Michael Conaway (TX-11) and the House Agriculture Committee Republicans.",
+        "favourites_count": 1235,
+        "followers_count": 22322,
+        "friends_count": 1202,
+        "id": 234573331,
+        "id_str": "234573331",
+        "listed_count": 739,
+        "location": "Washington, DC",
+        "name": "House Ag GOP",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234573331/1546292390",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1079854667159519232/pPY07xeq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079854667159519232/pPY07xeq_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "HouseAgGOP",
+        "statuses_count": 6224,
+        "url": "https://t.co/uOxGCh55qL",
+        "verified": true
+    },
+    "user_mentions": []
+}

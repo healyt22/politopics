@@ -1,0 +1,79 @@
+{
+    "created_at": "Fri May 24 02:36:49 +0000 2019",
+    "favorite_count": 266,
+    "hashtags": [],
+    "id": 1131750871577124869,
+    "id_str": "1131750871577124869",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/pgZ5eYwuDF",
+            "expanded_url": "https://twitter.com/BradSherman/status/1131750871577124869/photo/1",
+            "id": 1131750861468778498,
+            "media_url": "http://pbs.twimg.com/media/D7TJaYgWwAI4lct.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7TJaYgWwAI4lct.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1200,
+                    "h": 1600,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/pgZ5eYwuDF"
+        }
+    ],
+    "retweet_count": 15,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Always happy to meet and eat with my good friend @SenSanders at our local Chinese restaurant. https://t.co/pgZ5eYwuDF",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 13:38:03 +0000 2009",
+        "description": "Proudly serving California's San Fernando Valley in the U.S. Congress. Admission: Some tweets are prepared by my staff on my behalf. RTs are not an endorsement.",
+        "favourites_count": 21,
+        "followers_count": 48097,
+        "friends_count": 667,
+        "id": 30216513,
+        "id_str": "30216513",
+        "listed_count": 1301,
+        "location": "Sherman Oaks, CA",
+        "name": "Rep. Brad Sherman",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30216513/1548176559",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/938782994591916032/BQlooFe5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/938782994591916032/BQlooFe5_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "BradSherman",
+        "statuses_count": 2095,
+        "url": "https://t.co/SyFUwfPtR8",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 29442313,
+            "id_str": "29442313",
+            "name": "Bernie Sanders",
+            "screen_name": "SenSanders"
+        }
+    ]
+}

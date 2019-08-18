@@ -1,0 +1,181 @@
+{
+    "created_at": "Wed Feb 13 13:47:28 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1095680860106473472,
+    "id_str": "1095680860106473472",
+    "lang": "en",
+    "place": {
+        "id": "288de3df481163e8",
+        "url": "https://api.twitter.com/1.1/geo/id/288de3df481163e8.json",
+        "place_type": "admin",
+        "name": "Alabama",
+        "full_name": "Alabama, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -88.473228,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        35.008029
+                    ],
+                    [
+                        -88.473228,
+                        35.008029
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Wed Feb 13 01:19:29 +0000 2019",
+        "favorite_count": 93,
+        "hashtags": [],
+        "id": 1095492624914485248,
+        "id_str": "1095492624914485248",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ZaIGKnQ57h",
+                "expanded_url": "https://twitter.com/HollyPondHigh/status/1095492624914485248/video/1",
+                "id": 1095492446866292738,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095492446866292738/pu/img/za_YLCyiJbru7QPD.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095492446866292738/pu/img/za_YLCyiJbru7QPD.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/ZaIGKnQ57h",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 68632,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1095492446866292738/pu/vid/720x1280/CMewEtodxb5-ABsk.mp4?tag=6"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1095492446866292738/pu/pl/NV6sdnrXdQwIP6gT.m3u8?tag=6"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1095492446866292738/pu/vid/360x640/8wTasNFzlJ34vGTv.mp4?tag=6"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1095492446866292738/pu/vid/320x568/AzDXg0kHToEraQy4.mp4?tag=6"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 23,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to Polly Easterwood for singing the National Anthem before the game tonight. https://t.co/ZaIGKnQ57h",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Aug 23 01:54:28 +0000 2011",
+            "default_profile": true,
+            "description": "Official Twitter account for Holly Pond High.",
+            "favourites_count": 1185,
+            "followers_count": 848,
+            "friends_count": 129,
+            "geo_enabled": true,
+            "id": 360337191,
+            "id_str": "360337191",
+            "listed_count": 7,
+            "name": "Holly Pond High",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/360337191/1416446879",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1509107488/bronco__green__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1509107488/bronco__green__normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HollyPondHigh",
+            "statuses_count": 2487
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1095492624914485248,
+    "quoted_status_id_str": "1095492624914485248",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Mrs. Easterwood did a great job! https://t.co/mcFMBhcpEQ",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/HollyPondHigh/status/1095492624914485248",
+            "url": "https://t.co/mcFMBhcpEQ"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 22 21:16:37 +0000 2009",
+        "description": "Proudly serving the 4th Congressional District of Alabama in the United States House of Representatives",
+        "favourites_count": 291,
+        "followers_count": 25960,
+        "friends_count": 374,
+        "geo_enabled": true,
+        "id": 76452765,
+        "id_str": "76452765",
+        "listed_count": 1127,
+        "location": "Haleyville, AL",
+        "name": "Rep. Robert Aderholt",
+        "profile_background_color": "1C24B0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76452765/1563387658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_link_color": "A60C25",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Robert_Aderholt",
+        "statuses_count": 1649,
+        "verified": true
+    },
+    "user_mentions": []
+}

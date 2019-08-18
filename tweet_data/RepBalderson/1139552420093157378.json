@@ -1,0 +1,128 @@
+{
+    "created_at": "Fri Jun 14 15:17:23 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "614Day"
+        }
+    ],
+    "id": 1139552420093157378,
+    "id_str": "1139552420093157378",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jun 14 14:19:42 +0000 2019",
+        "favorite_count": 370,
+        "hashtags": [
+            {
+                "text": "GoBucks"
+            }
+        ],
+        "id": 1139537905787928577,
+        "id_str": "1139537905787928577",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9WDgmTsTHH",
+                "expanded_url": "https://twitter.com/Brutus_Buckeye/status/1139537905787928577/photo/1",
+                "id": 1139536881870225408,
+                "media_url": "http://pbs.twimg.com/media/D9BywaxUwAAKzZ6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9BywaxUwAAKzZ6.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1900,
+                        "h": 1267,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/9WDgmTsTHH"
+            }
+        ],
+        "retweet_count": 69,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "There's no place like \ud83c\udfe0 \n\nHappy 6\ufe0f\u20e31\ufe0f\u20e34\ufe0f\u20e3 Day \ud83d\ude0e\n\n#GoBucks https://t.co/9WDgmTsTHH",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Apr 08 14:27:07 +0000 2009",
+            "description": "The official mascot of Ohio State athletics brings you pure fandemonium, pics, vids & #GoBucks all day, every day!",
+            "favourites_count": 15286,
+            "followers_count": 185022,
+            "friends_count": 1701,
+            "geo_enabled": true,
+            "id": 29725914,
+            "id_str": "29725914",
+            "listed_count": 1010,
+            "location": "Columbus, OH",
+            "name": "Brutus Buckeye",
+            "profile_background_color": "CC052E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29725914/1487288443",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1088900045599068167/TbzOJ6Rh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088900045599068167/TbzOJ6Rh_normal.jpg",
+            "profile_link_color": "0A0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D4D6D8",
+            "profile_text_color": "CC052E",
+            "profile_use_background_image": true,
+            "screen_name": "Brutus_Buckeye",
+            "statuses_count": 52578,
+            "url": "https://t.co/5yo8T4uy7o",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1139537905787928577,
+    "quoted_status_id_str": "1139537905787928577",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Happy #614Day, Columbus! https://t.co/T4iBhkBa5K",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/Brutus_Buckeye/status/1139537905787928577",
+            "url": "https://t.co/T4iBhkBa5K"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 05 14:07:50 +0000 2018",
+        "default_profile": true,
+        "description": "Proudly serving Ohio's 12th Congressional District.",
+        "favourites_count": 176,
+        "followers_count": 1428,
+        "friends_count": 308,
+        "id": 1037341536592310272,
+        "id_str": "1037341536592310272",
+        "listed_count": 111,
+        "location": "Zanesville, OH",
+        "name": "Congressman Troy Balderson",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1037341536592310272/1558631563",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1073328449547366402/qK8dInvc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073328449547366402/qK8dInvc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBalderson",
+        "statuses_count": 381,
+        "url": "https://t.co/af3B3U9tRX",
+        "verified": true
+    },
+    "user_mentions": []
+}

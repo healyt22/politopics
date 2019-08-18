@@ -1,0 +1,84 @@
+{
+    "created_at": "Wed Aug 07 16:12:05 +0000 2019",
+    "favorite_count": 45,
+    "hashtags": [
+        {
+            "text": "NMFoodTour"
+        }
+    ],
+    "id": 1159135131879137282,
+    "id_str": "1159135131879137282",
+    "lang": "en",
+    "place": {
+        "id": "813a485b26b8dae2",
+        "url": "https://api.twitter.com/1.1/geo/id/813a485b26b8dae2.json",
+        "place_type": "city",
+        "name": "Albuquerque",
+        "full_name": "Albuquerque, NM",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -106.7916912,
+                        35.0158912
+                    ],
+                    [
+                        -106.473745,
+                        35.0158912
+                    ],
+                    [
+                        -106.473745,
+                        35.218114
+                    ],
+                    [
+                        -106.7916912,
+                        35.218114
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 12,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Excited to kick off my #NMFoodTour and share the success of New Mexico\u2019s local farms and agriculture. You may not k\u2026 https://t.co/PprVahWxMS",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1159135131879137282",
+            "url": "https://t.co/PprVahWxMS"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 17 20:24:19 +0000 2013",
+        "description": "United States Senator from New Mexico",
+        "favourites_count": 680,
+        "followers_count": 189567,
+        "friends_count": 572,
+        "geo_enabled": true,
+        "id": 1099199839,
+        "id_str": "1099199839",
+        "listed_count": 1930,
+        "name": "Martin Heinrich",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099199839/1513792542",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091387172282867718/pNhlcC9I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091387172282867718/pNhlcC9I_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "MartinHeinrich",
+        "statuses_count": 7631,
+        "url": "https://t.co/97adkYcq3x",
+        "verified": true
+    },
+    "user_mentions": []
+}

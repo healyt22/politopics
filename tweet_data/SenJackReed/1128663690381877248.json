@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed May 15 14:09:28 +0000 2019",
+    "hashtags": [],
+    "id": 1128663690381877248,
+    "id_str": "1128663690381877248",
+    "lang": "en",
+    "retweet_count": 881,
+    "retweeted_status": {
+        "created_at": "Tue May 14 20:42:52 +0000 2019",
+        "favorite_count": 3043,
+        "hashtags": [],
+        "id": 1128400305274720257,
+        "id_str": "1128400305274720257",
+        "lang": "en",
+        "retweet_count": 881,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The reason I\u2019m going after the @USChamber is because they\u2019re the biggest, baddest, worst lobbying &amp; influence group\u2026 https://t.co/2qXfOPTWch",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1128400305274720257",
+                "url": "https://t.co/2qXfOPTWch"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 25 01:52:03 +0000 2011",
+            "description": "U.S. Senator from Rhode Island, the Ocean State.",
+            "favourites_count": 483,
+            "followers_count": 330227,
+            "friends_count": 1837,
+            "id": 242555999,
+            "id_str": "242555999",
+            "listed_count": 3365,
+            "location": "Rhode Island",
+            "name": "Sheldon Whitehouse",
+            "profile_background_color": "7B91AA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/242555999/1552737288",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1136336143358734336/Iu2Kvnww_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136336143358734336/Iu2Kvnww_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenWhitehouse",
+            "statuses_count": 12381,
+            "url": "https://t.co/zi0ijI1KND",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 85606078,
+                "id_str": "85606078",
+                "name": "U.S. Chamber",
+                "screen_name": "USChamber"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SenWhitehouse: The reason I\u2019m going after the @USChamber is because they\u2019re the biggest, baddest, worst lobbying &amp; influence group in W\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 08 15:24:01 +0000 2012",
+        "description": "Official Twitter feed of Rhode Island\u2019s U.S. Senator Jack Reed.",
+        "favourites_count": 152,
+        "followers_count": 93739,
+        "friends_count": 36,
+        "id": 486694111,
+        "id_str": "486694111",
+        "listed_count": 1812,
+        "location": "Providence, Rhode Island",
+        "name": "Senator Jack Reed",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/486694111/1431108911",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/611042380846907393/L-JV9zuJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/611042380846907393/L-JV9zuJ_normal.jpg",
+        "profile_link_color": "42398A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJackReed",
+        "statuses_count": 5913,
+        "url": "http://t.co/zRkAemKyYn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 242555999,
+            "id_str": "242555999",
+            "name": "Sheldon Whitehouse",
+            "screen_name": "SenWhitehouse"
+        },
+        {
+            "id": 85606078,
+            "id_str": "85606078",
+            "name": "U.S. Chamber",
+            "screen_name": "USChamber"
+        }
+    ]
+}

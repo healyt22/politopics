@@ -1,0 +1,112 @@
+{
+    "created_at": "Tue May 21 13:50:05 +0000 2019",
+    "hashtags": [],
+    "id": 1130833142598852611,
+    "id_str": "1130833142598852611",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Mon May 20 21:31:53 +0000 2019",
+        "favorite_count": 37,
+        "hashtags": [],
+        "id": 1130586969770274819,
+        "id_str": "1130586969770274819",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "My Washington DC interns and @SenShelby\u2019s interns got a surprise in the Library of Congress from a photo of\u2026 https://t.co/vjOZoulB4c",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1130586969770274819",
+                "url": "https://t.co/vjOZoulB4c"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Dec 19 19:42:18 +0000 2013",
+            "description": "I am proud to represent Alabama's First Congressional District in the U.S. House of Representatives. Official Congressional Account",
+            "favourites_count": 1244,
+            "followers_count": 22106,
+            "friends_count": 3833,
+            "geo_enabled": true,
+            "id": 2253968388,
+            "id_str": "2253968388",
+            "listed_count": 710,
+            "location": "Southwest Alabama",
+            "name": "Rep. Bradley Byrne",
+            "profile_background_color": "020A63",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2253968388/1541989182",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1092051120795590656/3goKkXpg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092051120795590656/3goKkXpg_normal.jpg",
+            "profile_link_color": "FA0505",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepByrne",
+            "statuses_count": 14971,
+            "url": "https://t.co/u2pktSNMc6",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 21111098,
+                "id_str": "21111098",
+                "name": "Richard Shelby",
+                "screen_name": "SenShelby"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RepByrne: My Washington DC interns and @SenShelby\u2019s interns got a surprise in the Library of Congress from a photo of @FullMoonBBQ in T\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Feb 17 17:53:43 +0000 2009",
+        "description": "The official Twitter page for U.S. Senator Richard Shelby (R-Ala.) https://t.co/YqOy54UpSf",
+        "favourites_count": 335,
+        "followers_count": 82051,
+        "friends_count": 503,
+        "geo_enabled": true,
+        "id": 21111098,
+        "id_str": "21111098",
+        "listed_count": 2148,
+        "location": "Tuscaloosa, Alabama",
+        "name": "Richard Shelby",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21111098/1436912050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+        "profile_link_color": "A60000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "SenShelby",
+        "statuses_count": 2294,
+        "url": "https://t.co/1iULT8X6Vz",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2253968388,
+            "id_str": "2253968388",
+            "name": "Rep. Bradley Byrne",
+            "screen_name": "RepByrne"
+        },
+        {
+            "id": 21111098,
+            "id_str": "21111098",
+            "name": "Richard Shelby",
+            "screen_name": "SenShelby"
+        },
+        {
+            "id": 568788709,
+            "id_str": "568788709",
+            "name": "FullMoonBBQ",
+            "screen_name": "FullMoonBBQ"
+        }
+    ]
+}

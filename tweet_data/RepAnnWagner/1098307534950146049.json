@@ -1,0 +1,121 @@
+{
+    "created_at": "Wed Feb 20 19:44:56 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Engineering"
+        },
+        {
+            "text": "Manufacturing"
+        }
+    ],
+    "id": 1098307534950146049,
+    "id_str": "1098307534950146049",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Wed Feb 20 18:16:10 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "Engineering"
+            },
+            {
+                "text": "Manufacturing"
+            }
+        ],
+        "id": 1098285194048651265,
+        "id_str": "1098285194048651265",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "WATCH: Thank you to @RepAnnWagner for helping us break ground for our new #Engineering and #Manufacturing Complex i\u2026 https://t.co/eqg9bNqE87",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1098285194048651265",
+                "url": "https://t.co/eqg9bNqE87"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 20 14:54:36 +0000 2009",
+            "description": "For 50 years, leading the way in providing innovative technologies and services for defense, security and aerospace.",
+            "favourites_count": 315,
+            "followers_count": 3460,
+            "friends_count": 908,
+            "geo_enabled": true,
+            "id": 58492703,
+            "id_str": "58492703",
+            "listed_count": 105,
+            "location": "Arlington, VA",
+            "name": "Leonardo DRS",
+            "profile_background_color": "737B81",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/58492703/1557503133",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1111779621207453696/sFhceq1y_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111779621207453696/sFhceq1y_normal.png",
+            "profile_link_color": "C61A0D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LeonardoDRSnews",
+            "statuses_count": 2017,
+            "url": "https://t.co/XDgFpNWgde"
+        },
+        "user_mentions": [
+            {
+                "id": 1051446626,
+                "id_str": "1051446626",
+                "name": "Ann Wagner",
+                "screen_name": "RepAnnWagner"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @LeonardoDRSnews: WATCH: Thank you to @RepAnnWagner for helping us break ground for our new #Engineering and #Manufacturing Complex in #\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 01 00:01:45 +0000 2013",
+        "description": "Official Twitter account for Congresswoman Ann Wagner-- proudly Representing the 2nd Congressional District of Missouri https://t.co/6TKCrqRcSw",
+        "favourites_count": 317,
+        "followers_count": 22592,
+        "friends_count": 2674,
+        "geo_enabled": true,
+        "id": 1051446626,
+        "id_str": "1051446626",
+        "listed_count": 817,
+        "location": "Ballwin, MO",
+        "name": "Ann Wagner",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051446626/1422549376",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/949026474769645568/gtC8XH4t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/949026474769645568/gtC8XH4t_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "screen_name": "RepAnnWagner",
+        "statuses_count": 3620,
+        "url": "https://t.co/tFjsHUzj16",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 58492703,
+            "id_str": "58492703",
+            "name": "Leonardo DRS",
+            "screen_name": "LeonardoDRSnews"
+        },
+        {
+            "id": 1051446626,
+            "id_str": "1051446626",
+            "name": "Ann Wagner",
+            "screen_name": "RepAnnWagner"
+        }
+    ]
+}

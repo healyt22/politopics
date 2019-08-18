@@ -1,0 +1,88 @@
+{
+    "created_at": "Wed Jul 24 18:51:14 +0000 2019",
+    "favorite_count": 36,
+    "hashtags": [],
+    "id": 1154101752825884672,
+    "id_str": "1154101752825884672",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/P9Dyw39cgS",
+            "expanded_url": "https://twitter.com/RepLawrence/status/1154101752825884672/photo/1",
+            "id": 1154101742776344578,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EAQxa5zX4AIaoWv.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EAQxa5zX4AIaoWv.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 500,
+                    "h": 352,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 500,
+                    "h": 352,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 500,
+                    "h": 352,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/P9Dyw39cgS",
+            "video_info": {
+                "aspect_ratio": [
+                    125,
+                    88
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/EAQxa5zX4AIaoWv.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Happy Birthday Detroit! Home of Faygo, Vernors and Better Made and cars! https://t.co/P9Dyw39cgS",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 05 18:46:39 +0000 2014",
+        "default_profile": true,
+        "description": "Congresswoman for Michigan's 14th District: Detroit, Southfield, Oakland and Wayne Counties. Instagram: Repbrendalawrence, Facebook: Rep.BLawrence",
+        "favourites_count": 1803,
+        "followers_count": 19092,
+        "friends_count": 1195,
+        "geo_enabled": true,
+        "id": 2863006655,
+        "id_str": "2863006655",
+        "listed_count": 639,
+        "location": "Washington, DC",
+        "name": "Brenda Lawrence",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863006655/1522939165",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979045446420172800/GQ59mg30_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979045446420172800/GQ59mg30_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLawrence",
+        "statuses_count": 4845,
+        "url": "https://t.co/jik2CxOIWT",
+        "verified": true
+    },
+    "user_mentions": []
+}

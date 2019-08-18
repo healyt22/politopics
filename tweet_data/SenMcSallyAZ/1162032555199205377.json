@@ -1,0 +1,92 @@
+{
+    "created_at": "Thu Aug 15 16:05:25 +0000 2019",
+    "favorite_count": 29,
+    "hashtags": [],
+    "id": 1162032555199205377,
+    "id_str": "1162032555199205377",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/4MHBz31CS3",
+            "expanded_url": "https://twitter.com/SenMcSallyAZ/status/1162032555199205377/photo/1",
+            "id": 1162032550212227072,
+            "media_url": "http://pbs.twimg.com/media/ECBecpzXUAACYUI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECBecpzXUAACYUI.jpg",
+            "sizes": {
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/4MHBz31CS3"
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Getting ready to join @troyhaydenfox10 &amp; @SylesteFox10 live on @fox10 in just a few minutes. https://t.co/4MHBz31CS3",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 06 20:39:37 +0000 2015",
+        "description": "First female fighter pilot to fly in combat. Veteran. Dog mom to Boomer. Proudly representing the people of Arizona in the U.S Senate.",
+        "favourites_count": 267,
+        "followers_count": 65329,
+        "friends_count": 736,
+        "geo_enabled": true,
+        "id": 2964949642,
+        "id_str": "2964949642",
+        "listed_count": 1027,
+        "location": "Arizona, USA",
+        "name": "Martha McSally",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964949642/1460992343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090315894109204480/DiDFtf5C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090315894109204480/DiDFtf5C_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenMcSallyAZ",
+        "statuses_count": 3646,
+        "url": "https://t.co/ZaC11aNF6e",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 35874573,
+            "id_str": "35874573",
+            "name": "Troy Hayden",
+            "screen_name": "troyhaydenfox10"
+        },
+        {
+            "id": 1281894235,
+            "id_str": "1281894235",
+            "name": "Syleste Rodriguez",
+            "screen_name": "SylesteFox10"
+        },
+        {
+            "id": 1086538827651526656,
+            "id_str": "1086538827651526656",
+            "name": "Fox",
+            "screen_name": "Fox10"
+        }
+    ]
+}

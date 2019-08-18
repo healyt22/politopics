@@ -1,0 +1,123 @@
+{
+    "created_at": "Tue Jul 16 22:59:40 +0000 2019",
+    "hashtags": [],
+    "id": 1151265170267807745,
+    "id_str": "1151265170267807745",
+    "lang": "en",
+    "retweet_count": 102,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 22:53:36 +0000 2019",
+        "favorite_count": 663,
+        "hashtags": [],
+        "id": 1151263644283527168,
+        "id_str": "1151263644283527168",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 102,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The house just voted 240-187 to condemn Trump\u2019s comments",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Feb 04 21:54:39 +0000 2008",
+            "description": "Senior Political Reporter || Vice News. Daniel.newhauser@vice.com. Formerly: @nationaljournal @rollcall @greenvalleynews @evtnow @statepress",
+            "favourites_count": 1913,
+            "followers_count": 9094,
+            "friends_count": 2738,
+            "geo_enabled": true,
+            "id": 13067732,
+            "id_str": "13067732",
+            "listed_count": 489,
+            "location": "Washington, D.C.",
+            "name": "Daniel Newhauser",
+            "profile_background_color": "303330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13067732/1363743374",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/498865626459299841/lT1OrwIR_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/498865626459299841/lT1OrwIR_normal.jpeg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "screen_name": "dnewhauser",
+            "statuses_count": 14920,
+            "url": "https://t.co/AhZRzk2RGe",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @dnewhauser: The house just voted 240-187 to condemn Trump\u2019s comments",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 16 21:54:28 +0000 2009",
+        "description": "United States Senator from Hawaii. Dad. Climate Hawk. Appropriator. Chief Deputy Whip.",
+        "favourites_count": 5407,
+        "followers_count": 225018,
+        "friends_count": 2211,
+        "geo_enabled": true,
+        "id": 47747074,
+        "id_str": "47747074",
+        "listed_count": 2578,
+        "location": "\u00dcT: 19.72105,-155.087417",
+        "name": "Brian Schatz",
+        "profile_background_color": "063482",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47747074/1504655317",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/840179285440757761/McwUAXF8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/840179285440757761/McwUAXF8_normal.jpg",
+        "profile_link_color": "00B3FF",
+        "profile_sidebar_border_color": "1C65DC",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "1C65DC",
+        "profile_use_background_image": true,
+        "screen_name": "brianschatz",
+        "statuses_count": 11963,
+        "url": "https://t.co/TFoJ19ZTFY",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 13067732,
+            "id_str": "13067732",
+            "name": "Daniel Newhauser",
+            "screen_name": "dnewhauser"
+        }
+    ]
+}

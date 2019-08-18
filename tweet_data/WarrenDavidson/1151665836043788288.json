@@ -1,0 +1,118 @@
+{
+    "created_at": "Thu Jul 18 01:31:46 +0000 2019",
+    "hashtags": [],
+    "id": 1151665836043788288,
+    "id_str": "1151665836043788288",
+    "lang": "en",
+    "retweet_count": 13,
+    "retweeted_status": {
+        "created_at": "Thu Jul 18 00:56:36 +0000 2019",
+        "favorite_count": 43,
+        "hashtags": [],
+        "id": 1151656983516389377,
+        "id_str": "1151656983516389377",
+        "in_reply_to_screen_name": "pye",
+        "in_reply_to_status_id": 1151656382485151744,
+        "in_reply_to_user_id": 4087871,
+        "lang": "en",
+        "retweet_count": 13,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@WarrenDavidson hasn\u2019t been in Congress long, but he has a 100 percent score with @FreedomWorks. Believe me, that\u2026 https://t.co/8wRCP3v5Gi",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151656983516389377",
+                "url": "https://t.co/8wRCP3v5Gi"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Apr 10 22:36:12 +0000 2007",
+            "description": "Politically homeless, libertarian-minded. Raised on punk rock and hardcore. Vice president of legislative affairs for @FreedomWorks. Opinions are my own.",
+            "favourites_count": 121,
+            "followers_count": 6618,
+            "friends_count": 1677,
+            "id": 4087871,
+            "id_str": "4087871",
+            "listed_count": 319,
+            "location": "ATL/DC",
+            "name": "Jason Pye",
+            "profile_background_color": "36414D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4087871/1547045869",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/950836975321387013/wIWbk_YC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/950836975321387013/wIWbk_YC_normal.jpg",
+            "profile_link_color": "36414D",
+            "profile_sidebar_border_color": "A3B8CC",
+            "profile_sidebar_fill_color": "DAE0E6",
+            "profile_text_color": "333333",
+            "screen_name": "pye",
+            "statuses_count": 78344,
+            "url": "https://t.co/WwruEsWmU8"
+        },
+        "user_mentions": [
+            {
+                "id": 742735530287304704,
+                "id_str": "742735530287304704",
+                "name": "Warren Davidson",
+                "screen_name": "WarrenDavidson"
+            },
+            {
+                "id": 14730894,
+                "id_str": "14730894",
+                "name": "FreedomWorks",
+                "screen_name": "FreedomWorks"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @pye: .@WarrenDavidson hasn\u2019t been in Congress long, but he has a 100 percent score with @FreedomWorks. Believe me, that isn\u2019t easy to d\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 14 15:08:44 +0000 2016",
+        "default_profile": true,
+        "description": "U.S. Congressman serving Ohio's 8th District. Constitutionalist and former Army Ranger. It's not compassionate to bankrupt America!",
+        "favourites_count": 3038,
+        "followers_count": 17338,
+        "friends_count": 4159,
+        "geo_enabled": true,
+        "id": 742735530287304704,
+        "id_str": "742735530287304704",
+        "listed_count": 448,
+        "location": "Washington, DC",
+        "name": "Warren Davidson",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/742735530287304704/1563551445",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976467967511810050/t6jWSqm2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976467967511810050/t6jWSqm2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "WarrenDavidson",
+        "statuses_count": 2743,
+        "url": "https://t.co/EbtGc7u36x",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 4087871,
+            "id_str": "4087871",
+            "name": "Jason Pye",
+            "screen_name": "pye"
+        },
+        {
+            "id": 742735530287304704,
+            "id_str": "742735530287304704",
+            "name": "Warren Davidson",
+            "screen_name": "WarrenDavidson"
+        },
+        {
+            "id": 14730894,
+            "id_str": "14730894",
+            "name": "FreedomWorks",
+            "screen_name": "FreedomWorks"
+        }
+    ]
+}

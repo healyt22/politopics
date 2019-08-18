@@ -1,0 +1,104 @@
+{
+    "created_at": "Fri Jun 28 20:04:02 +0000 2019",
+    "hashtags": [],
+    "id": 1144697987433717762,
+    "id_str": "1144697987433717762",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Fri Jun 28 19:05:00 +0000 2019",
+        "favorite_count": 98,
+        "hashtags": [],
+        "id": 1144683131112325120,
+        "id_str": "1144683131112325120",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "My office was honored to receive a visit from @SenBobCasey, who served as Auditor General from 1997 to 2005.\n\nHis p\u2026 https://t.co/hkQdSDHQmJ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1144683131112325120",
+                "url": "https://t.co/hkQdSDHQmJ"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 18 14:18:22 +0000 2013",
+            "description": "Official Account for Pa. Auditor General Eugene DePasquale. Tough, fair, independent fiscal watchdog ensuring taxpayer money is spent legally & effectively.",
+            "favourites_count": 208,
+            "followers_count": 6457,
+            "friends_count": 945,
+            "geo_enabled": true,
+            "id": 1101091676,
+            "id_str": "1101091676",
+            "listed_count": 130,
+            "location": "Harrisburg, PA",
+            "name": "Auditor General Eugene DePasquale",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1101091676/1432318441",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1013402934137315328/R2WzK0Dp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013402934137315328/R2WzK0Dp_normal.jpg",
+            "profile_link_color": "FBA332",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "PAAuditorGen",
+            "statuses_count": 7838,
+            "url": "http://t.co/vhFetWMWPq",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 171598736,
+                "id_str": "171598736",
+                "name": "Senator Bob Casey",
+                "screen_name": "SenBobCasey"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @PAAuditorGen: My office was honored to receive a visit from @SenBobCasey, who served as Auditor General from 1997 to 2005.\n\nHis portrai\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 27 18:38:20 +0000 2010",
+        "description": "Official twitter profile for U.S. Senator Bob Casey.",
+        "favourites_count": 632,
+        "followers_count": 407748,
+        "friends_count": 638,
+        "geo_enabled": true,
+        "id": 171598736,
+        "id_str": "171598736",
+        "listed_count": 3056,
+        "location": "Scranton, PA",
+        "name": "Senator Bob Casey",
+        "profile_background_color": "162F53",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_link_color": "2F6291",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "screen_name": "SenBobCasey",
+        "statuses_count": 9153,
+        "url": "https://t.co/EghtimAhrt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1101091676,
+            "id_str": "1101091676",
+            "name": "Auditor General Eugene DePasquale",
+            "screen_name": "PAAuditorGen"
+        },
+        {
+            "id": 171598736,
+            "id_str": "171598736",
+            "name": "Senator Bob Casey",
+            "screen_name": "SenBobCasey"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "created_at": "Fri Feb 22 15:36:25 +0000 2019",
+    "favorite_count": 340,
+    "hashtags": [],
+    "id": 1098969770043547649,
+    "id_str": "1098969770043547649",
+    "lang": "en",
+    "place": {
+        "id": "3cd4c18d3615bbc9",
+        "url": "https://api.twitter.com/1.1/geo/id/3cd4c18d3615bbc9.json",
+        "place_type": "admin",
+        "name": "Iowa",
+        "full_name": "Iowa, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -96.6396669,
+                        40.375437
+                    ],
+                    [
+                        -90.140061,
+                        40.375437
+                    ],
+                    [
+                        -90.140061,
+                        43.50102
+                    ],
+                    [
+                        -96.6396669,
+                        43.50102
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Thu Feb 21 18:44:27 +0000 2019",
+        "favorite_count": 10795,
+        "hashtags": [],
+        "id": 1098654702160494593,
+        "id_str": "1098654702160494593",
+        "lang": "en",
+        "retweet_count": 4158,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "\"Too many journalists see their work as an opportunity to promote their own pet political notions, rather than a re\u2026 https://t.co/WIGxAH1oDt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1098654702160494593",
+                "url": "https://t.co/WIGxAH1oDt"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 16 13:47:55 +0000 2009",
+            "default_profile": true,
+            "description": "I'm not Thomas Sowell, but I own all of his books and tweet quotes from them. Get Thomas Sowell's new book Discrimination and Disparities below.",
+            "favourites_count": 186,
+            "followers_count": 368539,
+            "friends_count": 23,
+            "id": 57338175,
+            "id_str": "57338175",
+            "listed_count": 3012,
+            "name": "Thomas Sowell",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/57338175/1503893466",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/316502615/sowell2_normal.bmp",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/316502615/sowell2_normal.bmp",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ThomasSowell",
+            "statuses_count": 2074,
+            "url": "https://t.co/FcQEEcosNk"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1098654702160494593,
+    "quoted_status_id_str": "1098654702160494593",
+    "retweet_count": 92,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "From Thomas Sowell, one of the 3 wisest men in America: I am looking for the objective journalists and publications\u2026 https://t.co/oFu3uvziSe",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1098969770043547649",
+            "url": "https://t.co/oFu3uvziSe"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jun 17 21:09:41 +0000 2009",
+        "description": "U.S. Congress, 4th Congressional District of Iowa #IA04",
+        "favourites_count": 68,
+        "followers_count": 118052,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 48117116,
+        "id_str": "48117116",
+        "listed_count": 2780,
+        "location": "Washington, DC",
+        "name": "Steve King",
+        "profile_background_color": "061025",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+        "profile_link_color": "061025",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D1AF59",
+        "profile_text_color": "061025",
+        "profile_use_background_image": true,
+        "screen_name": "SteveKingIA",
+        "statuses_count": 2797,
+        "verified": true
+    },
+    "user_mentions": []
+}

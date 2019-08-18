@@ -1,0 +1,75 @@
+{
+    "created_at": "Sat Jun 29 16:49:49 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1145011499015950341,
+    "id_str": "1145011499015950341",
+    "in_reply_to_screen_name": "RepAnnieKuster",
+    "in_reply_to_status_id": 1144656104934248449,
+    "in_reply_to_user_id": 1058717720,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@RepAnnieKuster @RepChrisPappas @graniteuwnh @UnitedWayGN That is NUTS! Way to go. Do not tell my local United Way\u2026 https://t.co/jQyeT0ZesT",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1145011499015950341",
+            "url": "https://t.co/jQyeT0ZesT"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Nov 03 13:59:42 +0000 2011",
+        "default_profile": true,
+        "description": "Born and raised in Arlington, Wash. Chair, Aviation Subcommittee",
+        "favourites_count": 2136,
+        "followers_count": 19200,
+        "friends_count": 5448,
+        "geo_enabled": true,
+        "id": 404132211,
+        "id_str": "404132211",
+        "listed_count": 823,
+        "location": "Washington's 2nd District",
+        "name": "Rep. Rick Larsen",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/404132211/1490725185",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRickLarsen",
+        "statuses_count": 9475,
+        "url": "http://t.co/2eHh43tMLB",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1058717720,
+            "id_str": "1058717720",
+            "name": "Ann McLane Kuster",
+            "screen_name": "RepAnnieKuster"
+        },
+        {
+            "id": 1067748650485497862,
+            "id_str": "1067748650485497862",
+            "name": "Congressman Chris Pappas",
+            "screen_name": "RepChrisPappas"
+        },
+        {
+            "id": 322808218,
+            "id_str": "322808218",
+            "name": "Granite United Way",
+            "screen_name": "graniteuwnh"
+        },
+        {
+            "id": 19612825,
+            "id_str": "19612825",
+            "name": "United Way Nashua",
+            "screen_name": "UnitedWayGN"
+        }
+    ]
+}

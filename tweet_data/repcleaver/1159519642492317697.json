@@ -1,0 +1,125 @@
+{
+    "created_at": "Thu Aug 08 17:40:00 +0000 2019",
+    "hashtags": [],
+    "id": 1159519642492317697,
+    "id_str": "1159519642492317697",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu Aug 08 03:24:58 +0000 2019",
+        "favorite_count": 24,
+        "hashtags": [],
+        "id": 1159304465926828032,
+        "id_str": "1159304465926828032",
+        "lang": "en",
+        "place": {
+            "id": "9a974dfc8efb32a0",
+            "url": "https://api.twitter.com/1.1/geo/id/9a974dfc8efb32a0.json",
+            "place_type": "city",
+            "name": "Kansas City",
+            "full_name": "Kansas City, MO",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.733122,
+                            38.868002
+                        ],
+                        [
+                            -94.3854414,
+                            38.868002
+                        ],
+                        [
+                            -94.3854414,
+                            39.332095
+                        ],
+                        [
+                            -94.733122,
+                            39.332095
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u201cWhen we vote, we win.\u201d It was an honor to stand with community members, represent March for Our Lives KC, and dema\u2026 https://t.co/O8bUIhjzB1",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159304465926828032",
+                "url": "https://t.co/O8bUIhjzB1"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 13 15:09:59 +0000 2018",
+            "default_profile": true,
+            "description": "UMKC SGA President\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014(@UMKCStudentGov) Leader. Activist. Trailblazer. Politics - Fmr. NCAA WRESTLER - \ud83c\udff3\ufe0f\u200d\ud83c\udf08Huffington Post Interview:",
+            "favourites_count": 3415,
+            "followers_count": 1428,
+            "friends_count": 4964,
+            "geo_enabled": true,
+            "id": 1029022256872214531,
+            "id_str": "1029022256872214531",
+            "listed_count": 7,
+            "location": "Kansas City, MO",
+            "name": "Justice Horn",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029022256872214531/1543198951",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1101983816326017026/1j-bwYzU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101983816326017026/1j-bwYzU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JusticeHorn_",
+            "statuses_count": 463,
+            "url": "https://t.co/S5xXFJTrS1"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @JusticeHorn_: \u201cWhen we vote, we win.\u201d It was an honor to stand with community members, represent March for Our Lives KC, and demand act\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 06 19:14:47 +0000 2010",
+        "description": "This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri's Fifth District.",
+        "favourites_count": 496,
+        "followers_count": 43007,
+        "friends_count": 1022,
+        "geo_enabled": true,
+        "id": 163570705,
+        "id_str": "163570705",
+        "listed_count": 1157,
+        "name": "Rep. Emanuel Cleaver",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163570705/1553799524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repcleaver",
+        "statuses_count": 6676,
+        "url": "https://t.co/dOfaqxI1gQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1029022256872214531,
+            "id_str": "1029022256872214531",
+            "name": "Justice Horn",
+            "screen_name": "JusticeHorn_"
+        }
+    ]
+}

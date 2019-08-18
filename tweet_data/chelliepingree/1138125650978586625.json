@@ -1,0 +1,110 @@
+{
+    "created_at": "Mon Jun 10 16:47:55 +0000 2019",
+    "favorite_count": 43,
+    "hashtags": [],
+    "id": 1138125650978586625,
+    "id_str": "1138125650978586625",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 10 15:52:11 +0000 2019",
+        "favorite_count": 198520,
+        "hashtags": [],
+        "id": 1138111627063169025,
+        "id_str": "1138111627063169025",
+        "lang": "en",
+        "retweet_count": 29925,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Six years ago, David Ortiz's spirit and resolve helped us all begin to heal from the Boston Marathon bombing. Today\u2026 https://t.co/u3QgBv80aK",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138111627063169025",
+                "url": "https://t.co/u3QgBv80aK"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "description": "Dad, husband, President, citizen.",
+            "favourites_count": 11,
+            "followers_count": 107892775,
+            "following": true,
+            "friends_count": 612592,
+            "id": 813286,
+            "id_str": "813286",
+            "listed_count": 228792,
+            "location": "Washington, DC",
+            "name": "Barack Obama",
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BarackObama",
+            "statuses_count": 15668,
+            "url": "https://t.co/93Y27HEnnX",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138111627063169025,
+    "quoted_status_id_str": "1138111627063169025",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Big Papi has brought so much joy to @RedSox nation. We\u2019re sending @davidortiz strength and our hopes for his speedy\u2026 https://t.co/DwlWtRX9uD",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138125650978586625",
+            "url": "https://t.co/DwlWtRX9uD"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jun 02 20:29:56 +0000 2008",
+        "default_profile": true,
+        "description": "Farmer, mother, Maine islander, Member of Congress and @AppropsDems, lover of root vegetables.",
+        "favourites_count": 885,
+        "followers_count": 27274,
+        "friends_count": 950,
+        "geo_enabled": true,
+        "id": 14984637,
+        "id_str": "14984637",
+        "listed_count": 1444,
+        "location": "Maine -- the best place to be!",
+        "name": "Chellie Pingree",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14984637/1552927251",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/986606607697174529/XHxGtzpE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/986606607697174529/XHxGtzpE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "chelliepingree",
+        "statuses_count": 4726,
+        "url": "https://t.co/vYvpiUfhcg",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 40918816,
+            "id_str": "40918816",
+            "name": "Red Sox",
+            "screen_name": "RedSox"
+        },
+        {
+            "id": 28153561,
+            "id_str": "28153561",
+            "name": "David Ortiz",
+            "screen_name": "davidortiz"
+        }
+    ]
+}

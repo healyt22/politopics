@@ -1,0 +1,144 @@
+{
+    "created_at": "Fri May 04 13:16:10 +0000 2018",
+    "hashtags": [
+        {
+            "text": "HR3767"
+        }
+    ],
+    "id": 992392443491471360,
+    "id_str": "992392443491471360",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Mon Apr 23 20:20:22 +0000 2018",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 988512927052435457,
+        "id_str": "988512927052435457",
+        "lang": "en",
+        "place": {
+            "id": "07d9e3a264482000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9e3a264482000.json",
+            "place_type": "poi",
+            "name": "Cincinnati Children's Hospital Medical Center",
+            "full_name": "Cincinnati Children's Hospital Medical Center",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.50162172317505,
+                            39.14116161340739
+                        ],
+                        [
+                            -84.50162172317505,
+                            39.14116161340739
+                        ],
+                        [
+                            -84.50162172317505,
+                            39.14116161340739
+                        ],
+                        [
+                            -84.50162172317505,
+                            39.14116161340739
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Had a wonderful tour of CCHMC Rheumatology Clinic with @RepSteveChabot today. TY for all your support for our kids.\u2026 https://t.co/1K3yOSSURj",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/988512927052435457",
+                "url": "https://t.co/1K3yOSSURj"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 02 14:41:41 +0000 2010",
+            "description": "Walk to Cure Arthritis Committee; Arthritis Advocate/Ambassador; Daughters of the American Revolution #AdvocateForArthritis #PBM #ChronicPain #EDS #RA",
+            "favourites_count": 4878,
+            "followers_count": 256,
+            "friends_count": 174,
+            "geo_enabled": true,
+            "id": 151069238,
+            "id_str": "151069238",
+            "listed_count": 2,
+            "name": "Amy Barron",
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151069238/1400469929",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1085760122444484608/fSMzaYF4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085760122444484608/fSMzaYF4_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "screen_name": "ambarro",
+            "statuses_count": 3606,
+            "url": "https://t.co/W6itglJZIY"
+        },
+        "user_mentions": [
+            {
+                "id": 237750442,
+                "id_str": "237750442",
+                "name": "Rep. Steve Chabot",
+                "screen_name": "RepSteveChabot"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ambarro: Had a wonderful tour of CCHMC Rheumatology Clinic with @RepSteveChabot today. TY for all your support for our kids. #HR3767 En\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 13 15:03:08 +0000 2011",
+        "description": "Husband, grandpa, public servant, & proud Cincinnatian. Chairman of @HouseSmallBiz & senior Member on @HouseJudiciary & @HouseForeign.",
+        "favourites_count": 1767,
+        "followers_count": 27966,
+        "friends_count": 3008,
+        "geo_enabled": true,
+        "id": 237750442,
+        "id_str": "237750442",
+        "listed_count": 1106,
+        "location": "Cincinnati",
+        "name": "Rep. Steve Chabot",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237750442/1506718866",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_link_color": "666666",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B1D3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepSteveChabot",
+        "statuses_count": 3252,
+        "url": "https://t.co/uGxNrFAFsk",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 151069238,
+            "id_str": "151069238",
+            "name": "Amy Barron",
+            "screen_name": "ambarro"
+        },
+        {
+            "id": 237750442,
+            "id_str": "237750442",
+            "name": "Rep. Steve Chabot",
+            "screen_name": "RepSteveChabot"
+        }
+    ]
+}

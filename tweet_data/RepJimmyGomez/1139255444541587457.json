@@ -1,0 +1,106 @@
+{
+    "created_at": "Thu Jun 13 19:37:18 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [],
+    "id": 1139255444541587457,
+    "id_str": "1139255444541587457",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jun 13 17:18:22 +0000 2019",
+        "favorite_count": 720,
+        "hashtags": [
+            {
+                "text": "BREAKING"
+            }
+        ],
+        "id": 1139220477807742976,
+        "id_str": "1139220477807742976",
+        "lang": "en",
+        "retweet_count": 219,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "#BREAKING: California Attorney General Xavier Becerra has filed a motion to permanently prevent Trump from construc\u2026 https://t.co/11locSnjj9",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1139220477807742976",
+                "url": "https://t.co/11locSnjj9"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Sep 20 04:22:30 +0000 2008",
+            "description": "Your #1 breaking news source in Southern California. When you witness news, share it with #abc7eyewitness.",
+            "favourites_count": 3328,
+            "followers_count": 1086113,
+            "friends_count": 451,
+            "geo_enabled": true,
+            "id": 16374678,
+            "id_str": "16374678",
+            "listed_count": 6530,
+            "name": "ABC7 Eyewitness News",
+            "profile_background_color": "044CC1",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16374678/1502745997",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_normal.jpg",
+            "profile_link_color": "044CC1",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DEDEDE",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ABC7",
+            "statuses_count": 196576,
+            "url": "https://t.co/wA2krgJd0y",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1139220477807742976,
+    "quoted_status_id_str": "1139220477807742976",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "And I second the motion, strongly.\n\nNicely done, @AGBecerra. https://t.co/A3sPbOK3RO",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/ABC7/status/1139220477807742976",
+            "url": "https://t.co/A3sPbOK3RO"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Mar 04 03:56:14 +0000 2014",
+        "default_profile": true,
+        "description": "Official account for U.S. Congressman Jimmy Gomez (CA-34, Los Angeles). Cmtees: @WaysMeansCmte @OversightDems Find us on FB: https://t.co/1pRH7kHn00",
+        "favourites_count": 1048,
+        "followers_count": 11384,
+        "friends_count": 3451,
+        "geo_enabled": true,
+        "id": 2371339658,
+        "id_str": "2371339658",
+        "listed_count": 387,
+        "location": "Los Angeles, CA",
+        "name": "Rep. Jimmy Gomez",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2371339658/1522043572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978147788667027456/Sshj14W0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978147788667027456/Sshj14W0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJimmyGomez",
+        "statuses_count": 3005,
+        "url": "https://t.co/PTPcf8ooHN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 133832049,
+            "id_str": "133832049",
+            "name": "Xavier Becerra",
+            "screen_name": "AGBecerra"
+        }
+    ]
+}

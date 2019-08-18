@@ -1,0 +1,197 @@
+{
+    "created_at": "Thu Jul 25 00:39:31 +0000 2019",
+    "hashtags": [],
+    "id": 1154189399854407681,
+    "id_str": "1154189399854407681",
+    "lang": "en",
+    "quoted_status_id": 1154086058918916097,
+    "quoted_status_id_str": "1154086058918916097",
+    "retweet_count": 11489,
+    "retweeted_status": {
+        "created_at": "Thu Jul 25 00:35:04 +0000 2019",
+        "favorite_count": 27921,
+        "hashtags": [],
+        "id": 1154188282433101829,
+        "id_str": "1154188282433101829",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Wed Jul 24 17:48:52 +0000 2019",
+            "favorite_count": 14144,
+            "hashtags": [],
+            "id": 1154086058918916097,
+            "id_str": "1154086058918916097",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/vMekLDO3Kt",
+                    "expanded_url": "https://twitter.com/RobertOryx754/status/1084558218444107778/video/1",
+                    "id": 1084558104853917696,
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1084558104853917696/pu/img/4MmjtJ0D2KR_J_bL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1084558104853917696/pu/img/4MmjtJ0D2KR_J_bL.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/vMekLDO3Kt",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 139574,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1084558104853917696/pu/vid/320x180/6M8mOzRnBhOgbERx.mp4?tag=8"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1084558104853917696/pu/pl/rwKH99aN4M2VO19n.m3u8?tag=8"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1084558104853917696/pu/vid/640x360/ULy-GpOiDczc_-2k.mp4?tag=8"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "retweet_count": 6992,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Back by popular demand: two years of Russiagate coverage in two minutes | https://t.co/vMekLDO3Kt",
+            "urls": [],
+            "user": {
+                "created_at": "Wed Mar 30 21:41:33 +0000 2011",
+                "description": "Sits in a tank and thinks.",
+                "favourites_count": 624,
+                "followers_count": 45663,
+                "friends_count": 4583,
+                "id": 274699227,
+                "id_str": "274699227",
+                "listed_count": 1018,
+                "location": "Washington, DC",
+                "name": "Mike",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/274699227/1543605766",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000443320732/03bd807a05fe699a8815731e4f8642d7_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000443320732/03bd807a05fe699a8815731e4f8642d7_normal.jpeg",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "Doranimated",
+                "statuses_count": 2685,
+                "url": "https://t.co/F2GY9jMqFb",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1154086058918916097,
+        "quoted_status_id_str": "1154086058918916097",
+        "retweet_count": 11489,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Greatest hits https://t.co/99jd34IOy9",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/Doranimated/status/1154086058918916097",
+                "url": "https://t.co/99jd34IOy9"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 07 02:04:34 +0000 2009",
+            "default_profile": true,
+            "description": "RTs do not equal endorsement.  This is my personal Twitter account.  If you have questions about my official activities please visit my website.",
+            "favourites_count": 92,
+            "followers_count": 555621,
+            "friends_count": 637,
+            "id": 54412900,
+            "id_str": "54412900",
+            "listed_count": 2514,
+            "name": "Devin Nunes",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/738510058183593985/whpmEX7p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/738510058183593985/whpmEX7p_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DevinNunes",
+            "statuses_count": 2229,
+            "url": "http://t.co/nNrwohsqWS",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @DevinNunes: Greatest hits https://t.co/99jd34IOy9",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/Doranimated/status/1154086058918916097",
+            "url": "https://t.co/99jd34IOy9"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 12 15:20:23 +0000 2011",
+        "description": "I serve hardworking Texas families in District 17 to rebuild our national security, improve economic opportunity, and protect our Constitutional liberties.",
+        "favourites_count": 4420,
+        "followers_count": 19925,
+        "friends_count": 3801,
+        "geo_enabled": true,
+        "id": 237312687,
+        "id_str": "237312687",
+        "listed_count": 999,
+        "location": "17th District of Texas",
+        "name": "U.S. Representative Bill Flores",
+        "profile_background_color": "3D020D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237312687/1487103224",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558737418287722496/JSryyVjS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/558737418287722496/JSryyVjS_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBillFlores",
+        "statuses_count": 10151,
+        "url": "https://t.co/sdeY8itPYQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 54412900,
+            "id_str": "54412900",
+            "name": "Devin Nunes",
+            "screen_name": "DevinNunes"
+        }
+    ]
+}

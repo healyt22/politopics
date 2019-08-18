@@ -1,0 +1,114 @@
+{
+    "created_at": "Mon Apr 08 18:06:53 +0000 2019",
+    "favorite_count": 231,
+    "hashtags": [],
+    "id": 1115315087722655745,
+    "id_str": "1115315087722655745",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Apr 08 17:10:01 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [
+            {
+                "text": "IRS"
+            },
+            {
+                "text": "poor"
+            },
+            {
+                "text": "taxes"
+            }
+        ],
+        "id": 1115300778082799617,
+        "id_str": "1115300778082799617",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": ".@SenAngusKing targets #IRS for auditing #poor Mainers #taxes more than most Americans https://t.co/UNupnLCCTo via\u2026 https://t.co/r0AllI8SHc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2FXo0Pj",
+                "url": "https://t.co/UNupnLCCTo"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1115300778082799617",
+                "url": "https://t.co/r0AllI8SHc"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Sep 07 17:48:02 +0000 2007",
+            "description": "News and conversations from Maine since 1847. Send breaking news: breaking@sunjournal.com",
+            "favourites_count": 709,
+            "followers_count": 36114,
+            "friends_count": 2386,
+            "geo_enabled": true,
+            "id": 8729092,
+            "id_str": "8729092",
+            "listed_count": 609,
+            "location": "Lewiston/Auburn, Maine",
+            "name": "Sun Journal",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/8729092/1527194428",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/707249051130003456/KfksyOzx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/707249051130003456/KfksyOzx_normal.jpg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "screen_name": "sunjournal",
+            "statuses_count": 95632,
+            "url": "http://t.co/g6rua9MqV4"
+        },
+        "user_mentions": [
+            {
+                "id": 1068481578,
+                "id_str": "1068481578",
+                "name": "Senator Angus King",
+                "screen_name": "SenAngusKing"
+            }
+        ]
+    },
+    "quoted_status_id": 1115300778082799617,
+    "quoted_status_id_str": "1115300778082799617",
+    "retweet_count": 68,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "The IRS audits residents of Washington and Piscataquis Counties \u2013 where the median income is roughly $40,000 \u2013 at a\u2026 https://t.co/DV4EAmtV4Q",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1115315087722655745",
+            "url": "https://t.co/DV4EAmtV4Q"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 07 14:52:27 +0000 2013",
+        "description": "News from the office of Independent U.S. Senator Angus King of Maine. Operated by the Press Team. Following/retweeting does not equal an endorsement.",
+        "favourites_count": 140,
+        "followers_count": 206581,
+        "friends_count": 546,
+        "geo_enabled": true,
+        "id": 1068481578,
+        "id_str": "1068481578",
+        "listed_count": 2014,
+        "name": "Senator Angus King",
+        "profile_background_color": "045C0E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068481578/1489679522",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000406004520/c5e846a94969202654cf1ac5fafc3659_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000406004520/c5e846a94969202654cf1ac5fafc3659_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "SenAngusKing",
+        "statuses_count": 4201,
+        "url": "http://t.co/i9TZOoGqOm",
+        "verified": true
+    },
+    "user_mentions": []
+}

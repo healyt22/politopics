@@ -1,0 +1,85 @@
+{
+    "created_at": "Fri Aug 09 13:04:50 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1159812784571473920,
+    "id_str": "1159812784571473920",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/jYgko1gnZ7",
+            "expanded_url": "https://twitter.com/SenatorFischer/status/1159812784571473920/photo/1",
+            "id": 1159812779290845186,
+            "media_url": "http://pbs.twimg.com/media/EBh7k-uW4AIoU7Q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBh7k-uW4AIoU7Q.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/jYgko1gnZ7"
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83c\udf99 About to go live with Jack Mitchel on 1400 AM @KLINRadio. Join us live! https://t.co/m1NyJg5l5W https://t.co/jYgko1gnZ7",
+    "urls": [
+        {
+            "expanded_url": "http://www.klin.com/",
+            "url": "https://t.co/m1NyJg5l5W"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 08 16:49:07 +0000 2013",
+        "description": "U.S. Senator and Cherry County rancher working to bring some Nebraska common sense to Washington",
+        "favourites_count": 56,
+        "followers_count": 81862,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 1071402577,
+        "id_str": "1071402577",
+        "listed_count": 1718,
+        "name": "Senator Deb Fischer",
+        "profile_background_color": "B4C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071402577/1467819561",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/816319022182649860/pev9bNlJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/816319022182649860/pev9bNlJ_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorFischer",
+        "statuses_count": 5687,
+        "url": "http://t.co/0O49SY7v",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 135218663,
+            "id_str": "135218663",
+            "name": "1400 KLIN",
+            "screen_name": "KLINRadio"
+        }
+    ]
+}

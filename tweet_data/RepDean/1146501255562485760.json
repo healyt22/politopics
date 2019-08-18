@@ -1,0 +1,220 @@
+{
+    "created_at": "Wed Jul 03 19:29:34 +0000 2019",
+    "hashtags": [],
+    "id": 1146501255562485760,
+    "id_str": "1146501255562485760",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/t3KxDjkmL5",
+            "expanded_url": "https://twitter.com/Newsy/status/1146501151803625474/video/1",
+            "id": 1146499837325537280,
+            "media_url": "http://pbs.twimg.com/media/D-kwUe_U0AArAqN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-kwUe_U0AArAqN.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/t3KxDjkmL5",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 198264,
+                "variants": [
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1146499837325537280/vid/480x270/CY9SjpEcnjAoHlgN.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1146499837325537280/vid/1280x720/XJ7wIXf--Vm0mdkg.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1146499837325537280/pl/Cbr1gJOsblHLOAfl.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1146499837325537280/vid/640x360/XQmAmIPbSK8WO5CE.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 24,
+    "retweeted_status": {
+        "created_at": "Wed Jul 03 19:29:10 +0000 2019",
+        "favorite_count": 64,
+        "hashtags": [],
+        "id": 1146501151803625474,
+        "id_str": "1146501151803625474",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/t3KxDjkmL5",
+                "expanded_url": "https://twitter.com/Newsy/status/1146501151803625474/video/1",
+                "id": 1146499837325537280,
+                "media_url": "http://pbs.twimg.com/media/D-kwUe_U0AArAqN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-kwUe_U0AArAqN.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/t3KxDjkmL5",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 198264,
+                    "variants": [
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1146499837325537280/vid/480x270/CY9SjpEcnjAoHlgN.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1146499837325537280/vid/1280x720/XJ7wIXf--Vm0mdkg.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1146499837325537280/pl/Cbr1gJOsblHLOAfl.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1146499837325537280/vid/640x360/XQmAmIPbSK8WO5CE.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 24,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": ".@RepDean: \"Our common humanity seems absolutely missing.\" https://t.co/t3KxDjkmL5",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Oct 29 20:49:29 +0000 2007",
+            "description": "Be informed. Not influenced. Get a daily dose of non-partisan news delivered to your inbox \ud83d\udc49 https://t.co/Hb3V4k5Zt1",
+            "favourites_count": 2701,
+            "followers_count": 67200,
+            "friends_count": 1817,
+            "geo_enabled": true,
+            "id": 9783422,
+            "id_str": "9783422",
+            "listed_count": 1082,
+            "name": "Newsy",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/9783422/1564674093",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875453422425829377/32cnrEL7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453422425829377/32cnrEL7_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Newsy",
+            "statuses_count": 77493,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 567508925,
+                "id_str": "567508925",
+                "name": "Congresswoman Madeleine Dean",
+                "screen_name": "RepDean"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Newsy: .@RepDean: \"Our common humanity seems absolutely missing.\" https://t.co/t3KxDjkmL5",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Apr 30 20:07:23 +0000 2012",
+        "description": "Congresswoman serving Pennsylvania\u2019s Fourth District - Montgomery and Berks Counties | Committees: @FSCDems & @HouseJudiciary | \"Courage is in the air\"",
+        "favourites_count": 2470,
+        "followers_count": 19392,
+        "friends_count": 1086,
+        "id": 567508925,
+        "id_str": "567508925",
+        "listed_count": 402,
+        "location": "Montgomery County, PA",
+        "name": "Congresswoman Madeleine Dean",
+        "profile_background_color": "2E7EB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/567508925/1551313828",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105476316047069184/KLlpZ1xU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105476316047069184/KLlpZ1xU_normal.png",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDean",
+        "statuses_count": 2565,
+        "url": "https://t.co/NTrI907MCU",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 9783422,
+            "id_str": "9783422",
+            "name": "Newsy",
+            "screen_name": "Newsy"
+        },
+        {
+            "id": 567508925,
+            "id_str": "567508925",
+            "name": "Congresswoman Madeleine Dean",
+            "screen_name": "RepDean"
+        }
+    ]
+}

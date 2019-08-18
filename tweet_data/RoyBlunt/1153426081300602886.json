@@ -1,0 +1,159 @@
+{
+    "created_at": "Mon Jul 22 22:06:22 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1153426081300602886,
+    "id_str": "1153426081300602886",
+    "lang": "und",
+    "quoted_status": {
+        "created_at": "Sun Jul 21 20:48:39 +0000 2019",
+        "favorite_count": 1965,
+        "hashtags": [
+            {
+                "text": "TimeToFly"
+            }
+        ],
+        "id": 1153044137945587712,
+        "id_str": "1153044137945587712",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9zIB6F1xeu",
+                "expanded_url": "https://twitter.com/Cardinals/status/1153044137945587712/photo/1",
+                "id": 1153043454143938560,
+                "media_url": "http://pbs.twimg.com/media/EABu6ZbWwAAjC73.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EABu6ZbWwAAjC73.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 853,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/9zIB6F1xeu"
+            }
+        ],
+        "place": {
+            "id": "e444ecd51bd16ff3",
+            "url": "https://api.twitter.com/1.1/geo/id/e444ecd51bd16ff3.json",
+            "place_type": "city",
+            "name": "Cincinnati",
+            "full_name": "Cincinnati, OH",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.710722,
+                            39.052962
+                        ],
+                        [
+                            -84.3689026,
+                            39.052962
+                        ],
+                        [
+                            -84.3689026,
+                            39.2211137
+                        ],
+                        [
+                            -84.710722,
+                            39.2211137
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 149,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We've won 7 of the 10 games since the All-Star Break! \n\n#TimeToFly https://t.co/9zIB6F1xeu",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Jul 01 20:54:06 +0000 2009",
+            "description": "Official #STLCards Twitter | https://t.co/p4IoEY2X8p | https://t.co/lDxYrYLctQ | https://t.co/svrYxCa7T3 | Contest Rules: https://t.co/JRZ2nnoLhY | #TimeToFly",
+            "favourites_count": 13849,
+            "followers_count": 1230159,
+            "friends_count": 1214,
+            "geo_enabled": true,
+            "id": 52847728,
+            "id_str": "52847728",
+            "listed_count": 6683,
+            "location": "Busch Stadium",
+            "name": "St. Louis Cardinals",
+            "profile_background_color": "A8988B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52847728/1560786626",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1148244104129761287/Dn7rhsjR_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148244104129761287/Dn7rhsjR_normal.png",
+            "profile_link_color": "C4203C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Cardinals",
+            "statuses_count": 65289,
+            "url": "https://t.co/8P6aKtDe3g",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1153044137945587712,
+    "quoted_status_id_str": "1153044137945587712",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/7yFjYXwrCg",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/Cardinals/status/1153044137945587712",
+            "url": "https://t.co/7yFjYXwrCg"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Feb 19 02:58:03 +0000 2009",
+        "description": "Official account of U.S. Senator Roy Blunt. Honored to represent the great state of Missouri. Serves as @SenateRPC Chairman.",
+        "favourites_count": 113,
+        "followers_count": 106158,
+        "friends_count": 6972,
+        "id": 21269970,
+        "id_str": "21269970",
+        "listed_count": 3494,
+        "location": "Missouri",
+        "name": "Senator Roy Blunt",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21269970/1407953971",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/535810548802125824/X0pxn3zA_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/535810548802125824/X0pxn3zA_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RoyBlunt",
+        "statuses_count": 11796,
+        "url": "http://t.co/PG3SSnhQDI",
+        "verified": true
+    },
+    "user_mentions": []
+}

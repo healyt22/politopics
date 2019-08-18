@@ -1,0 +1,127 @@
+{
+    "created_at": "Mon Jul 08 22:08:05 +0000 2019",
+    "favorite_count": 1442,
+    "hashtags": [],
+    "id": 1148353086324428802,
+    "id_str": "1148353086324428802",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 03 16:25:06 +0000 2019",
+        "favorite_count": 91,
+        "hashtags": [],
+        "id": 1146454830204039169,
+        "id_str": "1146454830204039169",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/45enNFzWHT",
+                "expanded_url": "https://twitter.com/thehill/status/1146454830204039169/photo/1",
+                "id": 1146454828333305856,
+                "media_url": "http://pbs.twimg.com/media/D-kGl5nWkAAlYkE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-kGl5nWkAAlYkE.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 645,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 645,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 645,
+                        "h": 363,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/45enNFzWHT"
+            }
+        ],
+        "retweet_count": 72,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Jaw-dropping cost of climate change revealed in new study https://t.co/nWAOTPhbxp https://t.co/45enNFzWHT",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/xT4USM2",
+                "url": "https://t.co/nWAOTPhbxp"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3323842,
+            "friends_count": 261,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26109,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 597131,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1146454830204039169,
+    "quoted_status_id_str": "1146454830204039169",
+    "retweet_count": 691,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "This is getting to be the most predictable \u2014 &amp; predicted \u2014 disaster in human history. Future generations will study\u2026 https://t.co/pKseFDRJMS",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1148353086324428802",
+            "url": "https://t.co/pKseFDRJMS"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 25 01:52:03 +0000 2011",
+        "description": "U.S. Senator from Rhode Island, the Ocean State.",
+        "favourites_count": 458,
+        "followers_count": 326869,
+        "friends_count": 1833,
+        "id": 242555999,
+        "id_str": "242555999",
+        "listed_count": 3329,
+        "location": "Rhode Island",
+        "name": "Sheldon Whitehouse",
+        "profile_background_color": "7B91AA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242555999/1552737288",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136336143358734336/Iu2Kvnww_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136336143358734336/Iu2Kvnww_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenWhitehouse",
+        "statuses_count": 12151,
+        "url": "https://t.co/zi0ijI1KND",
+        "verified": true
+    },
+    "user_mentions": []
+}

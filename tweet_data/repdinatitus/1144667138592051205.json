@@ -1,0 +1,128 @@
+{
+    "created_at": "Fri Jun 28 18:01:27 +0000 2019",
+    "favorite_count": 216,
+    "hashtags": [],
+    "id": 1144667138592051205,
+    "id_str": "1144667138592051205",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jun 28 15:37:06 +0000 2019",
+        "favorite_count": 428,
+        "hashtags": [],
+        "id": 1144630811540512768,
+        "id_str": "1144630811540512768",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/yErhchrxh2",
+                "expanded_url": "https://twitter.com/thehill/status/1144630811540512768/photo/1",
+                "id": 1144630810055794691,
+                "media_url": "http://pbs.twimg.com/media/D-KLqEBX4AMEE5G.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-KLqEBX4AMEE5G.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/yErhchrxh2"
+            }
+        ],
+        "retweet_count": 66,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Sarah Sanders: I will walk out of the White House \"with my head held high\"https://t.co/ZIAvxy5VpG https://t.co/yErhchrxh2",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/c7shG2t",
+                "url": "https://t.co/ZIAvxy5VpG"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3356620,
+            "friends_count": 256,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26244,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 609593,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1144630811540512768,
+    "quoted_status_id_str": "1144630811540512768",
+    "retweet_count": 26,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "She will not be missed. https://t.co/xgMAZCuTR7",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/thehill/status/1144630811540512768",
+            "url": "https://t.co/xgMAZCuTR7"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+        "default_profile": true,
+        "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.",
+        "favourites_count": 5850,
+        "followers_count": 34691,
+        "friends_count": 1843,
+        "geo_enabled": true,
+        "id": 122174004,
+        "id_str": "122174004",
+        "listed_count": 971,
+        "location": "Las Vegas, NV",
+        "name": "Dina Titus",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repdinatitus",
+        "statuses_count": 11563,
+        "url": "https://t.co/2roqLuazqO",
+        "verified": true
+    },
+    "user_mentions": []
+}

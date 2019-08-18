@@ -1,0 +1,122 @@
+{
+    "created_at": "Tue Aug 13 22:15:01 +0000 2019",
+    "favorite_count": 429,
+    "hashtags": [],
+    "id": 1161400792999497728,
+    "id_str": "1161400792999497728",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Aug 13 17:55:35 +0000 2019",
+        "favorite_count": 1123,
+        "hashtags": [],
+        "id": 1161335506124333056,
+        "id_str": "1161335506124333056",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/kddzRxTMRi",
+                "expanded_url": "https://twitter.com/ddale8/status/1161335506124333056/photo/1",
+                "id": 1161335501716168704,
+                "media_url": "http://pbs.twimg.com/media/EB3kfFzXoAAaMsk.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EB3kfFzXoAAaMsk.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 653,
+                        "h": 394,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 653,
+                        "h": 394,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 653,
+                        "h": 394,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/kddzRxTMRi"
+            }
+        ],
+        "retweet_count": 545,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Here's the official transcript of Trump's comments on Hong Kong: https://t.co/kddzRxTMRi",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Dec 11 04:18:41 +0000 2010",
+            "description": "Reporter for CNN, fact-checking politicians.",
+            "favourites_count": 18748,
+            "followers_count": 595186,
+            "friends_count": 1220,
+            "id": 225265639,
+            "id_str": "225265639",
+            "listed_count": 7351,
+            "location": "Washington DC",
+            "name": "Daniel Dale",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1125160854352039936/fQrin-BI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125160854352039936/fQrin-BI_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "ddale8",
+            "statuses_count": 95248,
+            "url": "https://t.co/WEmRlEfx7X",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1161335506124333056,
+    "quoted_status_id_str": "1161335506124333056",
+    "retweet_count": 113,
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "These answers show that Trump doesn\u2019t know about the situation in Hong Kong and doesn\u2019t care. He sounds like he got\u2026 https://t.co/2tViCGyqGy",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1161400792999497728",
+            "url": "https://t.co/2tViCGyqGy"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 07 03:35:59 +0000 2011",
+        "default_profile": true,
+        "description": "Father, husband, Marine, Congressman, and candidate for President of the United States. \n\nIt's time for a new generation of leadership.",
+        "favourites_count": 4016,
+        "followers_count": 147354,
+        "friends_count": 2439,
+        "geo_enabled": true,
+        "id": 248495200,
+        "id_str": "248495200",
+        "listed_count": 2571,
+        "location": "Salem, MA",
+        "name": "Seth Moulton",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248495200/1559917656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sethmoulton",
+        "statuses_count": 10971,
+        "url": "https://t.co/x3XcV4cO6O",
+        "verified": true
+    },
+    "user_mentions": []
+}

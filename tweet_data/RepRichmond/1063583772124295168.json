@@ -1,0 +1,140 @@
+{
+    "created_at": "Sat Nov 17 00:05:06 +0000 2018",
+    "hashtags": [],
+    "id": 1063583772124295168,
+    "id_str": "1063583772124295168",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Nov 16 18:14:32 +0000 2018",
+        "favorite_count": 20,
+        "hashtags": [],
+        "id": 1063495549603717121,
+        "id_str": "1063495549603717121",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Our Interns are hearing form @RepRichmond and a host of other Congressional leaders on Capitol Hil today. Training\u2026 https://t.co/A8WCIBi6Re",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1063495549603717121",
+                "url": "https://t.co/A8WCIBi6Re"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 06 15:57:48 +0000 2009",
+            "description": "The Congressional Black Caucus Foundation is a nonprofit, nonpartisan public policy, research and education institute for African Americans.",
+            "favourites_count": 3743,
+            "followers_count": 11828,
+            "friends_count": 1296,
+            "geo_enabled": true,
+            "id": 54244175,
+            "id_str": "54244175",
+            "listed_count": 204,
+            "location": "Washington, DC",
+            "name": "CBCF Inc.",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54244175/1564401712",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1155810666764259330/3DhsjPjD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155810666764259330/3DhsjPjD_normal.jpg",
+            "profile_link_color": "C41230",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CBCFInc",
+            "statuses_count": 16753,
+            "url": "https://t.co/A6hMpULKGk",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 267854863,
+                "id_str": "267854863",
+                "name": "Rep Cedric Richmond",
+                "screen_name": "RepRichmond"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CBCFInc: Our Interns are hearing form @RepRichmond and a host of other Congressional leaders on Capitol Hil today. Training up the next\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 17 17:30:45 +0000 2011",
+        "description": "Representing the 2nd Congressional District of Louisiana and the Who Dat Nation. House Democratic Assistant to the Majority Whip. Instagram: @repcedric",
+        "favourites_count": 788,
+        "followers_count": 29399,
+        "friends_count": 873,
+        "id": 267854863,
+        "id_str": "267854863",
+        "listed_count": 1024,
+        "name": "Rep Cedric Richmond",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267854863/1467299086",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839888450597834752/5-yqcIpy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839888450597834752/5-yqcIpy_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRichmond",
+        "statuses_count": 2517,
+        "url": "https://t.co/pacN0v0wSJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 54244175,
+            "id_str": "54244175",
+            "name": "CBCF Inc.",
+            "screen_name": "CBCFInc"
+        },
+        {
+            "id": 267854863,
+            "id_str": "267854863",
+            "name": "Rep Cedric Richmond",
+            "screen_name": "RepRichmond"
+        }
+    ]
+}

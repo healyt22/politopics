@@ -1,0 +1,119 @@
+{
+    "created_at": "Wed Jul 17 22:29:35 +0000 2019",
+    "hashtags": [],
+    "id": 1151619987360161792,
+    "id_str": "1151619987360161792",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Jul 17 22:00:00 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1151612541308678144,
+        "id_str": "1151612541308678144",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "GREAT news! The Shop RX Act, which @RepArrington and I introduced last month, passed through @HouseCommerce today.\u2026 https://t.co/N497upJ1Lp",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151612541308678144",
+                "url": "https://t.co/N497upJ1Lp"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 04 13:40:57 +0000 2009",
+            "description": "Proudly representing TX-22 in Congress. Follow me on Facebook: http://t.co/2aP7aRlj3f and Instagram: https://t.co/hBZNAgZcuI",
+            "favourites_count": 666,
+            "followers_count": 10361,
+            "friends_count": 2161,
+            "geo_enabled": true,
+            "id": 20053279,
+            "id_str": "20053279",
+            "listed_count": 720,
+            "location": "Washington, DC / Houston, TX",
+            "name": "Rep. Pete Olson",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20053279/1472830497",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/553398175760150528/wOlSb2ef_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/553398175760150528/wOlSb2ef_normal.jpeg",
+            "profile_link_color": "2E399D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFD729",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "RepPeteOlson",
+            "statuses_count": 8005,
+            "url": "http://t.co/fQR5L3fWi8",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 816284664658874368,
+                "id_str": "816284664658874368",
+                "name": "Rep. Arrington",
+                "screen_name": "RepArrington"
+            },
+            {
+                "id": 114756202,
+                "id_str": "114756202",
+                "name": "Energy & Commerce GOP",
+                "screen_name": "HouseCommerce"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @RepPeteOlson: GREAT news! The Shop RX Act, which @RepArrington and I introduced last month, passed through @HouseCommerce today. I was\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 03 14:06:44 +0000 2017",
+        "description": "Proudly representing the good people of West Texas in Congress.",
+        "favourites_count": 240,
+        "followers_count": 7314,
+        "friends_count": 1256,
+        "geo_enabled": true,
+        "id": 816284664658874368,
+        "id_str": "816284664658874368",
+        "listed_count": 310,
+        "location": "West Texas",
+        "name": "Rep. Arrington",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816284664658874368/1536674512",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1044646049791520768/2b1S7QU8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044646049791520768/2b1S7QU8_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepArrington",
+        "statuses_count": 1834,
+        "url": "https://t.co/DZziBJQejF",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 20053279,
+            "id_str": "20053279",
+            "name": "Rep. Pete Olson",
+            "screen_name": "RepPeteOlson"
+        },
+        {
+            "id": 816284664658874368,
+            "id_str": "816284664658874368",
+            "name": "Rep. Arrington",
+            "screen_name": "RepArrington"
+        },
+        {
+            "id": 114756202,
+            "id_str": "114756202",
+            "name": "Energy & Commerce GOP",
+            "screen_name": "HouseCommerce"
+        }
+    ]
+}

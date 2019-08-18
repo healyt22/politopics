@@ -1,0 +1,159 @@
+{
+    "created_at": "Thu Jul 11 13:57:06 +0000 2019",
+    "favorite_count": 115,
+    "hashtags": [],
+    "id": 1149316689336655872,
+    "id_str": "1149316689336655872",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 10 21:19:03 +0000 2019",
+        "favorite_count": 1293,
+        "hashtags": [],
+        "id": 1149065523218587650,
+        "id_str": "1149065523218587650",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/1tQiXiGhVl",
+                "expanded_url": "https://twitter.com/NBCSWhiteSox/status/1149065523218587650/video/1",
+                "id": 1149064448012881927,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149064448012881927/pu/img/eKA6WlK5y5oaYKBN.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149064448012881927/pu/img/eKA6WlK5y5oaYKBN.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/1tQiXiGhVl",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 28529,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1149064448012881927/pu/vid/1280x720/FQi5pLHyolBJQj42.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1149064448012881927/pu/vid/640x360/jvMP1QjRhneGtlvY.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1149064448012881927/pu/pl/1ppmD3Vm1Q93VfOf.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1149064448012881927/pu/vid/480x270/25Ueqco6J4H4ndaO.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 178,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "By the time the White Sox return home on July 22, nets will be extended all the way to the foul pole https://t.co/1tQiXiGhVl",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Nov 28 16:36:52 +0000 2011",
+            "description": "Probably gonna win like 10 in a row now. Stream White Sox games with the #MyTeams app \ud83d\udc47",
+            "favourites_count": 3071,
+            "followers_count": 22963,
+            "friends_count": 636,
+            "geo_enabled": true,
+            "id": 423532170,
+            "id_str": "423532170",
+            "listed_count": 323,
+            "location": "Chicago, IL",
+            "name": "White Sox Talk",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/423532170/1551717874",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1146554628974268416/YAzSzmll_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146554628974268416/YAzSzmll_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NBCSWhiteSox",
+            "statuses_count": 29866,
+            "url": "https://t.co/RXHMqAjR9O",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1149065523218587650,
+    "quoted_status_id_str": "1149065523218587650",
+    "retweet_count": 26,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "My call for safety netting at @MLB ballparks has support of 78% of fans in ESPN national poll. Hats off to the Chic\u2026 https://t.co/ug1wcKKlMn",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1149316689336655872",
+            "url": "https://t.co/ug1wcKKlMn"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Feb 04 15:50:42 +0000 2011",
+        "default_profile": true,
+        "description": "Serving the people of Illinois. Democratic Whip.",
+        "favourites_count": 577,
+        "followers_count": 612624,
+        "friends_count": 2411,
+        "geo_enabled": true,
+        "id": 247334603,
+        "id_str": "247334603",
+        "listed_count": 4935,
+        "name": "Senator Dick Durbin",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/247334603/1438365026",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/871723567456686081/fbJgQgO1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/871723567456686081/fbJgQgO1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorDurbin",
+        "statuses_count": 14544,
+        "url": "https://t.co/75Y2c3yeVH",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18479513,
+            "id_str": "18479513",
+            "name": "MLB",
+            "screen_name": "MLB"
+        }
+    ]
+}

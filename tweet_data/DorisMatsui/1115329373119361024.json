@@ -1,0 +1,141 @@
+{
+    "created_at": "Mon Apr 08 19:03:39 +0000 2019",
+    "hashtags": [],
+    "id": 1115329373119361024,
+    "id_str": "1115329373119361024",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Apr 08 17:40:04 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1115308341285113856,
+        "id_str": "1115308341285113856",
+        "lang": "en",
+        "place": {
+            "id": "b71fac2ee9792cbe",
+            "url": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json",
+            "place_type": "city",
+            "name": "Sacramento",
+            "full_name": "Sacramento, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.576613,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.6855236
+                        ],
+                        [
+                            -121.576613,
+                            38.6855236
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you @DorisMatsui for taking action on two important bipartisan bills: the CREATES Act &amp; the Protecting Consum\u2026 https://t.co/Ki3xk0MJmG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1115308341285113856",
+                "url": "https://t.co/Ki3xk0MJmG"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 28 18:00:29 +0000 2009",
+            "description": "Advocacy, news, and research that matters to Californians 50+, shared with humor and style. We're where our members are! http://t.co/htMdknFmDu",
+            "favourites_count": 4060,
+            "followers_count": 15964,
+            "friends_count": 3313,
+            "geo_enabled": true,
+            "id": 19665271,
+            "id_str": "19665271",
+            "listed_count": 457,
+            "location": "California",
+            "name": "AARP California",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19665271/1562950922",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/545746920426057730/JnpkTH2f_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/545746920426057730/JnpkTH2f_normal.png",
+            "profile_link_color": "D42121",
+            "profile_sidebar_border_color": "F2E195",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "screen_name": "AARPCA",
+            "statuses_count": 18601,
+            "url": "http://t.co/dVmv8nUln1",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 38254095,
+                "id_str": "38254095",
+                "name": "Rep. Doris Matsui",
+                "screen_name": "DorisMatsui"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AARPCA: Thank you @DorisMatsui for taking action on two important bipartisan bills: the CREATES Act &amp; the Protecting Consumer Access to\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 06 19:20:50 +0000 2009",
+        "description": "Representing California's 6th Congressional District. Member of the @EnergyCommerce Committee.",
+        "favourites_count": 271,
+        "followers_count": 36068,
+        "friends_count": 9186,
+        "geo_enabled": true,
+        "id": 38254095,
+        "id_str": "38254095",
+        "listed_count": 1124,
+        "location": "Sacramento, CA",
+        "name": "Rep. Doris Matsui",
+        "profile_background_color": "D4CCE8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38254095/1559062275",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E4EAED",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "DorisMatsui",
+        "statuses_count": 3407,
+        "url": "http://t.co/dt820eUUHc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19665271,
+            "id_str": "19665271",
+            "name": "AARP California",
+            "screen_name": "AARPCA"
+        },
+        {
+            "id": 38254095,
+            "id_str": "38254095",
+            "name": "Rep. Doris Matsui",
+            "screen_name": "DorisMatsui"
+        }
+    ]
+}

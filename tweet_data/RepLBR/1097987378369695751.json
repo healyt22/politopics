@@ -1,0 +1,143 @@
+{
+    "created_at": "Tue Feb 19 22:32:45 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "ElSalvador"
+        }
+    ],
+    "id": 1097987378369695751,
+    "id_str": "1097987378369695751",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Tue Feb 19 20:22:24 +0000 2019",
+        "favorite_count": 220,
+        "hashtags": [
+            {
+                "text": "ElSalvador"
+            }
+        ],
+        "id": 1097954575896719361,
+        "id_str": "1097954575896719361",
+        "lang": "es",
+        "retweet_count": 43,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Ayer recibimos una importante visita de 2 senadores y 4 congresistas de \ud83c\uddfa\ud83c\uddf8 a #ElSalvador liderada por el senador Ca\u2026 https://t.co/eXFEHNRzs2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1097954575896719361",
+                "url": "https://t.co/eXFEHNRzs2"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 09 13:16:14 +0000 2011",
+            "description": "United States Ambassador to the Republic of El Salvador, Floridian, environmentalist, athlete, and optimist Motto: What difference can I make today?",
+            "favourites_count": 29351,
+            "followers_count": 116332,
+            "friends_count": 843,
+            "geo_enabled": true,
+            "id": 351583319,
+            "id_str": "351583319",
+            "listed_count": 121,
+            "location": "El Salvador",
+            "name": "Jean Manes",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/351583319/1547153324",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145830546389512193/F6HGGFaB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145830546389512193/F6HGGFaB_normal.png",
+            "profile_link_color": "3537D2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "USAmbSV",
+            "statuses_count": 4140,
+            "url": "https://t.co/SH5CJhIZ5O",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1097954575896719361,
+    "quoted_status_id_str": "1097954575896719361",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Joined @USAmbSV for a productive conversation about how to further strengthen #ElSalvador and improve conditions to\u2026 https://t.co/4WFDIH0jbu",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1097987378369695751",
+            "url": "https://t.co/4WFDIH0jbu"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 05 16:48:47 +0000 2017",
+        "default_profile": true,
+        "description": "Official Twitter page for U.S. Representative Lisa Blunt Rochester (D-DE).",
+        "favourites_count": 269,
+        "followers_count": 9347,
+        "friends_count": 507,
+        "geo_enabled": true,
+        "id": 817050219007328258,
+        "id_str": "817050219007328258",
+        "listed_count": 327,
+        "location": "Delaware, USA - Washington, DC",
+        "name": "Rep. Blunt Rochester",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817050219007328258/1483635132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096414270890364931/rZ2FxnAr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096414270890364931/rZ2FxnAr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLBR",
+        "statuses_count": 978,
+        "url": "https://t.co/Fe3XCG51wO",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 351583319,
+            "id_str": "351583319",
+            "name": "Jean Manes",
+            "screen_name": "USAmbSV"
+        }
+    ]
+}

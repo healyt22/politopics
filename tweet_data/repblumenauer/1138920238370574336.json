@@ -1,0 +1,78 @@
+{
+    "created_at": "Wed Jun 12 21:25:19 +0000 2019",
+    "favorite_count": 32,
+    "hashtags": [
+        {
+            "text": "pulse"
+        }
+    ],
+    "id": 1138920238370574336,
+    "id_str": "1138920238370574336",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/rBehh78KBt",
+            "expanded_url": "https://twitter.com/repblumenauer/status/1138920238370574336/photo/1",
+            "id": 1138920189662121984,
+            "media_url": "http://pbs.twimg.com/media/D85B4NRU0AApIut.png",
+            "media_url_https": "https://pbs.twimg.com/media/D85B4NRU0AApIut.png",
+            "sizes": {
+                "medium": {
+                    "w": 786,
+                    "h": 782,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 786,
+                    "h": 782,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 677,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/rBehh78KBt"
+        }
+    ],
+    "retweet_count": 8,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#pulse https://t.co/rBehh78KBt",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Aug 23 06:38:46 +0000 2008",
+        "description": "Progressive Democrat proudly representing Oregon\u2019s 3rd Congressional District.",
+        "favourites_count": 195,
+        "followers_count": 65513,
+        "friends_count": 1195,
+        "geo_enabled": true,
+        "id": 15954997,
+        "id_str": "15954997",
+        "listed_count": 2067,
+        "location": "Portland, OR",
+        "name": "Earl Blumenauer",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15954997/1439504673",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096198742343147521/rAkpNj8j_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096198742343147521/rAkpNj8j_normal.png",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "screen_name": "repblumenauer",
+        "statuses_count": 4064,
+        "url": "https://t.co/tSU5eJrWdN",
+        "verified": true
+    },
+    "user_mentions": []
+}

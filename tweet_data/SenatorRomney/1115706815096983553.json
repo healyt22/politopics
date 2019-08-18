@@ -1,0 +1,91 @@
+{
+    "created_at": "Tue Apr 09 20:03:28 +0000 2019",
+    "hashtags": [],
+    "id": 1115706815096983553,
+    "id_str": "1115706815096983553",
+    "lang": "en",
+    "retweet_count": 11,
+    "retweeted_status": {
+        "created_at": "Tue Apr 09 16:24:23 +0000 2019",
+        "favorite_count": 55,
+        "hashtags": [],
+        "id": 1115651684212957189,
+        "id_str": "1115651684212957189",
+        "lang": "en",
+        "retweet_count": 11,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Welcome home 1st Battalion, 145th Field Artillery. It was a long 10 months, but they truly lived up to Echo Battery\u2026 https://t.co/jZaB2eOrow",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1115651684212957189",
+                "url": "https://t.co/jZaB2eOrow"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 17 15:29:34 +0000 2009",
+            "description": "Official Utah National Guard account. Serving the citizens of Utah and the United States since 1849. #AlwaysReady #AlwaysThere",
+            "favourites_count": 776,
+            "followers_count": 5340,
+            "friends_count": 160,
+            "geo_enabled": true,
+            "id": 24898148,
+            "id_str": "24898148",
+            "listed_count": 195,
+            "location": "Headquarters in Draper, Utah",
+            "name": "Utah National Guard",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24898148/1556037829",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2167506673/UTNG_Logo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2167506673/UTNG_Logo_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "UTNationalGuard",
+            "statuses_count": 1575,
+            "url": "https://t.co/LfNRZljpVJ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @UTNationalGuard: Welcome home 1st Battalion, 145th Field Artillery. It was a long 10 months, but they truly lived up to Echo Battery's\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 28 16:46:10 +0000 2018",
+        "description": "United States Senator from the great state of Utah.",
+        "favourites_count": 46,
+        "followers_count": 35854,
+        "friends_count": 114,
+        "id": 1078693601356509184,
+        "id_str": "1078693601356509184",
+        "listed_count": 397,
+        "location": "Salt Lake City, UT",
+        "name": "Senator Mitt Romney",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078693601356509184/1546018752",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1087166952009805824/5R_xZExa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087166952009805824/5R_xZExa_normal.jpg",
+        "profile_link_color": "0C3C59",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenatorRomney",
+        "statuses_count": 340,
+        "url": "https://t.co/Jm8ULofrvE",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 24898148,
+            "id_str": "24898148",
+            "name": "Utah National Guard",
+            "screen_name": "UTNationalGuard"
+        }
+    ]
+}

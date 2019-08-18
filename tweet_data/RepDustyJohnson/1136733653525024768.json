@@ -1,0 +1,114 @@
+{
+    "created_at": "Thu Jun 06 20:36:37 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1136733653525024768,
+    "id_str": "1136733653525024768",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/oaxEwHRtcu",
+            "expanded_url": "https://twitter.com/RepDustyJohnson/status/1136733653525024768/photo/1",
+            "id": 1136733647187435520,
+            "media_url": "http://pbs.twimg.com/media/D8Z9OrzXYAAmTal.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8Z9OrzXYAAmTal.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/oaxEwHRtcu"
+        }
+    ],
+    "place": {
+        "id": "07d9d387c7486000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9d387c7486000.json",
+        "place_type": "poi",
+        "name": "Dakota State University",
+        "full_name": "Dakota State University",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -97.11064827151789,
+                        44.01268806180898
+                    ],
+                    [
+                        -97.11064827151789,
+                        44.01268806180898
+                    ],
+                    [
+                        -97.11064827151789,
+                        44.01268806180898
+                    ],
+                    [
+                        -97.11064827151789,
+                        44.01268806180898
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Speaking with youth leaders at @hobysd! https://t.co/oaxEwHRtcu",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Dec 17 21:44:20 +0000 2018",
+        "description": "South Dakota's lone U.S. Representative - husband, father, & proud South Dakotan.",
+        "favourites_count": 97,
+        "followers_count": 3212,
+        "friends_count": 125,
+        "geo_enabled": true,
+        "id": 1074782372594413569,
+        "id_str": "1074782372594413569",
+        "listed_count": 111,
+        "location": "Mitchell, SD",
+        "name": "Rep. Dusty Johnson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074782372594413569/1547143930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDustyJohnson",
+        "statuses_count": 392,
+        "url": "https://t.co/O0W5qo3H9S",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21607952,
+            "id_str": "21607952",
+            "name": "HOBY South Dakota",
+            "screen_name": "hobysd"
+        }
+    ]
+}

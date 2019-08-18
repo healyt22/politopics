@@ -1,0 +1,142 @@
+{
+    "created_at": "Tue Apr 23 14:43:24 +0000 2019",
+    "hashtags": [
+        {
+            "text": "ArmstrongHighSchool"
+        },
+        {
+            "text": "students"
+        }
+    ],
+    "id": 1120699696937349125,
+    "id_str": "1120699696937349125",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Apr 22 18:29:26 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "ArmstrongHighSchool"
+            },
+            {
+                "text": "students"
+            }
+        ],
+        "id": 1120394193317310464,
+        "id_str": "1120394193317310464",
+        "lang": "en",
+        "place": {
+            "id": "abdcce6699db323f",
+            "url": "https://api.twitter.com/1.1/geo/id/abdcce6699db323f.json",
+            "place_type": "city",
+            "name": "Kittanning",
+            "full_name": "Kittanning, PA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.529784,
+                            40.807153
+                        ],
+                        [
+                            -79.506784,
+                            40.807153
+                        ],
+                        [
+                            -79.506784,
+                            40.8452209
+                        ],
+                        [
+                            -79.529784,
+                            40.8452209
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Visiting #ArmstrongHighSchool this afternoon to speak to &amp; recognize #students participating in the\u2026 https://t.co/gB2l2P8QMm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1120394193317310464",
+                "url": "https://t.co/gB2l2P8QMm"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 14 04:54:58 +0000 2009",
+            "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania's 15th Congressional District. #PA15",
+            "favourites_count": 368,
+            "followers_count": 20504,
+            "friends_count": 2970,
+            "geo_enabled": true,
+            "id": 18967498,
+            "id_str": "18967498",
+            "listed_count": 1175,
+            "location": "Howard, Pennsylvania",
+            "name": "Glenn 'GT' Thompson",
+            "profile_background_color": "383B78",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18967498/1546544253",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+            "profile_link_color": "0E17B5",
+            "profile_sidebar_border_color": "F7EFF7",
+            "profile_sidebar_fill_color": "FCFF57",
+            "profile_text_color": "0A090A",
+            "profile_use_background_image": true,
+            "screen_name": "CongressmanGT",
+            "statuses_count": 7403,
+            "url": "http://t.co/DvqrekKjtb",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CongressmanGT: Visiting #ArmstrongHighSchool this afternoon to speak to &amp; recognize #students participating in the #CapitalHillStockMar\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 23 19:33:31 +0000 2008",
+        "description": "Fostering the best opportunities for students to learn, workers to succeed, and employers to grow. Senior Republican Rep. @VirginiaFoxx.",
+        "favourites_count": 337,
+        "followers_count": 14965,
+        "friends_count": 749,
+        "id": 16424044,
+        "id_str": "16424044",
+        "listed_count": 840,
+        "location": "Washington, D.C.",
+        "name": "House Ed & Labor Republicans",
+        "profile_background_color": "840615",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16424044/1516828425",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080870670924505088/7wB_RYP8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080870670924505088/7wB_RYP8_normal.jpg",
+        "profile_link_color": "002E6D",
+        "profile_sidebar_border_color": "333333",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "EdLaborGOP",
+        "statuses_count": 6834,
+        "url": "https://t.co/4vVHntvdqd",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18967498,
+            "id_str": "18967498",
+            "name": "Glenn 'GT' Thompson",
+            "screen_name": "CongressmanGT"
+        }
+    ]
+}

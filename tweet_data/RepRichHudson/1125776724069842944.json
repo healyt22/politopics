@@ -1,0 +1,193 @@
+{
+    "created_at": "Tue May 07 14:57:41 +0000 2019",
+    "hashtags": [
+        {
+            "text": "TravelMatters"
+        },
+        {
+            "text": "NTTW19"
+        },
+        {
+            "text": "WhereRacingLives"
+        }
+    ],
+    "id": 1125776724069842944,
+    "id_str": "1125776724069842944",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue May 07 14:57:04 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "TravelMatters"
+            },
+            {
+                "text": "NTTW19"
+            },
+            {
+                "text": "WhereRacingLives"
+            }
+        ],
+        "id": 1125776566972289024,
+        "id_str": "1125776566972289024",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vH1IwMoND4",
+                "expanded_url": "https://twitter.com/VisitCabarrus/status/1125776566972289024/video/1",
+                "id": 1125776474773106688,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125776474773106688/pu/img/FlOWjP95EqByn3u-.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125776474773106688/pu/img/FlOWjP95EqByn3u-.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/vH1IwMoND4",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 18567,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1125776474773106688/pu/vid/640x360/PXXDoD3WN8Sgrl3U.mp4?tag=9"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1125776474773106688/pu/pl/H9x6sD7oafRIlZIz.m3u8?tag=9"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1125776474773106688/pu/vid/1280x720/hZBk-1_E1GItz3ft.mp4?tag=9"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1125776474773106688/pu/vid/320x180/z7qWMN_-IfSj8X8a.mp4?tag=9"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "These are the people powering Cabarrus County, NC #TravelMatters #NTTW19 #WhereRacingLives @USTravel @VisitNC https://t.co/vH1IwMoND4",
+        "urls": [],
+        "user": {
+            "created_at": "Wed May 27 16:22:04 +0000 2009",
+            "description": "Cabarrus, NC Official Visitor Info! #WhereRacingLives Home of @CLTMotorSpdwy @zMAXDragway @TheDirtTrack, #NASCAR Race Teams, #DaleTrail & @TheAvettBros",
+            "favourites_count": 7628,
+            "followers_count": 2702,
+            "friends_count": 802,
+            "geo_enabled": true,
+            "id": 42916236,
+            "id_str": "42916236",
+            "listed_count": 104,
+            "location": "Concord & Kannapolis, NC",
+            "name": "Visit Cabarrus",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/42916236/1563221742",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/903296784092549123/96yOPiX4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/903296784092549123/96yOPiX4_normal.jpg",
+            "profile_link_color": "C20202",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "VisitCabarrus",
+            "statuses_count": 5261,
+            "url": "https://t.co/8X54pcJVR1"
+        },
+        "user_mentions": [
+            {
+                "id": 38734554,
+                "id_str": "38734554",
+                "name": "U.S. Travel",
+                "screen_name": "USTravel"
+            },
+            {
+                "id": 30062010,
+                "id_str": "30062010",
+                "name": "Visit North Carolina",
+                "screen_name": "VisitNC"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @VisitCabarrus: These are the people powering Cabarrus County, NC #TravelMatters #NTTW19 #WhereRacingLives @USTravel @VisitNC https://t.\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Nov 08 17:41:00 +0000 2012",
+        "description": "Official Twitter account for Congressman Richard Hudson -- proudly representing the 8th Congressional District of North Carolina.",
+        "favourites_count": 6256,
+        "followers_count": 17545,
+        "friends_count": 2330,
+        "id": 935033864,
+        "id_str": "935033864",
+        "listed_count": 699,
+        "location": "Concord, NC",
+        "name": "Richard Hudson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/935033864/1361291324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700164005684449280/UF6ckSJB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700164005684449280/UF6ckSJB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRichHudson",
+        "statuses_count": 7524,
+        "url": "https://t.co/KyMhp4Akkf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 42916236,
+            "id_str": "42916236",
+            "name": "Visit Cabarrus",
+            "screen_name": "VisitCabarrus"
+        },
+        {
+            "id": 38734554,
+            "id_str": "38734554",
+            "name": "U.S. Travel",
+            "screen_name": "USTravel"
+        },
+        {
+            "id": 30062010,
+            "id_str": "30062010",
+            "name": "Visit North Carolina",
+            "screen_name": "VisitNC"
+        }
+    ]
+}

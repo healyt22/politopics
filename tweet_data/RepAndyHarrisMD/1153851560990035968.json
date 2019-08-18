@@ -1,0 +1,108 @@
+{
+    "created_at": "Wed Jul 24 02:17:04 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1153851560990035968,
+    "id_str": "1153851560990035968",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/6yqSbr7J3R",
+            "expanded_url": "https://twitter.com/RepAndyHarrisMD/status/1153851560990035968/photo/1",
+            "id": 1153851542396702721,
+            "media_url": "http://pbs.twimg.com/media/EANN3UwXkAEfPuq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EANN3UwXkAEfPuq.jpg",
+            "sizes": {
+                "large": {
+                    "w": 750,
+                    "h": 869,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 587,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 750,
+                    "h": 869,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/6yqSbr7J3R"
+        }
+    ],
+    "place": {
+        "id": "604651199ea5b10a",
+        "url": "https://api.twitter.com/1.1/geo/id/604651199ea5b10a.json",
+        "place_type": "city",
+        "name": "Jefferson",
+        "full_name": "Jefferson, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.220862,
+                        38.846423
+                    ],
+                    [
+                        -77.1548838,
+                        38.846423
+                    ],
+                    [
+                        -77.1548838,
+                        38.879667
+                    ],
+                    [
+                        -77.220862,
+                        38.879667
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "My statement on the TPS vote today \u2014&gt; https://t.co/6yqSbr7J3R",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Nov 20 18:31:27 +0000 2012",
+        "description": "Proud to represent MD-01; Anesthesiologist; Dad to Joe, Becky, Irene, Jessica, & Danny; Grandpa to Charles, Abigail, Arthur, Andrew, Camilla, James, & Sylvia.",
+        "favourites_count": 345,
+        "followers_count": 15908,
+        "friends_count": 612,
+        "geo_enabled": true,
+        "id": 960962340,
+        "id_str": "960962340",
+        "listed_count": 766,
+        "location": "Maryland's First District",
+        "name": "Rep. Andy Harris, MD",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/960962340/1560529185",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyHarrisMD",
+        "statuses_count": 3211,
+        "url": "https://t.co/LI7VqoSoP7",
+        "verified": true
+    },
+    "user_mentions": []
+}

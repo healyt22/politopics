@@ -1,0 +1,105 @@
+{
+    "created_at": "Mon Jun 24 18:24:14 +0000 2019",
+    "hashtags": [],
+    "id": 1143223321259126784,
+    "id_str": "1143223321259126784",
+    "lang": "en",
+    "retweet_count": 56,
+    "retweeted_status": {
+        "created_at": "Mon Jun 24 13:14:40 +0000 2019",
+        "favorite_count": 104,
+        "hashtags": [],
+        "id": 1143145415593717760,
+        "id_str": "1143145415593717760",
+        "lang": "en",
+        "retweet_count": 56,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "As @SenMarkey told me: \u201dClimate change is the greatest challenge we face--every industry and every business will be\u2026 https://t.co/j3GUDrNQf7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143145415593717760",
+                "url": "https://t.co/j3GUDrNQf7"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Oct 27 17:46:59 +0000 2013",
+            "description": "(it's eye-lee.) sustainability, cities, and equity for @FastCompany. pitches to: eanzilotti@fastcompany.com @FastCoUnion",
+            "favourites_count": 5051,
+            "followers_count": 4331,
+            "friends_count": 4319,
+            "geo_enabled": true,
+            "id": 2159329092,
+            "id_str": "2159329092",
+            "listed_count": 171,
+            "location": "Seattle, WA",
+            "name": "eillie anzilotti",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2159329092/1523888051",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1137046125532160005/PSdN5aVE_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137046125532160005/PSdN5aVE_normal.png",
+            "profile_link_color": "E64B37",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "eillieanzi",
+            "statuses_count": 809,
+            "url": "https://t.co/OJ69l0pxyk",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 21406834,
+                "id_str": "21406834",
+                "name": "Ed Markey",
+                "screen_name": "SenMarkey"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @eillieanzi: As @SenMarkey told me: \u201dClimate change is the greatest challenge we face--every industry and every business will be compell\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Feb 20 15:49:29 +0000 2009",
+        "description": "Official account for Senator Edward J. Markey. National leader on energy, environment, climate, telecom. Voice for consumer protection. https://t.co/nfYWzVp6R8",
+        "favourites_count": 325,
+        "followers_count": 158200,
+        "friends_count": 1372,
+        "geo_enabled": true,
+        "id": 21406834,
+        "id_str": "21406834",
+        "listed_count": 3301,
+        "location": "MA",
+        "name": "Ed Markey",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21406834/1549578517",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+        "profile_link_color": "062232",
+        "profile_sidebar_border_color": "F55600",
+        "profile_sidebar_fill_color": "B8FDB5",
+        "profile_text_color": "333333",
+        "screen_name": "SenMarkey",
+        "statuses_count": 14408,
+        "url": "https://t.co/PvCpESuHno",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2159329092,
+            "id_str": "2159329092",
+            "name": "eillie anzilotti",
+            "screen_name": "eillieanzi"
+        },
+        {
+            "id": 21406834,
+            "id_str": "21406834",
+            "name": "Ed Markey",
+            "screen_name": "SenMarkey"
+        }
+    ]
+}

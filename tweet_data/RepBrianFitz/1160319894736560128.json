@@ -1,0 +1,102 @@
+{
+    "created_at": "Sat Aug 10 22:39:55 +0000 2019",
+    "hashtags": [],
+    "id": 1160319894736560128,
+    "id_str": "1160319894736560128",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Sat Aug 10 12:30:00 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1160166403934171136,
+        "id_str": "1160166403934171136",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Beginning August 21, my Warminster office will be hosting staff from @RepBrianFitz's office to assist you with fede\u2026 https://t.co/y1ueTsoNZv",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1160166403934171136",
+                "url": "https://t.co/y1ueTsoNZv"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Dec 03 17:08:19 +0000 2018",
+            "description": "Official Twitter account of Pennsylvania State Senator Maria Collett, proudly serving the constituents of the 12th District in Bucks and Montgomery Counties.",
+            "favourites_count": 766,
+            "followers_count": 1636,
+            "friends_count": 485,
+            "id": 1069639477012955141,
+            "id_str": "1069639477012955141",
+            "listed_count": 24,
+            "location": "Pennsylvania, USA",
+            "name": "Senator Maria Collett",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069639477012955141/1543859099",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1069644365465710592/GNoBCFgQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069644365465710592/GNoBCFgQ_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "SenatorCollett",
+            "statuses_count": 986,
+            "url": "https://t.co/z2suUbY9Rc",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 816303263586914304,
+                "id_str": "816303263586914304",
+                "name": "Brian Fitzpatrick",
+                "screen_name": "RepBrianFitz"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @SenatorCollett: Beginning August 21, my Warminster office will be hosting staff from @RepBrianFitz's office to assist you with federal\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 03 15:20:39 +0000 2017",
+        "description": "An independent voice for the people of #PA01. Former FBI Special Agent & Federal Prosecutor. EMT, CPA & Philly sports fan. #GoBirds",
+        "favourites_count": 144,
+        "followers_count": 12291,
+        "friends_count": 192,
+        "id": 816303263586914304,
+        "id_str": "816303263586914304",
+        "listed_count": 428,
+        "location": "Levittown, PA",
+        "name": "Brian Fitzpatrick",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816303263586914304/1524239538",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/987357349156458497/d4VDis2Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/987357349156458497/d4VDis2Y_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepBrianFitz",
+        "statuses_count": 1315,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1069639477012955141,
+            "id_str": "1069639477012955141",
+            "name": "Senator Maria Collett",
+            "screen_name": "SenatorCollett"
+        },
+        {
+            "id": 816303263586914304,
+            "id_str": "816303263586914304",
+            "name": "Brian Fitzpatrick",
+            "screen_name": "RepBrianFitz"
+        }
+    ]
+}

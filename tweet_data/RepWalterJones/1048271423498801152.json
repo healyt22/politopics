@@ -1,0 +1,93 @@
+{
+    "created_at": "Fri Oct 05 17:59:17 +0000 2018",
+    "hashtags": [],
+    "id": 1048271423498801152,
+    "id_str": "1048271423498801152",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Oct 05 16:53:44 +0000 2018",
+        "hashtags": [],
+        "id": 1048254924012773376,
+        "id_str": "1048254924012773376",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The Red Cross will be distributing warm meals, water and other essential items on Saturday, October 6th and Sunday,\u2026 https://t.co/gTZ7zXlc2z",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1048254924012773376",
+                "url": "https://t.co/gTZ7zXlc2z"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Dec 03 19:35:30 +0000 2012",
+            "description": "The Red Cross of Eastern North Carolina is comprised of 53 counties and serves more than 4.6 million people.",
+            "favourites_count": 214,
+            "followers_count": 812,
+            "friends_count": 269,
+            "geo_enabled": true,
+            "id": 987291211,
+            "id_str": "987291211",
+            "listed_count": 48,
+            "location": "Eastern NC",
+            "name": "Eastern NC Red Cross",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/987291211/1537881850",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2928375521/de36fae00788ad909538c425aa0e3866_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2928375521/de36fae00788ad909538c425aa0e3866_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RedCrossENC",
+            "statuses_count": 1516,
+            "url": "https://t.co/VpBijNGzrk",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RedCrossENC: The Red Cross will be distributing warm meals, water and other essential items on Saturday, October 6th and Sunday, Octobe\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 26 15:50:58 +0000 2009",
+        "default_profile": true,
+        "description": "Proudly representing the people of Eastern North Carolina. #NC03",
+        "favourites_count": 508,
+        "followers_count": 24043,
+        "friends_count": 881,
+        "id": 26778110,
+        "id_str": "26778110",
+        "listed_count": 1238,
+        "location": "Eastern North Carolina",
+        "name": "Rep. Walter Jones",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26778110/1400704775",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/110804051/WBJ_official_photo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/110804051/WBJ_official_photo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepWalterJones",
+        "statuses_count": 2770,
+        "url": "http://t.co/G0tNMT3Ges",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 987291211,
+            "id_str": "987291211",
+            "name": "Eastern NC Red Cross",
+            "screen_name": "RedCrossENC"
+        }
+    ]
+}

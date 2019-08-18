@@ -1,0 +1,174 @@
+{
+    "created_at": "Sun May 26 04:46:01 +0000 2019",
+    "hashtags": [],
+    "id": 1132508160932110337,
+    "id_str": "1132508160932110337",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Sat May 25 01:04:34 +0000 2019",
+        "favorite_count": 26,
+        "hashtags": [],
+        "id": 1132090045744189440,
+        "id_str": "1132090045744189440",
+        "lang": "en",
+        "place": {
+            "id": "d1cd39353c51904d",
+            "url": "https://api.twitter.com/1.1/geo/id/d1cd39353c51904d.json",
+            "place_type": "city",
+            "name": "Boca Raton",
+            "full_name": "Boca Raton, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.2039913,
+                            26.320692
+                        ],
+                        [
+                            -80.065981,
+                            26.320692
+                        ],
+                        [
+                            -80.065981,
+                            26.427259
+                        ],
+                        [
+                            -80.2039913,
+                            26.427259
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@DWStweets @RepJoseSerrano @MarioDB @RepTedDeutch Because of you $31.25 million will be dedicated for school harde\u2026 https://t.co/2jKBZ3TNQ9",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1132090045744189440",
+                "url": "https://t.co/2jKBZ3TNQ9"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Apr 03 02:54:21 +0000 2016",
+            "default_profile": true,
+            "description": "Max Schachter is the father of Alex Schachter who was murdered in the shooting at MSD on 2/14/2018. He has now devoted his life to making schools safer.",
+            "favourites_count": 1516,
+            "followers_count": 7719,
+            "friends_count": 586,
+            "geo_enabled": true,
+            "id": 716458790229581824,
+            "id_str": "716458790229581824",
+            "listed_count": 22,
+            "location": "Parkland, FL",
+            "name": "Max Schachter",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/716458790229581824/1546796974",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/987440966230405120/sW-zluNL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/987440966230405120/sW-zluNL_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "maxschachter",
+            "statuses_count": 1442,
+            "url": "https://t.co/EgD0Q2FXqk"
+        },
+        "user_mentions": [
+            {
+                "id": 115979444,
+                "id_str": "115979444",
+                "name": "Debbie Wasserman Schultz",
+                "screen_name": "DWStweets"
+            },
+            {
+                "id": 33563161,
+                "id_str": "33563161",
+                "name": "Jos\u00e9 E. Serrano",
+                "screen_name": "RepJoseSerrano"
+            },
+            {
+                "id": 37094727,
+                "id_str": "37094727",
+                "name": "Mario Diaz-Balart",
+                "screen_name": "MarioDB"
+            },
+            {
+                "id": 137794015,
+                "id_str": "137794015",
+                "name": "Rep. Ted Deutch",
+                "screen_name": "RepTedDeutch"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @maxschachter: .@DWStweets @RepJoseSerrano @MarioDB @RepTedDeutch Because of you $31.25 million will be dedicated for school hardening m\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Apr 20 16:06:56 +0000 2009",
+        "description": "Congressman representing #TheBronx, New York. Chairman of @AppropsDems Commerce, Justice & Science Subcommittee. Dean of @HispanicCaucus",
+        "favourites_count": 583,
+        "followers_count": 30238,
+        "friends_count": 1246,
+        "id": 33563161,
+        "id_str": "33563161",
+        "listed_count": 1133,
+        "location": "Bronx NY-Wash.DC",
+        "name": "Jos\u00e9 E. Serrano",
+        "profile_background_color": "0099CC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33563161/1368570286",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3660133461/11799f104946003777b619effc437548_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3660133461/11799f104946003777b619effc437548_normal.jpeg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoseSerrano",
+        "statuses_count": 4896,
+        "url": "http://t.co/jXKviVB0sc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 716458790229581824,
+            "id_str": "716458790229581824",
+            "name": "Max Schachter",
+            "screen_name": "maxschachter"
+        },
+        {
+            "id": 115979444,
+            "id_str": "115979444",
+            "name": "Debbie Wasserman Schultz",
+            "screen_name": "DWStweets"
+        },
+        {
+            "id": 33563161,
+            "id_str": "33563161",
+            "name": "Jos\u00e9 E. Serrano",
+            "screen_name": "RepJoseSerrano"
+        },
+        {
+            "id": 37094727,
+            "id_str": "37094727",
+            "name": "Mario Diaz-Balart",
+            "screen_name": "MarioDB"
+        },
+        {
+            "id": 137794015,
+            "id_str": "137794015",
+            "name": "Rep. Ted Deutch",
+            "screen_name": "RepTedDeutch"
+        }
+    ]
+}

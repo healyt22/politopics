@@ -1,0 +1,79 @@
+{
+    "created_at": "Tue Sep 12 23:20:47 +0000 2017",
+    "favorite_count": 34,
+    "hashtags": [],
+    "id": 907745839124287488,
+    "id_str": "907745839124287488",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/YRTQE2VrYf",
+            "expanded_url": "https://twitter.com/aguilarpete/status/907745839124287488/photo/1",
+            "id": 907745835722604546,
+            "media_url": "http://pbs.twimg.com/media/DJj2BzSWAAIyc9G.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJj2BzSWAAIyc9G.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/YRTQE2VrYf"
+        }
+    ],
+    "retweet_count": 7,
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "text": "In the room where it happened (Statuary Hall) with @Lin_Manuel !! https://t.co/YRTQE2VrYf",
+    "urls": [],
+    "user": {
+        "created_at": "Thu May 21 05:04:40 +0000 2009",
+        "description": "Dad. Husband. Former pothole filling Mayor and elected Representative of California's 31st district. Living the dream. Personal account",
+        "favourites_count": 4,
+        "followers_count": 2746,
+        "friends_count": 624,
+        "id": 41533245,
+        "id_str": "41533245",
+        "listed_count": 213,
+        "location": "Redlands, CA",
+        "name": "Pete Aguilar",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41533245/1425249861",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "aguilarpete",
+        "statuses_count": 734,
+        "url": "https://t.co/tTc0XSgDq9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 79923701,
+            "id_str": "79923701",
+            "name": "Lin-Manuel Miranda",
+            "screen_name": "Lin_Manuel"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "created_at": "Tue Dec 11 20:05:01 +0000 2018",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1072583051857879046,
+    "id_str": "1072583051857879046",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Dec 11 15:26:45 +0000 2018",
+        "favorite_count": 106,
+        "hashtags": [],
+        "id": 1072513022051131392,
+        "id_str": "1072513022051131392",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/SjvYiPBlnQ",
+                "expanded_url": "https://twitter.com/Cheniere/status/1072513022051131392/photo/1",
+                "id": 1072512761593298945,
+                "media_url": "http://pbs.twimg.com/media/DuJUrJvXgAEIk8F.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DuJUrJvXgAEIk8F.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/SjvYiPBlnQ"
+            }
+        ],
+        "retweet_count": 53,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "First Commissioning Cargo Departs Cheniere\u2019s Corpus Christi Liquefaction Facility -- https://t.co/apzfZddtCD https://t.co/SjvYiPBlnQ",
+        "urls": [
+            {
+                "expanded_url": "https://bit.ly/2Emutow",
+                "url": "https://t.co/apzfZddtCD"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Apr 14 21:30:44 +0000 2017",
+            "default_profile": true,
+            "description": "We purchase gas, transport, liquefy, and ship LNG around the world. Houston, London, Singapore, DC, Tokyo, Beijing, Louisiana, Corpus Christi.",
+            "favourites_count": 102,
+            "followers_count": 2113,
+            "friends_count": 189,
+            "geo_enabled": true,
+            "id": 852997575871475715,
+            "id_str": "852997575871475715",
+            "listed_count": 41,
+            "location": "Houston, TX",
+            "name": "Cheniere Energy Inc.",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/852997575871475715/1547174926",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1148685181466882055/fCg_-rRm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148685181466882055/fCg_-rRm_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Cheniere",
+            "statuses_count": 252,
+            "url": "https://t.co/YhcQ2B0T95"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1072513022051131392,
+    "quoted_status_id_str": "1072513022051131392",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Our part of Texas is fueling the world! Today the first ship full of Liquified Natural Gas left Cheniere Energy\u2019s n\u2026 https://t.co/FRLZSXB2Gz",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1072583051857879046",
+            "url": "https://t.co/FRLZSXB2Gz"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 12 14:13:25 +0000 2018",
+        "default_profile": true,
+        "description": "Proudly representing the 27th Congressional District of Texas",
+        "favourites_count": 27,
+        "followers_count": 2513,
+        "friends_count": 91,
+        "id": 1039879658400112640,
+        "id_str": "1039879658400112640",
+        "listed_count": 116,
+        "name": "Michael Cloud",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1039879658400112640/1536762801",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039884445149548545/-SmDN7bj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039884445149548545/-SmDN7bj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepCloudTX",
+        "statuses_count": 120,
+        "url": "https://t.co/mcimkA57Jl",
+        "verified": true
+    },
+    "user_mentions": []
+}

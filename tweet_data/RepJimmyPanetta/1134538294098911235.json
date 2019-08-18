@@ -1,0 +1,117 @@
+{
+    "created_at": "Fri May 31 19:13:02 +0000 2019",
+    "hashtags": [],
+    "id": 1134538294098911235,
+    "id_str": "1134538294098911235",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri May 31 19:01:54 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1134535492957949952,
+        "id_str": "1134535492957949952",
+        "in_reply_to_screen_name": "SupervisorLopez",
+        "in_reply_to_user_id": 1103067407453700097,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@SupervisorLopez and @RepJimmyPanetta responded to the stories and committed to working with COPA on healthcare acc\u2026 https://t.co/BcOVI7fNTB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1134535492957949952",
+                "url": "https://t.co/BcOVI7fNTB"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jan 05 22:20:34 +0000 2014",
+            "default_profile": true,
+            "description": "Broad-based organizing in Santa Cruz, Monterey & San Benito Counties...",
+            "favourites_count": 20,
+            "followers_count": 325,
+            "friends_count": 280,
+            "id": 2278165734,
+            "id_str": "2278165734",
+            "listed_count": 6,
+            "name": "COPA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2278165734/1535142983",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/419959512322174976/DCPuxELe_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/419959512322174976/DCPuxELe_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "COPA_IAF",
+            "statuses_count": 684,
+            "url": "https://t.co/kshpVMJE5k"
+        },
+        "user_mentions": [
+            {
+                "id": 1103067407453700097,
+                "id_str": "1103067407453700097",
+                "name": "SupervisorLopez",
+                "screen_name": "SupervisorLopez"
+            },
+            {
+                "id": 796736612554117120,
+                "id_str": "796736612554117120",
+                "name": "Rep. Jimmy Panetta",
+                "screen_name": "RepJimmyPanetta"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @COPA_IAF: @SupervisorLopez and @RepJimmyPanetta responded to the stories and committed to working with COPA on healthcare access, housi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Nov 10 15:29:45 +0000 2016",
+        "default_profile": true,
+        "description": "I'm honored to serve as the Congressman for California's Central Coast (CA-20) in the U.S. House of Representatives.",
+        "favourites_count": 1061,
+        "followers_count": 8985,
+        "friends_count": 516,
+        "geo_enabled": true,
+        "id": 796736612554117120,
+        "id_str": "796736612554117120",
+        "listed_count": 463,
+        "name": "Rep. Jimmy Panetta",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/796736612554117120/1490729428",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827208718618132481/Z6uQa-l__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827208718618132481/Z6uQa-l__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJimmyPanetta",
+        "statuses_count": 2241,
+        "url": "https://t.co/9QMrnfxHRG",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2278165734,
+            "id_str": "2278165734",
+            "name": "COPA",
+            "screen_name": "COPA_IAF"
+        },
+        {
+            "id": 1103067407453700097,
+            "id_str": "1103067407453700097",
+            "name": "SupervisorLopez",
+            "screen_name": "SupervisorLopez"
+        },
+        {
+            "id": 796736612554117120,
+            "id_str": "796736612554117120",
+            "name": "Rep. Jimmy Panetta",
+            "screen_name": "RepJimmyPanetta"
+        }
+    ]
+}

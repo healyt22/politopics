@@ -1,0 +1,157 @@
+{
+    "created_at": "Fri Jul 19 23:37:14 +0000 2019",
+    "hashtags": [
+        {
+            "text": "TheBest"
+        },
+        {
+            "text": "communityofinnovation"
+        },
+        {
+            "text": "lovechandler"
+        }
+    ],
+    "id": 1152361786781392897,
+    "id_str": "1152361786781392897",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Jul 19 18:35:25 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "TheBest"
+            },
+            {
+                "text": "communityofinnovation"
+            },
+            {
+                "text": "lovechandler"
+            }
+        ],
+        "id": 1152285833229156352,
+        "id_str": "1152285833229156352",
+        "lang": "en",
+        "place": {
+            "id": "bd3d2074a33fbd06",
+            "url": "https://api.twitter.com/1.1/geo/id/bd3d2074a33fbd06.json",
+            "place_type": "admin",
+            "name": "Oklahoma",
+            "full_name": "Oklahoma, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -103.0026515,
+                            33.615765
+                        ],
+                        [
+                            -94.431332,
+                            33.615765
+                        ],
+                        [
+                            -94.431332,
+                            37.002328
+                        ],
+                        [
+                            -103.0026515,
+                            37.002328
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Thanks for the kind words Kathryn. \n@cityofchandler staff is #TheBest\n\n#communityofinnovation \n#lovechandler\u2026 https://t.co/4RBjCxz4Lu",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1152285833229156352",
+                "url": "https://t.co/4RBjCxz4Lu"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Apr 10 21:23:39 +0000 2016",
+            "description": "Councilmember in Chandler, AZ Working to build #Entrepreneurship #Innovation #Community #LoveChandler \nMore at @2completion & @Karvtrak",
+            "favourites_count": 4307,
+            "followers_count": 1304,
+            "friends_count": 1756,
+            "geo_enabled": true,
+            "id": 719274669308678144,
+            "id_str": "719274669308678144",
+            "listed_count": 32,
+            "location": "Chandler, AZ",
+            "name": "Mark Stewart - Chandler, AZ Councilmember",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/719274669308678144/1480359329",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/962425844634234880/yvuznM4m_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/962425844634234880/yvuznM4m_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "ChandlerAZProud",
+            "statuses_count": 2326,
+            "url": "https://t.co/K5DhsN6ROx"
+        },
+        "user_mentions": [
+            {
+                "id": 17158532,
+                "id_str": "17158532",
+                "name": "City of Chandler, AZ",
+                "screen_name": "cityofchandler"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @ChandlerAZProud: Thanks for the kind words Kathryn. \n@cityofchandler staff is #TheBest\n\n#communityofinnovation \n#lovechandler \n@Marshah\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+        "default_profile": true,
+        "description": "Representing Arizona's Fighting Fifth.",
+        "favourites_count": 3734,
+        "followers_count": 26796,
+        "friends_count": 1227,
+        "id": 816652616625168388,
+        "id_str": "816652616625168388",
+        "listed_count": 582,
+        "location": "Arizona, USA",
+        "name": "Rep Andy Biggs",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1558381518",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyBiggsAZ",
+        "statuses_count": 5735,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 719274669308678144,
+            "id_str": "719274669308678144",
+            "name": "Mark Stewart - Chandler, AZ Councilmember",
+            "screen_name": "ChandlerAZProud"
+        },
+        {
+            "id": 17158532,
+            "id_str": "17158532",
+            "name": "City of Chandler, AZ",
+            "screen_name": "cityofchandler"
+        }
+    ]
+}

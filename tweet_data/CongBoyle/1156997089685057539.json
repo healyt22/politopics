@@ -1,0 +1,141 @@
+{
+    "created_at": "Thu Aug 01 18:36:16 +0000 2019",
+    "hashtags": [],
+    "id": 1156997089685057539,
+    "id_str": "1156997089685057539",
+    "lang": "en",
+    "retweet_count": 50,
+    "retweeted_status": {
+        "created_at": "Thu Aug 01 11:55:31 +0000 2019",
+        "favorite_count": 155,
+        "hashtags": [],
+        "id": 1156896235359481856,
+        "id_str": "1156896235359481856",
+        "lang": "en",
+        "place": {
+            "id": "83e9c5185856cabc",
+            "url": "https://api.twitter.com/1.1/geo/id/83e9c5185856cabc.json",
+            "place_type": "city",
+            "name": "Kilkenny",
+            "full_name": "Kilkenny, Ireland",
+            "country_code": "IE",
+            "country": "Ireland",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -7.6733888,
+                            52.2425457
+                        ],
+                        [
+                            -6.9142322,
+                            52.2425457
+                        ],
+                        [
+                            -6.9142322,
+                            52.8944269
+                        ],
+                        [
+                            -7.6733888,
+                            52.8944269
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 50,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Taoiseach @LeoVaradkar urges British political leaders to read the Good Friday Agreement - he says he re-read it in\u2026 https://t.co/knVow9l9d8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156896235359481856",
+                "url": "https://t.co/knVow9l9d8"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Dec 10 10:15:24 +0000 2010",
+            "description": "Ireland Correspondent, Sky News. Formerly RTE, TV3",
+            "favourites_count": 398,
+            "followers_count": 6112,
+            "friends_count": 496,
+            "geo_enabled": true,
+            "id": 224976619,
+            "id_str": "224976619",
+            "listed_count": 101,
+            "location": "Dublin, Ireland",
+            "name": "Stephen Murphy",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/224976619/1556233755",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1125755870728609792/mR3CfkLK_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125755870728609792/mR3CfkLK_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SMurphyTV",
+            "statuses_count": 5787,
+            "url": "https://t.co/AUmjzhru3z"
+        },
+        "user_mentions": [
+            {
+                "id": 229466877,
+                "id_str": "229466877",
+                "name": "Leo Varadkar",
+                "screen_name": "LeoVaradkar"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SMurphyTV: Taoiseach @LeoVaradkar urges British political leaders to read the Good Friday Agreement - he says he re-read it in the last\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Nov 20 20:17:53 +0000 2015",
+        "default_profile": true,
+        "description": "Official Leg. account of Rep. Brendan Boyle. Co-Chair @BlueCollarDems, Proud Father, Loyal Philly sports fan and Fighter for the PA-02 Congressional District",
+        "favourites_count": 304,
+        "followers_count": 12071,
+        "friends_count": 3664,
+        "geo_enabled": true,
+        "id": 4304448314,
+        "id_str": "4304448314",
+        "listed_count": 281,
+        "name": "Rep. Brendan Boyle",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4304448314/1532636530",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1011351594527584256/JM6PNL3W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011351594527584256/JM6PNL3W_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongBoyle",
+        "statuses_count": 3903,
+        "url": "https://t.co/jKJoNseYtJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 224976619,
+            "id_str": "224976619",
+            "name": "Stephen Murphy",
+            "screen_name": "SMurphyTV"
+        },
+        {
+            "id": 229466877,
+            "id_str": "229466877",
+            "name": "Leo Varadkar",
+            "screen_name": "LeoVaradkar"
+        }
+    ]
+}

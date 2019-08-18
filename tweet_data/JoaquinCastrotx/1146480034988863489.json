@@ -1,0 +1,185 @@
+{
+    "created_at": "Wed Jul 03 18:05:15 +0000 2019",
+    "hashtags": [],
+    "id": 1146480034988863489,
+    "id_str": "1146480034988863489",
+    "lang": "en",
+    "quoted_status_id": 1145837842465206272,
+    "quoted_status_id_str": "1145837842465206272",
+    "retweet_count": 49,
+    "retweeted_status": {
+        "created_at": "Wed Jul 03 14:59:32 +0000 2019",
+        "favorite_count": 100,
+        "hashtags": [],
+        "id": 1146433299285446656,
+        "id_str": "1146433299285446656",
+        "lang": "en",
+        "place": {
+            "id": "04cb31bae3b3af93",
+            "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json",
+            "place_type": "city",
+            "name": "Miami",
+            "full_name": "Miami, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.321683,
+                            25.7090404
+                        ],
+                        [
+                            -80.144974,
+                            25.7090404
+                        ],
+                        [
+                            -80.144974,
+                            25.855667
+                        ],
+                        [
+                            -80.321683,
+                            25.855667
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Mon Jul 01 23:33:24 +0000 2019",
+            "favorite_count": 5923,
+            "hashtags": [],
+            "id": 1145837842465206272,
+            "id_str": "1145837842465206272",
+            "in_reply_to_screen_name": "JoaquinCastrotx",
+            "in_reply_to_status_id": 1145837840405860353,
+            "in_reply_to_user_id": 231510077,
+            "lang": "en",
+            "retweet_count": 2534,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Here\u2019s what we found: \n\nAt the El Paso Border Patrol Station #1, women from Cuba, some grandmothers, crammed into a\u2026 https://t.co/5CrOqmKhqy",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1145837842465206272",
+                    "url": "https://t.co/5CrOqmKhqy"
+                }
+            ],
+            "user": {
+                "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+                "description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of Intelligence and @EdLaborCmte Commitees; host of @DiploCable.",
+                "favourites_count": 5660,
+                "followers_count": 182186,
+                "friends_count": 1891,
+                "geo_enabled": true,
+                "id": 231510077,
+                "id_str": "231510077",
+                "listed_count": 2351,
+                "location": "San Antonio, Texas",
+                "name": "Joaquin Castro",
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "JoaquinCastrotx",
+                "statuses_count": 14753,
+                "url": "http://t.co/SBuEnv1k",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1145837842465206272,
+        "quoted_status_id_str": "1145837842465206272",
+        "retweet_count": 49,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "A majority of asylum seekers passing through Ciudad Juarez/ El Paso are Cuban nationals. And just now we're learnin\u2026 https://t.co/Vpyyj2ZVZD",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146433299285446656",
+                "url": "https://t.co/Vpyyj2ZVZD"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 17 00:46:07 +0000 2011",
+            "default_profile": true,
+            "description": "Reporter @WLRN. Formerly with @Fusion  @NAHJSouthFL. \ud83c\udde8\ud83c\uddfa-\ud83c\uddfa\ud83c\uddf8. I like digging up dirt, figuratively and literally. Pro-Puerto Rico. Tips: drivero@wlrnnews.org",
+            "favourites_count": 4617,
+            "followers_count": 5020,
+            "friends_count": 4344,
+            "geo_enabled": true,
+            "id": 267472795,
+            "id_str": "267472795",
+            "listed_count": 233,
+            "location": "Miami, FL",
+            "name": "Danny Rivero",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/267472795/1355693188",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/584925379762216960/7WV7O9Dc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/584925379762216960/7WV7O9Dc_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "TooMuchMe",
+            "statuses_count": 22872,
+            "url": "https://t.co/6K4VeXbfgl",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @TooMuchMe: A majority of asylum seekers passing through Ciudad Juarez/ El Paso are Cuban nationals. And just now we're learning about t\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+        "description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of Intelligence and @EdLaborCmte Commitees; host of @DiploCable.",
+        "favourites_count": 5660,
+        "followers_count": 182186,
+        "friends_count": 1891,
+        "geo_enabled": true,
+        "id": 231510077,
+        "id_str": "231510077",
+        "listed_count": 2351,
+        "location": "San Antonio, Texas",
+        "name": "Joaquin Castro",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoaquinCastrotx",
+        "statuses_count": 14753,
+        "url": "http://t.co/SBuEnv1k",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 267472795,
+            "id_str": "267472795",
+            "name": "Danny Rivero",
+            "screen_name": "TooMuchMe"
+        }
+    ]
+}

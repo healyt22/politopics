@@ -1,0 +1,105 @@
+{
+    "created_at": "Sat Feb 23 23:13:16 +0000 2019",
+    "hashtags": [],
+    "id": 1099447129079271429,
+    "id_str": "1099447129079271429",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Sat Feb 23 01:00:18 +0000 2019",
+        "favorite_count": 18,
+        "hashtags": [],
+        "id": 1099111674878050309,
+        "id_str": "1099111674878050309",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "U.S. @SenatorTester, D-Montana, will be at the KettleHouse Brewing Co. production facility in Bonner on Saturday to\u2026 https://t.co/073uICKl0G",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1099111674878050309",
+                "url": "https://t.co/073uICKl0G"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 11 23:20:41 +0000 2008",
+            "description": "Bringing you the latest from the Garden City. Follow for breaking, state and local news.",
+            "favourites_count": 193,
+            "followers_count": 39732,
+            "friends_count": 2930,
+            "geo_enabled": true,
+            "id": 16249481,
+            "id_str": "16249481",
+            "listed_count": 578,
+            "location": "Missoula, Montana",
+            "name": "Missoulian",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16249481/1507587595",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/917483021019709440/hiNAocn4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/917483021019709440/hiNAocn4_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "missoulian",
+            "statuses_count": 92414,
+            "url": "http://t.co/ak0mCv5Soz"
+        },
+        "user_mentions": [
+            {
+                "id": 515822213,
+                "id_str": "515822213",
+                "name": "Senator Jon Tester",
+                "screen_name": "SenatorTester"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @missoulian: U.S. @SenatorTester, D-Montana, will be at the KettleHouse Brewing Co. production facility in Bonner on Saturday to talk to\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 05 20:13:29 +0000 2012",
+        "description": "Third-generation Montana farmer. Proud grandfather. Former school teacher. Flattop icon. Trumpet player. Montana's senior Senator.",
+        "favourites_count": 300,
+        "followers_count": 94817,
+        "friends_count": 1001,
+        "geo_enabled": true,
+        "id": 515822213,
+        "id_str": "515822213",
+        "listed_count": 1370,
+        "location": "Montana",
+        "name": "Senator Jon Tester",
+        "profile_background_color": "0C0203",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/515822213/1490051228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_link_color": "FA610F",
+        "profile_sidebar_border_color": "D6BCAB",
+        "profile_sidebar_fill_color": "BE9658",
+        "profile_text_color": "544D3D",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTester",
+        "statuses_count": 4605,
+        "url": "http://t.co/G4S7FHr0Od",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16249481,
+            "id_str": "16249481",
+            "name": "Missoulian",
+            "screen_name": "missoulian"
+        },
+        {
+            "id": 515822213,
+            "id_str": "515822213",
+            "name": "Senator Jon Tester",
+            "screen_name": "SenatorTester"
+        }
+    ]
+}

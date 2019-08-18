@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Feb 09 00:00:00 +0000 2019",
+    "favorite_count": 26,
+    "hashtags": [],
+    "id": 1094023069180538881,
+    "id_str": "1094023069180538881",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/cCU75GC3Wd",
+            "expanded_url": "https://twitter.com/RepDennyHeck/status/1094023069180538881/video/1",
+            "id": 1093997722435244032,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1093997722435244032/img/uoFjhMV8ZHd_Lx7c.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1093997722435244032/img/uoFjhMV8ZHd_Lx7c.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/cCU75GC3Wd",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 183833,
+                "variants": [
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1093997722435244032/vid/320x180/XFHihz65_vOvAORG.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1093997722435244032/vid/1280x720/QIQOyY5tqNzAJ6kb.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1093997722435244032/vid/640x360/cWfemld36ZckoIcs.mp4?tag=9"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1093997722435244032/pl/mSTMOi1VhMgLQRGn.m3u8?tag=9"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Sharing some more memories of the incomparable @JohnDingell. https://t.co/cCU75GC3Wd",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 07 14:55:36 +0000 2013",
+        "description": "Proudly representing #WA10 in Congress. Husband, (gran)dad, @GonzagaBulldogs fan & #12thMan.  Serves on @HouseIntel (#FollowtheFacts), @FSCDems, and @JECDems.",
+        "favourites_count": 1790,
+        "followers_count": 25694,
+        "friends_count": 3927,
+        "geo_enabled": true,
+        "id": 1068499286,
+        "id_str": "1068499286",
+        "listed_count": 743,
+        "location": "South Puget Sound, WA",
+        "name": "Denny Heck",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068499286/1545056420",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/968856578840461312/PIaFcju-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/968856578840461312/PIaFcju-_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDennyHeck",
+        "statuses_count": 4319,
+        "url": "https://t.co/MntdmHywxT",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 109025212,
+            "id_str": "109025212",
+            "name": "John Dingell",
+            "screen_name": "JohnDingell"
+        }
+    ]
+}

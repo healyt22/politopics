@@ -1,0 +1,130 @@
+{
+    "created_at": "Mon Aug 05 21:19:56 +0000 2019",
+    "hashtags": [
+        {
+            "text": "LittleRock"
+        },
+        {
+            "text": "OpportunityZone"
+        }
+    ],
+    "id": 1158487829971968001,
+    "id_str": "1158487829971968001",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Mon Aug 05 21:14:41 +0000 2019",
+        "favorite_count": 26,
+        "hashtags": [
+            {
+                "text": "LittleRock"
+            }
+        ],
+        "id": 1158486508665495553,
+        "id_str": "1158486508665495553",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Thank you @FrankScottJr &amp; @RepFrenchHill for inviting Chairman Caldwell to be a part of #LittleRock\u2026 https://t.co/P2BNprd1ZH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1158486508665495553",
+                "url": "https://t.co/P2BNprd1ZH"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Oct 22 01:35:07 +0000 2012",
+            "default_profile": true,
+            "description": "Working to Create Jobs, Build Communities & Improve Lives in 252 counties & parishes across the 8 states of the Mississippi River Delta & Alabama Black Belt",
+            "favourites_count": 3682,
+            "followers_count": 2817,
+            "friends_count": 897,
+            "geo_enabled": true,
+            "id": 896512412,
+            "id_str": "896512412",
+            "listed_count": 198,
+            "location": "Clarksdale, MS",
+            "name": "Delta Reg. Authority",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896512412/1503524129",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/900470940613488640/JzwfllXQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/900470940613488640/JzwfllXQ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DeltaRegional",
+            "statuses_count": 6368,
+            "url": "https://t.co/yfKNgnmL7t"
+        },
+        "user_mentions": [
+            {
+                "id": 262480548,
+                "id_str": "262480548",
+                "name": "Frank Scott, Jr.",
+                "screen_name": "FrankScottJr"
+            },
+            {
+                "id": 2953974395,
+                "id_str": "2953974395",
+                "name": "French Hill",
+                "screen_name": "RepFrenchHill"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @DeltaRegional: Thank you @FrankScottJr &amp; @RepFrenchHill for inviting Chairman Caldwell to be a part of #LittleRock #OpportunityZone rou\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 31 23:54:58 +0000 2014",
+        "description": "Official account of Rep French Hill. 9th generation Arkansan. FinTech + AI Task Force Ranking Member. Proudly representing Arkansas's 2nd Congressional District",
+        "favourites_count": 1129,
+        "followers_count": 14456,
+        "friends_count": 1181,
+        "geo_enabled": true,
+        "id": 2953974395,
+        "id_str": "2953974395",
+        "listed_count": 505,
+        "location": "Little Rock, AR",
+        "name": "French Hill",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953974395/1563819578",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepFrenchHill",
+        "statuses_count": 2561,
+        "url": "https://t.co/TggD8rLd3M",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 896512412,
+            "id_str": "896512412",
+            "name": "Delta Reg. Authority",
+            "screen_name": "DeltaRegional"
+        },
+        {
+            "id": 262480548,
+            "id_str": "262480548",
+            "name": "Frank Scott, Jr.",
+            "screen_name": "FrankScottJr"
+        },
+        {
+            "id": 2953974395,
+            "id_str": "2953974395",
+            "name": "French Hill",
+            "screen_name": "RepFrenchHill"
+        }
+    ]
+}

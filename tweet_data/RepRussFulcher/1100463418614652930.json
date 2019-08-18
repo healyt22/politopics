@@ -1,0 +1,121 @@
+{
+    "created_at": "Tue Feb 26 18:31:39 +0000 2019",
+    "favorite_count": 68,
+    "hashtags": [
+        {
+            "text": "GreenNewDeal"
+        },
+        {
+            "text": "GreenNewDisaster"
+        }
+    ],
+    "id": 1100463418614652930,
+    "id_str": "1100463418614652930",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/iUn6PUQIjK",
+            "expanded_url": "https://twitter.com/RepRussFulcher/status/1100463418614652930/video/1",
+            "id": 1100463092729896960,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1100463092729896960/pu/img/pjpk34D-kvY23jTd.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1100463092729896960/pu/img/pjpk34D-kvY23jTd.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/iUn6PUQIjK",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 74633,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1100463092729896960/pu/vid/640x360/7tvP5vMf1hxDax1v.mp4?tag=6"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1100463092729896960/pu/pl/IGgHK2VrTjsSn856.m3u8?tag=6"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1100463092729896960/pu/vid/1280x720/4SHDeI-TG11EPPCx.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1100463092729896960/pu/vid/320x180/Iq1GwGnUMqZRp7Wg.mp4?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 31,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "My take on the #GreenNewDeal. \n\n@westerncaucus @NatResources #GreenNewDisaster https://t.co/iUn6PUQIjK",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 28 19:58:05 +0000 2018",
+        "default_profile": true,
+        "description": "The Official Account of Idaho's First District Congressman Russ Fulcher. #ID01",
+        "favourites_count": 153,
+        "followers_count": 1887,
+        "friends_count": 170,
+        "geo_enabled": true,
+        "id": 1078741899572240384,
+        "id_str": "1078741899572240384",
+        "listed_count": 98,
+        "location": "Washington, DC",
+        "name": "Rep. Russ Fulcher",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078741899572240384/1546614126",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1084841551463882753/ul2xePnL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084841551463882753/ul2xePnL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRussFulcher",
+        "statuses_count": 235,
+        "url": "https://t.co/DyAxM4ZKef",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 144986277,
+            "id_str": "144986277",
+            "name": "Western Caucus",
+            "screen_name": "westerncaucus"
+        },
+        {
+            "id": 41445718,
+            "id_str": "41445718",
+            "name": "Natural Resources GOP",
+            "screen_name": "NatResources"
+        }
+    ]
+}

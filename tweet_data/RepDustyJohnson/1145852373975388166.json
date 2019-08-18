@@ -1,0 +1,80 @@
+{
+    "created_at": "Tue Jul 02 00:31:09 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1145852373975388166,
+    "id_str": "1145852373975388166",
+    "lang": "en",
+    "place": {
+        "id": "4dcfc855e2614f09",
+        "url": "https://api.twitter.com/1.1/geo/id/4dcfc855e2614f09.json",
+        "place_type": "city",
+        "name": "Rapid City",
+        "full_name": "Rapid City, SD",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -103.315567,
+                        44.01364
+                    ],
+                    [
+                        -103.1512544,
+                        44.01364
+                    ],
+                    [
+                        -103.1512544,
+                        44.1368142
+                    ],
+                    [
+                        -103.315567,
+                        44.1368142
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thank you to everyone who stopped by for the \u2018Inside Scoop\u2019 in Rapid City and Hot Springs! I\u2019m looking forward to t\u2026 https://t.co/vgFwDznEgz",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1145852373975388166",
+            "url": "https://t.co/vgFwDznEgz"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 17 21:44:20 +0000 2018",
+        "description": "South Dakota's lone U.S. Representative - husband, father, & proud South Dakotan.",
+        "favourites_count": 97,
+        "followers_count": 3212,
+        "friends_count": 125,
+        "geo_enabled": true,
+        "id": 1074782372594413569,
+        "id_str": "1074782372594413569",
+        "listed_count": 111,
+        "location": "Mitchell, SD",
+        "name": "Rep. Dusty Johnson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074782372594413569/1547143930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDustyJohnson",
+        "statuses_count": 392,
+        "url": "https://t.co/O0W5qo3H9S",
+        "verified": true
+    },
+    "user_mentions": []
+}

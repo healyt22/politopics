@@ -1,0 +1,83 @@
+{
+    "created_at": "Wed Jul 24 13:47:09 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [
+        {
+            "text": "NC13"
+        }
+    ],
+    "id": 1154025227728359424,
+    "id_str": "1154025227728359424",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/n2WfOForyQ",
+            "expanded_url": "https://twitter.com/RepTedBudd/status/1154025227728359424/photo/1",
+            "id": 1154025215439048705,
+            "media_url": "http://pbs.twimg.com/media/EAPr0bQWkAEePz9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAPr0bQWkAEePz9.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1828,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 1071,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 607,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/n2WfOForyQ"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Had a great time calling into the @KCOnTheRadio's show this morning to discuss today's big headlines. #NC13 https://t.co/n2WfOForyQ",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 05 22:39:33 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly serving the 13th district of North Carolina. #NC13",
+        "favourites_count": 105,
+        "followers_count": 11009,
+        "friends_count": 270,
+        "id": 817138492614524928,
+        "id_str": "817138492614524928",
+        "listed_count": 345,
+        "location": "Davie County, North Carolina",
+        "name": "Ted Budd",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817138492614524928/1485880195",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/987039452483739648/Hs7YypAA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/987039452483739648/Hs7YypAA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTedBudd",
+        "statuses_count": 1553,
+        "url": "https://t.co/VTsvWe0pia",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2321292223,
+            "id_str": "2321292223",
+            "name": "KC O'Dea Program",
+            "screen_name": "KCOnTheRadio"
+        }
+    ]
+}

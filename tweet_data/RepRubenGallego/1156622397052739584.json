@@ -1,0 +1,131 @@
+{
+    "created_at": "Wed Jul 31 17:47:23 +0000 2019",
+    "hashtags": [
+        {
+            "text": "FAA"
+        },
+        {
+            "text": "AirportGrants"
+        },
+        {
+            "text": "airport"
+        },
+        {
+            "text": "infrastructure"
+        }
+    ],
+    "id": 1156622397052739584,
+    "id_str": "1156622397052739584",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Wed Jul 31 15:08:43 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [
+            {
+                "text": "FAA"
+            },
+            {
+                "text": "AirportGrants"
+            },
+            {
+                "text": "airport"
+            }
+        ],
+        "id": 1156582470072045570,
+        "id_str": "1156582470072045570",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": ".@USDOT and the #FAA announced a total of $28.8M in #AirportGrants to fund the improvement of #airport\u2026 https://t.co/SQQhzdyLgi",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156582470072045570",
+                "url": "https://t.co/SQQhzdyLgi"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 29 15:04:53 +0000 2010",
+            "description": "Welcome to the official twitter account of the Federal Aviation Administration. Following, mention or RT does not mean endorsement.",
+            "favourites_count": 3828,
+            "followers_count": 302870,
+            "friends_count": 1368,
+            "geo_enabled": true,
+            "id": 160946337,
+            "id_str": "160946337",
+            "listed_count": 3529,
+            "location": "Washington, D.C.",
+            "name": "The FAA",
+            "profile_background_color": "0097D7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/160946337/1563461548",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/775690421309739009/004I2jDO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/775690421309739009/004I2jDO_normal.jpg",
+            "profile_link_color": "006FB9",
+            "profile_sidebar_border_color": "A5ACAF",
+            "profile_sidebar_fill_color": "E2E4E4",
+            "profile_text_color": "37424A",
+            "profile_use_background_image": true,
+            "screen_name": "FAANews",
+            "statuses_count": 12791,
+            "url": "https://t.co/bu7hc8Ln7O",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 393562221,
+                "id_str": "393562221",
+                "name": "TransportationGov",
+                "screen_name": "USDOT"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @FAANews: .@USDOT and the #FAA announced a total of $28.8M in #AirportGrants to fund the improvement of #airport #infrastructure and #op\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 07 19:31:08 +0000 2015",
+        "default_profile": true,
+        "description": "Proud representative of Arizona's 7th Congressional District. #AZ07",
+        "favourites_count": 825,
+        "followers_count": 72822,
+        "friends_count": 3320,
+        "geo_enabled": true,
+        "id": 2966570782,
+        "id_str": "2966570782",
+        "listed_count": 979,
+        "location": "Phoenix, AZ",
+        "name": "Ruben Gallego",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966570782/1500317075",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/775441103843647488/YWl9wrtw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/775441103843647488/YWl9wrtw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRubenGallego",
+        "statuses_count": 4655,
+        "url": "http://t.co/isis6YaDPG",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 160946337,
+            "id_str": "160946337",
+            "name": "The FAA",
+            "screen_name": "FAANews"
+        },
+        {
+            "id": 393562221,
+            "id_str": "393562221",
+            "name": "TransportationGov",
+            "screen_name": "USDOT"
+        }
+    ]
+}

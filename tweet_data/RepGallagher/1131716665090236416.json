@@ -1,0 +1,127 @@
+{
+    "created_at": "Fri May 24 00:20:53 +0000 2019",
+    "favorite_count": 79,
+    "hashtags": [],
+    "id": 1131716665090236416,
+    "id_str": "1131716665090236416",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 21 18:08:10 +0000 2019",
+        "favorite_count": 21,
+        "hashtags": [],
+        "id": 1130898090578325504,
+        "id_str": "1130898090578325504",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2Zp3uBTjzG",
+                "expanded_url": "https://twitter.com/ZeroBlog30/status/1130898090578325504/photo/1",
+                "id": 1130898086132428800,
+                "media_url": "http://pbs.twimg.com/media/D7HB0U0XsAAadaN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D7HB0U0XsAAadaN.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/2Zp3uBTjzG"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Coming soon: @RepGallagher https://t.co/2Zp3uBTjzG",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Oct 21 16:13:18 +0000 2016",
+            "default_profile": true,
+            "description": "The military pod hosted by @UncleChaps, @katebarstool & @CaptainCons by @barstoolsports. For veterans, salt dogs, boots, and civilians. Presented by @Starbucks",
+            "favourites_count": 7486,
+            "followers_count": 46728,
+            "friends_count": 301,
+            "geo_enabled": true,
+            "id": 789499813498916864,
+            "id_str": "789499813498916864",
+            "listed_count": 147,
+            "location": "New York, NY",
+            "name": "Zero Blog Thirty",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/789499813498916864/1557511455",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1126882909963599872/WdYjCoFl_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126882909963599872/WdYjCoFl_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ZeroBlog30",
+            "statuses_count": 6179,
+            "url": "https://t.co/QJADOvaZlc",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 815966620300480514,
+                "id_str": "815966620300480514",
+                "name": "Rep. Mike Gallagher",
+                "screen_name": "RepGallagher"
+            }
+        ]
+    },
+    "quoted_status_id": 1130898090578325504,
+    "quoted_status_id_str": "1130898090578325504",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Come for the Iran policy discussion. \n\nStay for the debate over the worst military tattoos we\u2019ve seen. https://t.co/YdFuXa2K74",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/ZeroBlog30/status/1130898090578325504",
+            "url": "https://t.co/YdFuXa2K74"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 02 17:02:57 +0000 2017",
+        "default_profile": true,
+        "description": "Green Bay Native, Marine Veteran, and Eisenhower Nerd proudly representing #WI08 in Congress. #GoPackGo. https://t.co/D2ANAop3fA",
+        "favourites_count": 166,
+        "followers_count": 15831,
+        "friends_count": 403,
+        "geo_enabled": true,
+        "id": 815966620300480514,
+        "id_str": "815966620300480514",
+        "listed_count": 444,
+        "location": "Green Bay, WI",
+        "name": "Rep. Mike Gallagher",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815966620300480514/1539873451",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819978410038624266/0Df5fXvA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819978410038624266/0Df5fXvA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGallagher",
+        "statuses_count": 2443,
+        "url": "https://t.co/uBDJgXRW2D",
+        "verified": true
+    },
+    "user_mentions": []
+}

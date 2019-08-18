@@ -1,0 +1,207 @@
+{
+    "created_at": "Thu Jul 04 19:07:33 +0000 2019",
+    "hashtags": [
+        {
+            "text": "4thofJuly"
+        }
+    ],
+    "id": 1146858101540302859,
+    "id_str": "1146858101540302859",
+    "lang": "en",
+    "quoted_status_id": 1146742285813637120,
+    "quoted_status_id_str": "1146742285813637120",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Jul 04 18:18:09 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "4thofJuly"
+            }
+        ],
+        "id": 1146845668675325952,
+        "id_str": "1146845668675325952",
+        "in_reply_to_screen_name": "RepRoybalAllard",
+        "in_reply_to_user_id": 479872233,
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Thu Jul 04 11:27:21 +0000 2019",
+            "favorite_count": 17,
+            "hashtags": [],
+            "id": 1146742285813637120,
+            "id_str": "1146742285813637120",
+            "in_reply_to_screen_name": "EmbamexEUA",
+            "in_reply_to_status_id": 1146742274258345984,
+            "in_reply_to_user_id": 199301317,
+            "lang": "es",
+            "place": {
+                "id": "01fbe706f872cb32",
+                "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+                "place_type": "city",
+                "name": "Washington",
+                "full_name": "Washington, DC",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -77.119401,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.801826
+                            ],
+                            [
+                                -76.909396,
+                                38.9953797
+                            ],
+                            [
+                                -77.119401,
+                                38.9953797
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 9,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Edward Roybal fue uno de los primeros legisladores en EUA de origen mexicano. Fue miembro del Consejo de la Ciudad\u2026 https://t.co/ZsJVisEYBg",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1146742285813637120",
+                    "url": "https://t.co/ZsJVisEYBg"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Oct 06 14:38:25 +0000 2010",
+                "description": "Embajada de M\u00e9xico en Estados Unidos / Embassy of Mexico in the US.",
+                "favourites_count": 4890,
+                "followers_count": 22788,
+                "friends_count": 983,
+                "geo_enabled": true,
+                "id": 199301317,
+                "id_str": "199301317",
+                "listed_count": 313,
+                "location": "Washington D.C.",
+                "name": "EmbamexEUA",
+                "profile_background_color": "FAFAFA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/199301317/1558372303",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1069638393557131264/NScuxeuV_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069638393557131264/NScuxeuV_normal.jpg",
+                "profile_link_color": "4A913C",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F1F5F4",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "EmbamexEUA",
+                "statuses_count": 21013,
+                "url": "https://t.co/enRxhBwJlP",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1146742285813637120,
+        "quoted_status_id_str": "1146742285813637120",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@RepRoybalAllard\nHappy #4thofJuly https://t.co/sWJ6U9CqrK",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/EmbamexEUA/status/1146742285813637120",
+                "url": "https://t.co/sWJ6U9CqrK"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 05 09:09:44 +0000 2014",
+            "default_profile": true,
+            "description": "Embajadora de M\u00e9xico ante los Estados Unidos de Am\u00e9rica. Ambassador of Mexico to the USA. #BuildingBridges. RT no significa coincidencia",
+            "favourites_count": 14409,
+            "followers_count": 18292,
+            "friends_count": 986,
+            "geo_enabled": true,
+            "id": 2547727998,
+            "id_str": "2547727998",
+            "listed_count": 115,
+            "location": "Washington, DC",
+            "name": "Martha B\u00e1rcena.",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2547727998/1563487766",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151977297559412736/Wy8-egLb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151977297559412736/Wy8-egLb_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Martha_Barcena",
+            "statuses_count": 14740
+        },
+        "user_mentions": [
+            {
+                "id": 479872233,
+                "id_str": "479872233",
+                "name": "Rep. Lucille Roybal-Allard",
+                "screen_name": "RepRoybalAllard"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Martha_Barcena: @RepRoybalAllard\nHappy #4thofJuly https://t.co/sWJ6U9CqrK",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/EmbamexEUA/status/1146742285813637120",
+            "url": "https://t.co/sWJ6U9CqrK"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 31 21:30:43 +0000 2012",
+        "description": "Proudly representing California\u2019s 40th Congressional District. Follow me at https://t.co/KjVfmF9CaM & https://t.co/Urj0zPAr8d.",
+        "favourites_count": 22,
+        "followers_count": 26737,
+        "friends_count": 5200,
+        "geo_enabled": true,
+        "id": 479872233,
+        "id_str": "479872233",
+        "listed_count": 880,
+        "name": "Rep. Lucille Roybal-Allard",
+        "profile_background_color": "C1D9EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/479872233/1547765416",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646679472578498561/DqbuKI-9_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646679472578498561/DqbuKI-9_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRoybalAllard",
+        "statuses_count": 6075,
+        "url": "https://t.co/LOEn760f8d",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2547727998,
+            "id_str": "2547727998",
+            "name": "Martha B\u00e1rcena.",
+            "screen_name": "Martha_Barcena"
+        },
+        {
+            "id": 479872233,
+            "id_str": "479872233",
+            "name": "Rep. Lucille Roybal-Allard",
+            "screen_name": "RepRoybalAllard"
+        }
+    ]
+}

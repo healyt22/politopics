@@ -1,0 +1,95 @@
+{
+    "created_at": "Sun Jul 14 16:26:14 +0000 2019",
+    "hashtags": [],
+    "id": 1150441382730801152,
+    "id_str": "1150441382730801152",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu May 16 22:30:00 +0000 2019",
+        "favorite_count": 23,
+        "hashtags": [],
+        "id": 1129152043900391424,
+        "id_str": "1129152043900391424",
+        "lang": "en",
+        "retweet_count": 5,
+        "scopes": {
+            "followers": false
+        },
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "NSSF developed FixNICS to help improve the FBI\u2019s National Instant Criminal Background Check System (NICS). Learn ho\u2026 https://t.co/8qw2mMvyzo",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1129152043900391424",
+                "url": "https://t.co/8qw2mMvyzo"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Dec 12 21:07:15 +0000 2008",
+            "description": "NSSF is the trade association for America's firearms industry. Its mission is to promote, protect and preserve hunting and the shooting sports.",
+            "favourites_count": 2191,
+            "followers_count": 69929,
+            "friends_count": 970,
+            "geo_enabled": true,
+            "id": 18085974,
+            "id_str": "18085974",
+            "listed_count": 562,
+            "location": "Newtown, CT",
+            "name": "NSSF",
+            "profile_background_color": "094624",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18085974/1505481219",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/883353477044469760/2sfko9Fa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/883353477044469760/2sfko9Fa_normal.jpg",
+            "profile_link_color": "3D5355",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E9DCB0",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "NSSF",
+            "statuses_count": 9698,
+            "url": "http://t.co/LQhdWtjj6w"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @NSSF: NSSF developed FixNICS to help improve the FBI\u2019s National Instant Criminal Background Check System (NICS). Learn how our efforts\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 07 19:52:55 +0000 2008",
+        "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs =/= endorsements",
+        "favourites_count": 59,
+        "followers_count": 212097,
+        "friends_count": 11643,
+        "id": 13218102,
+        "id_str": "13218102",
+        "listed_count": 5333,
+        "location": "Austin, Texas",
+        "name": "Senator John Cornyn",
+        "profile_background_color": "71829E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13218102/1558356879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1062343144048603136/fpH4AUOc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062343144048603136/fpH4AUOc_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "002D62",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "002D62",
+        "profile_use_background_image": true,
+        "screen_name": "JohnCornyn",
+        "statuses_count": 31884,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18085974,
+            "id_str": "18085974",
+            "name": "NSSF",
+            "screen_name": "NSSF"
+        }
+    ]
+}

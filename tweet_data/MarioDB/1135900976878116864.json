@@ -1,0 +1,191 @@
+{
+    "created_at": "Tue Jun 04 13:27:51 +0000 2019",
+    "hashtags": [],
+    "id": 1135900976878116864,
+    "id_str": "1135900976878116864",
+    "lang": "en",
+    "quoted_status_id": 1135686973199409152,
+    "quoted_status_id_str": "1135686973199409152",
+    "retweet_count": 22,
+    "retweeted_status": {
+        "created_at": "Tue Jun 04 13:20:03 +0000 2019",
+        "favorite_count": 67,
+        "hashtags": [],
+        "id": 1135899014258446336,
+        "id_str": "1135899014258446336",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Mon Jun 03 23:17:29 +0000 2019",
+            "favorite_count": 18,
+            "hashtags": [],
+            "id": 1135686973199409152,
+            "id_str": "1135686973199409152",
+            "lang": "en",
+            "retweet_count": 11,
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "text": "Federal money clears way for bridge project along Tamiami Trail to help revive Everglades https://t.co/3HWqoI9MLp",
+            "urls": [
+                {
+                    "expanded_url": "https://hrld.us/2HT3WzF",
+                    "url": "https://t.co/3HWqoI9MLp"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Mar 05 21:04:05 +0000 2008",
+                "description": "The news. Every day. Your way. Instagram: https://t.co/EBuss8QhEl Facebook: https://t.co/C8sShSEs0S",
+                "favourites_count": 751,
+                "followers_count": 443935,
+                "friends_count": 966,
+                "geo_enabled": true,
+                "id": 14085040,
+                "id_str": "14085040",
+                "listed_count": 6632,
+                "location": "Miami, FL",
+                "name": "Miami Herald",
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14085040/1514843939",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/875459620298522629/oMudjbQO_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/875459620298522629/oMudjbQO_normal.jpg",
+                "profile_link_color": "0060AF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EBECED",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "MiamiHerald",
+                "statuses_count": 194243,
+                "url": "http://t.co/6KpRmDdPe2",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1135686973199409152,
+        "quoted_status_id_str": "1135686973199409152",
+        "retweet_count": 22,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @GovRonDeSantis, Senator @marcorubio, @SenRickScott, and Congressman @MarioDB for your efforts to bring t\u2026 https://t.co/XXm5DPrG9t",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1135899014258446336",
+                "url": "https://t.co/XXm5DPrG9t"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 01 14:46:30 +0000 2012",
+            "description": "Commissioner Rebeca sosa @MiamiDadeCounty District 6. Facebook: https://t.co/TvYoqk4Flf",
+            "favourites_count": 4916,
+            "followers_count": 6816,
+            "friends_count": 587,
+            "id": 730816675,
+            "id_str": "730816675",
+            "listed_count": 116,
+            "location": "Miami-Dade County, FL",
+            "name": "Rebeca Sosa",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/730816675/1446497885",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1068546431336804352/3-YEw_hw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068546431336804352/3-YEw_hw_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "RebecaSosaMiami",
+            "statuses_count": 14388,
+            "url": "https://t.co/7XpkKgLEcp",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1058807868,
+                "id_str": "1058807868",
+                "name": "Ron DeSantis",
+                "screen_name": "GovRonDeSantis"
+            },
+            {
+                "id": 15745368,
+                "id_str": "15745368",
+                "name": "Marco Rubio",
+                "screen_name": "marcorubio"
+            },
+            {
+                "id": 131546062,
+                "id_str": "131546062",
+                "name": "Rick Scott",
+                "screen_name": "SenRickScott"
+            },
+            {
+                "id": 37094727,
+                "id_str": "37094727",
+                "name": "Mario Diaz-Balart",
+                "screen_name": "MarioDB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RebecaSosaMiami: Thank you @GovRonDeSantis, Senator @marcorubio, @SenRickScott, and Congressman @MarioDB for your efforts to bring this\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 02 00:52:48 +0000 2009",
+        "description": "I am proud to represent Florida's 25th Congressional District and serve on @HouseAppropsGOP as Transportation, Housing + Urban Development Ranking Member",
+        "favourites_count": 372,
+        "followers_count": 51724,
+        "friends_count": 233,
+        "geo_enabled": true,
+        "id": 37094727,
+        "id_str": "37094727",
+        "listed_count": 1211,
+        "location": "Florida & Washington, DC",
+        "name": "Mario Diaz-Balart",
+        "profile_background_color": "042854",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37094727/1497278778",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827178282378461184/jo8DMh_J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827178282378461184/jo8DMh_J_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1688AB",
+        "profile_text_color": "08020D",
+        "profile_use_background_image": true,
+        "screen_name": "MarioDB",
+        "statuses_count": 7765,
+        "url": "https://t.co/GyXi8NDS8j",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 730816675,
+            "id_str": "730816675",
+            "name": "Rebeca Sosa",
+            "screen_name": "RebecaSosaMiami"
+        },
+        {
+            "id": 1058807868,
+            "id_str": "1058807868",
+            "name": "Ron DeSantis",
+            "screen_name": "GovRonDeSantis"
+        },
+        {
+            "id": 15745368,
+            "id_str": "15745368",
+            "name": "Marco Rubio",
+            "screen_name": "marcorubio"
+        },
+        {
+            "id": 131546062,
+            "id_str": "131546062",
+            "name": "Rick Scott",
+            "screen_name": "SenRickScott"
+        },
+        {
+            "id": 37094727,
+            "id_str": "37094727",
+            "name": "Mario Diaz-Balart",
+            "screen_name": "MarioDB"
+        }
+    ]
+}

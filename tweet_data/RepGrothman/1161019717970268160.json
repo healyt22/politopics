@@ -1,0 +1,100 @@
+{
+    "created_at": "Mon Aug 12 21:00:46 +0000 2019",
+    "hashtags": [],
+    "id": 1161019717970268160,
+    "id_str": "1161019717970268160",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Aug 12 15:31:00 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1160936730113040386,
+        "id_str": "1160936730113040386",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Small businesses are important to Wisconsin's success! Thanks to @RepGrothman for drawing attention to small busine\u2026 https://t.co/NrQF7kabkW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1160936730113040386",
+                "url": "https://t.co/NrQF7kabkW"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 21 20:50:17 +0000 2015",
+            "description": "The Wisconsin Broadcasters Association is the only trade association which supports, promotes and represents all radio & television broadcasters in WI.",
+            "favourites_count": 1371,
+            "followers_count": 1634,
+            "friends_count": 1592,
+            "id": 3035182910,
+            "id_str": "3035182910",
+            "listed_count": 18,
+            "name": "WBA",
+            "profile_background_color": "D9D8D8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3035182910/1563984259",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/572466870024818688/Yswj1Lha_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/572466870024818688/Yswj1Lha_normal.png",
+            "profile_link_color": "034563",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "WIBroadcasters",
+            "statuses_count": 12597
+        },
+        "user_mentions": [
+            {
+                "id": 2976606250,
+                "id_str": "2976606250",
+                "name": "Rep. Glenn Grothman",
+                "screen_name": "RepGrothman"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @WIBroadcasters: Small businesses are important to Wisconsin's success! Thanks to @RepGrothman for drawing attention to small businesses\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 15:08:48 +0000 2015",
+        "description": "Official account of Congressman Glenn Grothman, proudly representing Wisconsin's Sixth District.",
+        "favourites_count": 119,
+        "followers_count": 6848,
+        "friends_count": 210,
+        "id": 2976606250,
+        "id_str": "2976606250",
+        "listed_count": 443,
+        "location": "Washington, D.C.",
+        "name": "Rep. Glenn Grothman",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2976606250/1480964777",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572507648281419776/DwcU5StR_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572507648281419776/DwcU5StR_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepGrothman",
+        "statuses_count": 2119,
+        "url": "http://t.co/MY3WTtaAeb",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3035182910,
+            "id_str": "3035182910",
+            "name": "WBA",
+            "screen_name": "WIBroadcasters"
+        },
+        {
+            "id": 2976606250,
+            "id_str": "2976606250",
+            "name": "Rep. Glenn Grothman",
+            "screen_name": "RepGrothman"
+        }
+    ]
+}

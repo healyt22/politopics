@@ -1,0 +1,180 @@
+{
+    "created_at": "Thu Jul 18 12:37:44 +0000 2019",
+    "hashtags": [
+        {
+            "text": "VoteBlueToSaveAmerica"
+        }
+    ],
+    "id": 1151833428914049026,
+    "id_str": "1151833428914049026",
+    "lang": "en",
+    "quoted_status_id": 1151675267020132353,
+    "quoted_status_id_str": "1151675267020132353",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Jul 18 05:04:54 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "VoteBlueToSaveAmerica"
+            }
+        ],
+        "id": 1151719470055870469,
+        "id_str": "1151719470055870469",
+        "lang": "en",
+        "place": {
+            "id": "fbd6d2f5a4e4a15e",
+            "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json",
+            "place_type": "admin",
+            "name": "California",
+            "full_name": "California, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -124.482003,
+                            32.528832
+                        ],
+                        [
+                            -114.131212,
+                            32.528832
+                        ],
+                        [
+                            -114.131212,
+                            42.009519
+                        ],
+                        [
+                            -124.482003,
+                            42.009519
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Thu Jul 18 02:09:15 +0000 2019",
+            "favorite_count": 18,
+            "hashtags": [],
+            "id": 1151675267020132353,
+            "id_str": "1151675267020132353",
+            "lang": "en",
+            "quoted_status_id": 1151671485813182464,
+            "quoted_status_id_str": "1151671485813182464",
+            "retweet_count": 2,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "Feels like there's gonna be a Reichstag fire next.  Can we please not repeat that history here? https://t.co/bLvnJafD1Q",
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/politico/status/1151671485813182464",
+                    "url": "https://t.co/bLvnJafD1Q"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Jul 13 20:49:36 +0000 2011",
+                "description": "Congressman for CA's 2nd Dist.  Posts on this page authorized by Huffman for Congress.  For my official House of Representatives feed please follow @RepHuffman",
+                "favourites_count": 11025,
+                "followers_count": 7997,
+                "friends_count": 393,
+                "geo_enabled": true,
+                "id": 334894942,
+                "id_str": "334894942",
+                "listed_count": 314,
+                "location": "Northern California",
+                "name": "Rep. Jared Huffman",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/334894942/1466965755",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "screen_name": "JaredHuffman",
+                "statuses_count": 10945,
+                "url": "http://t.co/vfmUDvrNRS",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1151675267020132353,
+        "quoted_status_id_str": "1151675267020132353",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "He has to go and the only way to insure that happens is for all of us to work really hard to #VoteBlueToSaveAmerica https://t.co/3xG1OSoa9v",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/jaredhuffman/status/1151675267020132353",
+                "url": "https://t.co/3xG1OSoa9v"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jun 18 02:16:05 +0000 2016",
+            "default_profile": true,
+            "description": "DEDICATED TO DEFEATING ALL THINGS TRUMP",
+            "favourites_count": 4297,
+            "followers_count": 92,
+            "friends_count": 167,
+            "geo_enabled": true,
+            "id": 743990634587918337,
+            "id_str": "743990634587918337",
+            "name": "Sue Saunders",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/743990634587918337/1562512636",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147885498116927489/S_pFRmz2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147885498116927489/S_pFRmz2_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "sueysaunders",
+            "statuses_count": 2838
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @sueysaunders: He has to go and the only way to insure that happens is for all of us to work really hard to #VoteBlueToSaveAmerica https\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jul 13 20:49:36 +0000 2011",
+        "description": "Congressman for CA's 2nd Dist.  Posts on this page authorized by Huffman for Congress.  For my official House of Representatives feed please follow @RepHuffman",
+        "favourites_count": 11025,
+        "followers_count": 7997,
+        "friends_count": 393,
+        "geo_enabled": true,
+        "id": 334894942,
+        "id_str": "334894942",
+        "listed_count": 314,
+        "location": "Northern California",
+        "name": "Rep. Jared Huffman",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/334894942/1466965755",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "JaredHuffman",
+        "statuses_count": 10945,
+        "url": "http://t.co/vfmUDvrNRS",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 743990634587918337,
+            "id_str": "743990634587918337",
+            "name": "Sue Saunders",
+            "screen_name": "sueysaunders"
+        }
+    ]
+}

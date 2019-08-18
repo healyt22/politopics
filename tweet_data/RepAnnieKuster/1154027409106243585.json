@@ -1,0 +1,133 @@
+{
+    "created_at": "Wed Jul 24 13:55:49 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [],
+    "id": 1154027409106243585,
+    "id_str": "1154027409106243585",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Wed Jul 24 13:23:38 +0000 2019",
+        "favorite_count": 698,
+        "hashtags": [
+            {
+                "text": "MuellerHearings"
+            }
+        ],
+        "id": 1154019306960822272,
+        "id_str": "1154019306960822272",
+        "lang": "en",
+        "retweet_count": 276,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Robert Mueller during his opening statement for the #MuellerHearings: \n\n\"Over the course of my career, I've seen a\u2026 https://t.co/cnLuPPj30q",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154019306960822272",
+                "url": "https://t.co/cnLuPPj30q"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Apr 22 05:10:15 +0000 2007",
+            "description": "News. Arts & Life. Music. Everything and more from NPR.\n\n\ud83d\udd75\ufe0f Securely send us news tips: https://t.co/LPkf6Tsozm",
+            "favourites_count": 2532,
+            "followers_count": 7822858,
+            "friends_count": 70828,
+            "id": 5392522,
+            "id_str": "5392522",
+            "listed_count": 66503,
+            "name": "NPR",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1561665789",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "NPR",
+            "statuses_count": 182375,
+            "url": "http://t.co/SoL86ga4RI",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1154019306960822272,
+    "quoted_status_id_str": "1154019306960822272",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Special Counsel Robert Mueller is testifying before Congress today. I urge all Americans to read Mueller's opening\u2026 https://t.co/oPrtrzwWCo",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1154027409106243585",
+            "url": "https://t.co/oPrtrzwWCo"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 20:29:22 +0000 2013",
+        "default_profile": true,
+        "description": "Honored to serve the people of New Hampshire\u2019s Second District in Congress.",
+        "favourites_count": 686,
+        "followers_count": 21785,
+        "friends_count": 2315,
+        "geo_enabled": true,
+        "id": 1058717720,
+        "id_str": "1058717720",
+        "listed_count": 810,
+        "location": "NH's 2nd District",
+        "name": "Ann McLane Kuster",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058717720/1359664710",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/859420869008994304/SGpr9ua7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/859420869008994304/SGpr9ua7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAnnieKuster",
+        "statuses_count": 4838,
+        "url": "http://t.co/1ApjVskz3y",
+        "verified": true
+    },
+    "user_mentions": []
+}

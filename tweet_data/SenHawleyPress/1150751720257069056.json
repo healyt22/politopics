@@ -1,0 +1,116 @@
+{
+    "created_at": "Mon Jul 15 12:59:24 +0000 2019",
+    "hashtags": [],
+    "id": 1150751720257069056,
+    "id_str": "1150751720257069056",
+    "lang": "en",
+    "retweet_count": 19,
+    "retweeted_status": {
+        "created_at": "Mon Jul 15 12:23:33 +0000 2019",
+        "favorite_count": 28,
+        "hashtags": [],
+        "id": 1150742696044244993,
+        "id_str": "1150742696044244993",
+        "lang": "en",
+        "retweet_count": 19,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "SCOOP: Just off @HawleyMO\u2019s appearance at Trump\u2019s social media summit and ahead of @tedCruz\u2019s Google hearing, the p\u2026 https://t.co/sxpgApWxmc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150742696044244993",
+                "url": "https://t.co/sxpgApWxmc"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 21 16:27:39 +0000 2010",
+            "description": "Tech lobbying at Bloomberg @Business. Opinions my own, btenerellabr@bloomberg.net. I do watch that list I put you in.",
+            "favourites_count": 18713,
+            "followers_count": 2582,
+            "friends_count": 1497,
+            "id": 193353562,
+            "id_str": "193353562",
+            "listed_count": 140,
+            "location": "Washington, D.C.",
+            "name": "Ben Brody",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/193353562/1438520483",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/560550729329283073/aeujxKPb_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/560550729329283073/aeujxKPb_normal.jpeg",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "BenBrodyDC",
+            "statuses_count": 25768,
+            "url": "https://t.co/c2kCAnW4qF",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2352629311,
+                "id_str": "2352629311",
+                "name": "Josh Hawley",
+                "screen_name": "HawleyMO"
+            },
+            {
+                "id": 23022687,
+                "id_str": "23022687",
+                "name": "Ted Cruz",
+                "screen_name": "tedcruz"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @BenBrodyDC: SCOOP: Just off @HawleyMO\u2019s appearance at Trump\u2019s social media summit and ahead of @tedCruz\u2019s Google hearing, the pair are\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 22:55:42 +0000 2019",
+        "default_profile": true,
+        "description": "Tweets from the office of U.S. Senator Josh Hawley",
+        "favourites_count": 274,
+        "followers_count": 4484,
+        "friends_count": 762,
+        "geo_enabled": true,
+        "id": 1080960924687704064,
+        "id_str": "1080960924687704064",
+        "listed_count": 125,
+        "location": "Missouri",
+        "name": "Senator Hawley Press Office",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080960924687704064/1565014200",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenHawleyPress",
+        "statuses_count": 614,
+        "url": "https://t.co/P2uqbfyKpN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 193353562,
+            "id_str": "193353562",
+            "name": "Ben Brody",
+            "screen_name": "BenBrodyDC"
+        },
+        {
+            "id": 2352629311,
+            "id_str": "2352629311",
+            "name": "Josh Hawley",
+            "screen_name": "HawleyMO"
+        },
+        {
+            "id": 23022687,
+            "id_str": "23022687",
+            "name": "Ted Cruz",
+            "screen_name": "tedcruz"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "created_at": "Thu Aug 15 20:55:11 +0000 2019",
+    "favorite_count": 24,
+    "hashtags": [],
+    "id": 1162105478836641792,
+    "id_str": "1162105478836641792",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/4yMFdipWrp",
+            "expanded_url": "https://twitter.com/RepDustyJohnson/status/1162105478836641792/video/1",
+            "id": 1162104608392658944,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1162104608392658944/pu/img/DtWq-irdTKV_X8YT.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1162104608392658944/pu/img/DtWq-irdTKV_X8YT.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/4yMFdipWrp",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 26120,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1162104608392658944/pu/pl/Jiu2uybae1v3zdYo.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1162104608392658944/pu/vid/480x270/81zGqh3n7q-n2Mws.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1162104608392658944/pu/vid/640x360/qWzSb6-Y6dX_qI9-.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1162104608392658944/pu/vid/1280x720/eiESGxgHPH3slaNy.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "License plates from across the country? https://t.co/4yMFdipWrp",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Dec 17 21:44:20 +0000 2018",
+        "description": "South Dakota's lone U.S. Representative - husband, father, & proud South Dakotan.",
+        "favourites_count": 97,
+        "followers_count": 3212,
+        "friends_count": 125,
+        "geo_enabled": true,
+        "id": 1074782372594413569,
+        "id_str": "1074782372594413569",
+        "listed_count": 111,
+        "location": "Mitchell, SD",
+        "name": "Rep. Dusty Johnson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074782372594413569/1547143930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093989780449304578/8oolcm86_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDustyJohnson",
+        "statuses_count": 392,
+        "url": "https://t.co/O0W5qo3H9S",
+        "verified": true
+    },
+    "user_mentions": []
+}

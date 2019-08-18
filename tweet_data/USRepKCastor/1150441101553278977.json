@@ -1,0 +1,141 @@
+{
+    "created_at": "Sun Jul 14 16:25:07 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [
+        {
+            "text": "ClimateCrisis"
+        }
+    ],
+    "id": 1150441101553278977,
+    "id_str": "1150441101553278977",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jul 13 15:19:29 +0000 2019",
+        "favorite_count": 27,
+        "hashtags": [],
+        "id": 1150062198703763461,
+        "id_str": "1150062198703763461",
+        "lang": "en",
+        "place": {
+            "id": "04cb31bae3b3af93",
+            "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json",
+            "place_type": "city",
+            "name": "Miami",
+            "full_name": "Miami, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.321683,
+                            25.7090404
+                        ],
+                        [
+                            -80.144974,
+                            25.7090404
+                        ],
+                        [
+                            -80.144974,
+                            25.855667
+                        ],
+                        [
+                            -80.321683,
+                            25.855667
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Teenage activists are in town for the @ThisIsZeroHour youth climate summit. Their message? Adults in power haven\u2019t\u2026 https://t.co/wjj63C8MOK",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150062198703763461",
+                "url": "https://t.co/wjj63C8MOK"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 19 17:06:49 +0000 2012",
+            "default_profile": true,
+            "description": "climate change @MiamiHerald. Florida native (@UF & @theAlligator)",
+            "favourites_count": 10456,
+            "followers_count": 5539,
+            "friends_count": 1795,
+            "geo_enabled": true,
+            "id": 833745288,
+            "id_str": "833745288",
+            "listed_count": 218,
+            "location": "Miami, FL",
+            "name": "Alex Harris",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/833745288/1472647012",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1093182219307368450/__oyj9Cf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093182219307368450/__oyj9Cf_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "harrisalexc",
+            "statuses_count": 6782,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 887468509021732865,
+                "id_str": "887468509021732865",
+                "name": "Zero Hour",
+                "screen_name": "ThisIsZeroHour"
+            }
+        ]
+    },
+    "quoted_status_id": 1150062198703763461,
+    "quoted_status_id_str": "1150062198703763461",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Young people across \ud83c\uddfa\ud83c\uddf8 and \ud83c\udf0e are rising to the challenge of the #ClimateCrisis! We need to rise with them!\u2026 https://t.co/KqZFzQGMUx",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1150441101553278977",
+            "url": "https://t.co/KqZFzQGMUx"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 18 20:03:57 +0000 2013",
+        "default_profile": true,
+        "description": "Tampa Bay's Congresswoman \ud83c\uddfa\ud83c\uddf8 Chair of the Select Committee on the Climate Crisis",
+        "favourites_count": 3100,
+        "followers_count": 18814,
+        "friends_count": 4150,
+        "geo_enabled": true,
+        "id": 1880674038,
+        "id_str": "1880674038",
+        "listed_count": 850,
+        "name": "US Rep Kathy Castor",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880674038/1562536716",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148730766270128128/KkoP7wlR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148730766270128128/KkoP7wlR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "USRepKCastor",
+        "statuses_count": 6117,
+        "url": "https://t.co/H9etkVz65v",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,129 @@
+{
+    "created_at": "Thu Jun 20 14:22:00 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1141712808293392384,
+    "id_str": "1141712808293392384",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jun 20 14:16:56 +0000 2019",
+        "hashtags": [],
+        "id": 1141711535083065350,
+        "id_str": "1141711535083065350",
+        "in_reply_to_screen_name": "RepDannyDavis",
+        "in_reply_to_status_id": 1141710980671594497,
+        "in_reply_to_user_id": 789244177,
+        "lang": "en",
+        "place": {
+            "id": "1d9a5370a355ab0c",
+            "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+            "place_type": "city",
+            "name": "Chicago",
+            "full_name": "Chicago, IL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.940033,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            42.0230669
+                        ],
+                        [
+                            -87.940033,
+                            42.0230669
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RepDannyDavis It doesn\u2019t matter. The GOP will not pass anything in the Senate. Also, start impeachment hearing NOW! Expose the grifters.",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Jan 26 04:11:23 +0000 2017",
+            "default_profile": true,
+            "description": "CPA, mom and cat owner. Just one cat. We deserve better than #MoscowMitch. \ud83c\udf0a",
+            "favourites_count": 173455,
+            "followers_count": 1182,
+            "friends_count": 1522,
+            "geo_enabled": true,
+            "id": 824469760410804225,
+            "id_str": "824469760410804225",
+            "listed_count": 7,
+            "location": "United States",
+            "name": "LynneH Votes",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/824469760410804225/1565129606",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1153038646318108674/OqR78m_z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153038646318108674/OqR78m_z_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LynneHillman3",
+            "statuses_count": 10980
+        },
+        "user_mentions": [
+            {
+                "id": 789244177,
+                "id_str": "789244177",
+                "name": "Rep. Danny K. Davis",
+                "screen_name": "RepDannyDavis"
+            }
+        ]
+    },
+    "quoted_status_id": 1141711535083065350,
+    "quoted_status_id_str": "1141711535083065350",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "It all matters, we cant jog in place... https://t.co/6TY5OhGw5W",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/LynneHillman3/status/1141711535083065350",
+            "url": "https://t.co/6TY5OhGw5W"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Aug 29 12:31:09 +0000 2012",
+        "description": "\u201cThe People\u2019s Congressman\u201d US House Representative for Illinois' 7th District. Serving on the 116th Congress Committee on Ways and Means.",
+        "favourites_count": 390,
+        "followers_count": 12615,
+        "friends_count": 356,
+        "geo_enabled": true,
+        "id": 789244177,
+        "id_str": "789244177",
+        "listed_count": 625,
+        "location": "Chicago, IL",
+        "name": "Rep. Danny K. Davis",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/789244177/1421861843",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3401719858/fcb6d46529b4a43ccc07c296062ddb19_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3401719858/fcb6d46529b4a43ccc07c296062ddb19_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDannyDavis",
+        "statuses_count": 2083,
+        "url": "https://t.co/N9drWjh1kd",
+        "verified": true
+    },
+    "user_mentions": []
+}

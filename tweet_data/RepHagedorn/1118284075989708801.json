@@ -1,0 +1,120 @@
+{
+    "created_at": "Tue Apr 16 22:44:35 +0000 2019",
+    "hashtags": [],
+    "id": 1118284075989708801,
+    "id_str": "1118284075989708801",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Apr 16 21:02:22 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1118258353124388865,
+        "id_str": "1118258353124388865",
+        "in_reply_to_screen_name": "alaynatreene",
+        "in_reply_to_status_id": 1118251314906054656,
+        "in_reply_to_user_id": 387937220,
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "@RepHagedorn @realDonaldTrump \u201cWe were getting into the limo at the airport and [Trump] kept asking us, \u2018do you thi\u2026 https://t.co/BLAypjlYUH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118258353124388865",
+                "url": "https://t.co/BLAypjlYUH"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Oct 09 22:18:01 +0000 2011",
+            "description": "Reporter covering the White House for @Axios. NJ girl and @GWtweets alum. Send tips to alayna@axios.com or atreene@protonmail.com",
+            "favourites_count": 7179,
+            "followers_count": 7565,
+            "friends_count": 2285,
+            "geo_enabled": true,
+            "id": 387937220,
+            "id_str": "387937220",
+            "listed_count": 199,
+            "location": "Washington, DC",
+            "name": "Alayna Treene",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/387937220/1480787876",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/972101799527243777/4OJNHY0__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/972101799527243777/4OJNHY0__normal.jpg",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "0DFCF0",
+            "profile_text_color": "080008",
+            "screen_name": "alaynatreene",
+            "statuses_count": 6131,
+            "url": "https://t.co/yTFLNXeDwu",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1083474782602125318,
+                "id_str": "1083474782602125318",
+                "name": "Congressman Jim Hagedorn",
+                "screen_name": "RepHagedorn"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @alaynatreene: @RepHagedorn @realDonaldTrump \u201cWe were getting into the limo at the airport and [Trump] kept asking us, \u2018do you think I s\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 10 21:24:53 +0000 2019",
+        "description": "This is the official Twitter account for Congressman Jim Hagedorn, proudly representing the 1st District of Minnesota.\nTweets sent by staff, unless signed \"-JH\u201d",
+        "favourites_count": 86,
+        "followers_count": 1478,
+        "friends_count": 59,
+        "id": 1083474782602125318,
+        "id_str": "1083474782602125318",
+        "listed_count": 98,
+        "location": "Washington, DC",
+        "name": "Congressman Jim Hagedorn",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083474782602125318/1547564797",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085188819396157440/hQbDlnW5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085188819396157440/hQbDlnW5_normal.jpg",
+        "profile_link_color": "203E74",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepHagedorn",
+        "statuses_count": 354,
+        "url": "https://t.co/D2A7FksK6h",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 387937220,
+            "id_str": "387937220",
+            "name": "Alayna Treene",
+            "screen_name": "alaynatreene"
+        },
+        {
+            "id": 1083474782602125318,
+            "id_str": "1083474782602125318",
+            "name": "Congressman Jim Hagedorn",
+            "screen_name": "RepHagedorn"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

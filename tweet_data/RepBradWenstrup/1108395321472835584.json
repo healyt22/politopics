@@ -1,0 +1,115 @@
+{
+    "created_at": "Wed Mar 20 15:50:12 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1108395321472835584,
+    "id_str": "1108395321472835584",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Mar 20 14:57:51 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 1108382148845801472,
+        "id_str": "1108382148845801472",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "That's So Cincinnati: How a dying AIDS patient helped shape @RepBradWenstrup's \n view on serving others\u2026 https://t.co/vXx81qUsyw",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1108382148845801472",
+                "url": "https://t.co/vXx81qUsyw"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 11 16:21:04 +0000 2008",
+            "description": "Mobile Planner for Government, Politics & Business at https://t.co/mDBCcYYlHL, Cincinnati Enquirer. RTs do not signal agreement.",
+            "favourites_count": 850,
+            "followers_count": 6254,
+            "friends_count": 3528,
+            "geo_enabled": true,
+            "id": 12120112,
+            "id_str": "12120112",
+            "listed_count": 324,
+            "location": "Cincinnati",
+            "name": "Carl Weiser",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/12120112/1400790085",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1032364645980557312/DU6_2bx__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032364645980557312/DU6_2bx__normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "cweiser",
+            "statuses_count": 28179,
+            "url": "https://t.co/UGLPZYIS0f",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 518644221,
+                "id_str": "518644221",
+                "name": "Brad Wenstrup",
+                "screen_name": "RepBradWenstrup"
+            }
+        ]
+    },
+    "quoted_status_id": 1108382148845801472,
+    "quoted_status_id_str": "1108382148845801472",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you to @jwilliamscincy and @pauldehnerjr for taking some time to talk with me about the moments that shaped m\u2026 https://t.co/Iu5qlYpHwg",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1108395321472835584",
+            "url": "https://t.co/Iu5qlYpHwg"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Mar 08 16:25:14 +0000 2012",
+        "description": "US Representative for the people of Ohio's 2nd District, Physician, Army Reservist, Dad, Lifelong Ohioan",
+        "favourites_count": 773,
+        "followers_count": 22725,
+        "friends_count": 1032,
+        "geo_enabled": true,
+        "id": 518644221,
+        "id_str": "518644221",
+        "listed_count": 685,
+        "name": "Brad Wenstrup",
+        "profile_background_color": "B30000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/518644221/1497304139",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000172004781/b7b9dc516fbf3a3a1f5bbfff3ae9aa51_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000172004781/b7b9dc516fbf3a3a1f5bbfff3ae9aa51_normal.png",
+        "profile_link_color": "B30000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBradWenstrup",
+        "statuses_count": 5309,
+        "url": "https://t.co/PMxYuFsMOw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 185379059,
+            "id_str": "185379059",
+            "name": "Jason Williams",
+            "screen_name": "jwilliamscincy"
+        },
+        {
+            "id": 49370599,
+            "id_str": "49370599",
+            "name": "Paul Dehner Jr.",
+            "screen_name": "pauldehnerjr"
+        }
+    ]
+}

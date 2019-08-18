@@ -1,0 +1,149 @@
+{
+    "created_at": "Mon Jul 22 17:15:01 +0000 2019",
+    "favorite_count": 2443,
+    "hashtags": [
+        {
+            "text": "squad"
+        },
+        {
+            "text": "Somerville"
+        }
+    ],
+    "id": 1153352762484232192,
+    "id_str": "1153352762484232192",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jul 22 16:06:05 +0000 2019",
+        "favorite_count": 829,
+        "hashtags": [],
+        "id": 1153335416835231745,
+        "id_str": "1153335416835231745",
+        "lang": "en",
+        "place": {
+            "id": "0fc2e99b3415b001",
+            "url": "https://api.twitter.com/1.1/geo/id/0fc2e99b3415b001.json",
+            "place_type": "poi",
+            "name": "Workbar",
+            "full_name": "Workbar",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.09635,
+                            42.37973
+                        ],
+                        [
+                            -71.09635,
+                            42.37973
+                        ],
+                        [
+                            -71.09635,
+                            42.37973
+                        ],
+                        [
+                            -71.09635,
+                            42.37973
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 93,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @RepPressley \u2014 for not letting the occupant of the Oval Office distract us from the real work \u2014 and for t\u2026 https://t.co/aeGQ9at0Gt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1153335416835231745",
+                "url": "https://t.co/aeGQ9at0Gt"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Sep 26 18:07:54 +0000 2011",
+            "description": "Attorney, activist, proud progressive Democrat and DSA member. State Representative for 26th Middlesex District in #Somerville & #CambMa.",
+            "favourites_count": 10189,
+            "followers_count": 4310,
+            "friends_count": 1915,
+            "geo_enabled": true,
+            "id": 380468726,
+            "id_str": "380468726",
+            "listed_count": 140,
+            "location": "Cambridge, Massachusetts",
+            "name": "Mike Connolly",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/380468726/1463713352",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/624246842650288129/rbVF9s0G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/624246842650288129/rbVF9s0G_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MikeConnollyMA",
+            "statuses_count": 11422,
+            "url": "https://t.co/CbZ9EetQce"
+        },
+        "user_mentions": [
+            {
+                "id": 1080584229510172678,
+                "id_str": "1080584229510172678",
+                "name": "Congresswoman Ayanna Pressley",
+                "screen_name": "RepPressley"
+            }
+        ]
+    },
+    "quoted_status_id": 1153335416835231745,
+    "quoted_status_id_str": "1153335416835231745",
+    "retweet_count": 271,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Welcome to the #squad, @MikeConnollyMA. Proud to partner w/ you on issues of consequence to #Somerville and all of\u2026 https://t.co/9IXGdH8vaW",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153352762484232192",
+            "url": "https://t.co/9IXGdH8vaW"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 21:58:51 +0000 2019",
+        "default_profile": true,
+        "description": "Survivor, activist, mother, wife. Proudly representing the Massachusetts 7th. She/her. #MA7 #MAPoli (staff managed) IG: https://t.co/8U5pyazhmh",
+        "favourites_count": 1426,
+        "followers_count": 184455,
+        "friends_count": 553,
+        "id": 1080584229510172678,
+        "id_str": "1080584229510172678",
+        "listed_count": 873,
+        "location": "Boston, MA",
+        "name": "Congresswoman Ayanna Pressley",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080584229510172678/1558378402",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148967090281439232/4fEZHkdr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148967090281439232/4fEZHkdr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPressley",
+        "statuses_count": 1203,
+        "url": "https://t.co/Gi2r2G5qdw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 380468726,
+            "id_str": "380468726",
+            "name": "Mike Connolly",
+            "screen_name": "MikeConnollyMA"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "created_at": "Thu May 02 14:06:42 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1123951952788893703,
+    "id_str": "1123951952788893703",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/TNjHnFaUxv",
+            "expanded_url": "https://twitter.com/SenatorRounds/status/1123951952788893703/photo/1",
+            "id": 1123951822669000704,
+            "media_url": "http://pbs.twimg.com/media/D5kUOk7WsAA8IzW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D5kUOk7WsAA8IzW.jpg",
+            "sizes": {
+                "small": {
+                    "w": 680,
+                    "h": 454,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1000,
+                    "h": 667,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1000,
+                    "h": 667,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/TNjHnFaUxv"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "https://t.co/TNjHnFaUxv",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 01 20:23:49 +0000 2015",
+        "description": "U.S. Senator for South Dakota",
+        "favourites_count": 233,
+        "followers_count": 21129,
+        "friends_count": 563,
+        "geo_enabled": true,
+        "id": 2955485182,
+        "id_str": "2955485182",
+        "listed_count": 952,
+        "location": "Pierre, South Dakota",
+        "name": "Senator Mike Rounds",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2955485182/1426022654",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/555794520311205888/sdPOdu4L_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/555794520311205888/sdPOdu4L_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenatorRounds",
+        "statuses_count": 3248,
+        "url": "http://t.co/gMVH2AwcFu",
+        "verified": true
+    },
+    "user_mentions": []
+}

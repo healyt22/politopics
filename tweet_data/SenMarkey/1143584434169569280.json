@@ -1,0 +1,137 @@
+{
+    "created_at": "Tue Jun 25 18:19:10 +0000 2019",
+    "favorite_count": 87,
+    "hashtags": [],
+    "id": 1143584434169569280,
+    "id_str": "1143584434169569280",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 25 12:33:22 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1143497411157024770,
+        "id_str": "1143497411157024770",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "There may not be a @DNC climate debate, but Democratic voters were most likely to say it is \u201cvery important\u201d for th\u2026 https://t.co/QmfdGiG63i",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143497411157024770",
+                "url": "https://t.co/QmfdGiG63i"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 03 03:29:46 +0000 2008",
+            "description": "Political Reporter at @MorningConsult. Formerly @rollcallpols and @politicmo. @Mizzou made. \u2022 eyokley@morningconsult.com",
+            "favourites_count": 33856,
+            "followers_count": 13355,
+            "friends_count": 5662,
+            "geo_enabled": true,
+            "id": 17827531,
+            "id_str": "17827531",
+            "listed_count": 558,
+            "location": "Washington, DC and Joplin, Mo.",
+            "name": "Eli Yokley",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17827531/1563283691",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1068352516407128064/Va64RXVb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068352516407128064/Va64RXVb_normal.jpg",
+            "profile_link_color": "0042A6",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "eyokley",
+            "statuses_count": 79161,
+            "url": "https://t.co/fqn9Mp37oY",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 722793491059769344,
+                "id_str": "722793491059769344",
+                "name": "Democratic Party",
+                "screen_name": "DNC"
+            }
+        ]
+    },
+    "quoted_status_id": 1143497411157024770,
+    "quoted_status_id_str": "1143497411157024770",
+    "retweet_count": 12,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "In the 2016 Clinton-Trump debates, there wasn\u2019t a single question about climate change. Now, it\u2019s one of the top is\u2026 https://t.co/cVPtUBkp2H",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143584434169569280",
+            "url": "https://t.co/cVPtUBkp2H"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Feb 20 15:49:29 +0000 2009",
+        "description": "Official account for Senator Edward J. Markey. National leader on energy, environment, climate, telecom. Voice for consumer protection. https://t.co/nfYWzVp6R8",
+        "favourites_count": 325,
+        "followers_count": 158200,
+        "friends_count": 1372,
+        "geo_enabled": true,
+        "id": 21406834,
+        "id_str": "21406834",
+        "listed_count": 3301,
+        "location": "MA",
+        "name": "Ed Markey",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21406834/1549578517",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+        "profile_link_color": "062232",
+        "profile_sidebar_border_color": "F55600",
+        "profile_sidebar_fill_color": "B8FDB5",
+        "profile_text_color": "333333",
+        "screen_name": "SenMarkey",
+        "statuses_count": 14408,
+        "url": "https://t.co/PvCpESuHno",
+        "verified": true
+    },
+    "user_mentions": []
+}

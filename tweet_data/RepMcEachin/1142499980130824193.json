@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Jun 22 18:29:56 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "400YearsTownhall"
+        },
+        {
+            "text": "CBCStateOfBlackAmerica"
+        }
+    ],
+    "id": 1142499980130824193,
+    "id_str": "1142499980130824193",
+    "lang": "en",
+    "place": {
+        "id": "00f751614d8ce37b",
+        "url": "https://api.twitter.com/1.1/geo/id/00f751614d8ce37b.json",
+        "place_type": "city",
+        "name": "Richmond",
+        "full_name": "Richmond, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.601044,
+                        37.447046
+                    ],
+                    [
+                        -77.385297,
+                        37.447046
+                    ],
+                    [
+                        -77.385297,
+                        37.61272
+                    ],
+                    [
+                        -77.601044,
+                        37.61272
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Sat Jun 22 18:28:03 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "VMHC"
+            }
+        ],
+        "id": 1142499506648440833,
+        "id_str": "1142499506648440833",
+        "lang": "en",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Jamie Bosket, CEO of the #VMHC , welcomes @RepMcEachin,@RepKarenBass and @BobbyScott for the\u2026 https://t.co/tKmsvxos3H",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1142499506648440833",
+                "url": "https://t.co/tKmsvxos3H"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 08 18:38:27 +0000 2009",
+            "description": "#VirginiaHistory #VMHC #Virginia #history #museum #research #library #educational #programs #RVA GALLERIES/SHOP OPEN MON-SUN 428 N Arthur Ashe Boulevard",
+            "favourites_count": 5191,
+            "followers_count": 20359,
+            "friends_count": 19139,
+            "geo_enabled": true,
+            "id": 54985176,
+            "id_str": "54985176",
+            "listed_count": 685,
+            "location": "Richmond, VA",
+            "name": "Virginia Museum of History & Culture",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54985176/1558275492",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/987368157563293699/NZQF0kAA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/987368157563293699/NZQF0kAA_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "VirginiaMuseum",
+            "statuses_count": 10258,
+            "url": "https://t.co/dOrrxilQHF"
+        },
+        "user_mentions": [
+            {
+                "id": 816181091673448448,
+                "id_str": "816181091673448448",
+                "name": "Rep. Donald McEachin",
+                "screen_name": "RepMcEachin"
+            },
+            {
+                "id": 239949176,
+                "id_str": "239949176",
+                "name": "Congressmember Bass",
+                "screen_name": "RepKarenBass"
+            },
+            {
+                "id": 161791703,
+                "id_str": "161791703",
+                "name": "Rep. Bobby Scott",
+                "screen_name": "BobbyScott"
+            }
+        ]
+    },
+    "quoted_status_id": 1142499506648440833,
+    "quoted_status_id_str": "1142499506648440833",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Starting now! #400YearsTownhall #CBCStateOfBlackAmerica https://t.co/AfGIhqzSJ1",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/VirginiaMuseum/status/1142499506648440833",
+            "url": "https://t.co/AfGIhqzSJ1"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 03 07:15:10 +0000 2017",
+        "description": "Father, husband & Progressive Democrat. Proudly representing VA\u2019s Fighting 4th Congressional District #VA04. Member @EnergyCommerce  @climatecrisis & @NRDems.",
+        "favourites_count": 828,
+        "followers_count": 8310,
+        "friends_count": 1294,
+        "geo_enabled": true,
+        "id": 816181091673448448,
+        "id_str": "816181091673448448",
+        "listed_count": 374,
+        "name": "Rep. Donald McEachin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816181091673448448/1520458426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_link_color": "0A5539",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMcEachin",
+        "statuses_count": 3744,
+        "url": "https://t.co/IsHgFCD4gT",
+        "verified": true
+    },
+    "user_mentions": []
+}

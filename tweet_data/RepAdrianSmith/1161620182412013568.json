@@ -1,0 +1,151 @@
+{
+    "created_at": "Wed Aug 14 12:46:48 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [
+        {
+            "text": "NE03"
+        }
+    ],
+    "id": 1161620182412013568,
+    "id_str": "1161620182412013568",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Aug 13 18:27:03 +0000 2019",
+        "favorite_count": 24,
+        "hashtags": [],
+        "id": 1161343424433467393,
+        "id_str": "1161343424433467393",
+        "lang": "en",
+        "place": {
+            "id": "3af2a75dbeb10500",
+            "url": "https://api.twitter.com/1.1/geo/id/3af2a75dbeb10500.json",
+            "place_type": "city",
+            "name": "Lincoln",
+            "full_name": "Lincoln, NE",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.806031,
+                            40.710053
+                        ],
+                        [
+                            -96.5870939,
+                            40.710053
+                        ],
+                        [
+                            -96.5870939,
+                            40.896417
+                        ],
+                        [
+                            -96.806031,
+                            40.896417
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "JUST IN: As part of the University of Nebraska\u2013Lincoln\u2019s 150th anniversary celebration, Chancellor @RonnieDGreen wi\u2026 https://t.co/7wKgmCAs44",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161343424433467393",
+                "url": "https://t.co/7wKgmCAs44"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 27 04:34:41 +0000 2012",
+            "description": "Farm Broadcaster and Video Producer  for @KRVN and @RuralRadioNet  // BCD Productions  // Tweets are my own",
+            "favourites_count": 4606,
+            "followers_count": 1427,
+            "friends_count": 999,
+            "geo_enabled": true,
+            "id": 505425525,
+            "id_str": "505425525",
+            "listed_count": 14,
+            "location": "bdoeschot@krvn.com",
+            "name": "Bryce Doeschot",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/505425525/1563649801",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082288886695579650/RyoHJCCL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082288886695579650/RyoHJCCL_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "BDoeschot",
+            "statuses_count": 4133,
+            "url": "https://t.co/y6VVC02HJL"
+        },
+        "user_mentions": [
+            {
+                "id": 974583805,
+                "id_str": "974583805",
+                "name": "Ronnie D. Green",
+                "screen_name": "RonnieDGreen"
+            }
+        ]
+    },
+    "quoted_status_id": 1161343424433467393,
+    "quoted_status_id_str": "1161343424433467393",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I welcome @secretarysonny\u2019s visit to Nebraska.  I am sure his visit to #NE03, home to the @nestatefair and the most\u2026 https://t.co/1Adhp1Lqbg",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1161620182412013568",
+            "url": "https://t.co/1Adhp1Lqbg"
+        }
+    ],
+    "user": {
+        "created_at": "Tue May 10 12:52:01 +0000 2011",
+        "description": "Proudly serving the 3rd District of Nebraska in the U.S. House of Representatives",
+        "favourites_count": 2,
+        "followers_count": 12543,
+        "friends_count": 391,
+        "id": 296245061,
+        "id_str": "296245061",
+        "listed_count": 623,
+        "location": "Gering, NE / Washington, DC",
+        "name": "Rep. Adrian Smith",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296245061/1487278194",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/832318343872921605/fJFr9CvP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/832318343872921605/fJFr9CvP_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAdrianSmith",
+        "statuses_count": 3667,
+        "url": "http://t.co/pOBhoFPbKa",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 842072478834909184,
+            "id_str": "842072478834909184",
+            "name": "Sec. Sonny Perdue",
+            "screen_name": "SecretarySonny"
+        },
+        {
+            "id": 38008920,
+            "id_str": "38008920",
+            "name": "Nebraska State Fair",
+            "screen_name": "NEStateFair"
+        }
+    ]
+}

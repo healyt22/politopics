@@ -1,0 +1,118 @@
+{
+    "created_at": "Tue Jul 23 15:25:23 +0000 2019",
+    "favorite_count": 87,
+    "hashtags": [
+        {
+            "text": "FFA"
+        }
+    ],
+    "id": 1153687561988182016,
+    "id_str": "1153687561988182016",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Wh9XFqExEy",
+            "expanded_url": "https://twitter.com/KYComer/status/1153687561988182016/photo/1",
+            "id": 1153687423232159745,
+            "media_url": "http://pbs.twimg.com/media/EAK4mVOWsAEl5wE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAK4mVOWsAEl5wE.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 549,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 969,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1654,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Wh9XFqExEy"
+        }
+    ],
+    "place": {
+        "id": "0ff5b09d1d94d008",
+        "url": "https://api.twitter.com/1.1/geo/id/0ff5b09d1d94d008.json",
+        "place_type": "poi",
+        "name": "Longworth House Office Building",
+        "full_name": "Longworth House Office Building",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ],
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ],
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ],
+                    [
+                        -77.00860261917114,
+                        38.88684065264819
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 13,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Met Kentucky\u2019s best &amp; brightest future leaders. Honored to share old #FFA stories with @KentuckyFFA State Officers https://t.co/Wh9XFqExEy",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 340298666,
+            "id_str": "340298666",
+            "name": "Kentucky FFA",
+            "screen_name": "KentuckyFFA"
+        }
+    ]
+}

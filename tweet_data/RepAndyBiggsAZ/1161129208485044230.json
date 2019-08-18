@@ -1,0 +1,91 @@
+{
+    "created_at": "Tue Aug 13 04:15:50 +0000 2019",
+    "hashtags": [],
+    "id": 1161129208485044230,
+    "id_str": "1161129208485044230",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Tue Aug 13 00:17:25 +0000 2019",
+        "favorite_count": 44,
+        "hashtags": [],
+        "id": 1161069208530116609,
+        "id_str": "1161069208530116609",
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Chandler is changing\u2026 We\u2019ve modernized our logo and updated our tagline to: Community of Innovation. We invite you\u2026 https://t.co/eZ3p5pU5Rl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161069208530116609",
+                "url": "https://t.co/eZ3p5pU5Rl"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 04 15:35:21 +0000 2008",
+            "description": "The Official City of Chandler, AZ Government Twitter. Chandler is the 4th largest city in Arizona.",
+            "favourites_count": 7459,
+            "followers_count": 45826,
+            "friends_count": 1119,
+            "geo_enabled": true,
+            "id": 17158532,
+            "id_str": "17158532",
+            "listed_count": 483,
+            "location": "Chandler, Arizona",
+            "name": "City of Chandler, AZ",
+            "profile_background_color": "0C0D0D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17158532/1535738743",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/733682970188374016/4OF-1HIz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/733682970188374016/4OF-1HIz_normal.jpg",
+            "profile_link_color": "062342",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "5B9AAE",
+            "profile_text_color": "050505",
+            "profile_use_background_image": true,
+            "screen_name": "cityofchandler",
+            "statuses_count": 19853,
+            "url": "https://t.co/t5mQKcXFa6",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @cityofchandler: Chandler is changing\u2026 We\u2019ve modernized our logo and updated our tagline to: Community of Innovation. We invite you to j\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+        "default_profile": true,
+        "description": "Representing Arizona's Fighting Fifth.",
+        "favourites_count": 3886,
+        "followers_count": 32482,
+        "friends_count": 1235,
+        "id": 816652616625168388,
+        "id_str": "816652616625168388",
+        "listed_count": 596,
+        "location": "Arizona, USA",
+        "name": "Rep Andy Biggs",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1558381518",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyBiggsAZ",
+        "statuses_count": 5935,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17158532,
+            "id_str": "17158532",
+            "name": "City of Chandler, AZ",
+            "screen_name": "cityofchandler"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "created_at": "Thu Jun 20 16:49:23 +0000 2019",
+    "favorite_count": 164,
+    "hashtags": [
+        {
+            "text": "GunViolenceAwarenessMonth"
+        },
+        {
+            "text": "EndGunViolence"
+        }
+    ],
+    "id": 1141749899328991236,
+    "id_str": "1141749899328991236",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/gm814oJdBx",
+            "expanded_url": "https://twitter.com/SenatorBaldwin/status/1141749899328991236/video/1",
+            "id": 1141748870063501312,
+            "media_url": "http://pbs.twimg.com/media/D9hPXPiXUAAslmY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9hPXPiXUAAslmY.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/gm814oJdBx",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 67434,
+                "variants": [
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1141748870063501312/vid/320x320/DzMNyj5LvObtrHFV.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1141748870063501312/vid/480x480/pQxyf9glh_gGcvhn.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1141748870063501312/vid/720x720/WnqDqCbwIxQFQ152.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1141748870063501312/pl/X7Pp2YfdMLfk1DwV.m3u8?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 47,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "It\u2019s past time to act and save lives. #GunViolenceAwarenessMonth #EndGunViolence https://t.co/gm814oJdBx",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 09 18:29:44 +0000 2013",
+        "description": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+        "favourites_count": 477,
+        "followers_count": 110536,
+        "friends_count": 2659,
+        "geo_enabled": true,
+        "id": 1074518754,
+        "id_str": "1074518754",
+        "listed_count": 2313,
+        "location": "Washington, D.C.",
+        "name": "Sen. Tammy Baldwin",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074518754/1524675375",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888484691120148481/IQiOuvpT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888484691120148481/IQiOuvpT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorBaldwin",
+        "statuses_count": 13201,
+        "url": "http://t.co/p7vErFeoRD",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,102 @@
+{
+    "created_at": "Mon Apr 29 15:46:41 +0000 2019",
+    "hashtags": [],
+    "id": 1122889951778045952,
+    "id_str": "1122889951778045952",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Apr 29 10:52:34 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1122815933398102016,
+        "id_str": "1122815933398102016",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thanks @RepMalinowski, for joining us at Coffee with Congress, held at Hunterdon Medical Center. The discussion was\u2026 https://t.co/mO0FlQDJwv",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1122815933398102016",
+                "url": "https://t.co/mO0FlQDJwv"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 16 18:33:32 +0000 2016",
+            "description": "Chapter of the premier organization for the care and support of those living with Alzheimer's disease and related disorders. Offering free programs & services.",
+            "favourites_count": 398,
+            "followers_count": 232,
+            "friends_count": 35,
+            "geo_enabled": true,
+            "id": 765617504760762368,
+            "id_str": "765617504760762368",
+            "listed_count": 11,
+            "location": "New Jersey, USA",
+            "name": "Alz Assoc Greater NJ",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/765617504760762368/1521554833",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/880811288661811204/ZsoCsLuI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/880811288661811204/ZsoCsLuI_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AlzAssnGNJ",
+            "statuses_count": 752,
+            "url": "https://t.co/YjU40GMnhY"
+        },
+        "user_mentions": [
+            {
+                "id": 1080898026418384897,
+                "id_str": "1080898026418384897",
+                "name": "Rep. Tom Malinowski",
+                "screen_name": "RepMalinowski"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AlzAssnGNJ: Thanks @RepMalinowski, for joining us at Coffee with Congress, held at Hunterdon Medical Center. The discussion was moving\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 18:45:46 +0000 2019",
+        "default_profile": true,
+        "description": "The official Twitter account of Congressman Tom Malinowski, of New Jersey's 7th district.",
+        "favourites_count": 28,
+        "followers_count": 3240,
+        "friends_count": 384,
+        "id": 1080898026418384897,
+        "id_str": "1080898026418384897",
+        "listed_count": 128,
+        "name": "Rep. Tom Malinowski",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080898026418384897/1547061220",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMalinowski",
+        "statuses_count": 237,
+        "url": "https://t.co/xKfFUaXQDL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 765617504760762368,
+            "id_str": "765617504760762368",
+            "name": "Alz Assoc Greater NJ",
+            "screen_name": "AlzAssnGNJ"
+        },
+        {
+            "id": 1080898026418384897,
+            "id_str": "1080898026418384897",
+            "name": "Rep. Tom Malinowski",
+            "screen_name": "RepMalinowski"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "created_at": "Tue Jul 02 23:42:30 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1146202518348816384,
+    "id_str": "1146202518348816384",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 02 18:50:55 +0000 2019",
+        "favorite_count": 892,
+        "hashtags": [],
+        "id": 1146129140120268802,
+        "id_str": "1146129140120268802",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Id54NZ7jwh",
+                "expanded_url": "https://twitter.com/CoryBooker/status/1146129140120268802/video/1",
+                "id": 1146128707238748161,
+                "media_url": "http://pbs.twimg.com/media/D-feNdFXsAAuwAw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-feNdFXsAAuwAw.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/Id54NZ7jwh",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 66967,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1146128707238748161/vid/1280x720/EO_QUmQFzozcAAmd.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1146128707238748161/vid/640x360/u9EKScE72zo6PMxo.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1146128707238748161/vid/480x270/76UFYZtuJ-N1cXxx.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1146128707238748161/pl/rCQ_8FscunW20YkZ.m3u8?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 174,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "Donald Trump created this crisis through executive action\u2014I'll end it the same way. https://t.co/Id54NZ7jwh",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Aug 11 14:41:16 +0000 2008",
+            "description": "U.S. senator from New Jersey and Democratic candidate for president. Most tweets (and typos) are mine, some are my team\u2019s.",
+            "favourites_count": 166,
+            "followers_count": 4336856,
+            "friends_count": 92432,
+            "geo_enabled": true,
+            "id": 15808765,
+            "id_str": "15808765",
+            "listed_count": 19224,
+            "location": "Newark, NJ",
+            "name": "Cory Booker",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15808765/1555597754",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1091308075041079297/Yz_PLR20_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091308075041079297/Yz_PLR20_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDBDBC",
+            "profile_sidebar_fill_color": "D4D4D4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CoryBooker",
+            "statuses_count": 64184,
+            "url": "https://t.co/4F50lUTrMs",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1146129140120268802,
+    "quoted_status_id_str": "1146129140120268802",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The detention centers at our border are an outrage. @SenBooker has an interesting approach. https://t.co/Syu08Mcxbr",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/CoryBooker/status/1146129140120268802",
+            "url": "https://t.co/Syu08Mcxbr"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 13:38:03 +0000 2009",
+        "description": "Proudly serving California's San Fernando Valley in the U.S. Congress. Admission: Some tweets are prepared by my staff on my behalf. RTs are not an endorsement.",
+        "favourites_count": 21,
+        "followers_count": 48097,
+        "friends_count": 667,
+        "id": 30216513,
+        "id_str": "30216513",
+        "listed_count": 1301,
+        "location": "Sherman Oaks, CA",
+        "name": "Rep. Brad Sherman",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30216513/1548176559",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/938782994591916032/BQlooFe5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/938782994591916032/BQlooFe5_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "BradSherman",
+        "statuses_count": 2095,
+        "url": "https://t.co/SyFUwfPtR8",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2167097881,
+            "id_str": "2167097881",
+            "name": "Sen. Cory Booker",
+            "screen_name": "SenBooker"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Tue May 21 16:32:24 +0000 2019",
+    "hashtags": [],
+    "id": 1130873991214850048,
+    "id_str": "1130873991214850048",
+    "lang": "en",
+    "retweet_count": 21,
+    "retweeted_status": {
+        "created_at": "Tue May 21 14:48:24 +0000 2019",
+        "favorite_count": 39,
+        "hashtags": [],
+        "id": 1130847818401247232,
+        "id_str": "1130847818401247232",
+        "lang": "en",
+        "retweet_count": 21,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We're working in a bipartisan, bicameral manner to highlight why @USDA should select KC as new HQ for @USDA_ERS &amp;\u2026 https://t.co/Uup30sHEld",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1130847818401247232",
+                "url": "https://t.co/Uup30sHEld"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 05 14:25:22 +0000 2009",
+            "description": "Official account of U.S. Senator Jerry Moran. Honored to represent Kansans in the U.S. Senate.",
+            "favourites_count": 952,
+            "followers_count": 96674,
+            "friends_count": 2964,
+            "geo_enabled": true,
+            "id": 18632666,
+            "id_str": "18632666",
+            "listed_count": 2214,
+            "location": "Kansas",
+            "name": "Senator Jerry Moran",
+            "profile_background_color": "0F3254",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18632666/1509573111",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/834123788153397248/8XI1dcQL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/834123788153397248/8XI1dcQL_normal.jpg",
+            "profile_link_color": "55ACEE",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F2F2F2",
+            "profile_text_color": "545454",
+            "screen_name": "JerryMoran",
+            "statuses_count": 5609,
+            "url": "http://t.co/CBA3beMHNs",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 61853389,
+                "id_str": "61853389",
+                "name": "Dept. of Agriculture",
+                "screen_name": "USDA"
+            },
+            {
+                "id": 60654735,
+                "id_str": "60654735",
+                "name": "USDA_ERS",
+                "screen_name": "USDA_ERS"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JerryMoran: We're working in a bipartisan, bicameral manner to highlight why @USDA should select KC as new HQ for @USDA_ERS &amp; @USDA_NIF\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 03:38:10 +0000 2019",
+        "default_profile": true,
+        "description": "Representing Kansas\u2019 2nd District in Congress",
+        "favourites_count": 76,
+        "followers_count": 2946,
+        "friends_count": 2531,
+        "id": 1080307235350241280,
+        "id_str": "1080307235350241280",
+        "listed_count": 113,
+        "location": "Topeka, KS",
+        "name": "Rep. Steve Watkins",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080307235350241280/1560113721",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137822687261339648/72oI1Vb9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137822687261339648/72oI1Vb9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Rep_Watkins",
+        "statuses_count": 430,
+        "url": "https://t.co/NOVR7WJIol",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18632666,
+            "id_str": "18632666",
+            "name": "Senator Jerry Moran",
+            "screen_name": "JerryMoran"
+        },
+        {
+            "id": 61853389,
+            "id_str": "61853389",
+            "name": "Dept. of Agriculture",
+            "screen_name": "USDA"
+        },
+        {
+            "id": 60654735,
+            "id_str": "60654735",
+            "name": "USDA_ERS",
+            "screen_name": "USDA_ERS"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "created_at": "Thu Jun 06 20:09:36 +0000 2019",
+    "favorite_count": 1360,
+    "hashtags": [],
+    "id": 1136726855799717889,
+    "id_str": "1136726855799717889",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 04 17:44:39 +0000 2019",
+        "favorite_count": 75,
+        "hashtags": [],
+        "id": 1135965600923000832,
+        "id_str": "1135965600923000832",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2cdzO35tTs",
+                "expanded_url": "https://twitter.com/CBSNews/status/1135965600923000832/photo/1",
+                "id": 1135965599652360192,
+                "media_url": "http://pbs.twimg.com/media/D8PCsbxXsAAASOb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D8PCsbxXsAAASOb.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 1024,
+                        "h": 538,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 538,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/2cdzO35tTs"
+            }
+        ],
+        "retweet_count": 74,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "2020 census could undercount 4 million people \u2014 particularly Latinos and blacks https://t.co/35I4Rx0eVo https://t.co/2cdzO35tTs",
+        "urls": [
+            {
+                "expanded_url": "https://cbsn.ws/2XrKJKL",
+                "url": "https://t.co/35I4Rx0eVo"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 05 00:54:31 +0000 2008",
+            "description": "Your source for original reporting and trusted news.",
+            "favourites_count": 288,
+            "followers_count": 6812247,
+            "friends_count": 455,
+            "id": 15012486,
+            "id_str": "15012486",
+            "listed_count": 50015,
+            "location": "New York, NY",
+            "name": "CBS News",
+            "profile_background_color": "D9DADA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15012486/1559749831",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+            "profile_link_color": "B12124",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EAEDF0",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "CBSNews",
+            "statuses_count": 220262,
+            "url": "https://t.co/VGut7r2Vg5",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1135965600923000832,
+    "quoted_status_id_str": "1135965600923000832",
+    "retweet_count": 638,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "A new report predicts that up to *4 million people* could be undercounted in the 2020 Census in part because of the\u2026 https://t.co/ciBMooNPlW",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1136726855799717889",
+            "url": "https://t.co/ciBMooNPlW"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Nov 29 20:16:39 +0000 2016",
+        "default_profile": true,
+        "description": "United States Senator for California",
+        "favourites_count": 483,
+        "followers_count": 835183,
+        "friends_count": 645,
+        "geo_enabled": true,
+        "id": 803694179079458816,
+        "id_str": "803694179079458816",
+        "listed_count": 4518,
+        "name": "Kamala Harris",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/803694179079458816/1521647792",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/974690906669572098/Y6w06trG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/974690906669572098/Y6w06trG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenKamalaHarris",
+        "statuses_count": 3426,
+        "url": "https://t.co/d7fwQc0xoD",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,132 @@
+{
+    "created_at": "Thu Jun 20 15:14:32 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1141726028764798978,
+    "id_str": "1141726028764798978",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 19 18:15:03 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "ROC"
+            }
+        ],
+        "id": 1141409072022872064,
+        "id_str": "1141409072022872064",
+        "lang": "en",
+        "place": {
+            "id": "2f1fc0d72969452b",
+            "url": "https://api.twitter.com/1.1/geo/id/2f1fc0d72969452b.json",
+            "place_type": "city",
+            "name": "Rochester",
+            "full_name": "Rochester",
+            "country_code": "",
+            "country": "",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.558347,
+                            43.891725
+                        ],
+                        [
+                            -92.358897,
+                            43.891725
+                        ],
+                        [
+                            -92.358897,
+                            44.1080561
+                        ],
+                        [
+                            -92.558347,
+                            44.1080561
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://www.democratandchronicle.com\" rel=\"nofollow\">DandC</a>",
+        "text": "Man who sold 'ghost guns' out of Greece pizzeria parking lot pleads guilty https://t.co/EEMTZYURg4 #ROC",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2MYGaXR",
+                "url": "https://t.co/EEMTZYURg4"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Oct 28 15:09:05 +0000 2008",
+            "description": "Breaking news, watchdog and in-depth reporting from the Democrat and Chronicle in Rochester, New York. Part of USA TODAY Network. #ROC",
+            "favourites_count": 4223,
+            "followers_count": 134590,
+            "friends_count": 4829,
+            "geo_enabled": true,
+            "id": 17022537,
+            "id_str": "17022537",
+            "listed_count": 1296,
+            "location": "Rochester, NY",
+            "name": "Democrat & Chronicle",
+            "profile_background_color": "808080",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17022537/1549660337",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/923230988569907202/sVI5LL41_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/923230988569907202/sVI5LL41_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "D9E7F5",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DandC",
+            "statuses_count": 180891,
+            "url": "https://t.co/29grrunYiK",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1141409072022872064,
+    "quoted_status_id_str": "1141409072022872064",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Ghost guns like these can easily fall through the cracks of security systems - that\u2019s why I have cosponsored the Un\u2026 https://t.co/osqdAGs4Ww",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1141726028764798978",
+            "url": "https://t.co/osqdAGs4Ww"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Nov 19 19:07:18 +0000 2018",
+        "default_profile": true,
+        "description": "Husband, father, and Congressman representing New York's 25th district.",
+        "favourites_count": 88,
+        "followers_count": 5590,
+        "friends_count": 778,
+        "geo_enabled": true,
+        "id": 1064595993222615040,
+        "id_str": "1064595993222615040",
+        "listed_count": 172,
+        "location": "Rochester, NY",
+        "name": "Joe Morelle",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1064595993222615040/1563277128",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1074733746631438336/iW_jCdm1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074733746631438336/iW_jCdm1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeMorelle",
+        "statuses_count": 900,
+        "url": "https://t.co/Pz6DwDR8Rm",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,162 @@
+{
+    "created_at": "Fri Feb 01 19:09:02 +0000 2019",
+    "favorite_count": 337,
+    "hashtags": [],
+    "id": 1091413130306031618,
+    "id_str": "1091413130306031618",
+    "lang": "en",
+    "place": {
+        "id": "3cd4c18d3615bbc9",
+        "url": "https://api.twitter.com/1.1/geo/id/3cd4c18d3615bbc9.json",
+        "place_type": "admin",
+        "name": "Iowa",
+        "full_name": "Iowa, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -96.6396669,
+                        40.375437
+                    ],
+                    [
+                        -90.140061,
+                        40.375437
+                    ],
+                    [
+                        -90.140061,
+                        43.50102
+                    ],
+                    [
+                        -96.6396669,
+                        43.50102
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Fri Feb 01 07:59:08 +0000 2019",
+        "favorite_count": 1711,
+        "hashtags": [],
+        "id": 1091244543008108544,
+        "id_str": "1091244543008108544",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dlvddydOww",
+                "expanded_url": "https://twitter.com/larryelder/status/1091244543008108544/photo/1",
+                "id": 1091244538725715969,
+                "media_url": "http://pbs.twimg.com/media/DyThIFXU0AExnF0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DyThIFXU0AExnF0.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 901,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1537,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/dlvddydOww"
+            }
+        ],
+        "retweet_count": 296,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u201cRepublicans\u2019 favorite exercise is running for the hills.\u201d\n\u2014@ThomasSowell https://t.co/dlvddydOww",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Sep 26 07:34:31 +0000 2010",
+            "description": "Sage from South Central; Larry Elder Show; Salem/CRN; (KRLA L.A. 6-9p PT); 6-9p ET; (888) 971-SAGE; https://t.co/sXv5JWRKRA",
+            "favourites_count": 6248,
+            "followers_count": 577240,
+            "friends_count": 100,
+            "geo_enabled": true,
+            "id": 195271137,
+            "id_str": "195271137",
+            "listed_count": 3211,
+            "location": "L.A., Calif.",
+            "name": "Larry Elder",
+            "profile_background_color": "1E1728",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/195271137/1421715440",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/494912342346317824/rbQxobXU_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912342346317824/rbQxobXU_normal.jpeg",
+            "profile_link_color": "7B6DA3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "larryelder",
+            "statuses_count": 56276,
+            "url": "https://t.co/htHywSGbPA",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 57338175,
+                "id_str": "57338175",
+                "name": "Thomas Sowell",
+                "screen_name": "ThomasSowell"
+            }
+        ]
+    },
+    "quoted_status_id": 1091244543008108544,
+    "quoted_status_id_str": "1091244543008108544",
+    "retweet_count": 99,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "A pair to draw to and at least one of America\u2019s wisest of wise men. https://t.co/C0W90ehIW5",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/larryelder/status/1091244543008108544",
+            "url": "https://t.co/C0W90ehIW5"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jun 17 21:09:41 +0000 2009",
+        "description": "U.S. Congress, 4th Congressional District of Iowa #IA04",
+        "favourites_count": 68,
+        "followers_count": 118052,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 48117116,
+        "id_str": "48117116",
+        "listed_count": 2780,
+        "location": "Washington, DC",
+        "name": "Steve King",
+        "profile_background_color": "061025",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+        "profile_link_color": "061025",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D1AF59",
+        "profile_text_color": "061025",
+        "profile_use_background_image": true,
+        "screen_name": "SteveKingIA",
+        "statuses_count": 2797,
+        "verified": true
+    },
+    "user_mentions": []
+}

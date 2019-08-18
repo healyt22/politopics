@@ -1,0 +1,161 @@
+{
+    "created_at": "Wed Apr 24 18:35:28 +0000 2019",
+    "hashtags": [],
+    "id": 1121120488493862912,
+    "id_str": "1121120488493862912",
+    "lang": "en",
+    "retweet_count": 11386,
+    "retweeted_status": {
+        "created_at": "Wed Apr 24 18:17:27 +0000 2019",
+        "favorite_count": 37376,
+        "hashtags": [],
+        "id": 1121115956028297216,
+        "id_str": "1121115956028297216",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xTuPv0zqJn",
+                "expanded_url": "https://twitter.com/GOPoversight/status/1121115956028297216/video/1",
+                "id": 1121115503810969600,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121115503810969600/pu/img/S7_LGeIkbfabqT-k.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121115503810969600/pu/img/S7_LGeIkbfabqT-k.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/xTuPv0zqJn",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 32199,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1121115503810969600/pu/vid/640x360/DKLjDxmcjaNugJ3w.mp4?tag=8"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1121115503810969600/pu/vid/1280x720/yUSMQOZ9rdTYM-6Y.mp4?tag=8"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1121115503810969600/pu/vid/320x180/Ia1YsHFplzVkFOuX.mp4?tag=8"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1121115503810969600/pu/pl/TfIvf5gY1rPQ6U7i.m3u8?tag=8"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 11386,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Democrats are obsessed with @realDonaldTrump. It's time to move on and solve problems for the American people. https://t.co/xTuPv0zqJn",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Mar 02 17:30:34 +0000 2009",
+            "description": "House Oversight Committee Republicans | Est. 1814 | Ranking Member @Jim_Jordan | https://t.co/ylzBTwEGzE",
+            "favourites_count": 205,
+            "followers_count": 68911,
+            "friends_count": 13019,
+            "id": 22508473,
+            "id_str": "22508473",
+            "listed_count": 1422,
+            "location": "Washington D.C.",
+            "name": "Oversight Committee Republicans",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22508473/1547162412",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1101154310069649408/pqzIuZxV_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101154310069649408/pqzIuZxV_normal.png",
+            "profile_link_color": "134766",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GOPoversight",
+            "statuses_count": 9839,
+            "url": "https://t.co/udvm5PQnVL",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @GOPoversight: Democrats are obsessed with @realDonaldTrump. It's time to move on and solve problems for the American people. https://t.\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Nov 22 02:20:50 +0000 2012",
+        "description": "Businessman, husband, and father proudly representing North Carolina's 11th Congressional District. Chairman of @freedomcaucus.",
+        "favourites_count": 384,
+        "followers_count": 333468,
+        "friends_count": 958,
+        "geo_enabled": true,
+        "id": 963480595,
+        "id_str": "963480595",
+        "listed_count": 2324,
+        "location": "Jackson County, NC",
+        "name": "Mark Meadows",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/963480595/1392915093",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827624420923539456/rcp86XAS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827624420923539456/rcp86XAS_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMarkMeadows",
+        "statuses_count": 2782,
+        "url": "https://t.co/awcfuLCQk1",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22508473,
+            "id_str": "22508473",
+            "name": "Oversight Committee Republicans",
+            "screen_name": "GOPoversight"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

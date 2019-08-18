@@ -1,0 +1,83 @@
+{
+    "created_at": "Fri May 17 15:29:50 +0000 2019",
+    "favorite_count": 178,
+    "hashtags": [
+        {
+            "text": "EqualityAct"
+        }
+    ],
+    "id": 1129408691697082368,
+    "id_str": "1129408691697082368",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 32,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "To celebrate the #EqualityAct today, my office dressed up in the colors of the rainbow! I\u2019m so proud that my own st\u2026 https://t.co/5tUoGAQPRr",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1129408691697082368",
+            "url": "https://t.co/5tUoGAQPRr"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 01:39:39 +0000 2019",
+        "default_profile": true,
+        "description": "Honored to represent #MI09 in Congress. Vice Chair of @EdLaborCmte, member of @HouseForeign. Democrat raising the standard of living for working people.",
+        "favourites_count": 67,
+        "followers_count": 11739,
+        "friends_count": 1952,
+        "geo_enabled": true,
+        "id": 1080277407867772930,
+        "id_str": "1080277407867772930",
+        "listed_count": 219,
+        "location": "Michigan, USA",
+        "name": "Rep. Andy Levin",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080277407867772930/1546536038",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080563046907609093/JULus5Yq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080563046907609093/JULus5Yq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyLevin",
+        "statuses_count": 527,
+        "verified": true
+    },
+    "user_mentions": []
+}

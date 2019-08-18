@@ -1,0 +1,86 @@
+{
+    "created_at": "Wed Jul 24 22:04:06 +0000 2019",
+    "favorite_count": 466,
+    "hashtags": [],
+    "id": 1154150288275755008,
+    "id_str": "1154150288275755008",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/JcU5dFFU2s",
+            "expanded_url": "https://twitter.com/RepRatcliffe/status/1154150288275755008/photo/1",
+            "id": 1154150166699683841,
+            "media_url": "http://pbs.twimg.com/media/EARddi-XsAEwyaR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EARddi-XsAEwyaR.jpg",
+            "sizes": {
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/JcU5dFFU2s"
+        }
+    ],
+    "retweet_count": 65,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "In studio with @BretBaier, about to kick off tonight\u2019s @SpecialReport. https://t.co/JcU5dFFU2s",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Oct 27 20:20:35 +0000 2014",
+        "description": "U.S. Congressman for Texas' 4th District. Member of House Intelligence Committee, @HomelandGOP, @JudiciaryGOP & House Ethics. Former federal prosecutor.",
+        "favourites_count": 1323,
+        "followers_count": 85927,
+        "friends_count": 732,
+        "geo_enabled": true,
+        "id": 2847221717,
+        "id_str": "2847221717",
+        "listed_count": 801,
+        "location": "Heath, TX",
+        "name": "John Ratcliffe",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2847221717/1544463847",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072185562621243392/Kt2NcAx9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072185562621243392/Kt2NcAx9_normal.jpg",
+        "profile_link_color": "700F00",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRatcliffe",
+        "statuses_count": 2572,
+        "url": "https://t.co/RaXZihuHYU",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18646108,
+            "id_str": "18646108",
+            "name": "Bret Baier",
+            "screen_name": "BretBaier"
+        },
+        {
+            "id": 122207745,
+            "id_str": "122207745",
+            "name": "Special Report Team",
+            "screen_name": "SpecialReport"
+        }
+    ]
+}

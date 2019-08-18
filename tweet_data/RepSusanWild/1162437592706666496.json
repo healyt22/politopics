@@ -1,0 +1,114 @@
+{
+    "created_at": "Fri Aug 16 18:54:53 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [
+        {
+            "text": "PA"
+        }
+    ],
+    "id": 1162437592706666496,
+    "id_str": "1162437592706666496",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Aug 16 14:18:59 +0000 2019",
+        "favorite_count": 133,
+        "hashtags": [],
+        "id": 1162368158608633857,
+        "id_str": "1162368158608633857",
+        "in_reply_to_screen_name": "GovernorTomWolf",
+        "in_reply_to_status_id": 1162367904224108545,
+        "in_reply_to_user_id": 2978837542,
+        "lang": "en",
+        "retweet_count": 31,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "@PhillyPolice This executive order includes initiatives and reforms to address domestic violence, suicide, accident\u2026 https://t.co/8GcozZyGPt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162368158608633857",
+                "url": "https://t.co/8GcozZyGPt"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 14 21:17:23 +0000 2015",
+            "description": "Pennsylvania governor. Fighting for better schools + jobs + government. York native. Husband/dad/granddad. Business owner. Baseball + Jeep fan. Hotdog=sandwich.",
+            "favourites_count": 1412,
+            "followers_count": 96537,
+            "friends_count": 922,
+            "geo_enabled": true,
+            "id": 2978837542,
+            "id_str": "2978837542",
+            "listed_count": 949,
+            "location": "Harrisburg, PA",
+            "name": "Governor Tom Wolf",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2978837542/1558702824",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/854711689832431616/jT7uSFQM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/854711689832431616/jT7uSFQM_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "GovernorTomWolf",
+            "statuses_count": 13196,
+            "url": "https://t.co/9tlW5ycC9g",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 73491087,
+                "id_str": "73491087",
+                "name": "Philadelphia Police",
+                "screen_name": "PhillyPolice"
+            }
+        ]
+    },
+    "quoted_status_id": 1162368158608633857,
+    "quoted_status_id_str": "1162368158608633857",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thank you, @GovernorTomWolf for taking action for #PA. We\u2019ll continue to fight on the federal level to protect all\u2026 https://t.co/00jIFSnl9y",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1162437592706666496",
+            "url": "https://t.co/00jIFSnl9y"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 03 16:57:05 +0000 2018",
+        "default_profile": true,
+        "description": "Proud to represent Pennsylvania's 7th Congressional District",
+        "favourites_count": 531,
+        "followers_count": 5638,
+        "friends_count": 489,
+        "geo_enabled": true,
+        "id": 1069636653353000962,
+        "id_str": "1069636653353000962",
+        "listed_count": 207,
+        "location": "United States",
+        "name": "Rep. Susan Wild",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069636653353000962/1559144985",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1069999547026419713/gQssbReA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069999547026419713/gQssbReA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSusanWild",
+        "statuses_count": 886,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2978837542,
+            "id_str": "2978837542",
+            "name": "Governor Tom Wolf",
+            "screen_name": "GovernorTomWolf"
+        }
+    ]
+}

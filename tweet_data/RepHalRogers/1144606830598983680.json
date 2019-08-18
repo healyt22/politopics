@@ -1,0 +1,140 @@
+{
+    "created_at": "Fri Jun 28 14:01:48 +0000 2019",
+    "hashtags": [],
+    "id": 1144606830598983680,
+    "id_str": "1144606830598983680",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Fri Jun 28 13:51:12 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1144604162262470656,
+        "id_str": "1144604162262470656",
+        "lang": "en",
+        "place": {
+            "id": "6ffcf3b0b904bbcb",
+            "url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json",
+            "place_type": "admin",
+            "name": "Kentucky",
+            "full_name": "Kentucky, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.57151,
+                            36.497129
+                        ],
+                        [
+                            -81.964971,
+                            36.497129
+                        ],
+                        [
+                            -81.964971,
+                            39.147359
+                        ],
+                        [
+                            -89.57151,
+                            39.147359
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Second Chance Auto is not only changing tires, they are changing lives. This @arccenters program is allowing those\u2026 https://t.co/Csu5MBAUT3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1144604162262470656",
+                "url": "https://t.co/Csu5MBAUT3"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 15 17:53:22 +0000 2013",
+            "description": "Official Page of SOAR: Shaping Our Appalachian Region. A network of our Appalachia that unites 54 counties worth of talent enabling us to shape our own future.",
+            "favourites_count": 393,
+            "followers_count": 2593,
+            "friends_count": 209,
+            "geo_enabled": true,
+            "id": 2196373082,
+            "id_str": "2196373082",
+            "listed_count": 29,
+            "location": "Appalachia Kentucky",
+            "name": "SOAR",
+            "profile_background_color": "2A5738",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2196373082/1563375901",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/962004863138721794/p9k9DKI9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/962004863138721794/p9k9DKI9_normal.jpg",
+            "profile_link_color": "1A422E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "262626",
+            "profile_text_color": "234B33",
+            "screen_name": "SOAR_EKY",
+            "statuses_count": 2389,
+            "url": "https://t.co/EI2taANz3g"
+        },
+        "user_mentions": [
+            {
+                "id": 1296138571,
+                "id_str": "1296138571",
+                "name": "Addiction Recovery Care",
+                "screen_name": "arccenters"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SOAR_EKY: Second Chance Auto is not only changing tires, they are changing lives. This @arccenters program is allowing those in recover\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Apr 10 19:59:22 +0000 2012",
+        "default_profile": true,
+        "description": "Representing the people of Southern and Eastern Kentucky and serving as Chairman of the U.S. House Appropriations Subcommittee on State and Foreign Operations",
+        "favourites_count": 1085,
+        "followers_count": 16643,
+        "friends_count": 741,
+        "geo_enabled": true,
+        "id": 550401754,
+        "id_str": "550401754",
+        "listed_count": 713,
+        "location": "Somerset, KY",
+        "name": "Hal Rogers",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550401754/1478819972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHalRogers",
+        "statuses_count": 3758,
+        "url": "https://t.co/MNkQuDdocD",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2196373082,
+            "id_str": "2196373082",
+            "name": "SOAR",
+            "screen_name": "SOAR_EKY"
+        },
+        {
+            "id": 1296138571,
+            "id_str": "1296138571",
+            "name": "Addiction Recovery Care",
+            "screen_name": "arccenters"
+        }
+    ]
+}

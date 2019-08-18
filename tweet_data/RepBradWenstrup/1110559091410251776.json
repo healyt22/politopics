@@ -1,0 +1,79 @@
+{
+    "created_at": "Tue Mar 26 15:08:15 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1110559091410251776,
+    "id_str": "1110559091410251776",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/CsFrg4aX85",
+            "expanded_url": "https://twitter.com/RepBradWenstrup/status/1110559091410251776/photo/1",
+            "id": 1110559087727644678,
+            "media_url": "http://pbs.twimg.com/media/D2l_mzYWkAYCZ1u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2l_mzYWkAYCZ1u.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/CsFrg4aX85"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I will be joining @AmericaNewsroom in a few minutes\u2014 be sure to tune in. \ud83d\udcfa https://t.co/CsFrg4aX85",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 08 16:25:14 +0000 2012",
+        "description": "US Representative for the people of Ohio's 2nd District, Physician, Army Reservist, Dad, Lifelong Ohioan",
+        "favourites_count": 772,
+        "followers_count": 23063,
+        "friends_count": 1032,
+        "geo_enabled": true,
+        "id": 518644221,
+        "id_str": "518644221",
+        "listed_count": 690,
+        "name": "Brad Wenstrup",
+        "profile_background_color": "B30000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/518644221/1497304139",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000172004781/b7b9dc516fbf3a3a1f5bbfff3ae9aa51_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000172004781/b7b9dc516fbf3a3a1f5bbfff3ae9aa51_normal.png",
+        "profile_link_color": "B30000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBradWenstrup",
+        "statuses_count": 5330,
+        "url": "https://t.co/PMxYuFsMOw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 312800783,
+            "id_str": "312800783",
+            "name": "America's Newsroom",
+            "screen_name": "AmericaNewsroom"
+        }
+    ]
+}

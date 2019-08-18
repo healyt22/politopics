@@ -1,0 +1,181 @@
+{
+    "created_at": "Tue Jun 04 13:41:16 +0000 2019",
+    "hashtags": [],
+    "id": 1135904354437947392,
+    "id_str": "1135904354437947392",
+    "lang": "en",
+    "quoted_status_id": 1135890594755223552,
+    "quoted_status_id_str": "1135890594755223552",
+    "retweet_count": 78,
+    "retweeted_status": {
+        "created_at": "Tue Jun 04 13:11:56 +0000 2019",
+        "favorite_count": 268,
+        "hashtags": [],
+        "id": 1135896971540127746,
+        "id_str": "1135896971540127746",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Tue Jun 04 12:46:36 +0000 2019",
+            "favorite_count": 70,
+            "hashtags": [
+                {
+                    "text": "DDay"
+                }
+            ],
+            "id": 1135890594755223552,
+            "id_str": "1135890594755223552",
+            "lang": "en",
+            "retweet_count": 37,
+            "source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+            "text": "Ahead of the 75th anniversary of #DDay, we're sharing stories of the heroes who fought in this historic battle. 23-\u2026 https://t.co/64mFhGiDC9",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1135890594755223552",
+                    "url": "https://t.co/64mFhGiDC9"
+                }
+            ],
+            "user": {
+                "created_at": "Mon Nov 03 17:05:29 +0000 2008",
+                "description": "News that matters. Original reporting. Every morning 7-9 a.m.",
+                "favourites_count": 10145,
+                "followers_count": 376928,
+                "friends_count": 2789,
+                "geo_enabled": true,
+                "id": 17134268,
+                "id_str": "17134268",
+                "listed_count": 4405,
+                "location": "United States",
+                "name": "CBS This Morning",
+                "profile_background_color": "FDFAED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/17134268/1560973038",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1147114353679843329/W3nIPg4K_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147114353679843329/W3nIPg4K_normal.png",
+                "profile_link_color": "FF691F",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FDFAED",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "screen_name": "CBSThisMorning",
+                "statuses_count": 127421,
+                "url": "https://t.co/6D6oTC6fgL",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1135890594755223552,
+        "quoted_status_id_str": "1135890594755223552",
+        "retweet_count": 78,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Every year there are fewer and fewer or these men left. Please take a moment to hear 98-year-old D-Day veteran Ray\u2026 https://t.co/BhuuswDElm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1135896971540127746",
+                "url": "https://t.co/BhuuswDElm"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 06 02:06:06 +0000 2010",
+            "description": "CBS morning/legal person and proud mama of four. Love fried okra, family, red wine in big glasses, sweet pickles and the Crimson Tide.",
+            "favourites_count": 938,
+            "followers_count": 20031,
+            "friends_count": 1630,
+            "geo_enabled": true,
+            "id": 102238997,
+            "id_str": "102238997",
+            "listed_count": 773,
+            "location": "Washington, DC",
+            "name": "Jan Crawford",
+            "profile_background_color": "227BB6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/102238997/1392910618",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/436524889168551937/q8kjBKCu_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/436524889168551937/q8kjBKCu_normal.jpeg",
+            "profile_link_color": "0917E3",
+            "profile_sidebar_border_color": "072457",
+            "profile_sidebar_fill_color": "8FC0E3",
+            "profile_text_color": "0329FF",
+            "profile_use_background_image": true,
+            "screen_name": "JanCBS",
+            "statuses_count": 3295,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JanCBS: Every year there are fewer and fewer or these men left. Please take a moment to hear 98-year-old D-Day veteran Ray Lambert\u2019s me\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 04 14:01:28 +0000 2011",
+        "description": "I serve the people of the 2nd District of Michigan. Member of Financial Services Committee. Father of 5. Visit http://t.co/Rj7T6mD76d for even more!",
+        "favourites_count": 1194,
+        "followers_count": 20999,
+        "friends_count": 4968,
+        "geo_enabled": true,
+        "id": 233949261,
+        "id_str": "233949261",
+        "listed_count": 898,
+        "location": "2nd District, MI",
+        "name": "Rep. Bill Huizenga",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233949261/1551386050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/443039780276682753/UYej9mz0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/443039780276682753/UYej9mz0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepHuizenga",
+        "statuses_count": 6542,
+        "url": "http://t.co/F9UwL81Pr9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 102238997,
+            "id_str": "102238997",
+            "name": "Jan Crawford",
+            "screen_name": "JanCBS"
+        }
+    ]
+}

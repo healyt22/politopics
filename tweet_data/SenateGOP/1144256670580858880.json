@@ -1,0 +1,109 @@
+{
+    "created_at": "Thu Jun 27 14:50:24 +0000 2019",
+    "favorite_count": 253,
+    "hashtags": [],
+    "id": 1144256670580858880,
+    "id_str": "1144256670580858880",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/E8ZhrC7tVD",
+            "expanded_url": "https://twitter.com/SenateGOP/status/1144256670580858880/video/1",
+            "id": 1143966988693323777,
+            "media_url": "http://pbs.twimg.com/media/D-A6uruW4AMPYJJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-A6uruW4AMPYJJ.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/E8ZhrC7tVD",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 45500,
+                "variants": [
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143966988693323777/vid/720x720/s8pNdY9z_PW7Jrrd.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1143966988693323777/pl/bY6IVLQtNZS17o4_.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143966988693323777/vid/480x480/fver68zV6sZQg3H_.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143966988693323777/vid/320x320/XFxaoT10EfMIwFU3.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 86,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": ".@HouseDemocrats: This crisis demands action. \n\nPass the Senate bill. https://t.co/E8ZhrC7tVD",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Apr 09 19:42:03 +0000 2008",
+        "description": "News and updates from Republican senators and their staff. Chairman @SenJohnBarrasso.",
+        "favourites_count": 1711,
+        "followers_count": 821008,
+        "friends_count": 29625,
+        "geo_enabled": true,
+        "id": 14344823,
+        "id_str": "14344823",
+        "listed_count": 7327,
+        "location": "Washington, D.C.",
+        "name": "Senate Republicans",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344823/1551132868",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137062452070408192/gPsr0yNF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137062452070408192/gPsr0yNF_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenateGOP",
+        "statuses_count": 24133,
+        "url": "https://t.co/LRez78SkoK",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43963249,
+            "id_str": "43963249",
+            "name": "House Democrats",
+            "screen_name": "HouseDemocrats"
+        }
+    ]
+}

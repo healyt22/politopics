@@ -1,0 +1,100 @@
+{
+    "created_at": "Thu Jun 27 14:41:31 +0000 2019",
+    "favorite_count": 58,
+    "hashtags": [],
+    "id": 1144254434333143048,
+    "id_str": "1144254434333143048",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/bgdtbpc1hY",
+            "expanded_url": "https://twitter.com/SenBobCasey/status/1144254434333143048/video/1",
+            "id": 1144253488731492354,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1144253488731492354/img/HGTMrI8sqMgaCJfw.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1144253488731492354/img/HGTMrI8sqMgaCJfw.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/bgdtbpc1hY",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 254622,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1144253488731492354/pl/V1rEWrSkVywkU6k9.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1144253488731492354/vid/480x270/P_ISyT7LMRcJuxgd.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1144253488731492354/vid/1280x720/AbSuOTn53_b_C0Bk.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1144253488731492354/vid/640x360/i9DIa5W96Pg8uTkz.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 18,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Since September of 2018, these six children have died while in United States government custody. https://t.co/bgdtbpc1hY",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 27 18:38:20 +0000 2010",
+        "description": "Official twitter profile for U.S. Senator Bob Casey.",
+        "favourites_count": 632,
+        "followers_count": 407748,
+        "friends_count": 638,
+        "geo_enabled": true,
+        "id": 171598736,
+        "id_str": "171598736",
+        "listed_count": 3056,
+        "location": "Scranton, PA",
+        "name": "Senator Bob Casey",
+        "profile_background_color": "162F53",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_link_color": "2F6291",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "screen_name": "SenBobCasey",
+        "statuses_count": 9153,
+        "url": "https://t.co/EghtimAhrt",
+        "verified": true
+    },
+    "user_mentions": []
+}

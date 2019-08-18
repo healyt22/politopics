@@ -1,0 +1,90 @@
+{
+    "created_at": "Thu Aug 01 19:47:44 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [],
+    "id": 1157015074298638338,
+    "id_str": "1157015074298638338",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/JjqM4t3Ld8",
+            "expanded_url": "https://twitter.com/RepRiggleman/status/1157015074298638338/video/1",
+            "id": 1157015040194744323,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157015040194744323/pu/img/a5J6i7EqBtq8SrYP.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157015040194744323/pu/img/a5J6i7EqBtq8SrYP.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 426,
+                    "h": 238,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 426,
+                    "h": 238,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 426,
+                    "h": 238,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/JjqM4t3Ld8",
+            "video_info": {
+                "aspect_ratio": [
+                    213,
+                    119
+                ],
+                "duration_millis": 62295,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1157015040194744323/pu/vid/426x238/GXkhOvLCSkcpKjHk.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1157015040194744323/pu/pl/WYoRXkRWsLoSLqib.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Watch this clip about my recent trip to the U.S. - Mexico border. https://t.co/JjqM4t3Ld8",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 16:40:09 +0000 2019",
+        "default_profile": true,
+        "description": "Official Twitter for Congressman Denver Riggleman, proudly representing VA-05",
+        "favourites_count": 138,
+        "followers_count": 4123,
+        "friends_count": 98,
+        "id": 1080504024695222273,
+        "id_str": "1080504024695222273",
+        "listed_count": 131,
+        "location": "Nelson County, VA",
+        "name": "Congressman Denver Riggleman",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080504024695222273/1546470119",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080504233311551490/MieXr9k1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080504233311551490/MieXr9k1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRiggleman",
+        "statuses_count": 746,
+        "url": "https://t.co/FzMaNM6XGR",
+        "verified": true
+    },
+    "user_mentions": []
+}

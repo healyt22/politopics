@@ -1,0 +1,114 @@
+{
+    "created_at": "Tue Jul 16 15:27:56 +0000 2019",
+    "hashtags": [
+        {
+            "text": "SecondaryBarriers"
+        }
+    ],
+    "id": 1151151486891626496,
+    "id_str": "1151151486891626496",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 02:50:02 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "SecondaryBarriers"
+            }
+        ],
+        "id": 1150960756051128320,
+        "id_str": "1150960756051128320",
+        "in_reply_to_screen_name": "RepJoshG",
+        "in_reply_to_user_id": 815310506596691968,
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "@RepJoshG, thank you for supporting the full implementation of #SecondaryBarriers on commercial passenger flights.\u2026 https://t.co/DfkkOaf1OO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150960756051128320",
+                "url": "https://t.co/DfkkOaf1OO"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 18 14:32:47 +0000 2009",
+            "description": "The official Twitter page for the Air Line Pilots Association, Int'l, representing over 62,000 pilots at 35 airlines in the United States and Canada.",
+            "favourites_count": 4929,
+            "followers_count": 18136,
+            "friends_count": 1747,
+            "geo_enabled": true,
+            "id": 48366585,
+            "id_str": "48366585",
+            "listed_count": 380,
+            "location": "Tysons Corner, Virginia",
+            "name": "ALPA",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/48366585/1514914065",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1102596291153010688/qiWOUIDj_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102596291153010688/qiWOUIDj_normal.png",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "CCECED",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "WeAreALPA",
+            "statuses_count": 13290,
+            "url": "https://t.co/YJ7ciMTsvS",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 815310506596691968,
+                "id_str": "815310506596691968",
+                "name": "Rep Josh Gottheimer",
+                "screen_name": "RepJoshG"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @WeAreALPA: @RepJoshG, thank you for supporting the full implementation of #SecondaryBarriers on commercial passenger flights. Thank you\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Dec 31 21:35:47 +0000 2016",
+        "description": "Honored to serve the people of New Jersey's 5th District. Working across the aisle to solve problems, lower taxes, and fight for Jersey values.",
+        "followers_count": 10041,
+        "friends_count": 73,
+        "geo_enabled": true,
+        "id": 815310506596691968,
+        "id_str": "815310506596691968",
+        "listed_count": 381,
+        "name": "Rep Josh Gottheimer",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815310506596691968/1547576608",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824380405482668042/TGcE_Hz0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824380405482668042/TGcE_Hz0_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepJoshG",
+        "statuses_count": 3630,
+        "url": "https://t.co/ceIx0jIT4u",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 48366585,
+            "id_str": "48366585",
+            "name": "ALPA",
+            "screen_name": "WeAreALPA"
+        },
+        {
+            "id": 815310506596691968,
+            "id_str": "815310506596691968",
+            "name": "Rep Josh Gottheimer",
+            "screen_name": "RepJoshG"
+        }
+    ]
+}

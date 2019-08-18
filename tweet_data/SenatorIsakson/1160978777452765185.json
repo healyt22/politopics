@@ -1,0 +1,117 @@
+{
+    "created_at": "Mon Aug 12 18:18:05 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [],
+    "id": 1160978777452765185,
+    "id_str": "1160978777452765185",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Aug 12 13:40:06 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "DYK"
+            }
+        ],
+        "id": 1160908823252672513,
+        "id_str": "1160908823252672513",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "It's a celebration! \u2b50\u2b50\u2b50 @AmeriCorps is celebrating 25 years of service! #DYK our agency houses the Georgia Commissi\u2026 https://t.co/3IvnhYrJF8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1160908823252672513",
+                "url": "https://t.co/3IvnhYrJF8"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 03 13:46:32 +0000 2011",
+            "description": "The Georgia Department of Community Affairs: Helping to build strong, vibrant communities.",
+            "favourites_count": 692,
+            "followers_count": 3673,
+            "friends_count": 697,
+            "geo_enabled": true,
+            "id": 310278353,
+            "id_str": "310278353",
+            "listed_count": 82,
+            "location": "Georgia",
+            "name": "Georgia DCA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/310278353/1563987005",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/981275526798036992/dljCupId_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/981275526798036992/dljCupId_normal.jpg",
+            "profile_link_color": "94D487",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "GA_DCA",
+            "statuses_count": 1585,
+            "url": "https://t.co/0sJfDEFiBJ"
+        },
+        "user_mentions": [
+            {
+                "id": 17967675,
+                "id_str": "17967675",
+                "name": "AmeriCorps",
+                "screen_name": "AmeriCorps"
+            }
+        ]
+    },
+    "quoted_status_id": 1160908823252672513,
+    "quoted_status_id_str": "1160908823252672513",
+    "retweet_count": 9,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Thanks to @AmeriCorps and @GA_DCA for the many ways you help Georgians. https://t.co/UW0xL5sroX",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/GA_DCA/status/1160908823252672513",
+            "url": "https://t.co/UW0xL5sroX"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 29 20:09:30 +0000 2009",
+        "description": "U.S. Senator Johnny Isakson, R-Ga. | Committees: Veterans' Affairs, Chairman; Ethics, Chairman; Foreign Relations; HELP; Finance.\nKeep comments family friendly.",
+        "favourites_count": 819,
+        "followers_count": 66373,
+        "friends_count": 456,
+        "geo_enabled": true,
+        "id": 78403308,
+        "id_str": "78403308",
+        "listed_count": 2132,
+        "location": "GA & DC",
+        "name": "Johnny Isakson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78403308/1488812068",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorIsakson",
+        "statuses_count": 6318,
+        "url": "http://t.co/n3mMYfmg5C",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17967675,
+            "id_str": "17967675",
+            "name": "AmeriCorps",
+            "screen_name": "AmeriCorps"
+        },
+        {
+            "id": 310278353,
+            "id_str": "310278353",
+            "name": "Georgia DCA",
+            "screen_name": "GA_DCA"
+        }
+    ]
+}

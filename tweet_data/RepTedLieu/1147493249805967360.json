@@ -1,0 +1,127 @@
+{
+    "created_at": "Sat Jul 06 13:11:24 +0000 2019",
+    "hashtags": [],
+    "id": 1147493249805967360,
+    "id_str": "1147493249805967360",
+    "lang": "en",
+    "retweet_count": 708,
+    "retweeted_status": {
+        "created_at": "Sat Jul 06 07:18:42 +0000 2019",
+        "favorite_count": 879,
+        "hashtags": [],
+        "id": 1147404488380014592,
+        "id_str": "1147404488380014592",
+        "lang": "en",
+        "place": {
+            "id": "ab2f2fac83aa388d",
+            "url": "https://api.twitter.com/1.1/geo/id/ab2f2fac83aa388d.json",
+            "place_type": "city",
+            "name": "Oakland",
+            "full_name": "Oakland, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.34266,
+                            37.699279
+                        ],
+                        [
+                            -122.114711,
+                            37.699279
+                        ],
+                        [
+                            -122.114711,
+                            37.8847092
+                        ],
+                        [
+                            -122.34266,
+                            37.8847092
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 708,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Aftershocks will continue. \n\ud83d\udecc  If in bed, stay there &amp; cover your head &amp; neck with a pillow.\n\ud83d\ude97  If in a vehicle, st\u2026 https://t.co/Aq28jzhFG5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1147404488380014592",
+                "url": "https://t.co/Aq28jzhFG5"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 30 20:34:59 +0000 2008",
+            "description": "We serve AZ, CA, HI, NV, and the Pacific Islands providing FEMA mission-related information.\n\nFor emergencies, call your local fire, EMS, police, or 9-1-1.\n\n^^^",
+            "favourites_count": 3139,
+            "followers_count": 81575,
+            "friends_count": 692,
+            "geo_enabled": true,
+            "id": 18487522,
+            "id_str": "18487522",
+            "listed_count": 1266,
+            "location": "San Francisco Bay Area",
+            "name": "FEMA Region 9",
+            "profile_background_color": "696969",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18487522/1564155357",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1154778654490136576/4Z9qsnm3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154778654490136576/4Z9qsnm3_normal.jpg",
+            "profile_link_color": "0009FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CCCCCC",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "FEMARegion9",
+            "statuses_count": 7785,
+            "url": "https://t.co/mPPmoMBdWT",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @femaregion9: Aftershocks will continue. \n\ud83d\udecc  If in bed, stay there &amp; cover your head &amp; neck with a pillow.\n\ud83d\ude97  If in a vehicle, stop in a\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 19 20:08:54 +0000 2015",
+        "description": "Official Twitter account for the Office of Rep @TedLieu, serving #CA33 in the U.S. House of Representatives \u2022 https://t.co/cSZYg2t9ap \u2022 https://t.co/oA7bA0mWrM",
+        "favourites_count": 634,
+        "followers_count": 147554,
+        "friends_count": 5266,
+        "geo_enabled": true,
+        "id": 3044993235,
+        "id_str": "3044993235",
+        "listed_count": 1441,
+        "location": "Los Angeles, CA & Washington, DC",
+        "name": "Rep. Ted Lieu",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3044993235/1547755096",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978664130457423880/3R-vL8Xp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978664130457423880/3R-vL8Xp_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepTedLieu",
+        "statuses_count": 4998,
+        "url": "https://t.co/gVv4Qfdiiu",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18487522,
+            "id_str": "18487522",
+            "name": "FEMA Region 9",
+            "screen_name": "FEMARegion9"
+        }
+    ]
+}

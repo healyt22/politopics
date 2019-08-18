@@ -1,0 +1,118 @@
+{
+    "created_at": "Wed May 22 14:19:12 +0000 2019",
+    "hashtags": [],
+    "id": 1131202855455600640,
+    "id_str": "1131202855455600640",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Wed May 22 13:50:19 +0000 2019",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 1131195588886913024,
+        "id_str": "1131195588886913024",
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "LIVE: Watch now as @VetAffairsDems/@HouseVetAffairs host a joint hearing on the implementation of the VA MISSION Ac\u2026 https://t.co/3Sp5qAiC61",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131195588886913024",
+                "url": "https://t.co/3Sp5qAiC61"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Oct 19 18:17:03 +0000 2012",
+            "description": "Empowering, supporting, and honoring military and veteran caregivers, our nation\u2019s #hiddenheroes.",
+            "favourites_count": 8619,
+            "followers_count": 33075,
+            "friends_count": 28030,
+            "geo_enabled": true,
+            "id": 891532531,
+            "id_str": "891532531",
+            "listed_count": 246,
+            "location": "Washington, DC",
+            "name": "Elizabeth Dole Foundation",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/891532531/1548260392",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/778970550312001536/xwHXdvED_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/778970550312001536/xwHXdvED_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DoleFoundation",
+            "statuses_count": 8687,
+            "url": "https://t.co/3sY2lSZ4to",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 151519500,
+                "id_str": "151519500",
+                "name": "House Veterans' Affairs",
+                "screen_name": "VetAffairsDems"
+            },
+            {
+                "id": 282093902,
+                "id_str": "282093902",
+                "name": "HouseVetAffairsGOP",
+                "screen_name": "HouseVetAffairs"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @DoleFoundation: LIVE: Watch now as @VetAffairsDems/@HouseVetAffairs host a joint hearing on the implementation of the VA MISSION Act, a\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Mar 05 14:51:28 +0000 2013",
+        "default_profile": true,
+        "description": "Serving #CA26 & fighting for Ventura County. Chairwoman of @VetAffairsDems Health Subcommittee & #WomenVetsTaskForce. Member of @TransportDems & @ClimateCrisis.",
+        "followers_count": 16691,
+        "friends_count": 1031,
+        "id": 1243902714,
+        "id_str": "1243902714",
+        "listed_count": 817,
+        "location": "Ventura County & Washington, DC",
+        "name": "Congresswoman Julia Brownley",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243902714/1556889431",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096422273437831168/b9lioe1R_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096422273437831168/b9lioe1R_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBrownley",
+        "statuses_count": 4776,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 891532531,
+            "id_str": "891532531",
+            "name": "Elizabeth Dole Foundation",
+            "screen_name": "DoleFoundation"
+        },
+        {
+            "id": 151519500,
+            "id_str": "151519500",
+            "name": "House Veterans' Affairs",
+            "screen_name": "VetAffairsDems"
+        },
+        {
+            "id": 282093902,
+            "id_str": "282093902",
+            "name": "HouseVetAffairsGOP",
+            "screen_name": "HouseVetAffairs"
+        }
+    ]
+}

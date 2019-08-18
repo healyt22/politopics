@@ -1,0 +1,89 @@
+{
+    "created_at": "Thu Feb 18 18:23:08 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 700385072864759809,
+    "id_str": "700385072864759809",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Pm2oXWqDBY",
+            "expanded_url": "https://twitter.com/Rep_DevinNunes/status/700385072864759809/photo/1",
+            "id": 700385072625618944,
+            "media_url": "http://pbs.twimg.com/media/CbhEg0PWEAAFUVh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CbhEg0PWEAAFUVh.jpg",
+            "sizes": {
+                "small": {
+                    "w": 179,
+                    "h": 206,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 179,
+                    "h": 206,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 179,
+                    "h": 206,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Pm2oXWqDBY"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Discussing national security w/ @RayAppletonKMJ on @kmjnow today at 1 pm PST. Listen live: https://t.co/QnpDpaYH2D https://t.co/Pm2oXWqDBY",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/Yu6Hq",
+            "url": "https://t.co/QnpDpaYH2D"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 29 21:40:22 +0000 2011",
+        "default_profile": true,
+        "followers_count": 34272,
+        "friends_count": 15,
+        "id": 344972339,
+        "id_str": "344972339",
+        "listed_count": 488,
+        "location": "Washington, DC",
+        "name": "Rep. Devin Nunes",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344972339/1353428355",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDevinNunes",
+        "statuses_count": 169,
+        "url": "http://t.co/qslO3rsq"
+    },
+    "user_mentions": [
+        {
+            "id": 2419701992,
+            "id_str": "2419701992",
+            "name": "Ray Appleton",
+            "screen_name": "RayAppletonKMJ"
+        },
+        {
+            "id": 40051702,
+            "id_str": "40051702",
+            "name": "KMJNOW",
+            "screen_name": "KMJNOW"
+        }
+    ]
+}

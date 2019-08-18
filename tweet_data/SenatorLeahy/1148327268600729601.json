@@ -1,0 +1,116 @@
+{
+    "created_at": "Mon Jul 08 20:25:30 +0000 2019",
+    "hashtags": [],
+    "id": 1148327268600729601,
+    "id_str": "1148327268600729601",
+    "lang": "en",
+    "retweet_count": 2141,
+    "retweeted_status": {
+        "created_at": "Mon Jul 08 20:18:04 +0000 2019",
+        "favorite_count": 5132,
+        "hashtags": [],
+        "id": 1148325397593038856,
+        "id_str": "1148325397593038856",
+        "lang": "en",
+        "retweet_count": 2141,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "NEW: We are formally requesting @USGAO investigate costs of @POTUS\u2019 4th of July event &amp; whether it broke laws that\u2026 https://t.co/0nlpCwPdQF",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148325397593038856",
+                "url": "https://t.co/0nlpCwPdQF"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 28 06:10:29 +0000 2009",
+            "description": "United States Senator from New Mexico.",
+            "favourites_count": 27,
+            "followers_count": 168891,
+            "friends_count": 339,
+            "id": 60828944,
+            "id_str": "60828944",
+            "listed_count": 2361,
+            "location": "Santa Fe and Washington",
+            "name": "Tom Udall",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/60828944/1447107599",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/847475846944182272/HKMEaecM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/847475846944182272/HKMEaecM_normal.jpg",
+            "profile_link_color": "FF4E3E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "BDDEDE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "SenatorTomUdall",
+            "statuses_count": 6576,
+            "url": "http://t.co/ETWpVFzOcZ",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 34274380,
+                "id_str": "34274380",
+                "name": "U.S. GAO",
+                "screen_name": "USGAO"
+            },
+            {
+                "id": 822215679726100480,
+                "id_str": "822215679726100480",
+                "name": "President Trump",
+                "screen_name": "POTUS"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @SenatorTomUdall: NEW: We are formally requesting @USGAO investigate costs of @POTUS\u2019 4th of July event &amp; whether it broke laws that pro\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 25 18:20:07 +0000 2011",
+        "favourites_count": 121,
+        "followers_count": 189366,
+        "friends_count": 2595,
+        "id": 242836537,
+        "id_str": "242836537",
+        "listed_count": 3032,
+        "location": "Washington, DC",
+        "name": "Sen. Patrick Leahy",
+        "profile_background_color": "4D7830",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242836537/1358287469",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/921434597900128256/rcREOAwv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/921434597900128256/rcREOAwv_normal.jpg",
+        "profile_link_color": "9E410B",
+        "profile_sidebar_border_color": "9E410B",
+        "profile_sidebar_fill_color": "F7F8E9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorLeahy",
+        "statuses_count": 15387,
+        "url": "http://t.co/yrKgLVIocD",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 60828944,
+            "id_str": "60828944",
+            "name": "Tom Udall",
+            "screen_name": "SenatorTomUdall"
+        },
+        {
+            "id": 34274380,
+            "id_str": "34274380",
+            "name": "U.S. GAO",
+            "screen_name": "USGAO"
+        },
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        }
+    ]
+}

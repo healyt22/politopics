@@ -1,0 +1,116 @@
+{
+    "created_at": "Tue Mar 12 22:18:34 +0000 2019",
+    "favorite_count": 73,
+    "hashtags": [
+        {
+            "text": "HR6"
+        },
+        {
+            "text": "ProtectTheDream"
+        }
+    ],
+    "id": 1105593955872329729,
+    "id_str": "1105593955872329729",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/DpRCe1dyCe",
+            "expanded_url": "https://twitter.com/RepPeteAguilar/status/1105593955872329729/video/1",
+            "id": 1105593904324378626,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1105593904324378626/pu/img/rBbIpbQEA4xzVE7y.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1105593904324378626/pu/img/rBbIpbQEA4xzVE7y.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/DpRCe1dyCe",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 10767,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1105593904324378626/pu/vid/360x640/DOvo4JTUOIjYesbr.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1105593904324378626/pu/vid/720x1280/On6_BFNltXSkRsa5.mp4?tag=8"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1105593904324378626/pu/pl/rMPAkWCRDKaKtS15.m3u8?tag=8"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1105593904324378626/pu/vid/320x568/V3BFxoJhPGTghRrI.mp4?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 27,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Proud to join my @HouseDemocrats colleagues in introducing #HR6. It\u2019s time to #ProtectTheDream https://t.co/DpRCe1dyCe",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 04 21:01:23 +0000 2015",
+        "default_profile": true,
+        "description": "Pete Aguilar represents CA\u2019s 31st Congressional District. A former mayor, Rep. Aguilar is committed to strengthening the Inland Empire\u2019s middle class.",
+        "favourites_count": 3,
+        "followers_count": 12488,
+        "friends_count": 326,
+        "id": 3018670151,
+        "id_str": "3018670151",
+        "listed_count": 571,
+        "location": "San Bernardino, CA",
+        "name": "Rep. Pete Aguilar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018670151/1522169391",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978674008735584256/vlRYXhmR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978674008735584256/vlRYXhmR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPeteAguilar",
+        "statuses_count": 1678,
+        "url": "http://t.co/o4deRoUnuK",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43963249,
+            "id_str": "43963249",
+            "name": "House Democrats",
+            "screen_name": "HouseDemocrats"
+        }
+    ]
+}

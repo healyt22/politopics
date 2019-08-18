@@ -1,0 +1,165 @@
+{
+    "created_at": "Wed May 29 21:40:25 +0000 2019",
+    "favorite_count": 19,
+    "hashtags": [],
+    "id": 1133850606177857536,
+    "id_str": "1133850606177857536",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed May 29 14:26:17 +0000 2019",
+        "favorite_count": 24,
+        "hashtags": [],
+        "id": 1133741356734660609,
+        "id_str": "1133741356734660609",
+        "lang": "en",
+        "place": {
+            "id": "27fbd5412c269208",
+            "url": "https://api.twitter.com/1.1/geo/id/27fbd5412c269208.json",
+            "place_type": "city",
+            "name": "Huntersville",
+            "full_name": "Huntersville, NC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.957062,
+                            35.366148
+                        ],
+                        [
+                            -80.8108998,
+                            35.366148
+                        ],
+                        [
+                            -80.8108998,
+                            35.454554
+                        ],
+                        [
+                            -80.957062,
+                            35.454554
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thrilled to welcome @JohnAneralla, @NCCommerce, @Martin_Dahinden from @SwissEmbassyUSA and @MeckCounty here today f\u2026 https://t.co/rwg9kX5pAP",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1133741356734660609",
+                "url": "https://t.co/rwg9kX5pAP"
+            }
+        ],
+        "user": {
+            "created_at": "Mon May 07 12:40:13 +0000 2012",
+            "description": "Global industrial company with operations at 175 sites in 37 countries, with more than 10 500 employees. Oerlikon engineers materials, equipment and surfaces.",
+            "favourites_count": 390,
+            "followers_count": 1927,
+            "friends_count": 824,
+            "geo_enabled": true,
+            "id": 573686640,
+            "id_str": "573686640",
+            "listed_count": 84,
+            "location": "Freienbach, Schweiz",
+            "name": "Oerlikon Group",
+            "profile_background_color": "EB0000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/573686640/1533016449",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000190719226/b77e55769d8dad9e6ea8d8c41c7c27bf_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000190719226/b77e55769d8dad9e6ea8d8c41c7c27bf_normal.png",
+            "profile_link_color": "EB0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "OerlikonGroup",
+            "statuses_count": 915,
+            "url": "https://t.co/8WFXGkPyvb"
+        },
+        "user_mentions": [
+            {
+                "id": 486885642,
+                "id_str": "486885642",
+                "name": "John Aneralla",
+                "screen_name": "JohnAneralla"
+            },
+            {
+                "id": 23119695,
+                "id_str": "23119695",
+                "name": "N.C. Commerce",
+                "screen_name": "NCCommerce"
+            },
+            {
+                "id": 248119592,
+                "id_str": "248119592",
+                "name": "Martin Dahinden",
+                "screen_name": "Martin_Dahinden"
+            },
+            {
+                "id": 2518492394,
+                "id_str": "2518492394",
+                "name": "Swiss Embassy",
+                "screen_name": "SwissEmbassyUSA"
+            },
+            {
+                "id": 20164131,
+                "id_str": "20164131",
+                "name": "Mecklenburg County",
+                "screen_name": "MeckCounty"
+            }
+        ]
+    },
+    "quoted_status_id": 1133741356734660609,
+    "quoted_status_id_str": "1133741356734660609",
+    "retweet_count": 5,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Congratulations @OerlikonGroup, glad to see you expand your presence and create jobs in North Carolina. https://t.co/j12RLTz34S",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/OerlikonGroup/status/1133741356734660609",
+            "url": "https://t.co/j12RLTz34S"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 06 14:22:18 +0000 2015",
+        "description": "Official Twitter account of North Carolina U.S. Senator Thom Tillis.",
+        "favourites_count": 1409,
+        "followers_count": 82026,
+        "friends_count": 4638,
+        "geo_enabled": true,
+        "id": 2964174789,
+        "id_str": "2964174789",
+        "listed_count": 1643,
+        "location": "North Carolina, USA",
+        "name": "Senator Thom Tillis",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964174789/1556910350",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1113102311566594048/TE6vxjHC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113102311566594048/TE6vxjHC_normal.png",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenThomTillis",
+        "statuses_count": 4364,
+        "url": "https://t.co/mLVkKiULqh",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 573686640,
+            "id_str": "573686640",
+            "name": "Oerlikon Group",
+            "screen_name": "OerlikonGroup"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "created_at": "Sun May 26 22:59:50 +0000 2019",
+    "favorite_count": 45,
+    "hashtags": [
+        {
+            "text": "GoHornets"
+        }
+    ],
+    "id": 1132783430138077184,
+    "id_str": "1132783430138077184",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun May 26 22:24:36 +0000 2019",
+        "favorite_count": 104,
+        "hashtags": [
+            {
+                "text": "WACbsb"
+            }
+        ],
+        "id": 1132774561789882370,
+        "id_str": "1132774561789882370",
+        "lang": "en",
+        "retweet_count": 27,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "#WACbsb: @SacStBaseball wins sixth straight elimination game with 5-4 win over @GCU_Lopes to win 2019 WAC Baseball\u2026 https://t.co/jkMjcl7IVg",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1132774561789882370",
+                "url": "https://t.co/jkMjcl7IVg"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Apr 14 21:05:41 +0000 2009",
+            "description": "Official Twitter account for the Western Athletic Conference, proudly representing nine institutions.",
+            "favourites_count": 39439,
+            "followers_count": 12702,
+            "friends_count": 262,
+            "geo_enabled": true,
+            "id": 31225986,
+            "id_str": "31225986",
+            "listed_count": 244,
+            "location": "Englewood, CO",
+            "name": "The Western Athletic Conference",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/31225986/1562101069",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/483839945971216384/RHWA-pzS_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/483839945971216384/RHWA-pzS_normal.jpeg",
+            "profile_link_color": "751110",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "989E94",
+            "profile_text_color": "0A0500",
+            "profile_use_background_image": true,
+            "screen_name": "WACsports",
+            "statuses_count": 33951,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 345764404,
+                "id_str": "345764404",
+                "name": "Sac State Baseball",
+                "screen_name": "SacStBaseball"
+            },
+            {
+                "id": 102104831,
+                "id_str": "102104831",
+                "name": "GCU Lopes",
+                "screen_name": "GCU_Lopes"
+            }
+        ]
+    },
+    "quoted_status_id": 1132774561789882370,
+    "quoted_status_id_str": "1132774561789882370",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Congratulations @SacStBaseball! \n#GoHornets https://t.co/QvuBBFZrdF",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/WACsports/status/1132774561789882370",
+            "url": "https://t.co/QvuBBFZrdF"
+        }
+    ],
+    "user": {
+        "created_at": "Wed May 06 19:20:50 +0000 2009",
+        "description": "Representing California's 6th Congressional District. Member of the @EnergyCommerce Committee.",
+        "favourites_count": 271,
+        "followers_count": 36068,
+        "friends_count": 9186,
+        "geo_enabled": true,
+        "id": 38254095,
+        "id_str": "38254095",
+        "listed_count": 1124,
+        "location": "Sacramento, CA",
+        "name": "Rep. Doris Matsui",
+        "profile_background_color": "D4CCE8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38254095/1559062275",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E4EAED",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "DorisMatsui",
+        "statuses_count": 3407,
+        "url": "http://t.co/dt820eUUHc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 345764404,
+            "id_str": "345764404",
+            "name": "Sac State Baseball",
+            "screen_name": "SacStBaseball"
+        }
+    ]
+}

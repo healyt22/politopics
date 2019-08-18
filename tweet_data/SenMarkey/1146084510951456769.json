@@ -1,0 +1,150 @@
+{
+    "created_at": "Tue Jul 02 15:53:35 +0000 2019",
+    "favorite_count": 87,
+    "hashtags": [],
+    "id": 1146084510951456769,
+    "id_str": "1146084510951456769",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 02 12:37:09 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "ClimateDebate"
+            }
+        ],
+        "id": 1146035076611923970,
+        "id_str": "1146035076611923970",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@DNC will consider holding a #ClimateDebate amid protests, via @dino_grandoni w @paulina_milla https://t.co/RgTtBpMm8x",
+        "urls": [
+            {
+                "expanded_url": "https://www.washingtonpost.com/news/powerpost/paloma/the-energy-202/2019/07/02/the-energy-202-dnc-will-consider-holding-a-climate-debate-amid-protests/5d1a21eda7a0a47d87c56f7c/?tid=ss_tw&utm_term=.709ba72135b6",
+                "url": "https://t.co/RgTtBpMm8x"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 11 15:07:30 +0000 2015",
+            "description": "News about Washington decision-makers and home to The Daily 202 morning brief: http://t.co/e7jTt0ywUj.",
+            "favourites_count": 18383,
+            "followers_count": 9893,
+            "friends_count": 6375,
+            "geo_enabled": true,
+            "id": 3086975121,
+            "id_str": "3086975121",
+            "listed_count": 519,
+            "location": "Washington, DC",
+            "name": "PowerPost",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3086975121/1433927989",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/608597732974940161/5eoLKD3g_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/608597732974940161/5eoLKD3g_normal.png",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "PowerPost",
+            "statuses_count": 34624,
+            "url": "http://t.co/6HQRfCqs5L",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 722793491059769344,
+                "id_str": "722793491059769344",
+                "name": "Democratic Party",
+                "screen_name": "DNC"
+            },
+            {
+                "id": 82066670,
+                "id_str": "82066670",
+                "name": "Dino Grandoni",
+                "screen_name": "dino_grandoni"
+            },
+            {
+                "id": 49398113,
+                "id_str": "49398113",
+                "name": "Paulina Milla Firozi",
+                "screen_name": "paulina_milla"
+            }
+        ]
+    },
+    "quoted_status_id": 1146035076611923970,
+    "quoted_status_id_str": "1146035076611923970",
+    "retweet_count": 24,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Climate change is a winning issue for Democrats in 2020. The contrast with climate change denier-in-chief Donald Tr\u2026 https://t.co/YzJhGT3KcQ",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1146084510951456769",
+            "url": "https://t.co/YzJhGT3KcQ"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Feb 20 15:49:29 +0000 2009",
+        "description": "Official account for Senator Edward J. Markey. National leader on energy, environment, climate, telecom. Voice for consumer protection. https://t.co/nfYWzVp6R8",
+        "favourites_count": 332,
+        "followers_count": 159075,
+        "friends_count": 1373,
+        "geo_enabled": true,
+        "id": 21406834,
+        "id_str": "21406834",
+        "listed_count": 3318,
+        "location": "MA",
+        "name": "Ed Markey",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21406834/1549578517",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+        "profile_link_color": "062232",
+        "profile_sidebar_border_color": "F55600",
+        "profile_sidebar_fill_color": "B8FDB5",
+        "profile_text_color": "333333",
+        "screen_name": "SenMarkey",
+        "statuses_count": 14503,
+        "url": "https://t.co/PvCpESuHno",
+        "verified": true
+    },
+    "user_mentions": []
+}

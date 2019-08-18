@@ -1,0 +1,107 @@
+{
+    "created_at": "Tue Apr 02 18:20:32 +0000 2019",
+    "favorite_count": 45,
+    "hashtags": [
+        {
+            "text": "ENDALZ"
+        }
+    ],
+    "id": 1113144195810779136,
+    "id_str": "1113144195810779136",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 02 17:07:12 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1113125743645655040,
+        "id_str": "1113125743645655040",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you to \u2066@BobbyScott\u2069 for meeting with young advocate and volunteer ambassador, Frankie Garner and \u2066\u2026 https://t.co/beRNKV74Xe",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1113125743645655040",
+                "url": "https://t.co/beRNKV74Xe"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 14 18:40:48 +0000 2019",
+            "default_profile": true,
+            "description": "Executive Director of Alzheimer\u2019s Association Southeastern Virginia Chapter.                                      Views are my own.",
+            "favourites_count": 5,
+            "followers_count": 10,
+            "friends_count": 6,
+            "id": 1106263926516445185,
+            "id_str": "1106263926516445185",
+            "location": "Norfolk, VA",
+            "name": "Gino Colombara",
+            "profile_background_color": "F5F8FA",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1106269962862252034/pFobGoz0_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106269962862252034/pFobGoz0_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ColombaraGino",
+            "statuses_count": 9
+        },
+        "user_mentions": [
+            {
+                "id": 161791703,
+                "id_str": "161791703",
+                "name": "Rep. Bobby Scott",
+                "screen_name": "BobbyScott"
+            }
+        ]
+    },
+    "quoted_status_id": 1113125743645655040,
+    "quoted_status_id_str": "1113125743645655040",
+    "retweet_count": 13,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "It was great to meet with both of you. We must continue our fight against Alzheimer's. @alzassociation #ENDALZ https://t.co/cRnsYM2dEM",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/ColombaraGino/status/1113125743645655040",
+            "url": "https://t.co/cRnsYM2dEM"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 01 19:57:00 +0000 2010",
+        "description": "Proudly representing Virginia's 3rd Congressional District. Chairman, Committee on Education and Labor @EdLaborCmte.",
+        "favourites_count": 1031,
+        "followers_count": 34172,
+        "friends_count": 2971,
+        "geo_enabled": true,
+        "id": 161791703,
+        "id_str": "161791703",
+        "listed_count": 1172,
+        "location": "Newport News, VA",
+        "name": "Rep. Bobby Scott",
+        "profile_background_color": "244055",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/161791703/1504616852",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741365169926905856/NjQFTLYl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741365169926905856/NjQFTLYl_normal.jpg",
+        "profile_link_color": "575757",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D3D3E0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "BobbyScott",
+        "statuses_count": 5825,
+        "url": "https://t.co/gWMFDglGRu",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21121491,
+            "id_str": "21121491",
+            "name": "Alzheimer's Assoc.",
+            "screen_name": "alzassociation"
+        }
+    ]
+}

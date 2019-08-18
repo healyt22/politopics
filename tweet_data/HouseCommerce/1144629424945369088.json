@@ -1,0 +1,100 @@
+{
+    "created_at": "Fri Jun 28 15:31:35 +0000 2019",
+    "hashtags": [],
+    "id": 1144629424945369088,
+    "id_str": "1144629424945369088",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Wed Jun 26 14:49:27 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1143894043526668292,
+        "id_str": "1143894043526668292",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I\u2019m proud to work with my colleagues on both sides of the aisle to fight the opioid epidemic. Thank you\u2026 https://t.co/NVyZKWwC46",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143894043526668292",
+                "url": "https://t.co/NVyZKWwC46"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 12 00:33:43 +0000 2015",
+            "default_profile": true,
+            "description": "Proudly serving Georgia's 1st Congressional District",
+            "favourites_count": 120,
+            "followers_count": 19961,
+            "friends_count": 286,
+            "geo_enabled": true,
+            "id": 2973870195,
+            "id_str": "2973870195",
+            "listed_count": 476,
+            "name": "Buddy Carter",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2973870195/1506088879",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/554437784912400384/N6PPUUz2_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/554437784912400384/N6PPUUz2_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepBuddyCarter",
+            "statuses_count": 1866,
+            "url": "https://t.co/zGq0mX8dEy",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RepBuddyCarter: I\u2019m proud to work with my colleagues on both sides of the aisle to fight the opioid epidemic. Thank you @repdavidtrone\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Feb 16 14:18:06 +0000 2010",
+        "description": "House Energy & Commerce Committee Republicans | Republican Leader @repgregwalden",
+        "favourites_count": 426,
+        "followers_count": 31292,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 114756202,
+        "id_str": "114756202",
+        "listed_count": 1305,
+        "location": "Washington, D.C.",
+        "name": "Energy & Commerce GOP",
+        "profile_background_color": "050000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114756202/1504288315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+        "profile_link_color": "A79777",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C7C5C5",
+        "profile_text_color": "28539E",
+        "profile_use_background_image": true,
+        "screen_name": "HouseCommerce",
+        "statuses_count": 14420,
+        "url": "https://t.co/N1b9OueDJW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2973870195,
+            "id_str": "2973870195",
+            "name": "Buddy Carter",
+            "screen_name": "RepBuddyCarter"
+        },
+        {
+            "id": 1080573351914061825,
+            "id_str": "1080573351914061825",
+            "name": "Rep. David Trone",
+            "screen_name": "RepDavidTrone"
+        }
+    ]
+}

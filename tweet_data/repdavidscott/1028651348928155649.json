@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun Aug 12 14:36:07 +0000 2018",
+    "hashtags": [],
+    "id": 1028651348928155649,
+    "id_str": "1028651348928155649",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/uFXGIuPTj3",
+            "expanded_url": "https://twitter.com/namigeorgia/status/1028314218871877632/photo/1",
+            "id": 1028314210344681472,
+            "media_url": "http://pbs.twimg.com/media/DkVOU3kUwAAW9CX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DkVOU3kUwAAW9CX.jpg",
+            "sizes": {
+                "large": {
+                    "w": 640,
+                    "h": 480,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 480,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 480,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/uFXGIuPTj3"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sat Aug 11 16:16:29 +0000 2018",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1028314218871877632,
+        "id_str": "1028314218871877632",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/uFXGIuPTj3",
+                "expanded_url": "https://twitter.com/namigeorgia/status/1028314218871877632/photo/1",
+                "id": 1028314210344681472,
+                "media_url": "http://pbs.twimg.com/media/DkVOU3kUwAAW9CX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DkVOU3kUwAAW9CX.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/uFXGIuPTj3"
+            }
+        ],
+        "place": {
+            "id": "8173485c72e78ca5",
+            "url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+            "place_type": "city",
+            "name": "Atlanta",
+            "full_name": "Atlanta, GA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.576827,
+                            33.6475029
+                        ],
+                        [
+                            -84.289385,
+                            33.6475029
+                        ],
+                        [
+                            -84.289385,
+                            33.8868859
+                        ],
+                        [
+                            -84.576827,
+                            33.8868859
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Jennifer Ayers-Moore of NAMI Georgia speaking with @repdavidscott at his Health Fair today. https://t.co/uFXGIuPTj3",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jul 27 21:02:58 +0000 2010",
+            "default_profile": true,
+            "description": "Find Help, Find Hope! #NAMIGeorgia is your statewide resource for mental health support, education and advocacy. Call our HelpLine today! \ud83d\udcde: 770-408-0625",
+            "favourites_count": 2579,
+            "followers_count": 1805,
+            "friends_count": 3382,
+            "geo_enabled": true,
+            "id": 171647698,
+            "id_str": "171647698",
+            "listed_count": 37,
+            "location": "Atlanta, GA",
+            "name": "NAMI Georgia",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/171647698/1557834465",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1052912177437265921/MTh6Yf1W_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052912177437265921/MTh6Yf1W_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "namigeorgia",
+            "statuses_count": 3824,
+            "url": "https://t.co/BPghiEtrJK"
+        },
+        "user_mentions": [
+            {
+                "id": 168673083,
+                "id_str": "168673083",
+                "name": "David Scott",
+                "screen_name": "repdavidscott"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @namigeorgia: Jennifer Ayers-Moore of NAMI Georgia speaking with @repdavidscott at his Health Fair today. https://t.co/uFXGIuPTj3",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 20 14:10:32 +0000 2010",
+        "description": "Representing Georgia's 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+        "favourites_count": 2673,
+        "followers_count": 21046,
+        "friends_count": 1874,
+        "id": 168673083,
+        "id_str": "168673083",
+        "listed_count": 844,
+        "location": "Georgia",
+        "name": "David Scott",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168673083/1425489882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "repdavidscott",
+        "statuses_count": 2861,
+        "url": "http://t.co/86ovd85h30",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 171647698,
+            "id_str": "171647698",
+            "name": "NAMI Georgia",
+            "screen_name": "namigeorgia"
+        },
+        {
+            "id": 168673083,
+            "id_str": "168673083",
+            "name": "David Scott",
+            "screen_name": "repdavidscott"
+        }
+    ]
+}

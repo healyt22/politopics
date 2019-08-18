@@ -1,0 +1,100 @@
+{
+    "created_at": "Wed Jul 24 19:35:00 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [],
+    "id": 1154112765256056832,
+    "id_str": "1154112765256056832",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/oEb4oAFe9a",
+            "expanded_url": "https://twitter.com/RepRoKhanna/status/1154112765256056832/video/1",
+            "id": 1154065611284254721,
+            "media_url": "http://pbs.twimg.com/media/EAQRLJCXsAAFOEE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAQRLJCXsAAFOEE.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/oEb4oAFe9a",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 201568,
+                "variants": [
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154065611284254721/vid/480x270/xZbHtQNxIxyaBqDS.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1154065611284254721/pl/05qBb3ek89h8ofmp.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154065611284254721/vid/1280x720/_a5uSIlYnIQZ3pDP.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154065611284254721/vid/640x360/cIjxiVkly5gtlJZ2.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Admiral Tilley calls for adding two zeroes to ARPA-E budget if we care about national security. I agree! https://t.co/oEb4oAFe9a",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 03 15:03:23 +0000 2017",
+        "description": "Rep. Silicon Valley's #CA17. Working to create proposals for jobs in areas left behind & tax credits for working class. Restraint in foreign policy. No PAC $.",
+        "favourites_count": 1615,
+        "followers_count": 53498,
+        "friends_count": 913,
+        "id": 816298918468259841,
+        "id_str": "816298918468259841",
+        "listed_count": 753,
+        "location": "Silicon Valley, CA",
+        "name": "Rep. Ro Khanna",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816298918468259841/1559839646",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088808215448567808/SPhDCzvR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088808215448567808/SPhDCzvR_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRoKhanna",
+        "statuses_count": 7076,
+        "url": "https://t.co/zsSd8FqNef",
+        "verified": true
+    },
+    "user_mentions": []
+}

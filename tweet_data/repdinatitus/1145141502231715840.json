@@ -1,0 +1,86 @@
+{
+    "created_at": "Sun Jun 30 01:26:24 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [
+        {
+            "text": "TeamTitus"
+        }
+    ],
+    "id": 1145141502231715840,
+    "id_str": "1145141502231715840",
+    "lang": "en",
+    "place": {
+        "id": "0ec743539a156000",
+        "url": "https://api.twitter.com/1.1/geo/id/0ec743539a156000.json",
+        "place_type": "poi",
+        "name": "Shiraz",
+        "full_name": "Shiraz",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -115.2085,
+                        36.14313
+                    ],
+                    [
+                        -115.2085,
+                        36.14313
+                    ],
+                    [
+                        -115.2085,
+                        36.14313
+                    ],
+                    [
+                        -115.2085,
+                        36.14313
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Today #TeamTitus celebrated Festival of Cultures with the NV Peacemaker Lions Club. We appreciate the guest speaker\u2026 https://t.co/oOnEujV3Ux",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1145141502231715840",
+            "url": "https://t.co/oOnEujV3Ux"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+        "default_profile": true,
+        "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.",
+        "favourites_count": 5850,
+        "followers_count": 34691,
+        "friends_count": 1843,
+        "geo_enabled": true,
+        "id": 122174004,
+        "id_str": "122174004",
+        "listed_count": 971,
+        "location": "Las Vegas, NV",
+        "name": "Dina Titus",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repdinatitus",
+        "statuses_count": 11563,
+        "url": "https://t.co/2roqLuazqO",
+        "verified": true
+    },
+    "user_mentions": []
+}

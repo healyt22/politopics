@@ -1,0 +1,134 @@
+{
+    "created_at": "Fri May 17 13:24:49 +0000 2019",
+    "hashtags": [],
+    "id": 1129377229845204992,
+    "id_str": "1129377229845204992",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu May 16 19:07:01 +0000 2019",
+        "favorite_count": 28,
+        "hashtags": [],
+        "id": 1129100962637860865,
+        "id_str": "1129100962637860865",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "TY @SenCoryGardner for inviting @CUBoulder's Waleed Abdalati, director of @CIRESnews, to testify at today's\u2026 https://t.co/dz479ZjIRY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1129100962637860865",
+                "url": "https://t.co/dz479ZjIRY"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 22 19:23:33 +0000 2015",
+            "description": "The Office of Government Relations serves as a liaison between the university and federal officials, national organizations, and government entities.",
+            "favourites_count": 177,
+            "followers_count": 293,
+            "friends_count": 279,
+            "id": 2992490796,
+            "id_str": "2992490796",
+            "listed_count": 16,
+            "location": "Denver, CO",
+            "name": "CU Federal Relations",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2992490796/1423093441",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/563825002445684736/iT5krsxu_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/563825002445684736/iT5krsxu_normal.jpeg",
+            "profile_link_color": "FFCC4D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "CUFederal",
+            "statuses_count": 412,
+            "url": "https://t.co/53Si5T7aXI"
+        },
+        "user_mentions": [
+            {
+                "id": 235217558,
+                "id_str": "235217558",
+                "name": "Cory Gardner",
+                "screen_name": "SenCoryGardner"
+            },
+            {
+                "id": 741150194,
+                "id_str": "741150194",
+                "name": "CU Boulder",
+                "screen_name": "CUBoulder"
+            },
+            {
+                "id": 64786050,
+                "id_str": "64786050",
+                "name": "CIRES Communication",
+                "screen_name": "CIRESnews"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CUFederal: TY @SenCoryGardner for inviting @CUBoulder's Waleed Abdalati, director of @CIRESnews, to testify at today's @SenateCommerce\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 07 17:02:56 +0000 2011",
+        "description": "Proudly serving the state of Colorado in the United States Senate. This is my official Senate Twitter account.",
+        "favourites_count": 81,
+        "followers_count": 118181,
+        "friends_count": 273,
+        "geo_enabled": true,
+        "id": 235217558,
+        "id_str": "235217558",
+        "listed_count": 2098,
+        "location": "Colorado",
+        "name": "Cory Gardner",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/235217558/1456516556",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm_normal.jpeg",
+        "profile_link_color": "003CB3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCoryGardner",
+        "statuses_count": 4687,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2992490796,
+            "id_str": "2992490796",
+            "name": "CU Federal Relations",
+            "screen_name": "CUFederal"
+        },
+        {
+            "id": 235217558,
+            "id_str": "235217558",
+            "name": "Cory Gardner",
+            "screen_name": "SenCoryGardner"
+        },
+        {
+            "id": 741150194,
+            "id_str": "741150194",
+            "name": "CU Boulder",
+            "screen_name": "CUBoulder"
+        },
+        {
+            "id": 64786050,
+            "id_str": "64786050",
+            "name": "CIRES Communication",
+            "screen_name": "CIRESnews"
+        },
+        {
+            "id": 386092483,
+            "id_str": "386092483",
+            "name": "Senate Commerce",
+            "screen_name": "SenateCommerce"
+        }
+    ]
+}

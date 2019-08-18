@@ -1,0 +1,123 @@
+{
+    "created_at": "Thu Jun 06 20:26:27 +0000 2019",
+    "hashtags": [
+        {
+            "text": "ACA"
+        }
+    ],
+    "id": 1136731095179939842,
+    "id_str": "1136731095179939842",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Jun 06 17:20:00 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1136684173538856961,
+        "id_str": "1136684173538856961",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today we are also at a round table hosted by @ChrisMurphyCT at @HealthyNCHC about pre-existing conditions and the\u2026 https://t.co/M6iAxQBgWT",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1136684173538856961",
+                "url": "https://t.co/M6iAxQBgWT"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 27 15:29:32 +0000 2010",
+            "description": "We help CT's health centers provide primary medical, dental and behavioral health care to 1-in-9 CT residents! Check out our web site: https://t.co/Qxu8c7kdat!",
+            "favourites_count": 287,
+            "followers_count": 1764,
+            "friends_count": 1136,
+            "geo_enabled": true,
+            "id": 171532086,
+            "id_str": "171532086",
+            "listed_count": 56,
+            "location": "Cheshire, CT",
+            "name": "CHCACT",
+            "profile_background_color": "C1EFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/171532086/1448314870",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/486884998981505024/MuGsHkwE_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/486884998981505024/MuGsHkwE_normal.jpeg",
+            "profile_link_color": "EC7D24",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFE682",
+            "profile_text_color": "050005",
+            "profile_use_background_image": true,
+            "screen_name": "CTHealthCenters",
+            "statuses_count": 6128,
+            "url": "http://t.co/5i3bWvAC4I"
+        },
+        "user_mentions": [
+            {
+                "id": 150078976,
+                "id_str": "150078976",
+                "name": "Chris Murphy",
+                "screen_name": "ChrisMurphyCT"
+            },
+            {
+                "id": 790936033378443264,
+                "id_str": "790936033378443264",
+                "name": "Norwalk Comm. Health",
+                "screen_name": "HealthyNCHC"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @CTHealthCenters: Today we are also at a round table hosted by @ChrisMurphyCT at @HealthyNCHC about pre-existing conditions and the #ACA\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Apr 16 02:38:33 +0000 2009",
+        "default_profile": true,
+        "description": "Connecticut Congressman. Reader. Runner. Swimmer. Apiarist. And I make maple syrup.",
+        "favourites_count": 65,
+        "followers_count": 89521,
+        "friends_count": 373,
+        "id": 31611298,
+        "id_str": "31611298",
+        "listed_count": 1822,
+        "location": "CT and DC",
+        "name": "Jim Himes",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31611298/1560093413",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137739744664858624/OaqW_7KC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137739744664858624/OaqW_7KC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "jahimes",
+        "statuses_count": 10145,
+        "url": "https://t.co/bX3QkwNAXG",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 171532086,
+            "id_str": "171532086",
+            "name": "CHCACT",
+            "screen_name": "CTHealthCenters"
+        },
+        {
+            "id": 150078976,
+            "id_str": "150078976",
+            "name": "Chris Murphy",
+            "screen_name": "ChrisMurphyCT"
+        },
+        {
+            "id": 790936033378443264,
+            "id_str": "790936033378443264",
+            "name": "Norwalk Comm. Health",
+            "screen_name": "HealthyNCHC"
+        }
+    ]
+}

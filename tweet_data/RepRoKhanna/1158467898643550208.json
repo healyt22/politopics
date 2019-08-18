@@ -1,0 +1,129 @@
+{
+    "created_at": "Mon Aug 05 20:00:44 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [],
+    "id": 1158467898643550208,
+    "id_str": "1158467898643550208",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Aug 02 01:29:19 +0000 2019",
+        "favorite_count": 24,
+        "hashtags": [
+            {
+                "text": "DemDebate"
+            }
+        ],
+        "id": 1157101034965069824,
+        "id_str": "1157101034965069824",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "NOW: Political Breakdown on @KQED with guest @RepRoKhanna \n\nPlus @mlagos and I talk #DemDebate and California\u2019s new\u2026 https://t.co/uop5Zp1w7w",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1157101034965069824",
+                "url": "https://t.co/uop5Zp1w7w"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Oct 01 00:40:33 +0000 2011",
+            "description": "Politics & Gov Reporter/Producer for @KQEDnews. New York \u27a1\ufe0f @SantaClaraUniv Politics. Yankees. Dubs. Hip-hop.",
+            "favourites_count": 491,
+            "followers_count": 1739,
+            "friends_count": 690,
+            "geo_enabled": true,
+            "id": 382955987,
+            "id_str": "382955987",
+            "listed_count": 84,
+            "location": "Bay Area",
+            "name": "Guy Marzorati",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/382955987/1411523271",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1079912336792547328/LJMbUiUL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079912336792547328/LJMbUiUL_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GuyMarzorati",
+            "statuses_count": 14253,
+            "url": "https://t.co/puhuC6lBcc"
+        },
+        "user_mentions": [
+            {
+                "id": 9677372,
+                "id_str": "9677372",
+                "name": "KQED",
+                "screen_name": "KQED"
+            },
+            {
+                "id": 816298918468259841,
+                "id_str": "816298918468259841",
+                "name": "Rep. Ro Khanna",
+                "screen_name": "RepRoKhanna"
+            },
+            {
+                "id": 10042372,
+                "id_str": "10042372",
+                "name": "Marisa Lagos",
+                "screen_name": "mlagos"
+            }
+        ]
+    },
+    "quoted_status_id": 1157101034965069824,
+    "quoted_status_id_str": "1157101034965069824",
+    "retweet_count": 4,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Thank you to @mlagos and @GuyMarzorati for the thoughtful discussion last week. https://t.co/ZKWeBZqJpb",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/GuyMarzorati/status/1157101034965069824",
+            "url": "https://t.co/ZKWeBZqJpb"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 03 15:03:23 +0000 2017",
+        "description": "Rep. Silicon Valley's #CA17. Working to create proposals for jobs in areas left behind & tax credits for working class. Restraint in foreign policy. No PAC $.",
+        "favourites_count": 1615,
+        "followers_count": 53498,
+        "friends_count": 913,
+        "id": 816298918468259841,
+        "id_str": "816298918468259841",
+        "listed_count": 753,
+        "location": "Silicon Valley, CA",
+        "name": "Rep. Ro Khanna",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816298918468259841/1559839646",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088808215448567808/SPhDCzvR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088808215448567808/SPhDCzvR_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRoKhanna",
+        "statuses_count": 7076,
+        "url": "https://t.co/zsSd8FqNef",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 10042372,
+            "id_str": "10042372",
+            "name": "Marisa Lagos",
+            "screen_name": "mlagos"
+        },
+        {
+            "id": 382955987,
+            "id_str": "382955987",
+            "name": "Guy Marzorati",
+            "screen_name": "GuyMarzorati"
+        }
+    ]
+}

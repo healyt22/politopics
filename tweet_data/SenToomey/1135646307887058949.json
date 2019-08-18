@@ -1,0 +1,119 @@
+{
+    "created_at": "Mon Jun 03 20:35:53 +0000 2019",
+    "hashtags": [],
+    "id": 1135646307887058949,
+    "id_str": "1135646307887058949",
+    "lang": "en",
+    "retweet_count": 34,
+    "retweeted_status": {
+        "created_at": "Mon Jun 03 20:28:00 +0000 2019",
+        "favorite_count": 43,
+        "hashtags": [],
+        "id": 1135644322999783424,
+        "id_str": "1135644322999783424",
+        "lang": "en",
+        "retweet_count": 34,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Pennsylvania's @SenBobCasey and @SenToomey have released a list provided to them by the Centers for Medicare and Me\u2026 https://t.co/SdE009kf8M",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1135644322999783424",
+                "url": "https://t.co/SdE009kf8M"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 02 22:47:36 +0000 2009",
+            "description": "Covering Pennsylvania politics, government & scandals for @AP. The wicked flee when none pursueth. @Colorado native. As honest as a Denver man can be.",
+            "favourites_count": 300,
+            "followers_count": 7802,
+            "friends_count": 939,
+            "geo_enabled": true,
+            "id": 22547672,
+            "id_str": "22547672",
+            "listed_count": 416,
+            "location": "3rd and State Sts.",
+            "name": "Marc Levy",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22547672/1459802769",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/427562114228563968/OoiqTpLJ_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/427562114228563968/OoiqTpLJ_normal.jpeg",
+            "profile_link_color": "298CB3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "B3C5CC",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "screen_name": "timelywriter",
+            "statuses_count": 12473,
+            "url": "https://t.co/CeWIlWlAZh",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 171598736,
+                "id_str": "171598736",
+                "name": "Senator Bob Casey",
+                "screen_name": "SenBobCasey"
+            },
+            {
+                "id": 221162525,
+                "id_str": "221162525",
+                "name": "Senator Pat Toomey",
+                "screen_name": "SenToomey"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @timelywriter: Pennsylvania's @SenBobCasey and @SenToomey have released a list provided to them by the Centers for Medicare and Medicaid\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Nov 29 22:32:09 +0000 2010",
+        "description": "Official Twitter account for Pat Toomey. Husband. Father. U.S. Senator for Pennsylvania.",
+        "favourites_count": 234,
+        "followers_count": 129326,
+        "friends_count": 1051,
+        "geo_enabled": true,
+        "id": 221162525,
+        "id_str": "221162525",
+        "listed_count": 2783,
+        "name": "Senator Pat Toomey",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/221162525/1434047453",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574930402214727683/gDu5VqMP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/574930402214727683/gDu5VqMP_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "999999",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenToomey",
+        "statuses_count": 4814,
+        "url": "http://t.co/7dKjJ0xolY",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22547672,
+            "id_str": "22547672",
+            "name": "Marc Levy",
+            "screen_name": "timelywriter"
+        },
+        {
+            "id": 171598736,
+            "id_str": "171598736",
+            "name": "Senator Bob Casey",
+            "screen_name": "SenBobCasey"
+        },
+        {
+            "id": 221162525,
+            "id_str": "221162525",
+            "name": "Senator Pat Toomey",
+            "screen_name": "SenToomey"
+        }
+    ]
+}

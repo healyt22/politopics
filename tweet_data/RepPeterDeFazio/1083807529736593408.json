@@ -1,0 +1,103 @@
+{
+    "created_at": "Fri Jan 11 19:27:05 +0000 2019",
+    "favorite_count": 167,
+    "hashtags": [],
+    "id": 1083807529736593408,
+    "id_str": "1083807529736593408",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jan 11 17:32:42 +0000 2019",
+        "favorite_count": 1584,
+        "hashtags": [],
+        "id": 1083778744572100608,
+        "id_str": "1083778744572100608",
+        "lang": "en",
+        "quoted_status_id": 1083766888969195520,
+        "quoted_status_id_str": "1083766888969195520",
+        "retweet_count": 304,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Making friends when you\u2019re a freshman is hard and I thought I\u2019d grease the skids with some Lowcountry beer. Thankfu\u2026 https://t.co/vk4NFgqPBQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1083778744572100608",
+                "url": "https://t.co/vk4NFgqPBQ"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 01 20:26:50 +0000 2019",
+            "default_profile": true,
+            "description": "Official Twitter account of Rep. Joe Cunningham. Proud to serve the people of South Carolina's Lowcountry.",
+            "favourites_count": 47,
+            "followers_count": 16224,
+            "friends_count": 81,
+            "geo_enabled": true,
+            "id": 1080198683713507335,
+            "id_str": "1080198683713507335",
+            "listed_count": 208,
+            "name": "Rep. Joe Cunningham",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080198683713507335/1558213908",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080643131341762560/JHIdKOkJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080643131341762560/JHIdKOkJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepCunningham",
+            "statuses_count": 588,
+            "url": "https://t.co/AcVCcsMkAz",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1083778744572100608,
+    "quoted_status_id_str": "1083778744572100608",
+    "retweet_count": 29,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Welcome aboard, @RepCunningham. First order of business\u2014working on a rules change regarding six-packs on the House\u2026 https://t.co/XwWWJMwDCM",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1083807529736593408",
+            "url": "https://t.co/XwWWJMwDCM"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 14 20:20:20 +0000 2011",
+        "default_profile": true,
+        "description": "Representing the 4th Congressional District in Oregon",
+        "favourites_count": 4,
+        "followers_count": 30282,
+        "friends_count": 734,
+        "geo_enabled": true,
+        "id": 252249233,
+        "id_str": "252249233",
+        "listed_count": 1072,
+        "name": "Rep Peter DeFazio",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/252249233/1392145855",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/433317647241859072/r361UudO_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/433317647241859072/r361UudO_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPeterDeFazio",
+        "statuses_count": 1411,
+        "url": "http://t.co/QVPjYtiwNC",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1080198683713507335,
+            "id_str": "1080198683713507335",
+            "name": "Rep. Joe Cunningham",
+            "screen_name": "RepCunningham"
+        }
+    ]
+}

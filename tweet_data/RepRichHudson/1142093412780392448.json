@@ -1,0 +1,136 @@
+{
+    "created_at": "Fri Jun 21 15:34:23 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1142093412780392448,
+    "id_str": "1142093412780392448",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jun 21 15:14:00 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "NJC"
+            }
+        ],
+        "id": 1142088283775807493,
+        "id_str": "1142088283775807493",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/j7XtrnbO1L",
+                "expanded_url": "https://twitter.com/_juliemitchell/status/1142088283775807493/photo/1",
+                "id": 1142088250502328325,
+                "media_url": "http://pbs.twimg.com/media/D9mDNnlWsAUQ0yI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9mDNnlWsAUQ0yI.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/j7XtrnbO1L"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "With Congressman Richard Hudson @RepRichHudson today! Thanks for all your work in NC \ud83d\udc4d @HannahLStyles @NJC_YAF #NJC https://t.co/j7XtrnbO1L",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 11 17:39:43 +0000 2018",
+            "default_profile": true,
+            "favourites_count": 1635,
+            "followers_count": 79,
+            "friends_count": 248,
+            "id": 1006229503025254400,
+            "id_str": "1006229503025254400",
+            "listed_count": 1,
+            "name": "Julie Mitchell",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006229503025254400/1560699009",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1153086509060448257/J4Q788JA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153086509060448257/J4Q788JA_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "_juliemitchell",
+            "statuses_count": 559
+        },
+        "user_mentions": [
+            {
+                "id": 935033864,
+                "id_str": "935033864",
+                "name": "Richard Hudson",
+                "screen_name": "RepRichHudson"
+            },
+            {
+                "id": 1114212714799411201,
+                "id_str": "1114212714799411201",
+                "name": "Hannah Styles",
+                "screen_name": "HannahLStyles"
+            },
+            {
+                "id": 25311745,
+                "id_str": "25311745",
+                "name": "Natl Journalism Cntr",
+                "screen_name": "NJC_YAF"
+            }
+        ]
+    },
+    "quoted_status_id": 1142088283775807493,
+    "quoted_status_id_str": "1142088283775807493",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great to meet you two today. Keep up to good work! https://t.co/yt7ikx8MnY",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/_juliemitchell/status/1142088283775807493",
+            "url": "https://t.co/yt7ikx8MnY"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Nov 08 17:41:00 +0000 2012",
+        "description": "Official Twitter account for Congressman Richard Hudson -- proudly representing the 8th Congressional District of North Carolina.",
+        "favourites_count": 6335,
+        "followers_count": 17752,
+        "friends_count": 2337,
+        "id": 935033864,
+        "id_str": "935033864",
+        "listed_count": 704,
+        "location": "Concord, NC",
+        "name": "Richard Hudson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/935033864/1361291324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700164005684449280/UF6ckSJB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700164005684449280/UF6ckSJB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRichHudson",
+        "statuses_count": 7580,
+        "url": "https://t.co/KyMhp4Akkf",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,83 @@
+{
+    "created_at": "Tue Apr 12 22:59:34 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 720023582164795393,
+    "id_str": "720023582164795393",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/sL7QSrAePj",
+            "expanded_url": "https://twitter.com/Rep_DevinNunes/status/720023582164795393/photo/1",
+            "id": 720023581850267648,
+            "media_url": "http://pbs.twimg.com/media/Cf4JogIW8AAAEkj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cf4JogIW8AAAEkj.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 774,
+                    "h": 426,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 774,
+                    "h": 426,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 374,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/sL7QSrAePj"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "My interview with @TheLeadCNN on terrorism and national security: https://t.co/dlBNZQKlN7 https://t.co/sL7QSrAePj",
+    "urls": [
+        {
+            "expanded_url": "http://cnn.it/1VSxL3A",
+            "url": "https://t.co/dlBNZQKlN7"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 29 21:40:22 +0000 2011",
+        "default_profile": true,
+        "followers_count": 34272,
+        "friends_count": 15,
+        "id": 344972339,
+        "id_str": "344972339",
+        "listed_count": 488,
+        "location": "Washington, DC",
+        "name": "Rep. Devin Nunes",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344972339/1353428355",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDevinNunes",
+        "statuses_count": 169,
+        "url": "http://t.co/qslO3rsq"
+    },
+    "user_mentions": [
+        {
+            "id": 1176994477,
+            "id_str": "1176994477",
+            "name": "The Lead CNN",
+            "screen_name": "TheLeadCNN"
+        }
+    ]
+}

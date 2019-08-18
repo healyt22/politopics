@@ -1,0 +1,168 @@
+{
+    "created_at": "Tue Jun 04 15:25:22 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [
+        {
+            "text": "CHOW2019"
+        }
+    ],
+    "id": 1135930551402160134,
+    "id_str": "1135930551402160134",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 04 15:16:08 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "chow2019"
+            }
+        ],
+        "id": 1135928224939216896,
+        "id_str": "1135928224939216896",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/0NBFzXpMV7",
+                "expanded_url": "https://twitter.com/kamorgan91/status/1135928224939216896/photo/1",
+                "id": 1135928218207346688,
+                "media_url": "http://pbs.twimg.com/media/D8OgsjCXYAAmS_O.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D8OgsjCXYAAmS_O.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 996,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 584,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 331,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/0NBFzXpMV7"
+            }
+        ],
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": ".@RepJimmyPanetta makes note of the intersection of ocean conservation and national security #chow2019 https://t.co/0NBFzXpMV7",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Jul 28 21:20:39 +0000 2013",
+            "description": "Outdoor enthusiast | Science, Policy, Advocacy | Now: @NPCA, Then: @OurOcean @switchboardcom | @JHUesp & @StMarysMD Alum | Ward 5 is home | Tweets my own",
+            "favourites_count": 8496,
+            "followers_count": 1343,
+            "friends_count": 4415,
+            "geo_enabled": true,
+            "id": 1628779118,
+            "id_str": "1628779118",
+            "listed_count": 36,
+            "location": "Washington, D.C.",
+            "name": "Katie Morgan",
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628779118/1548045672",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1104549305510170627/blnwNgN8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104549305510170627/blnwNgN8_normal.jpg",
+            "profile_link_color": "1B5BDB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "screen_name": "kamorgan91",
+            "statuses_count": 5965,
+            "url": "https://t.co/yvCxQyAkBo"
+        },
+        "user_mentions": [
+            {
+                "id": 796736612554117120,
+                "id_str": "796736612554117120",
+                "name": "Rep. Jimmy Panetta",
+                "screen_name": "RepJimmyPanetta"
+            }
+        ]
+    },
+    "quoted_status_id": 1135928224939216896,
+    "quoted_status_id_str": "1135928224939216896",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Appreciated speaking this morning at #CHOW2019 about my district on the central coast of California - the most beau\u2026 https://t.co/fHxj0e7p5o",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1135930551402160134",
+            "url": "https://t.co/fHxj0e7p5o"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Nov 10 15:29:45 +0000 2016",
+        "default_profile": true,
+        "description": "I'm honored to serve as the Congressman for California's Central Coast (CA-20) in the U.S. House of Representatives.",
+        "favourites_count": 1061,
+        "followers_count": 8985,
+        "friends_count": 516,
+        "geo_enabled": true,
+        "id": 796736612554117120,
+        "id_str": "796736612554117120",
+        "listed_count": 463,
+        "name": "Rep. Jimmy Panetta",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/796736612554117120/1490729428",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827208718618132481/Z6uQa-l__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827208718618132481/Z6uQa-l__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJimmyPanetta",
+        "statuses_count": 2241,
+        "url": "https://t.co/9QMrnfxHRG",
+        "verified": true
+    },
+    "user_mentions": []
+}

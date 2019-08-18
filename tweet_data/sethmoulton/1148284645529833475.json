@@ -1,0 +1,93 @@
+{
+    "created_at": "Mon Jul 08 17:36:08 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [],
+    "id": 1148284645529833475,
+    "id_str": "1148284645529833475",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ziooFZtbAx",
+            "expanded_url": "https://twitter.com/sethmoulton/status/1148284645529833475/photo/1",
+            "id": 1148284638068203525,
+            "media_url": "http://pbs.twimg.com/media/D--Gy2EX4AUqVJ0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D--Gy2EX4AUqVJ0.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 899,
+                    "h": 1116,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 899,
+                    "h": 1116,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 548,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/ziooFZtbAx"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I'll be at @92Y for a conversation with @SRuhle tonight\u2014hope to see you there! https://t.co/V7b5gmoxov https://t.co/ziooFZtbAx",
+    "urls": [
+        {
+            "expanded_url": "https://www.92y.org/event/seth-moulton-with-stephanie-ruhle.aspx",
+            "url": "https://t.co/V7b5gmoxov"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 07 03:35:59 +0000 2011",
+        "default_profile": true,
+        "description": "Father, husband, Marine, Congressman, and candidate for President of the United States. \n\nIt's time for a new generation of leadership.",
+        "favourites_count": 3999,
+        "followers_count": 143995,
+        "friends_count": 2365,
+        "geo_enabled": true,
+        "id": 248495200,
+        "id_str": "248495200",
+        "listed_count": 2476,
+        "location": "Salem, MA",
+        "name": "Seth Moulton",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248495200/1559917656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sethmoulton",
+        "statuses_count": 10762,
+        "url": "https://t.co/x3XcV4cO6O",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18052661,
+            "id_str": "18052661",
+            "name": "92nd Street Y",
+            "screen_name": "92Y"
+        },
+        {
+            "id": 382685028,
+            "id_str": "382685028",
+            "name": "Stephanie Ruhle",
+            "screen_name": "SRuhle"
+        }
+    ]
+}

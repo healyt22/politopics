@@ -1,0 +1,113 @@
+{
+    "created_at": "Fri Aug 16 14:20:55 +0000 2019",
+    "hashtags": [],
+    "id": 1162368646401974272,
+    "id_str": "1162368646401974272",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Aug 16 13:40:17 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1162358419975806977,
+        "id_str": "1162358419975806977",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This morning we are Carlisle, IN for a Shop Talk at Unger Family Farms with @RepLarryBucshon. Thank you\u2026 https://t.co/EosjUGPltY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162358419975806977",
+                "url": "https://t.co/EosjUGPltY"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Oct 09 16:14:53 +0000 2012",
+            "description": "ISA Policy Committee is the soybean farmer's voice on critical public policy issues. Checkoff funds cannot be used for membership & policy.",
+            "favourites_count": 175,
+            "followers_count": 1036,
+            "friends_count": 405,
+            "geo_enabled": true,
+            "id": 870165824,
+            "id_str": "870165824",
+            "listed_count": 9,
+            "location": "Indiana",
+            "name": "Indiana Soy Farmers",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/870165824/1431437008",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/613876575734472708/n5UVYidD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/613876575734472708/n5UVYidD_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Indiana_Soy",
+            "statuses_count": 716,
+            "url": "http://t.co/CR9T7ytMQM"
+        },
+        "user_mentions": [
+            {
+                "id": 234812598,
+                "id_str": "234812598",
+                "name": "Larry Bucshon, MD",
+                "screen_name": "RepLarryBucshon"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Indiana_Soy: This morning we are Carlisle, IN for a Shop Talk at Unger Family Farms with @RepLarryBucshon. Thank you @farmcreditmid &amp; @\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 06 16:45:56 +0000 2011",
+        "description": "Congressman representing Hoosiers from #IN08. Doctor. Member of @HouseCommerce. https://t.co/4eq38gWLlg",
+        "favourites_count": 684,
+        "followers_count": 21251,
+        "friends_count": 1969,
+        "geo_enabled": true,
+        "id": 234812598,
+        "id_str": "234812598",
+        "listed_count": 935,
+        "location": "Indiana's 8th District",
+        "name": "Larry Bucshon, MD",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234812598/1528127787",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3781635770/569620c6e7f294f1f1fed50b41b3ab77_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3781635770/569620c6e7f294f1f1fed50b41b3ab77_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLarryBucshon",
+        "statuses_count": 5541,
+        "url": "https://t.co/wPeLTvPae3",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 870165824,
+            "id_str": "870165824",
+            "name": "Indiana Soy Farmers",
+            "screen_name": "Indiana_Soy"
+        },
+        {
+            "id": 234812598,
+            "id_str": "234812598",
+            "name": "Larry Bucshon, MD",
+            "screen_name": "RepLarryBucshon"
+        },
+        {
+            "id": 25371220,
+            "id_str": "25371220",
+            "name": "Farm Credit Mid-Am",
+            "screen_name": "farmcreditmid"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "created_at": "Thu May 23 16:06:42 +0000 2019",
+    "hashtags": [],
+    "id": 1131592299404824577,
+    "id_str": "1131592299404824577",
+    "lang": "en",
+    "retweet_count": 66,
+    "retweeted_status": {
+        "created_at": "Thu May 23 13:06:00 +0000 2019",
+        "favorite_count": 166,
+        "hashtags": [],
+        "id": 1131546822621556736,
+        "id_str": "1131546822621556736",
+        "lang": "en",
+        "retweet_count": 66,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": ".@GregNojeim on @RonWyden / @RandPaul bill: \u201cA search of your cell phone or social media account is a direct look [\u2026 https://t.co/b150w364pQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131546822621556736",
+                "url": "https://t.co/b150w364pQ"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 10 21:08:02 +0000 2008",
+            "description": "The Center for Democracy & Technology.   Shaping tech policy & architecture, with a focus on the rights of the individual. @CDTEU for our EU-based team.",
+            "favourites_count": 10709,
+            "followers_count": 28380,
+            "friends_count": 1228,
+            "geo_enabled": true,
+            "id": 16228337,
+            "id_str": "16228337",
+            "listed_count": 1665,
+            "name": "Center for Democracy & Technology",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16228337/1544560510",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/689465638432059392/g3HwwFKw_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/689465638432059392/g3HwwFKw_normal.png",
+            "profile_link_color": "890B1E",
+            "profile_sidebar_border_color": "890B1E",
+            "profile_sidebar_fill_color": "B9BCC1",
+            "profile_text_color": "100E0E",
+            "profile_use_background_image": true,
+            "screen_name": "CenDemTech",
+            "statuses_count": 19402,
+            "url": "https://t.co/mrN8YfcAee",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2411518651,
+                "id_str": "2411518651",
+                "name": "Greg Nojeim",
+                "screen_name": "GregNojeim"
+            },
+            {
+                "id": 250188760,
+                "id_str": "250188760",
+                "name": "Ron Wyden",
+                "screen_name": "RonWyden"
+            },
+            {
+                "id": 216881337,
+                "id_str": "216881337",
+                "name": "Senator Rand Paul",
+                "screen_name": "RandPaul"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CenDemTech: .@GregNojeim on @RonWyden / @RandPaul bill: \u201cA search of your cell phone or social media account is a direct look [at] the\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 17 23:52:35 +0000 2010",
+        "description": "U.S. Senator for Kentucky | I fight for the Constitution, individual liberty and the freedoms that make this country great.",
+        "favourites_count": 855,
+        "followers_count": 2513780,
+        "friends_count": 491,
+        "geo_enabled": true,
+        "id": 216881337,
+        "id_str": "216881337",
+        "listed_count": 12831,
+        "location": "Bowling Green, KY",
+        "name": "Senator Rand Paul",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216881337/1508431224",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RandPaul",
+        "statuses_count": 13128,
+        "url": "https://t.co/V4RkZkfWyy",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16228337,
+            "id_str": "16228337",
+            "name": "Center for Democracy & Technology",
+            "screen_name": "CenDemTech"
+        },
+        {
+            "id": 2411518651,
+            "id_str": "2411518651",
+            "name": "Greg Nojeim",
+            "screen_name": "GregNojeim"
+        },
+        {
+            "id": 250188760,
+            "id_str": "250188760",
+            "name": "Ron Wyden",
+            "screen_name": "RonWyden"
+        },
+        {
+            "id": 216881337,
+            "id_str": "216881337",
+            "name": "Senator Rand Paul",
+            "screen_name": "RandPaul"
+        }
+    ]
+}

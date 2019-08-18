@@ -1,0 +1,85 @@
+{
+    "created_at": "Thu May 23 01:04:06 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [],
+    "id": 1131365152480288770,
+    "id_str": "1131365152480288770",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/3F7P8RMdiM",
+            "expanded_url": "https://twitter.com/RepBryanSteil/status/1131365152480288770/photo/1",
+            "id": 1131365148252430336,
+            "media_url": "http://pbs.twimg.com/media/D7Nqm6zX4AAcex-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7Nqm6zX4AAcex-.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 995,
+                    "h": 553,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 995,
+                    "h": 553,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 378,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/3F7P8RMdiM"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "It\u2019s Trauma-Informed Care Day! Thank you to @TonetteWalker and @RepGallagher for your work on this! https://t.co/3F7P8RMdiM",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 19 01:46:28 +0000 2018",
+        "default_profile": true,
+        "description": "Official Twitter account for Bryan Steil, proudly serving the people of Wisconsin\u2019s 1st Congressional District. #WI01",
+        "favourites_count": 68,
+        "followers_count": 1957,
+        "friends_count": 179,
+        "geo_enabled": true,
+        "id": 1075205691621720064,
+        "id_str": "1075205691621720064",
+        "listed_count": 115,
+        "name": "Bryan Steil",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075205691621720064/1546626876",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080811922474311681/FbNkaP3e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080811922474311681/FbNkaP3e_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBryanSteil",
+        "statuses_count": 526,
+        "url": "https://t.co/hCUjGkefDJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1183313468,
+            "id_str": "1183313468",
+            "name": "Tonette Walker",
+            "screen_name": "TonetteWalker"
+        },
+        {
+            "id": 815966620300480514,
+            "id_str": "815966620300480514",
+            "name": "Rep. Mike Gallagher",
+            "screen_name": "RepGallagher"
+        }
+    ]
+}

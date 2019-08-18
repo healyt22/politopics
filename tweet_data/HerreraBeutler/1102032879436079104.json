@@ -1,0 +1,124 @@
+{
+    "created_at": "Sun Mar 03 02:28:07 +0000 2019",
+    "favorite_count": 24,
+    "hashtags": [],
+    "id": 1102032879436079104,
+    "id_str": "1102032879436079104",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun Mar 03 00:27:38 +0000 2019",
+        "favorite_count": 130,
+        "hashtags": [
+            {
+                "text": "HardwoodClassic"
+            }
+        ],
+        "id": 1102002555549179904,
+        "id_str": "1102002555549179904",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/K8NXP2Ar57",
+                "expanded_url": "https://twitter.com/wiaawa/status/1102002555549179904/photo/1",
+                "id": 1102002548007821313,
+                "media_url": "http://pbs.twimg.com/media/D0sZeo-U4AEMYsz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D0sZeo-U4AEMYsz.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/K8NXP2Ar57"
+            }
+        ],
+        "retweet_count": 28,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "3A Girls Basketball State Champion: Prairie HS #HardwoodClassic https://t.co/K8NXP2Ar57",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Jul 08 20:49:53 +0000 2009",
+            "description": "Official Twitter account of the Washington Interscholastic Activities Association. High school & middle school sports/activities news and championship updates",
+            "favourites_count": 1760,
+            "followers_count": 31166,
+            "friends_count": 1729,
+            "geo_enabled": true,
+            "id": 55024309,
+            "id_str": "55024309",
+            "listed_count": 138,
+            "location": "Renton, WA",
+            "name": "WIAA",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/55024309/1409850211",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/562283021944889345/knfPr1kM_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/562283021944889345/knfPr1kM_normal.png",
+            "profile_link_color": "006B3E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E4E9E3",
+            "profile_text_color": "303030",
+            "profile_use_background_image": true,
+            "screen_name": "wiaawa",
+            "statuses_count": 18725,
+            "url": "http://t.co/E4Ut8wHfFS",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1102002555549179904,
+    "quoted_status_id_str": "1102002555549179904",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Prairie HS girls won state! We're all so proud of your victory! https://t.co/tMqqp2cVDt",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/wiaawa/status/1102002555549179904",
+            "url": "https://t.co/tMqqp2cVDt"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 25 22:36:44 +0000 2011",
+        "description": "I'm proud to have grown up in SW WA, and honored to represent this wonderful region in the US Congress. Want regular email updates? http://t.co/sZutp93Fhg",
+        "favourites_count": 21,
+        "followers_count": 20588,
+        "friends_count": 932,
+        "geo_enabled": true,
+        "id": 242926427,
+        "id_str": "242926427",
+        "listed_count": 901,
+        "name": "JaimeHerreraBeutler",
+        "profile_background_color": "D6083C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242926427/1496761529",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/510487926900150272/UksS2ekj_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/510487926900150272/UksS2ekj_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "HerreraBeutler",
+        "statuses_count": 1249,
+        "url": "http://t.co/g23DlVNdtc",
+        "verified": true
+    },
+    "user_mentions": []
+}

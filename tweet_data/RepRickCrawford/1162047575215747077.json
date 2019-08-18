@@ -1,0 +1,117 @@
+{
+    "created_at": "Thu Aug 15 17:05:06 +0000 2019",
+    "hashtags": [],
+    "id": 1162047575215747077,
+    "id_str": "1162047575215747077",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Aug 15 16:59:38 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1162046200847261696,
+        "id_str": "1162046200847261696",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Special thanks to @RepRickCrawford for addressing attendees at the Cotton Research Station Field. @AgWriterArk\u2026 https://t.co/NzzmNtw7Gg",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162046200847261696",
+                "url": "https://t.co/NzzmNtw7Gg"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Oct 12 03:04:28 +0000 2013",
+            "default_profile": true,
+            "favourites_count": 1508,
+            "followers_count": 326,
+            "friends_count": 229,
+            "geo_enabled": true,
+            "id": 1955579126,
+            "id_str": "1955579126",
+            "listed_count": 1,
+            "location": "Arkansas, USA",
+            "name": "Nathan Slaton",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955579126/1532082529",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1020253805949194240/lclQlWJm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020253805949194240/lclQlWJm_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SlatonNathan",
+            "statuses_count": 238
+        },
+        "user_mentions": [
+            {
+                "id": 233693291,
+                "id_str": "233693291",
+                "name": "Rep Rick Crawford",
+                "screen_name": "RepRickCrawford"
+            },
+            {
+                "id": 718119900,
+                "id_str": "718119900",
+                "name": "Ferndale International",
+                "screen_name": "AgWriterArk"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @SlatonNathan: Special thanks to @RepRickCrawford for addressing attendees at the Cotton Research Station Field. @AgWriterArk @ArkAgRese\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 03 21:57:49 +0000 2011",
+        "description": "Representing Arkansas's 1st District in the United States House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee",
+        "favourites_count": 1550,
+        "followers_count": 19067,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 233693291,
+        "id_str": "233693291",
+        "listed_count": 907,
+        "location": "Washington, DC",
+        "name": "Rep Rick Crawford",
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233693291/1514907502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_link_color": "048C09",
+        "profile_sidebar_border_color": "2E517B",
+        "profile_sidebar_fill_color": "C1CCDE",
+        "profile_text_color": "2424C7",
+        "profile_use_background_image": true,
+        "screen_name": "RepRickCrawford",
+        "statuses_count": 5300,
+        "url": "https://t.co/Bh2OlD3a1Q",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1955579126,
+            "id_str": "1955579126",
+            "name": "Nathan Slaton",
+            "screen_name": "SlatonNathan"
+        },
+        {
+            "id": 233693291,
+            "id_str": "233693291",
+            "name": "Rep Rick Crawford",
+            "screen_name": "RepRickCrawford"
+        },
+        {
+            "id": 718119900,
+            "id_str": "718119900",
+            "name": "Ferndale International",
+            "screen_name": "AgWriterArk"
+        }
+    ]
+}

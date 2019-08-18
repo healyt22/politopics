@@ -1,0 +1,166 @@
+{
+    "created_at": "Fri Jul 05 18:26:28 +0000 2019",
+    "favorite_count": 91,
+    "hashtags": [],
+    "id": 1147210150366912513,
+    "id_str": "1147210150366912513",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Fri Jul 05 15:02:54 +0000 2019",
+        "favorite_count": 141,
+        "hashtags": [
+            {
+                "text": "BREAKING"
+            }
+        ],
+        "id": 1147158918663168001,
+        "id_str": "1147158918663168001",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mdM3werse1",
+                "expanded_url": "https://twitter.com/thehill/status/1147158918663168001/photo/1",
+                "id": 1147158917027454976,
+                "media_url": "http://pbs.twimg.com/media/D-uG9QZX4AA1aMS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-uG9QZX4AA1aMS.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/mdM3werse1"
+            }
+        ],
+        "retweet_count": 79,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "#BREAKING: Trump considering executive order on citizenship question for Census https://t.co/ofX7mPXhSm https://t.co/mdM3werse1",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/H12UK6W",
+                "url": "https://t.co/ofX7mPXhSm"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3323842,
+            "friends_count": 261,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26109,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 597131,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1147158918663168001,
+    "quoted_status_id_str": "1147158918663168001",
+    "retweet_count": 40,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Only this president would celebrate America's birthday by plotting to evade the Supreme Court in the name of partis\u2026 https://t.co/5PTYV0amoL",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1147210150366912513",
+            "url": "https://t.co/5PTYV0amoL"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 28 19:06:50 +0000 2011",
+        "description": "Honored to rep #NY12 in the US House. A progressive fmr teacher fighting for #Manhattan, #Brooklyn & #Queens. Proud to wear FDNY coat to #renew911VCF! DMs open",
+        "favourites_count": 6276,
+        "followers_count": 41257,
+        "friends_count": 3284,
+        "geo_enabled": true,
+        "id": 258900199,
+        "id_str": "258900199",
+        "listed_count": 1300,
+        "location": "New York City",
+        "name": "Carolyn  B. Maloney",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258900199/1549467399",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMaloney",
+        "statuses_count": 10673,
+        "url": "https://t.co/EhTt891RCX",
+        "verified": true
+    },
+    "user_mentions": []
+}

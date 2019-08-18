@@ -1,0 +1,103 @@
+{
+    "created_at": "Thu Feb 14 22:05:38 +0000 2019",
+    "hashtags": [],
+    "id": 1096168614061838342,
+    "id_str": "1096168614061838342",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Thu Feb 14 21:49:09 +0000 2019",
+        "favorite_count": 17,
+        "hashtags": [],
+        "id": 1096164468130701312,
+        "id_str": "1096164468130701312",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Idaho @SenatorRisch on funding bill \"We need significantly more than 55 miles of wall to fully protect our southern\u2026 https://t.co/TUxpcoCYO3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1096164468130701312",
+                "url": "https://t.co/TUxpcoCYO3"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 06 20:05:52 +0000 2009",
+            "description": "Investigative reporter for @IdahoStatesman covering state government and politics.\nIdaho Press Club 2017 Reporter of the Year.",
+            "favourites_count": 371,
+            "followers_count": 3436,
+            "friends_count": 1704,
+            "id": 54315855,
+            "id_str": "54315855",
+            "listed_count": 135,
+            "location": "Boise, Idaho",
+            "name": "Cynthia Sewell",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/576904912/Cindy_s_twitter_pic_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/576904912/Cindy_s_twitter_pic_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CynthiaSewell",
+            "statuses_count": 4415,
+            "url": "https://t.co/HhJ6ig6odp"
+        },
+        "user_mentions": [
+            {
+                "id": 1096059529,
+                "id_str": "1096059529",
+                "name": "Jim Risch",
+                "screen_name": "SenatorRisch"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CynthiaSewell: Idaho @SenatorRisch on funding bill \"We need significantly more than 55 miles of wall to fully protect our southern bord\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 16 18:58:23 +0000 2013",
+        "description": "U.S. Senator for Idaho",
+        "favourites_count": 224,
+        "followers_count": 81240,
+        "friends_count": 320,
+        "id": 1096059529,
+        "id_str": "1096059529",
+        "listed_count": 1520,
+        "location": "Boise",
+        "name": "Jim Risch",
+        "profile_background_color": "1717EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096059529/1477416030",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3161364149/32f2f83385840438a393070a7e426bde_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3161364149/32f2f83385840438a393070a7e426bde_normal.jpeg",
+        "profile_link_color": "C71414",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorRisch",
+        "statuses_count": 1668,
+        "url": "https://t.co/QMGG1eEAGz",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 54315855,
+            "id_str": "54315855",
+            "name": "Cynthia Sewell",
+            "screen_name": "CynthiaSewell"
+        },
+        {
+            "id": 1096059529,
+            "id_str": "1096059529",
+            "name": "Jim Risch",
+            "screen_name": "SenatorRisch"
+        }
+    ]
+}

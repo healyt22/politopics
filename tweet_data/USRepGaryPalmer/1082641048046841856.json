@@ -1,0 +1,130 @@
+{
+    "created_at": "Tue Jan 08 14:11:55 +0000 2019",
+    "hashtags": [
+        {
+            "text": "GovernmentShutdown"
+        },
+        {
+            "text": "BorderWall"
+        }
+    ],
+    "id": 1082641048046841856,
+    "id_str": "1082641048046841856",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Jan 08 13:42:15 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "GovernmentShutdown"
+            },
+            {
+                "text": "BorderWall"
+            }
+        ],
+        "id": 1082633582630326277,
+        "id_str": "1082633582630326277",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Right now on the @MAShow995, it's @USRepGaryPalmer talking about the #GovernmentShutdown, #BorderWall, and why the\u2026 https://t.co/zLTqpnX0ap",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1082633582630326277",
+                "url": "https://t.co/zLTqpnX0ap"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 22 21:36:01 +0000 2009",
+            "description": "Straight Edge Husband, Son, Brother, & Uncle who likes cats, comics, wrestling, & sports. All tweets, RTs, & likes are my own & don\u2019t reflect opinions of WZRR.",
+            "favourites_count": 36984,
+            "followers_count": 1403,
+            "friends_count": 2311,
+            "id": 59257132,
+            "id_str": "59257132",
+            "listed_count": 20,
+            "location": "Jasper, AL",
+            "name": "David Sears",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/59257132/1499133570",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3403062694/25753f085f7c65fb2ced26c80890084c_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3403062694/25753f085f7c65fb2ced26c80890084c_normal.jpeg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DavidSears75",
+            "statuses_count": 26565,
+            "url": "https://t.co/OlJgvq7YfD"
+        },
+        "user_mentions": [
+            {
+                "id": 1029039333737680896,
+                "id_str": "1029039333737680896",
+                "name": "M&AShow",
+                "screen_name": "MAShow995"
+            },
+            {
+                "id": 2861616083,
+                "id_str": "2861616083",
+                "name": "Gary Palmer",
+                "screen_name": "USRepGaryPalmer"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DavidSears75: Right now on the @MAShow995, it's @USRepGaryPalmer talking about the #GovernmentShutdown, #BorderWall, and why the wall i\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Nov 04 22:58:38 +0000 2014",
+        "description": "Proudly serving the people of Alabama's 6th Congressional District.",
+        "favourites_count": 344,
+        "followers_count": 16704,
+        "friends_count": 878,
+        "geo_enabled": true,
+        "id": 2861616083,
+        "id_str": "2861616083",
+        "listed_count": 535,
+        "name": "Gary Palmer",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2861616083/1457816586",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/963834426131087362/G281BjJD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/963834426131087362/G281BjJD_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "USRepGaryPalmer",
+        "statuses_count": 2085,
+        "url": "https://t.co/f5XX8JEE0I",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 59257132,
+            "id_str": "59257132",
+            "name": "David Sears",
+            "screen_name": "DavidSears75"
+        },
+        {
+            "id": 1029039333737680896,
+            "id_str": "1029039333737680896",
+            "name": "M&AShow",
+            "screen_name": "MAShow995"
+        },
+        {
+            "id": 2861616083,
+            "id_str": "2861616083",
+            "name": "Gary Palmer",
+            "screen_name": "USRepGaryPalmer"
+        }
+    ]
+}

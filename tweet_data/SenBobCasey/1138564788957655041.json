@@ -1,0 +1,142 @@
+{
+    "created_at": "Tue Jun 11 21:52:53 +0000 2019",
+    "hashtags": [],
+    "id": 1138564788957655041,
+    "id_str": "1138564788957655041",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Tue Jun 11 21:29:53 +0000 2019",
+        "favorite_count": 29,
+        "hashtags": [],
+        "id": 1138558998276448256,
+        "id_str": "1138558998276448256",
+        "in_reply_to_screen_name": "SpecialOlympiPA",
+        "in_reply_to_status_id": 1138557635119239169,
+        "in_reply_to_user_id": 16316555,
+        "lang": "en",
+        "place": {
+            "id": "dd9c503d6c35364b",
+            "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+            "place_type": "admin",
+            "name": "Pennsylvania",
+            "full_name": "Pennsylvania, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.519851,
+                            39.719801
+                        ],
+                        [
+                            -74.689517,
+                            39.719801
+                        ],
+                        [
+                            -74.689517,
+                            42.516072
+                        ],
+                        [
+                            -80.519851,
+                            42.516072
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Here's @SenBobCasey speaking with Monroe County athlete Ernie Roundtree -- who competed at Summer Games last weeken\u2026 https://t.co/YAxGRD6c1A",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138558998276448256",
+                "url": "https://t.co/YAxGRD6c1A"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 16 19:55:18 +0000 2008",
+            "description": "Passion. Courage. Joy.\n#inclusionrevolution",
+            "favourites_count": 8406,
+            "followers_count": 2634,
+            "friends_count": 753,
+            "geo_enabled": true,
+            "id": 16316555,
+            "id_str": "16316555",
+            "listed_count": 44,
+            "location": "Pennsylvania, USA",
+            "name": "\ud835\udde6\ud835\uddfd\ud835\uddf2\ud835\uddf0\ud835\uddf6\ud835\uddee\ud835\uddf9 \ud835\udde2\ud835\uddf9\ud835\ude06\ud835\uddfa\ud835\uddfd\ud835\uddf6\ud835\uddf0\ud835\ude00 \ud835\udde3\ud835\uddd4 \u2600\ufe0f",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16316555/1560378250",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1092859459658047490/zTjhJjZi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092859459658047490/zTjhJjZi_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SpecialOlympiPA",
+            "statuses_count": 7106,
+            "url": "https://t.co/GjRXact1Un"
+        },
+        "user_mentions": [
+            {
+                "id": 171598736,
+                "id_str": "171598736",
+                "name": "Senator Bob Casey",
+                "screen_name": "SenBobCasey"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @SpecialOlympiPA: Here's @SenBobCasey speaking with Monroe County athlete Ernie Roundtree -- who competed at Summer Games last weekend,\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 27 18:38:20 +0000 2010",
+        "description": "Official twitter profile for U.S. Senator Bob Casey.",
+        "favourites_count": 632,
+        "followers_count": 407748,
+        "friends_count": 638,
+        "geo_enabled": true,
+        "id": 171598736,
+        "id_str": "171598736",
+        "listed_count": 3056,
+        "location": "Scranton, PA",
+        "name": "Senator Bob Casey",
+        "profile_background_color": "162F53",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_link_color": "2F6291",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "screen_name": "SenBobCasey",
+        "statuses_count": 9153,
+        "url": "https://t.co/EghtimAhrt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16316555,
+            "id_str": "16316555",
+            "name": "\ud835\udde6\ud835\uddfd\ud835\uddf2\ud835\uddf0\ud835\uddf6\ud835\uddee\ud835\uddf9 \ud835\udde2\ud835\uddf9\ud835\ude06\ud835\uddfa\ud835\uddfd\ud835\uddf6\ud835\uddf0\ud835\ude00 \ud835\udde3\ud835\uddd4 \u2600\ufe0f",
+            "screen_name": "SpecialOlympiPA"
+        },
+        {
+            "id": 171598736,
+            "id_str": "171598736",
+            "name": "Senator Bob Casey",
+            "screen_name": "SenBobCasey"
+        }
+    ]
+}

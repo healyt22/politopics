@@ -1,0 +1,100 @@
+{
+    "created_at": "Thu Jul 19 21:07:01 +0000 2018",
+    "favorite_count": 106,
+    "hashtags": [],
+    "id": 1020052414148349953,
+    "id_str": "1020052414148349953",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jul 19 20:21:53 +0000 2018",
+        "favorite_count": 14847,
+        "hashtags": [],
+        "id": 1020041054882496512,
+        "id_str": "1020041054882496512",
+        "lang": "en",
+        "retweet_count": 4656,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "In 99% of counties in America, someone making the minimum wage working full time can\u2019t afford a 1-bedroom apartment\u2026 https://t.co/lUW3SrpIam",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1020041054882496512",
+                "url": "https://t.co/lUW3SrpIam"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 29 20:16:39 +0000 2016",
+            "default_profile": true,
+            "description": "United States Senator for California",
+            "favourites_count": 501,
+            "followers_count": 873217,
+            "friends_count": 659,
+            "geo_enabled": true,
+            "id": 803694179079458816,
+            "id_str": "803694179079458816",
+            "listed_count": 4663,
+            "name": "Kamala Harris",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/803694179079458816/1521647792",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974690906669572098/Y6w06trG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974690906669572098/Y6w06trG_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenKamalaHarris",
+            "statuses_count": 3522,
+            "url": "https://t.co/d7fwQc0xoD",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1020041054882496512,
+    "quoted_status_id_str": "1020041054882496512",
+    "retweet_count": 43,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Incredibly excited that @SenKamalaHarris introduced the Senate-version of my bill, the Rent Relief Act, to bring ho\u2026 https://t.co/ma9Bcxkesf",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1020052414148349953",
+            "url": "https://t.co/ma9Bcxkesf"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Feb 05 16:39:11 +0000 2010",
+        "default_profile": true,
+        "description": "A boy from Queens. Father, husband, former Congressman, and Springsteen fan.",
+        "favourites_count": 688,
+        "followers_count": 33321,
+        "friends_count": 1046,
+        "geo_enabled": true,
+        "id": 111635980,
+        "id_str": "111635980",
+        "listed_count": 1152,
+        "name": "Joe Crowley",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111635980/1424200467",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978273714495279104/CwvAhSLj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978273714495279104/CwvAhSLj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoeCrowleyNY",
+        "statuses_count": 6449,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 803694179079458816,
+            "id_str": "803694179079458816",
+            "name": "Kamala Harris",
+            "screen_name": "SenKamalaHarris"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "created_at": "Tue Jul 09 23:26:07 +0000 2019",
+    "favorite_count": 43,
+    "hashtags": [],
+    "id": 1148735109916504065,
+    "id_str": "1148735109916504065",
+    "lang": "en",
+    "place": {
+        "id": "0fc342b3d1147000",
+        "url": "https://api.twitter.com/1.1/geo/id/0fc342b3d1147000.json",
+        "place_type": "poi",
+        "name": "United States Capitol",
+        "full_name": "United States Capitol",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.00905323028564,
+                        38.89003073572137
+                    ],
+                    [
+                        -77.00905323028564,
+                        38.89003073572137
+                    ],
+                    [
+                        -77.00905323028564,
+                        38.89003073572137
+                    ],
+                    [
+                        -77.00905323028564,
+                        38.89003073572137
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "We\u2019re back to work here in DC and I\u2019m on my way to vote for the Expanding Investment in Small Business Act of 2019.\u2026 https://t.co/mFw8cQRtjb",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1148735109916504065",
+            "url": "https://t.co/mFw8cQRtjb"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 28 21:12:14 +0000 2012",
+        "description": "Father, husband, and former prosecutor proudly representing #OH14",
+        "favourites_count": 531,
+        "followers_count": 20865,
+        "friends_count": 2524,
+        "geo_enabled": true,
+        "id": 976969338,
+        "id_str": "976969338",
+        "listed_count": 622,
+        "location": "Washington, DC",
+        "name": "Dave Joyce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/976969338/1494534964",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/471370204589469696/jzOCXHSW_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/471370204589469696/jzOCXHSW_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepDaveJoyce",
+        "statuses_count": 4385,
+        "url": "http://t.co/w7lVGg29p2",
+        "verified": true
+    },
+    "user_mentions": []
+}

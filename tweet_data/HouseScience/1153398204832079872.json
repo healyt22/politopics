@@ -1,0 +1,103 @@
+{
+    "created_at": "Mon Jul 22 20:15:35 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1153398204832079872,
+    "id_str": "1153398204832079872",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "quoted_status": {
+        "created_at": "Mon Jul 22 20:09:12 +0000 2019",
+        "favorite_count": 23,
+        "hashtags": [],
+        "id": 1153396597847404546,
+        "id_str": "1153396597847404546",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I\u2019m here at the HCC West Loop campus with members of Congress for a field hearing on hurricane science and storm re\u2026 https://t.co/JvM0t1vuK2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1153396597847404546",
+                "url": "https://t.co/JvM0t1vuK2"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Dec 21 00:02:47 +0000 2018",
+            "default_profile": true,
+            "description": "Honored and proud to represent Texas' 7th Congressional District in Houston, where inclusion, innovation, and collaboration thrive.",
+            "favourites_count": 50,
+            "followers_count": 11487,
+            "friends_count": 94,
+            "id": 1075904377221722113,
+            "id_str": "1075904377221722113",
+            "listed_count": 217,
+            "location": "Houston, TX",
+            "name": "Rep. Lizzie Fletcher",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075904377221722113/1546533404",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1129396695056486400/mGqajwam_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129396695056486400/mGqajwam_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepFletcher",
+            "statuses_count": 637,
+            "url": "https://t.co/X2zoyRX3KI",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1153396597847404546,
+    "quoted_status_id_str": "1153396597847404546",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "HAPPENING NOW \u2192 Chair of the Subcommittee on Environment @RepFletcher (TX-7) is chairing a field hearing in her dis\u2026 https://t.co/nj19QM86EA",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153398204832079872",
+            "url": "https://t.co/nj19QM86EA"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Feb 26 20:02:26 +0000 2009",
+        "description": "News from the U.S. House of Representatives Committee on Science, Space, and Technology - May not represent the views of Members of the Committee",
+        "favourites_count": 1955,
+        "followers_count": 23020,
+        "friends_count": 876,
+        "geo_enabled": true,
+        "id": 22053641,
+        "id_str": "22053641",
+        "listed_count": 842,
+        "location": "Washington, DC",
+        "name": "Science Committee",
+        "profile_background_color": "001B85",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22053641/1546615248",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080937032963244032/0pVPYpBL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080937032963244032/0pVPYpBL_normal.jpg",
+        "profile_link_color": "376882",
+        "profile_sidebar_border_color": "57AEFA",
+        "profile_sidebar_fill_color": "CEFDF6",
+        "profile_text_color": "3ABCE9",
+        "profile_use_background_image": true,
+        "screen_name": "HouseScience",
+        "statuses_count": 6441,
+        "url": "https://t.co/xcUymHRDBO",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1075904377221722113,
+            "id_str": "1075904377221722113",
+            "name": "Rep. Lizzie Fletcher",
+            "screen_name": "RepFletcher"
+        }
+    ]
+}

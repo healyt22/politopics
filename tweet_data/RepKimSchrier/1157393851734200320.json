@@ -1,0 +1,128 @@
+{
+    "created_at": "Fri Aug 02 20:52:52 +0000 2019",
+    "hashtags": [],
+    "id": 1157393851734200320,
+    "id_str": "1157393851734200320",
+    "lang": "en",
+    "retweet_count": 73,
+    "retweeted_status": {
+        "created_at": "Fri Aug 02 18:25:03 +0000 2019",
+        "favorite_count": 103,
+        "hashtags": [],
+        "id": 1157356654586974209,
+        "id_str": "1157356654586974209",
+        "lang": "en",
+        "retweet_count": 73,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "Dr. @sallygoza and @RepKimSchrier in @Newsweek: \"We are two pediatricians who have recently visited the southern bo\u2026 https://t.co/2yIlIt8fiN",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1157356654586974209",
+                "url": "https://t.co/2yIlIt8fiN"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Apr 17 14:46:16 +0000 2009",
+            "description": "The American Academy of Pediatrics. Dedicated to the health of all children.",
+            "favourites_count": 4227,
+            "followers_count": 85805,
+            "friends_count": 398,
+            "id": 32431468,
+            "id_str": "32431468",
+            "listed_count": 1688,
+            "location": "Itasca, IL",
+            "name": "Amer Acad Pediatrics",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32431468/1449071696",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1138061859284815874/Je7VwkgX_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138061859284815874/Je7VwkgX_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AmerAcadPeds",
+            "statuses_count": 14462,
+            "url": "http://t.co/WPwElQ0rpH",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1219273140,
+                "id_str": "1219273140",
+                "name": "Sally Goza",
+                "screen_name": "sallygoza"
+            },
+            {
+                "id": 1080462532815532032,
+                "id_str": "1080462532815532032",
+                "name": "Rep. Kim Schrier",
+                "screen_name": "RepKimSchrier"
+            },
+            {
+                "id": 2884771,
+                "id_str": "2884771",
+                "name": "Newsweek",
+                "screen_name": "Newsweek"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @AmerAcadPeds: Dr. @sallygoza and @RepKimSchrier in @Newsweek: \"We are two pediatricians who have recently visited the southern border.\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 13:55:16 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly representing the people of Washington State\u2019s 8th District. Pediatrician. Mom.",
+        "favourites_count": 113,
+        "followers_count": 7377,
+        "friends_count": 67,
+        "id": 1080462532815532032,
+        "id_str": "1080462532815532032",
+        "listed_count": 202,
+        "location": "Washington, DC",
+        "name": "Rep. Kim Schrier",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080462532815532032/1556719960",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129401036349857793/zvLbPQb6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129401036349857793/zvLbPQb6_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepKimSchrier",
+        "statuses_count": 308,
+        "url": "https://t.co/IurKFdz2L9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 32431468,
+            "id_str": "32431468",
+            "name": "Amer Acad Pediatrics",
+            "screen_name": "AmerAcadPeds"
+        },
+        {
+            "id": 1219273140,
+            "id_str": "1219273140",
+            "name": "Sally Goza",
+            "screen_name": "sallygoza"
+        },
+        {
+            "id": 1080462532815532032,
+            "id_str": "1080462532815532032",
+            "name": "Rep. Kim Schrier",
+            "screen_name": "RepKimSchrier"
+        },
+        {
+            "id": 2884771,
+            "id_str": "2884771",
+            "name": "Newsweek",
+            "screen_name": "Newsweek"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "created_at": "Wed May 15 23:34:49 +0000 2019",
+    "hashtags": [],
+    "id": 1128805969192988674,
+    "id_str": "1128805969192988674",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed May 15 22:43:37 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1128793083087335425,
+        "id_str": "1128793083087335425",
+        "in_reply_to_screen_name": "Bing_Chris",
+        "in_reply_to_status_id": 1128792746712621056,
+        "in_reply_to_user_id": 497332727,
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "@Reuters The measure, added by @Call_Me_Dutch, also asks for information about whether the State Department has pre\u2026 https://t.co/i8WR0cKjkx",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1128793083087335425",
+                "url": "https://t.co/i8WR0cKjkx"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Feb 19 21:41:53 +0000 2012",
+            "description": "@Reuters cybersecurity reporter. email: https://t.co/BAU0rTv1v3 at https://t.co/c2bA62Y2up. Signal: 202-510-0174. More contact info: https://t.co/ObsOUbwsm5",
+            "favourites_count": 12274,
+            "followers_count": 9467,
+            "friends_count": 1422,
+            "id": 497332727,
+            "id_str": "497332727",
+            "listed_count": 609,
+            "location": "Washington DC",
+            "name": "Chris Bing",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/497332727/1524849872",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/963904385746120706/iqwHq6c8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/963904385746120706/iqwHq6c8_normal.jpg",
+            "profile_link_color": "3FDBC8",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "Bing_Chris",
+            "statuses_count": 1041,
+            "url": "https://t.co/5Q0C7hQBsJ",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1652541,
+                "id_str": "1652541",
+                "name": "Reuters Top News",
+                "screen_name": "Reuters"
+            },
+            {
+                "id": 305620929,
+                "id_str": "305620929",
+                "name": "Dutch Ruppersberger",
+                "screen_name": "Call_Me_Dutch"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Bing_Chris: @Reuters The measure, added by @Call_Me_Dutch, also asks for information about whether the State Department has previously\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu May 26 14:39:08 +0000 2011",
+        "description": "U.S. Congressman serving Maryland's 2nd District. Member of House Appropriations Committee. Loves all things Baltimore esp. the Ravens, Orioles and crabs.",
+        "favourites_count": 1045,
+        "followers_count": 16289,
+        "friends_count": 2172,
+        "geo_enabled": true,
+        "id": 305620929,
+        "id_str": "305620929",
+        "listed_count": 789,
+        "location": "Washington, DC",
+        "name": "Dutch Ruppersberger",
+        "profile_background_color": "4A913C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/305620929/1527186539",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096477613764296705/ddJY1pDH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096477613764296705/ddJY1pDH_normal.png",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "Call_Me_Dutch",
+        "statuses_count": 3859,
+        "url": "http://t.co/uAblmVkUWN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 497332727,
+            "id_str": "497332727",
+            "name": "Chris Bing",
+            "screen_name": "Bing_Chris"
+        },
+        {
+            "id": 1652541,
+            "id_str": "1652541",
+            "name": "Reuters Top News",
+            "screen_name": "Reuters"
+        },
+        {
+            "id": 305620929,
+            "id_str": "305620929",
+            "name": "Dutch Ruppersberger",
+            "screen_name": "Call_Me_Dutch"
+        }
+    ]
+}

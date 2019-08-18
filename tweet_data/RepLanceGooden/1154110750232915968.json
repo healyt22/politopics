@@ -1,0 +1,103 @@
+{
+    "created_at": "Wed Jul 24 19:26:59 +0000 2019",
+    "hashtags": [],
+    "id": 1154110750232915968,
+    "id_str": "1154110750232915968",
+    "lang": "en",
+    "retweet_count": 30,
+    "retweeted_status": {
+        "created_at": "Wed Jul 24 19:24:00 +0000 2019",
+        "favorite_count": 72,
+        "hashtags": [],
+        "id": 1154109999695536128,
+        "id_str": "1154109999695536128",
+        "lang": "en",
+        "retweet_count": 30,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@RepLanceGooden: \"In the future, I would have just let them remain self-glued to the walls when everyone goes home\u2026 https://t.co/zmx5nWNPpA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154109999695536128",
+                "url": "https://t.co/zmx5nWNPpA"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Sep 22 15:44:35 +0000 2017",
+            "default_profile": true,
+            "description": "Reporter at @realDailyWire",
+            "favourites_count": 3667,
+            "followers_count": 15401,
+            "friends_count": 424,
+            "geo_enabled": true,
+            "id": 911254908921298944,
+            "id_str": "911254908921298944",
+            "listed_count": 149,
+            "name": "Molly Prince",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/911254908921298944/1550336732",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1121128552471171080/Zi1fzZiK_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121128552471171080/Zi1fzZiK_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "mollyfprince",
+            "statuses_count": 4632,
+            "url": "https://t.co/j4NfNP1MCh",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 412595957,
+                "id_str": "412595957",
+                "name": "Lance Gooden",
+                "screen_name": "RepLanceGooden"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @mollyfprince: .@RepLanceGooden: \"In the future, I would have just let them remain self-glued to the walls when everyone goes home for t\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Nov 14 22:37:53 +0000 2011",
+        "description": "Proud to represent Texas' 5th District in the U.S. House of Representatives. Serving on @FinancialCmte.",
+        "followers_count": 2735,
+        "friends_count": 371,
+        "geo_enabled": true,
+        "id": 412595957,
+        "id_str": "412595957",
+        "listed_count": 185,
+        "location": "Terrell, Texas",
+        "name": "Lance Gooden",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/412595957/1550077170",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093534775330201601/2iFr5YYd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093534775330201601/2iFr5YYd_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepLanceGooden",
+        "statuses_count": 486,
+        "url": "https://t.co/q01QHrXFWj",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 911254908921298944,
+            "id_str": "911254908921298944",
+            "name": "Molly Prince",
+            "screen_name": "mollyfprince"
+        },
+        {
+            "id": 412595957,
+            "id_str": "412595957",
+            "name": "Lance Gooden",
+            "screen_name": "RepLanceGooden"
+        }
+    ]
+}

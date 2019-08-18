@@ -1,0 +1,202 @@
+{
+    "created_at": "Sun Aug 04 21:32:04 +0000 2019",
+    "hashtags": [],
+    "id": 1158128495568072705,
+    "id_str": "1158128495568072705",
+    "lang": "en",
+    "retweet_count": 19,
+    "retweeted_status": {
+        "created_at": "Sun Aug 04 21:29:52 +0000 2019",
+        "favorite_count": 44,
+        "hashtags": [],
+        "id": 1158127941571809280,
+        "id_str": "1158127941571809280",
+        "lang": "en",
+        "place": {
+            "id": "1c69a67ad480e1b1",
+            "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+            "place_type": "city",
+            "name": "Houston",
+            "full_name": "Houston, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.823268,
+                            29.522325
+                        ],
+                        [
+                            -95.069705,
+                            29.522325
+                        ],
+                        [
+                            -95.069705,
+                            30.1546646
+                        ],
+                        [
+                            -95.823268,
+                            30.1546646
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 19,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Mayor @SylvesterTurner joins @JacksonLeeTX18, @RobertGallegos_, @AdrianGarciaHTX, @ArtAcevedo, @FIELHouston and oth\u2026 https://t.co/vbSy0xmJlI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1158127941571809280",
+                "url": "https://t.co/vbSy0xmJlI"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 25 04:36:40 +0000 2009",
+            "description": "Admin Specialist to Myr @SylvesterTurner. Will be somewhere on a beach. - #baseball fanatic - #politicalfan - adventure seeker- #txlege - #houcouncil - #HTown",
+            "favourites_count": 40896,
+            "followers_count": 3389,
+            "friends_count": 3491,
+            "geo_enabled": true,
+            "id": 21836962,
+            "id_str": "21836962",
+            "listed_count": 122,
+            "location": "Houston TX",
+            "name": "Jeff Syptak",
+            "profile_background_color": "460699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21836962/1560280226",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147020389601685504/IfutJEPz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147020389601685504/IfutJEPz_normal.jpg",
+            "profile_link_color": "4B0082",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "76B1FA",
+            "profile_text_color": "0FFA9C",
+            "profile_use_background_image": true,
+            "screen_name": "JeffSyptak",
+            "statuses_count": 25370,
+            "url": "https://t.co/pJqGuxOcj5"
+        },
+        "user_mentions": [
+            {
+                "id": 115105973,
+                "id_str": "115105973",
+                "name": "Sylvester Turner",
+                "screen_name": "SylvesterTurner"
+            },
+            {
+                "id": 80612021,
+                "id_str": "80612021",
+                "name": "Sheila Jackson Lee",
+                "screen_name": "JacksonLeeTX18"
+            },
+            {
+                "id": 1265472924,
+                "id_str": "1265472924",
+                "name": "Robert Gallegos",
+                "screen_name": "RobertGallegos_"
+            },
+            {
+                "id": 72915673,
+                "id_str": "72915673",
+                "name": "Adrian Garcia",
+                "screen_name": "AdrianGarciaHTX"
+            },
+            {
+                "id": 554468819,
+                "id_str": "554468819",
+                "name": "Chief Art Acevedo",
+                "screen_name": "ArtAcevedo"
+            },
+            {
+                "id": 133589460,
+                "id_str": "133589460",
+                "name": "FIEL Houston \ud83e\udd8b",
+                "screen_name": "FIELHouston"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @JeffSyptak: Mayor @SylvesterTurner joins @JacksonLeeTX18, @RobertGallegos_, @AdrianGarciaHTX, @ArtAcevedo, @FIELHouston and others for\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Oct 07 16:13:13 +0000 2009",
+        "description": "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas' 18th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 10123,
+        "followers_count": 77910,
+        "friends_count": 2362,
+        "geo_enabled": true,
+        "id": 80612021,
+        "id_str": "80612021",
+        "listed_count": 1791,
+        "location": "Houston, TX",
+        "name": "Sheila Jackson Lee",
+        "profile_background_color": "F5F7FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80612021/1538174062",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+        "profile_link_color": "0A2AFC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E4E4E4",
+        "profile_text_color": "E61212",
+        "profile_use_background_image": true,
+        "screen_name": "JacksonLeeTX18",
+        "statuses_count": 7930,
+        "url": "https://t.co/5K4lQ3yBcP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21836962,
+            "id_str": "21836962",
+            "name": "Jeff Syptak",
+            "screen_name": "JeffSyptak"
+        },
+        {
+            "id": 115105973,
+            "id_str": "115105973",
+            "name": "Sylvester Turner",
+            "screen_name": "SylvesterTurner"
+        },
+        {
+            "id": 80612021,
+            "id_str": "80612021",
+            "name": "Sheila Jackson Lee",
+            "screen_name": "JacksonLeeTX18"
+        },
+        {
+            "id": 1265472924,
+            "id_str": "1265472924",
+            "name": "Robert Gallegos",
+            "screen_name": "RobertGallegos_"
+        },
+        {
+            "id": 72915673,
+            "id_str": "72915673",
+            "name": "Adrian Garcia",
+            "screen_name": "AdrianGarciaHTX"
+        },
+        {
+            "id": 554468819,
+            "id_str": "554468819",
+            "name": "Chief Art Acevedo",
+            "screen_name": "ArtAcevedo"
+        },
+        {
+            "id": 133589460,
+            "id_str": "133589460",
+            "name": "FIEL Houston \ud83e\udd8b",
+            "screen_name": "FIELHouston"
+        }
+    ]
+}

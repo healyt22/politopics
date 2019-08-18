@@ -1,0 +1,125 @@
+{
+    "created_at": "Thu Jun 20 17:10:06 +0000 2019",
+    "hashtags": [
+        {
+            "text": "SNAP"
+        }
+    ],
+    "id": 1141755112467177473,
+    "id_str": "1141755112467177473",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Jun 20 16:30:41 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "SNAP"
+            }
+        ],
+        "id": 1141745195060477952,
+        "id_str": "1141745195060477952",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "ICYMI: @RepTedYoho penned an op-ed in @FL_Daily highlighting recent fraud within #SNAP and the abuse of work requir\u2026 https://t.co/pwh0R9vr0r",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141745195060477952",
+                "url": "https://t.co/pwh0R9vr0r"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 06 00:23:09 +0000 2011",
+            "description": "News and updates from Ranking Member K. Michael Conaway (TX-11) and the House Agriculture Committee Republicans.",
+            "favourites_count": 1299,
+            "followers_count": 22339,
+            "friends_count": 1201,
+            "id": 234573331,
+            "id_str": "234573331",
+            "listed_count": 748,
+            "location": "Washington, DC",
+            "name": "House Ag GOP",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/234573331/1546292390",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1079854667159519232/pPY07xeq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079854667159519232/pPY07xeq_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "HouseAgGOP",
+            "statuses_count": 6270,
+            "url": "https://t.co/uOxGCh55qL",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1071900114,
+                "id_str": "1071900114",
+                "name": "Ted Yoho",
+                "screen_name": "RepTedYoho"
+            },
+            {
+                "id": 1008376462506971136,
+                "id_str": "1008376462506971136",
+                "name": "@FloridaDaily",
+                "screen_name": "FL_Daily"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @HouseAgGOP: ICYMI: @RepTedYoho penned an op-ed in @FL_Daily highlighting recent fraud within #SNAP and the abuse of work requirements v\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 20:25:18 +0000 2013",
+        "description": "Representing Florida's 3rd Congressional District; large animal veterinarian; conservative business owner; Member of @HouseForeignGOP  & @HouseAgGOP Committees",
+        "favourites_count": 147,
+        "followers_count": 32275,
+        "friends_count": 309,
+        "id": 1071900114,
+        "id_str": "1071900114",
+        "listed_count": 913,
+        "name": "Ted Yoho",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071900114/1368207742",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTedYoho",
+        "statuses_count": 1411,
+        "url": "https://t.co/9wBRsUS6FX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 234573331,
+            "id_str": "234573331",
+            "name": "House Ag GOP",
+            "screen_name": "HouseAgGOP"
+        },
+        {
+            "id": 1071900114,
+            "id_str": "1071900114",
+            "name": "Ted Yoho",
+            "screen_name": "RepTedYoho"
+        },
+        {
+            "id": 1008376462506971136,
+            "id_str": "1008376462506971136",
+            "name": "@FloridaDaily",
+            "screen_name": "FL_Daily"
+        }
+    ]
+}

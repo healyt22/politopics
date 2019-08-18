@@ -1,0 +1,124 @@
+{
+    "created_at": "Thu May 16 21:14:16 +0000 2019",
+    "hashtags": [],
+    "id": 1129132983104004096,
+    "id_str": "1129132983104004096",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu May 16 21:12:58 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1129132657911173125,
+        "id_str": "1129132657911173125",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\"I believe that this lack of transparency is counterproductive. I\u2019m concerned that it could erode public confidence\u2026 https://t.co/NEmpoHnEDM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1129132657911173125",
+                "url": "https://t.co/NEmpoHnEDM"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jul 24 21:25:12 +0000 2015",
+            "description": "The @MiamiHerald's eyes and ears in Washington.   #COYS Send me love: adaugherty@mcclatchydc.com",
+            "favourites_count": 1771,
+            "followers_count": 2076,
+            "friends_count": 801,
+            "geo_enabled": true,
+            "id": 3291076716,
+            "id_str": "3291076716",
+            "listed_count": 96,
+            "location": "Washington, DC",
+            "name": "Alex Daugherty",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3291076716/1437852568",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/867745986025840640/Ab_7n2ea_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/867745986025840640/Ab_7n2ea_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "alextdaugherty",
+            "statuses_count": 9476
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @alextdaugherty: \"I believe that this lack of transparency is counterproductive. I\u2019m concerned that it could erode public confidence in\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 09 02:51:57 +0000 2016",
+        "description": "Fighting for progress and proudly representing Seminole & Orange Counties in the U.S. House of Representatives. #FL07",
+        "favourites_count": 493,
+        "followers_count": 21533,
+        "friends_count": 1028,
+        "geo_enabled": true,
+        "id": 796183515998068736,
+        "id_str": "796183515998068736",
+        "listed_count": 622,
+        "location": "Winter Park, FL",
+        "name": "Rep. Stephanie Murphy",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/796183515998068736/1562094922",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096336998003101696/KaSvMntG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096336998003101696/KaSvMntG_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepStephMurphy",
+        "statuses_count": 2425,
+        "url": "https://t.co/7stdgh39et",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3291076716,
+            "id_str": "3291076716",
+            "name": "Alex Daugherty",
+            "screen_name": "alextdaugherty"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "created_at": "Thu May 23 12:23:12 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1131536053154779136,
+    "id_str": "1131536053154779136",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed May 22 20:32:43 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [
+            {
+                "text": "NAMMFlyIn"
+            }
+        ],
+        "id": 1131296854300385281,
+        "id_str": "1131296854300385281",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Fcqr1J7A4h",
+                "expanded_url": "https://twitter.com/VH1SaveTheMusic/status/1131296854300385281/photo/1",
+                "id": 1131295165354860544,
+                "media_url": "http://pbs.twimg.com/media/D7Mq9YMX4AABsW0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D7Mq9YMX4AABsW0.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Fcqr1J7A4h"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "#NAMMFlyIn continues as we visit Congress woman @RepCarolMiller of West Virginia to advocate for music education! https://t.co/Fcqr1J7A4h",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Feb 18 17:22:45 +0000 2009",
+            "description": "We help kids, schools, and communities realize their full potential through the power of making music. Follow https://t.co/qU56w1wcP4. #SaveTheMusic",
+            "favourites_count": 4533,
+            "followers_count": 44390,
+            "friends_count": 4861,
+            "geo_enabled": true,
+            "id": 21216996,
+            "id_str": "21216996",
+            "listed_count": 711,
+            "location": "New York, NY",
+            "name": "VH1 Save The Music",
+            "profile_background_color": "114493",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21216996/1513359861",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/999399364949753857/AFT4a1Dz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/999399364949753857/AFT4a1Dz_normal.jpg",
+            "profile_link_color": "0EA5DF",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "D40000",
+            "profile_text_color": "FFFFFF",
+            "profile_use_background_image": true,
+            "screen_name": "VH1SaveTheMusic",
+            "statuses_count": 12166,
+            "url": "https://t.co/YW93uI9TN3",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1081318716573470720,
+                "id_str": "1081318716573470720",
+                "name": "Carol Miller",
+                "screen_name": "RepCarolMiller"
+            }
+        ]
+    },
+    "quoted_status_id": 1131296854300385281,
+    "quoted_status_id_str": "1131296854300385281",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thanks for stopping by! https://t.co/DDYiCSQwYK",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/VH1SaveTheMusic/status/1131296854300385281",
+            "url": "https://t.co/DDYiCSQwYK"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 04 22:37:26 +0000 2019",
+        "description": "Wife, mother, grandmother, small business owner, and bison farmer. Proudly serving West Virginia's 3rd Congressional District.",
+        "favourites_count": 43,
+        "followers_count": 3689,
+        "friends_count": 120,
+        "id": 1081318716573470720,
+        "id_str": "1081318716573470720",
+        "listed_count": 143,
+        "location": "Huntington, WV",
+        "name": "Carol Miller",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081318716573470720/1546870140",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081319065514323968/DK8CD7JB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081319065514323968/DK8CD7JB_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepCarolMiller",
+        "statuses_count": 315,
+        "url": "https://t.co/FoIZ4nV66R",
+        "verified": true
+    },
+    "user_mentions": []
+}

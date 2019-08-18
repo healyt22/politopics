@@ -1,0 +1,114 @@
+{
+    "created_at": "Mon Jul 08 16:06:50 +0000 2019",
+    "hashtags": [
+        {
+            "text": "MagicMonday"
+        }
+    ],
+    "id": 1148262172813877248,
+    "id_str": "1148262172813877248",
+    "lang": "en",
+    "retweet_count": 25,
+    "retweeted_status": {
+        "created_at": "Mon Jul 08 13:48:17 +0000 2019",
+        "favorite_count": 58,
+        "hashtags": [
+            {
+                "text": "MagicMonday"
+            }
+        ],
+        "id": 1148227308320415744,
+        "id_str": "1148227308320415744",
+        "lang": "en",
+        "retweet_count": 25,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "For this week\u2019s #MagicMonday, we\u2019re throwing it back to a trick from two years ago with my good friend @RepTedLieu\u2026 https://t.co/DARlPVcfsF",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148227308320415744",
+                "url": "https://t.co/DARlPVcfsF"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 21 22:59:04 +0000 2013",
+            "description": "Honored to serve the people of Wisconsin's Second District. Co-Chair of @USProgressives and @LGBTEqCaucus. Member of @AppropsDems",
+            "favourites_count": 1194,
+            "followers_count": 87688,
+            "friends_count": 5527,
+            "geo_enabled": true,
+            "id": 1206227149,
+            "id_str": "1206227149",
+            "listed_count": 1278,
+            "location": "Madison, WI",
+            "name": "Rep. Mark Pocan",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1206227149/1524146572",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1039192566044999682/TNyedeNK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039192566044999682/TNyedeNK_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "repmarkpocan",
+            "statuses_count": 5967,
+            "url": "https://t.co/IvGB2NpiqX",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 3044993235,
+                "id_str": "3044993235",
+                "name": "Rep. Ted Lieu",
+                "screen_name": "RepTedLieu"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @repmarkpocan: For this week\u2019s #MagicMonday, we\u2019re throwing it back to a trick from two years ago with my good friend @RepTedLieu about\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 19 20:08:54 +0000 2015",
+        "description": "Official Twitter account for the Office of Rep @TedLieu, serving #CA33 in the U.S. House of Representatives \u2022 https://t.co/cSZYg2t9ap \u2022 https://t.co/oA7bA0mWrM",
+        "favourites_count": 634,
+        "followers_count": 147554,
+        "friends_count": 5266,
+        "geo_enabled": true,
+        "id": 3044993235,
+        "id_str": "3044993235",
+        "listed_count": 1441,
+        "location": "Los Angeles, CA & Washington, DC",
+        "name": "Rep. Ted Lieu",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3044993235/1547755096",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978664130457423880/3R-vL8Xp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978664130457423880/3R-vL8Xp_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepTedLieu",
+        "statuses_count": 4998,
+        "url": "https://t.co/gVv4Qfdiiu",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1206227149,
+            "id_str": "1206227149",
+            "name": "Rep. Mark Pocan",
+            "screen_name": "repmarkpocan"
+        },
+        {
+            "id": 3044993235,
+            "id_str": "3044993235",
+            "name": "Rep. Ted Lieu",
+            "screen_name": "RepTedLieu"
+        }
+    ]
+}

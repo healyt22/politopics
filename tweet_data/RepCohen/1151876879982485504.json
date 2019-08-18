@@ -1,0 +1,141 @@
+{
+    "created_at": "Thu Jul 18 15:30:23 +0000 2019",
+    "hashtags": [],
+    "id": 1151876879982485504,
+    "id_str": "1151876879982485504",
+    "lang": "en",
+    "retweet_count": 421,
+    "retweeted_status": {
+        "created_at": "Thu Jul 18 14:58:43 +0000 2019",
+        "favorite_count": 1045,
+        "hashtags": [],
+        "id": 1151868910272204800,
+        "id_str": "1151868910272204800",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 421,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@RepCohen on Trump\u2019s rally: \"It was more reminiscent of Germany during beginnings of the Hitler regime. People yel\u2026 https://t.co/AjuyOOkvpC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151868910272204800",
+                "url": "https://t.co/AjuyOOkvpC"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Apr 26 15:22:47 +0000 2011",
+            "description": "journalist @voxdotcom",
+            "favourites_count": 77093,
+            "followers_count": 132082,
+            "friends_count": 999,
+            "geo_enabled": true,
+            "id": 288277167,
+            "id_str": "288277167",
+            "listed_count": 1859,
+            "name": "Aaron Rupar",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/288277167/1469538346",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "atrupar",
+            "statuses_count": 61866,
+            "url": "https://t.co/RnqX4a5AQt",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 162069635,
+                "id_str": "162069635",
+                "name": "Steve Cohen",
+                "screen_name": "RepCohen"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @atrupar: .@RepCohen on Trump\u2019s rally: \"It was more reminiscent of Germany during beginnings of the Hitler regime. People yelling, 'send\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 02 15:10:21 +0000 2010",
+        "description": "CongressTN09 Memphis;Judiciary&Transportation;Civil Rights&Liberties;Impeach45; Women&Minority Issues;Med. Research;Animal Welfare;Father of TN Ed. Lottery; Dem",
+        "favourites_count": 21591,
+        "followers_count": 66530,
+        "friends_count": 7388,
+        "geo_enabled": true,
+        "id": 162069635,
+        "id_str": "162069635",
+        "listed_count": 1673,
+        "location": "Memphis, TN and Washington, DC",
+        "name": "Steve Cohen",
+        "profile_background_color": "002436",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/162069635/1478383164",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096455442635636737/9KUK51VJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096455442635636737/9KUK51VJ_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepCohen",
+        "statuses_count": 9935,
+        "url": "https://t.co/8nluo21rdt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 288277167,
+            "id_str": "288277167",
+            "name": "Aaron Rupar",
+            "screen_name": "atrupar"
+        },
+        {
+            "id": 162069635,
+            "id_str": "162069635",
+            "name": "Steve Cohen",
+            "screen_name": "RepCohen"
+        }
+    ]
+}

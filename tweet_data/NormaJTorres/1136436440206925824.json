@@ -1,0 +1,126 @@
+{
+    "created_at": "Thu Jun 06 00:55:35 +0000 2019",
+    "hashtags": [],
+    "id": 1136436440206925824,
+    "id_str": "1136436440206925824",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Wed Jun 05 17:06:39 +0000 2019",
+        "favorite_count": 22,
+        "hashtags": [],
+        "id": 1136318428782850048,
+        "id_str": "1136318428782850048",
+        "lang": "en",
+        "place": {
+            "id": "07d9d63bac088005",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d63bac088005.json",
+            "place_type": "poi",
+            "name": "Hall of Justice - Los Angeles County",
+            "full_name": "Hall of Justice - Los Angeles County",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -118.2432028629475,
+                            34.05595999030576
+                        ],
+                        [
+                            -118.2432028629475,
+                            34.05595999030576
+                        ],
+                        [
+                            -118.2432028629475,
+                            34.05595999030576
+                        ],
+                        [
+                            -118.2432028629475,
+                            34.05595999030576
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Gun violence continues to plague our country and local communities. We must work to protect those around us and at\u2026 https://t.co/l3ankuk8tp",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1136318428782850048",
+                "url": "https://t.co/l3ankuk8tp"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 27 19:24:19 +0000 2018",
+            "default_profile": true,
+            "description": "33rd Sheriff, Los Angeles County; Veteran; Doctorate of Public Administration; 30+ years #LASD #SheriffV",
+            "favourites_count": 138,
+            "followers_count": 2769,
+            "friends_count": 293,
+            "geo_enabled": true,
+            "id": 1067499378175238144,
+            "id_str": "1067499378175238144",
+            "listed_count": 28,
+            "location": "Los Angeles, CA",
+            "name": "Alex Villanueva",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067499378175238144/1543898306",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LACoSheriff",
+            "statuses_count": 320,
+            "url": "https://t.co/rDy4m9WlSL",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LACoSheriff: Gun violence continues to plague our country and local communities. We must work to protect those around us and at home by\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 10 06:30:14 +0000 2011",
+        "description": "U.S. Representative for California's 35th District. @AppropsDems @RulesDemocrats",
+        "favourites_count": 2217,
+        "followers_count": 28014,
+        "friends_count": 933,
+        "geo_enabled": true,
+        "id": 236279233,
+        "id_str": "236279233",
+        "listed_count": 767,
+        "name": "Rep. Norma Torres",
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/236279233/1544984214",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/751489059181191168/aVrXV_MJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/751489059181191168/aVrXV_MJ_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "NormaJTorres",
+        "statuses_count": 7253,
+        "url": "https://t.co/U117m1MF5R",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1067499378175238144,
+            "id_str": "1067499378175238144",
+            "name": "Alex Villanueva",
+            "screen_name": "LACoSheriff"
+        }
+    ]
+}

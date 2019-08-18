@@ -1,0 +1,122 @@
+{
+    "created_at": "Mon Aug 05 14:26:42 +0000 2019",
+    "favorite_count": 78,
+    "hashtags": [],
+    "id": 1158383833261232129,
+    "id_str": "1158383833261232129",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Aug 05 12:35:24 +0000 2019",
+        "favorite_count": 4809,
+        "hashtags": [],
+        "id": 1158355826127572993,
+        "id_str": "1158355826127572993",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dE9ZkoKiw3",
+                "expanded_url": "https://twitter.com/mlcalderone/status/1158355826127572993/photo/1",
+                "id": 1158355821346136065,
+                "media_url": "http://pbs.twimg.com/media/EBNOe3bXoAEzpca.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBNOe3bXoAEzpca.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 1168,
+                        "h": 538,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 313,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1168,
+                        "h": 538,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/dE9ZkoKiw3"
+            }
+        ],
+        "retweet_count": 2172,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "\u201cThe media is infamous for fake news,\u201d the El Paso shooter wrote in his screed. The president two days later: https://t.co/dE9ZkoKiw3",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Aug 05 02:23:01 +0000 2009",
+            "description": "Politico senior media reporter. Previous reporting at HuffPost, Yahoo News, NY Observer; taught at NYU, Princeton. mcalderone@politico.com",
+            "followers_count": 78663,
+            "friends_count": 2776,
+            "id": 63004503,
+            "id_str": "63004503",
+            "listed_count": 2927,
+            "location": "Brooklyn, NY",
+            "name": "Michael Calderone",
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/63004503/1481499293",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/888555899404652546/hvfkqsom_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/888555899404652546/hvfkqsom_normal.jpg",
+            "profile_link_color": "9D582E",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "mlcalderone",
+            "statuses_count": 27259,
+            "url": "https://t.co/2fk6nCM0cZ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1158355826127572993,
+    "quoted_status_id_str": "1158355826127572993",
+    "retweet_count": 19,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "When the leader of the free world traffics in incendiary bombast and baseless racial attacks on minorities, skulkin\u2026 https://t.co/aZGUGbUzSL",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1158383833261232129",
+            "url": "https://t.co/aZGUGbUzSL"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 15 17:54:32 +0000 2009",
+        "description": "Representing the 9th District of New Jersey in the House of Representatives. Member, Ways & Means Committee.",
+        "favourites_count": 5727,
+        "followers_count": 47462,
+        "friends_count": 95,
+        "geo_enabled": true,
+        "id": 74508260,
+        "id_str": "74508260",
+        "listed_count": 1038,
+        "location": "Paterson, NJ",
+        "name": "Bill Pascrell, Jr.",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74508260/1486055628",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979359893214912512/pazrRFes_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979359893214912512/pazrRFes_normal.jpg",
+        "profile_link_color": "004080",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "BillPascrell",
+        "statuses_count": 4345,
+        "url": "https://t.co/q9EtRgyxbk",
+        "verified": true
+    },
+    "user_mentions": []
+}

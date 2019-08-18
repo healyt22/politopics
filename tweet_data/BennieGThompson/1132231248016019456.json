@@ -1,0 +1,130 @@
+{
+    "created_at": "Sat May 25 10:25:40 +0000 2019",
+    "hashtags": [],
+    "id": 1132231248016019456,
+    "id_str": "1132231248016019456",
+    "lang": "en",
+    "retweet_count": 145,
+    "retweeted_status": {
+        "created_at": "Fri May 24 23:55:28 +0000 2019",
+        "favorite_count": 414,
+        "hashtags": [],
+        "id": 1132072654431805441,
+        "id_str": "1132072654431805441",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 145,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "It is time to have the House vote on H. Res. 396, the Resolution of Investigation. To put the power of the House of\u2026 https://t.co/ZalZ4cJtVW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1132072654431805441",
+                "url": "https://t.co/ZalZ4cJtVW"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Oct 07 16:13:13 +0000 2009",
+            "description": "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas' 18th Congressional District in the U.S. House of Representatives.",
+            "favourites_count": 10123,
+            "followers_count": 77910,
+            "friends_count": 2362,
+            "geo_enabled": true,
+            "id": 80612021,
+            "id_str": "80612021",
+            "listed_count": 1791,
+            "location": "Houston, TX",
+            "name": "Sheila Jackson Lee",
+            "profile_background_color": "F5F7FF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/80612021/1538174062",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+            "profile_link_color": "0A2AFC",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E4E4E4",
+            "profile_text_color": "E61212",
+            "profile_use_background_image": true,
+            "screen_name": "JacksonLeeTX18",
+            "statuses_count": 7930,
+            "url": "https://t.co/5K4lQ3yBcP",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JacksonLeeTX18: It is time to have the House vote on H. Res. 396, the Resolution of Investigation. To put the power of the House of Rep\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Oct 14 20:47:03 +0000 2009",
+        "default_profile": true,
+        "description": "Husband. Father. Grandfather. Avid hunter. Proudly serving #MS02 in Congress. | Chairman of @HomelandDems. | Follow my Instagram: @benniegthompson.",
+        "favourites_count": 339,
+        "followers_count": 15525,
+        "friends_count": 492,
+        "geo_enabled": true,
+        "id": 82453460,
+        "id_str": "82453460",
+        "listed_count": 747,
+        "location": "Bolton, Mississippi",
+        "name": "Bennie G. Thompson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82453460/1554548330",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096228528192978945/iNFz66uB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096228528192978945/iNFz66uB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "BennieGThompson",
+        "statuses_count": 2193,
+        "url": "https://t.co/kfK8rrv43J",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 80612021,
+            "id_str": "80612021",
+            "name": "Sheila Jackson Lee",
+            "screen_name": "JacksonLeeTX18"
+        }
+    ]
+}

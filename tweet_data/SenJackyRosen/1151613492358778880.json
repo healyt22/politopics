@@ -1,0 +1,187 @@
+{
+    "created_at": "Wed Jul 17 22:03:47 +0000 2019",
+    "hashtags": [],
+    "id": 1151613492358778880,
+    "id_str": "1151613492358778880",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jul 17 12:59:01 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 1151476397342416896,
+        "id_str": "1151476397342416896",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mPWlWrQyL1",
+                "expanded_url": "https://twitter.com/MsLorisStory/status/1151476397342416896/photo/1",
+                "id": 1151476390681808896,
+                "media_url": "http://pbs.twimg.com/media/D_rdrTHWkAAWYSf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_rdrTHWkAAWYSf.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/mPWlWrQyL1"
+            }
+        ],
+        "place": {
+            "id": "07d9c965e1888000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c965e1888000.json",
+            "place_type": "poi",
+            "name": "Dirksen Senate Building",
+            "full_name": "Dirksen Senate Building",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ],
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ],
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ],
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@BLousignont and I at the Battle Born Breakfast with @SenCortezMasto and @SenJackyRosen this morning! https://t.co/mPWlWrQyL1",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Dec 19 07:32:03 +0000 2009",
+            "description": "6-12 Science Project Facilitator @ccsd_cpd, @nevadascience Membership Coordinator, @officialNGSS #SciencePRP Member, adventurer of the outdoors",
+            "favourites_count": 1022,
+            "followers_count": 305,
+            "friends_count": 715,
+            "geo_enabled": true,
+            "id": 97848891,
+            "id_str": "97848891",
+            "listed_count": 10,
+            "location": "Henderson, NV",
+            "name": "Lori Henrickson",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/97848891/1562553283",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1148057785919127552/wx85UpmA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148057785919127552/wx85UpmA_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "MsLorisStory",
+            "statuses_count": 790
+        },
+        "user_mentions": [
+            {
+                "id": 1490677446,
+                "id_str": "1490677446",
+                "name": "Beverly L.",
+                "screen_name": "BLousignont"
+            },
+            {
+                "id": 811313565760163844,
+                "id_str": "811313565760163844",
+                "name": "Senator Cortez Masto",
+                "screen_name": "SenCortezMasto"
+            },
+            {
+                "id": 818554054309715969,
+                "id_str": "818554054309715969",
+                "name": "Senator Jacky Rosen",
+                "screen_name": "SenJackyRosen"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @MsLorisStory: .@BLousignont and I at the Battle Born Breakfast with @SenCortezMasto and @SenJackyRosen this morning! https://t.co/mPWlW\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 09 20:24:29 +0000 2017",
+        "default_profile": true,
+        "description": "U.S. Senator for Nevada.",
+        "favourites_count": 149,
+        "followers_count": 21274,
+        "friends_count": 238,
+        "id": 818554054309715969,
+        "id_str": "818554054309715969",
+        "listed_count": 532,
+        "location": "Las Vegas, NV",
+        "name": "Senator Jacky Rosen",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818554054309715969/1546525180",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJackyRosen",
+        "statuses_count": 4202,
+        "url": "https://t.co/BHuJG9D5U9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 97848891,
+            "id_str": "97848891",
+            "name": "Lori Henrickson",
+            "screen_name": "MsLorisStory"
+        },
+        {
+            "id": 1490677446,
+            "id_str": "1490677446",
+            "name": "Beverly L.",
+            "screen_name": "BLousignont"
+        },
+        {
+            "id": 811313565760163844,
+            "id_str": "811313565760163844",
+            "name": "Senator Cortez Masto",
+            "screen_name": "SenCortezMasto"
+        },
+        {
+            "id": 818554054309715969,
+            "id_str": "818554054309715969",
+            "name": "Senator Jacky Rosen",
+            "screen_name": "SenJackyRosen"
+        }
+    ]
+}

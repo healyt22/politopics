@@ -1,0 +1,101 @@
+{
+    "created_at": "Tue Mar 05 21:02:02 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1103037978383925248,
+    "id_str": "1103037978383925248",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Mar 05 19:16:11 +0000 2019",
+        "favorite_count": 2199,
+        "hashtags": [],
+        "id": 1103011343358222336,
+        "id_str": "1103011343358222336",
+        "lang": "en",
+        "retweet_count": 1069,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "These Democrats hate @POTUS @realDonaldTrump so personally, and so viscerally, that they are willing to turn Americ\u2026 https://t.co/FmBDTm3DcN",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1103011343358222336",
+                "url": "https://t.co/FmBDTm3DcN"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+            "default_profile": true,
+            "description": "Representing Arizona's Fighting Fifth.",
+            "favourites_count": 3734,
+            "followers_count": 26796,
+            "friends_count": 1227,
+            "id": 816652616625168388,
+            "id_str": "816652616625168388",
+            "listed_count": 582,
+            "location": "Arizona, USA",
+            "name": "Rep Andy Biggs",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1558381518",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepAndyBiggsAZ",
+            "statuses_count": 5735,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 822215679726100480,
+                "id_str": "822215679726100480",
+                "name": "President Trump",
+                "screen_name": "POTUS"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "quoted_status_id": 1103011343358222336,
+    "quoted_status_id_str": "1103011343358222336",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Excellent op ed by my colleague. https://t.co/M25SOfsmuo",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1103011343358222336",
+            "url": "https://t.co/M25SOfsmuo"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 15:54:32 +0000 2019",
+        "default_profile": true,
+        "description": "Ron Wright is a sixth generation resident of Tarrant County.  He has been active in political affairs and community service work for more than 30 years.",
+        "favourites_count": 109,
+        "followers_count": 1583,
+        "friends_count": 338,
+        "id": 1080854935535800320,
+        "id_str": "1080854935535800320",
+        "listed_count": 111,
+        "name": "Ron Wright",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080854935535800320/1547051595",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081206587426045958/MkX5U9E6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081206587426045958/MkX5U9E6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRonWright",
+        "statuses_count": 282,
+        "url": "https://t.co/NzGiQ66v6o",
+        "verified": true
+    },
+    "user_mentions": []
+}

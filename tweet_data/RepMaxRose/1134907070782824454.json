@@ -1,0 +1,139 @@
+{
+    "created_at": "Sat Jun 01 19:38:25 +0000 2019",
+    "hashtags": [],
+    "id": 1134907070782824454,
+    "id_str": "1134907070782824454",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sat Jun 01 16:52:45 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 1134865378457337857,
+        "id_str": "1134865378457337857",
+        "lang": "en",
+        "place": {
+            "id": "07d9c9a5a2881001",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c9a5a2881001.json",
+            "place_type": "poi",
+            "name": "Jody's Club Forest",
+            "full_name": "Jody's Club Forest",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.10191246911978,
+                            40.630893737789805
+                        ],
+                        [
+                            -74.10191246911978,
+                            40.630893737789805
+                        ],
+                        [
+                            -74.10191246911978,
+                            40.630893737789805
+                        ],
+                        [
+                            -74.10191246911978,
+                            40.630893737789805
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today I was proud to bestow on Jody Haggerty the highest honor @NYCCouncil can give \u2014 we renamed Forest + Oakwood i\u2026 https://t.co/iyy2f8hoR0",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1134865378457337857",
+                "url": "https://t.co/iyy2f8hoR0"
+            }
+        ],
+        "user": {
+            "created_at": "Tue May 11 19:36:35 +0000 2010",
+            "description": "Councilmember, District 49 I Chair, Youth Services Committee I Deputy Majority Leader, NYC Council",
+            "favourites_count": 2750,
+            "followers_count": 6388,
+            "friends_count": 1032,
+            "geo_enabled": true,
+            "id": 142790559,
+            "id_str": "142790559",
+            "listed_count": 173,
+            "location": "49th District - North Shore",
+            "name": "Debi Rose",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/142790559/1524244646",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/951898249874608128/Q8y0l8xv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/951898249874608128/Q8y0l8xv_normal.jpg",
+            "profile_link_color": "023547",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "93A9B8",
+            "profile_text_color": "0A090A",
+            "profile_use_background_image": true,
+            "screen_name": "CMDebiRose",
+            "statuses_count": 7322,
+            "url": "https://t.co/5Rdc5oD1k7",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18906097,
+                "id_str": "18906097",
+                "name": "NYC Council",
+                "screen_name": "NYCCouncil"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CMDebiRose: Today I was proud to bestow on Jody Haggerty the highest honor @NYCCouncil can give \u2014 we renamed Forest + Oakwood in his ho\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 28 16:40:02 +0000 2018",
+        "default_profile": true,
+        "description": "\u201cLittle Guy\" according to @CityandStateNY. \"Human Terrier\" according to @WashingtonPost. But Staten Islanders and South Brooklynites, please just call me Max.",
+        "favourites_count": 139,
+        "followers_count": 13509,
+        "friends_count": 673,
+        "id": 1078692057940742144,
+        "id_str": "1078692057940742144",
+        "listed_count": 218,
+        "location": "Staten Island and South Brooklyn, NY",
+        "name": "Rep. Max Rose",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078692057940742144/1548979187",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091109882953191424/qlSgfhF2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091109882953191424/qlSgfhF2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMaxRose",
+        "statuses_count": 597,
+        "url": "https://t.co/nJq5nPN9Xw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 142790559,
+            "id_str": "142790559",
+            "name": "Debi Rose",
+            "screen_name": "CMDebiRose"
+        },
+        {
+            "id": 18906097,
+            "id_str": "18906097",
+            "name": "NYC Council",
+            "screen_name": "NYCCouncil"
+        }
+    ]
+}

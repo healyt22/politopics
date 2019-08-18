@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed May 22 01:19:45 +0000 2019",
+    "favorite_count": 4172,
+    "hashtags": [],
+    "id": 1131006702617337857,
+    "id_str": "1131006702617337857",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 21 19:35:41 +0000 2019",
+        "favorite_count": 13973,
+        "hashtags": [],
+        "id": 1130920113119649793,
+        "id_str": "1130920113119649793",
+        "lang": "en",
+        "retweet_count": 5043,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Today, when I pressed him on HUD policies @SecretaryCarson condescendingly told me to think \"logically\" not \"emotio\u2026 https://t.co/Ptx1zsV2Sl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1130920113119649793",
+                "url": "https://t.co/Ptx1zsV2Sl"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 08 18:18:20 +0000 2010",
+            "default_profile": true,
+            "description": "Represents New York's 7th Congressional District in the U.S. House of Representatives. Chairwoman of House Small Business Committee. Follow us @HouseSmallBiz",
+            "favourites_count": 629,
+            "followers_count": 58907,
+            "friends_count": 5103,
+            "geo_enabled": true,
+            "id": 164369297,
+            "id_str": "164369297",
+            "listed_count": 1371,
+            "location": "NYC and DC",
+            "name": "Rep. Nydia Velazquez",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/164369297/1523637643",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/994585599343554561/duJdBxTR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/994585599343554561/duJdBxTR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NydiaVelazquez",
+            "statuses_count": 6935,
+            "url": "https://t.co/Gahd1XU986",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 828613457020870657,
+                "id_str": "828613457020870657",
+                "name": "Ben Carson",
+                "screen_name": "SecretaryCarson"
+            }
+        ]
+    },
+    "quoted_status_id": 1130920113119649793,
+    "quoted_status_id_str": "1130920113119649793",
+    "retweet_count": 1270,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thank you @NydiaVelazquez! This administration cannot defend the immorality of its policies. @SecretaryCarson embar\u2026 https://t.co/d5lBfRUmSF",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1131006702617337857",
+            "url": "https://t.co/d5lBfRUmSF"
+        }
+    ],
+    "user": {
+        "created_at": "Fri May 15 18:37:39 +0000 2009",
+        "description": "Representing parts of Manhattan and Brooklyn. Proud to serve as the Chair of @HouseJudiciary. Follow me at https://t.co/eAS0pRYbYu",
+        "favourites_count": 559,
+        "followers_count": 205679,
+        "friends_count": 1980,
+        "geo_enabled": true,
+        "id": 40302336,
+        "id_str": "40302336",
+        "listed_count": 2293,
+        "location": "New York, NY",
+        "name": "(((Rep. Nadler)))",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40302336/1557845965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJerryNadler",
+        "statuses_count": 6053,
+        "url": "https://t.co/keKmu0YhMW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 164369297,
+            "id_str": "164369297",
+            "name": "Rep. Nydia Velazquez",
+            "screen_name": "NydiaVelazquez"
+        },
+        {
+            "id": 828613457020870657,
+            "id_str": "828613457020870657",
+            "name": "Ben Carson",
+            "screen_name": "SecretaryCarson"
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "created_at": "Mon Apr 08 13:23:20 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Mesa"
+        }
+    ],
+    "id": 1115243732079714304,
+    "id_str": "1115243732079714304",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Sun Apr 07 20:44:39 +0000 2019",
+        "favorite_count": 91,
+        "hashtags": [
+            {
+                "text": "Mesa"
+            }
+        ],
+        "id": 1114992403994165248,
+        "id_str": "1114992403994165248",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8dKVdDpSQb",
+                "expanded_url": "https://twitter.com/MayorGiles/status/1114992403994165248/photo/1",
+                "id": 1114992392438812672,
+                "media_url": "http://pbs.twimg.com/media/D3k_rGaUEAAo_7d.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D3k_rGaUEAAo_7d.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8dKVdDpSQb"
+            },
+            {
+                "display_url": "pic.twitter.com/8dKVdDpSQb",
+                "expanded_url": "https://twitter.com/MayorGiles/status/1114992403994165248/photo/1",
+                "id": 1114992392430428160,
+                "media_url": "http://pbs.twimg.com/media/D3k_rGYUIAAST4M.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D3k_rGYUIAAST4M.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8dKVdDpSQb"
+            },
+            {
+                "display_url": "pic.twitter.com/8dKVdDpSQb",
+                "expanded_url": "https://twitter.com/MayorGiles/status/1114992403994165248/photo/1",
+                "id": 1114992392430448640,
+                "media_url": "http://pbs.twimg.com/media/D3k_rGYUcAAqHQN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D3k_rGYUcAAqHQN.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8dKVdDpSQb"
+            }
+        ],
+        "place": {
+            "id": "5c62ffb0f0f3479d",
+            "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json",
+            "place_type": "city",
+            "name": "Phoenix",
+            "full_name": "Phoenix, AZ",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -112.3239143,
+                            33.29026
+                        ],
+                        [
+                            -111.9254391,
+                            33.29026
+                        ],
+                        [
+                            -111.9254391,
+                            33.8154652
+                        ],
+                        [
+                            -112.3239143,
+                            33.8154652
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#Mesa loves joining our neighbors for @PhoenixPrideAZ \ud83c\udf08 Diversity and inclusion are a priority in our community \u2764\ufe0f https://t.co/8dKVdDpSQb",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Aug 19 20:17:43 +0000 2010",
+            "description": "John Giles. 40th Mayor of Mesa, Arizona",
+            "favourites_count": 1460,
+            "followers_count": 3949,
+            "friends_count": 403,
+            "geo_enabled": true,
+            "id": 180507825,
+            "id_str": "180507825",
+            "listed_count": 129,
+            "location": "Mesa, AZ",
+            "name": "Mayor John Giles",
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/180507825/1528492176",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649283386784153601/oo038o6v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649283386784153601/oo038o6v_normal.jpg",
+            "profile_link_color": "990000",
+            "profile_sidebar_border_color": "DFDFDF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MayorGiles",
+            "statuses_count": 3036,
+            "url": "https://t.co/bfzlm45Q4H",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 43412331,
+                "id_str": "43412331",
+                "name": "Phoenix Pride",
+                "screen_name": "PhoenixPrideAZ"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @MayorGiles: #Mesa loves joining our neighbors for @PhoenixPrideAZ \ud83c\udf08 Diversity and inclusion are a priority in our community \u2764\ufe0f https://\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 17:54:19 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly serving Arizona's 9th Congressional District",
+        "favourites_count": 67,
+        "followers_count": 3958,
+        "friends_count": 1129,
+        "id": 1080885078425784320,
+        "id_str": "1080885078425784320",
+        "listed_count": 167,
+        "name": "Greg Stanton",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080885078425784320/1546958876",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080997387831832577/QeoSs0Jd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080997387831832577/QeoSs0Jd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGregStanton",
+        "statuses_count": 306,
+        "url": "https://t.co/3BRXv6iBwh",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 180507825,
+            "id_str": "180507825",
+            "name": "Mayor John Giles",
+            "screen_name": "MayorGiles"
+        },
+        {
+            "id": 43412331,
+            "id_str": "43412331",
+            "name": "Phoenix Pride",
+            "screen_name": "PhoenixPrideAZ"
+        }
+    ]
+}

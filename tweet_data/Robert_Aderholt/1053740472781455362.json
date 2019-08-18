@@ -1,0 +1,115 @@
+{
+    "created_at": "Sat Oct 20 20:11:20 +0000 2018",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1053740472781455362,
+    "id_str": "1053740472781455362",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/NltpErYvD5",
+            "expanded_url": "https://twitter.com/Robert_Aderholt/status/1053740472781455362/photo/1",
+            "id": 1053740468612354053,
+            "media_url": "http://pbs.twimg.com/media/Dp-jX40X0AUjJcb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dp-jX40X0AUjJcb.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 480,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 480,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 480,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/NltpErYvD5"
+        }
+    ],
+    "place": {
+        "id": "07d9e41da7488002",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e41da7488002.json",
+        "place_type": "poi",
+        "name": "Gadsden State Community College",
+        "full_name": "Gadsden State Community College",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -85.99139226494444,
+                        33.99345574439308
+                    ],
+                    [
+                        -85.99139226494444,
+                        33.99345574439308
+                    ],
+                    [
+                        -85.99139226494444,
+                        33.99345574439308
+                    ],
+                    [
+                        -85.99139226494444,
+                        33.99345574439308
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thanks to Dr. Lavender and everyone @gadsdenstate for the tour today and update on the new science center. https://t.co/NltpErYvD5",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 22 21:16:37 +0000 2009",
+        "description": "Proudly serving the 4th Congressional District of Alabama in the United States House of Representatives",
+        "favourites_count": 291,
+        "followers_count": 25960,
+        "friends_count": 374,
+        "geo_enabled": true,
+        "id": 76452765,
+        "id_str": "76452765",
+        "listed_count": 1127,
+        "location": "Haleyville, AL",
+        "name": "Rep. Robert Aderholt",
+        "profile_background_color": "1C24B0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76452765/1563387658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_link_color": "A60C25",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Robert_Aderholt",
+        "statuses_count": 1649,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 29985660,
+            "id_str": "29985660",
+            "name": "Gadsden State",
+            "screen_name": "gadsdenstate"
+        }
+    ]
+}

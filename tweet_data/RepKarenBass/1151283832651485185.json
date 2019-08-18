@@ -1,0 +1,202 @@
+{
+    "created_at": "Wed Jul 17 00:13:50 +0000 2019",
+    "hashtags": [],
+    "id": 1151283832651485185,
+    "id_str": "1151283832651485185",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/B0ocufhkZE",
+            "expanded_url": "https://twitter.com/angela_rye/status/1151282524598996992/photo/1",
+            "id": 1151282521520431105,
+            "media_url": "http://pbs.twimg.com/media/D_otWoNXYAEeG8r.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_otWoNXYAEeG8r.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1080,
+                    "h": 1080,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1080,
+                    "h": 1080,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/B0ocufhkZE"
+        }
+    ],
+    "retweet_count": 33,
+    "retweeted_status": {
+        "created_at": "Wed Jul 17 00:08:38 +0000 2019",
+        "favorite_count": 83,
+        "hashtags": [],
+        "id": 1151282524598996992,
+        "id_str": "1151282524598996992",
+        "in_reply_to_screen_name": "RepKarenBass",
+        "in_reply_to_user_id": 239949176,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/B0ocufhkZE",
+                "expanded_url": "https://twitter.com/angela_rye/status/1151282524598996992/photo/1",
+                "id": 1151282521520431105,
+                "media_url": "http://pbs.twimg.com/media/D_otWoNXYAEeG8r.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_otWoNXYAEeG8r.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/B0ocufhkZE"
+            }
+        ],
+        "place": {
+            "id": "7142eb97ae21e839",
+            "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json",
+            "place_type": "admin",
+            "name": "Georgia",
+            "full_name": "Georgia, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.605166,
+                            30.355644
+                        ],
+                        [
+                            -80.742567,
+                            30.355644
+                        ],
+                        [
+                            -80.742567,
+                            35.000771
+                        ],
+                        [
+                            -85.605166,
+                            35.000771
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 33,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RepKarenBass responds to Trump\u2019s racist remarks. That\u2019s it! That\u2019s the tweet. https://t.co/B0ocufhkZE",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Apr 18 04:19:21 +0000 2009",
+            "description": "#TruthBringer in Chief, @CNN Political Commentator, CEO of @StrategicIMPACT, and Empowermenteur! \u270a\ud83c\udffd#workWOKE",
+            "favourites_count": 10978,
+            "followers_count": 384428,
+            "friends_count": 1941,
+            "geo_enabled": true,
+            "id": 32780218,
+            "id_str": "32780218",
+            "listed_count": 2698,
+            "location": "ON YOUR TV/RADIO/PODCAST",
+            "name": "A N G E L A | R Y E",
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32780218/1537817278",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1044307469646757888/0pl0OQIC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044307469646757888/0pl0OQIC_normal.jpg",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "angela_rye",
+            "statuses_count": 20023,
+            "url": "https://t.co/GsNgw6oWCq",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 239949176,
+                "id_str": "239949176",
+                "name": "Congressmember Bass",
+                "screen_name": "RepKarenBass"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @angela_rye: @RepKarenBass responds to Trump\u2019s racist remarks. That\u2019s it! That\u2019s the tweet. https://t.co/B0ocufhkZE",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 18 20:25:36 +0000 2011",
+        "description": "Representing California's 37th District, which includes Los Angeles, South LA, and Culver City. https://t.co/XHzgMSAQAc",
+        "favourites_count": 1492,
+        "followers_count": 110472,
+        "friends_count": 2650,
+        "geo_enabled": true,
+        "id": 239949176,
+        "id_str": "239949176",
+        "listed_count": 1998,
+        "location": "Los Angeles & Washington",
+        "name": "Congressmember Bass",
+        "profile_background_color": "196A88",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239949176/1433187461",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/605458297475317761/P1AjUUex_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/605458297475317761/P1AjUUex_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "screen_name": "RepKarenBass",
+        "statuses_count": 5117,
+        "url": "http://t.co/1QNH7tmurQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 32780218,
+            "id_str": "32780218",
+            "name": "A N G E L A | R Y E",
+            "screen_name": "angela_rye"
+        },
+        {
+            "id": 239949176,
+            "id_str": "239949176",
+            "name": "Congressmember Bass",
+            "screen_name": "RepKarenBass"
+        }
+    ]
+}

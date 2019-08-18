@@ -1,0 +1,105 @@
+{
+    "created_at": "Wed Jun 19 19:22:08 +0000 2019",
+    "hashtags": [],
+    "id": 1141425954138533888,
+    "id_str": "1141425954138533888",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Jun 19 19:01:54 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1141420860156317697,
+        "id_str": "1141420860156317697",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Today I attended an @HouseBudgetDems hearing focusing on the economic realities for families struggling throughout\u2026 https://t.co/C7R3Q4Zk7f",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141420860156317697",
+                "url": "https://t.co/C7R3Q4Zk7f"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 06 21:22:37 +0000 2009",
+            "description": "U.S. Representative for New Jersey's 8th Congressional District",
+            "favourites_count": 34,
+            "followers_count": 21667,
+            "friends_count": 254,
+            "id": 18696134,
+            "id_str": "18696134",
+            "listed_count": 1113,
+            "location": "Washington, DC",
+            "name": "Albio Sires",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18696134/1402587153",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/981257423179669522/tEc6emNQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/981257423179669522/tEc6emNQ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepSires",
+            "statuses_count": 3763,
+            "url": "http://t.co/HW6WuZesn2",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 151963505,
+                "id_str": "151963505",
+                "name": "House Budget Committee",
+                "screen_name": "HouseBudgetDems"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @RepSires: Today I attended an @HouseBudgetDems hearing focusing on the economic realities for families struggling throughout the countr\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jun 04 18:12:56 +0000 2010",
+        "description": "U.S House of Representatives Budget Committee, Chairman @RepJohnYarmuth",
+        "favourites_count": 235,
+        "followers_count": 13825,
+        "friends_count": 470,
+        "id": 151963505,
+        "id_str": "151963505",
+        "listed_count": 558,
+        "name": "House Budget Committee",
+        "profile_background_color": "A7C8D1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151963505/1564513096",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080862442564083713/hLobkllD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080862442564083713/hLobkllD_normal.jpg",
+        "profile_link_color": "183152",
+        "profile_sidebar_border_color": "535354",
+        "profile_sidebar_fill_color": "E9F0F2",
+        "profile_text_color": "303030",
+        "profile_use_background_image": true,
+        "screen_name": "HouseBudgetDems",
+        "statuses_count": 5495,
+        "url": "https://t.co/rRChWZI0w4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18696134,
+            "id_str": "18696134",
+            "name": "Albio Sires",
+            "screen_name": "RepSires"
+        },
+        {
+            "id": 151963505,
+            "id_str": "151963505",
+            "name": "House Budget Committee",
+            "screen_name": "HouseBudgetDems"
+        }
+    ]
+}

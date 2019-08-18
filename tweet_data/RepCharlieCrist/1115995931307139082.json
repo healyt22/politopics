@@ -1,0 +1,112 @@
+{
+    "created_at": "Wed Apr 10 15:12:18 +0000 2019",
+    "favorite_count": 28,
+    "hashtags": [
+        {
+            "text": "ICYMI"
+        }
+    ],
+    "id": 1115995931307139082,
+    "id_str": "1115995931307139082",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 09 21:33:00 +0000 2019",
+        "favorite_count": 251,
+        "hashtags": [],
+        "id": 1115729348076736513,
+        "id_str": "1115729348076736513",
+        "lang": "en",
+        "retweet_count": 142,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "\u2018The irony of that is rich.\u2019 \u00a0\u2014 @RepCharlieCrist and @RepCartwright stood up to AG Barr over the Justice Department\u2026 https://t.co/rekYvcHHC4",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1115729348076736513",
+                "url": "https://t.co/rekYvcHHC4"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 17 20:31:08 +0000 2012",
+            "description": "Stories that move. Send us tips: contact@nowthismedia.com.   Subscribe to our daily newsletter: https://t.co/rvOBeIv1rM",
+            "favourites_count": 12692,
+            "followers_count": 2372446,
+            "friends_count": 12226,
+            "geo_enabled": true,
+            "id": 701725963,
+            "id_str": "701725963",
+            "listed_count": 9376,
+            "location": "The Internet & NYC",
+            "name": "NowThis",
+            "profile_background_color": "7FDBB6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nowthisnews",
+            "statuses_count": 127437,
+            "url": "http://t.co/1NLX7sJ52o",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 816030424778543104,
+                "id_str": "816030424778543104",
+                "name": "Rep. Charlie Crist",
+                "screen_name": "RepCharlieCrist"
+            },
+            {
+                "id": 776664410,
+                "id_str": "776664410",
+                "name": "Matt Cartwright",
+                "screen_name": "RepCartwright"
+            }
+        ]
+    },
+    "quoted_status_id": 1115729348076736513,
+    "quoted_status_id_str": "1115729348076736513",
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#ICYMI: AG Barr\u2019s circular logic when questioned about the Trump Administration\u2019s attempts to rip away healthcare c\u2026 https://t.co/fPUZ4hzncC",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1115995931307139082",
+            "url": "https://t.co/fPUZ4hzncC"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 02 21:16:29 +0000 2017",
+        "default_profile": true,
+        "description": "Representing Florida's 13th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 260,
+        "followers_count": 10518,
+        "friends_count": 332,
+        "geo_enabled": true,
+        "id": 816030424778543104,
+        "id_str": "816030424778543104",
+        "listed_count": 363,
+        "location": "St Petersburg, FL",
+        "name": "Rep. Charlie Crist",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816030424778543104/1490903836",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/821404691007471616/coBO0h0x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/821404691007471616/coBO0h0x_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepCharlieCrist",
+        "statuses_count": 2356,
+        "url": "https://t.co/fTF3LKbrKV",
+        "verified": true
+    },
+    "user_mentions": []
+}

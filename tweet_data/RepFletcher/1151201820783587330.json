@@ -1,0 +1,107 @@
+{
+    "created_at": "Tue Jul 16 18:47:57 +0000 2019",
+    "hashtags": [],
+    "id": 1151201820783587330,
+    "id_str": "1151201820783587330",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 18:41:52 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1151200292609888256,
+        "id_str": "1151200292609888256",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Chair @RepFletcher: \"The American people should feel confident that all our agencies, including and especially the\u2026 https://t.co/z7vGz4TwvY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151200292609888256",
+                "url": "https://t.co/z7vGz4TwvY"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 26 20:02:26 +0000 2009",
+            "description": "News from the U.S. House of Representatives Committee on Science, Space, and Technology - May not represent the views of Members of the Committee",
+            "favourites_count": 1955,
+            "followers_count": 23020,
+            "friends_count": 876,
+            "geo_enabled": true,
+            "id": 22053641,
+            "id_str": "22053641",
+            "listed_count": 842,
+            "location": "Washington, DC",
+            "name": "Science Committee",
+            "profile_background_color": "001B85",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22053641/1546615248",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080937032963244032/0pVPYpBL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080937032963244032/0pVPYpBL_normal.jpg",
+            "profile_link_color": "376882",
+            "profile_sidebar_border_color": "57AEFA",
+            "profile_sidebar_fill_color": "CEFDF6",
+            "profile_text_color": "3ABCE9",
+            "profile_use_background_image": true,
+            "screen_name": "HouseScience",
+            "statuses_count": 6441,
+            "url": "https://t.co/xcUymHRDBO",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1075904377221722113,
+                "id_str": "1075904377221722113",
+                "name": "Rep. Lizzie Fletcher",
+                "screen_name": "RepFletcher"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @HouseScience: Chair @RepFletcher: \"The American people should feel confident that all our agencies, including and especially the EPA ar\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 21 00:02:47 +0000 2018",
+        "default_profile": true,
+        "description": "Honored and proud to represent Texas' 7th Congressional District in Houston, where inclusion, innovation, and collaboration thrive.",
+        "favourites_count": 50,
+        "followers_count": 11487,
+        "friends_count": 94,
+        "id": 1075904377221722113,
+        "id_str": "1075904377221722113",
+        "listed_count": 217,
+        "location": "Houston, TX",
+        "name": "Rep. Lizzie Fletcher",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075904377221722113/1546533404",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129396695056486400/mGqajwam_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129396695056486400/mGqajwam_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepFletcher",
+        "statuses_count": 637,
+        "url": "https://t.co/X2zoyRX3KI",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22053641,
+            "id_str": "22053641",
+            "name": "Science Committee",
+            "screen_name": "HouseScience"
+        },
+        {
+            "id": 1075904377221722113,
+            "id_str": "1075904377221722113",
+            "name": "Rep. Lizzie Fletcher",
+            "screen_name": "RepFletcher"
+        }
+    ]
+}

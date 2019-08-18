@@ -1,0 +1,115 @@
+{
+    "created_at": "Fri Mar 08 21:09:08 +0000 2019",
+    "favorite_count": 89,
+    "hashtags": [],
+    "id": 1104126930738167809,
+    "id_str": "1104126930738167809",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Mar 08 18:53:31 +0000 2019",
+        "favorite_count": 193,
+        "hashtags": [],
+        "id": 1104092800491180032,
+        "id_str": "1104092800491180032",
+        "lang": "en",
+        "retweet_count": 12,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Hey @Repslotkin \u2013 MSU may have tripped us up in the first game but we\u2019re ready to head into Breslin and face the Iz\u2026 https://t.co/xR60600zAP",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1104092800491180032",
+                "url": "https://t.co/xR60600zAP"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 09 19:15:50 +0000 2015",
+            "default_profile": true,
+            "description": "Proudly serving the people of Michigan's 12th Congressional District.\nhttp://t.co/e7qwdRk0zg\nhttp://t.co/q9q7Jj0s26",
+            "favourites_count": 675,
+            "followers_count": 50009,
+            "friends_count": 2998,
+            "geo_enabled": true,
+            "id": 2970279814,
+            "id_str": "2970279814",
+            "listed_count": 816,
+            "location": "Washington, DC",
+            "name": "Rep. Debbie Dingell",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2970279814/1522072127",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/978268253905711105/RgEfZ5SG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/978268253905711105/RgEfZ5SG_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepDebDingell",
+            "statuses_count": 3529,
+            "url": "http://t.co/tsIQhHRnwP",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1078401427347857408,
+                "id_str": "1078401427347857408",
+                "name": "Rep. Elissa Slotkin",
+                "screen_name": "RepSlotkin"
+            }
+        ]
+    },
+    "quoted_status_id": 1104092800491180032,
+    "quoted_status_id_str": "1104092800491180032",
+    "retweet_count": 15,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "You\u2019re on, @RepDebDingell. @ThisistheIZZONE is ready to welcome the Wolverines to the Breslin. I\u2019ll bet you a scoop\u2026 https://t.co/WrjB8CbNTn",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1104126930738167809",
+            "url": "https://t.co/WrjB8CbNTn"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Dec 27 21:25:10 +0000 2018",
+        "description": "Congresswoman for Michigan's 8th Congressional District. Proud Michigander. Former Acting Assistant Secretary of Defense, CIA analyst.",
+        "favourites_count": 12,
+        "followers_count": 16757,
+        "friends_count": 438,
+        "id": 1078401427347857408,
+        "id_str": "1078401427347857408",
+        "listed_count": 259,
+        "location": "Michigan, USA",
+        "name": "Rep. Elissa Slotkin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078401427347857408/1546432967",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085661888631848961/lIgv5rBv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085661888631848961/lIgv5rBv_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepSlotkin",
+        "statuses_count": 317,
+        "url": "https://t.co/zH6SghCDpq",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2970279814,
+            "id_str": "2970279814",
+            "name": "Rep. Debbie Dingell",
+            "screen_name": "RepDebDingell"
+        },
+        {
+            "id": 259733084,
+            "id_str": "259733084",
+            "name": "The Izzone",
+            "screen_name": "ThisistheIZZONE"
+        }
+    ]
+}

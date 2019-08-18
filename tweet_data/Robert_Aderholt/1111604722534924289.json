@@ -1,0 +1,114 @@
+{
+    "created_at": "Fri Mar 29 12:23:13 +0000 2019",
+    "favorite_count": 23,
+    "hashtags": [],
+    "id": 1111604722534924289,
+    "id_str": "1111604722534924289",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Mar 28 18:14:23 +0000 2019",
+        "favorite_count": 1771,
+        "hashtags": [],
+        "id": 1111330711905009665,
+        "id_str": "1111330711905009665",
+        "lang": "en",
+        "retweet_count": 289,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "What a great day! Teamed up with the Congressional Club @Founded1908 and @the_USO to assemble 500 care packages for\u2026 https://t.co/FRKWKCnb4T",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1111330711905009665",
+                "url": "https://t.co/FRKWKCnb4T"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 19 17:02:26 +0000 2017",
+            "default_profile": true,
+            "description": "Educator, mom, wife of @VP Pence. Passionate about art therapy, military families and Sister Cities International. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+            "favourites_count": 3,
+            "followers_count": 466889,
+            "friends_count": 3,
+            "id": 822127086194348032,
+            "id_str": "822127086194348032",
+            "listed_count": 1233,
+            "location": "Washington, DC",
+            "name": "Second Lady Karen Pence",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/822127086194348032/1532963849",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1115635567407058944/UNzBajkh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115635567407058944/UNzBajkh_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SecondLady",
+            "statuses_count": 1514,
+            "url": "https://t.co/IxLjEB2zlE",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 860536788716335104,
+                "id_str": "860536788716335104",
+                "name": "Congressional Club",
+                "screen_name": "Founded1908"
+            },
+            {
+                "id": 36681590,
+                "id_str": "36681590",
+                "name": "USO",
+                "screen_name": "the_USO"
+            }
+        ]
+    },
+    "quoted_status_id": 1111330711905009665,
+    "quoted_status_id_str": "1111330711905009665",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Caroline really enjoyed teaming up with @SecondLady Karen Pence and other Congressional spouses to make care packag\u2026 https://t.co/fCUwoOipPG",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1111604722534924289",
+            "url": "https://t.co/fCUwoOipPG"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 22 21:16:37 +0000 2009",
+        "description": "Proudly serving the 4th Congressional District of Alabama in the United States House of Representatives",
+        "favourites_count": 291,
+        "followers_count": 25960,
+        "friends_count": 374,
+        "geo_enabled": true,
+        "id": 76452765,
+        "id_str": "76452765",
+        "listed_count": 1127,
+        "location": "Haleyville, AL",
+        "name": "Rep. Robert Aderholt",
+        "profile_background_color": "1C24B0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76452765/1563387658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_link_color": "A60C25",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Robert_Aderholt",
+        "statuses_count": 1649,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 822127086194348032,
+            "id_str": "822127086194348032",
+            "name": "Second Lady Karen Pence",
+            "screen_name": "SecondLady"
+        }
+    ]
+}

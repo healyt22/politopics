@@ -1,0 +1,123 @@
+{
+    "created_at": "Thu Aug 08 01:33:20 +0000 2019",
+    "favorite_count": 202,
+    "hashtags": [
+        {
+            "text": "Jersey"
+        }
+    ],
+    "id": 1159276372642160640,
+    "id_str": "1159276372642160640",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Aug 06 14:32:17 +0000 2019",
+        "favorite_count": 196,
+        "hashtags": [],
+        "id": 1158747626042511360,
+        "id_str": "1158747626042511360",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/N77oBZbm7S",
+                "expanded_url": "https://twitter.com/ONeill_ForReal/status/1158747626042511360/photo/1",
+                "id": 1158747621076480000,
+                "media_url": "http://pbs.twimg.com/media/EBSy0nKXsAAO4UK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBSy0nKXsAAO4UK.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 1079,
+                        "h": 639,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1079,
+                        "h": 639,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 403,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/N77oBZbm7S"
+            }
+        ],
+        "retweet_count": 52,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Here's a map of where it's legal to pump your own gas https://t.co/N77oBZbm7S",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Dec 20 16:53:00 +0000 2017",
+            "description": "Deo Gratias\ud83c\uddfb\ud83c\udde6 | GCU | 22",
+            "favourites_count": 12236,
+            "followers_count": 205,
+            "friends_count": 404,
+            "geo_enabled": true,
+            "id": 943524647265587201,
+            "id_str": "943524647265587201",
+            "listed_count": 4,
+            "location": "New Jersey",
+            "name": "O'Neill or No Deal",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/943524647265587201/1535851689",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1128153638134632448/7InXKsqL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128153638134632448/7InXKsqL_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "ONeill_ForReal",
+            "statuses_count": 14617
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1158747626042511360,
+    "quoted_status_id_str": "1158747626042511360",
+    "retweet_count": 47,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "As always #Jersey FTW https://t.co/p3nWRLLqZF",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/ONeill_ForReal/status/1158747626042511360",
+            "url": "https://t.co/p3nWRLLqZF"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 15 17:54:32 +0000 2009",
+        "description": "Representing the 9th District of New Jersey in the House of Representatives. Member, Ways & Means Committee.",
+        "favourites_count": 5727,
+        "followers_count": 47462,
+        "friends_count": 95,
+        "geo_enabled": true,
+        "id": 74508260,
+        "id_str": "74508260",
+        "listed_count": 1038,
+        "location": "Paterson, NJ",
+        "name": "Bill Pascrell, Jr.",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74508260/1486055628",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979359893214912512/pazrRFes_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979359893214912512/pazrRFes_normal.jpg",
+        "profile_link_color": "004080",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "BillPascrell",
+        "statuses_count": 4345,
+        "url": "https://t.co/q9EtRgyxbk",
+        "verified": true
+    },
+    "user_mentions": []
+}

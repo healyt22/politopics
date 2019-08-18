@@ -1,0 +1,142 @@
+{
+    "created_at": "Fri May 17 16:20:18 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Congratulations"
+        },
+        {
+            "text": "PhenomenalWoman"
+        }
+    ],
+    "id": 1129421393966305286,
+    "id_str": "1129421393966305286",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri May 17 14:19:47 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [
+            {
+                "text": "Congratulations"
+            },
+            {
+                "text": "PhenomenalWoman"
+            }
+        ],
+        "id": 1129391065658740737,
+        "id_str": "1129391065658740737",
+        "lang": "en",
+        "place": {
+            "id": "05fe3c3f4a709dfd",
+            "url": "https://api.twitter.com/1.1/geo/id/05fe3c3f4a709dfd.json",
+            "place_type": "neighborhood",
+            "name": "Capitol Hill",
+            "full_name": "Capitol Hill, Washington",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.0152553,
+                            38.8773146
+                        ],
+                        [
+                            -76.985432,
+                            38.8773146
+                        ],
+                        [
+                            -76.985432,
+                            38.8973988
+                        ],
+                        [
+                            -77.0152553,
+                            38.8973988
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "A dual #Congratulations are in order for Nicole Tisdale! This #PhenomenalWoman not only published her first novel,\u2026 https://t.co/JY2ZTJ5eQl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1129391065658740737",
+                "url": "https://t.co/JY2ZTJ5eQl"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 13 22:30:35 +0000 2011",
+            "default_profile": true,
+            "description": "The Washington Government Relations Group (WGRG)is an organization dedicated to the enrichment of African-American lobbyist & government relations professionals",
+            "favourites_count": 788,
+            "followers_count": 736,
+            "friends_count": 296,
+            "geo_enabled": true,
+            "id": 237903706,
+            "id_str": "237903706",
+            "listed_count": 8,
+            "location": "Washington, DC",
+            "name": "WGRG",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1214948447/wgrg_logo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214948447/wgrg_logo_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "WGRG",
+            "statuses_count": 2060,
+            "url": "https://t.co/Up6vJFPsDO"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @WGRG: A dual #Congratulations are in order for Nicole Tisdale! This #PhenomenalWoman not only published her first novel, she also launc\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Oct 14 20:47:03 +0000 2009",
+        "default_profile": true,
+        "description": "Husband. Father. Grandfather. Avid hunter. Proudly serving #MS02 in Congress. | Chairman of @HomelandDems. | Follow my Instagram: @benniegthompson.",
+        "favourites_count": 331,
+        "followers_count": 15362,
+        "friends_count": 490,
+        "geo_enabled": true,
+        "id": 82453460,
+        "id_str": "82453460",
+        "listed_count": 723,
+        "location": "Bolton, Mississippi",
+        "name": "Bennie G. Thompson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82453460/1554548330",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096228528192978945/iNFz66uB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096228528192978945/iNFz66uB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "BennieGThompson",
+        "statuses_count": 2157,
+        "url": "https://t.co/kfK8rrv43J",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 237903706,
+            "id_str": "237903706",
+            "name": "WGRG",
+            "screen_name": "WGRG"
+        }
+    ]
+}

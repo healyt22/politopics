@@ -1,0 +1,115 @@
+{
+    "created_at": "Tue Aug 06 17:46:16 +0000 2019",
+    "favorite_count": 58,
+    "hashtags": [],
+    "id": 1158796443022503938,
+    "id_str": "1158796443022503938",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/UH8MlFEfVT",
+            "expanded_url": "https://twitter.com/SenatorCarper/status/1158796443022503938/photo/1",
+            "id": 1158796434176663557,
+            "media_url": "http://pbs.twimg.com/media/EBTfN6IW4AUwyP7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBTfN6IW4AUwyP7.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/UH8MlFEfVT"
+        }
+    ],
+    "place": {
+        "id": "ca92369c50478227",
+        "url": "https://api.twitter.com/1.1/geo/id/ca92369c50478227.json",
+        "place_type": "city",
+        "name": "Wyoming",
+        "full_name": "Wyoming, DE",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -75.568007,
+                        39.1075853
+                    ],
+                    [
+                        -75.547386,
+                        39.1075853
+                    ],
+                    [
+                        -75.547386,
+                        39.127739
+                    ],
+                    [
+                        -75.568007,
+                        39.127739
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Hey @SenJohnBarrasso, greetings from Wyoming, Delaware! https://t.co/UH8MlFEfVT",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 09 19:46:42 +0000 2011",
+        "description": "Husband, father, proud @USNavy veteran and former governor. U.S. Senator for Delaware and ranking member @EPWDems",
+        "favourites_count": 1141,
+        "followers_count": 96374,
+        "friends_count": 1422,
+        "geo_enabled": true,
+        "id": 249787913,
+        "id_str": "249787913",
+        "listed_count": 1980,
+        "location": "Delaware",
+        "name": "Senator Tom Carper",
+        "profile_background_color": "D6DDE1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249787913/1466708976",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000497501114/77d2bd85a246e66e8f77670018fbaaca_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000497501114/77d2bd85a246e66e8f77670018fbaaca_normal.jpeg",
+        "profile_link_color": "1E3F66",
+        "profile_sidebar_border_color": "BAC1C4",
+        "profile_sidebar_fill_color": "E2E8EB",
+        "profile_text_color": "737373",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorCarper",
+        "statuses_count": 8395,
+        "url": "http://t.co/0KSoFFra6j",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 202206694,
+            "id_str": "202206694",
+            "name": "Sen. John Barrasso",
+            "screen_name": "SenJohnBarrasso"
+        }
+    ]
+}

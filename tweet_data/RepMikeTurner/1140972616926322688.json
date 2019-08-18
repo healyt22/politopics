@@ -1,0 +1,119 @@
+{
+    "created_at": "Tue Jun 18 13:20:44 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "Iran"
+        }
+    ],
+    "id": 1140972616926322688,
+    "id_str": "1140972616926322688",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/oYWsIQNeoA",
+            "expanded_url": "https://twitter.com/RepMikeTurner/status/1140972616926322688/video/1",
+            "id": 1140970353583431680,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1140970353583431680/img/u5WuW07Vi3tDyPBJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1140970353583431680/img/u5WuW07Vi3tDyPBJ.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/oYWsIQNeoA",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 238505,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1140970353583431680/pl/TSs7wVJHKvl7zrxa.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1140970353583431680/vid/1280x720/YIhg-e_RgCO-2KpO.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1140970353583431680/vid/480x270/-qVN44co20bgR_T4.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1140970353583431680/vid/640x360/Q9FpFihkpXrbyfwr.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Great discussion this morning on @CNN @NewDay with Alisyn Camerota about rising tensions with #Iran. https://t.co/oYWsIQNeoA",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jun 26 21:15:07 +0000 2009",
+        "description": "I proudly represent the Tenth District of Ohio. Montgomery County, Greene County and Fayette County. #OH10",
+        "favourites_count": 152,
+        "followers_count": 27626,
+        "friends_count": 1074,
+        "geo_enabled": true,
+        "id": 51228911,
+        "id_str": "51228911",
+        "listed_count": 982,
+        "location": "Washington, DC and Dayton, OH",
+        "name": "US Rep. Mike Turner",
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51228911/1413479410",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/445952873818374144/TZbgdNZ5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/445952873818374144/TZbgdNZ5_normal.jpeg",
+        "profile_link_color": "1D63F0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "0084B4",
+        "profile_use_background_image": true,
+        "screen_name": "RepMikeTurner",
+        "statuses_count": 2840,
+        "url": "http://t.co/hhH39SKxLO",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN"
+        },
+        {
+            "id": 1375289149,
+            "id_str": "1375289149",
+            "name": "New Day",
+            "screen_name": "NewDay"
+        }
+    ]
+}

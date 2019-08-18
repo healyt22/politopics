@@ -1,0 +1,132 @@
+{
+    "created_at": "Thu Jul 27 19:25:34 +0000 2017",
+    "hashtags": [
+        {
+            "text": "DetwilerFire"
+        }
+    ],
+    "id": 890654414934990849,
+    "id_str": "890654414934990849",
+    "lang": "en",
+    "retweet_count": 55,
+    "retweeted_status": {
+        "created_at": "Thu Jul 27 14:13:48 +0000 2017",
+        "favorite_count": 72,
+        "hashtags": [
+            {
+                "text": "DetwilerFire"
+            }
+        ],
+        "id": 890575955692998656,
+        "id_str": "890575955692998656",
+        "lang": "en",
+        "place": {
+            "id": "b71fac2ee9792cbe",
+            "url": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json",
+            "place_type": "city",
+            "name": "Sacramento",
+            "full_name": "Sacramento, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.576613,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.6855236
+                        ],
+                        [
+                            -121.576613,
+                            38.6855236
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 55,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "#DetwilerFire [update] northeast of Merced (Mariposa County) is now 81,350 acres and 75% contained.\u2026 https://t.co/vHniDEYGbf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/890575955692998656",
+                "url": "https://t.co/vHniDEYGbf"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 18 22:36:09 +0000 2009",
+            "description": "Official Twitter Account of CAL FIRE",
+            "favourites_count": 857,
+            "followers_count": 290058,
+            "friends_count": 63,
+            "geo_enabled": true,
+            "id": 21249970,
+            "id_str": "21249970",
+            "listed_count": 3169,
+            "location": "Sacramento, CA",
+            "name": "CAL FIRE",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21249970/1560902469",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158891560496328704/mREEzszz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158891560496328704/mREEzszz_normal.jpg",
+            "profile_link_color": "B0060E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CCD4DF",
+            "profile_text_color": "080808",
+            "profile_use_background_image": true,
+            "screen_name": "CAL_FIRE",
+            "statuses_count": 14339,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CAL_FIRE: #DetwilerFire [update] northeast of Merced (Mariposa County) is now 81,350 acres and 75% contained.    https://t.co/zBoyaN9sl\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 24 00:21:07 +0000 2009",
+        "description": "United States Representative, 4th District of California",
+        "favourites_count": 1,
+        "followers_count": 14559,
+        "id": 50152441,
+        "id_str": "50152441",
+        "listed_count": 1204,
+        "location": "Washington, DC",
+        "name": "Tom McClintock",
+        "profile_background_color": "093552",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+        "profile_link_color": "3078B8",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMcClintock",
+        "statuses_count": 496,
+        "url": "http://t.co/M52pLVZcTJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21249970,
+            "id_str": "21249970",
+            "name": "CAL FIRE",
+            "screen_name": "CAL_FIRE"
+        }
+    ]
+}

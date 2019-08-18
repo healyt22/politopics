@@ -1,0 +1,191 @@
+{
+    "created_at": "Fri Aug 16 19:02:20 +0000 2019",
+    "hashtags": [],
+    "id": 1162439467485081600,
+    "id_str": "1162439467485081600",
+    "lang": "en",
+    "quoted_status_id": 1162126227613913088,
+    "quoted_status_id_str": "1162126227613913088",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Aug 16 18:40:04 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1162433862275936257,
+        "id_str": "1162433862275936257",
+        "lang": "en",
+        "place": {
+            "id": "b76630ca2b2c4158",
+            "url": "https://api.twitter.com/1.1/geo/id/b76630ca2b2c4158.json",
+            "place_type": "city",
+            "name": "Newton",
+            "full_name": "Newton, MA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.270426,
+                            42.283041
+                        ],
+                        [
+                            -71.156939,
+                            42.283041
+                        ],
+                        [
+                            -71.156939,
+                            42.367744
+                        ],
+                        [
+                            -71.270426,
+                            42.367744
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Thu Aug 15 22:17:38 +0000 2019",
+            "favorite_count": 16,
+            "hashtags": [
+                {
+                    "text": "TeamTrahan"
+                }
+            ],
+            "id": 1162126227613913088,
+            "id_str": "1162126227613913088",
+            "lang": "en",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "#TeamTrahan met with Mary, Maggie, and Caitriona from the @GirlScoutsEMass. The Girl Scouts prepare girls for a lif\u2026 https://t.co/A8xYkDJ4rc",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1162126227613913088",
+                    "url": "https://t.co/A8xYkDJ4rc"
+                }
+            ],
+            "user": {
+                "created_at": "Mon Dec 31 18:12:28 +0000 2018",
+                "description": "Proudly representing Massachusetts' 3rd Congressional District in the United States Congress. #MA3 IG: https://t.co/vooOgovNqw",
+                "favourites_count": 1654,
+                "followers_count": 16331,
+                "friends_count": 852,
+                "geo_enabled": true,
+                "id": 1079802482640019456,
+                "id_str": "1079802482640019456",
+                "listed_count": 250,
+                "location": "Massachusetts, USA",
+                "name": "Congresswoman Lori Trahan",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079802482640019456/1563635553",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1079802597366788102/iwByLB57_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079802597366788102/iwByLB57_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "RepLoriTrahan",
+                "statuses_count": 1611,
+                "url": "https://t.co/H4NmF9Ma2f",
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 69307433,
+                    "id_str": "69307433",
+                    "name": "Girl Scouts E Mass",
+                    "screen_name": "GirlScoutsEMass"
+                }
+            ]
+        },
+        "quoted_status_id": 1162126227613913088,
+        "quoted_status_id_str": "1162126227613913088",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you again for your time \ud83d\ude4f\ud83c\udffb\ud83d\udc9a https://t.co/qRNn9kKBZ6",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/reploritrahan/status/1162126227613913088",
+                "url": "https://t.co/qRNn9kKBZ6"
+            }
+        ],
+        "user": {
+            "created_at": "Tue May 06 00:00:36 +0000 2008",
+            "default_profile": true,
+            "description": "CEO at @girlscoutsemass Lifelong health and well-being activator. Follow, like, or retweet \u2260 endorsement.",
+            "favourites_count": 7449,
+            "followers_count": 257,
+            "friends_count": 301,
+            "geo_enabled": true,
+            "id": 14666809,
+            "id_str": "14666809",
+            "listed_count": 8,
+            "location": "Boston, MA",
+            "name": "Caitr\u00edona Taylor",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14666809/1565876660",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1161991048283009026/dOHBlrc9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161991048283009026/dOHBlrc9_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "caitrionataylor",
+            "statuses_count": 169,
+            "url": "https://t.co/ZbcME6klJ7"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @caitrionataylor: Thank you again for your time \ud83d\ude4f\ud83c\udffb\ud83d\udc9a https://t.co/qRNn9kKBZ6",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/reploritrahan/status/1162126227613913088",
+            "url": "https://t.co/qRNn9kKBZ6"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 31 18:12:28 +0000 2018",
+        "description": "Proudly representing Massachusetts' 3rd Congressional District in the United States Congress. #MA3 IG: https://t.co/vooOgovNqw",
+        "favourites_count": 1654,
+        "followers_count": 16331,
+        "friends_count": 852,
+        "geo_enabled": true,
+        "id": 1079802482640019456,
+        "id_str": "1079802482640019456",
+        "listed_count": 250,
+        "location": "Massachusetts, USA",
+        "name": "Congresswoman Lori Trahan",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079802482640019456/1563635553",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1079802597366788102/iwByLB57_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079802597366788102/iwByLB57_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepLoriTrahan",
+        "statuses_count": 1611,
+        "url": "https://t.co/H4NmF9Ma2f",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14666809,
+            "id_str": "14666809",
+            "name": "Caitr\u00edona Taylor",
+            "screen_name": "caitrionataylor"
+        }
+    ]
+}

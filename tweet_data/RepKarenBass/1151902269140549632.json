@@ -1,0 +1,113 @@
+{
+    "created_at": "Thu Jul 18 17:11:16 +0000 2019",
+    "favorite_count": 219,
+    "hashtags": [
+        {
+            "text": "IStandWithIlhan"
+        },
+        {
+            "text": "MandelaDay"
+        }
+    ],
+    "id": 1151902269140549632,
+    "id_str": "1151902269140549632",
+    "in_reply_to_screen_name": "RepKarenBass",
+    "in_reply_to_status_id": 1151901315620048896,
+    "in_reply_to_user_id": 239949176,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/uLI5HrWXLS",
+            "expanded_url": "https://twitter.com/shaunking/status/1151642272662003712/video/1",
+            "id": 1151642212637315074,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1151642212637315074/pu/img/92yiR9c_f8RBQvpg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1151642212637315074/pu/img/92yiR9c_f8RBQvpg.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 406,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 406,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/uLI5HrWXLS",
+            "video_info": {
+                "aspect_ratio": [
+                    360,
+                    203
+                ],
+                "duration_millis": 14582,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1151642212637315074/pu/vid/720x406/UKkzOH9fVaesq_HI.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1151642212637315074/pu/vid/478x270/lDp2vz_ROTIsPCh2.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1151642212637315074/pu/pl/ykMUlzKRNsBAH28O.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 61,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@IlhanOmar is not scared of you. \n\nNeither are we. \n\n#IStandWithIlhan #MandelaDay \nhttps://t.co/uLI5HrWXLS",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 18 20:25:36 +0000 2011",
+        "description": "Representing California's 37th District, which includes Los Angeles, South LA, and Culver City. https://t.co/XHzgMSAQAc",
+        "favourites_count": 1492,
+        "followers_count": 110472,
+        "friends_count": 2650,
+        "geo_enabled": true,
+        "id": 239949176,
+        "id_str": "239949176",
+        "listed_count": 1998,
+        "location": "Los Angeles & Washington",
+        "name": "Congressmember Bass",
+        "profile_background_color": "196A88",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239949176/1433187461",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/605458297475317761/P1AjUUex_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/605458297475317761/P1AjUUex_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "screen_name": "RepKarenBass",
+        "statuses_count": 5117,
+        "url": "http://t.co/1QNH7tmurQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 619400414,
+            "id_str": "619400414",
+            "name": "\u270c\ud83c\udffe",
+            "screen_name": "IlhanOmar"
+        }
+    ]
+}

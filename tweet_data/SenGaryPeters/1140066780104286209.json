@@ -1,0 +1,169 @@
+{
+    "created_at": "Sun Jun 16 01:21:16 +0000 2019",
+    "favorite_count": 18,
+    "hashtags": [
+        {
+            "text": "GoBlue"
+        },
+        {
+            "text": "CWS19"
+        }
+    ],
+    "id": 1140066780104286209,
+    "id_str": "1140066780104286209",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jun 15 22:24:50 +0000 2019",
+        "favorite_count": 1536,
+        "hashtags": [],
+        "id": 1140022380162703362,
+        "id_str": "1140022380162703362",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8cWzNJUvqe",
+                "expanded_url": "https://twitter.com/umichbaseball/status/1140022380162703362/video/1",
+                "id": 1140021426361118720,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1140021426361118720/pu/img/1mByGIzfbf68vXLH.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1140021426361118720/pu/img/1mByGIzfbf68vXLH.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/8cWzNJUvqe",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 4100,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1140021426361118720/pu/pl/h7uOs0NeqES-YozO.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1140021426361118720/pu/vid/480x270/rRGl43UG5tOSDGpb.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1140021426361118720/pu/vid/1280x720/11v6-8cp_4WCgZ5M.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1140021426361118720/pu/vid/640x360/lacOkKlkuDi2uUGe.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 158,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Who's 1-0 in the @NCAACWS? https://t.co/8cWzNJUvqe",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Mar 04 16:55:46 +0000 2009",
+            "description": "Celebrating 153 years of Michigan tradition. Two-time National Champions. 35 Big Ten titles. 184 MLB Draft picks. #GoBlue \u303d\ufe0f\u26be\ufe0f",
+            "favourites_count": 4147,
+            "followers_count": 43715,
+            "friends_count": 634,
+            "geo_enabled": true,
+            "id": 22798877,
+            "id_str": "22798877",
+            "listed_count": 457,
+            "location": "Ann Arbor, Michigan",
+            "name": "Michigan Baseball",
+            "profile_background_color": "040E42",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22798877/1561615523",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/908040880296251392/ATFZeyFo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/908040880296251392/ATFZeyFo_normal.jpg",
+            "profile_link_color": "1A44CB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "umichbaseball",
+            "statuses_count": 22538,
+            "url": "https://t.co/iUBHVA3yNM",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 41404125,
+                "id_str": "41404125",
+                "name": "NCAA Baseball",
+                "screen_name": "NCAACWS"
+            }
+        ]
+    },
+    "quoted_status_id": 1140022380162703362,
+    "quoted_status_id_str": "1140022380162703362",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Good start for @umichbaseball!\n\n#GoBlue | #CWS19 https://t.co/H1lnrGc82K",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/umichbaseball/status/1140022380162703362",
+            "url": "https://t.co/H1lnrGc82K"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 10 19:17:36 +0000 2011",
+        "description": "U.S. Senator proudly representing the state of Michigan.",
+        "favourites_count": 186,
+        "followers_count": 110063,
+        "friends_count": 1180,
+        "geo_enabled": true,
+        "id": 236511574,
+        "id_str": "236511574",
+        "listed_count": 1588,
+        "name": "Senator Gary Peters",
+        "profile_background_color": "EBEDF5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/236511574/1497465437",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/921025087251386369/11o7UGiT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/921025087251386369/11o7UGiT_normal.jpg",
+        "profile_link_color": "00638A",
+        "profile_sidebar_border_color": "3E80B3",
+        "profile_sidebar_fill_color": "65ABE0",
+        "profile_text_color": "000000",
+        "screen_name": "SenGaryPeters",
+        "statuses_count": 5934,
+        "url": "http://t.co/LDQSc7zibg",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22798877,
+            "id_str": "22798877",
+            "name": "Michigan Baseball",
+            "screen_name": "umichbaseball"
+        }
+    ]
+}

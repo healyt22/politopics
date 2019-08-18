@@ -1,0 +1,169 @@
+{
+    "created_at": "Mon Jan 21 23:38:37 +0000 2019",
+    "hashtags": [
+        {
+            "text": "MLKDay"
+        }
+    ],
+    "id": 1087494708266450944,
+    "id_str": "1087494708266450944",
+    "lang": "en",
+    "retweet_count": 18794,
+    "retweeted_status": {
+        "created_at": "Mon Jan 21 17:46:05 +0000 2019",
+        "favorite_count": 95016,
+        "hashtags": [
+            {
+                "text": "MLKDay"
+            }
+        ],
+        "id": 1087405987479384066,
+        "id_str": "1087405987479384066",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YsDEA3kygd",
+                "expanded_url": "https://twitter.com/realDonaldTrump/status/1087405987479384066/video/1",
+                "id": 1087405813415772160,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087405813415772160/pu/img/lSfZfbpUNFwORc8Z.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087405813415772160/pu/img/lSfZfbpUNFwORc8Z.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/YsDEA3kygd",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 24213,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1087405813415772160/pu/pl/f8e67Dh1_Y5imQsN.m3u8?tag=8"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1087405813415772160/pu/vid/640x360/CM1_bPTyFZBJGock.mp4?tag=8"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1087405813415772160/pu/vid/320x180/Pjn9Aydxo6pROsDa.mp4?tag=8"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1087405813415772160/pu/vid/1280x720/249iDnKwSMleBMph.mp4?tag=8"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 18794,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today, it was my great honor to visit the Martin Luther King Jr. Memorial with @VP Mike Pence, in honor of #MLKDay https://t.co/YsDEA3kygd",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+            "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+            "favourites_count": 7,
+            "followers_count": 63207829,
+            "friends_count": 47,
+            "geo_enabled": true,
+            "id": 25073877,
+            "id_str": "25073877",
+            "listed_count": 106977,
+            "location": "Washington, DC",
+            "name": "Donald J. Trump",
+            "profile_background_color": "6D5C18",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "C5CEC0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "realDonaldTrump",
+            "statuses_count": 43579,
+            "url": "https://t.co/OMxB0x7xC5",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 818910970567344128,
+                "id_str": "818910970567344128",
+                "name": "Vice President Mike Pence",
+                "screen_name": "VP"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @realDonaldTrump: Today, it was my great honor to visit the Martin Luther King Jr. Memorial with @VP Mike Pence, in honor of #MLKDay htt\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 09 22:17:33 +0000 2019",
+        "default_profile": true,
+        "description": "Official Twitter Account for Congressman Greg Steube of Florida's 17th District.",
+        "favourites_count": 5,
+        "followers_count": 4515,
+        "friends_count": 309,
+        "id": 1083125649609506816,
+        "id_str": "1083125649609506816",
+        "listed_count": 134,
+        "location": "Sarasota, FL",
+        "name": "Congressman Greg Steube",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083125649609506816/1547680078",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090263131320774656/b7bh-sEB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090263131320774656/b7bh-sEB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGregSteube",
+        "statuses_count": 169,
+        "url": "https://t.co/CToQuGL0yJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        },
+        {
+            "id": 818910970567344128,
+            "id_str": "818910970567344128",
+            "name": "Vice President Mike Pence",
+            "screen_name": "VP"
+        }
+    ]
+}

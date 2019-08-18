@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jun 19 14:02:02 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 1141345398747029504,
+    "id_str": "1141345398747029504",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 17 22:00:14 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1140740966279712768,
+        "id_str": "1140740966279712768",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/DeuKnqsyXS",
+                "expanded_url": "https://twitter.com/nhpr/status/1140740966279712768/photo/1",
+                "id": 1140740964622983168,
+                "media_url": "http://pbs.twimg.com/media/D9S53QkW4AA6grq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9S53QkW4AA6grq.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 333,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 333,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 333,
+                        "h": 500,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/DeuKnqsyXS"
+            }
+        ],
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "Lawmakers Back Online Energy Data in N.H.; Kuster Wants Federal Energy Advocate: https://t.co/ter2z3XRdH https://t.co/DeuKnqsyXS",
+        "urls": [
+            {
+                "expanded_url": "http://ow.ly/Y2q850uGyY6",
+                "url": "https://t.co/ter2z3XRdH"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 27 07:05:22 +0000 2007",
+            "description": "New Hampshire Public Radio on Twitter. News, politics, culture, local programs, and more.",
+            "favourites_count": 1793,
+            "followers_count": 41859,
+            "friends_count": 1911,
+            "geo_enabled": true,
+            "id": 10649692,
+            "id_str": "10649692",
+            "listed_count": 812,
+            "location": "New Hampshire, USA",
+            "name": "NH Public Radio",
+            "profile_background_color": "D3222A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/10649692/1433886022",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/608387873667186690/zkKvDtr__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/608387873667186690/zkKvDtr__normal.jpg",
+            "profile_link_color": "D8292D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DFDED7",
+            "profile_text_color": "000000",
+            "screen_name": "nhpr",
+            "statuses_count": 41983,
+            "url": "http://t.co/idj231GsvB",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1140740966279712768,
+    "quoted_status_id_str": "1140740966279712768",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I've heard from folks across NH who are concerned that FERC has not fully considered their viewpoints when weighing\u2026 https://t.co/ccnro0jQPn",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1141345398747029504",
+            "url": "https://t.co/ccnro0jQPn"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 20:29:22 +0000 2013",
+        "default_profile": true,
+        "description": "Honored to serve the people of New Hampshire\u2019s Second District in Congress.",
+        "favourites_count": 686,
+        "followers_count": 21785,
+        "friends_count": 2315,
+        "geo_enabled": true,
+        "id": 1058717720,
+        "id_str": "1058717720",
+        "listed_count": 810,
+        "location": "NH's 2nd District",
+        "name": "Ann McLane Kuster",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058717720/1359664710",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/859420869008994304/SGpr9ua7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/859420869008994304/SGpr9ua7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAnnieKuster",
+        "statuses_count": 4838,
+        "url": "http://t.co/1ApjVskz3y",
+        "verified": true
+    },
+    "user_mentions": []
+}

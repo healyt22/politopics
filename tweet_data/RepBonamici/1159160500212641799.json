@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Aug 07 17:52:54 +0000 2019",
+    "hashtags": [],
+    "id": 1159160500212641799,
+    "id_str": "1159160500212641799",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Aug 07 16:56:44 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1159146366200713216,
+        "id_str": "1159146366200713216",
+        "in_reply_to_screen_name": "m0nica10",
+        "in_reply_to_status_id": 1159146348211392512,
+        "in_reply_to_user_id": 59397397,
+        "lang": "en",
+        "place": {
+            "id": "01bd241973160cac",
+            "url": "https://api.twitter.com/1.1/geo/id/01bd241973160cac.json",
+            "place_type": "city",
+            "name": "Hillsboro",
+            "full_name": "Hillsboro, OR",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -123.011705,
+                            45.488124
+                        ],
+                        [
+                            -122.859355,
+                            45.488124
+                        ],
+                        [
+                            -122.859355,
+                            45.573434
+                        ],
+                        [
+                            -123.011705,
+                            45.573434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Congresswoman Suzanne Bonamici starts off by recongnizing the nearly two dozen officials who showed up for the tour\u2026 https://t.co/1RiLPkWoxO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159146366200713216",
+                "url": "https://t.co/1RiLPkWoxO"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 23 08:05:51 +0000 2009",
+            "description": "Science & Environment Reporter @OPB | Audio Producer @parentlabinc | Prev @KQEDnews |The Power of Writing | YAY AREA | \ud83c\uddec\ud83c\uddf9",
+            "favourites_count": 4092,
+            "followers_count": 402,
+            "friends_count": 250,
+            "geo_enabled": true,
+            "id": 59397397,
+            "id_str": "59397397",
+            "listed_count": 22,
+            "location": "Portland, OR",
+            "name": "Monica Samayoa",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/59397397/1469753237",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1035626751848636417/VGmUc9LJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035626751848636417/VGmUc9LJ_normal.jpg",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "m0nica10",
+            "statuses_count": 10363,
+            "url": "https://t.co/UJNXDntTln"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @m0nica10: Congresswoman Suzanne Bonamici starts off by recongnizing the nearly two dozen officials who showed up for the tour today. \u201cY\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 20 16:30:32 +0000 2012",
+        "description": "Representing Oregon's 1st District. Working to strengthen #PublicEducation, support #WorkingFamilies, & #DefendScience. Proud mom of two grown kids.",
+        "favourites_count": 613,
+        "followers_count": 28347,
+        "friends_count": 1257,
+        "geo_enabled": true,
+        "id": 558769636,
+        "id_str": "558769636",
+        "listed_count": 955,
+        "name": "Suzanne Bonamici",
+        "profile_background_color": "325B9D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/558769636/1513624686",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000084043080/816f970a918a5d6fe798f5451dd249d7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000084043080/816f970a918a5d6fe798f5451dd249d7_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBonamici",
+        "statuses_count": 4992,
+        "url": "http://t.co/4mNk46JctA",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 59397397,
+            "id_str": "59397397",
+            "name": "Monica Samayoa",
+            "screen_name": "m0nica10"
+        }
+    ]
+}

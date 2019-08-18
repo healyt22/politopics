@@ -1,0 +1,114 @@
+{
+    "created_at": "Fri Jul 12 20:58:19 +0000 2019",
+    "favorite_count": 22,
+    "hashtags": [],
+    "id": 1149785080325447680,
+    "id_str": "1149785080325447680",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/cYXDMqpJUt",
+            "expanded_url": "https://twitter.com/SenCapito/status/1149785080325447680/video/1",
+            "id": 1149784854894133248,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149784854894133248/pu/img/dfZmfHKHwiNZ8dZH.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149784854894133248/pu/img/dfZmfHKHwiNZ8dZH.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/cYXDMqpJUt",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 116933,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1149784854894133248/pu/vid/1280x720/fjTGkEBnLN3kviRO.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1149784854894133248/pu/pl/yDr7aU6gcujU8V7P.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1149784854894133248/pu/vid/640x360/-8CPrbSNIuso_zfL.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1149784854894133248/pu/vid/480x270/UNXv7yx6pqeOLkLe.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "More details about what @FLOTUS and @DHSMcAleenan learned when I hosted them in Huntington this week \u2b07\ufe0f https://t.co/cYXDMqpJUt",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Sep 22 18:06:14 +0000 2010",
+        "description": "Proudly serving West Virginia in the United States Senate.",
+        "favourites_count": 423,
+        "followers_count": 68489,
+        "friends_count": 1000,
+        "geo_enabled": true,
+        "id": 193794406,
+        "id_str": "193794406",
+        "listed_count": 1632,
+        "name": "Shelley Moore Capito",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193794406/1561668249",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570247761044312064/gBmXhrin_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570247761044312064/gBmXhrin_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCapito",
+        "statuses_count": 8156,
+        "url": "http://t.co/s6UUsbxSHW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 818876014390603776,
+            "id_str": "818876014390603776",
+            "name": "Melania Trump",
+            "screen_name": "FLOTUS"
+        },
+        {
+            "id": 1120417197120266241,
+            "id_str": "1120417197120266241",
+            "name": "Acting Sec. Kevin McAleenan",
+            "screen_name": "DHSMcAleenan"
+        }
+    ]
+}

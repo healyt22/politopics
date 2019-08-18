@@ -1,0 +1,131 @@
+{
+    "created_at": "Tue Apr 23 14:19:17 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1120693629788487681,
+    "id_str": "1120693629788487681",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Apr 22 21:28:54 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1120439359537393666,
+        "id_str": "1120439359537393666",
+        "lang": "en",
+        "place": {
+            "id": "1eb10f058c1e11b0",
+            "url": "https://api.twitter.com/1.1/geo/id/1eb10f058c1e11b0.json",
+            "place_type": "city",
+            "name": "Jefferson Hills",
+            "full_name": "Jefferson Hills, PA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.985207,
+                            40.252933
+                        ],
+                        [
+                            -79.878028,
+                            40.252933
+                        ],
+                        [
+                            -79.878028,
+                            40.330002
+                        ],
+                        [
+                            -79.985207,
+                            40.330002
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "1 US Congressman + Enguaging Career and Technical Education students, staff, and programs = great day at Steel Cent\u2026 https://t.co/fhOD9hiFIj",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1120439359537393666",
+                "url": "https://t.co/fhOD9hiFIj"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 06 17:51:42 +0000 2016",
+            "default_profile": true,
+            "description": "\"A Pathway To Success\" for students in Southern Allegheny County, Steel Center serves as a bridge between public education and the workforce.",
+            "favourites_count": 81,
+            "followers_count": 176,
+            "friends_count": 626,
+            "geo_enabled": true,
+            "id": 717771780291760128,
+            "id_str": "717771780291760128",
+            "location": "Jefferson Hills, PA",
+            "name": "Steel Center",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/717771780291760128/1549898293",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/717791999487832064/0WCMiifh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/717791999487832064/0WCMiifh_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SteelCenterCTE",
+            "statuses_count": 49,
+            "url": "https://t.co/6P1CMUPbt3"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1120439359537393666,
+    "quoted_status_id_str": "1120439359537393666",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "It was great to visit yesterday! Thank you for showing me around, @SteelCenterCTE! https://t.co/PxWUOSwEnB",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/SteelCenterCTE/status/1120439359537393666",
+            "url": "https://t.co/PxWUOSwEnB"
+        }
+    ],
+    "user": {
+        "created_at": "Mon May 11 13:22:08 +0000 2009",
+        "description": "U.S. Member of Congress representing PA's 18th District",
+        "favourites_count": 5,
+        "followers_count": 19112,
+        "friends_count": 83,
+        "id": 39249305,
+        "id_str": "39249305",
+        "listed_count": 1104,
+        "location": "Pittsburgh, PA",
+        "name": "Mike Doyle",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39249305/1560199486",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "USRepMikeDoyle",
+        "statuses_count": 1728,
+        "url": "https://t.co/lnbMOLPFwX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 717771780291760128,
+            "id_str": "717771780291760128",
+            "name": "Steel Center",
+            "screen_name": "SteelCenterCTE"
+        }
+    ]
+}

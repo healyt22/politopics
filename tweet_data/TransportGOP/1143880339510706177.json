@@ -1,0 +1,218 @@
+{
+    "created_at": "Wed Jun 26 13:54:59 +0000 2019",
+    "hashtags": [],
+    "id": 1143880339510706177,
+    "id_str": "1143880339510706177",
+    "lang": "en",
+    "retweet_count": 60,
+    "retweeted_status": {
+        "created_at": "Tue Jun 25 20:30:14 +0000 2019",
+        "favorite_count": 275,
+        "hashtags": [],
+        "id": 1143617418251636737,
+        "id_str": "1143617418251636737",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/r45t4cpoXD",
+                "expanded_url": "https://twitter.com/AbbyFayeCamp/status/1143617418251636737/video/1",
+                "id": 1143617360450019328,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143617360450019328/pu/img/XsGr4aQUaFJDhQqu.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143617360450019328/pu/img/XsGr4aQUaFJDhQqu.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/r45t4cpoXD",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 15000,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1143617360450019328/pu/vid/320x568/mlolcv2TDCXzUnaI.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1143617360450019328/pu/pl/b9tCrSVmoWP9e3Vt.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1143617360450019328/pu/vid/720x1280/7MQqibf9h0D_tfKd.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1143617360450019328/pu/vid/360x640/BId486hb84MJqMPV.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 60,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Bipartisan scooter races! Just your average day at the Transport Committee @RodneyDavis @Malinowski @TransportGOP https://t.co/r45t4cpoXD",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Aug 31 03:59:39 +0000 2012",
+            "default_profile": true,
+            "description": "Director of Coalitions & Operations for @TransportGOP & @RepSamGraves. Former @HouseAgGOP & @NRCC. Columbus, Ohio native & THE @OhioState.",
+            "favourites_count": 1439,
+            "followers_count": 376,
+            "friends_count": 374,
+            "geo_enabled": true,
+            "id": 793020277,
+            "id_str": "793020277",
+            "listed_count": 1,
+            "location": "Washington, DC",
+            "name": "Abby Camp",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/793020277/1509562898",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1069654969706524672/C5lESGMJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069654969706524672/C5lESGMJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AbbyFayeCamp",
+            "statuses_count": 1020
+        },
+        "user_mentions": [
+            {
+                "id": 993153006,
+                "id_str": "993153006",
+                "name": "US Rep Rodney Davis",
+                "screen_name": "RodneyDavis"
+            },
+            {
+                "id": 811239440916054016,
+                "id_str": "811239440916054016",
+                "name": "Tom Malinowski",
+                "screen_name": "Malinowski"
+            },
+            {
+                "id": 35829796,
+                "id_str": "35829796",
+                "name": "T&I Committee Republicans",
+                "screen_name": "TransportGOP"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AbbyFayeCamp: Bipartisan scooter races! Just your average day at the Transport Committee @RodneyDavis @Malinowski @TransportGOP https:/\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Apr 27 19:14:48 +0000 2009",
+        "description": "Transportation & Infrastructure Committee:  Aviation, Maritime, Highway, Transit, Railroad, Pipeline, Hazmat, Water Resource. \nhttps://t.co/U77pFeIWjV",
+        "favourites_count": 1313,
+        "followers_count": 19375,
+        "friends_count": 748,
+        "id": 35829796,
+        "id_str": "35829796",
+        "listed_count": 909,
+        "location": "Washington, D.C.",
+        "name": "T&I Committee Republicans",
+        "profile_background_color": "002442",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35829796/1546902426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082725836996915201/KxeIMSB5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082725836996915201/KxeIMSB5_normal.jpg",
+        "profile_link_color": "FF4A4A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F9FEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "TransportGOP",
+        "statuses_count": 8230,
+        "url": "https://t.co/Nuz80ra8Hq",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 793020277,
+            "id_str": "793020277",
+            "name": "Abby Camp",
+            "screen_name": "AbbyFayeCamp"
+        },
+        {
+            "id": 993153006,
+            "id_str": "993153006",
+            "name": "US Rep Rodney Davis",
+            "screen_name": "RodneyDavis"
+        },
+        {
+            "id": 811239440916054016,
+            "id_str": "811239440916054016",
+            "name": "Tom Malinowski",
+            "screen_name": "Malinowski"
+        },
+        {
+            "id": 35829796,
+            "id_str": "35829796",
+            "name": "T&I Committee Republicans",
+            "screen_name": "TransportGOP"
+        }
+    ]
+}

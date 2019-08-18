@@ -1,0 +1,84 @@
+{
+    "created_at": "Sat Jun 22 15:20:53 +0000 2019",
+    "favorite_count": 42,
+    "hashtags": [
+        {
+            "text": "Veterans"
+        }
+    ],
+    "id": 1142452402437677057,
+    "id_str": "1142452402437677057",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/XifhI2Pypx",
+            "expanded_url": "https://twitter.com/KYComer/status/1142452402437677057/photo/1",
+            "id": 1142452393428377607,
+            "media_url": "http://pbs.twimg.com/media/D9rOZhsX4AcJnOb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9rOZhsX4AcJnOb.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1024,
+                    "h": 1008,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 669,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1024,
+                    "h": 1008,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/XifhI2Pypx"
+        }
+    ],
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Spoke @AmericanLegion Convention in Louisville &amp; was recognized for my cooperation w/their great causes. #Veterans https://t.co/XifhI2Pypx",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 27048645,
+            "id_str": "27048645",
+            "name": "The American Legion",
+            "screen_name": "AmericanLegion"
+        }
+    ]
+}

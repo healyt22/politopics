@@ -1,0 +1,108 @@
+{
+    "created_at": "Fri Jul 19 15:35:20 +0000 2019",
+    "hashtags": [],
+    "id": 1152240510997864450,
+    "id_str": "1152240510997864450",
+    "lang": "en",
+    "retweet_count": 55,
+    "retweeted_status": {
+        "created_at": "Fri Jul 19 15:31:00 +0000 2019",
+        "favorite_count": 137,
+        "hashtags": [],
+        "id": 1152239421455921152,
+        "id_str": "1152239421455921152",
+        "lang": "en",
+        "retweet_count": 55,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": ".@RepAlGreen: \"This is a president now standing before a crowd of people having moved from \u2018lock her up\u2019 to \u2018send h\u2026 https://t.co/bcBMZBw21b",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1152239421455921152",
+                "url": "https://t.co/bcBMZBw21b"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3323842,
+            "friends_count": 261,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26109,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 597131,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 156333623,
+                "id_str": "156333623",
+                "name": "Congressman Al Green",
+                "screen_name": "RepAlGreen"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @thehill: .@RepAlGreen: \"This is a president now standing before a crowd of people having moved from \u2018lock her up\u2019 to \u2018send her back.' T\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 19 16:41:06 +0000 2012",
+        "default_profile": true,
+        "description": "Official Campaign Twitter Account of Lacy Clay for Congress. US Rep, Missouri 1st District. R/Ts & links are not endorsements.",
+        "favourites_count": 19271,
+        "followers_count": 10350,
+        "friends_count": 2688,
+        "geo_enabled": true,
+        "id": 584912320,
+        "id_str": "584912320",
+        "listed_count": 605,
+        "location": "St. Louis, MO",
+        "name": "Lacy Clay MO1st",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/584912320/1467869397",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2363796933/8n10rzwlg5hvynzyv568_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2363796933/8n10rzwlg5hvynzyv568_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "LacyClayMO1",
+        "statuses_count": 19344,
+        "url": "https://t.co/M1086ZAdUj",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1917731,
+            "id_str": "1917731",
+            "name": "The Hill",
+            "screen_name": "thehill"
+        },
+        {
+            "id": 156333623,
+            "id_str": "156333623",
+            "name": "Congressman Al Green",
+            "screen_name": "RepAlGreen"
+        }
+    ]
+}

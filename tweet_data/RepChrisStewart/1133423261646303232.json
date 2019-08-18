@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue May 28 17:22:18 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Mueller"
+        }
+    ],
+    "id": 1133423261646303232,
+    "id_str": "1133423261646303232",
+    "lang": "en",
+    "retweet_count": 44,
+    "retweeted_status": {
+        "created_at": "Tue May 28 17:07:24 +0000 2019",
+        "favorite_count": 70,
+        "hashtags": [
+            {
+                "text": "Mueller"
+            }
+        ],
+        "id": 1133419511502262273,
+        "id_str": "1133419511502262273",
+        "lang": "en",
+        "retweet_count": 44,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "A spokesman for Special Counsel #Mueller disputes claims in new @MichaelWolffNYC book, as @HouseGOP press for swift\u2026 https://t.co/2T8fFKfaYS",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1133419511502262273",
+                "url": "https://t.co/2T8fFKfaYS"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 17 16:58:41 +0000 2009",
+            "description": "Reporter for @WeAreSinclair, historian, and \"New York Times\" bestselling author. DM open for tips, documents preferred.",
+            "favourites_count": 6082,
+            "followers_count": 206543,
+            "friends_count": 55458,
+            "geo_enabled": true,
+            "id": 48029066,
+            "id_str": "48029066",
+            "listed_count": 2202,
+            "location": "Washington, D.C.",
+            "name": "James Rosen",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/48029066/1564003270",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1154139085885313024/zuufoTtZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154139085885313024/zuufoTtZ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JamesRosenTV",
+            "statuses_count": 26120,
+            "url": "https://t.co/1uITYwltr0",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 19983050,
+                "id_str": "19983050",
+                "name": "Michael Wolff",
+                "screen_name": "MichaelWolffNYC"
+            },
+            {
+                "id": 15207668,
+                "id_str": "15207668",
+                "name": "House Republicans",
+                "screen_name": "HouseGOP"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JamesRosenTV: A spokesman for Special Counsel #Mueller disputes claims in new @MichaelWolffNYC book, as @HouseGOP press for swift inves\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 21:08:19 +0000 2013",
+        "description": "Utah's 2nd District Congressman. Former Air Force B-1 pilot, author, House Intelligence, Budget, & Appropriations Committees. Visit https://t.co/GUW6weAva6",
+        "favourites_count": 504,
+        "followers_count": 20988,
+        "friends_count": 371,
+        "geo_enabled": true,
+        "id": 1072008757,
+        "id_str": "1072008757",
+        "listed_count": 816,
+        "location": "Utah and DC",
+        "name": "Rep. Chris Stewart",
+        "profile_background_color": "BE1E2D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072008757/1562880146",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000828740520/3a6960ab5bb904c7a6e73e6099e2b2ef_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000828740520/3a6960ab5bb904c7a6e73e6099e2b2ef_normal.jpeg",
+        "profile_link_color": "1B75BB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepChrisStewart",
+        "statuses_count": 3368,
+        "url": "http://stewart.house.gov",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 48029066,
+            "id_str": "48029066",
+            "name": "James Rosen",
+            "screen_name": "JamesRosenTV"
+        },
+        {
+            "id": 19983050,
+            "id_str": "19983050",
+            "name": "Michael Wolff",
+            "screen_name": "MichaelWolffNYC"
+        },
+        {
+            "id": 15207668,
+            "id_str": "15207668",
+            "name": "House Republicans",
+            "screen_name": "HouseGOP"
+        }
+    ]
+}

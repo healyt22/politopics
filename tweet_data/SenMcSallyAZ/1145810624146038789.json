@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 01 21:45:15 +0000 2019",
+    "favorite_count": 262,
+    "hashtags": [],
+    "id": 1145810624146038789,
+    "id_str": "1145810624146038789",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/B82ilnW2Vx",
+            "expanded_url": "https://twitter.com/SenMcSallyAZ/status/1145810624146038789/photo/1",
+            "id": 1145810620408848384,
+            "media_url": "http://pbs.twimg.com/media/D-a8sEFW4AAOlzO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-a8sEFW4AAOlzO.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 800,
+                    "h": 600,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 800,
+                    "h": 600,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/B82ilnW2Vx"
+        }
+    ],
+    "place": {
+        "id": "29f35f3726f9a043",
+        "url": "https://api.twitter.com/1.1/geo/id/29f35f3726f9a043.json",
+        "place_type": "city",
+        "name": "Sedona",
+        "full_name": "Sedona, AZ",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -111.825536,
+                        34.826391
+                    ],
+                    [
+                        -111.748704,
+                        34.826391
+                    ],
+                    [
+                        -111.748704,
+                        34.890168
+                    ],
+                    [
+                        -111.825536,
+                        34.890168
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 12,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "In our happy place on the trails. https://t.co/B82ilnW2Vx",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 06 20:39:37 +0000 2015",
+        "description": "First female fighter pilot to fly in combat. Veteran. Dog mom to Boomer. Proudly representing the people of Arizona in the U.S Senate.",
+        "favourites_count": 267,
+        "followers_count": 65329,
+        "friends_count": 736,
+        "geo_enabled": true,
+        "id": 2964949642,
+        "id_str": "2964949642",
+        "listed_count": 1027,
+        "location": "Arizona, USA",
+        "name": "Martha McSally",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964949642/1460992343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090315894109204480/DiDFtf5C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090315894109204480/DiDFtf5C_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenMcSallyAZ",
+        "statuses_count": 3646,
+        "url": "https://t.co/ZaC11aNF6e",
+        "verified": true
+    },
+    "user_mentions": []
+}

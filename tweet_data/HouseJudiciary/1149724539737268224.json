@@ -1,0 +1,192 @@
+{
+    "created_at": "Fri Jul 12 16:57:45 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Renew911VCF"
+        }
+    ],
+    "id": 1149724539737268224,
+    "id_str": "1149724539737268224",
+    "lang": "en",
+    "quoted_status_id": 1149692902819422208,
+    "quoted_status_id_str": "1149692902819422208",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Fri Jul 12 15:21:33 +0000 2019",
+        "favorite_count": 28,
+        "hashtags": [
+            {
+                "text": "Renew911VCF"
+            }
+        ],
+        "id": 1149700328012603392,
+        "id_str": "1149700328012603392",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Fri Jul 12 14:52:02 +0000 2019",
+            "favorite_count": 695,
+            "hashtags": [
+                {
+                    "text": "Renew911VCF"
+                }
+            ],
+            "id": 1149692902819422208,
+            "id_str": "1149692902819422208",
+            "lang": "en",
+            "retweet_count": 138,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "Today, at 11:00 AM ET, the House will come together to show bipartisan support to #Renew911VCF. Tune in live here: https://t.co/doGqs78xFL",
+            "urls": [
+                {
+                    "expanded_url": "https://m.facebook.com/NancyPelosi/",
+                    "url": "https://t.co/doGqs78xFL"
+                }
+            ],
+            "user": {
+                "created_at": "Thu Aug 07 15:35:02 +0000 2008",
+                "description": "Speaker of the House, focused on strengthening America's middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.",
+                "favourites_count": 10,
+                "followers_count": 2709042,
+                "friends_count": 361,
+                "id": 15764644,
+                "id_str": "15764644",
+                "listed_count": 16254,
+                "location": "San Francisco",
+                "name": "Nancy Pelosi",
+                "profile_background_color": "385BA3",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/15764644/1522022108",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1114294290375688193/P9mcJNGb_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114294290375688193/P9mcJNGb_normal.png",
+                "profile_link_color": "4B12E6",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FCFCFC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "SpeakerPelosi",
+                "statuses_count": 9115,
+                "url": "https://t.co/jztVqrP3x5",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1149692902819422208,
+        "quoted_status_id_str": "1149692902819422208",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Tune in now! #Renew911VCF https://t.co/ibDOzkVPTs",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/SpeakerPelosi/status/1149692902819422208",
+                "url": "https://t.co/ibDOzkVPTs"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 28 19:06:50 +0000 2011",
+            "description": "Honored to rep #NY12 in the US House. A progressive fmr teacher fighting for #Manhattan, #Brooklyn & #Queens. Proud to wear FDNY coat to #renew911VCF! DMs open",
+            "favourites_count": 6276,
+            "followers_count": 41257,
+            "friends_count": 3284,
+            "geo_enabled": true,
+            "id": 258900199,
+            "id_str": "258900199",
+            "listed_count": 1300,
+            "location": "New York City",
+            "name": "Carolyn  B. Maloney",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/258900199/1549467399",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RepMaloney",
+            "statuses_count": 10673,
+            "url": "https://t.co/EhTt891RCX",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @RepMaloney: Tune in now! #Renew911VCF https://t.co/ibDOzkVPTs",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/SpeakerPelosi/status/1149692902819422208",
+            "url": "https://t.co/ibDOzkVPTs"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Feb 02 17:00:48 +0000 2011",
+        "description": "Proudly working to protect and defend the safety, privacy, consumer rights, civil rights and civil liberties of all Americans. Chairman @RepJerryNadler \u2696",
+        "favourites_count": 2813,
+        "followers_count": 70629,
+        "friends_count": 899,
+        "id": 246357149,
+        "id_str": "246357149",
+        "listed_count": 860,
+        "location": "Washington, D.C.",
+        "name": "House Judiciary Dems",
+        "profile_background_color": "969901",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/246357149/1558564563",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1116071056157159424/ABnDoos9_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116071056157159424/ABnDoos9_normal.png",
+        "profile_link_color": "3B465C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "HouseJudiciary",
+        "statuses_count": 7693,
+        "url": "https://t.co/Ka04Cz8EB3",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 258900199,
+            "id_str": "258900199",
+            "name": "Carolyn  B. Maloney",
+            "screen_name": "RepMaloney"
+        }
+    ]
+}

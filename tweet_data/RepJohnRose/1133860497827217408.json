@@ -1,0 +1,102 @@
+{
+    "created_at": "Wed May 29 22:19:43 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1133860497827217408,
+    "id_str": "1133860497827217408",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed May 29 21:34:03 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1133849003659939840,
+        "id_str": "1133849003659939840",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://data.tennessean.com/twitter-redirect.php\" rel=\"nofollow\">Tennessean.com</a>",
+        "text": "Sen. Lamar Alexander recovering after surgery in Nashville https://t.co/3ZTvZU6rqv",
+        "urls": [
+            {
+                "expanded_url": "https://www.tennessean.com/story/news/2019/05/29/senator-lamar-alexander-lipoma-surgery-recovery/1278474001/",
+                "url": "https://t.co/3ZTvZU6rqv"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Oct 08 00:08:44 +0000 2008",
+            "description": "The place to get the latest Nashville & Middle Tennessee news. Questions/news tips? \ud83d\udce8digital@tennessean.com",
+            "favourites_count": 6168,
+            "followers_count": 282507,
+            "friends_count": 4234,
+            "geo_enabled": true,
+            "id": 16639736,
+            "id_str": "16639736",
+            "listed_count": 2736,
+            "location": "Nashville, TN",
+            "name": "Tennessean",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16639736/1561994748",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/885199581633540096/gRKlwF6A_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/885199581633540096/gRKlwF6A_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Tennessean",
+            "statuses_count": 186079,
+            "url": "https://t.co/T6AdVLwGte",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1133849003659939840,
+    "quoted_status_id_str": "1133849003659939840",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thankful to hear surgery went well for @SenAlexander. We know he will be back diligently serving the people of Tenn\u2026 https://t.co/cu1org1OSo",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1133860497827217408",
+            "url": "https://t.co/cu1org1OSo"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 04 22:11:59 +0000 2019",
+        "default_profile": true,
+        "description": "U.S. Congressman serving Tennessee\u2019s Sixth Congressional District. Proud husband to Chelsea and father to Guy. House Financial Services Committee Member.",
+        "favourites_count": 159,
+        "followers_count": 1917,
+        "friends_count": 194,
+        "geo_enabled": true,
+        "id": 1081312310059253763,
+        "id_str": "1081312310059253763",
+        "listed_count": 86,
+        "location": "Cookeville, TN",
+        "name": "John Rose",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081312310059253763/1560441260",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081319228383350784/HYRcIXZp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081319228383350784/HYRcIXZp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJohnRose",
+        "statuses_count": 235,
+        "url": "https://t.co/nPlQVTzP1F",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 76649729,
+            "id_str": "76649729",
+            "name": "Sen. Lamar Alexander",
+            "screen_name": "SenAlexander"
+        }
+    ]
+}

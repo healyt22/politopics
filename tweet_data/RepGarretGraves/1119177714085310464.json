@@ -1,0 +1,115 @@
+{
+    "created_at": "Fri Apr 19 09:55:35 +0000 2019",
+    "hashtags": [
+        {
+            "text": "IBM"
+        }
+    ],
+    "id": 1119177714085310464,
+    "id_str": "1119177714085310464",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Apr 18 19:28:10 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [
+            {
+                "text": "IBM"
+            }
+        ],
+        "id": 1118959424301928456,
+        "id_str": "1118959424301928456",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Yesterday @RepGarretGraves hosted a reception for Congressional App  Challenge winners at the #IBM Client Innovatio\u2026 https://t.co/4l5pZgEmt4",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118959424301928456",
+                "url": "https://t.co/4l5pZgEmt4"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 14 14:16:13 +0000 2012",
+            "description": "Official Twitter account of IBM Government & Regulatory Affairs.Tweeting on key tech and innovation policy issues. Managed by Adam Pratt and Ashley Bright.",
+            "favourites_count": 1905,
+            "followers_count": 5144,
+            "friends_count": 1381,
+            "geo_enabled": true,
+            "id": 608182396,
+            "id_str": "608182396",
+            "listed_count": 149,
+            "location": "Washington, DC",
+            "name": "IBMPolicy",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/608182396/1519751272",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151509014817255425/HoQObBrn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151509014817255425/HoQObBrn_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "IBMpolicy",
+            "statuses_count": 2826,
+            "url": "https://t.co/gzFcjs2Hpn",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2951574214,
+                "id_str": "2951574214",
+                "name": "Rep. Garret Graves",
+                "screen_name": "RepGarretGraves"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @IBMpolicy: Yesterday @RepGarretGraves hosted a reception for Congressional App  Challenge winners at the #IBM Client Innovation Center\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 30 17:51:24 +0000 2014",
+        "default_profile": true,
+        "description": "Official Twitter Page of Congressman Garret Graves (LA06)",
+        "favourites_count": 311,
+        "followers_count": 12180,
+        "friends_count": 1115,
+        "geo_enabled": true,
+        "id": 2951574214,
+        "id_str": "2951574214",
+        "listed_count": 383,
+        "location": "Follow us on Facebook: ",
+        "name": "Rep. Garret Graves",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951574214/1421440830",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553292029963145216/lzwyCMoA_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553292029963145216/lzwyCMoA_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGarretGraves",
+        "statuses_count": 3574,
+        "url": "https://t.co/glkM2IIXms",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 608182396,
+            "id_str": "608182396",
+            "name": "IBMPolicy",
+            "screen_name": "IBMpolicy"
+        },
+        {
+            "id": 2951574214,
+            "id_str": "2951574214",
+            "name": "Rep. Garret Graves",
+            "screen_name": "RepGarretGraves"
+        }
+    ]
+}

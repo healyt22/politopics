@@ -1,0 +1,125 @@
+{
+    "created_at": "Tue Mar 26 13:38:14 +0000 2019",
+    "hashtags": [],
+    "id": 1110536441153679360,
+    "id_str": "1110536441153679360",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Mar 26 13:02:58 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1110527562067988481,
+        "id_str": "1110527562067988481",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "NEWS: The DRIVE Safe Act: How Younger Truckers Would Get Experience https://t.co/Jxm25GZEoS @SenToddYoung @RepTrey\u2026 https://t.co/vumnhJgF3M",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://buff.ly/2CEa4Zw",
+                "url": "https://t.co/Jxm25GZEoS"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1110527562067988481",
+                "url": "https://t.co/vumnhJgF3M"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 25 06:37:31 +0000 2008",
+            "description": "On the level. On the go.\n\ud83c\udf99@tonykatz 6-9am & 11am-1pm\n\ud83c\udf99@chicksonright 9am-11am\n\ud83c\udf99@hammerandnigel 3pm-7pm\n\nINSTAGRAM\n\ud83d\udcf7 @93wibc",
+            "favourites_count": 5025,
+            "followers_count": 28902,
+            "friends_count": 1805,
+            "geo_enabled": true,
+            "id": 12673222,
+            "id_str": "12673222",
+            "listed_count": 690,
+            "location": "Indianapolis, IN",
+            "name": "93 WIBC Indianapolis",
+            "profile_background_color": "043464",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/12673222/1500500662",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960908479165804545/YyAF5Psq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960908479165804545/YyAF5Psq_normal.jpg",
+            "profile_link_color": "2879AC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFE700",
+            "profile_text_color": "000000",
+            "screen_name": "93wibc",
+            "statuses_count": 95764,
+            "url": "https://t.co/AWxsuhdyL8",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 234128524,
+                "id_str": "234128524",
+                "name": "Senator Todd Young",
+                "screen_name": "SenToddYoung"
+            },
+            {
+                "id": 811986281177772032,
+                "id_str": "811986281177772032",
+                "name": "Trey Hollingsworth",
+                "screen_name": "RepTrey"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @93wibc: NEWS: The DRIVE Safe Act: How Younger Truckers Would Get Experience https://t.co/Jxm25GZEoS @SenToddYoung @RepTrey #DRIVESafeAc\u2026",
+    "urls": [
+        {
+            "expanded_url": "https://buff.ly/2CEa4Zw",
+            "url": "https://t.co/Jxm25GZEoS"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Dec 22 17:26:30 +0000 2016",
+        "description": "Proudly serving my fellow Hoosiers of Indiana's 9th District. Member of the House Financial Services Committee.",
+        "favourites_count": 176,
+        "followers_count": 8652,
+        "friends_count": 619,
+        "id": 811986281177772032,
+        "id_str": "811986281177772032",
+        "listed_count": 311,
+        "location": "Indiana's 9th District",
+        "name": "Trey Hollingsworth",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/811986281177772032/1547661963",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088501775336902657/4O_H6qOp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088501775336902657/4O_H6qOp_normal.jpg",
+        "profile_link_color": "234176",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepTrey",
+        "statuses_count": 621,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 12673222,
+            "id_str": "12673222",
+            "name": "93 WIBC Indianapolis",
+            "screen_name": "93wibc"
+        },
+        {
+            "id": 234128524,
+            "id_str": "234128524",
+            "name": "Senator Todd Young",
+            "screen_name": "SenToddYoung"
+        },
+        {
+            "id": 811986281177772032,
+            "id_str": "811986281177772032",
+            "name": "Trey Hollingsworth",
+            "screen_name": "RepTrey"
+        }
+    ]
+}

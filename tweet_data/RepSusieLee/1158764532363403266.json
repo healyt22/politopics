@@ -1,0 +1,79 @@
+{
+    "created_at": "Tue Aug 06 15:39:27 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [],
+    "id": 1158764532363403266,
+    "id_str": "1158764532363403266",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Veterans are aggressively targeted by predatory for-profit schools, &amp; often left w/a mountain of debt &amp; incomplete\u2026 https://t.co/BmoMGt1HcZ",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1158764532363403266",
+            "url": "https://t.co/BmoMGt1HcZ"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Dec 29 17:08:23 +0000 2018",
+        "default_profile": true,
+        "description": "Congresswoman proudly serving the folks in Nevada's 3rd District. Bipartisan Leader. Education Advocate. Wife to Dan and mom to two great kids.",
+        "favourites_count": 204,
+        "followers_count": 10852,
+        "friends_count": 161,
+        "geo_enabled": true,
+        "id": 1079061579973439488,
+        "id_str": "1079061579973439488",
+        "listed_count": 196,
+        "location": "Las Vegas, NV",
+        "name": "Rep. Susie Lee",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079061579973439488/1546532419",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080861522061127680/PO_53d01_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080861522061127680/PO_53d01_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSusieLee",
+        "statuses_count": 1335,
+        "verified": true
+    },
+    "user_mentions": []
+}

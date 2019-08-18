@@ -1,0 +1,100 @@
+{
+    "created_at": "Wed Oct 18 19:57:23 +0000 2017",
+    "favorite_count": 857,
+    "hashtags": [],
+    "id": 920740612185444353,
+    "id_str": "920740612185444353",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/rvSmohvnnh",
+            "expanded_url": "https://twitter.com/SenSasse/status/920740612185444353/video/1",
+            "id": 920738893883985920,
+            "media_url": "http://pbs.twimg.com/media/DMcfnWXXUAUC9qA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DMcfnWXXUAUC9qA.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/rvSmohvnnh",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 53230,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/920738893883985920/pl/9zu63vGaaQvUN2W1.m3u8"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/920738893883985920/vid/1280x720/PlfrWttorVSFpoLw.mp4"
+                    },
+                    {
+                        "bitrate": 320000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/920738893883985920/vid/320x180/b2JL5v4BMLQ0GRD9.mp4"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/920738893883985920/vid/640x360/KMY_F04NJOEeSeft.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 231,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Now that we\u2019ve got your attention with Dr Pepper, let\u2019s not forget the real substance from today\u2019s hearing. https://t.co/rvSmohvnnh",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 05 22:39:56 +0000 2015",
+        "default_profile": true,
+        "description": "The press office account of U.S. Sen. Sasse. His (less political/hopefully more interesting) personal account is @ BenSasse.",
+        "favourites_count": 1,
+        "followers_count": 144013,
+        "friends_count": 1,
+        "id": 2962923040,
+        "id_str": "2962923040",
+        "listed_count": 1831,
+        "name": "Senator Ben Sasse",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962923040/1445881489",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009479405968621570/-ms4YWy0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009479405968621570/-ms4YWy0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenSasse",
+        "statuses_count": 903,
+        "verified": true
+    },
+    "user_mentions": []
+}

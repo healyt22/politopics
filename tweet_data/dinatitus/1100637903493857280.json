@@ -1,0 +1,168 @@
+{
+    "created_at": "Wed Feb 27 06:04:59 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [
+        {
+            "text": "VegasBorn"
+        },
+        {
+            "text": "GoKnightsGo"
+        }
+    ],
+    "id": 1100637903493857280,
+    "id_str": "1100637903493857280",
+    "lang": "en",
+    "place": {
+        "id": "8fa6d7a33b83ef26",
+        "url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json",
+        "place_type": "city",
+        "name": "Paradise",
+        "full_name": "Paradise, NV",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -115.2092535,
+                        35.984784
+                    ],
+                    [
+                        -115.0610763,
+                        35.984784
+                    ],
+                    [
+                        -115.0610763,
+                        36.137145
+                    ],
+                    [
+                        -115.2092535,
+                        36.137145
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Wed Feb 27 05:49:49 +0000 2019",
+        "favorite_count": 2038,
+        "hashtags": [],
+        "id": 1100634087268569088,
+        "id_str": "1100634087268569088",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/erAKiHNzdc",
+                "expanded_url": "https://twitter.com/GoldenKnights/status/1100634087268569088/photo/1",
+                "id": 1100634029156515840,
+                "media_url": "http://pbs.twimg.com/media/D0Y80W-UwAA5Yph.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D0Y80W-UwAA5Yph.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/erAKiHNzdc"
+            }
+        ],
+        "retweet_count": 429,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "V\nI\nC\nT\nO\nR\nY\n! https://t.co/erAKiHNzdc",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Jun 15 18:59:30 +0000 2016",
+            "description": "We\u2019re a new-ish NHL team. Hit us up for expansion tips. #VegasBorn",
+            "favourites_count": 10611,
+            "followers_count": 447038,
+            "friends_count": 665,
+            "geo_enabled": true,
+            "id": 743155992997691392,
+            "id_str": "743155992997691392",
+            "listed_count": 2000,
+            "location": "Las Vegas, NV",
+            "name": "Vegas Golden Knights",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/743155992997691392/1556145153",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1121180077276815360/ijAT7r-W_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121180077276815360/ijAT7r-W_normal.png",
+            "profile_link_color": "B4975A",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "GoldenKnights",
+            "statuses_count": 26508,
+            "url": "https://t.co/ieu5lCxBar",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1100634087268569088,
+    "quoted_status_id_str": "1100634087268569088",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Another @GoldenKnights win! #VegasBorn\u2060\u2060\u2060\u2060 #GoKnightsGo https://t.co/2GBbnIxtEg",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/GoldenKnights/status/1100634087268569088",
+            "url": "https://t.co/2GBbnIxtEg"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Dec 05 20:49:41 +0000 2008",
+        "description": "Representative of Nevada's First District. Tweeting politics, culture & #OnlyInDistrict1.",
+        "favourites_count": 7505,
+        "followers_count": 9040,
+        "friends_count": 1257,
+        "geo_enabled": true,
+        "id": 17907578,
+        "id_str": "17907578",
+        "listed_count": 389,
+        "location": "Fabulous Las Vegas, Nevada",
+        "name": "Dina Titus",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17907578/1485036291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "dinatitus",
+        "statuses_count": 7050,
+        "url": "https://t.co/nJxR59HXbP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 743155992997691392,
+            "id_str": "743155992997691392",
+            "name": "Vegas Golden Knights",
+            "screen_name": "GoldenKnights"
+        }
+    ]
+}

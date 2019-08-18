@@ -1,0 +1,76 @@
+{
+    "created_at": "Mon Jun 10 19:55:04 +0000 2019",
+    "favorite_count": 35513,
+    "hashtags": [
+        {
+            "text": "NewProfilePic"
+        }
+    ],
+    "id": 1138172752039424001,
+    "id_str": "1138172752039424001",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/mq2cGmOWl3",
+            "expanded_url": "https://twitter.com/RepKatiePorter/status/1138172752039424001/photo/1",
+            "id": 1138172577388597249,
+            "media_url": "http://pbs.twimg.com/media/D8uZ7chWkAE9gyH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8uZ7chWkAE9gyH.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1920,
+                    "h": 1080,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/mq2cGmOWl3"
+        }
+    ],
+    "retweet_count": 1613,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#NewProfilePic https://t.co/mq2cGmOWl3",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 04 16:16:27 +0000 2019",
+        "default_profile": true,
+        "description": "Representative for #CA45. Irvine mom & Consumer Protection Attorney.",
+        "favourites_count": 72,
+        "followers_count": 207120,
+        "friends_count": 87,
+        "id": 1081222837459996672,
+        "id_str": "1081222837459996672",
+        "listed_count": 964,
+        "location": "Irvine, CA and Washington, DC",
+        "name": "Rep. Katie Porter",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081222837459996672/1555967996",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1138172373390307329/vfzeyP7D_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138172373390307329/vfzeyP7D_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepKatiePorter",
+        "statuses_count": 610,
+        "url": "https://t.co/PdxzySKeVw",
+        "verified": true
+    },
+    "user_mentions": []
+}

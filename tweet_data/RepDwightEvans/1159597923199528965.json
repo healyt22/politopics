@@ -1,0 +1,116 @@
+{
+    "created_at": "Thu Aug 08 22:51:03 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1159597923199528965,
+    "id_str": "1159597923199528965",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Aug 08 16:10:51 +0000 2019",
+        "favorite_count": 57,
+        "hashtags": [],
+        "id": 1159497208099692546,
+        "id_str": "1159497208099692546",
+        "lang": "en",
+        "retweet_count": 25,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We are proud to stand with @AFGENational in a fight to stop the government from locking out union members at the\u2026 https://t.co/AzGGYH4Yc6",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159497208099692546",
+                "url": "https://t.co/AzGGYH4Yc6"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 23 17:46:39 +0000 2012",
+            "default_profile": true,
+            "description": "The official twitter account for the Philadelphia Council AFL-CIO, which represents over 100 unions and 150,000 working people in Philly. IG: phillyaflcio",
+            "favourites_count": 894,
+            "followers_count": 3803,
+            "friends_count": 555,
+            "geo_enabled": true,
+            "id": 712815186,
+            "id_str": "712815186",
+            "listed_count": 75,
+            "location": "Philadelphia, PA",
+            "name": "Philadelphia AFL-CIO",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/712815186/1544142542",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2429509587/oajejsqqnlau09c0o372_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2429509587/oajejsqqnlau09c0o372_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "PhillyAFLCIO",
+            "statuses_count": 2268,
+            "url": "https://t.co/4OdzVDVMyX"
+        },
+        "user_mentions": [
+            {
+                "id": 47402168,
+                "id_str": "47402168",
+                "name": "AFGE",
+                "screen_name": "AFGENational"
+            }
+        ]
+    },
+    "quoted_status_id": 1159497208099692546,
+    "quoted_status_id_str": "1159497208099692546",
+    "retweet_count": 4,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "I stand with @AFGELocal3631 &amp; urge @EPAregion3 to reverse this lockout of union members! https://t.co/bqU0UTZypg",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/PhillyAFLCIO/status/1159497208099692546",
+            "url": "https://t.co/bqU0UTZypg"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Nov 17 14:25:20 +0000 2009",
+        "default_profile": true,
+        "description": "Representing the 3rd Congressional District in PA. Making Ideas Matter since 1980. Connect on Facebook: https://t.co/xMYIke63lr",
+        "favourites_count": 3630,
+        "followers_count": 14942,
+        "friends_count": 3267,
+        "geo_enabled": true,
+        "id": 90639372,
+        "id_str": "90639372",
+        "listed_count": 661,
+        "location": "Philadelphia, PA",
+        "name": "Dwight Evans",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90639372/1451339780",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/879350983175925764/xUkaKXoa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/879350983175925764/xUkaKXoa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDwightEvans",
+        "statuses_count": 17015,
+        "url": "https://t.co/JF4XLr08tQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3206771657,
+            "id_str": "3206771657",
+            "name": "AFGE Local 3631",
+            "screen_name": "AFGELocal3631"
+        },
+        {
+            "id": 34303729,
+            "id_str": "34303729",
+            "name": "US EPA Mid-Atlantic",
+            "screen_name": "EPAregion3"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "created_at": "Sun Feb 19 21:30:32 +0000 2017",
+    "favorite_count": 74,
+    "hashtags": [],
+    "id": 833428580080160768,
+    "id_str": "833428580080160768",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/B7DaV0LRlg",
+            "expanded_url": "https://twitter.com/Rep_DevinNunes/status/833428580080160768/photo/1",
+            "id": 833428577794265088,
+            "media_url": "http://pbs.twimg.com/media/C5Du4DUWEAACphu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5Du4DUWEAACphu.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 615,
+                    "h": 347,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 615,
+                    "h": 347,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 615,
+                    "h": 347,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/B7DaV0LRlg"
+        }
+    ],
+    "retweet_count": 23,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Video of my interview today on @FaceTheNation: https://t.co/e7HBKvTaFp https://t.co/B7DaV0LRlg",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/BMIh3099vCC",
+            "url": "https://t.co/e7HBKvTaFp"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 29 21:40:22 +0000 2011",
+        "default_profile": true,
+        "followers_count": 34272,
+        "friends_count": 15,
+        "id": 344972339,
+        "id_str": "344972339",
+        "listed_count": 488,
+        "location": "Washington, DC",
+        "name": "Rep. Devin Nunes",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344972339/1353428355",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDevinNunes",
+        "statuses_count": 169,
+        "url": "http://t.co/qslO3rsq"
+    },
+    "user_mentions": [
+        {
+            "id": 205392468,
+            "id_str": "205392468",
+            "name": "Face The Nation",
+            "screen_name": "FaceTheNation"
+        }
+    ]
+}

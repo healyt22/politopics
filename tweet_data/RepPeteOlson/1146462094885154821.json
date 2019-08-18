@@ -1,0 +1,90 @@
+{
+    "created_at": "Wed Jul 03 16:53:58 +0000 2019",
+    "hashtags": [],
+    "id": 1146462094885154821,
+    "id_str": "1146462094885154821",
+    "in_reply_to_screen_name": "MissAmericaTX",
+    "in_reply_to_status_id": 1146158459148279808,
+    "in_reply_to_user_id": 3070077330,
+    "lang": "en",
+    "place": {
+        "id": "40a6878805edd6b2",
+        "url": "https://api.twitter.com/1.1/geo/id/40a6878805edd6b2.json",
+        "place_type": "city",
+        "name": "Ketchum",
+        "full_name": "Ketchum, ID",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -114.411918,
+                        43.659354
+                    ],
+                    [
+                        -114.352804,
+                        43.659354
+                    ],
+                    [
+                        -114.352804,
+                        43.709529
+                    ],
+                    [
+                        -114.411918,
+                        43.709529
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@MissAmericaTX 1,000,000 (and growing) Texans in Texas Congressional District 22 are so proud of our Chandler Forem\u2026 https://t.co/tAuryT2iMQ",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1146462094885154821",
+            "url": "https://t.co/tAuryT2iMQ"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Feb 04 13:40:57 +0000 2009",
+        "description": "Proudly representing TX-22 in Congress. Follow me on Facebook: http://t.co/2aP7aRlj3f and Instagram: https://t.co/hBZNAgZcuI",
+        "favourites_count": 666,
+        "followers_count": 10361,
+        "friends_count": 2161,
+        "geo_enabled": true,
+        "id": 20053279,
+        "id_str": "20053279",
+        "listed_count": 720,
+        "location": "Washington, DC / Houston, TX",
+        "name": "Rep. Pete Olson",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20053279/1472830497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553398175760150528/wOlSb2ef_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553398175760150528/wOlSb2ef_normal.jpeg",
+        "profile_link_color": "2E399D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFD729",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepPeteOlson",
+        "statuses_count": 8005,
+        "url": "http://t.co/fQR5L3fWi8",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3070077330,
+            "id_str": "3070077330",
+            "name": "Miss Texas",
+            "screen_name": "MissAmericaTX"
+        }
+    ]
+}

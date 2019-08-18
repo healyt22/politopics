@@ -1,0 +1,121 @@
+{
+    "created_at": "Tue Aug 06 14:04:35 +0000 2019",
+    "favorite_count": 1498,
+    "hashtags": [],
+    "id": 1158740657227350016,
+    "id_str": "1158740657227350016",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Aug 05 17:39:03 +0000 2019",
+        "favorite_count": 88,
+        "hashtags": [],
+        "id": 1158432242198298626,
+        "id_str": "1158432242198298626",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/wdKyfwWtc3",
+                "expanded_url": "https://twitter.com/AaronBlake/status/1158432242198298626/photo/1",
+                "id": 1158432232446595072,
+                "media_url": "http://pbs.twimg.com/media/EBOT-k9XkAAFlEX.png",
+                "media_url_https": "https://pbs.twimg.com/media/EBOT-k9XkAAFlEX.png",
+                "sizes": {
+                    "medium": {
+                        "w": 596,
+                        "h": 191,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 596,
+                        "h": 191,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 596,
+                        "h": 191,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/wdKyfwWtc3"
+            }
+        ],
+        "retweet_count": 45,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Official White House transcript has \"in Toledo\" crossed out. https://t.co/wdKyfwWtc3",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Apr 23 15:00:15 +0000 2010",
+            "description": "Senior political reporter, writing for The Fix at The Washington Post. aaron.blake@washpost.com",
+            "favourites_count": 3803,
+            "followers_count": 113975,
+            "friends_count": 4184,
+            "id": 136300373,
+            "id_str": "136300373",
+            "listed_count": 3203,
+            "location": "Washington, D.C./NoVa",
+            "name": "Aaron Blake",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/136300373/1536778066",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/989591977179172864/vd8WjaRk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/989591977179172864/vd8WjaRk_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AaronBlake",
+            "statuses_count": 15092,
+            "url": "https://t.co/qEi9zttg8S",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1158432242198298626,
+    "quoted_status_id_str": "1158432242198298626",
+    "retweet_count": 379,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Most tragic thing about this is that a 13 year old was shot in Toledo less than a week ago and we\u2019re so immune to g\u2026 https://t.co/5yCv84lcuf",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1158740657227350016",
+            "url": "https://t.co/5yCv84lcuf"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 19:33:36 +0000 2013",
+        "description": "Official Twitter account of Congressman Joe Kennedy III, representing Massachusetts' 4th Congressional District.",
+        "favourites_count": 12,
+        "followers_count": 782157,
+        "friends_count": 699,
+        "geo_enabled": true,
+        "id": 1055907624,
+        "id_str": "1055907624",
+        "listed_count": 3314,
+        "name": "Rep. Joe Kennedy III",
+        "profile_background_color": "10214A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055907624/1506705689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_link_color": "BF1B1B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeKennedy",
+        "statuses_count": 5315,
+        "url": "https://t.co/rYNEysanC2",
+        "verified": true
+    },
+    "user_mentions": []
+}

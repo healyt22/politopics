@@ -1,0 +1,104 @@
+{
+    "created_at": "Tue May 21 16:40:29 +0000 2019",
+    "favorite_count": 21,
+    "hashtags": [
+        {
+            "text": "VOTE"
+        }
+    ],
+    "id": 1130876024030486531,
+    "id_str": "1130876024030486531",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/KMdN558XPa",
+            "expanded_url": "https://twitter.com/RepBrendanBoyle/status/1130876024030486531/video/1",
+            "id": 1130875976727052290,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130875976727052290/pu/img/q1hBeEC0E_YrSYSe.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130875976727052290/pu/img/q1hBeEC0E_YrSYSe.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/KMdN558XPa",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 6165,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1130875976727052290/pu/vid/720x1280/W66ngwMM_PGW8hFX.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1130875976727052290/pu/vid/360x640/pi_6pOvcK53tuyYU.mp4?tag=9"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1130875976727052290/pu/pl/xl36HBI10TivFAFR.m3u8?tag=9"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1130875976727052290/pu/vid/320x568/fpzxdRXWurL2oXeb.mp4?tag=9"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Listen to Abby! #VOTE https://t.co/KMdN558XPa",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Dec 27 16:31:09 +0000 2010",
+        "description": "Congressman from my hometown: Philadelphia, PA. Notre Dame & Harvard alum. Husband, dad and eternally hopeful Philly sports fan.",
+        "favourites_count": 7750,
+        "followers_count": 30063,
+        "friends_count": 2232,
+        "id": 231108733,
+        "id_str": "231108733",
+        "listed_count": 712,
+        "location": "Philadelphia and Washington",
+        "name": "US Rep Brendan Boyle",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231108733/1510508884",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1043581069524717568/XpUOVJAo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043581069524717568/XpUOVJAo_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepBrendanBoyle",
+        "statuses_count": 7206,
+        "url": "https://t.co/oaFinPKbyy",
+        "verified": true
+    },
+    "user_mentions": []
+}

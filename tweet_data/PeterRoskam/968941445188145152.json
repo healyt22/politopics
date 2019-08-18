@@ -1,0 +1,138 @@
+{
+    "created_at": "Wed Feb 28 20:10:17 +0000 2018",
+    "favorite_count": 4,
+    "hashtags": [
+        {
+            "text": "TeamRoskam"
+        }
+    ],
+    "id": 968941445188145152,
+    "id_str": "968941445188145152",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Feb 27 23:46:44 +0000 2018",
+        "favorite_count": 106,
+        "hashtags": [],
+        "id": 968633529126064128,
+        "id_str": "968633529126064128",
+        "lang": "en",
+        "place": {
+            "id": "07d9ec834ec88000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9ec834ec88000.json",
+            "place_type": "poi",
+            "name": "Rayburn House Office Building",
+            "full_name": "Rayburn House Office Building",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 20,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you for all the birthday wishes today! From the old-man jokes at @HouseCommerce to this Top Gun\u2026 https://t.co/GGJiTBtHym",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/968633529126064128",
+                "url": "https://t.co/GGJiTBtHym"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Nov 24 21:04:11 +0000 2010",
+            "description": "I represent Illinois' 16th District. It's an honor to serve in Congress on @HouseCommerce @HouseForeignGOP & to serve as a pilot in the Air National Guard.",
+            "favourites_count": 2941,
+            "followers_count": 53897,
+            "friends_count": 965,
+            "geo_enabled": true,
+            "id": 219429281,
+            "id_str": "219429281",
+            "listed_count": 1538,
+            "location": "Channahon, IL",
+            "name": "Adam Kinzinger",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/219429281/1504905657",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/694232632503201794/JoCP5r3E_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/694232632503201794/JoCP5r3E_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepKinzinger",
+            "statuses_count": 7900,
+            "url": "https://t.co/GgL4IzZXrZ",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 114756202,
+                "id_str": "114756202",
+                "name": "Energy & Commerce GOP",
+                "screen_name": "HouseCommerce"
+            }
+        ]
+    },
+    "quoted_status_id": 968633529126064128,
+    "quoted_status_id_str": "968633529126064128",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Happy Birthday from your neighbors #TeamRoskam! It only gets better! https://t.co/BmxuXy9LzO",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RepKinzinger/status/968633529126064128",
+            "url": "https://t.co/BmxuXy9LzO"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Feb 04 00:11:56 +0000 2009",
+        "description": "Husband, father, and former U.S. Representative for the 6th District of Illinois.",
+        "favourites_count": 694,
+        "followers_count": 29134,
+        "friends_count": 4449,
+        "geo_enabled": true,
+        "id": 20015903,
+        "id_str": "20015903",
+        "listed_count": 1458,
+        "location": "Wheaton, IL",
+        "name": "Peter Roskam",
+        "profile_background_color": "083B9B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20015903/1491251027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819282338651766784/5VWiVBcS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819282338651766784/5VWiVBcS_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "F10E13",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "E40C19",
+        "profile_use_background_image": true,
+        "screen_name": "PeterRoskam",
+        "statuses_count": 7064,
+        "verified": true
+    },
+    "user_mentions": []
+}

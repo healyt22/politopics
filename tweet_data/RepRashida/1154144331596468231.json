@@ -1,0 +1,135 @@
+{
+    "created_at": "Wed Jul 24 21:40:26 +0000 2019",
+    "favorite_count": 291,
+    "hashtags": [],
+    "id": 1154144331596468231,
+    "id_str": "1154144331596468231",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 24 21:08:50 +0000 2019",
+        "favorite_count": 183,
+        "hashtags": [],
+        "id": 1154136378290122754,
+        "id_str": "1154136378290122754",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 17,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Happiest of birthdays, @RepRashida! Thanks for your hard work on behalf of the people of Michigan's 13th.",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Sep 22 21:30:16 +0000 2009",
+            "description": "Representing the people from the Great State of Michigan in the United States Senate",
+            "favourites_count": 93,
+            "followers_count": 107408,
+            "friends_count": 2288,
+            "geo_enabled": true,
+            "id": 76456274,
+            "id_str": "76456274",
+            "listed_count": 2291,
+            "location": "Washington, DC",
+            "name": "Sen. Debbie Stabenow",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/76456274/1464728308",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1141009382374854656/klk7j3OL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141009382374854656/klk7j3OL_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenStabenow",
+            "statuses_count": 4414,
+            "url": "https://t.co/pSdzZMCUzw",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1079769536730140672,
+                "id_str": "1079769536730140672",
+                "name": "Congresswoman Rashida Tlaib",
+                "screen_name": "RepRashida"
+            }
+        ]
+    },
+    "quoted_status_id": 1154136378290122754,
+    "quoted_status_id_str": "1154136378290122754",
+    "retweet_count": 24,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Thank you, @SenStabenow! It's an honor to serve in the Michigan delegation with you. https://t.co/oVI3lusgDT",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/SenStabenow/status/1154136378290122754",
+            "url": "https://t.co/oVI3lusgDT"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 31 16:01:33 +0000 2018",
+        "default_profile": true,
+        "description": "Proudly serving Michigan's 13th Congressional District. #13thDistrictStrong",
+        "favourites_count": 19,
+        "followers_count": 189298,
+        "friends_count": 308,
+        "id": 1079769536730140672,
+        "id_str": "1079769536730140672",
+        "listed_count": 782,
+        "location": "Michigan, USA",
+        "name": "Congresswoman Rashida Tlaib",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079769536730140672/1546466242",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097639158888230912/GFONbJEm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097639158888230912/GFONbJEm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRashida",
+        "statuses_count": 404,
+        "url": "https://t.co/9yGTAWgQBV",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 76456274,
+            "id_str": "76456274",
+            "name": "Sen. Debbie Stabenow",
+            "screen_name": "SenStabenow"
+        }
+    ]
+}

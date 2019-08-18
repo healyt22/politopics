@@ -1,0 +1,135 @@
+{
+    "created_at": "Wed Jun 12 14:37:42 +0000 2019",
+    "hashtags": [
+        {
+            "text": "infrastructure"
+        }
+    ],
+    "id": 1138817657858383872,
+    "id_str": "1138817657858383872",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Wed Jun 12 14:29:35 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [
+            {
+                "text": "infrastructure"
+            }
+        ],
+        "id": 1138815613302956032,
+        "id_str": "1138815613302956032",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "A great boost for @CityofJonesboro #infrastructure and our growing local economy.  @ArkansasEDC @SenTomCotton\u2026 https://t.co/UDDQuT9QPo",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138815613302956032",
+                "url": "https://t.co/UDDQuT9QPo"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 29 21:26:12 +0000 2018",
+            "default_profile": true,
+            "description": "Jonesboro Unlimited (JU) is dedicated to the advancement of economic prosperity in Jonesboro and the region.",
+            "favourites_count": 44,
+            "followers_count": 327,
+            "friends_count": 151,
+            "id": 958088916577476608,
+            "id_str": "958088916577476608",
+            "listed_count": 1,
+            "location": "Jonesboro, AR",
+            "name": "Jonesboro Unlimited",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/958088916577476608/1557504825",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/958089890171830272/rZ_99P5F_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/958089890171830272/rZ_99P5F_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Jborounlimited",
+            "statuses_count": 149
+        },
+        "user_mentions": [
+            {
+                "id": 64409725,
+                "id_str": "64409725",
+                "name": "City of Jonesboro, AR",
+                "screen_name": "CityofJonesboro"
+            },
+            {
+                "id": 279210639,
+                "id_str": "279210639",
+                "name": "Arkansas EDC",
+                "screen_name": "ArkansasEDC"
+            },
+            {
+                "id": 968650362,
+                "id_str": "968650362",
+                "name": "Tom Cotton",
+                "screen_name": "SenTomCotton"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @Jborounlimited: A great boost for @CityofJonesboro #infrastructure and our growing local economy.  @ArkansasEDC @SenTomCotton @RepRickC\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 03 21:57:49 +0000 2011",
+        "description": "Representing Arkansas's 1st District in the United States House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee",
+        "favourites_count": 1550,
+        "followers_count": 19067,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 233693291,
+        "id_str": "233693291",
+        "listed_count": 907,
+        "location": "Washington, DC",
+        "name": "Rep Rick Crawford",
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233693291/1514907502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_link_color": "048C09",
+        "profile_sidebar_border_color": "2E517B",
+        "profile_sidebar_fill_color": "C1CCDE",
+        "profile_text_color": "2424C7",
+        "profile_use_background_image": true,
+        "screen_name": "RepRickCrawford",
+        "statuses_count": 5300,
+        "url": "https://t.co/Bh2OlD3a1Q",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 958088916577476608,
+            "id_str": "958088916577476608",
+            "name": "Jonesboro Unlimited",
+            "screen_name": "Jborounlimited"
+        },
+        {
+            "id": 64409725,
+            "id_str": "64409725",
+            "name": "City of Jonesboro, AR",
+            "screen_name": "CityofJonesboro"
+        },
+        {
+            "id": 279210639,
+            "id_str": "279210639",
+            "name": "Arkansas EDC",
+            "screen_name": "ArkansasEDC"
+        },
+        {
+            "id": 968650362,
+            "id_str": "968650362",
+            "name": "Tom Cotton",
+            "screen_name": "SenTomCotton"
+        }
+    ]
+}

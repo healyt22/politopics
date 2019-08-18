@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jul 31 14:35:21 +0000 2019",
+    "favorite_count": 449,
+    "hashtags": [],
+    "id": 1156574072341504001,
+    "id_str": "1156574072341504001",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 30 17:40:00 +0000 2019",
+        "favorite_count": 3197,
+        "hashtags": [],
+        "id": 1156258152817541120,
+        "id_str": "1156258152817541120",
+        "lang": "en",
+        "place": {
+            "id": "07d9ee9433c83002",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9ee9433c83002.json",
+            "place_type": "poi",
+            "name": "Florida Highway Patrol",
+            "full_name": "Florida Highway Patrol",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.49353637104767,
+                            27.446390984807625
+                        ],
+                        [
+                            -82.49353637104767,
+                            27.446390984807625
+                        ],
+                        [
+                            -82.49353637104767,
+                            27.446390984807625
+                        ],
+                        [
+                            -82.49353637104767,
+                            27.446390984807625
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 475,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "BREAKING FHP NEWS! After 36 years w/ the Florida Highway Patrol, longest current serving female Trooper Barbara Ehr\u2026 https://t.co/oxBkLNjV4K",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156258152817541120",
+                "url": "https://t.co/oxBkLNjV4K"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 09 00:17:31 +0000 2016",
+            "default_profile": true,
+            "description": "Official Troop F account for the Florida Highway Patrol. | Feed not monitored 24/7 | Office of PAO | (Follows and retweets are not endorsements).",
+            "favourites_count": 5653,
+            "followers_count": 2451,
+            "friends_count": 428,
+            "geo_enabled": true,
+            "id": 740699308064972801,
+            "id_str": "740699308064972801",
+            "listed_count": 52,
+            "location": "Florida, USA",
+            "name": "FHP SWFL",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/740699308064972801/1564702552",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1038415402693533696/4ECqBO0M_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038415402693533696/4ECqBO0M_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FHPSWFL",
+            "statuses_count": 1204,
+            "url": "https://t.co/KD0OBpCMkg"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1156258152817541120,
+    "quoted_status_id_str": "1156258152817541120",
+    "retweet_count": 77,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Thank you Trooper Barbara Ehrhart for your incredible 36 years of service to our State!\n\nWe wish you all the best i\u2026 https://t.co/yGvZZP158f",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1156574072341504001",
+            "url": "https://t.co/yGvZZP158f"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Apr 10 16:03:04 +0000 2010",
+        "description": "Senator from the great state of Florida. Fighting for Florida families and to Make Washington Work. #LetsGetToWork\nhttps://t.co/t2TJJ5tras",
+        "favourites_count": 15,
+        "followers_count": 260204,
+        "friends_count": 2828,
+        "geo_enabled": true,
+        "id": 131546062,
+        "id_str": "131546062",
+        "listed_count": 3483,
+        "location": "The Sunshine State",
+        "name": "Rick Scott",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131546062/1548253495",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenRickScott",
+        "statuses_count": 14167,
+        "url": "https://t.co/sHIJdrhtn1",
+        "verified": true
+    },
+    "user_mentions": []
+}

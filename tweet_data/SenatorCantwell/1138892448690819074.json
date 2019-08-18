@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed Jun 12 19:34:54 +0000 2019",
+    "hashtags": [],
+    "id": 1138892448690819074,
+    "id_str": "1138892448690819074",
+    "lang": "en",
+    "retweet_count": 324,
+    "retweeted_status": {
+        "created_at": "Wed Jun 12 16:51:42 +0000 2019",
+        "favorite_count": 535,
+        "hashtags": [],
+        "id": 1138851380544843779,
+        "id_str": "1138851380544843779",
+        "lang": "en",
+        "retweet_count": 324,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "You\u2019re going to want to see this:\n \n@SenMarkey, @SenatorCantwell, and @RonWyden asked to pass a bill to restore\u2026 https://t.co/3oK1srQ1GH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138851380544843779",
+                "url": "https://t.co/3oK1srQ1GH"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 10 22:26:03 +0000 2009",
+            "description": "News from leadership staff of Senate Democrats.",
+            "favourites_count": 312,
+            "followers_count": 919889,
+            "friends_count": 2384,
+            "id": 73238146,
+            "id_str": "73238146",
+            "listed_count": 6756,
+            "location": "Washington, DC",
+            "name": "Senate Democrats",
+            "profile_background_color": "A5C2D0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/73238146/1531140003",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1016665985967849473/6vabMQtd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016665985967849473/6vabMQtd_normal.jpg",
+            "profile_link_color": "16649C",
+            "profile_sidebar_border_color": "A5C2D0",
+            "profile_sidebar_fill_color": "D8E5F0",
+            "profile_text_color": "04223B",
+            "profile_use_background_image": true,
+            "screen_name": "SenateDems",
+            "statuses_count": 20158,
+            "url": "https://t.co/xoXcBWVJ9Y",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 21406834,
+                "id_str": "21406834",
+                "name": "Ed Markey",
+                "screen_name": "SenMarkey"
+            },
+            {
+                "id": 117501995,
+                "id_str": "117501995",
+                "name": "Sen. Maria Cantwell",
+                "screen_name": "SenatorCantwell"
+            },
+            {
+                "id": 250188760,
+                "id_str": "250188760",
+                "name": "Ron Wyden",
+                "screen_name": "RonWyden"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SenateDems: You\u2019re going to want to see this:\n \n@SenMarkey, @SenatorCantwell, and @RonWyden asked to pass a bill to restore #NetNeutral\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 25 19:21:52 +0000 2010",
+        "description": "U.S. Senator from Washington State | Tweets from Maria are signed \u2013MC | Facebook: https://t.co/qLmMk10nJI RT\u2260endorsement",
+        "favourites_count": 794,
+        "followers_count": 229594,
+        "friends_count": 2203,
+        "id": 117501995,
+        "id_str": "117501995",
+        "listed_count": 2475,
+        "location": "Washington, DC",
+        "name": "Sen. Maria Cantwell",
+        "profile_background_color": "B8B6B6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117501995/1525958289",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112707249032626176/j7drmGgX_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112707249032626176/j7drmGgX_normal.png",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "25377E",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "25378F",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorCantwell",
+        "statuses_count": 8304,
+        "url": "https://t.co/5P50HzPLoB",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 73238146,
+            "id_str": "73238146",
+            "name": "Senate Democrats",
+            "screen_name": "SenateDems"
+        },
+        {
+            "id": 21406834,
+            "id_str": "21406834",
+            "name": "Ed Markey",
+            "screen_name": "SenMarkey"
+        },
+        {
+            "id": 117501995,
+            "id_str": "117501995",
+            "name": "Sen. Maria Cantwell",
+            "screen_name": "SenatorCantwell"
+        },
+        {
+            "id": 250188760,
+            "id_str": "250188760",
+            "name": "Ron Wyden",
+            "screen_name": "RonWyden"
+        }
+    ]
+}

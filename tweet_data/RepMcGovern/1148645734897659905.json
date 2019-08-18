@@ -1,0 +1,119 @@
+{
+    "created_at": "Tue Jul 09 17:30:58 +0000 2019",
+    "hashtags": [
+        {
+            "text": "HungerToHealth"
+        },
+        {
+            "text": "SNAP"
+        },
+        {
+            "text": "FoodisMedicine"
+        }
+    ],
+    "id": 1148645734897659905,
+    "id_str": "1148645734897659905",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Tue Jul 09 14:31:54 +0000 2019",
+        "favorite_count": 22,
+        "hashtags": [
+            {
+                "text": "HungerToHealth"
+            },
+            {
+                "text": "SNAP"
+            }
+        ],
+        "id": 1148600670615986177,
+        "id_str": "1148600670615986177",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Live from #HungerToHealth: @RepMcGovern says #SNAP is a critical program, but not sufficient for many.\u2026 https://t.co/ae5fUz2IOC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148600670615986177",
+                "url": "https://t.co/ae5fUz2IOC"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 29 16:51:46 +0000 2019",
+            "default_profile": true,
+            "description": "A coalition dedicated to building a health care system that recognizes the critical relationship between food & health. Co-led by @HarvardCHLPI & @communityserv",
+            "favourites_count": 54,
+            "followers_count": 77,
+            "friends_count": 151,
+            "id": 1122906329503490048,
+            "id_str": "1122906329503490048",
+            "location": "Massachusetts, USA",
+            "name": "Food is Medicine Massachusetts",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122906329503490048/1559831941",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151131921990053889/NiEMdrld_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151131921990053889/NiEMdrld_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FoodisMedMa",
+            "statuses_count": 48,
+            "url": "https://t.co/yzInYESR79"
+        },
+        "user_mentions": [
+            {
+                "id": 242426145,
+                "id_str": "242426145",
+                "name": "Rep. Jim McGovern",
+                "screen_name": "RepMcGovern"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @MA_FIMC: Live from #HungerToHealth: @RepMcGovern says #SNAP is a critical program, but not sufficient for many. #FoodisMedicine interve\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 24 19:18:36 +0000 2011",
+        "description": "Dad. Husband. #Worcester born & raised. Chairman of @RulesDemocrats & @CECCgov. Co-Chair of @TLhumanrights. Fighting to #EndHungerNow #OverturnCitizensUnited",
+        "favourites_count": 535,
+        "followers_count": 56204,
+        "friends_count": 641,
+        "geo_enabled": true,
+        "id": 242426145,
+        "id_str": "242426145",
+        "listed_count": 1574,
+        "location": "Massachusetts, USA",
+        "name": "Rep. Jim McGovern",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242426145/1558546870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131403484769792002/y6gaH257_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131403484769792002/y6gaH257_normal.jpg",
+        "profile_link_color": "336699",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMcGovern",
+        "statuses_count": 9765,
+        "url": "https://t.co/f2XcW4hsKs",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1122906329503490048,
+            "id_str": "1122906329503490048",
+            "name": "The Massachusetts Food is Medicine Coalition",
+            "screen_name": "MA_FIMC"
+        },
+        {
+            "id": 242426145,
+            "id_str": "242426145",
+            "name": "Rep. Jim McGovern",
+            "screen_name": "RepMcGovern"
+        }
+    ]
+}

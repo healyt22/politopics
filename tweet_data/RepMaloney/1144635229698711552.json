@@ -1,0 +1,199 @@
+{
+    "created_at": "Fri Jun 28 15:54:39 +0000 2019",
+    "hashtags": [],
+    "id": 1144635229698711552,
+    "id_str": "1144635229698711552",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Fri Jun 28 15:44:14 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 1144632607579222020,
+        "id_str": "1144632607579222020",
+        "lang": "en",
+        "place": {
+            "id": "07d9d219df482000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d219df482000.json",
+            "place_type": "poi",
+            "name": "New York City Hall",
+            "full_name": "New York City Hall",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.00588035583496,
+                            40.712658728604865
+                        ],
+                        [
+                            -74.00588035583496,
+                            40.712658728604865
+                        ],
+                        [
+                            -74.00588035583496,
+                            40.712658728604865
+                        ],
+                        [
+                            -74.00588035583496,
+                            40.712658728604865
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Proud to stand with @RepMaloney and leaders from @NationalAction @cpc_nyc @NewYorkStateAG @TechNYC @es_indivisible\u2026 https://t.co/AmVp7JrLsl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1144632607579222020",
+                "url": "https://t.co/AmVp7JrLsl"
+            }
+        ],
+        "user": {
+            "created_at": "Mon May 18 15:18:14 +0000 2009",
+            "description": "Census Director/Executive Assistant Corporation Counsel for Strategic Advocacy. Former Consumer Affairs Commish, @madeinny, Columbia Professor. Proud mom.",
+            "favourites_count": 1624,
+            "followers_count": 3882,
+            "friends_count": 1486,
+            "geo_enabled": true,
+            "id": 40893150,
+            "id_str": "40893150",
+            "listed_count": 130,
+            "location": "New York, NY",
+            "name": "Julie Menin",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/40893150/1486317862",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2890175171/bcb7f61a1b323504c4c09d46a2ee7854_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2890175171/bcb7f61a1b323504c4c09d46a2ee7854_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "JulieMenin",
+            "statuses_count": 3903,
+            "url": "https://t.co/aMyU9ZeiRG"
+        },
+        "user_mentions": [
+            {
+                "id": 258900199,
+                "id_str": "258900199",
+                "name": "Carolyn  B. Maloney",
+                "screen_name": "RepMaloney"
+            },
+            {
+                "id": 319100065,
+                "id_str": "319100065",
+                "name": "NationalActionNet",
+                "screen_name": "NationalAction"
+            },
+            {
+                "id": 142743412,
+                "id_str": "142743412",
+                "name": "CPC",
+                "screen_name": "cpc_nyc"
+            },
+            {
+                "id": 132496568,
+                "id_str": "132496568",
+                "name": "NY AG James",
+                "screen_name": "NewYorkStateAG"
+            },
+            {
+                "id": 4628177357,
+                "id_str": "4628177357",
+                "name": "Tech:NYC",
+                "screen_name": "TechNYC"
+            },
+            {
+                "id": 904785170456293376,
+                "id_str": "904785170456293376",
+                "name": "Empire State Indivisible",
+                "screen_name": "es_indivisible"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @JulieMenin: Proud to stand with @RepMaloney and leaders from @NationalAction @cpc_nyc @NewYorkStateAG @TechNYC @es_indivisible @Makethe\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Feb 28 19:06:50 +0000 2011",
+        "description": "Honored to rep #NY12 in the US House. A progressive fmr teacher fighting for #Manhattan, #Brooklyn & #Queens. Proud to wear FDNY coat to #renew911VCF! DMs open",
+        "favourites_count": 6276,
+        "followers_count": 41257,
+        "friends_count": 3284,
+        "geo_enabled": true,
+        "id": 258900199,
+        "id_str": "258900199",
+        "listed_count": 1300,
+        "location": "New York City",
+        "name": "Carolyn  B. Maloney",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258900199/1549467399",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMaloney",
+        "statuses_count": 10673,
+        "url": "https://t.co/EhTt891RCX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 40893150,
+            "id_str": "40893150",
+            "name": "Julie Menin",
+            "screen_name": "JulieMenin"
+        },
+        {
+            "id": 258900199,
+            "id_str": "258900199",
+            "name": "Carolyn  B. Maloney",
+            "screen_name": "RepMaloney"
+        },
+        {
+            "id": 319100065,
+            "id_str": "319100065",
+            "name": "NationalActionNet",
+            "screen_name": "NationalAction"
+        },
+        {
+            "id": 142743412,
+            "id_str": "142743412",
+            "name": "CPC",
+            "screen_name": "cpc_nyc"
+        },
+        {
+            "id": 132496568,
+            "id_str": "132496568",
+            "name": "NY AG James",
+            "screen_name": "NewYorkStateAG"
+        },
+        {
+            "id": 4628177357,
+            "id_str": "4628177357",
+            "name": "Tech:NYC",
+            "screen_name": "TechNYC"
+        },
+        {
+            "id": 904785170456293376,
+            "id_str": "904785170456293376",
+            "name": "Empire State Indivisible",
+            "screen_name": "es_indivisible"
+        }
+    ]
+}

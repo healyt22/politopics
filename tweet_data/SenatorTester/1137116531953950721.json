@@ -1,0 +1,105 @@
+{
+    "created_at": "Fri Jun 07 21:58:02 +0000 2019",
+    "hashtags": [],
+    "id": 1137116531953950721,
+    "id_str": "1137116531953950721",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Fri Jun 07 21:50:14 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1137114570168815616,
+        "id_str": "1137114570168815616",
+        "in_reply_to_screen_name": "SenatorTester",
+        "in_reply_to_user_id": 515822213,
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "@SenatorTester announces he\u2019ll reintroduce the Blackfoot Clearwater Stewardship Act, urging supporters to urge\u2026 https://t.co/ygm7KFAtOc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1137114570168815616",
+                "url": "https://t.co/ygm7KFAtOc"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 17 04:27:35 +0000 2008",
+            "description": "TV, radio, 'Net... reporting news whatever it takes. KPAX Co-anchor and Senior Reporter",
+            "favourites_count": 1189,
+            "followers_count": 2501,
+            "friends_count": 1841,
+            "geo_enabled": true,
+            "id": 15464178,
+            "id_str": "15464178",
+            "listed_count": 120,
+            "location": "Missoula, MT",
+            "name": "dennisbragg",
+            "profile_background_color": "580415",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123355267184250880/PlI_3S2f_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123355267184250880/PlI_3S2f_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "0A0001",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "screen_name": "dennisbragg",
+            "statuses_count": 23547
+        },
+        "user_mentions": [
+            {
+                "id": 515822213,
+                "id_str": "515822213",
+                "name": "Senator Jon Tester",
+                "screen_name": "SenatorTester"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @dennisbragg: @SenatorTester announces he\u2019ll reintroduce the Blackfoot Clearwater Stewardship Act, urging supporters to urge @SteveDaine\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 05 20:13:29 +0000 2012",
+        "description": "Third-generation Montana farmer. Proud grandfather. Former school teacher. Flattop icon. Trumpet player. Montana's senior Senator.",
+        "favourites_count": 300,
+        "followers_count": 94979,
+        "friends_count": 1001,
+        "geo_enabled": true,
+        "id": 515822213,
+        "id_str": "515822213",
+        "listed_count": 1379,
+        "location": "Montana",
+        "name": "Senator Jon Tester",
+        "profile_background_color": "0C0203",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/515822213/1490051228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_link_color": "FA610F",
+        "profile_sidebar_border_color": "D6BCAB",
+        "profile_sidebar_fill_color": "BE9658",
+        "profile_text_color": "544D3D",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTester",
+        "statuses_count": 4670,
+        "url": "http://t.co/G4S7FHr0Od",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15464178,
+            "id_str": "15464178",
+            "name": "dennisbragg",
+            "screen_name": "dennisbragg"
+        },
+        {
+            "id": 515822213,
+            "id_str": "515822213",
+            "name": "Senator Jon Tester",
+            "screen_name": "SenatorTester"
+        }
+    ]
+}

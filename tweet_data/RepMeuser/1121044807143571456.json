@@ -1,0 +1,184 @@
+{
+    "created_at": "Wed Apr 24 13:34:44 +0000 2019",
+    "hashtags": [
+        {
+            "text": "SmallBiz"
+        },
+        {
+            "text": "communitybanking"
+        }
+    ],
+    "id": 1121044807143571456,
+    "id_str": "1121044807143571456",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Apr 24 13:32:03 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "SmallBiz"
+            },
+            {
+                "text": "communitybanking"
+            }
+        ],
+        "id": 1121044132653424640,
+        "id_str": "1121044132653424640",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/LZUeeUHGr5",
+                "expanded_url": "https://twitter.com/PaCommBankers/status/1121044132653424640/photo/1",
+                "id": 1121044113644752898,
+                "media_url": "http://pbs.twimg.com/media/D46_rotWkAIElIc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D46_rotWkAIElIc.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/LZUeeUHGr5"
+            }
+        ],
+        "place": {
+            "id": "2e35d007a19a3b23",
+            "url": "https://api.twitter.com/1.1/geo/id/2e35d007a19a3b23.json",
+            "place_type": "city",
+            "name": "Cleona",
+            "full_name": "Cleona, PA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.489064,
+                            40.330964
+                        ],
+                        [
+                            -76.461343,
+                            40.330964
+                        ],
+                        [
+                            -76.461343,
+                            40.345881
+                        ],
+                        [
+                            -76.489064,
+                            40.345881
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Thx to @RepMeuser for talking #SmallBiz #communitybanking with @fleetwoodbank @TroyAPeters https://t.co/LZUeeUHGr5",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Feb 15 16:13:56 +0000 2013",
+            "description": "Promoting the ideals of community banking by addressing the educational, legislative and networking needs of our members.",
+            "favourites_count": 709,
+            "followers_count": 1128,
+            "friends_count": 1286,
+            "geo_enabled": true,
+            "id": 1183076804,
+            "id_str": "1183076804",
+            "listed_count": 26,
+            "location": "Harrisburg, PA",
+            "name": "PACB",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183076804/1509566105",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1129409273170137095/U6OTaLGx_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129409273170137095/U6OTaLGx_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "PaCommBankers",
+            "statuses_count": 1502,
+            "url": "http://t.co/N7PhWrlcYW"
+        },
+        "user_mentions": [
+            {
+                "id": 1080574793630527505,
+                "id_str": "1080574793630527505",
+                "name": "Congressman Dan Meuser",
+                "screen_name": "RepMeuser"
+            },
+            {
+                "id": 515584230,
+                "id_str": "515584230",
+                "name": "Troy Peters",
+                "screen_name": "TroyAPeters"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @PaCommBankers: Thx to @RepMeuser for talking #SmallBiz #communitybanking with @fleetwoodbank @TroyAPeters https://t.co/LZUeeUHGr5",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 21:21:21 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly serving the hardworking taxpayers of Pennsylvania's 9th Congressional District.",
+        "favourites_count": 15,
+        "followers_count": 5603,
+        "friends_count": 225,
+        "id": 1080574793630527505,
+        "id_str": "1080574793630527505",
+        "listed_count": 118,
+        "name": "Congressman Dan Meuser",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080574793630527505/1564682905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081299055114895360/DvrWDK_k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081299055114895360/DvrWDK_k_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMeuser",
+        "statuses_count": 317,
+        "url": "https://t.co/SlBpB0i2kl",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1183076804,
+            "id_str": "1183076804",
+            "name": "PACB",
+            "screen_name": "PaCommBankers"
+        },
+        {
+            "id": 1080574793630527505,
+            "id_str": "1080574793630527505",
+            "name": "Congressman Dan Meuser",
+            "screen_name": "RepMeuser"
+        }
+    ]
+}

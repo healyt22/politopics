@@ -1,0 +1,150 @@
+{
+    "created_at": "Tue Jul 30 21:12:55 +0000 2019",
+    "hashtags": [],
+    "id": 1156311733830672384,
+    "id_str": "1156311733830672384",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Jul 30 15:59:24 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1156232837009485824,
+        "id_str": "1156232837009485824",
+        "lang": "en",
+        "place": {
+            "id": "07d9c958f4083004",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c958f4083004.json",
+            "place_type": "poi",
+            "name": "Northeast Wisconsin Technical College",
+            "full_name": "Northeast Wisconsin Technical College",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -88.10593128204346,
+                            44.52735328011496
+                        ],
+                        [
+                            -88.10593128204346,
+                            44.52735328011496
+                        ],
+                        [
+                            -88.10593128204346,
+                            44.52735328011496
+                        ],
+                        [
+                            -88.10593128204346,
+                            44.52735328011496
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to @RepGallagher for hosting an important conversation on flood prevention and mitigation today at @NWTC.\n\nT\u2026 https://t.co/S33rSK85iD",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156232837009485824",
+                "url": "https://t.co/S33rSK85iD"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 07 16:39:34 +0000 2016",
+            "description": "Official twitter account for State Rep. Jim Steineke, Wisconsin's 5th Assembly District, and @WIAssemblyGOP Majority Leader.",
+            "favourites_count": 371,
+            "followers_count": 1181,
+            "friends_count": 284,
+            "geo_enabled": true,
+            "id": 718116014492360707,
+            "id_str": "718116014492360707",
+            "listed_count": 39,
+            "location": "Kaukauna, WI",
+            "name": "Rep. Jim Steineke",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/718116014492360707/1460049028",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1155938081070956545/Lk1-PJ-z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155938081070956545/Lk1-PJ-z_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "RepSteineke",
+            "statuses_count": 1196,
+            "url": "https://t.co/yD6sY47pG0"
+        },
+        "user_mentions": [
+            {
+                "id": 815966620300480514,
+                "id_str": "815966620300480514",
+                "name": "Rep. Mike Gallagher",
+                "screen_name": "RepGallagher"
+            },
+            {
+                "id": 20460380,
+                "id_str": "20460380",
+                "name": "NWTC",
+                "screen_name": "NWTC"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RepSteineke: Thanks to @RepGallagher for hosting an important conversation on flood prevention and mitigation today at @NWTC.\n\nThanks a\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 02 17:02:57 +0000 2017",
+        "default_profile": true,
+        "description": "Green Bay Native, Marine Veteran, and Eisenhower Nerd proudly representing #WI08 in Congress. #GoPackGo. https://t.co/D2ANAop3fA",
+        "favourites_count": 166,
+        "followers_count": 15831,
+        "friends_count": 403,
+        "geo_enabled": true,
+        "id": 815966620300480514,
+        "id_str": "815966620300480514",
+        "listed_count": 444,
+        "location": "Green Bay, WI",
+        "name": "Rep. Mike Gallagher",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815966620300480514/1539873451",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819978410038624266/0Df5fXvA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819978410038624266/0Df5fXvA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGallagher",
+        "statuses_count": 2443,
+        "url": "https://t.co/uBDJgXRW2D",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 718116014492360707,
+            "id_str": "718116014492360707",
+            "name": "Rep. Jim Steineke",
+            "screen_name": "RepSteineke"
+        },
+        {
+            "id": 815966620300480514,
+            "id_str": "815966620300480514",
+            "name": "Rep. Mike Gallagher",
+            "screen_name": "RepGallagher"
+        },
+        {
+            "id": 20460380,
+            "id_str": "20460380",
+            "name": "NWTC",
+            "screen_name": "NWTC"
+        }
+    ]
+}

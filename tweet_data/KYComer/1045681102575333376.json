@@ -1,0 +1,80 @@
+{
+    "created_at": "Fri Sep 28 14:26:17 +0000 2018",
+    "favorite_count": 34,
+    "hashtags": [],
+    "id": 1045681102575333376,
+    "id_str": "1045681102575333376",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/kEOhS463e3",
+            "expanded_url": "https://twitter.com/KYComer/status/1045681102575333376/photo/1",
+            "id": 1045681099089879041,
+            "media_url": "http://pbs.twimg.com/media/DoMBa1uXoAEUnno.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoMBa1uXoAEUnno.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 867,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1480,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 491,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/kEOhS463e3"
+        }
+    ],
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Honored to receive the Taxpayers\u2019 Friend Award from the National Taxpayers Union @NTU https://t.co/kEOhS463e3",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15029174,
+            "id_str": "15029174",
+            "name": "National Taxpayers Union",
+            "screen_name": "NTU"
+        }
+    ]
+}

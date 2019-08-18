@@ -1,0 +1,137 @@
+{
+    "created_at": "Wed May 08 16:56:01 +0000 2019",
+    "hashtags": [],
+    "id": 1126168890420146176,
+    "id_str": "1126168890420146176",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed May 08 16:55:43 +0000 2019",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 1126168816256462848,
+        "id_str": "1126168816256462848",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": ".@RepChuyGarcia: \"there is a humanitarian crisis and we are better than that on the issue of immigration and the se\u2026 https://t.co/Mxvxf2c8XZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1126168816256462848",
+                "url": "https://t.co/Mxvxf2c8XZ"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 22 11:46:50 +0000 2011",
+            "description": "Elevating the conversation around Latino news in the United States. Part of @NBCNews. Direct any questions to @SandraLilley @SuzGamboa @Nicolemarie_A.",
+            "favourites_count": 3631,
+            "followers_count": 71377,
+            "friends_count": 2692,
+            "geo_enabled": true,
+            "id": 377949581,
+            "id_str": "377949581",
+            "listed_count": 1103,
+            "name": "NBC Latino",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/377949581/1536938944",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1111033939307753472/8jTSHitS_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111033939307753472/8jTSHitS_normal.png",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F5DC50",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NBCLatino",
+            "statuses_count": 43897,
+            "url": "https://t.co/7rIJ6kbFhR",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1082427779583541248,
+                "id_str": "1082427779583541248",
+                "name": "Congressman Chuy Garc\u00eda",
+                "screen_name": "RepChuyGarcia"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NBCLatino: .@RepChuyGarcia: \"there is a humanitarian crisis and we are better than that on the issue of immigration and the separation\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 00:04:27 +0000 2019",
+        "default_profile": true,
+        "description": "Progressive Chicagoan, Retired Marathoner. Congressman of #IL04. @TransportDems and @FSCDems. FB/IG: @RepChuyGarcia",
+        "favourites_count": 87,
+        "followers_count": 5178,
+        "friends_count": 229,
+        "id": 1082427779583541248,
+        "id_str": "1082427779583541248",
+        "listed_count": 169,
+        "name": "Congressman Chuy Garc\u00eda",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082427779583541248/1549477572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092137300115496960/9_hmhIKo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092137300115496960/9_hmhIKo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChuyGarcia",
+        "statuses_count": 496,
+        "url": "https://t.co/XUixIycAnx",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 377949581,
+            "id_str": "377949581",
+            "name": "NBC Latino",
+            "screen_name": "NBCLatino"
+        },
+        {
+            "id": 1082427779583541248,
+            "id_str": "1082427779583541248",
+            "name": "Congressman Chuy Garc\u00eda",
+            "screen_name": "RepChuyGarcia"
+        }
+    ]
+}

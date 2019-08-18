@@ -1,0 +1,127 @@
+{
+    "created_at": "Mon Jun 03 14:59:18 +0000 2019",
+    "hashtags": [],
+    "id": 1135561601115987970,
+    "id_str": "1135561601115987970",
+    "lang": "en",
+    "retweet_count": 22,
+    "retweeted_status": {
+        "created_at": "Mon Jun 03 13:00:41 +0000 2019",
+        "favorite_count": 183,
+        "hashtags": [],
+        "id": 1135531751814631424,
+        "id_str": "1135531751814631424",
+        "lang": "en",
+        "retweet_count": 22,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "A great performance by @gatlinbrothers @fordstheatre gala last night.  @RandPaul enjoyed harmonizing with y\u2019all on\u2026 https://t.co/mDQdSHMFrb",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1135531751814631424",
+                "url": "https://t.co/mDQdSHMFrb"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Mar 15 18:01:49 +0000 2015",
+            "description": "I'm an author, a former communications manager, and the mother of three sons. I've been married to @RandPaul for twenty-four years.",
+            "favourites_count": 600,
+            "followers_count": 7172,
+            "friends_count": 98,
+            "id": 3086289084,
+            "id_str": "3086289084",
+            "listed_count": 82,
+            "name": "Kelley Paul",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3086289084/1430244807",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/589130345028702210/xR4_fpye_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/589130345028702210/xR4_fpye_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "KelleyAshbyPaul",
+            "statuses_count": 305,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 203162553,
+                "id_str": "203162553",
+                "name": "The Gatlin Brothers",
+                "screen_name": "gatlinbrothers"
+            },
+            {
+                "id": 18907428,
+                "id_str": "18907428",
+                "name": "Ford's Theatre",
+                "screen_name": "fordstheatre"
+            },
+            {
+                "id": 216881337,
+                "id_str": "216881337",
+                "name": "Senator Rand Paul",
+                "screen_name": "RandPaul"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @KelleyAshbyPaul: A great performance by @gatlinbrothers @fordstheatre gala last night.  @RandPaul enjoyed harmonizing with y\u2019all on My\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 17 23:52:35 +0000 2010",
+        "description": "U.S. Senator for Kentucky | I fight for the Constitution, individual liberty and the freedoms that make this country great.",
+        "favourites_count": 855,
+        "followers_count": 2513780,
+        "friends_count": 491,
+        "geo_enabled": true,
+        "id": 216881337,
+        "id_str": "216881337",
+        "listed_count": 12831,
+        "location": "Bowling Green, KY",
+        "name": "Senator Rand Paul",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216881337/1508431224",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RandPaul",
+        "statuses_count": 13128,
+        "url": "https://t.co/V4RkZkfWyy",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3086289084,
+            "id_str": "3086289084",
+            "name": "Kelley Paul",
+            "screen_name": "KelleyAshbyPaul"
+        },
+        {
+            "id": 203162553,
+            "id_str": "203162553",
+            "name": "The Gatlin Brothers",
+            "screen_name": "gatlinbrothers"
+        },
+        {
+            "id": 18907428,
+            "id_str": "18907428",
+            "name": "Ford's Theatre",
+            "screen_name": "fordstheatre"
+        },
+        {
+            "id": 216881337,
+            "id_str": "216881337",
+            "name": "Senator Rand Paul",
+            "screen_name": "RandPaul"
+        }
+    ]
+}

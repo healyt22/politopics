@@ -1,0 +1,116 @@
+{
+    "created_at": "Thu Feb 14 00:30:46 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1095842751722201088,
+    "id_str": "1095842751722201088",
+    "in_reply_to_screen_name": "RepBryanSteil",
+    "in_reply_to_status_id": 1095821675474665474,
+    "in_reply_to_user_id": 1075205691621720064,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/AYZCjvrvxM",
+            "expanded_url": "https://twitter.com/JimPressOffice/status/1095842751722201088/video/1",
+            "id": 1095842704175575040,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095842704175575040/pu/img/TwYZslNnXSrSJPlJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095842704175575040/pu/img/TwYZslNnXSrSJPlJ.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/AYZCjvrvxM",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 2823,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1095842704175575040/pu/pl/bMHmIGXJfSMiggU0.m3u8?tag=6"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1095842704175575040/pu/vid/360x640/Mg6dyPEt8i9eYYjG.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1095842704175575040/pu/vid/720x1280/x0n3zCiHefXhikY5.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1095842704175575040/pu/vid/320x568/T18ZEvXV5WvqLUpF.mp4?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RepBryanSteil @RepBryanSteil, the Dean has spoken: https://t.co/AYZCjvrvxM",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 28 19:31:33 +0000 2012",
+        "description": "Press Office of Congressman Jim Sensenbrenner, representing Wisconsin's Fifth District. Former Chair of House Judiciary Committee.",
+        "favourites_count": 350,
+        "followers_count": 9096,
+        "friends_count": 624,
+        "geo_enabled": true,
+        "id": 851621377,
+        "id_str": "851621377",
+        "listed_count": 590,
+        "name": "Sensenbrenner Press",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/851621377/1462220205",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JimPressOffice",
+        "statuses_count": 1517,
+        "url": "http://t.co/VNdLE9VEEs",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1075205691621720064,
+            "id_str": "1075205691621720064",
+            "name": "Bryan Steil",
+            "screen_name": "RepBryanSteil"
+        },
+        {
+            "id": 1075205691621720064,
+            "id_str": "1075205691621720064",
+            "name": "Bryan Steil",
+            "screen_name": "RepBryanSteil"
+        }
+    ]
+}

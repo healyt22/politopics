@@ -1,0 +1,82 @@
+{
+    "created_at": "Fri May 31 17:03:20 +0000 2019",
+    "favorite_count": 140,
+    "hashtags": [],
+    "id": 1134505651944792066,
+    "id_str": "1134505651944792066",
+    "lang": "en",
+    "place": {
+        "id": "1faf8f69f9254e17",
+        "url": "https://api.twitter.com/1.1/geo/id/1faf8f69f9254e17.json",
+        "place_type": "city",
+        "name": "Freer",
+        "full_name": "Freer, TX",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -98.630077,
+                        27.857452
+                    ],
+                    [
+                        -98.60165,
+                        27.857452
+                    ],
+                    [
+                        -98.60165,
+                        27.887479
+                    ],
+                    [
+                        -98.630077,
+                        27.887479
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 89,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Wrapping up in Laredo, Texas. This border sector is suffering from technology shortfalls while footing $2 million i\u2026 https://t.co/pchmDJd2Et",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1134505651944792066",
+            "url": "https://t.co/pchmDJd2Et"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 12 18:48:35 +0000 2015",
+        "default_profile": true,
+        "description": "I'm honored to serve Georgia's 10th Congressional District.",
+        "favourites_count": 1337,
+        "followers_count": 28736,
+        "friends_count": 943,
+        "geo_enabled": true,
+        "id": 2975091705,
+        "id_str": "2975091705",
+        "listed_count": 680,
+        "location": "Greensboro, GA; Washington, DC",
+        "name": "Rep. Jody Hice",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2975091705/1536671706",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004114780200816641/_vvzlcnp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004114780200816641/_vvzlcnp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanHice",
+        "statuses_count": 2903,
+        "url": "https://t.co/apR1dqYCIk",
+        "verified": true
+    },
+    "user_mentions": []
+}

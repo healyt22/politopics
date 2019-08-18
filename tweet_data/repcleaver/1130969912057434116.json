@@ -1,0 +1,105 @@
+{
+    "created_at": "Tue May 21 22:53:34 +0000 2019",
+    "favorite_count": 33,
+    "hashtags": [
+        {
+            "text": "WomensVote100"
+        }
+    ],
+    "id": 1130969912057434116,
+    "id_str": "1130969912057434116",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/xzefgyQlLn",
+            "expanded_url": "https://twitter.com/repcleaver/status/1130969912057434116/video/1",
+            "id": 1130969336422838272,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1130969336422838272/img/3oymbb2IKGlIYzEN.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1130969336422838272/img/3oymbb2IKGlIYzEN.jpg",
+            "sizes": {
+                "small": {
+                    "w": 480,
+                    "h": 640,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 480,
+                    "h": 640,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 480,
+                    "h": 640,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/xzefgyQlLn",
+            "video_info": {
+                "aspect_ratio": [
+                    3,
+                    4
+                ],
+                "duration_millis": 150655,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1130969336422838272/vid/480x640/UgawCNqlwwJvQbxY.mp4?tag=12"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1130969336422838272/vid/320x426/_y0pmv3zeWUbzr1N.mp4?tag=12"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1130969336422838272/vid/360x480/iz8Exy1v3Gb3v4Ki.mp4?tag=12"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1130969336422838272/pl/XKxe9nzXO8rl8Xwh.m3u8?tag=12"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 7,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "#WomensVote100 https://t.co/xzefgyQlLn",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 06 19:14:47 +0000 2010",
+        "description": "This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri's Fifth District.",
+        "favourites_count": 474,
+        "followers_count": 41954,
+        "friends_count": 1021,
+        "geo_enabled": true,
+        "id": 163570705,
+        "id_str": "163570705",
+        "listed_count": 1143,
+        "name": "Rep. Emanuel Cleaver",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163570705/1553799524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repcleaver",
+        "statuses_count": 6606,
+        "url": "https://t.co/dOfaqxI1gQ",
+        "verified": true
+    },
+    "user_mentions": []
+}

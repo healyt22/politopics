@@ -1,0 +1,104 @@
+{
+    "created_at": "Mon Sep 18 00:17:05 +0000 2017",
+    "favorite_count": 491,
+    "hashtags": [
+        {
+            "text": "ConstitutionDay"
+        }
+    ],
+    "id": 909571945452023809,
+    "id_str": "909571945452023809",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ElVrmuv9EL",
+            "expanded_url": "https://twitter.com/SenSasse/status/909571945452023809/video/1",
+            "id": 908074592559927297,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/908074592559927297/img/gEdknCDzFT80IXHJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/908074592559927297/img/gEdknCDzFT80IXHJ.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/ElVrmuv9EL",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 135594,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/908074592559927297/vid/1280x720/M7xc-8hGDJQManjg.mp4"
+                    },
+                    {
+                        "bitrate": 320000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/908074592559927297/vid/320x180/g4xYcWqupyzpm-L0.mp4"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/908074592559927297/vid/640x360/DbkXXBswFef0rrZx.mp4"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/908074592559927297/pl/JryiQe5PMSa9Rwpb.m3u8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 157,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "In our constitutional system, the government is limited &amp; the people's rights are limitless. Happy #ConstitutionDay! https://t.co/ElVrmuv9EL",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 05 22:39:56 +0000 2015",
+        "default_profile": true,
+        "description": "The press office account of U.S. Sen. Sasse. His (less political/hopefully more interesting) personal account is @ BenSasse.",
+        "favourites_count": 1,
+        "followers_count": 144013,
+        "friends_count": 1,
+        "id": 2962923040,
+        "id_str": "2962923040",
+        "listed_count": 1831,
+        "name": "Senator Ben Sasse",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962923040/1445881489",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009479405968621570/-ms4YWy0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009479405968621570/-ms4YWy0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenSasse",
+        "statuses_count": 903,
+        "verified": true
+    },
+    "user_mentions": []
+}

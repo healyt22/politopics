@@ -1,0 +1,147 @@
+{
+    "created_at": "Wed Mar 14 19:49:20 +0000 2018",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 974009603351568385,
+    "id_str": "974009603351568385",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Mar 14 12:28:31 +0000 2018",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "Michigan"
+            }
+        ],
+        "id": 973898670818103296,
+        "id_str": "973898670818103296",
+        "lang": "en",
+        "place": {
+            "id": "06ab95cfe367eee7",
+            "url": "https://api.twitter.com/1.1/geo/id/06ab95cfe367eee7.json",
+            "place_type": "city",
+            "name": "Jackson",
+            "full_name": "Jackson, MI",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.493659,
+                            42.176663
+                        ],
+                        [
+                            -84.3641922,
+                            42.176663
+                        ],
+                        [
+                            -84.3641922,
+                            42.276421
+                        ],
+                        [
+                            -84.493659,
+                            42.276421
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status_id": 973891754414964736,
+        "quoted_status_id_str": "973891754414964736",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Congrats to #Michigan\u2019s own Lake State Railway!! @RailwayAge Short Line of the year...what a story. @MI_FreightRail\u2026 https://t.co/jY3eaaSmI4",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/973898670818103296",
+                "url": "https://t.co/jY3eaaSmI4"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 02 03:18:14 +0000 2009",
+            "description": "Advocate for North America's Railroad @CNRailway across the US, and a bold US globally. 17 year @USArmy NCO, living #SecondService. Opinions are mine.",
+            "favourites_count": 7160,
+            "followers_count": 784,
+            "friends_count": 1879,
+            "geo_enabled": true,
+            "id": 22444364,
+            "id_str": "22444364",
+            "listed_count": 41,
+            "location": "Backbone of the economy/Army",
+            "name": "Larry Lloyd",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22444364/1556669283",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1103786134193225728/qw-nnOWJ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103786134193225728/qw-nnOWJ_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LarryIsaacLloyd",
+            "statuses_count": 4796,
+            "url": "https://t.co/fHYYdHISsN"
+        },
+        "user_mentions": [
+            {
+                "id": 253266249,
+                "id_str": "253266249",
+                "name": "Railway Age",
+                "screen_name": "RailwayAge"
+            },
+            {
+                "id": 1246686216,
+                "id_str": "1246686216",
+                "name": "Michigan Railroads Association",
+                "screen_name": "MI_FreightRail"
+            }
+        ]
+    },
+    "quoted_status_id": 973898670818103296,
+    "quoted_status_id_str": "973898670818103296",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Congratulations to Lake State Railway on being honored by its peers as the Short Line Railroad of the Year. Lake St\u2026 https://t.co/i12XIcBIk6",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/974009603351568385",
+            "url": "https://t.co/i12XIcBIk6"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 31 21:09:14 +0000 2014",
+        "default_profile": true,
+        "description": "Representing Michigan's Fourth Congressional District. This is the Twitter page of the official House office.",
+        "favourites_count": 470,
+        "followers_count": 11015,
+        "friends_count": 339,
+        "id": 2696643955,
+        "id_str": "2696643955",
+        "listed_count": 417,
+        "name": "Rep. John Moolenaar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696643955/1420046825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoolenaar",
+        "statuses_count": 854,
+        "url": "http://t.co/cwXZtKCJhJ",
+        "verified": true
+    },
+    "user_mentions": []
+}

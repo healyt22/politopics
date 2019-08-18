@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Jun 01 03:43:37 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1134666786719166464,
+    "id_str": "1134666786719166464",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/xGgY39nLZd",
+            "expanded_url": "https://twitter.com/gracenapolitano/status/1134666786719166464/video/1",
+            "id": 1134666590576828416,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134666590576828416/pu/img/ES2WFHM5OFZ4u6nO.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134666590576828416/pu/img/ES2WFHM5OFZ4u6nO.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/xGgY39nLZd",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 11132,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1134666590576828416/pu/vid/720x1280/CP6c8tY86GfH_N1W.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1134666590576828416/pu/vid/360x640/3_GavmwvGQYF-k4m.mp4?tag=9"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1134666590576828416/pu/pl/5KDY9u49cY-_SIXy.m3u8?tag=9"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1134666590576828416/pu/vid/320x568/CpKlL59cLWrbOUf0.mp4?tag=9"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "https://t.co/xGgY39nLZd",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 30 19:48:06 +0000 2010",
+        "description": "Congresswoman from California's 32nd Congressional District in the US House of Representatives",
+        "favourites_count": 211,
+        "followers_count": 35299,
+        "friends_count": 566,
+        "geo_enabled": true,
+        "id": 161411080,
+        "id_str": "161411080",
+        "location": "El Monte, CA",
+        "name": "Rep.Grace Napolitano",
+        "profile_background_color": "004780",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978299365545652231/kTKikH7M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978299365545652231/kTKikH7M_normal.jpg",
+        "profile_link_color": "304896",
+        "profile_sidebar_border_color": "D91612",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "645D5B",
+        "screen_name": "gracenapolitano",
+        "statuses_count": 2756,
+        "url": "https://t.co/7k3n9mOHmy",
+        "verified": true
+    },
+    "user_mentions": []
+}

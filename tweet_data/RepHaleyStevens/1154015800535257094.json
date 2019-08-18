@@ -1,0 +1,129 @@
+{
+    "created_at": "Wed Jul 24 13:09:42 +0000 2019",
+    "hashtags": [
+        {
+            "text": "POLITICOTech"
+        }
+    ],
+    "id": 1154015800535257094,
+    "id_str": "1154015800535257094",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jul 24 13:07:47 +0000 2019",
+        "hashtags": [
+            {
+                "text": "POLITICOTech"
+            }
+        ],
+        "id": 1154015320450973696,
+        "id_str": "1154015320450973696",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "WATCH LIVE: #POLITICOTech event on public data in AI sponsored by @IntelPolicy featuring @AdamsSusie of\u2026 https://t.co/aXsHHJTcEA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154015320450973696",
+                "url": "https://t.co/aXsHHJTcEA"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 31 21:08:27 +0000 2012",
+            "description": "@POLITICOLive is a live extension of our journalism. We convene timely conversations with newsmakers on important national themes, policy & politics.",
+            "favourites_count": 1145,
+            "followers_count": 11806,
+            "friends_count": 3234,
+            "geo_enabled": true,
+            "id": 479856992,
+            "id_str": "479856992",
+            "listed_count": 244,
+            "location": "Washington, D.C.",
+            "name": "POLITICO Live",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/479856992/1528396295",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/839837229216325632/W6eWGBc8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/839837229216325632/W6eWGBc8_normal.jpg",
+            "profile_link_color": "EB1539",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "POLITICOLive",
+            "statuses_count": 8887,
+            "url": "https://t.co/rekz0RDVX4",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 89518080,
+                "id_str": "89518080",
+                "name": "Intel Policy",
+                "screen_name": "IntelPolicy"
+            },
+            {
+                "id": 19054064,
+                "id_str": "19054064",
+                "name": "Susie Adams",
+                "screen_name": "AdamsSusie"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @POLITICOLive: WATCH LIVE: #POLITICOTech event on public data in AI sponsored by @IntelPolicy featuring @AdamsSusie of @Microsoft_Gov, @\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 21 17:04:56 +0000 2018",
+        "default_profile": true,
+        "description": "Congresswoman for Michigan's 11th District.",
+        "favourites_count": 167,
+        "followers_count": 15212,
+        "friends_count": 280,
+        "id": 1076161611033968640,
+        "id_str": "1076161611033968640",
+        "listed_count": 238,
+        "name": "Rep. Haley Stevens",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076161611033968640/1555344748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080877539986497536/65XghImd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080877539986497536/65XghImd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHaleyStevens",
+        "statuses_count": 944,
+        "url": "https://t.co/PwGtudX2Y8",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 479856992,
+            "id_str": "479856992",
+            "name": "POLITICO Live",
+            "screen_name": "POLITICOLive"
+        },
+        {
+            "id": 89518080,
+            "id_str": "89518080",
+            "name": "Intel Policy",
+            "screen_name": "IntelPolicy"
+        },
+        {
+            "id": 19054064,
+            "id_str": "19054064",
+            "name": "Susie Adams",
+            "screen_name": "AdamsSusie"
+        },
+        {
+            "id": 17789291,
+            "id_str": "17789291",
+            "name": "Microsoft Government",
+            "screen_name": "Microsoft_Gov"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "created_at": "Mon Apr 15 19:15:30 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "ArmstrongCounty"
+        },
+        {
+            "text": "School"
+        }
+    ],
+    "id": 1117869073239384064,
+    "id_str": "1117869073239384064",
+    "lang": "en",
+    "place": {
+        "id": "07d9ed635d080000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ed635d080000.json",
+        "place_type": "poi",
+        "name": "West Shamokin High School",
+        "full_name": "West Shamokin High School",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -79.27016339581124,
+                        40.79454799343059
+                    ],
+                    [
+                        -79.27016339581124,
+                        40.79454799343059
+                    ],
+                    [
+                        -79.27016339581124,
+                        40.79454799343059
+                    ],
+                    [
+                        -79.27016339581124,
+                        40.79454799343059
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "In #ArmstrongCounty for visit to West Shamokin High #School to speak to senior class &amp; present\u2026 https://t.co/OwXbMjzHXi",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1117869073239384064",
+            "url": "https://t.co/OwXbMjzHXi"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 14 04:54:58 +0000 2009",
+        "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania's 15th Congressional District. #PA15",
+        "favourites_count": 368,
+        "followers_count": 20504,
+        "friends_count": 2970,
+        "geo_enabled": true,
+        "id": 18967498,
+        "id_str": "18967498",
+        "listed_count": 1175,
+        "location": "Howard, Pennsylvania",
+        "name": "Glenn 'GT' Thompson",
+        "profile_background_color": "383B78",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18967498/1546544253",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+        "profile_link_color": "0E17B5",
+        "profile_sidebar_border_color": "F7EFF7",
+        "profile_sidebar_fill_color": "FCFF57",
+        "profile_text_color": "0A090A",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanGT",
+        "statuses_count": 7403,
+        "url": "http://t.co/DvqrekKjtb",
+        "verified": true
+    },
+    "user_mentions": []
+}

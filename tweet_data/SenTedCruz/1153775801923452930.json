@@ -1,0 +1,146 @@
+{
+    "created_at": "Tue Jul 23 21:16:01 +0000 2019",
+    "hashtags": [],
+    "id": 1153775801923452930,
+    "id_str": "1153775801923452930",
+    "lang": "en",
+    "retweet_count": 32,
+    "retweeted_status": {
+        "created_at": "Tue Jul 23 21:11:15 +0000 2019",
+        "favorite_count": 141,
+        "hashtags": [],
+        "id": 1153774602427994112,
+        "id_str": "1153774602427994112",
+        "in_reply_to_screen_name": "senrobportman",
+        "in_reply_to_status_id": 1153774601111048193,
+        "in_reply_to_user_id": 18915145,
+        "lang": "en",
+        "retweet_count": 32,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Thank you to @SenSherrodBrown, @JohnCornyn, @SenTomCotton, &amp; @SenTedCruz for their support &amp; leadership on this imp\u2026 https://t.co/TQa5pX5ePE",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1153774602427994112",
+                "url": "https://t.co/TQa5pX5ePE"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 12 20:56:42 +0000 2009",
+            "description": "United States Senator from the Buckeye State.",
+            "favourites_count": 411,
+            "followers_count": 139333,
+            "friends_count": 5001,
+            "geo_enabled": true,
+            "id": 18915145,
+            "id_str": "18915145",
+            "listed_count": 3113,
+            "location": "Ohio",
+            "name": "Rob Portman",
+            "profile_background_color": "0074DB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18915145/1452004224",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1037435418743107590/9hbhXXal_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037435418743107590/9hbhXXal_normal.jpg",
+            "profile_link_color": "106CB7",
+            "profile_sidebar_border_color": "26C905",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "screen_name": "senrobportman",
+            "statuses_count": 15927,
+            "url": "https://t.co/IR7Ky4qOaO",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 43910797,
+                "id_str": "43910797",
+                "name": "Sherrod Brown",
+                "screen_name": "SenSherrodBrown"
+            },
+            {
+                "id": 13218102,
+                "id_str": "13218102",
+                "name": "Senator John Cornyn",
+                "screen_name": "JohnCornyn"
+            },
+            {
+                "id": 968650362,
+                "id_str": "968650362",
+                "name": "Tom Cotton",
+                "screen_name": "SenTomCotton"
+            },
+            {
+                "id": 1074480192,
+                "id_str": "1074480192",
+                "name": "Senator Ted Cruz",
+                "screen_name": "SenTedCruz"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @senrobportman: Thank you to @SenSherrodBrown, @JohnCornyn, @SenTomCotton, &amp; @SenTedCruz for their support &amp; leadership on this importan\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 09 18:11:37 +0000 2013",
+        "description": "Representing the State of Texas in the United States Senate.",
+        "favourites_count": 406,
+        "followers_count": 1276203,
+        "friends_count": 6968,
+        "geo_enabled": true,
+        "id": 1074480192,
+        "id_str": "1074480192",
+        "listed_count": 8507,
+        "location": "Houston, Texas",
+        "name": "Senator Ted Cruz",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074480192/1515618797",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenTedCruz",
+        "statuses_count": 10974,
+        "url": "https://t.co/9HWCyvsTvJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18915145,
+            "id_str": "18915145",
+            "name": "Rob Portman",
+            "screen_name": "senrobportman"
+        },
+        {
+            "id": 43910797,
+            "id_str": "43910797",
+            "name": "Sherrod Brown",
+            "screen_name": "SenSherrodBrown"
+        },
+        {
+            "id": 13218102,
+            "id_str": "13218102",
+            "name": "Senator John Cornyn",
+            "screen_name": "JohnCornyn"
+        },
+        {
+            "id": 968650362,
+            "id_str": "968650362",
+            "name": "Tom Cotton",
+            "screen_name": "SenTomCotton"
+        },
+        {
+            "id": 1074480192,
+            "id_str": "1074480192",
+            "name": "Senator Ted Cruz",
+            "screen_name": "SenTedCruz"
+        }
+    ]
+}

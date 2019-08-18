@@ -1,0 +1,151 @@
+{
+    "created_at": "Sun Jun 23 05:46:17 +0000 2019",
+    "hashtags": [],
+    "id": 1142670188111785984,
+    "id_str": "1142670188111785984",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sat Jun 22 19:00:43 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1142507728809496576,
+        "id_str": "1142507728809496576",
+        "lang": "en",
+        "place": {
+            "id": "1f95928f528e648b",
+            "url": "https://api.twitter.com/1.1/geo/id/1f95928f528e648b.json",
+            "place_type": "neighborhood",
+            "name": "UNLV",
+            "full_name": "UNLV, Paradise",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -115.150469,
+                            36.1009454
+                        ],
+                        [
+                            -115.136811,
+                            36.1009454
+                        ],
+                        [
+                            -115.136811,
+                            36.114771
+                        ],
+                        [
+                            -115.150469,
+                            36.114771
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "What a treat to have @repdinatitus join the @unlv public policy doctoral cohort this morning as a guest lecturer! \ud83e\udd13\u2026 https://t.co/yr5zbYtjOa",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1142507728809496576",
+                "url": "https://t.co/yr5zbYtjOa"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 23 00:47:53 +0000 2018",
+            "default_profile": true,
+            "description": "Chief of Staff, @NevadaState \ud83e\udd82, Mommy \ud83d\udc3b, Wife, Doctoral Student: Workforce \ud83d\udd04 Technology Disruption \ud83e\udd16 & Lover of All Things   @HamiltonMusical \ud83c\udfb6",
+            "favourites_count": 1830,
+            "followers_count": 282,
+            "friends_count": 669,
+            "geo_enabled": true,
+            "id": 966836977302585344,
+            "id_str": "966836977302585344",
+            "listed_count": 3,
+            "location": "Henderson, NV",
+            "name": "Amber Lopez Lasater",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/966836977302585344/1552717632",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/966838606785429504/cl1kqdkT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/966838606785429504/cl1kqdkT_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LopezLasater",
+            "statuses_count": 453
+        },
+        "user_mentions": [
+            {
+                "id": 122174004,
+                "id_str": "122174004",
+                "name": "Dina Titus",
+                "screen_name": "repdinatitus"
+            },
+            {
+                "id": 40268530,
+                "id_str": "40268530",
+                "name": "UNLV",
+                "screen_name": "unlv"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LopezLasater: What a treat to have @repdinatitus join the @unlv public policy doctoral cohort this morning as a guest lecturer! \ud83e\udd13\nOur s\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+        "default_profile": true,
+        "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.",
+        "favourites_count": 5817,
+        "followers_count": 33074,
+        "friends_count": 1846,
+        "geo_enabled": true,
+        "id": 122174004,
+        "id_str": "122174004",
+        "listed_count": 930,
+        "location": "Las Vegas, NV",
+        "name": "Dina Titus",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repdinatitus",
+        "statuses_count": 11456,
+        "url": "https://t.co/2roqLuazqO",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 966836977302585344,
+            "id_str": "966836977302585344",
+            "name": "Amber Lopez Lasater",
+            "screen_name": "LopezLasater"
+        },
+        {
+            "id": 122174004,
+            "id_str": "122174004",
+            "name": "Dina Titus",
+            "screen_name": "repdinatitus"
+        },
+        {
+            "id": 40268530,
+            "id_str": "40268530",
+            "name": "UNLV",
+            "screen_name": "unlv"
+        }
+    ]
+}

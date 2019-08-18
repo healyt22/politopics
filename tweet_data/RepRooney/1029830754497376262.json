@@ -1,0 +1,103 @@
+{
+    "created_at": "Wed Aug 15 20:42:39 +0000 2018",
+    "hashtags": [],
+    "id": 1029830754497376262,
+    "id_str": "1029830754497376262",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed Aug 15 18:12:34 +0000 2018",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1029792983615516672,
+        "id_str": "1029792983615516672",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Today, Director @cissy_proctor toured the Herbert Hoover Dike to learn more about how federal funding will help the\u2026 https://t.co/HEFzmSGzW6",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1029792983615516672",
+                "url": "https://t.co/HEFzmSGzW6"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 25 13:54:30 +0000 2011",
+            "description": "Official account of the Florida Department of Economic Opportunity",
+            "favourites_count": 1806,
+            "followers_count": 8297,
+            "friends_count": 1045,
+            "geo_enabled": true,
+            "id": 305009858,
+            "id_str": "305009858",
+            "listed_count": 183,
+            "location": "Tallahassee, FL",
+            "name": "Florida DEO",
+            "profile_background_color": "E0E1E2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/305009858/1563284252",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2184859566/DEO_Globe_RGB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2184859566/DEO_Globe_RGB_normal.png",
+            "profile_link_color": "006993",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FLDEO",
+            "statuses_count": 7128,
+            "url": "http://t.co/Xr8MNp3tGg"
+        },
+        "user_mentions": [
+            {
+                "id": 123592216,
+                "id_str": "123592216",
+                "name": "Cissy Proctor",
+                "screen_name": "cissy_proctor"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @FLDEO: Today, Director @cissy_proctor toured the Herbert Hoover Dike to learn more about how federal funding will help the Army Corps o\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 03 02:39:21 +0000 2017",
+        "default_profile": true,
+        "description": "Honored to serve the citizens of Florida's 19th Congressional District. Official Government account.",
+        "favourites_count": 276,
+        "followers_count": 7021,
+        "friends_count": 452,
+        "id": 816111677917851649,
+        "id_str": "816111677917851649",
+        "listed_count": 333,
+        "location": "SWFL",
+        "name": "Francis Rooney",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816111677917851649/1495747447",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865221777693134851/treodBIl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865221777693134851/treodBIl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRooney",
+        "statuses_count": 917,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 305009858,
+            "id_str": "305009858",
+            "name": "Florida DEO",
+            "screen_name": "FLDEO"
+        },
+        {
+            "id": 123592216,
+            "id_str": "123592216",
+            "name": "Cissy Proctor",
+            "screen_name": "cissy_proctor"
+        }
+    ]
+}

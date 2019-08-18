@@ -1,0 +1,119 @@
+{
+    "created_at": "Thu Aug 15 19:07:01 +0000 2019",
+    "favorite_count": 19,
+    "hashtags": [],
+    "id": 1162078255735877634,
+    "id_str": "1162078255735877634",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Aug 15 19:01:09 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1162076779198029824,
+        "id_str": "1162076779198029824",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Thanks to @RepAnnaEshoo @RepMcNerney @RepBillFoster for visiting the lab to learn more about the amazing science we\u2026 https://t.co/BhvrqzBmej",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162076779198029824",
+                "url": "https://t.co/BhvrqzBmej"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 17 19:13:46 +0000 2009",
+            "description": "The official Twitter account of the SLAC National Accelerator Laboratory, operated by Stanford University for the U.S. Department of Energy.",
+            "favourites_count": 1669,
+            "followers_count": 20718,
+            "friends_count": 955,
+            "geo_enabled": true,
+            "id": 90696553,
+            "id_str": "90696553",
+            "listed_count": 655,
+            "location": "Menlo Park, CA",
+            "name": "SLAC",
+            "profile_background_color": "910000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/90696553/1553702430",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/473542624347832320/pR4k80I-_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/473542624347832320/pR4k80I-_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "SLAClab",
+            "statuses_count": 10785,
+            "url": "http://t.co/0IpXbFTWPN",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 249348006,
+                "id_str": "249348006",
+                "name": "Rep. Anna G. Eshoo",
+                "screen_name": "RepAnnaEshoo"
+            },
+            {
+                "id": 385429543,
+                "id_str": "385429543",
+                "name": "Jerry McNerney",
+                "screen_name": "RepMcNerney"
+            },
+            {
+                "id": 1080509366,
+                "id_str": "1080509366",
+                "name": "Bill Foster",
+                "screen_name": "RepBillFoster"
+            }
+        ]
+    },
+    "quoted_status_id": 1162076779198029824,
+    "quoted_status_id_str": "1162076779198029824",
+    "retweet_count": 3,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "I had a great time learning more about the scientific innovation that is happening at @SLAClab. Thank you! https://t.co/DF1wQw66U0",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/SLAClab/status/1162076779198029824",
+            "url": "https://t.co/DF1wQw66U0"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 11 18:17:11 +0000 2013",
+        "description": "Congressman Bill Foster is a scientist and businessman representing the 11th Congressional District of Illinois",
+        "favourites_count": 344,
+        "followers_count": 41251,
+        "friends_count": 1778,
+        "id": 1080509366,
+        "id_str": "1080509366",
+        "listed_count": 825,
+        "location": "Naperville, IL",
+        "name": "Bill Foster",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080509366/1371843668",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654326440079429632/YqEhH_t7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654326440079429632/YqEhH_t7_normal.jpg",
+        "profile_link_color": "116685",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBillFoster",
+        "statuses_count": 3287,
+        "url": "https://t.co/MUUnxZciRU",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 90696553,
+            "id_str": "90696553",
+            "name": "SLAC",
+            "screen_name": "SLAClab"
+        }
+    ]
+}

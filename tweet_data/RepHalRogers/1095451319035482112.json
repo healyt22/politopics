@@ -1,0 +1,148 @@
+{
+    "created_at": "Tue Feb 12 22:35:21 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1095451319035482112,
+    "id_str": "1095451319035482112",
+    "lang": "en",
+    "place": {
+        "id": "6ffcf3b0b904bbcb",
+        "url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json",
+        "place_type": "admin",
+        "name": "Kentucky",
+        "full_name": "Kentucky, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -89.57151,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        39.147359
+                    ],
+                    [
+                        -89.57151,
+                        39.147359
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Tue Feb 12 22:19:42 +0000 2019",
+        "favorite_count": 36,
+        "hashtags": [
+            {
+                "text": "CampNelson"
+            }
+        ],
+        "id": 1095447378960764928,
+        "id_str": "1095447378960764928",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": ".@SenateMajLdr McConnell provision designating #CampNelson and Mill Springs Battlefield @msba1862 as National Monum\u2026 https://t.co/M1YAq0yJLO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1095447378960764928",
+                "url": "https://t.co/M1YAq0yJLO"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 21 18:25:30 +0000 2011",
+            "description": "The #Kentucky press office for U.S. Senate Majority Leader Mitch McConnell @senatemajldr. For more information please visit his website:",
+            "favourites_count": 14,
+            "followers_count": 87913,
+            "friends_count": 351,
+            "geo_enabled": true,
+            "id": 339822881,
+            "id_str": "339822881",
+            "listed_count": 2200,
+            "name": "Senator McConnell Press",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/339822881/1445984145",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1101167266757001217/oGvCjceB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101167266757001217/oGvCjceB_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "McConnellPress",
+            "statuses_count": 12044,
+            "url": "https://t.co/z3LTl4HcqS",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1249982359,
+                "id_str": "1249982359",
+                "name": "Leader McConnell",
+                "screen_name": "senatemajldr"
+            },
+            {
+                "id": 972795150,
+                "id_str": "972795150",
+                "name": "Mill Springs Battlefield Association",
+                "screen_name": "msba1862"
+            }
+        ]
+    },
+    "quoted_status_id": 1095447378960764928,
+    "quoted_status_id_str": "1095447378960764928",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Mill Springs Battlefield is another step closer to receiving due recognition for its historical value. Sen. McConne\u2026 https://t.co/oUHPT1Xahl",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1095451319035482112",
+            "url": "https://t.co/oUHPT1Xahl"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Apr 10 19:59:22 +0000 2012",
+        "default_profile": true,
+        "description": "Representing the people of Southern and Eastern Kentucky and serving as Chairman of the U.S. House Appropriations Subcommittee on State and Foreign Operations",
+        "favourites_count": 1085,
+        "followers_count": 16643,
+        "friends_count": 741,
+        "geo_enabled": true,
+        "id": 550401754,
+        "id_str": "550401754",
+        "listed_count": 713,
+        "location": "Somerset, KY",
+        "name": "Hal Rogers",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550401754/1478819972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHalRogers",
+        "statuses_count": 3758,
+        "url": "https://t.co/MNkQuDdocD",
+        "verified": true
+    },
+    "user_mentions": []
+}

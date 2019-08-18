@@ -1,0 +1,105 @@
+{
+    "created_at": "Mon Jun 03 14:02:04 +0000 2019",
+    "hashtags": [],
+    "id": 1135547198513537025,
+    "id_str": "1135547198513537025",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sat Jun 01 22:37:08 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1134952043771236353,
+        "id_str": "1134952043771236353",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Today, I was fortunate to attend the Korean American Grassroots Conference along with @RepSchneider to discuss the\u2026 https://t.co/BJLQDlkvsb",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1134952043771236353",
+                "url": "https://t.co/BJLQDlkvsb"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 03 15:09:56 +0000 2019",
+            "default_profile": true,
+            "description": "Commissioner proudly representing the 14th district of Cook County.",
+            "favourites_count": 117,
+            "followers_count": 107,
+            "friends_count": 174,
+            "geo_enabled": true,
+            "id": 1080843709493768192,
+            "id_str": "1080843709493768192",
+            "listed_count": 4,
+            "location": "Glenview, IL",
+            "name": "Commissioner Scott Britton",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080843709493768192/1546530539",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080847180393533440/qj4hUBsQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080847180393533440/qj4hUBsQ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CmsrBritton",
+            "statuses_count": 383,
+            "url": "https://t.co/1ZQSHtJnF0"
+        },
+        "user_mentions": [
+            {
+                "id": 1071840474,
+                "id_str": "1071840474",
+                "name": "Rep. Brad Schneider",
+                "screen_name": "RepSchneider"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CmsrBritton: Today, I was fortunate to attend the Korean American Grassroots Conference along with @RepSchneider to discuss the importa\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 19:59:14 +0000 2013",
+        "description": "Proud to represent the people of Illinois's 10th Congressional District",
+        "favourites_count": 506,
+        "followers_count": 10125,
+        "friends_count": 1057,
+        "geo_enabled": true,
+        "id": 1071840474,
+        "id_str": "1071840474",
+        "listed_count": 619,
+        "location": "Illinois",
+        "name": "Rep. Brad Schneider",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071840474/1501254950",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3083482784/f26ee35aa027b535f85aa43da1188d02_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3083482784/f26ee35aa027b535f85aa43da1188d02_normal.jpeg",
+        "profile_link_color": "137D13",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSchneider",
+        "statuses_count": 3786,
+        "url": "http://t.co/sVfHx7ZP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1080843709493768192,
+            "id_str": "1080843709493768192",
+            "name": "Commissioner Scott Britton",
+            "screen_name": "CmsrBritton"
+        },
+        {
+            "id": 1071840474,
+            "id_str": "1071840474",
+            "name": "Rep. Brad Schneider",
+            "screen_name": "RepSchneider"
+        }
+    ]
+}

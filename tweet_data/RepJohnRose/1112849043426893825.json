@@ -1,0 +1,105 @@
+{
+    "created_at": "Mon Apr 01 22:47:42 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [
+        {
+            "text": "TN6"
+        }
+    ],
+    "id": 1112849043426893825,
+    "id_str": "1112849043426893825",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/RXYBJRcvIy",
+            "expanded_url": "https://twitter.com/RepJohnRose/status/1112849043426893825/video/1",
+            "id": 1112848857895976960,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112848857895976960/pu/img/dYDBjGZTKsFyL7HG.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112848857895976960/pu/img/dYDBjGZTKsFyL7HG.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/RXYBJRcvIy",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 33428,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1112848857895976960/pu/vid/360x640/zuFBcL9yHTgQiCKF.mp4?tag=8"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1112848857895976960/pu/pl/HvW8pySxrO_BfCQ_.m3u8?tag=8"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1112848857895976960/pu/vid/720x1280/UrCEBYKk8vzu_vfR.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1112848857895976960/pu/vid/320x568/74MdQyFT9Zm3tMEB.mp4?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great meeting today at the Pentagon discussing Arnold Engineering Development Complex and its importance in #TN6. https://t.co/RXYBJRcvIy",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 04 22:11:59 +0000 2019",
+        "default_profile": true,
+        "description": "U.S. Congressman serving Tennessee\u2019s Sixth Congressional District. Proud husband to Chelsea and father to Guy. House Financial Services Committee Member.",
+        "favourites_count": 159,
+        "followers_count": 1917,
+        "friends_count": 194,
+        "geo_enabled": true,
+        "id": 1081312310059253763,
+        "id_str": "1081312310059253763",
+        "listed_count": 86,
+        "location": "Cookeville, TN",
+        "name": "John Rose",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081312310059253763/1560441260",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081319228383350784/HYRcIXZp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081319228383350784/HYRcIXZp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJohnRose",
+        "statuses_count": 235,
+        "url": "https://t.co/nPlQVTzP1F",
+        "verified": true
+    },
+    "user_mentions": []
+}

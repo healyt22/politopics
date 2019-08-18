@@ -1,0 +1,176 @@
+{
+    "created_at": "Mon Jul 29 13:14:48 +0000 2019",
+    "favorite_count": 25,
+    "hashtags": [],
+    "id": 1155829026587590656,
+    "id_str": "1155829026587590656",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/EJZtR5V0K5",
+            "expanded_url": "https://twitter.com/RepTimBurchett/status/1155829026587590656/photo/1",
+            "id": 1155829013094555648,
+            "media_url": "http://pbs.twimg.com/media/EApUXRKXYAA9caU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EApUXRKXYAA9caU.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/EJZtR5V0K5"
+        },
+        {
+            "display_url": "pic.twitter.com/EJZtR5V0K5",
+            "expanded_url": "https://twitter.com/RepTimBurchett/status/1155829026587590656/photo/1",
+            "id": 1155829013098770434,
+            "media_url": "http://pbs.twimg.com/media/EApUXRLXsAI1RJI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EApUXRLXsAI1RJI.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/EJZtR5V0K5"
+        },
+        {
+            "display_url": "pic.twitter.com/EJZtR5V0K5",
+            "expanded_url": "https://twitter.com/RepTimBurchett/status/1155829026587590656/photo/1",
+            "id": 1155829013098745858,
+            "media_url": "http://pbs.twimg.com/media/EApUXRLXUAI-Zg6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EApUXRLXUAI-Zg6.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/EJZtR5V0K5"
+        }
+    ],
+    "place": {
+        "id": "07d9ee5146485001",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ee5146485001.json",
+        "place_type": "poi",
+        "name": "Jefferson Memorial Hospital",
+        "full_name": "Jefferson Memorial Hospital",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -83.5191498839342,
+                        36.10678242473016
+                    ],
+                    [
+                        -83.5191498839342,
+                        36.10678242473016
+                    ],
+                    [
+                        -83.5191498839342,
+                        36.10678242473016
+                    ],
+                    [
+                        -83.5191498839342,
+                        36.10678242473016
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Very impressed with @TennovaHealth Jefferson Memorial Hospital and the quality care it provides the community. https://t.co/EJZtR5V0K5",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Aug 13 04:04:35 +0000 2018",
+        "description": "Congressman representing Tennessee's 2nd District. Husband to Kelly. Father to Isabel. Serve on House Budget, Foreign Affairs, and Small Business committees.",
+        "favourites_count": 36,
+        "followers_count": 4451,
+        "friends_count": 300,
+        "geo_enabled": true,
+        "id": 1028854804087492613,
+        "id_str": "1028854804087492613",
+        "listed_count": 108,
+        "location": "East Tennessee",
+        "name": "Rep. Tim Burchett",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028854804087492613/1550172251",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1078105969543004160/vB8JwoxG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078105969543004160/vB8JwoxG_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepTimBurchett",
+        "statuses_count": 273,
+        "url": "https://t.co/bFphy5OASq",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21882759,
+            "id_str": "21882759",
+            "name": "Tennova Healthcare",
+            "screen_name": "TennovaHealth"
+        }
+    ]
+}

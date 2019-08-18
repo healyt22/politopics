@@ -1,0 +1,105 @@
+{
+    "created_at": "Tue Jul 02 19:09:52 +0000 2019",
+    "hashtags": [],
+    "id": 1146133908687396864,
+    "id_str": "1146133908687396864",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Jul 02 15:33:51 +0000 2019",
+        "hashtags": [],
+        "id": 1146079545277210624,
+        "id_str": "1146079545277210624",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "San Antonio &amp; Bexar County: Be sure to come to the historic first Congressional Town Hall with @JoaquinCastrotx and\u2026 https://t.co/KzBXDXmkaX",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146079545277210624",
+                "url": "https://t.co/KzBXDXmkaX"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 24 06:15:35 +0000 2009",
+            "description": "MSW, #data junkie, occasional #journalist @UTSA, @Harvard honors grad, @PolicyUTSA @IWMF @NASWTX @TableauPublic award winner. #INTJ #dataviz \ud83d\udc51#equity #macroSW",
+            "favourites_count": 46662,
+            "followers_count": 2801,
+            "friends_count": 5001,
+            "geo_enabled": true,
+            "id": 21734421,
+            "id_str": "21734421",
+            "listed_count": 168,
+            "name": "Lily Casura \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb \ud83d\udcda\ud83d\udc69\ud83c\udffb\u200d\ud83c\udf93",
+            "profile_background_color": "91DEFA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21734421/1506839263",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/750093565439516672/sIVHQdTu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/750093565439516672/sIVHQdTu_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "020812",
+            "profile_text_color": "2280A9",
+            "profile_use_background_image": true,
+            "screen_name": "lilygc",
+            "statuses_count": 38093,
+            "url": "https://t.co/cCJP9OBLI8"
+        },
+        "user_mentions": [
+            {
+                "id": 231510077,
+                "id_str": "231510077",
+                "name": "Joaquin Castro",
+                "screen_name": "JoaquinCastrotx"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @lilygc: San Antonio &amp; Bexar County: Be sure to come to the historic first Congressional Town Hall with @JoaquinCastrotx and @RepLloydDo\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 09 23:53:50 +0000 2010",
+        "description": "Representing communities from San Antonio to Austin. Chairman of the Health Subcommittee on the House Ways & Means Committee.",
+        "favourites_count": 276,
+        "followers_count": 34465,
+        "friends_count": 501,
+        "geo_enabled": true,
+        "id": 153944899,
+        "id_str": "153944899",
+        "listed_count": 1350,
+        "location": "Texas",
+        "name": "Lloyd Doggett",
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153944899/1541168154",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2512072298/x393d17j8ghxhd4aieu2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2512072298/x393d17j8ghxhd4aieu2_normal.jpeg",
+        "profile_link_color": "002566",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLloydDoggett",
+        "statuses_count": 7841,
+        "url": "http://t.co/ukPGmJS3hB",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21734421,
+            "id_str": "21734421",
+            "name": "Lily Casura \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb \ud83d\udcda\ud83d\udc69\ud83c\udffb\u200d\ud83c\udf93",
+            "screen_name": "lilygc"
+        },
+        {
+            "id": 231510077,
+            "id_str": "231510077",
+            "name": "Joaquin Castro",
+            "screen_name": "JoaquinCastrotx"
+        }
+    ]
+}

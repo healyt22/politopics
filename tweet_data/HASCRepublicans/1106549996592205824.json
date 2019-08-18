@@ -1,0 +1,81 @@
+{
+    "created_at": "Fri Mar 15 13:37:32 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 1106549996592205824,
+    "id_str": "1106549996592205824",
+    "in_reply_to_screen_name": "MacTXPress",
+    "in_reply_to_user_id": 377534571,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/vvtDZxUADo",
+            "expanded_url": "https://twitter.com/HASCRepublicans/status/1106549996592205824/photo/1",
+            "id": 1106549989008912384,
+            "media_url": "http://pbs.twimg.com/media/D1tBWi0WsAA0v5g.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1tBWi0WsAA0v5g.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 2048,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/vvtDZxUADo"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@MacTXPress soon on FOX America\u2019s Newsroom. https://t.co/vvtDZxUADo",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 05 21:46:45 +0000 2009",
+        "description": "The House Armed Services Committee Republicans; Twitter feed of the latest committee news and updates",
+        "favourites_count": 77,
+        "followers_count": 17830,
+        "friends_count": 866,
+        "id": 20192403,
+        "id_str": "20192403",
+        "listed_count": 876,
+        "location": "Washington, DC",
+        "name": "Armed Services",
+        "profile_background_color": "1B304D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20192403/1497622706",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590915191879118848/3xR_pzhg_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590915191879118848/3xR_pzhg_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "HASCRepublicans",
+        "statuses_count": 4892,
+        "url": "http://t.co/JbIgCpT9T7",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 377534571,
+            "id_str": "377534571",
+            "name": "Mac Thornberry Press",
+            "screen_name": "MacTXPress"
+        }
+    ]
+}

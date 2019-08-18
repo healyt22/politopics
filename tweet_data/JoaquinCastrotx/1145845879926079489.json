@@ -1,0 +1,93 @@
+{
+    "created_at": "Tue Jul 02 00:05:21 +0000 2019",
+    "favorite_count": 2665,
+    "hashtags": [],
+    "id": 1145845879926079489,
+    "id_str": "1145845879926079489",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/z0ATi67q1i",
+            "expanded_url": "https://twitter.com/JoaquinCastrotx/status/1145845879926079489/video/1",
+            "id": 1145845851530694658,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1145845851530694658/pu/img/NCRhiTLHIJNW0Mcu.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1145845851530694658/pu/img/NCRhiTLHIJNW0Mcu.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 320,
+                    "h": 568,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 320,
+                    "h": 568,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 320,
+                    "h": 568,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/z0ATi67q1i",
+            "video_info": {
+                "aspect_ratio": [
+                    40,
+                    71
+                ],
+                "duration_millis": 10533,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1145845851530694658/pu/pl/RuxzBxlCHaaAyPWk.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1145845851530694658/pu/vid/320x568/CXsm6wQTHqzZ0JG8.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1722,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The showers at Clint Border Patrol Station. https://t.co/z0ATi67q1i",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+        "description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of Intelligence and @EdLaborCmte Commitees; host of @DiploCable.",
+        "favourites_count": 5660,
+        "followers_count": 182186,
+        "friends_count": 1891,
+        "geo_enabled": true,
+        "id": 231510077,
+        "id_str": "231510077",
+        "listed_count": 2351,
+        "location": "San Antonio, Texas",
+        "name": "Joaquin Castro",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoaquinCastrotx",
+        "statuses_count": 14753,
+        "url": "http://t.co/SBuEnv1k",
+        "verified": true
+    },
+    "user_mentions": []
+}

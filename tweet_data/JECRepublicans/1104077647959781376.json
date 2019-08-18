@@ -1,0 +1,85 @@
+{
+    "created_at": "Fri Mar 08 17:53:18 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1104077647959781376,
+    "id_str": "1104077647959781376",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/KvIm0RCX3Q",
+            "expanded_url": "https://twitter.com/JECRepublicans/status/1104077647959781376/photo/1",
+            "id": 1104076812836065281,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D1J4AvnW0AEWWAk.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1J4AvnW0AEWWAk.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 400,
+                    "h": 224,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 400,
+                    "h": 224,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 400,
+                    "h": 224,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/KvIm0RCX3Q",
+            "video_info": {
+                "aspect_ratio": [
+                    25,
+                    14
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/D1J4AvnW0AEWWAk.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "America: Hey, what\u2019s up?\n\nThe US Economy: Wages and female employment! https://t.co/KvIm0RCX3Q",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 28 14:53:17 +0000 2010",
+        "description": "Official account of the U.S. Congressional Joint Economic Committee, Republicans. Home of the Social Capital Project. Chairman: @SenMikeLee",
+        "favourites_count": 551,
+        "followers_count": 6054,
+        "friends_count": 725,
+        "geo_enabled": true,
+        "id": 109280446,
+        "id_str": "109280446",
+        "listed_count": 266,
+        "name": "Joint Economic Committee",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/109280446/1552055222",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1021842721101807617/Ds84qr96_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021842721101807617/Ds84qr96_normal.jpg",
+        "profile_link_color": "68B63B",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "JECRepublicans",
+        "statuses_count": 7467,
+        "url": "https://t.co/M5uBJVZeZn",
+        "verified": true
+    },
+    "user_mentions": []
+}

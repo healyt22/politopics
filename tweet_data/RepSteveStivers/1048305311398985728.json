@@ -1,0 +1,105 @@
+{
+    "created_at": "Fri Oct 05 20:13:57 +0000 2018",
+    "favorite_count": 26,
+    "hashtags": [
+        {
+            "text": "ManufacturingDay"
+        }
+    ],
+    "id": 1048305311398985728,
+    "id_str": "1048305311398985728",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/BG0JhMZ6l6",
+            "expanded_url": "https://twitter.com/RepSteveStivers/status/1048305311398985728/video/1",
+            "id": 1048305052463583233,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1048305052463583233/pu/img/WYOhCH1pHXQWmypa.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1048305052463583233/pu/img/WYOhCH1pHXQWmypa.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/BG0JhMZ6l6",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 47614,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1048305052463583233/pu/pl/flafNHONTF2sJ--e.m3u8?tag=5"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1048305052463583233/pu/vid/320x180/VH9IzPTbEN0ingQs.mp4?tag=5"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1048305052463583233/pu/vid/640x360/P7Sbj3jUNCetQW3d.mp4?tag=5"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1048305052463583233/pu/vid/1280x720/5mIBPJsbSVgkcGp4.mp4?tag=5"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 8,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "October 5th is National #ManufacturingDay. To all those who help make the products we use everyday, thank you. https://t.co/BG0JhMZ6l6",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 03 05:57:36 +0000 2010",
+        "description": "Proud to represent the citizens of Ohio's 15th Congressional District.",
+        "favourites_count": 1306,
+        "followers_count": 34148,
+        "friends_count": 927,
+        "geo_enabled": true,
+        "id": 211420609,
+        "id_str": "211420609",
+        "listed_count": 974,
+        "name": "Steve Stivers",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211420609/1458918817",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552881728226750464/ELtq08Dw_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552881728226750464/ELtq08Dw_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSteveStivers",
+        "statuses_count": 3253,
+        "url": "http://t.co/ccc8OvsbWo",
+        "verified": true
+    },
+    "user_mentions": []
+}

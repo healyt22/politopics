@@ -1,0 +1,156 @@
+{
+    "created_at": "Thu Aug 01 23:02:07 +0000 2019",
+    "favorite_count": 27,
+    "hashtags": [
+        {
+            "text": "Worcester"
+        }
+    ],
+    "id": 1157063990096408577,
+    "id_str": "1157063990096408577",
+    "lang": "en",
+    "place": {
+        "id": "91f416eb0e327da3",
+        "url": "https://api.twitter.com/1.1/geo/id/91f416eb0e327da3.json",
+        "place_type": "city",
+        "name": "Wellesley",
+        "full_name": "Wellesley, MA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -71.329633,
+                        42.270844
+                    ],
+                    [
+                        -71.227644,
+                        42.270844
+                    ],
+                    [
+                        -71.227644,
+                        42.327952
+                    ],
+                    [
+                        -71.329633,
+                        42.327952
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Thu Aug 01 15:29:31 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1156950089249775617,
+        "id_str": "1156950089249775617",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "Tomorrow: Delta set to start flights out of Worcester Regional Airport https://t.co/xVrQkm4SCM @LisaEckelbecker\u2026 https://t.co/N2C6R2xfUJ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://buff.ly/2yckuNp",
+                "url": "https://t.co/xVrQkm4SCM"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156950089249775617",
+                "url": "https://t.co/N2C6R2xfUJ"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jul 26 13:24:34 +0000 2008",
+            "description": "Worcester County's leading provider of news and information. If you have a tip, call the City Desk at (508) 793-9245 or drop an email to newstips@telegram.com",
+            "favourites_count": 3830,
+            "followers_count": 60565,
+            "friends_count": 1385,
+            "geo_enabled": true,
+            "id": 15610400,
+            "id_str": "15610400",
+            "listed_count": 639,
+            "location": "Worcester, MA",
+            "name": "Telegram & Gazette",
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15610400/1565355407",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/578131441273290752/9ItlyD-e_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/578131441273290752/9ItlyD-e_normal.png",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "telegramdotcom",
+            "statuses_count": 94243,
+            "url": "http://t.co/SrmLpbFCSj",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 391629910,
+                "id_str": "391629910",
+                "name": "Lisa Eckelbecker",
+                "screen_name": "LisaEckelbecker"
+            }
+        ]
+    },
+    "quoted_status_id": 1156950089249775617,
+    "quoted_status_id_str": "1156950089249775617",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Excited to see @Delta\u2019s first plane to Detroit leave #Worcester tomorrow.\n\n@FlyWorcester continues to serve as a ca\u2026 https://t.co/N1c14xlDe2",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1157063990096408577",
+            "url": "https://t.co/N1c14xlDe2"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 24 19:18:36 +0000 2011",
+        "description": "Dad. Husband. #Worcester born & raised. Chairman of @RulesDemocrats & @CECCgov. Co-Chair of @TLhumanrights. Fighting to #EndHungerNow #OverturnCitizensUnited",
+        "favourites_count": 594,
+        "followers_count": 60163,
+        "friends_count": 643,
+        "geo_enabled": true,
+        "id": 242426145,
+        "id_str": "242426145",
+        "listed_count": 1597,
+        "location": "Massachusetts, USA",
+        "name": "Rep. Jim McGovern",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242426145/1558546870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131403484769792002/y6gaH257_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131403484769792002/y6gaH257_normal.jpg",
+        "profile_link_color": "336699",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMcGovern",
+        "statuses_count": 10004,
+        "url": "https://t.co/f2XcW4hsKs",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta"
+        },
+        {
+            "id": 1322882509,
+            "id_str": "1322882509",
+            "name": "Worcester Airport",
+            "screen_name": "FlyWorcester"
+        }
+    ]
+}

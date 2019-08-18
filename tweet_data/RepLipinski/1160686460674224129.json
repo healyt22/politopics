@@ -1,0 +1,79 @@
+{
+    "created_at": "Sun Aug 11 22:56:31 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "EidAlAdha"
+        }
+    ],
+    "id": 1160686460674224129,
+    "id_str": "1160686460674224129",
+    "lang": "en",
+    "place": {
+        "id": "1d9a5370a355ab0c",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+        "place_type": "city",
+        "name": "Chicago",
+        "full_name": "Chicago, IL",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Eid Mubarak to everyone celebrating #EidAlAdha!",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 13 17:03:06 +0000 2012",
+        "description": "Proudly representing the people of Illinois' 3rd Congressional District. Follow me on Facebook at https://t.co/oqe6Q8PbEE",
+        "favourites_count": 1094,
+        "followers_count": 14677,
+        "friends_count": 2525,
+        "geo_enabled": true,
+        "id": 1009269193,
+        "id_str": "1009269193",
+        "listed_count": 715,
+        "name": "Rep. Daniel Lipinski",
+        "profile_background_color": "141CB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009269193/1374164575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092568323324284930/d0_wkX3V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092568323324284930/d0_wkX3V_normal.jpg",
+        "profile_link_color": "101FC9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLipinski",
+        "statuses_count": 3244,
+        "url": "https://t.co/QEykShdHO4",
+        "verified": true
+    },
+    "user_mentions": []
+}

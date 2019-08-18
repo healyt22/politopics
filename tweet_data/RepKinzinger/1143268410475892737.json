@@ -1,0 +1,151 @@
+{
+    "created_at": "Mon Jun 24 21:23:24 +0000 2019",
+    "favorite_count": 54,
+    "hashtags": [
+        {
+            "text": "HOPE4AlzAct"
+        },
+        {
+            "text": "BOLDAlzheimersAct"
+        },
+        {
+            "text": "ENDALZ"
+        }
+    ],
+    "id": 1143268410475892737,
+    "id_str": "1143268410475892737",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 24 18:42:24 +0000 2019",
+        "favorite_count": 17,
+        "hashtags": [
+            {
+                "text": "YoungerAlzAct"
+            }
+        ],
+        "id": 1143227891494334464,
+        "id_str": "1143227891494334464",
+        "lang": "en",
+        "place": {
+            "id": "1d9a5370a355ab0c",
+            "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+            "place_type": "city",
+            "name": "Chicago",
+            "full_name": "Chicago, IL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.940033,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            42.0230669
+                        ],
+                        [
+                            -87.940033,
+                            42.0230669
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status_id": 1143209672176033792,
+        "quoted_status_id_str": "1143209672176033792",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @RepKinzinger for cosponsoring the #YoungerAlzAct. We are grateful for your dedication and support in our\u2026 https://t.co/9mfWazKjgt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143227891494334464",
+                "url": "https://t.co/9mfWazKjgt"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 09 14:35:22 +0000 2011",
+            "description": "The official page for Public Policy & Advocacy at the Alzheimer's Association Illinois Chapter, working to make #Illinois a dementia-capable state. #ENDALZ",
+            "favourites_count": 4063,
+            "followers_count": 1006,
+            "friends_count": 1207,
+            "geo_enabled": true,
+            "id": 351628462,
+            "id_str": "351628462",
+            "listed_count": 62,
+            "location": "Chicago, IL",
+            "name": "AlzIllinois Advocacy",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/351628462/1565814397",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1103677950271148032/JziTXgQE_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103677950271148032/JziTXgQE_normal.png",
+            "profile_link_color": "4A0D66",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AlzILAdvocacy",
+            "statuses_count": 3328,
+            "url": "https://t.co/OryNHG4rbJ"
+        },
+        "user_mentions": [
+            {
+                "id": 219429281,
+                "id_str": "219429281",
+                "name": "Adam Kinzinger",
+                "screen_name": "RepKinzinger"
+            }
+        ]
+    },
+    "quoted_status_id": 1143227891494334464,
+    "quoted_status_id_str": "1143227891494334464",
+    "retweet_count": 20,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I'm proud to cosponsor this legislation &amp; others like #HOPE4AlzAct &amp; #BOLDAlzheimersAct to help #ENDALZ for good.\u2026 https://t.co/FF051xOD05",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143268410475892737",
+            "url": "https://t.co/FF051xOD05"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 24 21:04:11 +0000 2010",
+        "description": "I represent Illinois' 16th District. It's an honor to serve in Congress on @HouseCommerce @HouseForeignGOP & to serve as a pilot in the Air National Guard.",
+        "favourites_count": 2941,
+        "followers_count": 53897,
+        "friends_count": 965,
+        "geo_enabled": true,
+        "id": 219429281,
+        "id_str": "219429281",
+        "listed_count": 1538,
+        "location": "Channahon, IL",
+        "name": "Adam Kinzinger",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/219429281/1504905657",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694232632503201794/JoCP5r3E_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694232632503201794/JoCP5r3E_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepKinzinger",
+        "statuses_count": 7900,
+        "url": "https://t.co/GgL4IzZXrZ",
+        "verified": true
+    },
+    "user_mentions": []
+}

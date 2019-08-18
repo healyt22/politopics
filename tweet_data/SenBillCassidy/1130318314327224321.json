@@ -1,0 +1,168 @@
+{
+    "created_at": "Mon May 20 03:44:21 +0000 2019",
+    "favorite_count": 29,
+    "hashtags": [],
+    "id": 1130318314327224321,
+    "id_str": "1130318314327224321",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon May 20 02:57:35 +0000 2019",
+        "favorite_count": 22376,
+        "hashtags": [
+            {
+                "text": "AmericanIdol"
+            },
+            {
+                "text": "IdolFinale"
+            }
+        ],
+        "id": 1130306546745786373,
+        "id_str": "1130306546745786373",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/LwtFwQMZHu",
+                "expanded_url": "https://twitter.com/AmericanIdol/status/1130306546745786373/video/1",
+                "id": 1130306257435234304,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130306257435234304/pu/img/gDtSqiHQ1kGbLq_9.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130306257435234304/pu/img/gDtSqiHQ1kGbLq_9.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/LwtFwQMZHu",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 15015,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1130306257435234304/pu/vid/480x480/7PHSa7tlScLN1lMf.mp4?tag=9"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1130306257435234304/pu/vid/320x320/8JTt_1j48IcPkuB0.mp4?tag=9"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1130306257435234304/pu/pl/zAnXq2cgqS2o6POf.m3u8?tag=9"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1130306257435234304/pu/vid/720x720/L22dZZ7F1YRJUtih.mp4?tag=9"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 5124,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Congratulations @TheLaineHardy!!! You're our American Idol!! \ud83c\udf1f #AmericanIdol #IdolFinale https://t.co/LwtFwQMZHu",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Aug 05 01:16:29 +0000 2009",
+            "description": "#AmericanIdol auditions are now OPEN! Sign up at the link below!",
+            "favourites_count": 39591,
+            "followers_count": 2038052,
+            "friends_count": 5599,
+            "geo_enabled": true,
+            "id": 62988756,
+            "id_str": "62988756",
+            "listed_count": 6294,
+            "name": "American Idol",
+            "profile_background_color": "0074CD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/62988756/1560203633",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1091080477782421504/qP2KYEiv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091080477782421504/qP2KYEiv_normal.jpg",
+            "profile_link_color": "0074CD",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F5F7F8",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AmericanIdol",
+            "statuses_count": 86964,
+            "url": "https://t.co/AoqMCcrdbs",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 971498824337444866,
+                "id_str": "971498824337444866",
+                "name": "Laine Hardy",
+                "screen_name": "TheLaineHardy"
+            }
+        ]
+    },
+    "quoted_status_id": 1130306546745786373,
+    "quoted_status_id_str": "1130306546745786373",
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Congratulations @TheLaineHardy! We're proud of you back home in Louisiana! https://t.co/zemA7UypNY",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/AmericanIdol/status/1130306546745786373",
+            "url": "https://t.co/zemA7UypNY"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 12 20:05:23 +0000 2018",
+        "default_profile": true,
+        "description": "Treated uninsured patients as a doctor in Louisiana\u2019s charity hospital system, now serving the people of my state in the US Senate. Proud LSU grad! #GeauxTigers",
+        "favourites_count": 188,
+        "followers_count": 12339,
+        "friends_count": 1091,
+        "id": 1017500185356853248,
+        "id_str": "1017500185356853248",
+        "listed_count": 284,
+        "location": "Baton Rouge, LA",
+        "name": "U.S. Senator Bill Cassidy, M.D.",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017500185356853248/1547826031",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017836622145040386/DcP_lQSc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017836622145040386/DcP_lQSc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenBillCassidy",
+        "statuses_count": 1461,
+        "url": "https://t.co/yd6jxEbab5",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 971498824337444866,
+            "id_str": "971498824337444866",
+            "name": "Laine Hardy",
+            "screen_name": "TheLaineHardy"
+        }
+    ]
+}

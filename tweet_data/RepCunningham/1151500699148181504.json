@@ -1,0 +1,101 @@
+{
+    "created_at": "Wed Jul 17 14:35:35 +0000 2019",
+    "favorite_count": 42,
+    "hashtags": [],
+    "id": 1151500699148181504,
+    "id_str": "1151500699148181504",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 17 01:56:06 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1151309569152507910,
+        "id_str": "1151309569152507910",
+        "in_reply_to_screen_name": "314action",
+        "in_reply_to_status_id": 1151309568204578817,
+        "in_reply_to_user_id": 750331049020952577,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Clean Air Episode 3: Ocean engineer @RepCunningham takes a deep dive on his signature legislation that would ban of\u2026 https://t.co/O0WZeorLxf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151309569152507910",
+                "url": "https://t.co/O0WZeorLxf"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 05 14:10:37 +0000 2016",
+            "default_profile": true,
+            "description": "Calling on scientists to run for office & giving them resources to win. #ElectScientists2020",
+            "favourites_count": 1479,
+            "followers_count": 13982,
+            "friends_count": 1025,
+            "id": 750331049020952577,
+            "id_str": "750331049020952577",
+            "listed_count": 271,
+            "name": "314action",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/750331049020952577/1565709149",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1161294456328511489/sgrXjqbw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161294456328511489/sgrXjqbw_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "314action",
+            "statuses_count": 4016,
+            "url": "https://t.co/0sxC9mv3Te",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1080198683713507335,
+                "id_str": "1080198683713507335",
+                "name": "Rep. Joe Cunningham",
+                "screen_name": "RepCunningham"
+            }
+        ]
+    },
+    "quoted_status_id": 1151309569152507910,
+    "quoted_status_id_str": "1151309569152507910",
+    "retweet_count": 33,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "This was fun! Take a listen if you have a chance - really enjoyed diving into the fight against offshore drilling w\u2026 https://t.co/mOlTP7YxVx",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151500699148181504",
+            "url": "https://t.co/mOlTP7YxVx"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 01 20:26:50 +0000 2019",
+        "default_profile": true,
+        "description": "Official Twitter account of Rep. Joe Cunningham. Proud to serve the people of South Carolina's Lowcountry.",
+        "favourites_count": 47,
+        "followers_count": 16224,
+        "friends_count": 81,
+        "geo_enabled": true,
+        "id": 1080198683713507335,
+        "id_str": "1080198683713507335",
+        "listed_count": 208,
+        "name": "Rep. Joe Cunningham",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080198683713507335/1558213908",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080643131341762560/JHIdKOkJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080643131341762560/JHIdKOkJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepCunningham",
+        "statuses_count": 588,
+        "url": "https://t.co/AcVCcsMkAz",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,132 @@
+{
+    "created_at": "Sun Mar 24 00:18:48 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "MarchMadness"
+        }
+    ],
+    "id": 1109610480526594048,
+    "id_str": "1109610480526594048",
+    "lang": "es",
+    "quoted_status": {
+        "created_at": "Sun Mar 24 00:08:26 +0000 2019",
+        "favorite_count": 2484,
+        "hashtags": [
+            {
+                "text": "MarchOn"
+            },
+            {
+                "text": "MarchMadness"
+            }
+        ],
+        "id": 1109607869207449600,
+        "id_str": "1109607869207449600",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KokXX6zjfJ",
+                "expanded_url": "https://twitter.com/FSUHoops/status/1109607869207449600/photo/1",
+                "id": 1109607865256427520,
+                "media_url": "http://pbs.twimg.com/media/D2YeeXiWwAA9iJ1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D2YeeXiWwAA9iJ1.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/KokXX6zjfJ"
+            }
+        ],
+        "retweet_count": 1068,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "We are Racin' onto the Sweet Sixteen\n#MarchOn #MarchMadness https://t.co/KokXX6zjfJ",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Feb 20 15:59:27 +0000 2009",
+            "description": "The official basketball account of Florida State Athletics || IG: fsuhoops",
+            "favourites_count": 2377,
+            "followers_count": 65940,
+            "friends_count": 419,
+            "geo_enabled": true,
+            "id": 21407694,
+            "id_str": "21407694",
+            "listed_count": 650,
+            "location": "Tallahassee, FL",
+            "name": "FSU Hoops",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21407694/1506535011",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/697944891679059968/lLWiNk5Y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/697944891679059968/lLWiNk5Y_normal.jpg",
+            "profile_link_color": "3B0703",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FSUHoops",
+            "statuses_count": 23686,
+            "url": "https://t.co/WY5ldn1piN",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1109607869207449600,
+    "quoted_status_id_str": "1109607869207449600",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Go Noles! #MarchMadness https://t.co/Rut4qOwV1X",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/FSUHoops/status/1109607869207449600",
+            "url": "https://t.co/Rut4qOwV1X"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Feb 07 14:42:24 +0000 2017",
+        "description": "Proudly serving NE FL District 4.  Former Sheriff focused on keeping communities safe & protecting your rights. @HouseAppropsGOP",
+        "favourites_count": 148,
+        "followers_count": 5359,
+        "friends_count": 473,
+        "geo_enabled": true,
+        "id": 828977216595849216,
+        "id_str": "828977216595849216",
+        "listed_count": 281,
+        "location": "Washington, DC",
+        "name": "Rep. John Rutherford",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/828977216595849216/1549634718",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999013227936628736/kPDy7RMJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/999013227936628736/kPDy7RMJ_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRutherfordFL",
+        "statuses_count": 1091,
+        "url": "https://t.co/wj7pQPamPu",
+        "verified": true
+    },
+    "user_mentions": []
+}

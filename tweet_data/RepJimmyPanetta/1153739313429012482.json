@@ -1,0 +1,136 @@
+{
+    "created_at": "Tue Jul 23 18:51:02 +0000 2019",
+    "hashtags": [],
+    "id": 1153739313429012482,
+    "id_str": "1153739313429012482",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Jul 23 18:28:22 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 1153733609607458817,
+        "id_str": "1153733609607458817",
+        "lang": "en",
+        "place": {
+            "id": "fa37e818b629e4ea",
+            "url": "https://api.twitter.com/1.1/geo/id/fa37e818b629e4ea.json",
+            "place_type": "city",
+            "name": "Salinas",
+            "full_name": "Salinas, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.6919801,
+                            36.643802
+                        ],
+                        [
+                            -121.5905572,
+                            36.643802
+                        ],
+                        [
+                            -121.5905572,
+                            36.7344965
+                        ],
+                        [
+                            -121.6919801,
+                            36.7344965
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Congratulations to all of our @AmeriCorps service teams on a successful year of volunteer service within the commun\u2026 https://t.co/praUHRDw6W",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1153733609607458817",
+                "url": "https://t.co/praUHRDw6W"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Nov 25 22:19:44 +0000 2012",
+            "description": "Assistant Superintendent | Monterey COE | Passionate about creating equitable solutions for innovation-ready learning & leadership. My views.",
+            "favourites_count": 24975,
+            "followers_count": 2613,
+            "friends_count": 2137,
+            "geo_enabled": true,
+            "id": 970900765,
+            "id_str": "970900765",
+            "listed_count": 73,
+            "location": "Monterey, California",
+            "name": "Caryn",
+            "profile_background_color": "3B3B6B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/970900765/1498875486",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/892259190000844800/wD5NaGVz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/892259190000844800/wD5NaGVz_normal.jpg",
+            "profile_link_color": "0C369E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "pk12innovation",
+            "statuses_count": 5967
+        },
+        "user_mentions": [
+            {
+                "id": 17967675,
+                "id_str": "17967675",
+                "name": "AmeriCorps",
+                "screen_name": "AmeriCorps"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @pk12innovation: Congratulations to all of our @AmeriCorps service teams on a successful year of volunteer service within the community!\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Nov 10 15:29:45 +0000 2016",
+        "default_profile": true,
+        "description": "I'm honored to serve as the Congressman for California's Central Coast (CA-20) in the U.S. House of Representatives.",
+        "favourites_count": 1061,
+        "followers_count": 8985,
+        "friends_count": 516,
+        "geo_enabled": true,
+        "id": 796736612554117120,
+        "id_str": "796736612554117120",
+        "listed_count": 463,
+        "name": "Rep. Jimmy Panetta",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/796736612554117120/1490729428",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827208718618132481/Z6uQa-l__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827208718618132481/Z6uQa-l__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJimmyPanetta",
+        "statuses_count": 2241,
+        "url": "https://t.co/9QMrnfxHRG",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 970900765,
+            "id_str": "970900765",
+            "name": "Caryn",
+            "screen_name": "pk12innovation"
+        },
+        {
+            "id": 17967675,
+            "id_str": "17967675",
+            "name": "AmeriCorps",
+            "screen_name": "AmeriCorps"
+        }
+    ]
+}

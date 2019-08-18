@@ -1,0 +1,128 @@
+{
+    "created_at": "Fri Aug 16 16:01:56 +0000 2019",
+    "hashtags": [],
+    "id": 1162394065100574726,
+    "id_str": "1162394065100574726",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Aug 15 19:01:09 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1162076779198029824,
+        "id_str": "1162076779198029824",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Thanks to @RepAnnaEshoo @RepMcNerney @RepBillFoster for visiting the lab to learn more about the amazing science we\u2026 https://t.co/BhvrqzBmej",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162076779198029824",
+                "url": "https://t.co/BhvrqzBmej"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 17 19:13:46 +0000 2009",
+            "description": "The official Twitter account of the SLAC National Accelerator Laboratory, operated by Stanford University for the U.S. Department of Energy.",
+            "favourites_count": 1669,
+            "followers_count": 20718,
+            "friends_count": 955,
+            "geo_enabled": true,
+            "id": 90696553,
+            "id_str": "90696553",
+            "listed_count": 655,
+            "location": "Menlo Park, CA",
+            "name": "SLAC",
+            "profile_background_color": "910000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/90696553/1553702430",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/473542624347832320/pR4k80I-_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/473542624347832320/pR4k80I-_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "SLAClab",
+            "statuses_count": 10785,
+            "url": "http://t.co/0IpXbFTWPN",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 249348006,
+                "id_str": "249348006",
+                "name": "Rep. Anna G. Eshoo",
+                "screen_name": "RepAnnaEshoo"
+            },
+            {
+                "id": 385429543,
+                "id_str": "385429543",
+                "name": "Jerry McNerney",
+                "screen_name": "RepMcNerney"
+            },
+            {
+                "id": 1080509366,
+                "id_str": "1080509366",
+                "name": "Bill Foster",
+                "screen_name": "RepBillFoster"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @SLAClab: Thanks to @RepAnnaEshoo @RepMcNerney @RepBillFoster for visiting the lab to learn more about the amazing science we're doing,\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Feb 08 21:36:03 +0000 2011",
+        "description": "Representing California's 18th Congressional District--the heart of Silicon Valley.",
+        "favourites_count": 109,
+        "followers_count": 43641,
+        "friends_count": 899,
+        "geo_enabled": true,
+        "id": 249348006,
+        "id_str": "249348006",
+        "listed_count": 1237,
+        "location": "Palo Alto, CA",
+        "name": "Rep. Anna G. Eshoo",
+        "profile_background_color": "6B0D0D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249348006/1437061809",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1130959654891212800/9IhvEI1X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130959654891212800/9IhvEI1X_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepAnnaEshoo",
+        "statuses_count": 2509,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 90696553,
+            "id_str": "90696553",
+            "name": "SLAC",
+            "screen_name": "SLAClab"
+        },
+        {
+            "id": 249348006,
+            "id_str": "249348006",
+            "name": "Rep. Anna G. Eshoo",
+            "screen_name": "RepAnnaEshoo"
+        },
+        {
+            "id": 385429543,
+            "id_str": "385429543",
+            "name": "Jerry McNerney",
+            "screen_name": "RepMcNerney"
+        },
+        {
+            "id": 1080509366,
+            "id_str": "1080509366",
+            "name": "Bill Foster",
+            "screen_name": "RepBillFoster"
+        }
+    ]
+}

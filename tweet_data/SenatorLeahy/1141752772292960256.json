@@ -1,0 +1,124 @@
+{
+    "created_at": "Thu Jun 20 17:00:48 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [],
+    "id": 1141752772292960256,
+    "id_str": "1141752772292960256",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jun 20 16:58:35 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1141752216509792257,
+        "id_str": "1141752216509792257",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bN2t5xY3UJ",
+                "expanded_url": "https://twitter.com/vprnet/status/1141752216509792257/photo/1",
+                "id": 1141752215054381056,
+                "media_url": "http://pbs.twimg.com/media/D9hRlx_U8AA811A.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9hRlx_U8AA811A.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/bN2t5xY3UJ"
+            }
+        ],
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "Author Stephen Kiernan Argues For Vermont To Take Advantage Of 10th Amendment Powers https://t.co/QONtwSRxhU https://t.co/bN2t5xY3UJ",
+        "urls": [
+            {
+                "expanded_url": "http://dlvr.it/R6z74V",
+                "url": "https://t.co/QONtwSRxhU"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 21 15:31:09 +0000 2009",
+            "description": "Vermont Public Radio: VPR News, VPR Classical, NPR.",
+            "favourites_count": 2484,
+            "followers_count": 53748,
+            "friends_count": 5153,
+            "geo_enabled": true,
+            "id": 21492467,
+            "id_str": "21492467",
+            "listed_count": 900,
+            "location": "Vermont",
+            "name": "Vermont Public Radio",
+            "profile_background_color": "C6E1E0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21492467/1412695358",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/950784563588091905/FIAY-zOE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/950784563588091905/FIAY-zOE_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "E4E3DF",
+            "profile_sidebar_fill_color": "E4E3DF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "vprnet",
+            "statuses_count": 53838,
+            "url": "http://t.co/2AUktQhUcS",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1141752216509792257,
+    "quoted_status_id_str": "1141752216509792257",
+    "retweet_count": 4,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Stephen's launched an ambitious and provocative project. https://t.co/HJDOIzimDF",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/vprnet/status/1141752216509792257",
+            "url": "https://t.co/HJDOIzimDF"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 25 18:20:07 +0000 2011",
+        "favourites_count": 122,
+        "followers_count": 185485,
+        "friends_count": 2587,
+        "id": 242836537,
+        "id_str": "242836537",
+        "listed_count": 2998,
+        "location": "Washington, DC",
+        "name": "Sen. Patrick Leahy",
+        "profile_background_color": "4D7830",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242836537/1358287469",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/921434597900128256/rcREOAwv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/921434597900128256/rcREOAwv_normal.jpg",
+        "profile_link_color": "9E410B",
+        "profile_sidebar_border_color": "9E410B",
+        "profile_sidebar_fill_color": "F7F8E9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorLeahy",
+        "statuses_count": 15263,
+        "url": "http://t.co/yrKgLVIocD",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,146 @@
+{
+    "created_at": "Fri Mar 15 14:51:25 +0000 2019",
+    "hashtags": [
+        {
+            "text": "RedCross"
+        }
+    ],
+    "id": 1106568591766405127,
+    "id_str": "1106568591766405127",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Mar 14 01:48:46 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "RedCross"
+            }
+        ],
+        "id": 1106009243407269888,
+        "id_str": "1106009243407269888",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @RepJoseSerrano for meeting with our #RedCross team today to talk about preparing our fellow NY\u2019ers for d\u2026 https://t.co/Cgj66YVIA2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1106009243407269888",
+                "url": "https://t.co/Cgj66YVIA2"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 02 16:41:37 +0000 2009",
+            "description": "Official twitter stream of the American Red Cross Greater NY Region; serving NYC, Long Island, Lower Hudson Valley & Greenwich, Conn.",
+            "favourites_count": 2695,
+            "followers_count": 14949,
+            "friends_count": 2335,
+            "geo_enabled": true,
+            "id": 19915329,
+            "id_str": "19915329",
+            "listed_count": 688,
+            "location": "520 W 49th St, New York, NY",
+            "name": "NY Red Cross",
+            "profile_background_color": "EBE9E5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19915329/1557503066",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1134831379458461696/9f-2uOjF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134831379458461696/9f-2uOjF_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "B0DB99",
+            "profile_sidebar_fill_color": "BABCB9",
+            "profile_text_color": "333333",
+            "screen_name": "redcrossny",
+            "statuses_count": 28336,
+            "url": "https://t.co/MxMthMAmlr"
+        },
+        "user_mentions": [
+            {
+                "id": 33563161,
+                "id_str": "33563161",
+                "name": "Jos\u00e9 E. Serrano",
+                "screen_name": "RepJoseSerrano"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @redcrossny: Thank you @RepJoseSerrano for meeting with our #RedCross team today to talk about preparing our fellow NY\u2019ers for disasters\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Apr 20 16:06:56 +0000 2009",
+        "description": "Congressman representing #TheBronx, New York. Chairman of @AppropsDems Commerce, Justice & Science Subcommittee. Dean of @HispanicCaucus",
+        "favourites_count": 567,
+        "followers_count": 29608,
+        "friends_count": 1230,
+        "id": 33563161,
+        "id_str": "33563161",
+        "listed_count": 1117,
+        "location": "Bronx NY-Wash.DC",
+        "name": "Jos\u00e9 E. Serrano",
+        "profile_background_color": "0099CC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33563161/1368570286",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3660133461/11799f104946003777b619effc437548_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3660133461/11799f104946003777b619effc437548_normal.jpeg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoseSerrano",
+        "statuses_count": 4877,
+        "url": "http://t.co/jXKviVB0sc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19915329,
+            "id_str": "19915329",
+            "name": "NY Red Cross",
+            "screen_name": "redcrossny"
+        },
+        {
+            "id": 33563161,
+            "id_str": "33563161",
+            "name": "Jos\u00e9 E. Serrano",
+            "screen_name": "RepJoseSerrano"
+        }
+    ]
+}

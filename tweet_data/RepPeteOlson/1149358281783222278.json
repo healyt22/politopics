@@ -1,0 +1,103 @@
+{
+    "created_at": "Thu Jul 11 16:42:23 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Barry"
+        }
+    ],
+    "id": 1149358281783222278,
+    "id_str": "1149358281783222278",
+    "lang": "en",
+    "retweet_count": 493,
+    "retweeted_status": {
+        "created_at": "Thu Jul 11 15:04:56 +0000 2019",
+        "favorite_count": 417,
+        "hashtags": [
+            {
+                "text": "Barry"
+            }
+        ],
+        "id": 1149333759650435072,
+        "id_str": "1149333759650435072",
+        "lang": "en",
+        "retweet_count": 493,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Update: Here are the 10 AM CDT Key Messages on Tropical Storm #Barry, expected to bring dangerous storm surge, wind\u2026 https://t.co/ylwMh5DCIc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149333759650435072",
+                "url": "https://t.co/ylwMh5DCIc"
+            }
+        ],
+        "user": {
+            "created_at": "Mon May 16 17:59:24 +0000 2011",
+            "description": "This is the primary official Twitter account for the National Hurricane Center, focusing on the Atlantic basin. For more details: https://t.co/mRyGMdRYT3",
+            "favourites_count": 4,
+            "followers_count": 557686,
+            "friends_count": 73,
+            "geo_enabled": true,
+            "id": 299798272,
+            "id_str": "299798272",
+            "listed_count": 9706,
+            "location": "Miami, FL",
+            "name": "National Hurricane Center",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/299798272/1361991526",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/892736587397816320/nTDra-V-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/892736587397816320/nTDra-V-_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NHC_Atlantic",
+            "statuses_count": 7562,
+            "url": "http://t.co/5gzYJFziuU",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NHC_Atlantic: Update: Here are the 10 AM CDT Key Messages on Tropical Storm #Barry, expected to bring dangerous storm surge, wind and r\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 04 13:40:57 +0000 2009",
+        "description": "Proudly representing TX-22 in Congress. Follow me on Facebook: http://t.co/2aP7aRlj3f and Instagram: https://t.co/hBZNAgZcuI",
+        "favourites_count": 666,
+        "followers_count": 10361,
+        "friends_count": 2161,
+        "geo_enabled": true,
+        "id": 20053279,
+        "id_str": "20053279",
+        "listed_count": 720,
+        "location": "Washington, DC / Houston, TX",
+        "name": "Rep. Pete Olson",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20053279/1472830497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553398175760150528/wOlSb2ef_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553398175760150528/wOlSb2ef_normal.jpeg",
+        "profile_link_color": "2E399D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFD729",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepPeteOlson",
+        "statuses_count": 8005,
+        "url": "http://t.co/fQR5L3fWi8",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 299798272,
+            "id_str": "299798272",
+            "name": "National Hurricane Center",
+            "screen_name": "NHC_Atlantic"
+        }
+    ]
+}

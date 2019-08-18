@@ -1,0 +1,123 @@
+{
+    "created_at": "Fri Jul 12 18:11:14 +0000 2019",
+    "favorite_count": 544,
+    "hashtags": [],
+    "id": 1149743031416832000,
+    "id_str": "1149743031416832000",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jul 12 17:55:40 +0000 2019",
+        "favorite_count": 1085,
+        "hashtags": [],
+        "id": 1149739112997564418,
+        "id_str": "1149739112997564418",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/o8wjrwWu3I",
+                "expanded_url": "https://twitter.com/NBCNews/status/1149739112997564418/photo/1",
+                "id": 1149735174202109953,
+                "media_url": "http://pbs.twimg.com/media/D_SuDKQWsAEPPd0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_SuDKQWsAEPPd0.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/o8wjrwWu3I"
+            }
+        ],
+        "retweet_count": 279,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "JUST IN: House votes 402-12 to authorize 9/11 victim compensation fund for 70 years; bill now moves to Senate. https://t.co/o8wjrwWu3I",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Mar 18 23:19:17 +0000 2008",
+            "description": "The leading source of global news and info for more than 75 years. Our new free streaming service: @NBCNewsNow",
+            "favourites_count": 768,
+            "followers_count": 6720892,
+            "friends_count": 1760,
+            "geo_enabled": true,
+            "id": 14173315,
+            "id_str": "14173315",
+            "listed_count": 41731,
+            "location": "New York, NY",
+            "name": "NBC News",
+            "profile_background_color": "062131",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1564408207",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+            "profile_link_color": "5172A0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "NBCNews",
+            "statuses_count": 219396,
+            "url": "https://t.co/Z73is4fJ3x",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1149739112997564418,
+    "quoted_status_id_str": "1149739112997564418",
+    "retweet_count": 146,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "We are one step closer to doing right by the 9/11 first responders who sacrificed their health when our country nee\u2026 https://t.co/X3Idyjuw73",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1149743031416832000",
+            "url": "https://t.co/X3Idyjuw73"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 12 14:03:33 +0000 2007",
+        "description": "Serving Virginia in the US Senate. Vice Chairman, Intel Committee. Dad, Husband, Budget Wonk. Previous: Serial entrepreneur, business guy, 69th Governor of Va",
+        "favourites_count": 1788,
+        "followers_count": 450553,
+        "friends_count": 23889,
+        "id": 7429102,
+        "id_str": "7429102",
+        "listed_count": 4920,
+        "location": "Virginia",
+        "name": "Mark Warner",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7429102/1473719645",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/944243549922582528/DyFwGriJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/944243549922582528/DyFwGriJ_normal.jpg",
+        "profile_link_color": "28486F",
+        "profile_sidebar_border_color": "28486F",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "MarkWarner",
+        "statuses_count": 9067,
+        "url": "https://t.co/sIM9jRW0rP",
+        "verified": true
+    },
+    "user_mentions": []
+}

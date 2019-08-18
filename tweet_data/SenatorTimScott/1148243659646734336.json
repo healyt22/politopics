@@ -1,0 +1,115 @@
+{
+    "created_at": "Mon Jul 08 14:53:16 +0000 2019",
+    "favorite_count": 182,
+    "hashtags": [],
+    "id": 1148243659646734336,
+    "id_str": "1148243659646734336",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/KYr4vovb3J",
+            "expanded_url": "https://twitter.com/SenatorTimScott/status/1148243659646734336/photo/1",
+            "id": 1148243654563287042,
+            "media_url": "http://pbs.twimg.com/media/D-9hhSnXUAIPwfe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-9hhSnXUAIPwfe.jpg",
+            "sizes": {
+                "large": {
+                    "w": 1363,
+                    "h": 1647,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 563,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 993,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/KYr4vovb3J"
+        }
+    ],
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 15,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "A huge congrats to the @USWNT on their big win this weekend. Time to take that \ud83c\udfc6 back to America! \ud83c\uddfa\ud83c\uddf8\u26bd\ufe0f https://t.co/KYr4vovb3J",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Nov 19 20:34:30 +0000 2010",
+        "description": "United States Senator from South Carolina",
+        "favourites_count": 1648,
+        "followers_count": 378192,
+        "friends_count": 3890,
+        "geo_enabled": true,
+        "id": 217543151,
+        "id_str": "217543151",
+        "listed_count": 3649,
+        "location": "South Carolina",
+        "name": "Tim Scott",
+        "profile_background_color": "E0DBC8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217543151/1550264874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_link_color": "606060",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EBE9DC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTimScott",
+        "statuses_count": 7971,
+        "url": "https://t.co/EoB6giYuOp",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 133448051,
+            "id_str": "133448051",
+            "name": "U.S. Soccer WNT",
+            "screen_name": "USWNT"
+        }
+    ]
+}

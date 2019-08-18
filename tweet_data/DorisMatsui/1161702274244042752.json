@@ -1,0 +1,78 @@
+{
+    "created_at": "Wed Aug 14 18:13:00 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [
+        {
+            "text": "SocSec84"
+        }
+    ],
+    "id": 1161702274244042752,
+    "id_str": "1161702274244042752",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/5W3LJis6BN",
+            "expanded_url": "https://twitter.com/DorisMatsui/status/1161702274244042752/photo/1",
+            "id": 1161657866819952645,
+            "media_url": "http://pbs.twimg.com/media/EB8JrNZXYAUos7F.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EB8JrNZXYAUos7F.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/5W3LJis6BN"
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Democrats are working to strengthen Social Security, ensuring everyone can have a dignified retirement #SocSec84 https://t.co/5W3LJis6BN",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 06 19:20:50 +0000 2009",
+        "description": "Representing California's 6th Congressional District. Member of the @EnergyCommerce Committee.",
+        "favourites_count": 271,
+        "followers_count": 36068,
+        "friends_count": 9186,
+        "geo_enabled": true,
+        "id": 38254095,
+        "id_str": "38254095",
+        "listed_count": 1124,
+        "location": "Sacramento, CA",
+        "name": "Rep. Doris Matsui",
+        "profile_background_color": "D4CCE8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38254095/1559062275",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E4EAED",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "DorisMatsui",
+        "statuses_count": 3407,
+        "url": "http://t.co/dt820eUUHc",
+        "verified": true
+    },
+    "user_mentions": []
+}

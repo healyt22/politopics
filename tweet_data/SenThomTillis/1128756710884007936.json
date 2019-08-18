@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed May 15 20:19:05 +0000 2019",
+    "favorite_count": 25,
+    "hashtags": [],
+    "id": 1128756710884007936,
+    "id_str": "1128756710884007936",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 14 20:13:22 +0000 2019",
+        "favorite_count": 38,
+        "hashtags": [],
+        "id": 1128392883214721027,
+        "id_str": "1128392883214721027",
+        "lang": "en",
+        "place": {
+            "id": "3b98b02fba3f9753",
+            "url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json",
+            "place_type": "admin",
+            "name": "North Carolina",
+            "full_name": "North Carolina, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.3219475,
+                            33.752879
+                        ],
+                        [
+                            -75.40012,
+                            33.752879
+                        ],
+                        [
+                            -75.40012,
+                            36.588118
+                        ],
+                        [
+                            -84.3219475,
+                            36.588118
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 19,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Agriculture\u2019s contribution to NC\u2019s economy is on the rise! Ag and Agribusiness now make up $91.8 billion of NC\u2019s gr\u2026 https://t.co/FCBJ6n0uOB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1128392883214721027",
+                "url": "https://t.co/FCBJ6n0uOB"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 24 16:06:56 +0000 2011",
+            "default_profile": true,
+            "description": "North Carolina's largest general farm organization. N.C. Farm Bureau is a grassroots organization, serving as a legislative advocate for our members.",
+            "favourites_count": 2501,
+            "followers_count": 3393,
+            "friends_count": 1182,
+            "geo_enabled": true,
+            "id": 257041027,
+            "id_str": "257041027",
+            "listed_count": 64,
+            "location": "Raleigh, NC",
+            "name": "NC Farm Bureau",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/257041027/1558633873",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254079201/NCFBLogo_twitter_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254079201/NCFBLogo_twitter_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NCFarmBureau",
+            "statuses_count": 2778,
+            "url": "https://t.co/wzvw6lotwg"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1128392883214721027,
+    "quoted_status_id_str": "1128392883214721027",
+    "retweet_count": 7,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Great news! https://t.co/UNz3nZDZr4",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NCFarmBureau/status/1128392883214721027",
+            "url": "https://t.co/UNz3nZDZr4"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 06 14:22:18 +0000 2015",
+        "description": "Official Twitter account of North Carolina U.S. Senator Thom Tillis.",
+        "favourites_count": 1409,
+        "followers_count": 82026,
+        "friends_count": 4638,
+        "geo_enabled": true,
+        "id": 2964174789,
+        "id_str": "2964174789",
+        "listed_count": 1643,
+        "location": "North Carolina, USA",
+        "name": "Senator Thom Tillis",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964174789/1556910350",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1113102311566594048/TE6vxjHC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113102311566594048/TE6vxjHC_normal.png",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenThomTillis",
+        "statuses_count": 4364,
+        "url": "https://t.co/mLVkKiULqh",
+        "verified": true
+    },
+    "user_mentions": []
+}

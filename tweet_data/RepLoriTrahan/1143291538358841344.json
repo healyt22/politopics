@@ -1,0 +1,105 @@
+{
+    "created_at": "Mon Jun 24 22:55:18 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 1143291538358841344,
+    "id_str": "1143291538358841344",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 24 10:02:53 +0000 2019",
+        "favorite_count": 105,
+        "hashtags": [],
+        "id": 1143097152811479041,
+        "id_str": "1143097152811479041",
+        "lang": "en",
+        "retweet_count": 40,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "I try to be a thoughtful investor and philanthropist, but neither of these is a substitute for good public policy.\u2026 https://t.co/QRd010amO3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143097152811479041",
+                "url": "https://t.co/QRd010amO3"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 29 16:56:55 +0000 2010",
+            "default_profile": true,
+            "description": "Investing all types of capital for #impact. Co-Founder @_BlueHaven, Co-Founder @theimpact",
+            "favourites_count": 490,
+            "followers_count": 3090,
+            "friends_count": 367,
+            "id": 160974664,
+            "id_str": "160974664",
+            "listed_count": 68,
+            "name": "Liesel Pritzker Simmons",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/160974664/1506020628",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1764324614/LAPheadshot_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1764324614/LAPheadshot_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "lieselpritzker",
+            "statuses_count": 329,
+            "url": "https://t.co/ctxxXnbuzY"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1143097152811479041,
+    "quoted_status_id_str": "1143097152811479041",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I\u2019m grateful for the leadership of @lieselpritzker &amp; @isimmons on this important issue. It\u2019s clear that significant\u2026 https://t.co/9ZhuWa0rhB",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143291538358841344",
+            "url": "https://t.co/9ZhuWa0rhB"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 31 18:12:28 +0000 2018",
+        "description": "Proudly representing Massachusetts' 3rd Congressional District in the United States Congress.",
+        "favourites_count": 1507,
+        "followers_count": 13429,
+        "friends_count": 812,
+        "geo_enabled": true,
+        "id": 1079802482640019456,
+        "id_str": "1079802482640019456",
+        "listed_count": 220,
+        "location": "Massachusetts, USA",
+        "name": "Congresswoman Lori Trahan",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079802482640019456/1563635553",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1079802597366788102/iwByLB57_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079802597366788102/iwByLB57_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepLoriTrahan",
+        "statuses_count": 1478,
+        "url": "https://t.co/H4NmF9Ma2f",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 160974664,
+            "id_str": "160974664",
+            "name": "Liesel Pritzker Simmons",
+            "screen_name": "lieselpritzker"
+        },
+        {
+            "id": 25898324,
+            "id_str": "25898324",
+            "name": "Ian Simmons",
+            "screen_name": "isimmons"
+        }
+    ]
+}

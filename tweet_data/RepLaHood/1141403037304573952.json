@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jun 19 17:51:04 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1141403037304573952,
+    "id_str": "1141403037304573952",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 19 17:11:57 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1141393190454538245,
+        "id_str": "1141393190454538245",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to @RepLaHood for taking time to talk with me about  our shared commitment to Higher Education &amp; the Springf\u2026 https://t.co/DsCplwwAka",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141393190454538245",
+                "url": "https://t.co/DsCplwwAka"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 29 21:05:04 +0000 2015",
+            "default_profile": true,
+            "description": "The official Twitter account of University of Illinois Springfield Chancellor Susan J. Koch. Go Prairie Stars! #UISedu",
+            "favourites_count": 1159,
+            "followers_count": 950,
+            "friends_count": 415,
+            "geo_enabled": true,
+            "id": 3394591258,
+            "id_str": "3394591258",
+            "listed_count": 22,
+            "location": "Springfield, IL",
+            "name": "Susan Koch",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3394591258/1526314916",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/630820623858683904/Jo0uSb3z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/630820623858683904/Jo0uSb3z_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ChancellorKoch",
+            "statuses_count": 1244,
+            "url": "https://t.co/nC7dyhNsSa"
+        },
+        "user_mentions": [
+            {
+                "id": 3686482216,
+                "id_str": "3686482216",
+                "name": "Darin LaHood",
+                "screen_name": "RepLaHood"
+            }
+        ]
+    },
+    "quoted_status_id": 1141393190454538245,
+    "quoted_status_id_str": "1141393190454538245",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great to meet with @ChancellorKoch to discuss the innovative work being done at @UISedu and our shared commitment t\u2026 https://t.co/3YliPkIsve",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1141403037304573952",
+            "url": "https://t.co/3YliPkIsve"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Sep 17 14:16:48 +0000 2015",
+        "default_profile": true,
+        "description": "Proudly representing the 18th Congressional District of Illinois. Member of @WaysandMeansGOP.",
+        "favourites_count": 1071,
+        "followers_count": 13348,
+        "friends_count": 985,
+        "geo_enabled": true,
+        "id": 3686482216,
+        "id_str": "3686482216",
+        "listed_count": 406,
+        "location": "IL-18 Congressional District",
+        "name": "Darin LaHood",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3686482216/1458225244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/884784404098428929/vAzowMaE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/884784404098428929/vAzowMaE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLaHood",
+        "statuses_count": 1744,
+        "url": "https://t.co/4Vsi29h4ty",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3394591258,
+            "id_str": "3394591258",
+            "name": "Susan Koch",
+            "screen_name": "ChancellorKoch"
+        },
+        {
+            "id": 16889018,
+            "id_str": "16889018",
+            "name": "Illinois Springfield",
+            "screen_name": "UISedu"
+        }
+    ]
+}

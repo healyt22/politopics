@@ -1,0 +1,191 @@
+{
+    "created_at": "Wed May 29 15:11:51 +0000 2019",
+    "hashtags": [
+        {
+            "text": "MPC19"
+        }
+    ],
+    "id": 1133752821512310784,
+    "id_str": "1133752821512310784",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed May 29 15:09:49 +0000 2019",
+        "favorite_count": 27,
+        "hashtags": [
+            {
+                "text": "MPC19"
+            }
+        ],
+        "id": 1133752311250116610,
+        "id_str": "1133752311250116610",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2bKXFZ5Jam",
+                "expanded_url": "https://twitter.com/MikenzieFrost/status/1133752311250116610/video/1",
+                "id": 1133752177879584768,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1133752177879584768/pu/img/iTgrUb_z8SZwmA3p.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1133752177879584768/pu/img/iTgrUb_z8SZwmA3p.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/2bKXFZ5Jam",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 93565,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1133752177879584768/pu/vid/320x180/wbdVtMiE8-RiFEx-.mp4?tag=9"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1133752177879584768/pu/vid/640x360/TY49phB9lqlEh1KY.mp4?tag=9"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1133752177879584768/pu/vid/1280x720/leoCh9VWyYQrlwct.mp4?tag=9"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1133752177879584768/pu/pl/AoE6qoLSFYHunwpw.m3u8?tag=9"
+                        }
+                    ]
+                }
+            }
+        ],
+        "place": {
+            "id": "67d92742f1ebf307",
+            "url": "https://api.twitter.com/1.1/geo/id/67d92742f1ebf307.json",
+            "place_type": "admin",
+            "name": "Michigan",
+            "full_name": "Michigan, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.4181075,
+                            41.696088
+                        ],
+                        [
+                            -82.122971,
+                            41.696088
+                        ],
+                        [
+                            -82.122971,
+                            48.306272
+                        ],
+                        [
+                            -90.4181075,
+                            48.306272
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "WATCH: Sen. Debbie Stabenow announces the next delegation trip and bipartisan focus - Asian Carp. #MPC19 https://t.co/2bKXFZ5Jam",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Mar 12 00:01:52 +0000 2012",
+            "description": "Sinclair Broadcast Group Michigan Political Reporter | Former MT Anchor | NMU Alumna | email me tips: mbfrost@sbgtv.com | RT\u2019s not endorsements",
+            "favourites_count": 4245,
+            "followers_count": 1713,
+            "friends_count": 885,
+            "geo_enabled": true,
+            "id": 521795009,
+            "id_str": "521795009",
+            "listed_count": 65,
+            "location": "Lansing, MI",
+            "name": "Mikenzie Frost",
+            "profile_background_color": "661266",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/521795009/1564715058",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1157125091488129025/NOkN22dl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157125091488129025/NOkN22dl_normal.jpg",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MikenzieFrost",
+            "statuses_count": 10877,
+            "url": "https://t.co/ttxVB5bJ8O"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MikenzieFrost: WATCH: Sen. Debbie Stabenow announces the next delegation trip and bipartisan focus - Asian Carp. #MPC19 https://t.co/2b\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 22 21:30:16 +0000 2009",
+        "description": "Representing the people from the Great State of Michigan in the United States Senate",
+        "favourites_count": 93,
+        "followers_count": 107408,
+        "friends_count": 2288,
+        "geo_enabled": true,
+        "id": 76456274,
+        "id_str": "76456274",
+        "listed_count": 2291,
+        "location": "Washington, DC",
+        "name": "Sen. Debbie Stabenow",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76456274/1464728308",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1141009382374854656/klk7j3OL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141009382374854656/klk7j3OL_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenStabenow",
+        "statuses_count": 4414,
+        "url": "https://t.co/pSdzZMCUzw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 521795009,
+            "id_str": "521795009",
+            "name": "Mikenzie Frost",
+            "screen_name": "MikenzieFrost"
+        }
+    ]
+}

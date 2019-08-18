@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 17 04:50:32 +0000 2019",
+    "hashtags": [],
+    "id": 1151353469649006592,
+    "id_str": "1151353469649006592",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Jul 17 03:39:17 +0000 2019",
+        "favorite_count": 20,
+        "hashtags": [],
+        "id": 1151335537615261702,
+        "id_str": "1151335537615261702",
+        "lang": "en",
+        "place": {
+            "id": "0fc342b3d1147000",
+            "url": "https://api.twitter.com/1.1/geo/id/0fc342b3d1147000.json",
+            "place_type": "poi",
+            "name": "United States Capitol",
+            "full_name": "United States Capitol",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Amazing few days in DC as we honor young people for finding solutions to ending violence in our community. Thank yo\u2026 https://t.co/lwfRta8MHs",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151335537615261702",
+                "url": "https://t.co/lwfRta8MHs"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 23 09:04:16 +0000 2009",
+            "description": "Love. Peace. Politics. Community.",
+            "favourites_count": 5884,
+            "followers_count": 1755,
+            "friends_count": 214,
+            "geo_enabled": true,
+            "id": 34571468,
+            "id_str": "34571468",
+            "listed_count": 28,
+            "location": "Nevada",
+            "name": "Michael Flores",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/34571468/1544511734",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1124743889238102016/MAhyb8Q0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124743889238102016/MAhyb8Q0_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MikeFloresLV",
+            "statuses_count": 6710
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MikeFloresLV: Amazing few days in DC as we honor young people for finding solutions to ending violence in our community. Thank you @Rep\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+        "default_profile": true,
+        "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.",
+        "favourites_count": 5850,
+        "followers_count": 34691,
+        "friends_count": 1843,
+        "geo_enabled": true,
+        "id": 122174004,
+        "id_str": "122174004",
+        "listed_count": 971,
+        "location": "Las Vegas, NV",
+        "name": "Dina Titus",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repdinatitus",
+        "statuses_count": 11563,
+        "url": "https://t.co/2roqLuazqO",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 34571468,
+            "id_str": "34571468",
+            "name": "Michael Flores",
+            "screen_name": "MikeFloresLV"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Aug 03 16:04:02 +0000 2019",
+    "hashtags": [],
+    "id": 1157683552542240768,
+    "id_str": "1157683552542240768",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sat Aug 03 15:00:01 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1157667441788350464,
+        "id_str": "1157667441788350464",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Menendez wants to protect beachgoers from flying umbrellas @leahmishkinNJTV reports https://t.co/USQQxVOaJ3\u2026 https://t.co/oe2Ttf5YHY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2Zp8PHm",
+                "url": "https://t.co/USQQxVOaJ3"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1157667441788350464",
+                "url": "https://t.co/oe2Ttf5YHY"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 27 16:04:38 +0000 2009",
+            "description": "@NJTV Public Television news program. Weeknights at 6, 7:30 & 11pm on air and streaming online.",
+            "favourites_count": 527,
+            "followers_count": 33044,
+            "friends_count": 1364,
+            "geo_enabled": true,
+            "id": 35778956,
+            "id_str": "35778956",
+            "listed_count": 766,
+            "location": "New Jersey",
+            "name": "NJTV News",
+            "profile_background_color": "FAFAD2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/35778956/1505156348",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907317517294616576/h92PLhZR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907317517294616576/h92PLhZR_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBDAE8",
+            "profile_text_color": "333333",
+            "screen_name": "NJTVNews",
+            "statuses_count": 77024,
+            "url": "https://t.co/Y8pvBqF4Jf",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 389096161,
+                "id_str": "389096161",
+                "name": "leah mishkin",
+                "screen_name": "leahmishkinNJTV"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NJTVNews: Menendez wants to protect beachgoers from flying umbrellas @leahmishkinNJTV reports https://t.co/USQQxVOaJ3 @SenatorMenendez\u2026",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2Zp8PHm",
+            "url": "https://t.co/USQQxVOaJ3"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 06 21:01:12 +0000 2009",
+        "description": "U.S. Senator from New Jersey. \ud83c\uddfa\ud83c\uddf8 Proud father of Alicia & Rob. Proud grandfather of Evangelina.",
+        "favourites_count": 2064,
+        "followers_count": 163554,
+        "friends_count": 986,
+        "geo_enabled": true,
+        "id": 18695134,
+        "id_str": "18695134",
+        "listed_count": 3798,
+        "location": "New Jersey, USA",
+        "name": "Senator Bob Menendez",
+        "profile_background_color": "273447",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18695134/1545829307",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1138088998419800064/bGqy6DbH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138088998419800064/bGqy6DbH_normal.png",
+        "profile_link_color": "3283D1",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorMenendez",
+        "statuses_count": 10814,
+        "url": "https://t.co/P6lBJPCjWi",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 35778956,
+            "id_str": "35778956",
+            "name": "NJTV News",
+            "screen_name": "NJTVNews"
+        },
+        {
+            "id": 389096161,
+            "id_str": "389096161",
+            "name": "leah mishkin",
+            "screen_name": "leahmishkinNJTV"
+        },
+        {
+            "id": 18695134,
+            "id_str": "18695134",
+            "name": "Senator Bob Menendez",
+            "screen_name": "SenatorMenendez"
+        }
+    ]
+}

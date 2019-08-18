@@ -1,0 +1,148 @@
+{
+    "created_at": "Tue Jul 09 20:44:54 +0000 2019",
+    "hashtags": [
+        {
+            "text": "OpportunityZones"
+        }
+    ],
+    "id": 1148694540955639808,
+    "id_str": "1148694540955639808",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Jul 08 14:56:20 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [
+            {
+                "text": "OpportunityZones"
+            }
+        ],
+        "id": 1148244432766062594,
+        "id_str": "1148244432766062594",
+        "lang": "en",
+        "place": {
+            "id": "00a1b27a36092a2f",
+            "url": "https://api.twitter.com/1.1/geo/id/00a1b27a36092a2f.json",
+            "place_type": "city",
+            "name": "Bellefonte",
+            "full_name": "Bellefonte, PA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.812525,
+                            40.877087
+                        ],
+                        [
+                            -77.7407814,
+                            40.877087
+                        ],
+                        [
+                            -77.7407814,
+                            40.928341
+                        ],
+                        [
+                            -77.812525,
+                            40.928341
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Touring Centre County\u2019s #OpportunityZones in Bellefonte Borough with @SBAmidatlantic Regional Administrator Michell\u2026 https://t.co/LNTep4ya2p",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148244432766062594",
+                "url": "https://t.co/LNTep4ya2p"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 12 12:27:18 +0000 2017",
+            "default_profile": true,
+            "description": "The official Twitter account of the U.S. Small Business Administration Pittsburgh District Office. Neither RT or@mentions imply endorsement.",
+            "favourites_count": 1505,
+            "followers_count": 515,
+            "friends_count": 579,
+            "geo_enabled": true,
+            "id": 907581382741905409,
+            "id_str": "907581382741905409",
+            "listed_count": 14,
+            "location": "Pittsburgh, PA",
+            "name": "SBA Pittsburgh",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/907581382741905409/1561560844",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/983403401458352135/MolcF32p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/983403401458352135/MolcF32p_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SBA_Pittsburgh",
+            "statuses_count": 565,
+            "url": "https://t.co/v1WFe4B2bT"
+        },
+        "user_mentions": [
+            {
+                "id": 217063287,
+                "id_str": "217063287",
+                "name": "SBA Mid-Atlantic",
+                "screen_name": "SBAmidatlantic"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SBA_Pittsburgh: Touring Centre County\u2019s #OpportunityZones in Bellefonte Borough with @SBAmidatlantic Regional Administrator Michelle Ch\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 14 04:54:58 +0000 2009",
+        "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania's 15th Congressional District. #PA15",
+        "favourites_count": 395,
+        "followers_count": 20580,
+        "friends_count": 2969,
+        "geo_enabled": true,
+        "id": 18967498,
+        "id_str": "18967498",
+        "listed_count": 1184,
+        "location": "Howard, Pennsylvania",
+        "name": "Glenn 'GT' Thompson",
+        "profile_background_color": "383B78",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18967498/1546544253",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+        "profile_link_color": "0E17B5",
+        "profile_sidebar_border_color": "F7EFF7",
+        "profile_sidebar_fill_color": "FCFF57",
+        "profile_text_color": "0A090A",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanGT",
+        "statuses_count": 7462,
+        "url": "http://t.co/DvqrekKjtb",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 907581382741905409,
+            "id_str": "907581382741905409",
+            "name": "SBA Pittsburgh",
+            "screen_name": "SBA_Pittsburgh"
+        },
+        {
+            "id": 217063287,
+            "id_str": "217063287",
+            "name": "SBA Mid-Atlantic",
+            "screen_name": "SBAmidatlantic"
+        }
+    ]
+}

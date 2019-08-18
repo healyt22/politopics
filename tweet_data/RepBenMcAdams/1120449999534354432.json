@@ -1,0 +1,119 @@
+{
+    "created_at": "Mon Apr 22 22:11:11 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [
+        {
+            "text": "utpol"
+        }
+    ],
+    "id": 1120449999534354432,
+    "id_str": "1120449999534354432",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/WQiwoGH8Rl",
+            "expanded_url": "https://twitter.com/RepBenMcAdams/status/1120449999534354432/photo/1",
+            "id": 1120449992005705734,
+            "media_url": "http://pbs.twimg.com/media/D4yjVNIW4AYzxce.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4yjVNIW4AYzxce.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1515,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 888,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 503,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/WQiwoGH8Rl"
+        }
+    ],
+    "place": {
+        "id": "0e8d118dcb94d000",
+        "url": "https://api.twitter.com/1.1/geo/id/0e8d118dcb94d000.json",
+        "place_type": "poi",
+        "name": "Mountain America Center",
+        "full_name": "Mountain America Center",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -111.898007,
+                        40.572433
+                    ],
+                    [
+                        -111.898007,
+                        40.572433
+                    ],
+                    [
+                        -111.898007,
+                        40.572433
+                    ],
+                    [
+                        -111.898007,
+                        40.572433
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Kicking off a @MountainAmerica town hall meeting. #utpol https://t.co/WQiwoGH8Rl",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 28 23:18:15 +0000 2010",
+        "description": "The official Twitter account for Utah's 4th Congressional District representative",
+        "favourites_count": 1021,
+        "followers_count": 10874,
+        "friends_count": 1106,
+        "geo_enabled": true,
+        "id": 196362083,
+        "id_str": "196362083",
+        "listed_count": 323,
+        "location": "Utah, USA",
+        "name": "Rep. Ben McAdams",
+        "profile_background_color": "7A3838",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196362083/1547180285",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_link_color": "702323",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBenMcAdams",
+        "statuses_count": 4200,
+        "url": "https://t.co/12wZyksOHt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 39839935,
+            "id_str": "39839935",
+            "name": "Mountain America CU",
+            "screen_name": "MountainAmerica"
+        }
+    ]
+}

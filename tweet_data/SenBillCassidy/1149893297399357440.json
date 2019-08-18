@@ -1,0 +1,124 @@
+{
+    "created_at": "Sat Jul 13 04:08:20 +0000 2019",
+    "hashtags": [],
+    "id": 1149893297399357440,
+    "id_str": "1149893297399357440",
+    "lang": "en",
+    "retweet_count": 27,
+    "retweeted_status": {
+        "created_at": "Sat Jul 13 01:53:49 +0000 2019",
+        "favorite_count": 32,
+        "hashtags": [],
+        "id": 1149859445326958593,
+        "id_str": "1149859445326958593",
+        "lang": "en",
+        "place": {
+            "id": "c7ef5f3368b68777",
+            "url": "https://api.twitter.com/1.1/geo/id/c7ef5f3368b68777.json",
+            "place_type": "city",
+            "name": "Baton Rouge",
+            "full_name": "Baton Rouge, LA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.218994,
+                            30.354161
+                        ],
+                        [
+                            -90.962605,
+                            30.354161
+                        ],
+                        [
+                            -90.962605,
+                            30.5640391
+                        ],
+                        [
+                            -91.218994,
+                            30.5640391
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 27,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The Charles R. Kelly Community Center, located at 3535 Riley St. is now open as a community receiving center, servi\u2026 https://t.co/aWpKIomQpo",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149859445326958593",
+                "url": "https://t.co/aWpKIomQpo"
+            }
+        ],
+        "user": {
+            "created_at": "Sat May 23 18:10:41 +0000 2009",
+            "description": "The official account of Baton Rouge Mayor-President Sharon Weston Broome.",
+            "favourites_count": 689,
+            "followers_count": 5086,
+            "friends_count": 454,
+            "geo_enabled": true,
+            "id": 42070045,
+            "id_str": "42070045",
+            "listed_count": 98,
+            "location": "Baton Rouge, LA",
+            "name": "Sharon Weston Broome",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/42070045/1560293207",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1012004172995153927/OgJoOmQJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012004172995153927/OgJoOmQJ_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "MayorBroome",
+            "statuses_count": 1988,
+            "url": "https://t.co/DaENaZ0Qzl"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MayorBroome: The Charles R. Kelly Community Center, located at 3535 Riley St. is now open as a community receiving center, serving as a\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 12 20:05:23 +0000 2018",
+        "default_profile": true,
+        "description": "Treated uninsured patients as a doctor in Louisiana\u2019s charity hospital system, now serving the people of my state in the US Senate. Proud LSU grad! #GeauxTigers",
+        "favourites_count": 188,
+        "followers_count": 12339,
+        "friends_count": 1091,
+        "id": 1017500185356853248,
+        "id_str": "1017500185356853248",
+        "listed_count": 284,
+        "location": "Baton Rouge, LA",
+        "name": "U.S. Senator Bill Cassidy, M.D.",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017500185356853248/1547826031",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017836622145040386/DcP_lQSc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017836622145040386/DcP_lQSc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenBillCassidy",
+        "statuses_count": 1461,
+        "url": "https://t.co/yd6jxEbab5",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 42070045,
+            "id_str": "42070045",
+            "name": "Sharon Weston Broome",
+            "screen_name": "MayorBroome"
+        }
+    ]
+}

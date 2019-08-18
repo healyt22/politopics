@@ -1,0 +1,115 @@
+{
+    "created_at": "Wed Feb 13 18:17:00 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1095748689728028673,
+    "id_str": "1095748689728028673",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Feb 13 13:54:45 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1095682692027424768,
+        "id_str": "1095682692027424768",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+        "text": "Dayton mayor @nanwhaley vows to reduce evictions, says city remains too segregated: https://t.co/F9sX3HcVpI",
+        "urls": [
+            {
+                "expanded_url": "https://ddnnews.com/2X2TziD",
+                "url": "https://t.co/F9sX3HcVpI"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 28 03:18:05 +0000 2008",
+            "description": "Complete local news and information for the Dayton, Ohio area.",
+            "favourites_count": 2421,
+            "followers_count": 88077,
+            "friends_count": 983,
+            "geo_enabled": true,
+            "id": 15627208,
+            "id_str": "15627208",
+            "listed_count": 998,
+            "location": "Dayton, Oh",
+            "name": "Dayton Daily News",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15627208/1399303277",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875424382579073024/i0V7Bye2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875424382579073024/i0V7Bye2_normal.jpg",
+            "profile_link_color": "0D5D96",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CEE3F2",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "daytondailynews",
+            "statuses_count": 213613,
+            "url": "http://t.co/JdJGW15Ht9",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 40296465,
+                "id_str": "40296465",
+                "name": "Nan Whaley",
+                "screen_name": "nanwhaley"
+            }
+        ]
+    },
+    "quoted_status_id": 1095682692027424768,
+    "quoted_status_id_str": "1095682692027424768",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@nanwhaley: As you look @ poverty &amp; housing in @cityofdayton, I still await your reply to my letters over the past\u2026 https://t.co/DjD8lSVPyA",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1095748689728028673",
+            "url": "https://t.co/DjD8lSVPyA"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jun 26 21:15:07 +0000 2009",
+        "description": "I proudly represent the Tenth District of Ohio. Montgomery County, Greene County and Fayette County. #OH10",
+        "favourites_count": 152,
+        "followers_count": 27626,
+        "friends_count": 1074,
+        "geo_enabled": true,
+        "id": 51228911,
+        "id_str": "51228911",
+        "listed_count": 982,
+        "location": "Washington, DC and Dayton, OH",
+        "name": "US Rep. Mike Turner",
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51228911/1413479410",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/445952873818374144/TZbgdNZ5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/445952873818374144/TZbgdNZ5_normal.jpeg",
+        "profile_link_color": "1D63F0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "0084B4",
+        "profile_use_background_image": true,
+        "screen_name": "RepMikeTurner",
+        "statuses_count": 2840,
+        "url": "http://t.co/hhH39SKxLO",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 40296465,
+            "id_str": "40296465",
+            "name": "Nan Whaley",
+            "screen_name": "nanwhaley"
+        },
+        {
+            "id": 33903907,
+            "id_str": "33903907",
+            "name": "City of Dayton, Ohio",
+            "screen_name": "cityofdayton"
+        }
+    ]
+}

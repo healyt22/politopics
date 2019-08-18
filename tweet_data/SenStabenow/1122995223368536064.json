@@ -1,0 +1,136 @@
+{
+    "created_at": "Mon Apr 29 22:45:00 +0000 2019",
+    "favorite_count": 38,
+    "hashtags": [],
+    "id": 1122995223368536064,
+    "id_str": "1122995223368536064",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Mon Apr 29 22:18:14 +0000 2019",
+        "favorite_count": 21,
+        "hashtags": [],
+        "id": 1122988488834670593,
+        "id_str": "1122988488834670593",
+        "lang": "en",
+        "quoted_status_id": 1122987436433379328,
+        "quoted_status_id_str": "1122987436433379328",
+        "retweet_count": 3,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "this is incredible news https://t.co/cewh4r60zW",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/chicagotribune/status/1122987436433379328",
+                "url": "https://t.co/cewh4r60zW"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 06 19:20:39 +0000 2011",
+            "description": "@axios reporter covering 2020 / send tips & your best dad jokes lexi@axios.com",
+            "favourites_count": 17463,
+            "followers_count": 38144,
+            "friends_count": 991,
+            "geo_enabled": true,
+            "id": 278175882,
+            "id_str": "278175882",
+            "listed_count": 578,
+            "location": "Washington, DC",
+            "name": "Alexi McCammond",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/278175882/1456770912",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/990895628506058753/xzkOpKUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/990895628506058753/xzkOpKUs_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "alexi",
+            "statuses_count": 18106,
+            "url": "https://t.co/yTFLNXeDwu",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1122988488834670593,
+    "quoted_status_id_str": "1122988488834670593",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Chicago is in for a treat \u2013 @zingermans is the best! https://t.co/IRdA8wFcpk",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/alexi/status/1122988488834670593",
+            "url": "https://t.co/IRdA8wFcpk"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 22 21:30:16 +0000 2009",
+        "description": "Representing the people from the Great State of Michigan in the United States Senate",
+        "favourites_count": 90,
+        "followers_count": 106708,
+        "friends_count": 2291,
+        "geo_enabled": true,
+        "id": 76456274,
+        "id_str": "76456274",
+        "listed_count": 2257,
+        "location": "Washington, DC",
+        "name": "Sen. Debbie Stabenow",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76456274/1464728308",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1141009382374854656/klk7j3OL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141009382374854656/klk7j3OL_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenStabenow",
+        "statuses_count": 4369,
+        "url": "https://t.co/pSdzZMCUzw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 20008239,
+            "id_str": "20008239",
+            "name": "Zingerman's",
+            "screen_name": "zingermans"
+        }
+    ]
+}

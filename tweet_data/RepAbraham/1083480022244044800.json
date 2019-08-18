@@ -1,0 +1,177 @@
+{
+    "created_at": "Thu Jan 10 21:45:42 +0000 2019",
+    "hashtags": [],
+    "id": 1083480022244044800,
+    "id_str": "1083480022244044800",
+    "lang": "en",
+    "quoted_status_id": 1083411819354558467,
+    "quoted_status_id_str": "1083411819354558467",
+    "retweet_count": 6152,
+    "retweeted_status": {
+        "created_at": "Thu Jan 10 18:31:55 +0000 2019",
+        "favorite_count": 19812,
+        "hashtags": [],
+        "id": 1083431256090705920,
+        "id_str": "1083431256090705920",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Thu Jan 10 17:14:41 +0000 2019",
+            "favorite_count": 55766,
+            "hashtags": [],
+            "id": 1083411819354558467,
+            "id_str": "1083411819354558467",
+            "lang": "en",
+            "place": {
+                "id": "07d9dcac92881002",
+                "url": "https://api.twitter.com/1.1/geo/id/07d9dcac92881002.json",
+                "place_type": "poi",
+                "name": "Burger King",
+                "full_name": "Burger King",
+                "country_code": "MX",
+                "country": "Mexico",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -98.26638979465315,
+                                26.105246597885746
+                            ],
+                            [
+                                -98.26638979465315,
+                                26.105246597885746
+                            ],
+                            [
+                                -98.26638979465315,
+                                26.105246597885746
+                            ],
+                            [
+                                -98.26638979465315,
+                                26.105246597885746
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 16791,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "I found some steel slats down on the border. But I don\u2019t see anything resembling a national emergency situation.. a\u2026 https://t.co/9EWs33GA6c",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1083411819354558467",
+                    "url": "https://t.co/9EWs33GA6c"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Mar 04 13:48:04 +0000 2009",
+                "description": "CNN's Chief White House Correspondent. I believe in #realnews. \"The Enemy of the People: A Dangerous Time to Tell the Truth in America\" is a NYT Bestseller.",
+                "favourites_count": 9948,
+                "followers_count": 1282118,
+                "friends_count": 4011,
+                "geo_enabled": true,
+                "id": 22771961,
+                "id_str": "22771961",
+                "listed_count": 9137,
+                "location": "Washington, DC",
+                "name": "Jim Acosta",
+                "profile_background_color": "A39E96",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/22771961/1561667777",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1108747240527548417/NGPxjhpw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108747240527548417/NGPxjhpw_normal.jpg",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "33363D",
+                "profile_sidebar_fill_color": "AD9D6B",
+                "profile_text_color": "3D2406",
+                "profile_use_background_image": true,
+                "screen_name": "Acosta",
+                "statuses_count": 32350,
+                "url": "https://t.co/vRiHS21vus",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1083411819354558467,
+        "quoted_status_id_str": "1083411819354558467",
+        "retweet_count": 6152,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Glad to see the steel slats are deterring illegal immigrants from attempting to cross the border exactly as\u2026 https://t.co/AOyt2U0dTy",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1083431256090705920",
+                "url": "https://t.co/AOyt2U0dTy"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+            "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+            "favourites_count": 1209,
+            "followers_count": 319201,
+            "friends_count": 1287,
+            "id": 1209417007,
+            "id_str": "1209417007",
+            "listed_count": 2032,
+            "location": "Jefferson, LA",
+            "name": "Steve Scalise",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+            "profile_link_color": "021F59",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SteveScalise",
+            "statuses_count": 9832,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SteveScalise: Glad to see the steel slats are deterring illegal immigrants from attempting to cross the border exactly as @realDonaldTr\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 05 23:01:54 +0000 2015",
+        "default_profile": true,
+        "description": "Proudly representing Louisiana's 5th District. Rural family physician, veteran, farmer, pilot, former veterinarian, husband, father & grandfather.",
+        "favourites_count": 157,
+        "followers_count": 21627,
+        "friends_count": 119,
+        "id": 2962891515,
+        "id_str": "2962891515",
+        "listed_count": 575,
+        "name": "Rep. Ralph Abraham",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962891515/1484238783",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552239677395046402/-PHUoJ7w_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552239677395046402/-PHUoJ7w_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAbraham",
+        "statuses_count": 970,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1209417007,
+            "id_str": "1209417007",
+            "name": "Steve Scalise",
+            "screen_name": "SteveScalise"
+        }
+    ]
+}

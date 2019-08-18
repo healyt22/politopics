@@ -1,0 +1,102 @@
+{
+    "created_at": "Tue Jun 11 13:22:55 +0000 2019",
+    "favorite_count": 2743,
+    "hashtags": [],
+    "id": 1138436449991368704,
+    "id_str": "1138436449991368704",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Uvb6DFSukd",
+            "expanded_url": "https://twitter.com/SteveScalise/status/1138436449991368704/video/1",
+            "id": 1138436042762199040,
+            "media_url": "http://pbs.twimg.com/media/D8yJpQEWsAEKaxB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8yJpQEWsAEKaxB.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 671,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1146,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 380,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Uvb6DFSukd",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 15015,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1138436042762199040/vid/1280x720/pdHJfYSOl6j4zpyY.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1138436042762199040/vid/480x270/ERnwzFsInxzzs3gF.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1138436042762199040/pl/MJDVEjjvluxO49xD.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1138436042762199040/vid/640x360/JtPdaA_NUTGt9K-d.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 458,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Going to take a lot more than that to take me down! https://t.co/Uvb6DFSukd",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+        "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+        "favourites_count": 1184,
+        "followers_count": 310810,
+        "friends_count": 1282,
+        "id": 1209417007,
+        "id_str": "1209417007",
+        "listed_count": 2001,
+        "location": "Jefferson, LA",
+        "name": "Steve Scalise",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+        "profile_link_color": "021F59",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SteveScalise",
+        "statuses_count": 9749,
+        "url": "https://t.co/vKBoGD7Spm",
+        "verified": true
+    },
+    "user_mentions": []
+}

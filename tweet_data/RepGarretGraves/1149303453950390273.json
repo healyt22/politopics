@@ -1,0 +1,184 @@
+{
+    "created_at": "Thu Jul 11 13:04:31 +0000 2019",
+    "hashtags": [
+        {
+            "text": "FloodAlert"
+        }
+    ],
+    "id": 1149303453950390273,
+    "id_str": "1149303453950390273",
+    "lang": "en",
+    "quoted_status_id": 1149229027510538240,
+    "quoted_status_id_str": "1149229027510538240",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Jul 11 12:55:07 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "FloodAlert"
+            }
+        ],
+        "id": 1149301088077668352,
+        "id_str": "1149301088077668352",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Thu Jul 11 08:08:46 +0000 2019",
+            "favorite_count": 46,
+            "hashtags": [],
+            "id": 1149229027510538240,
+            "id_str": "1149229027510538240",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/RX2xAN6yAP",
+                    "expanded_url": "https://twitter.com/NWSWPC/status/1149229027510538240/photo/1",
+                    "id": 1149229026478678016,
+                    "media_url": "http://pbs.twimg.com/media/D_LhtfDUYAAsuGG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D_LhtfDUYAAsuGG.jpg",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 561,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 561,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/RX2xAN6yAP"
+                }
+            ],
+            "retweet_count": 48,
+            "source": "<a href=\"http://www.wpc.ncep.noaa.gov/\" rel=\"nofollow\">NWSWPC_AutoTweet</a>",
+            "text": "A HIGH risk is in effect in our Day 3 Excessive Rainfall Outlook. More details: https://t.co/FQU5sb4jjg https://t.co/RX2xAN6yAP",
+            "urls": [
+                {
+                    "expanded_url": "http://go.usa.gov/cu3Dw",
+                    "url": "https://t.co/FQU5sb4jjg"
+                }
+            ],
+            "user": {
+                "created_at": "Tue May 21 12:59:14 +0000 2013",
+                "description": "Official Twitter account for the National Weather Service Weather Prediction Center.  Details: http://t.co/KKTK7cZlhK",
+                "favourites_count": 2210,
+                "followers_count": 71704,
+                "friends_count": 211,
+                "id": 1446255144,
+                "id_str": "1446255144",
+                "listed_count": 2026,
+                "location": "College Park, MD",
+                "name": "NWS WPC",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446255144/1474514107",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1054559323421134848/aOoAOM1P_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559323421134848/aOoAOM1P_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "NWSWPC",
+                "statuses_count": 15489,
+                "url": "http://t.co/9Dpcx6Uadu",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1149229027510538240,
+        "quoted_status_id_str": "1149229027510538240",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#FloodAlert: The likelihood for significant rainfall and potential flooding is high. Be prepared. Monitor local riv\u2026 https://t.co/fI8bdmFQqS",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149301088077668352",
+                "url": "https://t.co/fI8bdmFQqS"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 24 04:59:01 +0000 2013",
+            "description": "Chief Meteorologist @WVLANBCLocal33 & @WGMBFox44 | Baton Rouge, LA",
+            "favourites_count": 397,
+            "followers_count": 553,
+            "friends_count": 415,
+            "id": 1453271341,
+            "id_str": "1453271341",
+            "listed_count": 28,
+            "location": "Baton Rouge, LA",
+            "name": "Jesse Gunkel",
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1453271341/1550039750",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1049321899627634689/A_XX0OV1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049321899627634689/A_XX0OV1_normal.jpg",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JesseGunkel",
+            "statuses_count": 7358,
+            "url": "https://t.co/yI4AillJn7",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JesseGunkel: #FloodAlert: The likelihood for significant rainfall and potential flooding is high. Be prepared. Monitor local river, str\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 30 17:51:24 +0000 2014",
+        "default_profile": true,
+        "description": "Official Twitter Page of Congressman Garret Graves (LA06)",
+        "favourites_count": 314,
+        "followers_count": 12372,
+        "friends_count": 1119,
+        "geo_enabled": true,
+        "id": 2951574214,
+        "id_str": "2951574214",
+        "listed_count": 388,
+        "location": "Follow us on Facebook: ",
+        "name": "Rep. Garret Graves",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951574214/1421440830",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553292029963145216/lzwyCMoA_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553292029963145216/lzwyCMoA_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGarretGraves",
+        "statuses_count": 3605,
+        "url": "https://t.co/glkM2IIXms",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1453271341,
+            "id_str": "1453271341",
+            "name": "Jesse Gunkel",
+            "screen_name": "JesseGunkel"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "created_at": "Tue Jun 11 14:57:29 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1138460250712039427,
+    "id_str": "1138460250712039427",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 11 14:36:36 +0000 2019",
+        "favorite_count": 63,
+        "hashtags": [],
+        "id": 1138454991658737664,
+        "id_str": "1138454991658737664",
+        "lang": "en",
+        "place": {
+            "id": "07d9ec834ec88000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9ec834ec88000.json",
+            "place_type": "poi",
+            "name": "Rayburn House Office Building",
+            "full_name": "Rayburn House Office Building",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 26,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Workplace violence threatens nurses and reduces the quality of patient care. \n\nToday, the @EdLaborCmte is marking u\u2026 https://t.co/xcEQrKzhxd",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138454991658737664",
+                "url": "https://t.co/xcEQrKzhxd"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 31 22:13:09 +0000 2015",
+            "description": "Registered Nurse and Executive Director of @NationalNurses and @Calnurses. Union activist and proud #Latina. #UnionStrong #MedicareForAll",
+            "favourites_count": 6674,
+            "followers_count": 6759,
+            "friends_count": 684,
+            "geo_enabled": true,
+            "id": 3506130508,
+            "id_str": "3506130508",
+            "listed_count": 97,
+            "location": "Oakland, CA",
+            "name": "Bonnie Castillo",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3506130508/1556816973",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1122224524882141184/aXw45zlO_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1122224524882141184/aXw45zlO_normal.png",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "NNUBonnie",
+            "statuses_count": 4680,
+            "url": "https://t.co/MItKJpShEY"
+        },
+        "user_mentions": [
+            {
+                "id": 7004382,
+                "id_str": "7004382",
+                "name": "Committee on Education & Labor",
+                "screen_name": "EdLaborCmte"
+            }
+        ]
+    },
+    "quoted_status_id": 1138454991658737664,
+    "quoted_status_id_str": "1138454991658737664",
+    "retweet_count": 1,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Thank you for the support! We've come a long way this year with the new House majority--a little more work left to\u2026 https://t.co/XVCRZ55xq5",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138460250712039427",
+            "url": "https://t.co/XVCRZ55xq5"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Oct 26 19:45:09 +0000 2009",
+        "default_profile": true,
+        "description": "U.S. Congressman proudly fighting for the residents of Connecticut\u2019s 2nd Congressional District. https://t.co/qNiLbsYBdJ",
+        "favourites_count": 304,
+        "followers_count": 24447,
+        "friends_count": 2247,
+        "geo_enabled": true,
+        "id": 85396297,
+        "id_str": "85396297",
+        "listed_count": 1070,
+        "location": "Vernon, CT",
+        "name": "Rep. Joe Courtney",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85396297/1506172730",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1417794144/New_Boston_Beef--North_Groves___35__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1417794144/New_Boston_Beef--North_Groves___35__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeCourtney",
+        "statuses_count": 6877,
+        "url": "http://t.co/AUFMDc1ZOx",
+        "verified": true
+    },
+    "user_mentions": []
+}

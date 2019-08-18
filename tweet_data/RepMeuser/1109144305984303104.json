@@ -1,0 +1,92 @@
+{
+    "created_at": "Fri Mar 22 17:26:24 +0000 2019",
+    "hashtags": [],
+    "id": 1109144305984303104,
+    "id_str": "1109144305984303104",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Mar 22 17:21:22 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1109143039719735296,
+        "id_str": "1109143039719735296",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "More than 118,000 Americans are waiting for a life-saving organ transplant &amp; 1/3rd will die before they receive an\u2026 https://t.co/BhdqiYbAC3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1109143039719735296",
+                "url": "https://t.co/BhdqiYbAC3"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 23 00:49:33 +0000 2010",
+            "description": "Pennsylvania State Senator representing the 29th District, including Schuylkill County & portions of Berks County. Chairman of Senate Majority Policy Committee.",
+            "favourites_count": 51,
+            "followers_count": 3954,
+            "friends_count": 599,
+            "geo_enabled": true,
+            "id": 116588914,
+            "id_str": "116588914",
+            "listed_count": 157,
+            "location": "Pennsylvania",
+            "name": "Senator David Argall",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/116588914/1399577021",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1129482740049620993/uIVjVmIY_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129482740049620993/uIVjVmIY_normal.png",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenatorArgall",
+            "statuses_count": 4384,
+            "url": "http://t.co/6MWCGPyGCt",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @SenatorArgall: More than 118,000 Americans are waiting for a life-saving organ transplant &amp; 1/3rd will die before they receive an organ\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 21:21:21 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly serving the hardworking taxpayers of Pennsylvania's 9th Congressional District.",
+        "favourites_count": 15,
+        "followers_count": 5603,
+        "friends_count": 225,
+        "id": 1080574793630527505,
+        "id_str": "1080574793630527505",
+        "listed_count": 118,
+        "name": "Congressman Dan Meuser",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080574793630527505/1564682905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081299055114895360/DvrWDK_k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081299055114895360/DvrWDK_k_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMeuser",
+        "statuses_count": 317,
+        "url": "https://t.co/SlBpB0i2kl",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 116588914,
+            "id_str": "116588914",
+            "name": "Senator David Argall",
+            "screen_name": "SenatorArgall"
+        }
+    ]
+}

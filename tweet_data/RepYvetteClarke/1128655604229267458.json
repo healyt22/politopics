@@ -1,0 +1,252 @@
+{
+    "created_at": "Wed May 15 13:37:20 +0000 2019",
+    "hashtags": [],
+    "id": 1128655604229267458,
+    "id_str": "1128655604229267458",
+    "lang": "en",
+    "quoted_status_id": 1128389690913173508,
+    "quoted_status_id_str": "1128389690913173508",
+    "retweet_count": 11,
+    "retweeted_status": {
+        "created_at": "Wed May 15 01:51:45 +0000 2019",
+        "favorite_count": 22,
+        "hashtags": [],
+        "id": 1128478040403709959,
+        "id_str": "1128478040403709959",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Tue May 14 20:00:41 +0000 2019",
+            "favorite_count": 8,
+            "hashtags": [
+                {
+                    "text": "DCFlyIn19"
+                },
+                {
+                    "text": "SmallBiz"
+                }
+            ],
+            "id": 1128389690913173508,
+            "id_str": "1128389690913173508",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/JDtz9SUFbq",
+                    "expanded_url": "https://twitter.com/StrategicIMPACT/status/1128389690913173508/video/1",
+                    "id": 1128389569039224833,
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128389569039224833/pu/img/qTv6MWuyiVz31_YD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128389569039224833/pu/img/qTv6MWuyiVz31_YD.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 406,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 406,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/JDtz9SUFbq",
+                    "video_info": {
+                        "aspect_ratio": [
+                            360,
+                            203
+                        ],
+                        "duration_millis": 59750,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1128389569039224833/pu/vid/318x180/Jutw72fEZPEKnl7f.mp4?tag=9"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1128389569039224833/pu/vid/720x406/evhiLf3zI8IOWOK0.mp4?tag=9"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1128389569039224833/pu/pl/AJl5lD9iaW0VlWA1.m3u8?tag=9"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "retweet_count": 7,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "This year\u2019s #DCFlyIn19 was a success! Here\u2019s a recap of @ebay\u2019s annual #SmallBiz celebration. \ud83d\udee9\ud83d\ude4c\ud83c\udffe\ud83d\udcaf@ebaygr https://t.co/JDtz9SUFbq",
+            "urls": [],
+            "user": {
+                "created_at": "Sun Dec 16 03:19:30 +0000 2012",
+                "default_profile": true,
+                "description": "#PoliticalAdvocacy firm in the Nation's Capital. #weknowDC #weknowpolitics",
+                "favourites_count": 194,
+                "followers_count": 5780,
+                "friends_count": 421,
+                "geo_enabled": true,
+                "id": 1014391382,
+                "id_str": "1014391382",
+                "listed_count": 65,
+                "location": "Global",
+                "name": "IMPACT Strategies",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1014391382/1447688861",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1098273973413007360/NkdntwoL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098273973413007360/NkdntwoL_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "StrategicIMPACT",
+                "statuses_count": 2348,
+                "url": "https://t.co/dzwxh4Hm5K"
+            },
+            "user_mentions": [
+                {
+                    "id": 19709040,
+                    "id_str": "19709040",
+                    "name": "eBay",
+                    "screen_name": "eBay"
+                },
+                {
+                    "id": 49969221,
+                    "id_str": "49969221",
+                    "name": "eBay Main Street",
+                    "screen_name": "ebaygr"
+                }
+            ]
+        },
+        "quoted_status_id": 1128389690913173508,
+        "quoted_status_id_str": "1128389690913173508",
+        "retweet_count": 11,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Incredible fly-in! Shout out to some of my favorite members who participated: @WhipClyburn @RepJeffries @repcleaver\u2026 https://t.co/SlxDFVdiQA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1128478040403709959",
+                "url": "https://t.co/SlxDFVdiQA"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Apr 18 04:19:21 +0000 2009",
+            "description": "#TruthBringer in Chief, @CNN Political Commentator, CEO of @StrategicIMPACT, and Empowermenteur! \u270a\ud83c\udffd#workWOKE",
+            "favourites_count": 10939,
+            "followers_count": 379760,
+            "friends_count": 1917,
+            "geo_enabled": true,
+            "id": 32780218,
+            "id_str": "32780218",
+            "listed_count": 2687,
+            "location": "ON YOUR TV/RADIO/PODCAST",
+            "name": "A N G E L A | R Y E",
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32780218/1537817278",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1044307469646757888/0pl0OQIC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044307469646757888/0pl0OQIC_normal.jpg",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "angela_rye",
+            "statuses_count": 19803,
+            "url": "https://t.co/GsNgw6oWCq",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 188019606,
+                "id_str": "188019606",
+                "name": "James E. Clyburn",
+                "screen_name": "WhipClyburn"
+            },
+            {
+                "id": 467823431,
+                "id_str": "467823431",
+                "name": "Hakeem Jeffries",
+                "screen_name": "RepJeffries"
+            },
+            {
+                "id": 163570705,
+                "id_str": "163570705",
+                "name": "Rep. Emanuel Cleaver",
+                "screen_name": "repcleaver"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @angela_rye: Incredible fly-in! Shout out to some of my favorite members who participated: @WhipClyburn @RepJeffries @repcleaver @RepMar\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 20 20:14:21 +0000 2011",
+        "default_profile": true,
+        "description": "Representing New York\u2019s 9th Congressional District. Brooklyn bred. Vice Chair of @EnergyCommerce // press: sarah.sinovic@mail.house.gov",
+        "favourites_count": 7483,
+        "followers_count": 60510,
+        "friends_count": 3852,
+        "geo_enabled": true,
+        "id": 240812994,
+        "id_str": "240812994",
+        "listed_count": 1453,
+        "location": "Brooklyn, NY",
+        "name": "Yvette D. Clarke",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240812994/1554211887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999351152129884162/a1p9rErQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/999351152129884162/a1p9rErQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepYvetteClarke",
+        "statuses_count": 12407,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 32780218,
+            "id_str": "32780218",
+            "name": "A N G E L A | R Y E",
+            "screen_name": "angela_rye"
+        },
+        {
+            "id": 188019606,
+            "id_str": "188019606",
+            "name": "James E. Clyburn",
+            "screen_name": "WhipClyburn"
+        },
+        {
+            "id": 467823431,
+            "id_str": "467823431",
+            "name": "Hakeem Jeffries",
+            "screen_name": "RepJeffries"
+        },
+        {
+            "id": 163570705,
+            "id_str": "163570705",
+            "name": "Rep. Emanuel Cleaver",
+            "screen_name": "repcleaver"
+        }
+    ]
+}

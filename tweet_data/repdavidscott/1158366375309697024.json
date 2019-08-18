@@ -1,0 +1,95 @@
+{
+    "created_at": "Mon Aug 05 13:17:19 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "15thAnnualHealthFair"
+        }
+    ],
+    "id": 1158366375309697024,
+    "id_str": "1158366375309697024",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/xZTldjZ4Vm",
+            "expanded_url": "https://twitter.com/repdavidscott/status/1158366375309697024/photo/1",
+            "id": 1158366349221138433,
+            "media_url": "http://pbs.twimg.com/media/EBNYDq0XkAErHfm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBNYDq0XkAErHfm.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/xZTldjZ4Vm"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Tune in: Coming up next on @FOX5Atlanta @GoodDayAtlanta with @PatriceHarrisMD. #15thAnnualHealthFair https://t.co/xZTldjZ4Vm",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 20 14:10:32 +0000 2010",
+        "description": "Representing Georgia's 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+        "favourites_count": 2673,
+        "followers_count": 21046,
+        "friends_count": 1874,
+        "id": 168673083,
+        "id_str": "168673083",
+        "listed_count": 844,
+        "location": "Georgia",
+        "name": "David Scott",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168673083/1425489882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "repdavidscott",
+        "statuses_count": 2861,
+        "url": "http://t.co/86ovd85h30",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17836882,
+            "id_str": "17836882",
+            "name": "FOX 5 Atlanta",
+            "screen_name": "FOX5Atlanta"
+        },
+        {
+            "id": 70961675,
+            "id_str": "70961675",
+            "name": "Good Day Atlanta",
+            "screen_name": "GoodDayAtlanta"
+        },
+        {
+            "id": 1655755214,
+            "id_str": "1655755214",
+            "name": "Dr. Patrice Harris",
+            "screen_name": "PatriceHarrisMD"
+        }
+    ]
+}

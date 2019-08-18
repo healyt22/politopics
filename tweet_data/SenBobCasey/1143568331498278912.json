@@ -1,0 +1,105 @@
+{
+    "created_at": "Tue Jun 25 17:15:11 +0000 2019",
+    "hashtags": [],
+    "id": 1143568331498278912,
+    "id_str": "1143568331498278912",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Tue Jun 25 13:56:34 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [],
+        "id": 1143518348170452993,
+        "id_str": "1143518348170452993",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Yesterday, @POTUS signed into law the Pandemic and All-Hazards Preparedness and Advancing Innovation Act\u2014a bill I c\u2026 https://t.co/Rkd6dY6Xbm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143518348170452993",
+                "url": "https://t.co/Rkd6dY6Xbm"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 23 13:58:50 +0000 2009",
+            "description": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+            "favourites_count": 362,
+            "followers_count": 106282,
+            "friends_count": 475,
+            "geo_enabled": true,
+            "id": 76649729,
+            "id_str": "76649729",
+            "listed_count": 2624,
+            "location": "Maryville, TN",
+            "name": "Sen. Lamar Alexander",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/76649729/1554752469",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenAlexander",
+            "statuses_count": 6895,
+            "url": "https://t.co/NVVkJ8g3Rp",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 822215679726100480,
+                "id_str": "822215679726100480",
+                "name": "President Trump",
+                "screen_name": "POTUS"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SenAlexander: Yesterday, @POTUS signed into law the Pandemic and All-Hazards Preparedness and Advancing Innovation Act\u2014a bill I cospons\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 27 18:38:20 +0000 2010",
+        "description": "Official twitter profile for U.S. Senator Bob Casey.",
+        "favourites_count": 632,
+        "followers_count": 407748,
+        "friends_count": 638,
+        "geo_enabled": true,
+        "id": 171598736,
+        "id_str": "171598736",
+        "listed_count": 3056,
+        "location": "Scranton, PA",
+        "name": "Senator Bob Casey",
+        "profile_background_color": "162F53",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_link_color": "2F6291",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "screen_name": "SenBobCasey",
+        "statuses_count": 9153,
+        "url": "https://t.co/EghtimAhrt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 76649729,
+            "id_str": "76649729",
+            "name": "Sen. Lamar Alexander",
+            "screen_name": "SenAlexander"
+        },
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "created_at": "Tue Jun 25 20:52:29 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [
+        {
+            "text": "NoOPMGSAMerger"
+        }
+    ],
+    "id": 1143623019195244544,
+    "id_str": "1143623019195244544",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 25 19:59:01 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 1143609562894884868,
+        "id_str": "1143609562894884868",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "AFGE joined @NFFE_Union, @Teamsters, @MachinistsUnion, other unions, and allies to protest the Trump administration\u2026 https://t.co/SPaNuIwRgO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143609562894884868",
+                "url": "https://t.co/SPaNuIwRgO"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 15 18:19:10 +0000 2009",
+            "description": "Official Twitter Page for the American Federation of Government Employees \u2014 the largest federal employee union, representing 700,000 workers. RTs \u2260 endorsement.",
+            "favourites_count": 3802,
+            "followers_count": 13708,
+            "friends_count": 2760,
+            "geo_enabled": true,
+            "id": 47402168,
+            "id_str": "47402168",
+            "listed_count": 309,
+            "location": "Washington, DC",
+            "name": "AFGE",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/47402168/1398446902",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/606189129924268033/pS0rDZXu_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/606189129924268033/pS0rDZXu_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AFGENational",
+            "statuses_count": 19961,
+            "url": "http://t.co/jeieX05MfC"
+        },
+        "user_mentions": [
+            {
+                "id": 240289399,
+                "id_str": "240289399",
+                "name": "NFFE",
+                "screen_name": "NFFE_Union"
+            },
+            {
+                "id": 53176629,
+                "id_str": "53176629",
+                "name": "Teamsters",
+                "screen_name": "Teamsters"
+            },
+            {
+                "id": 74829020,
+                "id_str": "74829020",
+                "name": "Machinists Union",
+                "screen_name": "MachinistsUnion"
+            }
+        ]
+    },
+    "quoted_status_id": 1143609562894884868,
+    "quoted_status_id_str": "1143609562894884868",
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I stand in solidarity with @AFGENational &amp; @NFFE_Union against the OPM and GSA merger. #NoOPMGSAMerger https://t.co/L1EEB2lonp",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/AFGENational/status/1143609562894884868",
+            "url": "https://t.co/L1EEB2lonp"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 13 17:15:12 +0000 2018",
+        "default_profile": true,
+        "description": "Mom to two boys & two rescue labs. Former state Senator, prosecutor, and advocate for abused children. Congresswoman serving the people of #VA10.",
+        "favourites_count": 227,
+        "followers_count": 17431,
+        "friends_count": 1208,
+        "geo_enabled": true,
+        "id": 1017819745880543238,
+        "id_str": "1017819745880543238",
+        "listed_count": 246,
+        "location": "Leesburg, VA",
+        "name": "Rep. Jennifer Wexton",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017819745880543238/1552406965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1094358646962733057/H6-tqrBG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094358646962733057/H6-tqrBG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepWexton",
+        "statuses_count": 978,
+        "url": "https://t.co/nwaJ1qDT84",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 47402168,
+            "id_str": "47402168",
+            "name": "AFGE",
+            "screen_name": "AFGENational"
+        },
+        {
+            "id": 240289399,
+            "id_str": "240289399",
+            "name": "NFFE",
+            "screen_name": "NFFE_Union"
+        }
+    ]
+}

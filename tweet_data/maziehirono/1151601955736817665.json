@@ -1,0 +1,136 @@
+{
+    "created_at": "Wed Jul 17 21:17:56 +0000 2019",
+    "favorite_count": 228,
+    "hashtags": [],
+    "id": 1151601955736817665,
+    "id_str": "1151601955736817665",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 17 18:33:07 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [],
+        "id": 1151560479334178816,
+        "id_str": "1151560479334178816",
+        "lang": "en",
+        "place": {
+            "id": "07d9c965e1888000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c965e1888000.json",
+            "place_type": "poi",
+            "name": "Dirksen Senate Building",
+            "full_name": "Dirksen Senate Building",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ],
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ],
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ],
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Just finished a great meeting with @maziehirono !! Thank you for being so receptive and engaging with us\ud83d\ude4c\ud83c\udffc\ud83c\uddfa\ud83c\uddf8\u2764\ufe0f\n\nWe\u2026 https://t.co/RtPCa8wa2c",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151560479334178816",
+                "url": "https://t.co/RtPCa8wa2c"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 30 14:48:05 +0000 2009",
+            "description": "With Girls Inc. in her corner, every girl can grow up strong, smart, and bold. Tweets from our President & CEO Stephanie J. Hull signed - Stephanie.",
+            "favourites_count": 3126,
+            "followers_count": 55309,
+            "friends_count": 1050,
+            "geo_enabled": true,
+            "id": 27649492,
+            "id_str": "27649492",
+            "listed_count": 1441,
+            "location": "United States and Canada",
+            "name": "Girls Inc.",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27649492/1539612380",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1012772542023700482/GekbXJgu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012772542023700482/GekbXJgu_normal.jpg",
+            "profile_link_color": "ED1849",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EE324E",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "girls_inc",
+            "statuses_count": 9141,
+            "url": "http://t.co/pdb4vx7Gu1",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 92186819,
+                "id_str": "92186819",
+                "name": "Senator Mazie Hirono",
+                "screen_name": "maziehirono"
+            }
+        ]
+    },
+    "quoted_status_id": 1151560479334178816,
+    "quoted_status_id_str": "1151560479334178816",
+    "retweet_count": 29,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Thank you for coming to meet with me! It was a pleasure to meet all of you. https://t.co/9zSdlyKgz0",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/girls_inc/status/1151560479334178816",
+            "url": "https://t.co/9zSdlyKgz0"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Nov 24 03:10:37 +0000 2009",
+        "description": "U.S. Senator Mazie K. Hirono - Proudly Serving the People of Hawaii",
+        "favourites_count": 99,
+        "followers_count": 413255,
+        "friends_count": 1424,
+        "geo_enabled": true,
+        "id": 92186819,
+        "id_str": "92186819",
+        "listed_count": 3272,
+        "location": "Hawaii",
+        "name": "Senator Mazie Hirono",
+        "profile_background_color": "B7A7EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92186819/1519779404",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1130916929957445632/mkavgyCa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130916929957445632/mkavgyCa_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "maziehirono",
+        "statuses_count": 5639,
+        "url": "http://t.co/m4u3CFOBHg",
+        "verified": true
+    },
+    "user_mentions": []
+}

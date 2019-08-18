@@ -1,0 +1,103 @@
+{
+    "created_at": "Wed Jul 17 16:11:51 +0000 2019",
+    "hashtags": [],
+    "id": 1151524927423569923,
+    "id_str": "1151524927423569923",
+    "lang": "en",
+    "retweet_count": 330,
+    "retweeted_status": {
+        "created_at": "Wed Jul 17 14:40:28 +0000 2019",
+        "favorite_count": 1490,
+        "hashtags": [],
+        "id": 1151501931229192192,
+        "id_str": "1151501931229192192",
+        "lang": "en",
+        "retweet_count": 330,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "The cost of inaction on climate is increasingly higher than the cost of action \u2013 and that\u2019s why @SenateDems aren\u2019t\u2026 https://t.co/okLIK5W6gt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151501931229192192",
+                "url": "https://t.co/okLIK5W6gt"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 12 14:23:20 +0000 2013",
+            "description": "Tweets from the Office of U.S. Senator Brian Schatz, representing the great state of Hawaii.",
+            "favourites_count": 26,
+            "followers_count": 45214,
+            "friends_count": 1386,
+            "geo_enabled": true,
+            "id": 1262099252,
+            "id_str": "1262099252",
+            "listed_count": 1094,
+            "name": "Senator Brian Schatz",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262099252/1433862030",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/849770568677298176/dzXWNsOx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/849770568677298176/dzXWNsOx_normal.jpg",
+            "profile_link_color": "106B98",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenBrianSchatz",
+            "statuses_count": 1515,
+            "url": "https://t.co/gtDuP4fjqv",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 73238146,
+                "id_str": "73238146",
+                "name": "Senate Democrats",
+                "screen_name": "SenateDems"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SenBrianSchatz: The cost of inaction on climate is increasingly higher than the cost of action \u2013 and that\u2019s why @SenateDems aren\u2019t wait\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 20 20:53:22 +0000 2016",
+        "default_profile": true,
+        "description": "U.S. Senator from the great state of Nevada.",
+        "favourites_count": 1350,
+        "followers_count": 37611,
+        "friends_count": 797,
+        "id": 811313565760163844,
+        "id_str": "811313565760163844",
+        "listed_count": 895,
+        "name": "Senator Cortez Masto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/811313565760163844/1543508943",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1068180241258995712/DFf2se46_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068180241258995712/DFf2se46_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCortezMasto",
+        "statuses_count": 5509,
+        "url": "https://t.co/v6sRnbH7nI",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1262099252,
+            "id_str": "1262099252",
+            "name": "Senator Brian Schatz",
+            "screen_name": "SenBrianSchatz"
+        },
+        {
+            "id": 73238146,
+            "id_str": "73238146",
+            "name": "Senate Democrats",
+            "screen_name": "SenateDems"
+        }
+    ]
+}

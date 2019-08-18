@@ -1,0 +1,71 @@
+{
+    "created_at": "Wed May 15 16:42:07 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [
+        {
+            "text": "HackTheCapitol"
+        }
+    ],
+    "id": 1128702107249532928,
+    "id_str": "1128702107249532928",
+    "lang": "en",
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I was pleased to be back @TheWilsonCenter @ICS_Village &amp; @MasonNatSec\u2019s #HackTheCapitol conference this morning! It\u2026 https://t.co/fbedHS24GF",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1128702107249532928",
+            "url": "https://t.co/fbedHS24GF"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 12 18:36:58 +0000 2009",
+        "default_profile": true,
+        "description": "U.S. Congressman for Rhode Island's Second District",
+        "favourites_count": 2842,
+        "followers_count": 24513,
+        "friends_count": 4606,
+        "geo_enabled": true,
+        "id": 18909919,
+        "id_str": "18909919",
+        "listed_count": 1087,
+        "location": "Warwick, RI and Washington, DC",
+        "name": "Jim Langevin",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18909919/1540749532",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/601406584728748033/7161SuAe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/601406584728748033/7161SuAe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JimLangevin",
+        "statuses_count": 11273,
+        "url": "https://t.co/YIM4FH08Bf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 382129509,
+            "id_str": "382129509",
+            "name": "The Wilson Center",
+            "screen_name": "TheWilsonCenter"
+        },
+        {
+            "id": 2465145890,
+            "id_str": "2465145890",
+            "name": "ICS_Village",
+            "screen_name": "ICS_Village"
+        },
+        {
+            "id": 803989300987789312,
+            "id_str": "803989300987789312",
+            "name": "The National Security Institute",
+            "screen_name": "MasonNatSec"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "created_at": "Wed Jun 19 21:01:00 +0000 2019",
+    "favorite_count": 77,
+    "hashtags": [],
+    "id": 1141450832673554432,
+    "id_str": "1141450832673554432",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/TS61yWkJP8",
+            "expanded_url": "https://twitter.com/SenatorSinema/status/1141450832673554432/video/1",
+            "id": 1139272509038235660,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1139272509038235660/img/ke7kExT64jqCCgxL.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1139272509038235660/img/ke7kExT64jqCCgxL.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/TS61yWkJP8",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 26376,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1139272509038235660/vid/640x360/Jtd4kgFKZVTy68Wx.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1139272509038235660/vid/1280x720/NQpnw8iWWB7sewph.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1139272509038235660/vid/480x270/HWoWJYRPlcneT_6S.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1139272509038235660/pl/KE4SnED0VmKwyRzD.m3u8?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 11,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "We\u2019re working to prevent military sexual violence and hold perpetrators accountable. WATCH: https://t.co/TS61yWkJP8",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 11 20:31:03 +0000 2013",
+        "description": "Official Twitter feed of U.S. Senator Kyrsten Sinema, serving Arizona.",
+        "favourites_count": 15,
+        "followers_count": 98607,
+        "friends_count": 735,
+        "geo_enabled": true,
+        "id": 1080844782,
+        "id_str": "1080844782",
+        "listed_count": 1464,
+        "name": "Kyrsten Sinema",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080844782/1450970481",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1034130772406353921/X0F2Al0E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034130772406353921/X0F2Al0E_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorSinema",
+        "statuses_count": 11973,
+        "url": "https://t.co/WrlaMe6YPs",
+        "verified": true
+    },
+    "user_mentions": []
+}

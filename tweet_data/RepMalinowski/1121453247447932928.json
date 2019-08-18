@@ -1,0 +1,106 @@
+{
+    "created_at": "Thu Apr 25 16:37:44 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1121453247447932928,
+    "id_str": "1121453247447932928",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/FnK86trkXO",
+            "expanded_url": "https://twitter.com/RepMalinowski/status/1121453247447932928/video/1",
+            "id": 1121452672010289159,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121452672010289159/pu/img/yln1jxeO2QRZ7fbF.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121452672010289159/pu/img/yln1jxeO2QRZ7fbF.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/FnK86trkXO",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 118333,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1121452672010289159/pu/pl/s6rxfa2ZERIsYLVV.m3u8?tag=8"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1121452672010289159/pu/vid/640x360/xQkqsc_RkfRydSrA.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1121452672010289159/pu/vid/1280x720/S2ezXjbG8HB3f_8F.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1121452672010289159/pu/vid/320x180/y3bkbFagiyaXSNrg.mp4?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "This week @PBS39Channel covered Tom's PennEast Roundtable with impacted property owners. Check out Part 1 below. https://t.co/FnK86trkXO",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 18:45:46 +0000 2019",
+        "default_profile": true,
+        "description": "The official Twitter account of Congressman Tom Malinowski, of New Jersey's 7th district.",
+        "favourites_count": 28,
+        "followers_count": 3240,
+        "friends_count": 384,
+        "id": 1080898026418384897,
+        "id_str": "1080898026418384897",
+        "listed_count": 128,
+        "name": "Rep. Tom Malinowski",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080898026418384897/1547061220",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMalinowski",
+        "statuses_count": 237,
+        "url": "https://t.co/xKfFUaXQDL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22657322,
+            "id_str": "22657322",
+            "name": "PBS39",
+            "screen_name": "PBS39Channel"
+        }
+    ]
+}

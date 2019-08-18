@@ -1,0 +1,134 @@
+{
+    "created_at": "Thu Jul 11 14:36:42 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [
+        {
+            "text": "ksleg"
+        },
+        {
+            "text": "ks02"
+        },
+        {
+            "text": "KsEd"
+        }
+    ],
+    "id": 1149326656324145154,
+    "id_str": "1149326656324145154",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 09 19:53:53 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1148681699523473408,
+        "id_str": "1148681699523473408",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Dzoa4C2C0F",
+                "expanded_url": "https://twitter.com/ksuburke/status/1148681699523473408/photo/1",
+                "id": 1148681662701744128,
+                "media_url": "http://pbs.twimg.com/media/D_Dv4uFXsAAcYR-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_Dv4uFXsAAcYR-.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Dzoa4C2C0F"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Appreciate spending time with Rep. Steve Watkins and talking about education advocacy. \u2066@SHSchools\u2069 https://t.co/Dzoa4C2C0F",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Jun 16 02:58:32 +0000 2012",
+            "default_profile": true,
+            "description": "SH Superintendent (Yes!), Family Man, K-Stater, Fan of SHSD Activities, Praying for Wisdom while Leading",
+            "favourites_count": 516,
+            "followers_count": 460,
+            "friends_count": 348,
+            "id": 609638638,
+            "id_str": "609638638",
+            "listed_count": 6,
+            "location": "Spring Hill & Olathe, KS",
+            "name": "Wayne Burke",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/609638638/1406735200",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/494509174701584384/lwWsf3wz_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/494509174701584384/lwWsf3wz_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ksuburke",
+            "statuses_count": 660
+        },
+        "user_mentions": [
+            {
+                "id": 558892135,
+                "id_str": "558892135",
+                "name": "Spring Hill USD 230",
+                "screen_name": "SHSchools"
+            }
+        ]
+    },
+    "quoted_status_id": 1148681699523473408,
+    "quoted_status_id_str": "1148681699523473408",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The pleasure was all mine. Thanks for coming by! \n\n#ksleg #ks02 #KsEd https://t.co/eRUXeQZw7r",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/ksuburke/status/1148681699523473408",
+            "url": "https://t.co/eRUXeQZw7r"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 03:38:10 +0000 2019",
+        "default_profile": true,
+        "description": "Representing Kansas\u2019 2nd District in Congress",
+        "favourites_count": 76,
+        "followers_count": 2946,
+        "friends_count": 2531,
+        "id": 1080307235350241280,
+        "id_str": "1080307235350241280",
+        "listed_count": 113,
+        "location": "Topeka, KS",
+        "name": "Rep. Steve Watkins",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080307235350241280/1560113721",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137822687261339648/72oI1Vb9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137822687261339648/72oI1Vb9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Rep_Watkins",
+        "statuses_count": 430,
+        "url": "https://t.co/NOVR7WJIol",
+        "verified": true
+    },
+    "user_mentions": []
+}

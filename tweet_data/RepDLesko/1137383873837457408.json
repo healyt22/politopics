@@ -1,0 +1,96 @@
+{
+    "created_at": "Sat Jun 08 15:40:21 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 1137383873837457408,
+    "id_str": "1137383873837457408",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/nbOKY1SCft",
+            "expanded_url": "https://twitter.com/RepDLesko/status/1137383873837457408/video/1",
+            "id": 1137383823119986689,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137383823119986689/pu/img/VCgLE99pwk9mDWzz.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137383823119986689/pu/img/VCgLE99pwk9mDWzz.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 544,
+                    "h": 304,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 544,
+                    "h": 304,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 544,
+                    "h": 304,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/nbOKY1SCft",
+            "video_info": {
+                "aspect_ratio": [
+                    34,
+                    19
+                ],
+                "duration_millis": 28879,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137383823119986689/pu/vid/482x270/dbfyDb0EOb-Lmd9x.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137383823119986689/pu/vid/544x304/fU7HDtpbI_TWP7T6.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1137383823119986689/pu/pl/g050mwVnObTSGRvK.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Port Security tour at Maher Terminal at Port of NY/NJ. https://t.co/nbOKY1SCft",
+    "urls": [],
+    "user": {
+        "created_at": "Mon May 14 18:28:32 +0000 2018",
+        "default_profile": true,
+        "description": "Proudly representing Arizona's 8th Congressional District in Congress. Member of @HomelandGOP, @JudiciaryGOP and  @RulesReps. #AZ08",
+        "favourites_count": 565,
+        "followers_count": 12683,
+        "friends_count": 818,
+        "geo_enabled": true,
+        "id": 996094929733652481,
+        "id_str": "996094929733652481",
+        "listed_count": 270,
+        "location": "Arizona, USA",
+        "name": "Congresswoman Debbie Lesko",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/996094929733652481/1526491101",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020421037685649408/o5l6JXcP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020421037685649408/o5l6JXcP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDLesko",
+        "statuses_count": 1227,
+        "url": "https://t.co/NCZAf6lLOd",
+        "verified": true
+    },
+    "user_mentions": []
+}

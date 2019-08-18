@@ -1,0 +1,129 @@
+{
+    "created_at": "Mon May 13 20:31:50 +0000 2019",
+    "hashtags": [],
+    "id": 1128035144034586624,
+    "id_str": "1128035144034586624",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Mon May 13 20:31:31 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1128035061499027458,
+        "id_str": "1128035061499027458",
+        "in_reply_to_screen_name": "HouseAdm_Dems",
+        "in_reply_to_status_id": 1128031500891561984,
+        "in_reply_to_user_id": 19716781,
+        "lang": "en",
+        "place": {
+            "id": "92220986b9dfd67d",
+            "url": "https://api.twitter.com/1.1/geo/id/92220986b9dfd67d.json",
+            "place_type": "city",
+            "name": "Birmingham",
+            "full_name": "Birmingham, AL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.967333,
+                            33.405025
+                        ],
+                        [
+                            -86.620501,
+                            33.405025
+                        ],
+                        [
+                            -86.620501,
+                            33.67945
+                        ],
+                        [
+                            -86.967333,
+                            33.67945
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Packed house at the Birmingham City Hall for the Election Subcommittee's field hearing on Voting Rights and Electio\u2026 https://t.co/qD82ecmUys",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1128035061499027458",
+                "url": "https://t.co/qD82ecmUys"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 29 15:55:44 +0000 2009",
+            "description": "Dem Committee on House Administration, US House of Reps with jurisdictions on fed elections, & oversight of House personnel-security-technology-admin functions",
+            "favourites_count": 288,
+            "followers_count": 4027,
+            "friends_count": 495,
+            "geo_enabled": true,
+            "id": 19716781,
+            "id_str": "19716781",
+            "listed_count": 156,
+            "location": "Washington, DC",
+            "name": "CHA Dems",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19716781/1498500842",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1081232124974432257/I1LNtUYF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081232124974432257/I1LNtUYF_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HouseAdm_Dems",
+            "statuses_count": 3982,
+            "url": "http://t.co/V39QpuB5k0",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @HouseAdm_Dems: Packed house at the Birmingham City Hall for the Election Subcommittee's field hearing on Voting Rights and Election Adm\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 09 17:17:22 +0000 2011",
+        "description": "U. S. Representative, proudly serving North Carolina's 1st Congressional District. Follow my work in Washington and #NC01.",
+        "favourites_count": 1827,
+        "followers_count": 18879,
+        "friends_count": 867,
+        "geo_enabled": true,
+        "id": 432676344,
+        "id_str": "432676344",
+        "listed_count": 843,
+        "name": "G. K. Butterfield",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/432676344/1519921506",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1108574414382264323/HQrhf_eC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108574414382264323/HQrhf_eC_normal.jpg",
+        "profile_link_color": "005FB3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "GKButterfield",
+        "statuses_count": 5707,
+        "url": "https://t.co/TqwPgzUt7E",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19716781,
+            "id_str": "19716781",
+            "name": "CHA Dems",
+            "screen_name": "HouseAdm_Dems"
+        }
+    ]
+}

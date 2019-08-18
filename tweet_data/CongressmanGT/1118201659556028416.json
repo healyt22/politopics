@@ -1,0 +1,92 @@
+{
+    "created_at": "Tue Apr 16 17:17:05 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "SaintMarys"
+        },
+        {
+            "text": "ElkCounty"
+        },
+        {
+            "text": "LifeMatters"
+        }
+    ],
+    "id": 1118201659556028416,
+    "id_str": "1118201659556028416",
+    "lang": "en",
+    "place": {
+        "id": "570369321247398f",
+        "url": "https://api.twitter.com/1.1/geo/id/570369321247398f.json",
+        "place_type": "city",
+        "name": "St Marys",
+        "full_name": "St Marys, PA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -78.585289,
+                        41.3972517
+                    ],
+                    [
+                        -78.51001,
+                        41.3972517
+                    ],
+                    [
+                        -78.51001,
+                        41.46813
+                    ],
+                    [
+                        -78.585289,
+                        41.46813
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "In #SaintMarys #ElkCounty this AM meeting with Pastors &amp; citizens that are members of the  #LifeMatters Group.  Sha\u2026 https://t.co/SX4qU60CSU",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1118201659556028416",
+            "url": "https://t.co/SX4qU60CSU"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 14 04:54:58 +0000 2009",
+        "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania's 15th Congressional District. #PA15",
+        "favourites_count": 368,
+        "followers_count": 20504,
+        "friends_count": 2970,
+        "geo_enabled": true,
+        "id": 18967498,
+        "id_str": "18967498",
+        "listed_count": 1175,
+        "location": "Howard, Pennsylvania",
+        "name": "Glenn 'GT' Thompson",
+        "profile_background_color": "383B78",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18967498/1546544253",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/80797190/Offical_Photo_twitter_normal.JPG",
+        "profile_link_color": "0E17B5",
+        "profile_sidebar_border_color": "F7EFF7",
+        "profile_sidebar_fill_color": "FCFF57",
+        "profile_text_color": "0A090A",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanGT",
+        "statuses_count": 7403,
+        "url": "http://t.co/DvqrekKjtb",
+        "verified": true
+    },
+    "user_mentions": []
+}

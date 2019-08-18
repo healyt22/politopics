@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed Jul 03 19:51:09 +0000 2019",
+    "hashtags": [],
+    "id": 1146506685323927554,
+    "id_str": "1146506685323927554",
+    "lang": "en",
+    "retweet_count": 19,
+    "retweeted_status": {
+        "created_at": "Wed Jul 03 17:10:04 +0000 2019",
+        "favorite_count": 32,
+        "hashtags": [],
+        "id": 1146466148923449344,
+        "id_str": "1146466148923449344",
+        "lang": "en",
+        "retweet_count": 19,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": ".@frankcannonAPP writes in @townhallcom: \"(@HawleyMO's) prescriptions are right on the mark. The evidence is overwh\u2026 https://t.co/tys9Rqteen",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146466148923449344",
+                "url": "https://t.co/tys9Rqteen"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 31 19:36:25 +0000 2009",
+            "description": "The American Principles Project is a non-profit organization dedicated to defending our founding principles.",
+            "favourites_count": 599,
+            "followers_count": 4091,
+            "friends_count": 992,
+            "geo_enabled": true,
+            "id": 27943436,
+            "id_str": "27943436",
+            "listed_count": 190,
+            "location": "Washington, DC",
+            "name": "American Principles",
+            "profile_background_color": "F0DFD8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27943436/1557262015",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1125864541345198087/tqeMyAQz_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125864541345198087/tqeMyAQz_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "DFDFDF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "2E2E2E",
+            "profile_use_background_image": true,
+            "screen_name": "approject",
+            "statuses_count": 12589,
+            "url": "https://t.co/3i1VPJVD6S",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 4025405524,
+                "id_str": "4025405524",
+                "name": "Frank Cannon",
+                "screen_name": "frankcannonAPP"
+            },
+            {
+                "id": 28614262,
+                "id_str": "28614262",
+                "name": "Townhall.com",
+                "screen_name": "townhallcom"
+            },
+            {
+                "id": 2352629311,
+                "id_str": "2352629311",
+                "name": "Josh Hawley",
+                "screen_name": "HawleyMO"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @approject: .@frankcannonAPP writes in @townhallcom: \"(@HawleyMO's) prescriptions are right on the mark. The evidence is overwhelming th\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 22:55:42 +0000 2019",
+        "default_profile": true,
+        "description": "Tweets from the office of U.S. Senator Josh Hawley",
+        "favourites_count": 274,
+        "followers_count": 4484,
+        "friends_count": 762,
+        "geo_enabled": true,
+        "id": 1080960924687704064,
+        "id_str": "1080960924687704064",
+        "listed_count": 125,
+        "location": "Missouri",
+        "name": "Senator Hawley Press Office",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080960924687704064/1565014200",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenHawleyPress",
+        "statuses_count": 614,
+        "url": "https://t.co/P2uqbfyKpN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 27943436,
+            "id_str": "27943436",
+            "name": "American Principles",
+            "screen_name": "approject"
+        },
+        {
+            "id": 4025405524,
+            "id_str": "4025405524",
+            "name": "Frank Cannon",
+            "screen_name": "frankcannonAPP"
+        },
+        {
+            "id": 28614262,
+            "id_str": "28614262",
+            "name": "Townhall.com",
+            "screen_name": "townhallcom"
+        },
+        {
+            "id": 2352629311,
+            "id_str": "2352629311",
+            "name": "Josh Hawley",
+            "screen_name": "HawleyMO"
+        }
+    ]
+}

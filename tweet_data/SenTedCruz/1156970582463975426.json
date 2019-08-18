@@ -1,0 +1,166 @@
+{
+    "created_at": "Thu Aug 01 16:50:56 +0000 2019",
+    "hashtags": [
+        {
+            "text": "YAFCon"
+        }
+    ],
+    "id": 1156970582463975426,
+    "id_str": "1156970582463975426",
+    "lang": "en",
+    "retweet_count": 36,
+    "retweeted_status": {
+        "created_at": "Thu Aug 01 16:50:38 +0000 2019",
+        "favorite_count": 105,
+        "hashtags": [
+            {
+                "text": "YAFCon"
+            }
+        ],
+        "id": 1156970505511067648,
+        "id_str": "1156970505511067648",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 36,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "WATCH LIVE:\n\n@tedcruz addresses #YAFCon!\n\n@SenTedCruz \n\nhttps://t.co/cvUe1nHQgg",
+        "urls": [
+            {
+                "expanded_url": "https://youtu.be/XVENJSATr_A",
+                "url": "https://t.co/cvUe1nHQgg"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Sep 05 20:04:51 +0000 2008",
+            "description": "Young America's Foundation introduces students to conservatism through our campus programs and conferences. The Foundation also preserves the Reagan Ranch.",
+            "favourites_count": 6073,
+            "followers_count": 80158,
+            "friends_count": 1478,
+            "geo_enabled": true,
+            "id": 16148677,
+            "id_str": "16148677",
+            "listed_count": 696,
+            "location": "Reston, VA",
+            "name": "YAF",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16148677/1555353489",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1069741969755267072/40LtbwZY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069741969755267072/40LtbwZY_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "yaf",
+            "statuses_count": 26225,
+            "url": "https://t.co/mSRQ1ALH3M",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 23022687,
+                "id_str": "23022687",
+                "name": "Ted Cruz",
+                "screen_name": "tedcruz"
+            },
+            {
+                "id": 1074480192,
+                "id_str": "1074480192",
+                "name": "Senator Ted Cruz",
+                "screen_name": "SenTedCruz"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @yaf: WATCH LIVE:\n\n@tedcruz addresses #YAFCon!\n\n@SenTedCruz \n\nhttps://t.co/cvUe1nHQgg",
+    "urls": [
+        {
+            "expanded_url": "https://youtu.be/XVENJSATr_A",
+            "url": "https://t.co/cvUe1nHQgg"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 09 18:11:37 +0000 2013",
+        "description": "Representing the State of Texas in the United States Senate.",
+        "favourites_count": 406,
+        "followers_count": 1276203,
+        "friends_count": 6968,
+        "geo_enabled": true,
+        "id": 1074480192,
+        "id_str": "1074480192",
+        "listed_count": 8507,
+        "location": "Houston, Texas",
+        "name": "Senator Ted Cruz",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074480192/1515618797",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenTedCruz",
+        "statuses_count": 10974,
+        "url": "https://t.co/9HWCyvsTvJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16148677,
+            "id_str": "16148677",
+            "name": "YAF",
+            "screen_name": "yaf"
+        },
+        {
+            "id": 23022687,
+            "id_str": "23022687",
+            "name": "Ted Cruz",
+            "screen_name": "tedcruz"
+        },
+        {
+            "id": 1074480192,
+            "id_str": "1074480192",
+            "name": "Senator Ted Cruz",
+            "screen_name": "SenTedCruz"
+        }
+    ]
+}

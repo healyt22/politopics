@@ -1,0 +1,81 @@
+{
+    "created_at": "Tue Jun 11 23:39:08 +0000 2019",
+    "favorite_count": 43,
+    "hashtags": [],
+    "id": 1138591527691849728,
+    "id_str": "1138591527691849728",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ZRpKQ4dm8e",
+            "expanded_url": "https://twitter.com/RepCheri/status/1138591527691849728/photo/1",
+            "id": 1138591517025755136,
+            "media_url": "http://pbs.twimg.com/media/D80W88SX4AApR0G.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D80W88SX4AApR0G.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZRpKQ4dm8e"
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "About to play @hardball on MSNBC \u2014 tune in! https://t.co/ZRpKQ4dm8e",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 15 19:15:03 +0000 2013",
+        "description": "Serving Illinois\u2019 17th District. Former reporter working in Congress #ForThePeople. Athlete, wife and mother of three sons. Facebook & Instagram: RepCheri.",
+        "favourites_count": 1499,
+        "followers_count": 32503,
+        "friends_count": 4331,
+        "geo_enabled": true,
+        "id": 1092979962,
+        "id_str": "1092979962",
+        "listed_count": 1048,
+        "location": "Illinois & Washington, D.C.",
+        "name": "Rep. Cheri Bustos",
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092979962/1503426213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877925390517403648/e6agUl46_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877925390517403648/e6agUl46_normal.jpg",
+        "profile_link_color": "7F06A6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "screen_name": "RepCheri",
+        "statuses_count": 4666,
+        "url": "https://t.co/o22FqkWab3",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 205864193,
+            "id_str": "205864193",
+            "name": "Hardball",
+            "screen_name": "hardball"
+        }
+    ]
+}

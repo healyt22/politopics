@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Aug 07 23:00:08 +0000 2019",
+    "favorite_count": 58,
+    "hashtags": [],
+    "id": 1159237821389053954,
+    "id_str": "1159237821389053954",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Aug 07 20:10:03 +0000 2019",
+        "favorite_count": 46,
+        "hashtags": [],
+        "id": 1159195018801926146,
+        "id_str": "1159195018801926146",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/SPbhW9x2UT",
+                "expanded_url": "https://twitter.com/thehill/status/1159195018801926146/photo/1",
+                "id": 1159195017367490563,
+                "media_url": "http://pbs.twimg.com/media/EBZJugOXkAMQw1q.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBZJugOXkAMQw1q.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/SPbhW9x2UT"
+            }
+        ],
+        "retweet_count": 41,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "JUST IN: Trump slams Ohio Democrats after visit to Dayton hospital https://t.co/OWSRRBU3a0 https://t.co/SPbhW9x2UT",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/m9tMbMU",
+                "url": "https://t.co/OWSRRBU3a0"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3356620,
+            "friends_count": 256,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26244,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 609593,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1159195018801926146,
+    "quoted_status_id_str": "1159195018801926146",
+    "retweet_count": 21,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "While in Dayton the uniter-in-chief takes time to attack more people and then shoots a pseudo campaign video visiti\u2026 https://t.co/Qn1JpsK8ZT",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1159237821389053954",
+            "url": "https://t.co/Qn1JpsK8ZT"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 15 17:54:32 +0000 2009",
+        "description": "Representing the 9th District of New Jersey in the House of Representatives. Member, Ways & Means Committee.",
+        "favourites_count": 5727,
+        "followers_count": 47462,
+        "friends_count": 95,
+        "geo_enabled": true,
+        "id": 74508260,
+        "id_str": "74508260",
+        "listed_count": 1038,
+        "location": "Paterson, NJ",
+        "name": "Bill Pascrell, Jr.",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74508260/1486055628",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979359893214912512/pazrRFes_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979359893214912512/pazrRFes_normal.jpg",
+        "profile_link_color": "004080",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "BillPascrell",
+        "statuses_count": 4345,
+        "url": "https://t.co/q9EtRgyxbk",
+        "verified": true
+    },
+    "user_mentions": []
+}

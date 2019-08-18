@@ -1,0 +1,107 @@
+{
+    "created_at": "Thu Jun 20 18:45:49 +0000 2019",
+    "hashtags": [],
+    "id": 1141779200170442752,
+    "id_str": "1141779200170442752",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Jun 20 18:44:55 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1141778975049551872,
+        "id_str": "1141778975049551872",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Yesterday, we held a hearing with @DeptVetAffairs and community organizations to discuss ongoing efforts to reduce\u2026 https://t.co/oTDhV2J5x5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141778975049551872",
+                "url": "https://t.co/oTDhV2J5x5"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Dec 13 15:27:24 +0000 2012",
+            "description": "News and updates from the U.S. Senate Committee on Veterans' Affairs Chairman, Sen. Johnny Isakson, R-Ga. @SenatorIsakson",
+            "favourites_count": 672,
+            "followers_count": 7170,
+            "friends_count": 137,
+            "geo_enabled": true,
+            "id": 1009054656,
+            "id_str": "1009054656",
+            "listed_count": 231,
+            "location": "412 Russell Senate Building",
+            "name": "Senate VA Committee",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009054656/1504097776",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/902877732417060865/j75yU_Vb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/902877732417060865/j75yU_Vb_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "VAChair",
+            "statuses_count": 1990,
+            "url": "http://t.co/j4YeHOEO",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 78408666,
+                "id_str": "78408666",
+                "name": "Veterans Affairs",
+                "screen_name": "DeptVetAffairs"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @VAChair: Yesterday, we held a hearing with @DeptVetAffairs and community organizations to discuss ongoing efforts to reduce veteran sui\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 29 20:09:30 +0000 2009",
+        "description": "U.S. Senator Johnny Isakson, R-Ga. | Committees: Veterans' Affairs, Chairman; Ethics, Chairman; Foreign Relations; HELP; Finance.\nKeep comments family friendly.",
+        "favourites_count": 819,
+        "followers_count": 66373,
+        "friends_count": 456,
+        "geo_enabled": true,
+        "id": 78403308,
+        "id_str": "78403308",
+        "listed_count": 2132,
+        "location": "GA & DC",
+        "name": "Johnny Isakson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78403308/1488812068",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorIsakson",
+        "statuses_count": 6318,
+        "url": "http://t.co/n3mMYfmg5C",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1009054656,
+            "id_str": "1009054656",
+            "name": "Senate VA Committee",
+            "screen_name": "VAChair"
+        },
+        {
+            "id": 78408666,
+            "id_str": "78408666",
+            "name": "Veterans Affairs",
+            "screen_name": "DeptVetAffairs"
+        }
+    ]
+}

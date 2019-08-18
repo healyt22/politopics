@@ -1,0 +1,103 @@
+{
+    "created_at": "Thu Dec 20 19:02:51 +0000 2018",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1075828896875073536,
+    "id_str": "1075828896875073536",
+    "in_reply_to_screen_name": "JimPressOffice",
+    "in_reply_to_status_id": 1075828895339945985,
+    "in_reply_to_user_id": 851621377,
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/2B2dEVw9rE",
+            "expanded_url": "https://twitter.com/JimPressOffice/status/1075828896875073536/video/1",
+            "id": 1075828706306859008,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1075828706306859008/pu/img/RxXZoGU-pStDH88h.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1075828706306859008/pu/img/RxXZoGU-pStDH88h.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/2B2dEVw9rE",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 115348,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1075828706306859008/pu/vid/1280x720/tvh2Zmx8gO-D-pnv.mp4?tag=6"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1075828706306859008/pu/pl/P_DEE7sSIfJ6_CkH.m3u8?tag=6"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1075828706306859008/pu/vid/320x180/R9VvDWwGJvFg29Y3.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1075828706306859008/pu/vid/640x360/X4OfXrTUUI6XTtQA.mp4?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "https://t.co/2B2dEVw9rE",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 28 19:31:33 +0000 2012",
+        "description": "Press Office of Congressman Jim Sensenbrenner, representing Wisconsin's Fifth District. Former Chair of House Judiciary Committee.",
+        "favourites_count": 350,
+        "followers_count": 9096,
+        "friends_count": 624,
+        "geo_enabled": true,
+        "id": 851621377,
+        "id_str": "851621377",
+        "listed_count": 590,
+        "name": "Sensenbrenner Press",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/851621377/1462220205",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JimPressOffice",
+        "statuses_count": 1517,
+        "url": "http://t.co/VNdLE9VEEs",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,135 @@
+{
+    "created_at": "Fri Oct 26 16:36:20 +0000 2018",
+    "hashtags": [],
+    "id": 1055860692614594560,
+    "id_str": "1055860692614594560",
+    "lang": "en",
+    "retweet_count": 1981,
+    "retweeted_status": {
+        "created_at": "Fri Oct 26 15:29:04 +0000 2018",
+        "favorite_count": 11113,
+        "hashtags": [],
+        "id": 1055843765238353920,
+        "id_str": "1055843765238353920",
+        "lang": "en",
+        "place": {
+            "id": "6ffcf3b0b904bbcb",
+            "url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json",
+            "place_type": "admin",
+            "name": "Kentucky",
+            "full_name": "Kentucky, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.57151,
+                            36.497129
+                        ],
+                        [
+                            -81.964971,
+                            36.497129
+                        ],
+                        [
+                            -81.964971,
+                            39.147359
+                        ],
+                        [
+                            -89.57151,
+                            39.147359
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1981,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Great to see the amazing facility &amp; programs at eKentucky Advanced Manufacturing Institute. \nThank you\u2026 https://t.co/DOqvRxqEea",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1055843765238353920",
+                "url": "https://t.co/DOqvRxqEea"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+            "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+            "favourites_count": 2037,
+            "followers_count": 6839252,
+            "friends_count": 1401,
+            "geo_enabled": true,
+            "id": 52544275,
+            "id_str": "52544275",
+            "listed_count": 21348,
+            "location": "Washington, DC",
+            "name": "Ivanka Trump",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+            "profile_link_color": "FF6872",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "IvankaTrump",
+            "statuses_count": 15766,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @IvankaTrump: Great to see the amazing facility &amp; programs at eKentucky Advanced Manufacturing Institute. \nThank you @GovMattBevin &amp; @Re\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Apr 10 19:59:22 +0000 2012",
+        "default_profile": true,
+        "description": "Representing the people of Southern and Eastern Kentucky and serving as Chairman of the U.S. House Appropriations Subcommittee on State and Foreign Operations",
+        "favourites_count": 1085,
+        "followers_count": 16643,
+        "friends_count": 741,
+        "geo_enabled": true,
+        "id": 550401754,
+        "id_str": "550401754",
+        "listed_count": 713,
+        "location": "Somerset, KY",
+        "name": "Hal Rogers",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550401754/1478819972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHalRogers",
+        "statuses_count": 3758,
+        "url": "https://t.co/MNkQuDdocD",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 52544275,
+            "id_str": "52544275",
+            "name": "Ivanka Trump",
+            "screen_name": "IvankaTrump"
+        },
+        {
+            "id": 3141213592,
+            "id_str": "3141213592",
+            "name": "Governor Matt Bevin",
+            "screen_name": "GovMattBevin"
+        }
+    ]
+}

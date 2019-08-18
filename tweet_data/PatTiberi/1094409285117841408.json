@@ -1,0 +1,77 @@
+{
+    "created_at": "Sun Feb 10 01:34:41 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [],
+    "id": 1094409285117841408,
+    "id_str": "1094409285117841408",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/BVb3gTwff0",
+            "expanded_url": "https://twitter.com/PatTiberi/status/1094409285117841408/photo/1",
+            "id": 1094409274254450689,
+            "media_url": "http://pbs.twimg.com/media/DzAfb77UYAEnyV5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DzAfb77UYAEnyV5.jpg",
+            "sizes": {
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/BVb3gTwff0"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "3 ladies representing a former Congressman!@alissarcher1\u2069, \u2066@angelina_t6\u2069, https://t.co/BVb3gTwff0",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Oct 29 15:02:02 +0000 2012",
+        "description": "Husband, Father, Son, OSU Alum, TBDBITL, #Buckeye fan.",
+        "favourites_count": 765,
+        "followers_count": 15247,
+        "friends_count": 892,
+        "id": 912608010,
+        "id_str": "912608010",
+        "listed_count": 507,
+        "name": "Pat Tiberi",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1042077847714783232/M11u-sm__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042077847714783232/M11u-sm__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "PatTiberi",
+        "statuses_count": 3697,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 853725153100001281,
+            "id_str": "853725153100001281",
+            "name": "Angelina Tiberi",
+            "screen_name": "angelina_t6"
+        }
+    ]
+}

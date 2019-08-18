@@ -1,0 +1,125 @@
+{
+    "created_at": "Wed Jul 31 13:37:31 +0000 2019",
+    "hashtags": [
+        {
+            "text": "ICYMI"
+        },
+        {
+            "text": "cannabis"
+        }
+    ],
+    "id": 1156559518530265093,
+    "id_str": "1156559518530265093",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Jul 31 12:57:00 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "ICYMI"
+            },
+            {
+                "text": "cannabis"
+            }
+        ],
+        "id": 1156549322353369094,
+        "id_str": "1156549322353369094",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "text": "#ICYMI: @SenateBanking held a hearing last week regarding #cannabis. While mainly focused on banking,\u2026 https://t.co/WdPbv1L369",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156549322353369094",
+                "url": "https://t.co/WdPbv1L369"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 24 13:12:50 +0000 2009",
+            "description": "Founded in 1895, the National Association of Mutual Insurance Companies (NAMIC) is the nation's largest property/casualty trade association.",
+            "favourites_count": 694,
+            "followers_count": 7664,
+            "friends_count": 536,
+            "id": 50300435,
+            "id_str": "50300435",
+            "listed_count": 200,
+            "location": "Indianapolis, IN",
+            "name": "NAMIC",
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/50300435/1537443439",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/913158575874174976/wquAafy-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/913158575874174976/wquAafy-_normal.jpg",
+            "profile_link_color": "006699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NAMIC",
+            "statuses_count": 4283,
+            "url": "http://t.co/aqPnIvn2Ek"
+        },
+        "user_mentions": [
+            {
+                "id": 104324860,
+                "id_str": "104324860",
+                "name": "Senate Banking Democrats",
+                "screen_name": "SenateBanking"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @NAMIC: #ICYMI: @SenateBanking held a hearing last week regarding #cannabis. While mainly focused on banking, @SenatorMenendez expressed\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 06 21:01:12 +0000 2009",
+        "description": "U.S. Senator from New Jersey. \ud83c\uddfa\ud83c\uddf8 Proud father of Alicia & Rob. Proud grandfather of Evangelina.",
+        "favourites_count": 2064,
+        "followers_count": 163554,
+        "friends_count": 986,
+        "geo_enabled": true,
+        "id": 18695134,
+        "id_str": "18695134",
+        "listed_count": 3798,
+        "location": "New Jersey, USA",
+        "name": "Senator Bob Menendez",
+        "profile_background_color": "273447",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18695134/1545829307",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1138088998419800064/bGqy6DbH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138088998419800064/bGqy6DbH_normal.png",
+        "profile_link_color": "3283D1",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorMenendez",
+        "statuses_count": 10814,
+        "url": "https://t.co/P6lBJPCjWi",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 50300435,
+            "id_str": "50300435",
+            "name": "NAMIC",
+            "screen_name": "NAMIC"
+        },
+        {
+            "id": 104324860,
+            "id_str": "104324860",
+            "name": "Senate Banking Democrats",
+            "screen_name": "SenateBanking"
+        },
+        {
+            "id": 18695134,
+            "id_str": "18695134",
+            "name": "Senator Bob Menendez",
+            "screen_name": "SenatorMenendez"
+        }
+    ]
+}

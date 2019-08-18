@@ -1,0 +1,138 @@
+{
+    "created_at": "Mon Aug 05 14:43:38 +0000 2019",
+    "favorite_count": 44,
+    "hashtags": [],
+    "id": 1158388095290617856,
+    "id_str": "1158388095290617856",
+    "lang": "en",
+    "place": {
+        "id": "3b77caf94bfc81fe",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+        "place_type": "city",
+        "name": "Los Angeles",
+        "full_name": "Los Angeles, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Mon Aug 05 14:21:12 +0000 2019",
+        "favorite_count": 86,
+        "hashtags": [],
+        "id": 1158382450151743489,
+        "id_str": "1158382450151743489",
+        "lang": "en",
+        "retweet_count": 29,
+        "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+        "text": "President Trump: \"These barbaric slaughters are an assault upon our communities, an attack upon our nation and a cr\u2026 https://t.co/9FW2SDvwJ8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1158382450151743489",
+                "url": "https://t.co/9FW2SDvwJ8"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 31 14:29:10 +0000 2008",
+            "description": "Capitol Hill. The White House. National Politics.",
+            "favourites_count": 1460,
+            "followers_count": 1960406,
+            "friends_count": 8840,
+            "geo_enabled": true,
+            "id": 15675138,
+            "id_str": "15675138",
+            "listed_count": 13895,
+            "location": "Washington, D.C.",
+            "name": "CSPAN",
+            "profile_background_color": "04005F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1552903501",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+            "profile_link_color": "04007D",
+            "profile_sidebar_border_color": "00012B",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "cspan",
+            "statuses_count": 40808,
+            "url": "https://t.co/L3A4afzX6T",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1158382450151743489,
+    "quoted_status_id_str": "1158382450151743489",
+    "retweet_count": 12,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "A few questions:\n\nWhy did @realDonaldTrump fail to mention the urgent need for universal background checks?\n\nWhy do\u2026 https://t.co/7Eg2VYG4eu",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1158388095290617856",
+            "url": "https://t.co/7Eg2VYG4eu"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Mar 04 03:56:14 +0000 2014",
+        "default_profile": true,
+        "description": "Official account for U.S. Congressman Jimmy Gomez (CA-34, Los Angeles). Cmtees: @WaysMeansCmte @OversightDems Find us on FB: https://t.co/1pRH7kHn00",
+        "favourites_count": 1047,
+        "followers_count": 11543,
+        "friends_count": 3471,
+        "geo_enabled": true,
+        "id": 2371339658,
+        "id_str": "2371339658",
+        "listed_count": 404,
+        "location": "Los Angeles, CA",
+        "name": "Rep. Jimmy Gomez",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2371339658/1522043572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978147788667027456/Sshj14W0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978147788667027456/Sshj14W0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJimmyGomez",
+        "statuses_count": 3097,
+        "url": "https://t.co/PTPcf8ooHN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

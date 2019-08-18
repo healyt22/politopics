@@ -1,0 +1,80 @@
+{
+    "created_at": "Fri Jul 26 19:48:51 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1154841025850105856,
+    "id_str": "1154841025850105856",
+    "lang": "en",
+    "place": {
+        "id": "fe21a4e65fc5a590",
+        "url": "https://api.twitter.com/1.1/geo/id/fe21a4e65fc5a590.json",
+        "place_type": "city",
+        "name": "Durant",
+        "full_name": "Durant, OK",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -96.454342,
+                        33.979306
+                    ],
+                    [
+                        -96.341734,
+                        33.979306
+                    ],
+                    [
+                        -96.341734,
+                        34.050118
+                    ],
+                    [
+                        -96.454342,
+                        34.050118
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Spent first part of the afternoon with kiddos at Durant\u2019s Boys and Girls club. Great hearing from our future leader\u2026 https://t.co/mnx5SOSS7e",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1154841025850105856",
+            "url": "https://t.co/mnx5SOSS7e"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 12 20:33:07 +0000 2010",
+        "description": "Serving the State of Oklahoma in the United States Senate",
+        "favourites_count": 478,
+        "followers_count": 76414,
+        "friends_count": 490,
+        "geo_enabled": true,
+        "id": 225921757,
+        "id_str": "225921757",
+        "listed_count": 1853,
+        "location": "Oklahoma and Washington, DC",
+        "name": "Sen. James Lankford",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/225921757/1517262353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1095760398282838017/a_8BwNFx_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095760398282838017/a_8BwNFx_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "SenatorLankford",
+        "statuses_count": 6423,
+        "url": "http://t.co/TAadQSsJTA",
+        "verified": true
+    },
+    "user_mentions": []
+}

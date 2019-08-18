@@ -1,0 +1,73 @@
+{
+    "created_at": "Thu Jun 06 20:52:01 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1136737532178247680,
+    "id_str": "1136737532178247680",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ISk8sFYYeC",
+            "expanded_url": "https://twitter.com/SenHydeSmith/status/1136737532178247680/photo/1",
+            "id": 1136737488180060174,
+            "media_url": "http://pbs.twimg.com/media/D8aAuQnXoA4UGVA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8aAuQnXoA4UGVA.jpg",
+            "sizes": {
+                "large": {
+                    "w": 640,
+                    "h": 261,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 261,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 261,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/ISk8sFYYeC"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "https://t.co/ISk8sFYYeC",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Apr 09 14:17:47 +0000 2018",
+        "default_profile": true,
+        "description": "Office of U.S. Senator Cindy Hyde-Smith (R-Miss.).",
+        "favourites_count": 1041,
+        "followers_count": 7456,
+        "friends_count": 584,
+        "geo_enabled": true,
+        "id": 983348251972816896,
+        "id_str": "983348251972816896",
+        "listed_count": 355,
+        "location": "Brookhaven",
+        "name": "U.S. Senator Cindy Hyde-Smith",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/983348251972816896/1548194897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/991802081119006721/hZJj2JSr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/991802081119006721/hZJj2JSr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenHydeSmith",
+        "statuses_count": 820,
+        "url": "https://t.co/cwhXwzYx2R",
+        "verified": true
+    },
+    "user_mentions": []
+}

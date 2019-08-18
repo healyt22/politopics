@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 10 19:53:41 +0000 2019",
+    "hashtags": [],
+    "id": 1149044035937603595,
+    "id_str": "1149044035937603595",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed Jul 10 19:49:30 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 1149042983397928962,
+        "id_str": "1149042983397928962",
+        "in_reply_to_screen_name": "caraet",
+        "in_reply_to_status_id": 1149041705515139073,
+        "in_reply_to_user_id": 28346736,
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "@RepRaskin asks Ms. Juarez why she came to the US - what it represented to her. An opportunity, she says, to work,\u2026 https://t.co/NforkPlADU",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149042983397928962",
+                "url": "https://t.co/NforkPlADU"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 02 14:26:00 +0000 2009",
+            "description": "Non profit attorney specializing in below-the-belt women's health policy. All opinions expressed here are my own.",
+            "favourites_count": 17355,
+            "followers_count": 598,
+            "friends_count": 876,
+            "id": 28346736,
+            "id_str": "28346736",
+            "listed_count": 33,
+            "location": "Washington, DC",
+            "name": "Cara Tenenbaum",
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28346736/1459774859",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/716970045591666688/HBwZEZ_j_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/716970045591666688/HBwZEZ_j_normal.jpg",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "screen_name": "caraet",
+            "statuses_count": 9689
+        },
+        "user_mentions": [
+            {
+                "id": 806906355214852096,
+                "id_str": "806906355214852096",
+                "name": "Rep. Jamie Raskin",
+                "screen_name": "RepRaskin"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @caraet: @RepRaskin asks Ms. Juarez why she came to the US - what it represented to her. An opportunity, she says, to work, for a better\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 08 17:00:41 +0000 2016",
+        "description": "Proudly serving MD's 8th District. Member of: @rulesdemocrats | @housejudiciary | @oversightdems | @houseadm_dems. https://t.co/EkyEyszJWc",
+        "favourites_count": 10034,
+        "followers_count": 61024,
+        "friends_count": 4608,
+        "geo_enabled": true,
+        "id": 806906355214852096,
+        "id_str": "806906355214852096",
+        "listed_count": 917,
+        "location": "Maryland's 8th District",
+        "name": "Rep. Jamie Raskin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/806906355214852096/1521810245",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096425621528432640/xjSVVXNB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096425621528432640/xjSVVXNB_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRaskin",
+        "statuses_count": 6365,
+        "url": "https://t.co/bo0IGrClrq",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 28346736,
+            "id_str": "28346736",
+            "name": "Cara Tenenbaum",
+            "screen_name": "caraet"
+        },
+        {
+            "id": 806906355214852096,
+            "id_str": "806906355214852096",
+            "name": "Rep. Jamie Raskin",
+            "screen_name": "RepRaskin"
+        }
+    ]
+}

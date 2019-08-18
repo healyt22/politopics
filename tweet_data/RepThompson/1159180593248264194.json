@@ -1,0 +1,197 @@
+{
+    "created_at": "Wed Aug 07 19:12:44 +0000 2019",
+    "hashtags": [],
+    "id": 1159180593248264194,
+    "id_str": "1159180593248264194",
+    "lang": "en",
+    "quoted_status_id": 1159169224125890560,
+    "quoted_status_id_str": "1159169224125890560",
+    "retweet_count": 23,
+    "retweeted_status": {
+        "created_at": "Wed Aug 07 18:46:30 +0000 2019",
+        "favorite_count": 81,
+        "hashtags": [],
+        "id": 1159173992378511360,
+        "id_str": "1159173992378511360",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Wed Aug 07 18:27:34 +0000 2019",
+            "favorite_count": 3180,
+            "hashtags": [
+                {
+                    "text": "HR8"
+                },
+                {
+                    "text": "HR1112"
+                }
+            ],
+            "id": 1159169224125890560,
+            "id_str": "1159169224125890560",
+            "lang": "en",
+            "retweet_count": 1031,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "I joined 213 of my colleagues to demand McConnell immediately call the Senate back and pass #HR8 and #HR1112, two b\u2026 https://t.co/rddZ6IzVLd",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1159169224125890560",
+                    "url": "https://t.co/rddZ6IzVLd"
+                }
+            ],
+            "user": {
+                "created_at": "Mon May 23 14:58:06 +0000 2011",
+                "default_profile": true,
+                "description": "Rep. Mike Thompson represents California's 5th Congressional District and chairs the House Gun Violence Prevention Task Force.",
+                "favourites_count": 43,
+                "followers_count": 29719,
+                "friends_count": 421,
+                "id": 303861808,
+                "id_str": "303861808",
+                "listed_count": 854,
+                "location": "St. Helena, CA",
+                "name": "Mike Thompson",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/303861808/1522080424",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1127943228727209986/JzbYTuQJ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127943228727209986/JzbYTuQJ_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "RepThompson",
+                "statuses_count": 8488,
+                "url": "https://t.co/nPlTDENiPK",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1159169224125890560,
+        "quoted_status_id_str": "1159169224125890560",
+        "retweet_count": 23,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today, my colleagues and I are urging Mitch McConnell to do just one thing: his job.\n\nIt's time, @senatemajldr, cal\u2026 https://t.co/AY7HTVPNbc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159173992378511360",
+                "url": "https://t.co/AY7HTVPNbc"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Dec 29 17:08:23 +0000 2018",
+            "default_profile": true,
+            "description": "Congresswoman proudly serving the folks in Nevada's 3rd District. Bipartisan Leader. Education Advocate. Wife to Dan and mom to two great kids.",
+            "favourites_count": 204,
+            "followers_count": 10852,
+            "friends_count": 161,
+            "geo_enabled": true,
+            "id": 1079061579973439488,
+            "id_str": "1079061579973439488",
+            "listed_count": 196,
+            "location": "Las Vegas, NV",
+            "name": "Rep. Susie Lee",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079061579973439488/1546532419",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080861522061127680/PO_53d01_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080861522061127680/PO_53d01_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepSusieLee",
+            "statuses_count": 1335,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1249982359,
+                "id_str": "1249982359",
+                "name": "Leader McConnell",
+                "screen_name": "senatemajldr"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RepSusieLee: Today, my colleagues and I are urging Mitch McConnell to do just one thing: his job.\n\nIt's time, @senatemajldr, call the S\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon May 23 14:58:06 +0000 2011",
+        "default_profile": true,
+        "description": "Rep. Mike Thompson represents California's 5th Congressional District and chairs the House Gun Violence Prevention Task Force.",
+        "favourites_count": 43,
+        "followers_count": 29719,
+        "friends_count": 421,
+        "id": 303861808,
+        "id_str": "303861808",
+        "listed_count": 854,
+        "location": "St. Helena, CA",
+        "name": "Mike Thompson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/303861808/1522080424",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1127943228727209986/JzbYTuQJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127943228727209986/JzbYTuQJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepThompson",
+        "statuses_count": 8488,
+        "url": "https://t.co/nPlTDENiPK",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1079061579973439488,
+            "id_str": "1079061579973439488",
+            "name": "Rep. Susie Lee",
+            "screen_name": "RepSusieLee"
+        },
+        {
+            "id": 1249982359,
+            "id_str": "1249982359",
+            "name": "Leader McConnell",
+            "screen_name": "senatemajldr"
+        }
+    ]
+}

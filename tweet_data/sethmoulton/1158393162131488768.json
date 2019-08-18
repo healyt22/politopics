@@ -1,0 +1,151 @@
+{
+    "created_at": "Mon Aug 05 15:03:46 +0000 2019",
+    "favorite_count": 642,
+    "hashtags": [],
+    "id": 1158393162131488768,
+    "id_str": "1158393162131488768",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Aug 05 14:13:01 +0000 2019",
+        "favorite_count": 761,
+        "hashtags": [],
+        "id": 1158380392199675906,
+        "id_str": "1158380392199675906",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BaJp6bhWjG",
+                "expanded_url": "https://twitter.com/atrupar/status/1158380392199675906/video/1",
+                "id": 1158380345764589568,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1158380345764589568/pu/img/9LhrhwEDQVOejT22.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1158380345764589568/pu/img/9LhrhwEDQVOejT22.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/BaJp6bhWjG",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 41142,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1158380345764589568/pu/vid/640x360/7pvrbUrs7wzBnObj.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1158380345764589568/pu/vid/480x270/igh30VPakNrMr03C.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1158380345764589568/pu/pl/1PjdtIZne0fv1Y3N.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1158380345764589568/pu/vid/1280x720/v9FWxSw6zIFB4n7W.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 212,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "TRUMP: \"In one voice, our nation must condemn racism, bigotry, and white supremacy.\" https://t.co/BaJp6bhWjG",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Apr 26 15:22:47 +0000 2011",
+            "description": "journalist @voxdotcom",
+            "favourites_count": 77093,
+            "followers_count": 132082,
+            "friends_count": 999,
+            "geo_enabled": true,
+            "id": 288277167,
+            "id_str": "288277167",
+            "listed_count": 1859,
+            "name": "Aaron Rupar",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/288277167/1469538346",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "atrupar",
+            "statuses_count": 61866,
+            "url": "https://t.co/RnqX4a5AQt",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1158380392199675906,
+    "quoted_status_id_str": "1158380392199675906",
+    "retweet_count": 125,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "In other words, we must condemn you. https://t.co/BQUEWjKPmv",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/atrupar/status/1158380392199675906",
+            "url": "https://t.co/BQUEWjKPmv"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 07 03:35:59 +0000 2011",
+        "default_profile": true,
+        "description": "Father, husband, Marine, Congressman, and candidate for President of the United States. \n\nIt's time for a new generation of leadership.",
+        "favourites_count": 4016,
+        "followers_count": 147354,
+        "friends_count": 2439,
+        "geo_enabled": true,
+        "id": 248495200,
+        "id_str": "248495200",
+        "listed_count": 2571,
+        "location": "Salem, MA",
+        "name": "Seth Moulton",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248495200/1559917656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sethmoulton",
+        "statuses_count": 10971,
+        "url": "https://t.co/x3XcV4cO6O",
+        "verified": true
+    },
+    "user_mentions": []
+}

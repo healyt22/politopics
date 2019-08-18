@@ -1,0 +1,101 @@
+{
+    "created_at": "Wed Apr 17 13:54:02 +0000 2019",
+    "favorite_count": 233,
+    "hashtags": [],
+    "id": 1118512947687510016,
+    "id_str": "1118512947687510016",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Apr 17 06:05:38 +0000 2019",
+        "favorite_count": 68,
+        "hashtags": [],
+        "id": 1118395072708583431,
+        "id_str": "1118395072708583431",
+        "lang": "en",
+        "retweet_count": 90,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Metro area school districts will be closed on Wednesday, April 17 due to ongoing safety concerns. Check with your l\u2026 https://t.co/DKa7xymZ3q",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118395072708583431",
+                "url": "https://t.co/DKa7xymZ3q"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 01 18:30:19 +0000 2009",
+            "description": "Colorado Department of Education provides leadership, resources, support and accountability to 178 school districts and 1,780 schools. #edcolo #StateofCO",
+            "favourites_count": 2112,
+            "followers_count": 16998,
+            "friends_count": 3961,
+            "geo_enabled": true,
+            "id": 93914412,
+            "id_str": "93914412",
+            "listed_count": 418,
+            "location": "Denver, CO",
+            "name": "CO Dept of Education",
+            "profile_background_color": "203C73",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/93914412/1557769312",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1138114309869850624/5TKWiFuH_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138114309869850624/5TKWiFuH_normal.png",
+            "profile_link_color": "488BC9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "codepted",
+            "statuses_count": 4381,
+            "url": "http://t.co/bybedcdJMN"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1118395072708583431,
+    "quoted_status_id_str": "1118395072708583431",
+    "retweet_count": 58,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "We're closely monitoring this threat toward Denver-area schools, and we'll continue to support @codepted &amp; law enfo\u2026 https://t.co/egiCt8mh2Z",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1118512947687510016",
+            "url": "https://t.co/egiCt8mh2Z"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 08 16:29:29 +0000 2010",
+        "description": "U.S. Senator for Colorado",
+        "favourites_count": 103,
+        "followers_count": 293619,
+        "friends_count": 363,
+        "geo_enabled": true,
+        "id": 224285242,
+        "id_str": "224285242",
+        "listed_count": 2944,
+        "location": "Colorado",
+        "name": "Michael Bennet",
+        "profile_background_color": "48403A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/224285242/1527091402",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/897159863863836676/lopmOrpE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/897159863863836676/lopmOrpE_normal.jpg",
+        "profile_link_color": "4D8857",
+        "profile_sidebar_border_color": "95F0EB",
+        "profile_sidebar_fill_color": "D3E7F2",
+        "profile_text_color": "242324",
+        "screen_name": "SenatorBennet",
+        "statuses_count": 3742,
+        "url": "http://t.co/bQVU54FnhE",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 93914412,
+            "id_str": "93914412",
+            "name": "CO Dept of Education",
+            "screen_name": "codepted"
+        }
+    ]
+}

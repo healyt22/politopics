@@ -1,0 +1,127 @@
+{
+    "created_at": "Mon Apr 22 20:55:07 +0000 2019",
+    "favorite_count": 173,
+    "hashtags": [],
+    "id": 1120430855892107267,
+    "id_str": "1120430855892107267",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun Apr 21 23:37:41 +0000 2019",
+        "favorite_count": 43,
+        "hashtags": [],
+        "id": 1120109380320530432,
+        "id_str": "1120109380320530432",
+        "lang": "en",
+        "place": {
+            "id": "27fbd5412c269208",
+            "url": "https://api.twitter.com/1.1/geo/id/27fbd5412c269208.json",
+            "place_type": "city",
+            "name": "Huntersville",
+            "full_name": "Huntersville, NC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.957062,
+                            35.366148
+                        ],
+                        [
+                            -80.8108998,
+                            35.366148
+                        ],
+                        [
+                            -80.8108998,
+                            35.454554
+                        ],
+                        [
+                            -80.957062,
+                            35.454554
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Congratulations former Senate Page and Hopewell JROTC Cadet Marshall Miles for becoming one of only 300 Scholars wo\u2026 https://t.co/yelN3UzB6J",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1120109380320530432",
+                "url": "https://t.co/yelN3UzB6J"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Nov 18 00:37:27 +0000 2013",
+            "default_profile": true,
+            "description": "Charlotte-Mecklenburg JROTC Program Assistant Director - Responsible for the administration and resourcing of 20 High School JROTC programs throughout CMS",
+            "favourites_count": 609,
+            "followers_count": 61,
+            "friends_count": 140,
+            "geo_enabled": true,
+            "id": 2200417962,
+            "id_str": "2200417962",
+            "location": "Charlotte, NC",
+            "name": "LTC(ret)Shawn Cowley",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2200417962/1532636101",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/461292315865124864/p2TJFz7K_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/461292315865124864/p2TJFz7K_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LTC_CMS_JROTC",
+            "statuses_count": 420
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1120109380320530432,
+    "quoted_status_id_str": "1120109380320530432",
+    "retweet_count": 13,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Well-deserved, Marshall could not have been more impressive as my Senate Page. Congratulations on receiving the Gat\u2026 https://t.co/HAlBvzidnN",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1120430855892107267",
+            "url": "https://t.co/HAlBvzidnN"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 06 14:22:18 +0000 2015",
+        "description": "Official Twitter account of North Carolina U.S. Senator Thom Tillis.",
+        "favourites_count": 1397,
+        "followers_count": 80989,
+        "friends_count": 4642,
+        "geo_enabled": true,
+        "id": 2964174789,
+        "id_str": "2964174789",
+        "listed_count": 1633,
+        "location": "North Carolina, USA",
+        "name": "Senator Thom Tillis",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964174789/1556910350",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1113102311566594048/TE6vxjHC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113102311566594048/TE6vxjHC_normal.png",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenThomTillis",
+        "statuses_count": 4310,
+        "url": "https://t.co/mLVkKiULqh",
+        "verified": true
+    },
+    "user_mentions": []
+}

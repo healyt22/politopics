@@ -1,0 +1,233 @@
+{
+    "created_at": "Wed Mar 13 20:19:00 +0000 2019",
+    "hashtags": [
+        {
+            "text": "BuildOurWorkforce"
+        },
+        {
+            "text": "skilledtrades"
+        },
+        {
+            "text": "YOUTH"
+        }
+    ],
+    "id": 1105926252647641091,
+    "id_str": "1105926252647641091",
+    "lang": "en",
+    "quoted_status_id": 1105895087786131457,
+    "quoted_status_id_str": "1105895087786131457",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Mar 13 18:52:51 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "BuildOurWorkforce"
+            },
+            {
+                "text": "skilledtrades"
+            },
+            {
+                "text": "YOUTH"
+            }
+        ],
+        "id": 1105904572139212801,
+        "id_str": "1105904572139212801",
+        "in_reply_to_screen_name": "NoSkillsGap",
+        "in_reply_to_user_id": 963539402986278913,
+        "lang": "en",
+        "place": {
+            "id": "5635c19c2b5078d1",
+            "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+            "place_type": "admin",
+            "name": "Virginia",
+            "full_name": "Virginia, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.67529,
+                            36.540739
+                        ],
+                        [
+                            -75.16644,
+                            36.540739
+                        ],
+                        [
+                            -75.16644,
+                            39.466012
+                        ],
+                        [
+                            -83.67529,
+                            39.466012
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Wed Mar 13 18:15:10 +0000 2019",
+            "favorite_count": 1,
+            "hashtags": [],
+            "id": 1105895087786131457,
+            "id_str": "1105895087786131457",
+            "in_reply_to_screen_name": "RepSmucker",
+            "in_reply_to_status_id": 1105894605344702465,
+            "in_reply_to_user_id": 41417564,
+            "lang": "en",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Brett Melvin from Bridging America\u2019s Gap: These programs help young people get the basic skills needed to fill jobs\u2026 https://t.co/A5XdLjiEqW",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1105895087786131457",
+                    "url": "https://t.co/A5XdLjiEqW"
+                }
+            ],
+            "user": {
+                "created_at": "Wed May 20 18:31:13 +0000 2009",
+                "description": "Representing the people of #PA11 in the U.S. House of Representatives. Husband & father.",
+                "favourites_count": 142,
+                "followers_count": 7323,
+                "friends_count": 104,
+                "id": 41417564,
+                "id_str": "41417564",
+                "listed_count": 459,
+                "location": "Lancaster, PA",
+                "name": "Rep. Lloyd Smucker",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/41417564/1499786206",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/974660770322579456/jgo6fbWC_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/974660770322579456/jgo6fbWC_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "RepSmucker",
+                "statuses_count": 3788,
+                "url": "https://t.co/YKMSx3njz4",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1105895087786131457,
+        "quoted_status_id_str": "1105895087786131457",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@NoSkillsGap honored to be supporting #BuildOurWorkforce @USAWorkforce @NationalTCenter #skilledtrades #YOUTH https://t.co/Uysbecj0xE",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/RepSmucker/status/1105895087786131457",
+                "url": "https://t.co/Uysbecj0xE"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 13 22:24:30 +0000 2018",
+            "default_profile": true,
+            "description": "#BAG brings employers 2gether w/organizations/institutions & works closely w/ENTRY LEVEL prospects, resulting in a #skilledworkforce through #CareerSkillsEvents",
+            "favourites_count": 122,
+            "followers_count": 83,
+            "friends_count": 230,
+            "geo_enabled": true,
+            "id": 963539402986278913,
+            "id_str": "963539402986278913",
+            "listed_count": 1,
+            "location": "Alexandria, VA",
+            "name": "Bridging America's Gap",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/963539402986278913/1518575870",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1055182483677896704/6Uex0NZ5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055182483677896704/6Uex0NZ5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NoSkillsGap",
+            "statuses_count": 155,
+            "url": "https://t.co/tRoWN62Z8M"
+        },
+        "user_mentions": [
+            {
+                "id": 963539402986278913,
+                "id_str": "963539402986278913",
+                "name": "Bridging America's Gap",
+                "screen_name": "NoSkillsGap"
+            },
+            {
+                "id": 950470839841026048,
+                "id_str": "950470839841026048",
+                "name": "USA Workforce",
+                "screen_name": "USAWorkforce"
+            },
+            {
+                "id": 883055501667381248,
+                "id_str": "883055501667381248",
+                "name": "NTC",
+                "screen_name": "NationalTCenter"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NoSkillsGap: @NoSkillsGap honored to be supporting #BuildOurWorkforce @USAWorkforce @NationalTCenter #skilledtrades #YOUTH https://t.co\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 20 18:31:13 +0000 2009",
+        "description": "Representing the people of #PA11 in the U.S. House of Representatives. Husband & father.",
+        "favourites_count": 142,
+        "followers_count": 7323,
+        "friends_count": 104,
+        "id": 41417564,
+        "id_str": "41417564",
+        "listed_count": 459,
+        "location": "Lancaster, PA",
+        "name": "Rep. Lloyd Smucker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41417564/1499786206",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/974660770322579456/jgo6fbWC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/974660770322579456/jgo6fbWC_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepSmucker",
+        "statuses_count": 3788,
+        "url": "https://t.co/YKMSx3njz4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 963539402986278913,
+            "id_str": "963539402986278913",
+            "name": "Bridging America's Gap",
+            "screen_name": "NoSkillsGap"
+        },
+        {
+            "id": 963539402986278913,
+            "id_str": "963539402986278913",
+            "name": "Bridging America's Gap",
+            "screen_name": "NoSkillsGap"
+        },
+        {
+            "id": 950470839841026048,
+            "id_str": "950470839841026048",
+            "name": "USA Workforce",
+            "screen_name": "USAWorkforce"
+        },
+        {
+            "id": 883055501667381248,
+            "id_str": "883055501667381248",
+            "name": "NTC",
+            "screen_name": "NationalTCenter"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Mon Jul 22 21:33:19 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [
+        {
+            "text": "SALT"
+        }
+    ],
+    "id": 1153417764155117569,
+    "id_str": "1153417764155117569",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/b6euD65dbA",
+            "expanded_url": "https://twitter.com/RepMalinowski/status/1153417764155117569/video/1",
+            "id": 1153417406162853888,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1153417406162853888/pu/img/bP_sx7aFfBgfTyI8.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1153417406162853888/pu/img/bP_sx7aFfBgfTyI8.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/b6euD65dbA",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 85586,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1153417406162853888/pu/vid/640x360/r-_dSu6S1JwQtXvm.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1153417406162853888/pu/vid/1280x720/k3DXzrKgPB8nxkOn.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1153417406162853888/pu/vid/480x270/kyJtGMWQt0TGEXub.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1153417406162853888/pu/pl/J2Mq3TRmlKeuQa9-.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Tom joined @ABC7NY this weekend to discuss how the House is working to reinstate the full #SALT deduction. https://t.co/b6euD65dbA",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 18:45:46 +0000 2019",
+        "default_profile": true,
+        "description": "The official Twitter account of Congressman Tom Malinowski, of New Jersey's 7th district.",
+        "favourites_count": 28,
+        "followers_count": 3240,
+        "friends_count": 384,
+        "id": 1080898026418384897,
+        "id_str": "1080898026418384897",
+        "listed_count": 128,
+        "name": "Rep. Tom Malinowski",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080898026418384897/1547061220",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMalinowski",
+        "statuses_count": 237,
+        "url": "https://t.co/xKfFUaXQDL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16715398,
+            "id_str": "16715398",
+            "name": "Eyewitness News",
+            "screen_name": "ABC7NY"
+        }
+    ]
+}

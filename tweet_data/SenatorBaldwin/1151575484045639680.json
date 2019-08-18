@@ -1,0 +1,136 @@
+{
+    "created_at": "Wed Jul 17 19:32:45 +0000 2019",
+    "hashtags": [
+        {
+            "text": "GirlsToo"
+        }
+    ],
+    "id": 1151575484045639680,
+    "id_str": "1151575484045639680",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed Jul 17 16:41:39 +0000 2019",
+        "favorite_count": 25,
+        "hashtags": [
+            {
+                "text": "GirlsToo"
+            }
+        ],
+        "id": 1151532426436448257,
+        "id_str": "1151532426436448257",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you for taking the time out of your just day to come meet and talk to us about the #GirlsToo movement and iss\u2026 https://t.co/pLr8W71OGW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151532426436448257",
+                "url": "https://t.co/pLr8W71OGW"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 30 14:48:05 +0000 2009",
+            "description": "With Girls Inc. in her corner, every girl can grow up strong, smart, and bold. Tweets from our President & CEO Stephanie J. Hull signed - Stephanie.",
+            "favourites_count": 3126,
+            "followers_count": 55309,
+            "friends_count": 1050,
+            "geo_enabled": true,
+            "id": 27649492,
+            "id_str": "27649492",
+            "listed_count": 1441,
+            "location": "United States and Canada",
+            "name": "Girls Inc.",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27649492/1539612380",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1012772542023700482/GekbXJgu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012772542023700482/GekbXJgu_normal.jpg",
+            "profile_link_color": "ED1849",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EE324E",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "girls_inc",
+            "statuses_count": 9141,
+            "url": "http://t.co/pdb4vx7Gu1",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @girls_inc: Thank you for taking the time out of your just day to come meet and talk to us about the #GirlsToo movement and issues affec\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 09 18:29:44 +0000 2013",
+        "description": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+        "favourites_count": 480,
+        "followers_count": 111300,
+        "friends_count": 2659,
+        "geo_enabled": true,
+        "id": 1074518754,
+        "id_str": "1074518754",
+        "listed_count": 2322,
+        "location": "Washington, D.C.",
+        "name": "Sen. Tammy Baldwin",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074518754/1524675375",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888484691120148481/IQiOuvpT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888484691120148481/IQiOuvpT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorBaldwin",
+        "statuses_count": 13330,
+        "url": "http://t.co/p7vErFeoRD",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 27649492,
+            "id_str": "27649492",
+            "name": "Girls Inc.",
+            "screen_name": "girls_inc"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "created_at": "Fri Aug 02 18:55:01 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1157364193558958087,
+    "id_str": "1157364193558958087",
+    "in_reply_to_screen_name": "RepRickLarsen",
+    "in_reply_to_status_id": 1157362855945146368,
+    "in_reply_to_user_id": 404132211,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/tK5T7Wz1uy",
+            "expanded_url": "https://twitter.com/RepRickLarsen/status/1157364193558958087/video/1",
+            "id": 1157363044865007617,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157363044865007617/pu/img/TU3YUNQqt9v2SW5b.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157363044865007617/pu/img/TU3YUNQqt9v2SW5b.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/tK5T7Wz1uy",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 10933,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1157363044865007617/pu/vid/640x360/IlP3OouPpgGKxoCf.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1157363044865007617/pu/vid/480x270/P3WhCPaKAWYXHDr1.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1157363044865007617/pu/pl/_Fes-RjYNXek49VM.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1157363044865007617/pu/vid/1280x720/c3d0CAgXWGSRjDPI.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83d\ude80 Took a quick break from story time to do a \u201cblast off\u201d stretch https://t.co/tK5T7Wz1uy",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Nov 03 13:59:42 +0000 2011",
+        "default_profile": true,
+        "description": "Born and raised in Arlington, Wash. Chair, Aviation Subcommittee",
+        "favourites_count": 2136,
+        "followers_count": 19200,
+        "friends_count": 5448,
+        "geo_enabled": true,
+        "id": 404132211,
+        "id_str": "404132211",
+        "listed_count": 823,
+        "location": "Washington's 2nd District",
+        "name": "Rep. Rick Larsen",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/404132211/1490725185",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRickLarsen",
+        "statuses_count": 9475,
+        "url": "http://t.co/2eHh43tMLB",
+        "verified": true
+    },
+    "user_mentions": []
+}

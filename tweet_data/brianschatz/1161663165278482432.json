@@ -1,0 +1,198 @@
+{
+    "created_at": "Wed Aug 14 15:37:35 +0000 2019",
+    "hashtags": [],
+    "id": 1161663165278482432,
+    "id_str": "1161663165278482432",
+    "lang": "en",
+    "quoted_status_id": 1161658656833908736,
+    "quoted_status_id_str": "1161658656833908736",
+    "retweet_count": 756,
+    "retweeted_status": {
+        "created_at": "Wed Aug 14 15:24:00 +0000 2019",
+        "favorite_count": 2559,
+        "hashtags": [],
+        "id": 1161659743980707841,
+        "id_str": "1161659743980707841",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Wed Aug 14 15:19:41 +0000 2019",
+            "favorite_count": 169,
+            "hashtags": [],
+            "id": 1161658656833908736,
+            "id_str": "1161658656833908736",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/3YuznXpws5",
+                    "expanded_url": "https://twitter.com/SquawkCNBC/status/1161658656833908736/video/1",
+                    "id": 1161658483130937345,
+                    "media_url": "http://pbs.twimg.com/media/EB8KY4QXYAA8f8k.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EB8KY4QXYAA8f8k.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/3YuznXpws5",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 85586,
+                        "variants": [
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1161658483130937345/vid/480x270/gxQxQDlOGNE8cW84.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1161658483130937345/vid/1280x720/eH5I3g_2xmDo4bYX.mp4?tag=13"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1161658483130937345/pl/5zVkP3sx03qjg-vA.m3u8?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1161658483130937345/vid/640x360/5VNaAML5Xb9l6N23.mp4?tag=13"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "retweet_count": 87,
+            "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+            "text": "We don't want to ruin Christmas with tariffs, says Commerce Secretary Wilbur Ross https://t.co/3YuznXpws5",
+            "urls": [],
+            "user": {
+                "created_at": "Thu Nov 03 22:17:10 +0000 2011",
+                "description": "Start your morning with Joe Kernen, Becky Quick, and Andrew Ross Sorkin - Monday through Friday from 6-9a ET.",
+                "favourites_count": 1884,
+                "followers_count": 186402,
+                "friends_count": 421,
+                "geo_enabled": true,
+                "id": 404422077,
+                "id_str": "404422077",
+                "listed_count": 2427,
+                "location": "New York, NY",
+                "name": "Squawk Box",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/404422077/1510766339",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/565647783634292736/LG-C0pIu_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/565647783634292736/LG-C0pIu_normal.jpeg",
+                "profile_link_color": "3473A3",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E3E3E3",
+                "profile_text_color": "5E5E5E",
+                "profile_use_background_image": true,
+                "screen_name": "SquawkCNBC",
+                "statuses_count": 21474,
+                "url": "http://t.co/AMPUczhT7a",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1161658656833908736,
+        "quoted_status_id_str": "1161658656833908736",
+        "retweet_count": 756,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I don\u2019t follow the logic -\n- china did not fulfill their pledge to buy our ag products...then we postponed tariffs? https://t.co/IMkSQNXBL0",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/SquawkCNBC/status/1161658656833908736",
+                "url": "https://t.co/IMkSQNXBL0"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Sep 30 14:19:27 +0000 2011",
+            "description": "Mom, MSNBC LIVE Anchor 9AM M-F, VELSHI & RUHLE 1 PM M-F, Fmr BloombergTV Mng Editor, CSFB/Deutsche Bank credit derivs alum, lover of odd #s &even playing fields",
+            "favourites_count": 19890,
+            "followers_count": 411958,
+            "friends_count": 1185,
+            "geo_enabled": true,
+            "id": 382685028,
+            "id_str": "382685028",
+            "listed_count": 3245,
+            "location": "New York City",
+            "name": "Stephanie Ruhle",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/382685028/1478014600",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/962341971326103552/zZPnSnd0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/962341971326103552/zZPnSnd0_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SRuhle",
+            "statuses_count": 29211,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SRuhle: I don\u2019t follow the logic -\n- china did not fulfill their pledge to buy our ag products...then we postponed tariffs? https://t.c\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 16 21:54:28 +0000 2009",
+        "description": "United States Senator from Hawaii. Dad. Climate Hawk. Appropriator. Chief Deputy Whip.",
+        "favourites_count": 5588,
+        "followers_count": 231417,
+        "friends_count": 2236,
+        "geo_enabled": true,
+        "id": 47747074,
+        "id_str": "47747074",
+        "listed_count": 2622,
+        "location": "\u00dcT: 19.72105,-155.087417",
+        "name": "Brian Schatz",
+        "profile_background_color": "063482",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47747074/1504655317",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/840179285440757761/McwUAXF8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/840179285440757761/McwUAXF8_normal.jpg",
+        "profile_link_color": "00B3FF",
+        "profile_sidebar_border_color": "1C65DC",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "1C65DC",
+        "profile_use_background_image": true,
+        "screen_name": "brianschatz",
+        "statuses_count": 12189,
+        "url": "https://t.co/TFoJ19ZTFY",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 382685028,
+            "id_str": "382685028",
+            "name": "Stephanie Ruhle",
+            "screen_name": "SRuhle"
+        }
+    ]
+}

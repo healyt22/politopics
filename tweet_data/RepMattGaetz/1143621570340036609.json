@@ -1,0 +1,140 @@
+{
+    "created_at": "Tue Jun 25 20:46:44 +0000 2019",
+    "hashtags": [],
+    "id": 1143621570340036609,
+    "id_str": "1143621570340036609",
+    "lang": "en",
+    "retweet_count": 101,
+    "retweeted_status": {
+        "created_at": "Tue Jun 25 18:03:36 +0000 2019",
+        "favorite_count": 335,
+        "hashtags": [],
+        "id": 1143580517603799040,
+        "id_str": "1143580517603799040",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 101,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "CONFIRMED SPEAKER! @RepMattGaetz of Florida's 1st Congressional District Has Just Been Added To Our AWESOME Line-Up\u2026 https://t.co/wnroFUBNb2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143580517603799040",
+                "url": "https://t.co/wnroFUBNb2"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 13 23:15:31 +0000 2012",
+            "description": "Student Movement for Freedom, Free Markets, Limited Government. We're the community organizers of the right. #BigGovSucks #GenFree",
+            "favourites_count": 17327,
+            "followers_count": 277853,
+            "friends_count": 35692,
+            "geo_enabled": true,
+            "id": 491719838,
+            "id_str": "491719838",
+            "listed_count": 1371,
+            "location": "The United States of America",
+            "name": "Turning Point USA",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/491719838/1562182686",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1148087887126093825/D_Ef-s4d_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148087887126093825/D_Ef-s4d_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "TPUSA",
+            "statuses_count": 21191,
+            "url": "https://t.co/7av8jpP72E",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 818948638890217473,
+                "id_str": "818948638890217473",
+                "name": "Rep. Matt Gaetz",
+                "screen_name": "RepMattGaetz"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @TPUSA: CONFIRMED SPEAKER! @RepMattGaetz of Florida's 1st Congressional District Has Just Been Added To Our AWESOME Line-Up For #TSAS201\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+        "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+        "favourites_count": 486,
+        "followers_count": 301847,
+        "friends_count": 875,
+        "geo_enabled": true,
+        "id": 818948638890217473,
+        "id_str": "818948638890217473",
+        "listed_count": 1478,
+        "name": "Rep. Matt Gaetz",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1546465602",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+        "profile_link_color": "BB1A2A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMattGaetz",
+        "statuses_count": 3778,
+        "url": "https://t.co/GcjK1dZCtR",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 491719838,
+            "id_str": "491719838",
+            "name": "Turning Point USA",
+            "screen_name": "TPUSA"
+        },
+        {
+            "id": 818948638890217473,
+            "id_str": "818948638890217473",
+            "name": "Rep. Matt Gaetz",
+            "screen_name": "RepMattGaetz"
+        }
+    ]
+}

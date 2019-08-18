@@ -1,0 +1,122 @@
+{
+    "created_at": "Fri May 24 14:52:15 +0000 2019",
+    "favorite_count": 2518,
+    "hashtags": [],
+    "id": 1131935951238905857,
+    "id_str": "1131935951238905857",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri May 24 13:01:11 +0000 2019",
+        "favorite_count": 213,
+        "hashtags": [],
+        "id": 1131907999881203714,
+        "id_str": "1131907999881203714",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fBytGbP69r",
+                "expanded_url": "https://twitter.com/ddiamond/status/1131907999881203714/photo/1",
+                "id": 1131907995506544641,
+                "media_url": "http://pbs.twimg.com/media/D7VYUyaXkAExDGq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D7VYUyaXkAExDGq.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1564,
+                        "h": 540,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 414,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 235,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/fBytGbP69r"
+            }
+        ],
+        "retweet_count": 327,
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "text": "NEW: The Trump administration is rolling back Obama-era protections for transgender patients today.\n\nMore TK. https://t.co/fBytGbP69r",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Oct 20 15:24:07 +0000 2008",
+            "description": "I write @POLITICO Pulse \u2014 the morning briefing on health care politics and policy \u2014 and host the PULSE CHECK podcast. Got tips? DM me for Signal.",
+            "favourites_count": 47607,
+            "followers_count": 105453,
+            "friends_count": 968,
+            "geo_enabled": true,
+            "id": 16868756,
+            "id_str": "16868756",
+            "listed_count": 2841,
+            "location": "Washington, D.C.",
+            "name": "Dan Diamond",
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16868756/1398374401",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/903517610431713280/rB7vk8be_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/903517610431713280/rB7vk8be_normal.jpg",
+            "profile_link_color": "0213CF",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ddiamond",
+            "statuses_count": 55142,
+            "url": "https://t.co/7QYKGBnpyX",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1131907999881203714,
+    "quoted_status_id_str": "1131907999881203714",
+    "retweet_count": 938,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "This President continues to inject his own hatred and prejudice in our health care system. This time he is putting\u2026 https://t.co/s4Lftapvce",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1131935951238905857",
+            "url": "https://t.co/s4Lftapvce"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 19:33:36 +0000 2013",
+        "description": "Official Twitter account of Congressman Joe Kennedy III, representing Massachusetts' 4th Congressional District.",
+        "favourites_count": 12,
+        "followers_count": 775013,
+        "friends_count": 696,
+        "geo_enabled": true,
+        "id": 1055907624,
+        "id_str": "1055907624",
+        "listed_count": 3264,
+        "name": "Rep. Joe Kennedy III",
+        "profile_background_color": "10214A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055907624/1506705689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_link_color": "BF1B1B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeKennedy",
+        "statuses_count": 5244,
+        "url": "https://t.co/rYNEysanC2",
+        "verified": true
+    },
+    "user_mentions": []
+}

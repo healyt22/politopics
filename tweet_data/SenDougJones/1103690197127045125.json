@@ -1,0 +1,135 @@
+{
+    "created_at": "Thu Mar 07 16:13:43 +0000 2019",
+    "favorite_count": 288,
+    "hashtags": [],
+    "id": 1103690197127045125,
+    "id_str": "1103690197127045125",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/yBi1BkRJOF",
+            "expanded_url": "https://twitter.com/SenDougJones/status/1103690197127045125/video/1",
+            "id": 1103689695287001089,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1103689695287001089/pu/img/3MfE89wYWzNbdI3J.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1103689695287001089/pu/img/3MfE89wYWzNbdI3J.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/yBi1BkRJOF",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 61553,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1103689695287001089/pu/vid/360x640/6nVcH_0BmHhYrb9Y.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1103689695287001089/pu/vid/320x568/manLWJVE9I14Na5p.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1103689695287001089/pu/vid/720x1280/yg3INe1MGeWHDGh-.mp4?tag=6"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1103689695287001089/pu/pl/6zOgtld60Wb__gnj.m3u8?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "place": {
+        "id": "07d9e24c48086000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e24c48086000.json",
+        "place_type": "poi",
+        "name": "Beauregard Alabama",
+        "full_name": "Beauregard Alabama",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -85.36340189420359,
+                        32.59084965761756
+                    ],
+                    [
+                        -85.36340189420359,
+                        32.59084965761756
+                    ],
+                    [
+                        -85.36340189420359,
+                        32.59084965761756
+                    ],
+                    [
+                        -85.36340189420359,
+                        32.59084965761756
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 81,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201cWe\u2019ve got to find the best way we can to help people in rural areas like this.\u201d https://t.co/yBi1BkRJOF",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 13 22:59:11 +0000 2017",
+        "default_profile": true,
+        "description": "Latest news from the Office of U.S. Senator Doug Jones. Account managed by staff. Tweets from the Senator signed -Doug.",
+        "favourites_count": 172,
+        "followers_count": 21094,
+        "friends_count": 271,
+        "geo_enabled": true,
+        "id": 941080085121175552,
+        "id_str": "941080085121175552",
+        "listed_count": 459,
+        "location": "Birmingham, AL",
+        "name": "Doug Jones",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/941080085121175552/1532030094",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020031896741400577/RvxrHrIA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020031896741400577/RvxrHrIA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenDougJones",
+        "statuses_count": 890,
+        "url": "https://t.co/ybmvFhggOr",
+        "verified": true
+    },
+    "user_mentions": []
+}

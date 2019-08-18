@@ -1,0 +1,193 @@
+{
+    "created_at": "Fri Jul 05 19:26:33 +0000 2019",
+    "hashtags": [],
+    "id": 1147225269083787264,
+    "id_str": "1147225269083787264",
+    "lang": "en",
+    "quoted_status_id": 1147202959681433600,
+    "quoted_status_id_str": "1147202959681433600",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Jul 05 18:17:01 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1147207770774626304,
+        "id_str": "1147207770774626304",
+        "lang": "en",
+        "place": {
+            "id": "9b46dccb3cfb880c",
+            "url": "https://api.twitter.com/1.1/geo/id/9b46dccb3cfb880c.json",
+            "place_type": "city",
+            "name": "Kendall",
+            "full_name": "Kendall, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.3893437,
+                            25.628844
+                        ],
+                        [
+                            -80.304896,
+                            25.628844
+                        ],
+                        [
+                            -80.304896,
+                            25.7151276
+                        ],
+                        [
+                            -80.3893437,
+                            25.7151276
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Fri Jul 05 17:57:54 +0000 2019",
+            "favorite_count": 14,
+            "hashtags": [],
+            "id": 1147202959681433600,
+            "id_str": "1147202959681433600",
+            "lang": "es",
+            "retweet_count": 1,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Productiva reuni\u00f3n con la congresista @RepDMP a quien reconocemos su invaluable trabajo en beneficio de la comunida\u2026 https://t.co/PApJSi1yS7",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1147202959681433600",
+                    "url": "https://t.co/PApJSi1yS7"
+                }
+            ],
+            "user": {
+                "created_at": "Thu Oct 21 14:37:29 +0000 2010",
+                "description": "Consulado General de M\u00e9xico en Miami 1399 SW 1st Ave, Miami, 33130 latitud 25.761311,longitud -80.194733 Tel. 786-268-4900 CIAM 1-855-463-6395",
+                "favourites_count": 3349,
+                "followers_count": 3125,
+                "friends_count": 1125,
+                "geo_enabled": true,
+                "id": 205749240,
+                "id_str": "205749240",
+                "listed_count": 93,
+                "location": "Florida, Estados Unidos",
+                "name": "ConsulMex Miami",
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/205749240/1558359061",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1069984567904342017/ofl4RBXQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069984567904342017/ofl4RBXQ_normal.jpg",
+                "profile_link_color": "038543",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F1F5F4",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "ConsulMexMia",
+                "statuses_count": 16840
+            },
+            "user_mentions": [
+                {
+                    "id": 1080941062028447744,
+                    "id_str": "1080941062028447744",
+                    "name": "Rep. Debbie Mucarsel-Powell",
+                    "screen_name": "RepDMP"
+                }
+            ]
+        },
+        "quoted_status_id": 1147202959681433600,
+        "quoted_status_id_str": "1147202959681433600",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you Congresswoman @RepDMP for all your work in benefit of the Mexican &amp; Hispanic community in south Florida https://t.co/cnVnlNBzmt",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/ConsulMexMia/status/1147202959681433600",
+                "url": "https://t.co/cnVnlNBzmt"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jun 21 23:21:17 +0000 2009",
+            "description": "Consul General of Mexico in Miami, Florida New Thoughts Reshaping The World",
+            "favourites_count": 1207,
+            "followers_count": 621,
+            "friends_count": 559,
+            "geo_enabled": true,
+            "id": 49463815,
+            "id_str": "49463815",
+            "listed_count": 6,
+            "location": "Miami, FL",
+            "name": "Jonathan Chait A.",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/49463815/1560527469",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1148404889967628289/6SImrzLt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148404889967628289/6SImrzLt_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JchaitA",
+            "statuses_count": 341
+        },
+        "user_mentions": [
+            {
+                "id": 1080941062028447744,
+                "id_str": "1080941062028447744",
+                "name": "Rep. Debbie Mucarsel-Powell",
+                "screen_name": "RepDMP"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JchaitA: Thank you Congresswoman @RepDMP for all your work in benefit of the Mexican &amp; Hispanic community in south Florida https://t.co\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 21:36:46 +0000 2019",
+        "default_profile": true,
+        "description": "Mom. Immigrant. 1st Ecuadorian-American in Congress. Fighting for lower health care costs, commonsense gun reform & combat climate change. Proudly serve #FL26",
+        "favourites_count": 362,
+        "followers_count": 12900,
+        "friends_count": 347,
+        "id": 1080941062028447744,
+        "id_str": "1080941062028447744",
+        "listed_count": 290,
+        "location": "Miami, FL",
+        "name": "Rep. Debbie Mucarsel-Powell",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080941062028447744/1551303584",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096393614287093761/2nuhfPqt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096393614287093761/2nuhfPqt_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDMP",
+        "statuses_count": 1759,
+        "url": "https://t.co/P0PnHT1e3h",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 49463815,
+            "id_str": "49463815",
+            "name": "Jonathan Chait A.",
+            "screen_name": "JchaitA"
+        },
+        {
+            "id": 1080941062028447744,
+            "id_str": "1080941062028447744",
+            "name": "Rep. Debbie Mucarsel-Powell",
+            "screen_name": "RepDMP"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "created_at": "Wed Mar 13 19:17:01 +0000 2019",
+    "hashtags": [],
+    "id": 1105910652655321090,
+    "id_str": "1105910652655321090",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/RKYXXytGZj",
+            "expanded_url": "https://twitter.com/TyHigginsAg/status/1105910045219401730/photo/1",
+            "id": 1105910038059773953,
+            "media_url": "http://pbs.twimg.com/media/D1j7UfwXcAEUhx5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1j7UfwXcAEUhx5.jpg",
+            "sizes": {
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/RKYXXytGZj"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Mar 13 19:14:36 +0000 2019",
+        "hashtags": [],
+        "id": 1105910045219401730,
+        "id_str": "1105910045219401730",
+        "in_reply_to_screen_name": "OhioFarmBureau",
+        "in_reply_to_status_id": 1105909826557800449,
+        "in_reply_to_user_id": 17480797,
+        "lang": "und",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/RKYXXytGZj",
+                "expanded_url": "https://twitter.com/TyHigginsAg/status/1105910045219401730/photo/1",
+                "id": 1105910038059773953,
+                "media_url": "http://pbs.twimg.com/media/D1j7UfwXcAEUhx5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D1j7UfwXcAEUhx5.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/RKYXXytGZj"
+            }
+        ],
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@OhioFarmBureau @RepBobGibbs @RepBalderson https://t.co/RKYXXytGZj",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Dec 21 18:18:29 +0000 2010",
+            "description": "I wake up smiling every morning, kiss my wife & kids, then advocate for Ohio agriculture. Dir. of Media Relations with Ohio Farm Bureau. Opinions are mine.",
+            "favourites_count": 4233,
+            "followers_count": 3108,
+            "friends_count": 2044,
+            "geo_enabled": true,
+            "id": 229169595,
+            "id_str": "229169595",
+            "listed_count": 77,
+            "location": "Ohio",
+            "name": "Ty Higgins\ud83d\udd0a\ud83c\uddfa\ud83c\uddf8\ud83d\ude9c\ud83c\udfdb",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/229169595/1546465771",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080581706187452418/_mi7hHYK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080581706187452418/_mi7hHYK_normal.jpg",
+            "profile_link_color": "FA0A1E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "TyHigginsAg",
+            "statuses_count": 4909
+        },
+        "user_mentions": [
+            {
+                "id": 17480797,
+                "id_str": "17480797",
+                "name": "Ohio Farm Bureau",
+                "screen_name": "OhioFarmBureau"
+            },
+            {
+                "id": 234822928,
+                "id_str": "234822928",
+                "name": "Rep. Bob Gibbs",
+                "screen_name": "RepBobGibbs"
+            },
+            {
+                "id": 1037341536592310272,
+                "id_str": "1037341536592310272",
+                "name": "Congressman Troy Balderson",
+                "screen_name": "RepBalderson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @TyHigginsAg: @OhioFarmBureau @RepBobGibbs @RepBalderson https://t.co/RKYXXytGZj",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 06 17:17:21 +0000 2011",
+        "description": "R-OH https://t.co/2BckMkGpZV",
+        "favourites_count": 200,
+        "followers_count": 36366,
+        "friends_count": 1704,
+        "id": 234822928,
+        "id_str": "234822928",
+        "listed_count": 922,
+        "location": "US Congress",
+        "name": "Rep. Bob Gibbs",
+        "profile_background_color": "470C0F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234822928/1505504628",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1104057806334976001/vNamx0io_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104057806334976001/vNamx0io_normal.jpg",
+        "profile_link_color": "0B14BD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1D472F",
+        "profile_text_color": "080808",
+        "profile_use_background_image": true,
+        "screen_name": "RepBobGibbs",
+        "statuses_count": 3265,
+        "url": "https://t.co/PQvRKDIC74",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 229169595,
+            "id_str": "229169595",
+            "name": "Ty Higgins\ud83d\udd0a\ud83c\uddfa\ud83c\uddf8\ud83d\ude9c\ud83c\udfdb",
+            "screen_name": "TyHigginsAg"
+        },
+        {
+            "id": 17480797,
+            "id_str": "17480797",
+            "name": "Ohio Farm Bureau",
+            "screen_name": "OhioFarmBureau"
+        },
+        {
+            "id": 234822928,
+            "id_str": "234822928",
+            "name": "Rep. Bob Gibbs",
+            "screen_name": "RepBobGibbs"
+        },
+        {
+            "id": 1037341536592310272,
+            "id_str": "1037341536592310272",
+            "name": "Congressman Troy Balderson",
+            "screen_name": "RepBalderson"
+        }
+    ]
+}

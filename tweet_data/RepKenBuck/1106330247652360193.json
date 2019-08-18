@@ -1,0 +1,85 @@
+{
+    "created_at": "Thu Mar 14 23:04:20 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1106330247652360193,
+    "id_str": "1106330247652360193",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/hxktIprG07",
+            "expanded_url": "https://twitter.com/RepKenBuck/status/1106330247652360193/photo/1",
+            "id": 1106330241717420033,
+            "media_url": "http://pbs.twimg.com/media/D1p5fkXWwAEP0nD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1p5fkXWwAEP0nD.jpg",
+            "sizes": {
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1152,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/hxktIprG07"
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "LIVE NOW on @FoxBusiness with @LouDobbs. Tune-in to watch! https://t.co/hxktIprG07",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 05 14:49:30 +0000 2014",
+        "description": "Proudly representing the wonderful people of Colorado (CO-04). Member on @JudiciaryGOP & @HouseForeignGOP",
+        "favourites_count": 218,
+        "followers_count": 26304,
+        "friends_count": 356,
+        "id": 2862577383,
+        "id_str": "2862577383",
+        "listed_count": 693,
+        "location": "Windsor, CO | Washington, DC",
+        "name": "Congressman Ken Buck",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2862577383/1420661732",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552483330839433216/tt64NtR4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552483330839433216/tt64NtR4_normal.jpeg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepKenBuck",
+        "statuses_count": 1583,
+        "url": "https://t.co/Tl3R8080cP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 56413858,
+            "id_str": "56413858",
+            "name": "FOX Business",
+            "screen_name": "FoxBusiness"
+        },
+        {
+            "id": 26487169,
+            "id_str": "26487169",
+            "name": "Lou Dobbs",
+            "screen_name": "LouDobbs"
+        }
+    ]
+}

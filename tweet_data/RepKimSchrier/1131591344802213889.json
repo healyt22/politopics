@@ -1,0 +1,119 @@
+{
+    "created_at": "Thu May 23 16:02:55 +0000 2019",
+    "hashtags": [],
+    "id": 1131591344802213889,
+    "id_str": "1131591344802213889",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu May 23 15:47:39 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1131587505843834886,
+        "id_str": "1131587505843834886",
+        "in_reply_to_screen_name": "WaysMeansCmte",
+        "in_reply_to_status_id": 1131587505155969024,
+        "in_reply_to_user_id": 31128529,
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "(8/9): @RepDelBene and @RepKimSchrier\u2019s legislation which allows certain home healthcare workers to contribute to a\u2026 https://t.co/xwhz2GEcBM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131587505843834886",
+                "url": "https://t.co/xwhz2GEcBM"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Apr 14 14:06:39 +0000 2009",
+            "description": "Official twitter account for Ways & Means \u2013 senior committee with jurisdiction over health care, trade, taxes, and Social Security. Chaired by @RepRichardNeal.",
+            "favourites_count": 138,
+            "followers_count": 40465,
+            "friends_count": 263,
+            "geo_enabled": true,
+            "id": 31128529,
+            "id_str": "31128529",
+            "listed_count": 1315,
+            "location": "Washington, DC",
+            "name": "Ways & Means Committee",
+            "profile_background_color": "CFE0E6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/31128529/1562960901",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145692074538360833/Jvbw7M1n_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145692074538360833/Jvbw7M1n_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "2C3825",
+            "profile_sidebar_fill_color": "214B70",
+            "profile_text_color": "0E1366",
+            "screen_name": "WaysMeansCmte",
+            "statuses_count": 12714,
+            "url": "https://t.co/Ld6ZbDnPIe",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 995193054,
+                "id_str": "995193054",
+                "name": "Rep. Suzan DelBene",
+                "screen_name": "RepDelBene"
+            },
+            {
+                "id": 1080462532815532032,
+                "id_str": "1080462532815532032",
+                "name": "Rep. Kim Schrier",
+                "screen_name": "RepKimSchrier"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @WaysMeansCmte: (8/9): @RepDelBene and @RepKimSchrier\u2019s legislation which allows certain home healthcare workers to contribute to a defi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 13:55:16 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly representing the people of Washington State\u2019s 8th District. Pediatrician. Mom.",
+        "favourites_count": 113,
+        "followers_count": 7377,
+        "friends_count": 67,
+        "id": 1080462532815532032,
+        "id_str": "1080462532815532032",
+        "listed_count": 202,
+        "location": "Washington, DC",
+        "name": "Rep. Kim Schrier",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080462532815532032/1556719960",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129401036349857793/zvLbPQb6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129401036349857793/zvLbPQb6_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepKimSchrier",
+        "statuses_count": 308,
+        "url": "https://t.co/IurKFdz2L9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 31128529,
+            "id_str": "31128529",
+            "name": "Ways & Means Committee",
+            "screen_name": "WaysMeansCmte"
+        },
+        {
+            "id": 995193054,
+            "id_str": "995193054",
+            "name": "Rep. Suzan DelBene",
+            "screen_name": "RepDelBene"
+        },
+        {
+            "id": 1080462532815532032,
+            "id_str": "1080462532815532032",
+            "name": "Rep. Kim Schrier",
+            "screen_name": "RepKimSchrier"
+        }
+    ]
+}

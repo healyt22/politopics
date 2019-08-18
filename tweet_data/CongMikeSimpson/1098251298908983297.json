@@ -1,0 +1,89 @@
+{
+    "created_at": "Wed Feb 20 16:01:28 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [
+        {
+            "text": "LWCF"
+        },
+        {
+            "text": "Idaho"
+        }
+    ],
+    "id": 1098251298908983297,
+    "id_str": "1098251298908983297",
+    "lang": "en",
+    "place": {
+        "id": "07d9f7f0f9c87002",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9f7f0f9c87002.json",
+        "place_type": "poi",
+        "name": "Tautphaus Park Zoo",
+        "full_name": "Tautphaus Park Zoo",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -112.04144885584473,
+                        43.47199208834611
+                    ],
+                    [
+                        -112.04144885584473,
+                        43.47199208834611
+                    ],
+                    [
+                        -112.04144885584473,
+                        43.47199208834611
+                    ],
+                    [
+                        -112.04144885584473,
+                        43.47199208834611
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great day at the IF Zoo discussing #LWCF, deferred maintance on our public lands &amp; how to get more of #Idaho\u2019s yout\u2026 https://t.co/9NXQvll4pZ",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1098251298908983297",
+            "url": "https://t.co/9NXQvll4pZ"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Sep 21 20:26:26 +0000 2009",
+        "default_profile": true,
+        "description": "Proudly representing Idaho's 2nd Congressional District",
+        "favourites_count": 245,
+        "followers_count": 17181,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 76132891,
+        "id_str": "76132891",
+        "listed_count": 651,
+        "location": "Washington, D.C.",
+        "name": "Cong. Mike Simpson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76132891/1541176451",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongMikeSimpson",
+        "statuses_count": 1131,
+        "url": "http://t.co/lRNTKPfcmE",
+        "verified": true
+    },
+    "user_mentions": []
+}

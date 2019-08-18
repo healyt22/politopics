@@ -1,0 +1,143 @@
+{
+    "created_at": "Thu Aug 15 23:34:09 +0000 2019",
+    "favorite_count": 116,
+    "hashtags": [
+        {
+            "text": "MA7"
+        },
+        {
+            "text": "Mapoli"
+        }
+    ],
+    "id": 1162145483407745024,
+    "id_str": "1162145483407745024",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Aug 15 22:57:45 +0000 2019",
+        "favorite_count": 239,
+        "hashtags": [
+            {
+                "text": "MA7"
+            }
+        ],
+        "id": 1162136324360548355,
+        "id_str": "1162136324360548355",
+        "lang": "en",
+        "place": {
+            "id": "8193d87541f11dfb",
+            "url": "https://api.twitter.com/1.1/geo/id/8193d87541f11dfb.json",
+            "place_type": "city",
+            "name": "Cambridge",
+            "full_name": "Cambridge, MA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.160356,
+                            42.352429
+                        ],
+                        [
+                            -71.064398,
+                            42.352429
+                        ],
+                        [
+                            -71.064398,
+                            42.4039663
+                        ],
+                        [
+                            -71.160356,
+                            42.4039663
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 40,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "At our #MA7 housing workshop, @RepPressley notes how growing up she was used to eviction notices. \nAnd, to applause\u2026 https://t.co/nw6dCBZcfP",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162136324360548355",
+                "url": "https://t.co/nw6dCBZcfP"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Oct 20 18:53:08 +0000 2015",
+            "description": "a genderqueer THEYngel, a non countable noun // all views my own etc etc etc //",
+            "favourites_count": 14784,
+            "followers_count": 530,
+            "friends_count": 1687,
+            "geo_enabled": true,
+            "id": 4004013797,
+            "id_str": "4004013797",
+            "listed_count": 4,
+            "location": "Boston, MA",
+            "name": "jace",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4004013797/1558303098",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/928314933015646208/7VTIW3mu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/928314933015646208/7VTIW3mu_normal.jpg",
+            "profile_link_color": "003366",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "JaceRitchey",
+            "statuses_count": 7909,
+            "url": "https://t.co/KQSW386TI3"
+        },
+        "user_mentions": [
+            {
+                "id": 1080584229510172678,
+                "id_str": "1080584229510172678",
+                "name": "Congresswoman Ayanna Pressley",
+                "screen_name": "RepPressley"
+            }
+        ]
+    },
+    "quoted_status_id": 1162136324360548355,
+    "quoted_status_id_str": "1162136324360548355",
+    "retweet_count": 21,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Grateful for your activism and dedication, Jace #MA7 #Mapoli https://t.co/NFiV08A7hT",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/JaceRitchey/status/1162136324360548355",
+            "url": "https://t.co/NFiV08A7hT"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 21:58:51 +0000 2019",
+        "default_profile": true,
+        "description": "Survivor, activist, mother, wife. Proudly representing the Massachusetts 7th. She/her. #MA7 #MAPoli (staff managed) IG: https://t.co/8U5pyazhmh",
+        "favourites_count": 1426,
+        "followers_count": 184455,
+        "friends_count": 553,
+        "id": 1080584229510172678,
+        "id_str": "1080584229510172678",
+        "listed_count": 873,
+        "location": "Boston, MA",
+        "name": "Congresswoman Ayanna Pressley",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080584229510172678/1558378402",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148967090281439232/4fEZHkdr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148967090281439232/4fEZHkdr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPressley",
+        "statuses_count": 1203,
+        "url": "https://t.co/Gi2r2G5qdw",
+        "verified": true
+    },
+    "user_mentions": []
+}

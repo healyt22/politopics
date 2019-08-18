@@ -1,0 +1,114 @@
+{
+    "created_at": "Sat Aug 10 15:00:00 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [],
+    "id": 1160204153840422913,
+    "id_str": "1160204153840422913",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ROIqGdoWhl",
+            "expanded_url": "https://twitter.com/RepDeSaulnier/status/1160204153840422913/video/1",
+            "id": 1159951620064436225,
+            "media_url": "http://pbs.twimg.com/media/EBj6YhzUIAAm4v7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBj6YhzUIAAm4v7.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/ROIqGdoWhl",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 131700,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1159951620064436225/vid/1280x720/mf6poo-Xf87LReJT.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1159951620064436225/vid/480x270/rP0i34hILLKkc-8Z.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1159951620064436225/vid/640x360/i_YnYm4hyFbscHpo.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1159951620064436225/pl/xmMEA7iqa54eKZeq.m3u8?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "ICYMI, @KPIXtv and @BettyKPIX joined us for our town hall in Danville. https://t.co/ROIqGdoWhl",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 08 15:32:13 +0000 2015",
+        "description": "Representing CA-11. Member of @transportdems @EdLaborCmte @oversightdems @RulesDemocrats. Dad, amateur historian, marathon runner & former small business owner.",
+        "favourites_count": 244,
+        "followers_count": 14740,
+        "friends_count": 838,
+        "geo_enabled": true,
+        "id": 2968007206,
+        "id_str": "2968007206",
+        "listed_count": 627,
+        "location": "Concord, CA",
+        "name": "Mark DeSaulnier",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2968007206/1533589054",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979126569070485505/TChO0ixS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979126569070485505/TChO0ixS_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDeSaulnier",
+        "statuses_count": 4052,
+        "url": "https://t.co/pa3PJQ8V5B",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16657699,
+            "id_str": "16657699",
+            "name": "KPIX 5",
+            "screen_name": "KPIXtv"
+        },
+        {
+            "id": 287912664,
+            "id_str": "287912664",
+            "name": "Betty Yu",
+            "screen_name": "BettyKPIX"
+        }
+    ]
+}

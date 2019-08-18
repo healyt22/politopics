@@ -1,0 +1,85 @@
+{
+    "created_at": "Thu Oct 26 14:13:58 +0000 2017",
+    "favorite_count": 23,
+    "hashtags": [
+        {
+            "text": "LetsGoX"
+        }
+    ],
+    "id": 923553292894031873,
+    "id_str": "923553292894031873",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/h6ybGfV304",
+            "expanded_url": "https://twitter.com/RepSteveChabot/status/923553292894031873/photo/1",
+            "id": 923552952756920320,
+            "media_url": "http://pbs.twimg.com/media/DNEehHBW4AAXJ0Z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DNEehHBW4AAXJ0Z.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 800,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1365,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 453,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/h6ybGfV304"
+        }
+    ],
+    "retweet_count": 12,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Good luck @XavierWSOC as you face Georgetown University today. #LetsGoX https://t.co/h6ybGfV304",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 13 15:03:08 +0000 2011",
+        "description": "Husband, grandpa, public servant, & proud Cincinnatian. Chairman of @HouseSmallBiz & senior Member on @HouseJudiciary & @HouseForeign.",
+        "favourites_count": 1767,
+        "followers_count": 27966,
+        "friends_count": 3008,
+        "geo_enabled": true,
+        "id": 237750442,
+        "id_str": "237750442",
+        "listed_count": 1106,
+        "location": "Cincinnati",
+        "name": "Rep. Steve Chabot",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237750442/1506718866",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_link_color": "666666",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B1D3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepSteveChabot",
+        "statuses_count": 3252,
+        "url": "https://t.co/uGxNrFAFsk",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 726357139,
+            "id_str": "726357139",
+            "name": "XU Women's Soccer",
+            "screen_name": "XavierWSOC"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "created_at": "Thu Jul 18 15:04:18 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [],
+    "id": 1151870317134061569,
+    "id_str": "1151870317134061569",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/dJTlP8wyqW",
+            "expanded_url": "https://twitter.com/RepChipRoy/status/1151870317134061569/photo/1",
+            "id": 1151870311182360576,
+            "media_url": "http://pbs.twimg.com/media/D_xD8fVX4AA7aX4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_xD8fVX4AA7aX4.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/dJTlP8wyqW"
+        }
+    ],
+    "quoted_status": {
+        "created_at": "Wed Jul 17 22:19:29 +0000 2019",
+        "favorite_count": 92,
+        "hashtags": [],
+        "id": 1151617444366172160,
+        "id_str": "1151617444366172160",
+        "lang": "en",
+        "retweet_count": 28,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "New podcast: Inside a maximum crazy day in the House of Representatives. When the Speaker is put in time out, thing\u2026 https://t.co/KCb6u7TmOQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151617444366172160",
+                "url": "https://t.co/KCb6u7TmOQ"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 16 20:38:05 +0000 2009",
+            "description": "Chief political correspondent, Washington Examiner, Fox News contributor, author of The Vast Left Wing Conspiracy",
+            "favourites_count": 16,
+            "followers_count": 345907,
+            "friends_count": 1303,
+            "geo_enabled": true,
+            "id": 47739450,
+            "id_str": "47739450",
+            "listed_count": 5303,
+            "location": "Washington, D.C.",
+            "name": "Byron York",
+            "profile_background_color": "020405",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/47739450/1407595550",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151132595201069057/mum7JUUe_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151132595201069057/mum7JUUe_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ByronYork",
+            "statuses_count": 43067,
+            "url": "http://t.co/tAAyTAVFIb",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1151617444366172160,
+    "quoted_status_id_str": "1151617444366172160",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "It was great to sit down with you, @ByronYork! https://t.co/V6qEs5nwJM https://t.co/dJTlP8wyqW",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/ByronYork/status/1151617444366172160",
+            "url": "https://t.co/V6qEs5nwJM"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly representing the people of the 21st Congressional District of Texas.",
+        "favourites_count": 325,
+        "followers_count": 21932,
+        "friends_count": 36,
+        "geo_enabled": true,
+        "id": 1082790600292925440,
+        "id_str": "1082790600292925440",
+        "listed_count": 246,
+        "location": "Washington, DC",
+        "name": "Rep. Chip Roy",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1547050497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChipRoy",
+        "statuses_count": 1211,
+        "url": "https://t.co/HpJaJuKlOT",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 47739450,
+            "id_str": "47739450",
+            "name": "Byron York",
+            "screen_name": "ByronYork"
+        }
+    ]
+}

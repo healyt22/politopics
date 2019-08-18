@@ -1,0 +1,115 @@
+{
+    "created_at": "Tue May 14 00:37:30 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1128096967475773441,
+    "id_str": "1128096967475773441",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/XaBoBYAVye",
+            "expanded_url": "https://twitter.com/RepLanceGooden/status/1128096967475773441/video/1",
+            "id": 1128048005532221440,
+            "media_url": "http://pbs.twimg.com/media/D6fNPY5WAAA88cD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6fNPY5WAAA88cD.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 624,
+                    "h": 352,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 624,
+                    "h": 352,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 624,
+                    "h": 352,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/XaBoBYAVye",
+            "video_info": {
+                "aspect_ratio": [
+                    39,
+                    22
+                ],
+                "duration_millis": 174200,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1128048005532221440/pl/L_rHuTghvc0kd1w-.m3u8?tag=12"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1128048005532221440/vid/624x352/R8TvwMbwMoymFA10.mp4?tag=12"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1128048005532221440/vid/318x180/nzvkx6nByaQ6VlGG.mp4?tag=12"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 10,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "WATCH my interview on @FoxNews with @TeamCavuto - @realDonaldTrump has China right where he wants them. https://t.co/XaBoBYAVye",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Nov 14 22:37:53 +0000 2011",
+        "description": "Proud to represent Texas' 5th District in the U.S. House of Representatives. Serving on @FinancialCmte.",
+        "favourites_count": 23,
+        "followers_count": 2549,
+        "friends_count": 348,
+        "geo_enabled": true,
+        "id": 412595957,
+        "id_str": "412595957",
+        "listed_count": 174,
+        "location": "Terrell, Texas",
+        "name": "Lance Gooden",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/412595957/1550077170",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093534775330201601/2iFr5YYd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093534775330201601/2iFr5YYd_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepLanceGooden",
+        "statuses_count": 429,
+        "url": "https://t.co/q01QHrXFWj",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1367531,
+            "id_str": "1367531",
+            "name": "Fox News",
+            "screen_name": "FoxNews"
+        },
+        {
+            "id": 223970563,
+            "id_str": "223970563",
+            "name": "Neil Cavuto",
+            "screen_name": "TeamCavuto"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

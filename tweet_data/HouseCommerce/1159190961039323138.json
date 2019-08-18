@@ -1,0 +1,120 @@
+{
+    "created_at": "Wed Aug 07 19:53:56 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 1159190961039323138,
+    "id_str": "1159190961039323138",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Aug 07 13:45:39 +0000 2019",
+        "favorite_count": 35,
+        "hashtags": [],
+        "id": 1159098279365369857,
+        "id_str": "1159098279365369857",
+        "lang": "en",
+        "retweet_count": 56,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Today, @FEMA, coordinating with @FCC, will conduct a nationwide test of the Emergency Alert System. The nationwide\u2026 https://t.co/v5GI3U68po",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159098279365369857",
+                "url": "https://t.co/v5GI3U68po"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 17 14:43:05 +0000 2009",
+            "description": "The official Twitter page of the US Federal Communications Commission. RT & Follow does not imply endorsement.\n\nFCC moments: https://t.co/iVXTCQsVX8",
+            "favourites_count": 5,
+            "followers_count": 711409,
+            "friends_count": 163,
+            "id": 66369206,
+            "id_str": "66369206",
+            "listed_count": 7023,
+            "location": "Washington, DC",
+            "name": "The FCC",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/66369206/1501276811",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/890686554892640257/9WfkWd8I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/890686554892640257/9WfkWd8I_normal.jpg",
+            "profile_link_color": "59A0CC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "AAAAAA",
+            "profile_use_background_image": true,
+            "screen_name": "FCC",
+            "statuses_count": 14622,
+            "url": "http://t.co/9raBcpKnNZ",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 16669075,
+                "id_str": "16669075",
+                "name": "FEMA",
+                "screen_name": "fema"
+            },
+            {
+                "id": 66369206,
+                "id_str": "66369206",
+                "name": "The FCC",
+                "screen_name": "FCC"
+            }
+        ]
+    },
+    "quoted_status_id": 1159098279365369857,
+    "quoted_status_id_str": "1159098279365369857",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Did you hear the test alert over the tv and radio? Today @FCC and @FEMA ran a test nationwide to check on our emerg\u2026 https://t.co/EZvWx0Wbbf",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1159190961039323138",
+            "url": "https://t.co/EZvWx0Wbbf"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Feb 16 14:18:06 +0000 2010",
+        "description": "House Energy & Commerce Committee Republicans | Republican Leader @repgregwalden",
+        "favourites_count": 426,
+        "followers_count": 31292,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 114756202,
+        "id_str": "114756202",
+        "listed_count": 1305,
+        "location": "Washington, D.C.",
+        "name": "Energy & Commerce GOP",
+        "profile_background_color": "050000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114756202/1504288315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+        "profile_link_color": "A79777",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C7C5C5",
+        "profile_text_color": "28539E",
+        "profile_use_background_image": true,
+        "screen_name": "HouseCommerce",
+        "statuses_count": 14420,
+        "url": "https://t.co/N1b9OueDJW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 66369206,
+            "id_str": "66369206",
+            "name": "The FCC",
+            "screen_name": "FCC"
+        },
+        {
+            "id": 16669075,
+            "id_str": "16669075",
+            "name": "FEMA",
+            "screen_name": "fema"
+        }
+    ]
+}

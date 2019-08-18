@@ -1,0 +1,105 @@
+{
+    "created_at": "Tue Jul 16 14:26:11 +0000 2019",
+    "hashtags": [],
+    "id": 1151135945237790724,
+    "id_str": "1151135945237790724",
+    "lang": "en",
+    "retweet_count": 34,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 14:25:46 +0000 2019",
+        "favorite_count": 53,
+        "hashtags": [],
+        "id": 1151135842062106627,
+        "id_str": "1151135842062106627",
+        "lang": "en",
+        "retweet_count": 34,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\"Would you please describe the personal data collection for on-platform transactions,\" @MikeCrapo asks about Facebo\u2026 https://t.co/gcBjvHM2Sh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151135842062106627",
+                "url": "https://t.co/gcBjvHM2Sh"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Nov 09 23:00:29 +0000 2017",
+            "default_profile": true,
+            "description": "A look at how cryptocurrencies and blockchain are reshaping our world from Bloomberg @business",
+            "favourites_count": 23,
+            "followers_count": 141023,
+            "friends_count": 72,
+            "id": 928759224599040001,
+            "id_str": "928759224599040001",
+            "listed_count": 2290,
+            "name": "Bloomberg Crypto",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/928759224599040001/1517423435",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960601839300501506/wNCEyDTJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960601839300501506/wNCEyDTJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "crypto",
+            "statuses_count": 2836,
+            "url": "https://t.co/6MW997tkzv",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 600463589,
+                "id_str": "600463589",
+                "name": "Senator Mike Crapo",
+                "screen_name": "MikeCrapo"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @crypto: \"Would you please describe the personal data collection for on-platform transactions,\" @MikeCrapo asks about Facebook's Calibra\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 05 22:16:35 +0000 2012",
+        "description": "United States Senator for the great state of Idaho.",
+        "favourites_count": 744,
+        "followers_count": 96401,
+        "friends_count": 743,
+        "geo_enabled": true,
+        "id": 600463589,
+        "id_str": "600463589",
+        "listed_count": 1742,
+        "location": "Idaho & Washington, D.C.",
+        "name": "Senator Mike Crapo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/600463589/1358530313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "MikeCrapo",
+        "statuses_count": 6558,
+        "url": "http://t.co/W6cAM2HKzW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 928759224599040001,
+            "id_str": "928759224599040001",
+            "name": "Bloomberg Crypto",
+            "screen_name": "crypto"
+        },
+        {
+            "id": 600463589,
+            "id_str": "600463589",
+            "name": "Senator Mike Crapo",
+            "screen_name": "MikeCrapo"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "created_at": "Sun Jun 30 13:06:44 +0000 2019",
+    "favorite_count": 1540,
+    "hashtags": [],
+    "id": 1145317748018466818,
+    "id_str": "1145317748018466818",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jun 29 23:04:19 +0000 2019",
+        "favorite_count": 64319,
+        "hashtags": [
+            {
+                "text": "I"
+            }
+        ],
+        "id": 1145105744225873920,
+        "id_str": "1145105744225873920",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/WqztzK9xSx",
+                "expanded_url": "https://twitter.com/marykarrlit/status/1145105744225873920/video/1",
+                "id": 1145105685694357504,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1145105685694357504/pu/img/ZW5wBHHsZ-WTf_a-.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1145105685694357504/pu/img/ZW5wBHHsZ-WTf_a-.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/WqztzK9xSx",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 10398,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1145105685694357504/pu/pl/qsyziw5AozmQLOv8.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1145105685694357504/pu/vid/360x640/WFyK1OmmjOIg4nC8.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1145105685694357504/pu/vid/720x1280/S4BY2l63qQtN9mUh.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1145105685694357504/pu/vid/320x568/LTO8Znrjjyw9Ne-h.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 11427,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "On the 6 train tonight, a couple takes a table out and starts a ping pong game....#I\u2764\ufe0fNYC https://t.co/WqztzK9xSx",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 14 16:38:29 +0000 2010",
+            "description": "New poetry book, Tropic of Squalor, Pulitzer Long List 2018",
+            "favourites_count": 28480,
+            "followers_count": 57909,
+            "friends_count": 307,
+            "geo_enabled": true,
+            "id": 155613846,
+            "id_str": "155613846",
+            "listed_count": 897,
+            "location": "New York City",
+            "name": "Mary Karr, Author",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/155613846/1517978355",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/961609371208835073/HYF7FsEH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/961609371208835073/HYF7FsEH_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "marykarrlit",
+            "statuses_count": 7230,
+            "url": "https://t.co/qTycCMJpOT",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1145105744225873920,
+    "quoted_status_id_str": "1145105744225873920",
+    "retweet_count": 213,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "What a great city New York is! https://t.co/GlGvfcFj8R",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/marykarrlit/status/1145105744225873920",
+            "url": "https://t.co/GlGvfcFj8R"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 19 20:10:20 +0000 2008",
+        "description": "Official account of Senator Chuck Schumer - New York\u2019s Senator RT\u2260endorsement",
+        "favourites_count": 215,
+        "followers_count": 1835270,
+        "friends_count": 25692,
+        "id": 17494010,
+        "id_str": "17494010",
+        "listed_count": 10291,
+        "location": "New York, NY",
+        "name": "Chuck Schumer",
+        "profile_background_color": "43090B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17494010/1522865010",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978655909198036993/Gpnx2Os2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978655909198036993/Gpnx2Os2_normal.jpg",
+        "profile_link_color": "FF6005",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E7E9EF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenSchumer",
+        "statuses_count": 15346,
+        "url": "https://t.co/8Vw6E2f47h",
+        "verified": true
+    },
+    "user_mentions": []
+}

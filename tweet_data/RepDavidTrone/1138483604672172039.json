@@ -1,0 +1,112 @@
+{
+    "created_at": "Tue Jun 11 16:30:18 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1138483604672172039,
+    "id_str": "1138483604672172039",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 10 13:00:21 +0000 2019",
+        "favorite_count": 53,
+        "hashtags": [],
+        "id": 1138068384510283776,
+        "id_str": "1138068384510283776",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "So honored to be featured on @NPR yesterday. Thank you @NPRInskeep for telling our human stories as modern-day Chin\u2026 https://t.co/4ZnuAdAVtA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138068384510283776",
+                "url": "https://t.co/4ZnuAdAVtA"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 16 03:03:40 +0000 2014",
+            "default_profile": true,
+            "description": "State Delegate for MD's 15th District (by authority: Friends of Lily Qi; Robert Weinstock, Treasurer). Opinions are my own.",
+            "favourites_count": 614,
+            "followers_count": 717,
+            "friends_count": 472,
+            "id": 2570124565,
+            "id_str": "2570124565",
+            "listed_count": 17,
+            "location": "Rockville, MD",
+            "name": "Lily Qi",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/923619469129371648/n1SoLQJs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/923619469129371648/n1SoLQJs_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LilyQiMaryland",
+            "statuses_count": 316,
+            "url": "https://t.co/licdXeBjxb"
+        },
+        "user_mentions": [
+            {
+                "id": 5392522,
+                "id_str": "5392522",
+                "name": "NPR",
+                "screen_name": "NPR"
+            },
+            {
+                "id": 115710058,
+                "id_str": "115710058",
+                "name": "Steve Inskeep",
+                "screen_name": "NPRinskeep"
+            }
+        ]
+    },
+    "quoted_status_id": 1138068384510283776,
+    "quoted_status_id_str": "1138068384510283776",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "What a great interview with my good friend @LilyQiMaryland. Her journey from China to the U.S. and subsequent elect\u2026 https://t.co/Ss7sjilDAD",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138483604672172039",
+            "url": "https://t.co/Ss7sjilDAD"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 21:15:37 +0000 2019",
+        "default_profile": true,
+        "description": "Congressman representing the 6th District of Maryland. Husband, Father, Business Owner.",
+        "favourites_count": 159,
+        "followers_count": 6695,
+        "friends_count": 878,
+        "id": 1080573351914061825,
+        "id_str": "1080573351914061825",
+        "listed_count": 172,
+        "location": "Maryland\u2019s 6th District",
+        "name": "Rep. David Trone",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080573351914061825/1546536501",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDavidTrone",
+        "statuses_count": 551,
+        "url": "https://t.co/YsuCO1X7X4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2570124565,
+            "id_str": "2570124565",
+            "name": "Lily Qi",
+            "screen_name": "LilyQiMaryland"
+        }
+    ]
+}

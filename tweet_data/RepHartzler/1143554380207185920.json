@@ -1,0 +1,101 @@
+{
+    "created_at": "Tue Jun 25 16:19:45 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1143554380207185920,
+    "id_str": "1143554380207185920",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/GkE6a1Mcsz",
+            "expanded_url": "https://twitter.com/RepHartzler/status/1143554380207185920/video/1",
+            "id": 1143554069195350017,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1143554069195350017/img/7vJA0PSRAo1o_ZG4.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1143554069195350017/img/7vJA0PSRAo1o_ZG4.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/GkE6a1Mcsz",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 58325,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1143554069195350017/pl/hvweDdxRoDSFsq-_.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143554069195350017/vid/480x270/-D3PwTi9V1nVZGhw.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143554069195350017/vid/640x360/f0dqecSldEqW-3sR.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143554069195350017/vid/1280x720/Ziwo2CUw2gEYT9XM.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Congratulations Rich Hill High School Boy\u2019s Track and Field Team on your State Championship Title! Go Tigers! https://t.co/GkE6a1Mcsz",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 13 15:38:52 +0000 2011",
+        "description": "I serve the hardworking Missourians of #MO4. Working to reduce big govt. burden & unleash American spirit. On Armed Services and Agriculture Committees.",
+        "favourites_count": 444,
+        "followers_count": 21688,
+        "friends_count": 1034,
+        "geo_enabled": true,
+        "id": 237763317,
+        "id_str": "237763317",
+        "listed_count": 1063,
+        "location": "Harrisonville, Missouri",
+        "name": "Rep. Vicky Hartzler",
+        "profile_background_color": "0D3F6E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237763317/1435159166",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/613719612581089280/aIg3Odi0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/613719612581089280/aIg3Odi0_normal.jpg",
+        "profile_link_color": "930D12",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepHartzler",
+        "statuses_count": 6929,
+        "url": "http://t.co/67BpQ5eROP",
+        "verified": true
+    },
+    "user_mentions": []
+}

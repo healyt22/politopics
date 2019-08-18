@@ -1,0 +1,138 @@
+{
+    "created_at": "Thu Apr 18 19:03:30 +0000 2019",
+    "hashtags": [],
+    "id": 1118953214290739200,
+    "id_str": "1118953214290739200",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Thu Apr 18 18:31:04 +0000 2019",
+        "favorite_count": 67,
+        "hashtags": [],
+        "id": 1118945054855323648,
+        "id_str": "1118945054855323648",
+        "lang": "en",
+        "place": {
+            "id": "adc95f2911133646",
+            "url": "https://api.twitter.com/1.1/geo/id/adc95f2911133646.json",
+            "place_type": "city",
+            "name": "Colorado Springs",
+            "full_name": "Colorado Springs, CO",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -104.910562,
+                            38.741142
+                        ],
+                        [
+                            -104.668092,
+                            38.741142
+                        ],
+                        [
+                            -104.668092,
+                            39.035895
+                        ],
+                        [
+                            -104.910562,
+                            39.035895
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Wonderful to be at High Plains Elementary School of @AcademyD20 in Colorado Springs to discuss how parents, distric\u2026 https://t.co/zIdDrXxMDB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118945054855323648",
+                "url": "https://t.co/zIdDrXxMDB"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 05 22:03:01 +0000 2016",
+            "default_profile": true,
+            "description": "The official twitter account for Colorado Gov. Jared Polis.",
+            "favourites_count": 742,
+            "followers_count": 27180,
+            "friends_count": 1222,
+            "geo_enabled": true,
+            "id": 728344273620344832,
+            "id_str": "728344273620344832",
+            "listed_count": 399,
+            "location": "Colorado, USA",
+            "name": "Jared Polis",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/728344273620344832/1465754163",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1140688310236372992/P9B-RKDu_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140688310236372992/P9B-RKDu_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GovofCO",
+            "statuses_count": 1468,
+            "url": "https://t.co/KZhb1Phymp",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 776463142251487232,
+                "id_str": "776463142251487232",
+                "name": "Academy District 20",
+                "screen_name": "AcademyD20"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GovofCO: Wonderful to be at High Plains Elementary School of @AcademyD20 in Colorado Springs to discuss how parents, districts, and of\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jul 09 03:04:04 +0000 2008",
+        "description": "father, entrepreneur,education policy, baseball, tech, politics, gaymer - Former member of Congress, current Governor of CO",
+        "favourites_count": 9308,
+        "followers_count": 74560,
+        "friends_count": 5505,
+        "geo_enabled": true,
+        "id": 15361570,
+        "id_str": "15361570",
+        "listed_count": 2148,
+        "location": "Boulder, CO",
+        "name": "Jared Polis",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15361570/1558563740",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/752314449206341633/SoUVQR8U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/752314449206341633/SoUVQR8U_normal.jpg",
+        "profile_link_color": "445CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "jaredpolis",
+        "statuses_count": 6788,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 728344273620344832,
+            "id_str": "728344273620344832",
+            "name": "Jared Polis",
+            "screen_name": "GovofCO"
+        },
+        {
+            "id": 776463142251487232,
+            "id_str": "776463142251487232",
+            "name": "Academy District 20",
+            "screen_name": "AcademyD20"
+        }
+    ]
+}

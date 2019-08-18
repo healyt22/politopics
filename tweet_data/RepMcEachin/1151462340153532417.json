@@ -1,0 +1,145 @@
+{
+    "created_at": "Wed Jul 17 12:03:09 +0000 2019",
+    "hashtags": [
+        {
+            "text": "ocean"
+        }
+    ],
+    "id": 1151462340153532417,
+    "id_str": "1151462340153532417",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 20:35:09 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "ocean"
+            }
+        ],
+        "id": 1151228802170839045,
+        "id_str": "1151228802170839045",
+        "lang": "en",
+        "place": {
+            "id": "05fe3c3f4a709dfd",
+            "url": "https://api.twitter.com/1.1/geo/id/05fe3c3f4a709dfd.json",
+            "place_type": "neighborhood",
+            "name": "Capitol Hill",
+            "full_name": "Capitol Hill, Washington",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.0152553,
+                            38.8773146
+                        ],
+                        [
+                            -76.985432,
+                            38.8773146
+                        ],
+                        [
+                            -76.985432,
+                            38.8973988
+                        ],
+                        [
+                            -77.0152553,
+                            38.8973988
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to @RepMcEachin for making time to meet with us on #ocean issues, &amp; his excellent leadership to protect and\u2026 https://t.co/xBSg8d7n90",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151228802170839045",
+                "url": "https://t.co/xBSg8d7n90"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 28 16:23:53 +0000 2013",
+            "description": "Creation Care + Environmental Justice. We educate, equip & mobilize Christian communities to protect, restore & rightly share God's creation.",
+            "favourites_count": 5746,
+            "followers_count": 2607,
+            "friends_count": 2466,
+            "geo_enabled": true,
+            "id": 1707703652,
+            "id_str": "1707703652",
+            "listed_count": 135,
+            "location": "Washington, DC",
+            "name": "Creation Justice",
+            "profile_background_color": "C8DE85",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707703652/1434571809",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000375389534/e1a369989d8e836cc24330674110d750_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000375389534/e1a369989d8e836cc24330674110d750_normal.jpeg",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "CreationJustice",
+            "statuses_count": 6904,
+            "url": "https://t.co/qsMwSD9OHC"
+        },
+        "user_mentions": [
+            {
+                "id": 816181091673448448,
+                "id_str": "816181091673448448",
+                "name": "Rep. Donald McEachin",
+                "screen_name": "RepMcEachin"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CreationJustice: Thanks to @RepMcEachin for making time to meet with us on #ocean issues, &amp; his excellent leadership to protect and res\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 03 07:15:10 +0000 2017",
+        "description": "Father, husband & Progressive Democrat. Proudly representing VA\u2019s Fighting 4th Congressional District #VA04. Member @EnergyCommerce  @climatecrisis & @NRDems.",
+        "favourites_count": 946,
+        "followers_count": 8469,
+        "friends_count": 1297,
+        "geo_enabled": true,
+        "id": 816181091673448448,
+        "id_str": "816181091673448448",
+        "listed_count": 385,
+        "name": "Rep. Donald McEachin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816181091673448448/1520458426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_link_color": "0A5539",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMcEachin",
+        "statuses_count": 3832,
+        "url": "https://t.co/IsHgFCD4gT",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1707703652,
+            "id_str": "1707703652",
+            "name": "Creation Justice",
+            "screen_name": "CreationJustice"
+        },
+        {
+            "id": 816181091673448448,
+            "id_str": "816181091673448448",
+            "name": "Rep. Donald McEachin",
+            "screen_name": "RepMcEachin"
+        }
+    ]
+}

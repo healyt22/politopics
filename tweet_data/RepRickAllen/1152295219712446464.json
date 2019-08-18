@@ -1,0 +1,110 @@
+{
+    "created_at": "Fri Jul 19 19:12:43 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [
+        {
+            "text": "GA12"
+        }
+    ],
+    "id": 1152295219712446464,
+    "id_str": "1152295219712446464",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ptLAfBajdi",
+            "expanded_url": "https://twitter.com/RepRickAllen/status/1152295219712446464/video/1",
+            "id": 1152294894662238211,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1152294894662238211/img/fd_XwOq6UW6ue_by.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1152294894662238211/img/fd_XwOq6UW6ue_by.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/ptLAfBajdi",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 149067,
+                "variants": [
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1152294894662238211/vid/480x270/rUrIvqK6uG8yVhjZ.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1152294894662238211/vid/1280x720/lJvYvv0Zpc7RQDra.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1152294894662238211/pl/kQ-10j-UH8JvpzZT.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1152294894662238211/vid/640x360/KyLzcUgi0ULX0Wca.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 13,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Take a look at my e-Newsletter to see what I did this week serving #GA12 \u2192 https://t.co/aUWodoXNRC https://t.co/ptLAfBajdi",
+    "urls": [
+        {
+            "expanded_url": "https://bit.ly/30OuLvP",
+            "url": "https://t.co/aUWodoXNRC"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 06 14:45:18 +0000 2015",
+        "description": "Proudly representing Georgia's 12th Congressional District",
+        "favourites_count": 97,
+        "followers_count": 17379,
+        "friends_count": 130,
+        "geo_enabled": true,
+        "id": 2964287128,
+        "id_str": "2964287128",
+        "listed_count": 446,
+        "location": "Augusta, GA and Washington, DC",
+        "name": "Rick W. Allen",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964287128/1506352403",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552476601510682624/vklJRMrV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552476601510682624/vklJRMrV_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRickAllen",
+        "statuses_count": 1688,
+        "url": "https://t.co/WfV96n5LQo",
+        "verified": true
+    },
+    "user_mentions": []
+}

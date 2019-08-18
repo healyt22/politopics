@@ -1,0 +1,170 @@
+{
+    "created_at": "Thu Jul 25 21:15:33 +0000 2019",
+    "hashtags": [
+        {
+            "text": "INFRA"
+        }
+    ],
+    "id": 1154500460356620288,
+    "id_str": "1154500460356620288",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Jul 25 19:08:24 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "INFRA"
+            }
+        ],
+        "id": 1154468460753281024,
+        "id_str": "1154468460753281024",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today @USDOT announced this round of #INFRA award winners; @TransportGOP @RepSamGraves joins in the press conferenc\u2026 https://t.co/KOvGkmYivi",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154468460753281024",
+                "url": "https://t.co/KOvGkmYivi"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jun 07 14:22:01 +0000 2009",
+            "description": "Dedicated to raising awareness of the need to expand US freight transportation capabilities and working toward solutions for this growing national challenge.",
+            "favourites_count": 335,
+            "followers_count": 806,
+            "friends_count": 306,
+            "geo_enabled": true,
+            "id": 45346408,
+            "id_str": "45346408",
+            "listed_count": 33,
+            "location": "Washington, DC",
+            "name": "Give Freight a Fund",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1047223118329270273/rcUsSisN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047223118329270273/rcUsSisN_normal.jpg",
+            "profile_link_color": "167A22",
+            "profile_sidebar_border_color": "167A22",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "167A22",
+            "profile_use_background_image": true,
+            "screen_name": "CAGTC",
+            "statuses_count": 1483,
+            "url": "http://t.co/1KspRnBHbM"
+        },
+        "user_mentions": [
+            {
+                "id": 393562221,
+                "id_str": "393562221",
+                "name": "TransportationGov",
+                "screen_name": "USDOT"
+            },
+            {
+                "id": 35829796,
+                "id_str": "35829796",
+                "name": "T&I Committee Republicans",
+                "screen_name": "TransportGOP"
+            },
+            {
+                "id": 29766367,
+                "id_str": "29766367",
+                "name": "Rep. Sam Graves",
+                "screen_name": "RepSamGraves"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @CAGTC: Today @USDOT announced this round of #INFRA award winners; @TransportGOP @RepSamGraves joins in the press conference to discuss\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Apr 27 19:14:48 +0000 2009",
+        "description": "Transportation & Infrastructure Committee:  Aviation, Maritime, Highway, Transit, Railroad, Pipeline, Hazmat, Water Resource. \nhttps://t.co/U77pFeIWjV",
+        "favourites_count": 1313,
+        "followers_count": 19375,
+        "friends_count": 748,
+        "id": 35829796,
+        "id_str": "35829796",
+        "listed_count": 909,
+        "location": "Washington, D.C.",
+        "name": "T&I Committee Republicans",
+        "profile_background_color": "002442",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35829796/1546902426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082725836996915201/KxeIMSB5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082725836996915201/KxeIMSB5_normal.jpg",
+        "profile_link_color": "FF4A4A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F9FEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "TransportGOP",
+        "statuses_count": 8230,
+        "url": "https://t.co/Nuz80ra8Hq",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 45346408,
+            "id_str": "45346408",
+            "name": "Give Freight a Fund",
+            "screen_name": "CAGTC"
+        },
+        {
+            "id": 393562221,
+            "id_str": "393562221",
+            "name": "TransportationGov",
+            "screen_name": "USDOT"
+        },
+        {
+            "id": 35829796,
+            "id_str": "35829796",
+            "name": "T&I Committee Republicans",
+            "screen_name": "TransportGOP"
+        },
+        {
+            "id": 29766367,
+            "id_str": "29766367",
+            "name": "Rep. Sam Graves",
+            "screen_name": "RepSamGraves"
+        }
+    ]
+}

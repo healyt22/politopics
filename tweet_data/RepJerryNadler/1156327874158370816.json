@@ -1,0 +1,115 @@
+{
+    "created_at": "Tue Jul 30 22:17:03 +0000 2019",
+    "favorite_count": 370,
+    "hashtags": [],
+    "id": 1156327874158370816,
+    "id_str": "1156327874158370816",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Ls1T6qG1Sv",
+            "expanded_url": "https://twitter.com/RepJerryNadler/status/1156327874158370816/photo/1",
+            "id": 1156327868915429376,
+            "media_url": "http://pbs.twimg.com/media/EAwaEf6WsAAHadu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAwaEf6WsAAHadu.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ls1T6qG1Sv"
+        }
+    ],
+    "place": {
+        "id": "01a9a39529b27f36",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+        "place_type": "city",
+        "name": "Manhattan",
+        "full_name": "Manhattan, NY",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 73,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Always good to be back in NYC and giving a Washington update in Lower Manhattan to @CommunityBoard1 https://t.co/Ls1T6qG1Sv",
+    "urls": [],
+    "user": {
+        "created_at": "Fri May 15 18:37:39 +0000 2009",
+        "description": "Representing parts of Manhattan and Brooklyn. Proud to serve as the Chair of @HouseJudiciary. Follow me at https://t.co/eAS0pRYbYu",
+        "favourites_count": 567,
+        "followers_count": 226892,
+        "friends_count": 1986,
+        "geo_enabled": true,
+        "id": 40302336,
+        "id_str": "40302336",
+        "listed_count": 2380,
+        "location": "New York, NY",
+        "name": "(((Rep. Nadler)))",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40302336/1557845965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJerryNadler",
+        "statuses_count": 6114,
+        "url": "https://t.co/keKmu0YhMW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 156744891,
+            "id_str": "156744891",
+            "name": "Community Board One",
+            "screen_name": "CommunityBoard1"
+        }
+    ]
+}

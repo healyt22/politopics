@@ -1,0 +1,117 @@
+{
+    "created_at": "Thu Oct 11 19:11:30 +0000 2018",
+    "hashtags": [],
+    "id": 1050463921583341569,
+    "id_str": "1050463921583341569",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Oct 10 17:53:56 +0000 2018",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1050082014207070211,
+        "id_str": "1050082014207070211",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We welcomed a visit by @RepGuthrie and @mikeofcc in Bowling Green. We gave a tour of our hub site and discussed our\u2026 https://t.co/zYWdkr9DTR",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1050082014207070211",
+                "url": "https://t.co/zYWdkr9DTR"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Nov 11 22:35:21 +0000 2015",
+            "default_profile": true,
+            "description": "We're growing America's economy and driving innovation so our customers can receive the information and entertainment they want.",
+            "favourites_count": 212,
+            "followers_count": 2571,
+            "friends_count": 1144,
+            "id": 4166883669,
+            "id_str": "4166883669",
+            "listed_count": 21,
+            "name": "Charter Policy",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4166883669/1506441060",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/912706001681317888/-iXjWwJa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/912706001681317888/-iXjWwJa_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CharterGov",
+            "statuses_count": 1046,
+            "url": "https://t.co/MhuTUkU6Gu"
+        },
+        "user_mentions": [
+            {
+                "id": 1908143071,
+                "id_str": "1908143071",
+                "name": "Rep. Brett Guthrie",
+                "screen_name": "RepGuthrie"
+            },
+            {
+                "id": 2209542872,
+                "id_str": "2209542872",
+                "name": "Mike O\u2019Rielly",
+                "screen_name": "mikeofcc"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @CharterGov: We welcomed a visit by @RepGuthrie and @mikeofcc in Bowling Green. We gave a tour of our hub site and discussed our trials\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Sep 26 14:37:17 +0000 2013",
+        "default_profile": true,
+        "description": "Fighting for conservative values in Washington while representing the people of Kentucky's 2nd Congressional District",
+        "favourites_count": 147,
+        "followers_count": 16392,
+        "friends_count": 218,
+        "id": 1908143071,
+        "id_str": "1908143071",
+        "listed_count": 487,
+        "location": "Kentucky's Second District",
+        "name": "Rep. Brett Guthrie",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908143071/1398802844",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/689479180568829952/sNv4Qrl3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/689479180568829952/sNv4Qrl3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGuthrie",
+        "statuses_count": 849,
+        "url": "https://t.co/o8TdiWaWnj",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 4166883669,
+            "id_str": "4166883669",
+            "name": "Charter Policy",
+            "screen_name": "CharterGov"
+        },
+        {
+            "id": 1908143071,
+            "id_str": "1908143071",
+            "name": "Rep. Brett Guthrie",
+            "screen_name": "RepGuthrie"
+        },
+        {
+            "id": 2209542872,
+            "id_str": "2209542872",
+            "name": "Mike O\u2019Rielly",
+            "screen_name": "mikeofcc"
+        }
+    ]
+}

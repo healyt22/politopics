@@ -1,0 +1,132 @@
+{
+    "created_at": "Wed Jun 12 20:36:25 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1138907930218995712,
+    "id_str": "1138907930218995712",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 12 20:14:37 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1138902445394976768,
+        "id_str": "1138902445394976768",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Part of our leadership team working hard today with the Virginia Sexual and Domestic Violence Action Alliance for\u2026 https://t.co/lJKeBfTFjC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138902445394976768",
+                "url": "https://t.co/lJKeBfTFjC"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 27 15:26:08 +0000 2016",
+            "default_profile": true,
+            "description": "Dedicated to eradicating domestic, sexual, and dating violence through education, advocacy, empowerment of survivors, and by being a sanctuary for victims.",
+            "favourites_count": 224,
+            "followers_count": 103,
+            "friends_count": 252,
+            "geo_enabled": true,
+            "id": 758322586052730880,
+            "id_str": "758322586052730880",
+            "location": "Lexington, VA",
+            "name": "Project Horizon",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/758322586052730880/1512071241",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/766290394107613184/IaqHXgIX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/766290394107613184/IaqHXgIX_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ProjectHorizon2",
+            "statuses_count": 863,
+            "url": "https://t.co/EygtLWXUaF"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138902445394976768,
+    "quoted_status_id_str": "1138902445394976768",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "It was great to see friends from @ProjectHorizon2 advocating for action to combat domestic violence. I will continu\u2026 https://t.co/ss2VgnF3MU",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138907930218995712",
+            "url": "https://t.co/ss2VgnF3MU"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 10 15:57:26 +0000 2018",
+        "default_profile": true,
+        "description": "Representing the 6th District of Virginia. Member of House @EdLaborGOP and @JudiciaryGOP Committees.",
+        "favourites_count": 48,
+        "followers_count": 6138,
+        "friends_count": 220,
+        "id": 1072158357237174272,
+        "id_str": "1072158357237174272",
+        "listed_count": 144,
+        "location": "Rockbridge County, Virginia",
+        "name": "Congressman Ben Cline",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072158357237174272/1546453531",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080526430851747841/A1ugejo0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080526430851747841/A1ugejo0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBenCline",
+        "statuses_count": 268,
+        "url": "https://t.co/85A2wNen3Y",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 758322586052730880,
+            "id_str": "758322586052730880",
+            "name": "Project Horizon",
+            "screen_name": "ProjectHorizon2"
+        }
+    ]
+}

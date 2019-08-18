@@ -1,0 +1,87 @@
+{
+    "created_at": "Mon Jul 22 20:22:55 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1153400050086580224,
+    "id_str": "1153400050086580224",
+    "lang": "en",
+    "place": {
+        "id": "07d9db3412484003",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9db3412484003.json",
+        "place_type": "poi",
+        "name": "Houston Community College West Loop Campus",
+        "full_name": "Houston Community College West Loop Campus",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -95.4577934101641,
+                        29.721261305569605
+                    ],
+                    [
+                        -95.4577934101641,
+                        29.721261305569605
+                    ],
+                    [
+                        -95.4577934101641,
+                        29.721261305569605
+                    ],
+                    [
+                        -95.4577934101641,
+                        29.721261305569605
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Field Hearing just getting started with @HouseScience in Houston - Weathering the Storm: Improving Hurricane Resili\u2026 https://t.co/HcKnJUM0kz",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153400050086580224",
+            "url": "https://t.co/HcKnJUM0kz"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 22:10:54 +0000 2019",
+        "default_profile": true,
+        "description": "Member of Congress, TX-29. Includes Houston, Galena Park, Jacinto City, South Houston & Pasadena. Passionate about public service. Fighting for working people.",
+        "favourites_count": 443,
+        "followers_count": 13715,
+        "friends_count": 666,
+        "geo_enabled": true,
+        "id": 1080587263132733442,
+        "id_str": "1080587263132733442",
+        "listed_count": 237,
+        "location": "Houston, TX",
+        "name": "Rep. Sylvia Garcia",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080587263132733442/1553125634",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080667541725278209/OXghDPVX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080667541725278209/OXghDPVX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSylviaGarcia",
+        "statuses_count": 819,
+        "url": "https://t.co/8fsvZ7J993",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22053641,
+            "id_str": "22053641",
+            "name": "Science Committee",
+            "screen_name": "HouseScience"
+        }
+    ]
+}

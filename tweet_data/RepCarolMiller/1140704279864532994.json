@@ -1,0 +1,97 @@
+{
+    "created_at": "Mon Jun 17 19:34:28 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 1140704279864532994,
+    "id_str": "1140704279864532994",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/lSAecakWWe",
+            "expanded_url": "https://twitter.com/RepCarolMiller/status/1140704279864532994/video/1",
+            "id": 1140704262080651264,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1140704262080651264/pu/img/4xozfUIxsLMq_vaO.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1140704262080651264/pu/img/4xozfUIxsLMq_vaO.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 320,
+                    "h": 568,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 320,
+                    "h": 568,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 320,
+                    "h": 568,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/lSAecakWWe",
+            "video_info": {
+                "aspect_ratio": [
+                    40,
+                    71
+                ],
+                "duration_millis": 7017,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1140704262080651264/pu/pl/GxL55NZZxvxXcQbO.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1140704262080651264/pu/vid/320x568/9CiBFaPNLszmB1Xh.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I finished the day by touring Leslie Equipment Company. Thanks for letting me drive the dozer! \n@TransportGOP https://t.co/lSAecakWWe",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 04 22:37:26 +0000 2019",
+        "description": "Wife, mother, grandmother, small business owner, and bison farmer. Proudly serving West Virginia's 3rd Congressional District.",
+        "favourites_count": 43,
+        "followers_count": 3689,
+        "friends_count": 120,
+        "id": 1081318716573470720,
+        "id_str": "1081318716573470720",
+        "listed_count": 143,
+        "location": "Huntington, WV",
+        "name": "Carol Miller",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081318716573470720/1546870140",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081319065514323968/DK8CD7JB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081319065514323968/DK8CD7JB_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepCarolMiller",
+        "statuses_count": 315,
+        "url": "https://t.co/FoIZ4nV66R",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 35829796,
+            "id_str": "35829796",
+            "name": "T&I Committee Republicans",
+            "screen_name": "TransportGOP"
+        }
+    ]
+}

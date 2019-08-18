@@ -1,0 +1,138 @@
+{
+    "created_at": "Thu Jul 25 14:09:25 +0000 2019",
+    "hashtags": [
+        {
+            "text": "AHORA"
+        },
+        {
+            "text": "TPS"
+        }
+    ],
+    "id": 1154393219138019332,
+    "id_str": "1154393219138019332",
+    "lang": "es",
+    "retweet_count": 30,
+    "retweeted_status": {
+        "created_at": "Thu Jul 25 13:38:37 +0000 2019",
+        "favorite_count": 18,
+        "hashtags": [
+            {
+                "text": "AHORA"
+            },
+            {
+                "text": "TPS"
+            }
+        ],
+        "id": 1154385465698656256,
+        "id_str": "1154385465698656256",
+        "lang": "es",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 30,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#AHORA \ud83c\uddfa\ud83c\uddf8\ud83c\uddfb\ud83c\uddea C\u00e1mara de Representantes volver\u00e1 a votar proyecto de ley de #TPS para venezolanos esta tarde, informan\u2026 https://t.co/kdrF3arp3v",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154385465698656256",
+                "url": "https://t.co/kdrF3arp3v"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Sep 12 18:45:45 +0000 2009",
+            "description": "Periodista/Journalist [@voanoticias] US Congress & LatAm. [+ info, -opini\u00f3n]",
+            "favourites_count": 370,
+            "followers_count": 3205,
+            "friends_count": 234,
+            "geo_enabled": true,
+            "id": 73706613,
+            "id_str": "73706613",
+            "listed_count": 50,
+            "location": "Washington, DC",
+            "name": "Jorge Agobian",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021361113240240128/0uXIMmDh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021361113240240128/0uXIMmDh_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "JorgeAgobian",
+            "statuses_count": 6271,
+            "url": "https://t.co/UkLJJO1F3P"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JorgeAgobian: #AHORA \ud83c\uddfa\ud83c\uddf8\ud83c\uddfb\ud83c\uddea C\u00e1mara de Representantes volver\u00e1 a votar proyecto de ley de #TPS para venezolanos esta tarde, informan dem\u00f3cr\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing Central Florida's 9th District: Osceola County and parts of Orange and Polk counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7\n\nOfficial Account",
+        "favourites_count": 4695,
+        "followers_count": 10786,
+        "friends_count": 3441,
+        "geo_enabled": true,
+        "id": 818713465653051392,
+        "id_str": "818713465653051392",
+        "listed_count": 446,
+        "location": "Kissimmee, Florida",
+        "name": "US Rep. Darren Soto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDarrenSoto",
+        "statuses_count": 3265,
+        "url": "https://t.co/3Iswy0Rzuf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 73706613,
+            "id_str": "73706613",
+            "name": "Jorge Agobian",
+            "screen_name": "JorgeAgobian"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "created_at": "Mon Sep 10 17:51:25 +0000 2018",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1039209746581135362,
+    "id_str": "1039209746581135362",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Sep 10 17:21:10 +0000 2018",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1039202133600612360,
+        "id_str": "1039202133600612360",
+        "lang": "en",
+        "quoted_status_id": 1038875144192708610,
+        "quoted_status_id_str": "1038875144192708610",
+        "retweet_count": 12,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@NWSNewYorkNY UPDATE: Coastal Flood Advisory extended for southern Queens: Until 1PM on 9/11. Tides 1.5-2.5 feet a\u2026 https://t.co/F8YxT1M6qM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1039202133600612360",
+                "url": "https://t.co/F8YxT1M6qM"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Sep 05 16:45:10 +0000 2008",
+            "description": "NYC's official emergency notification system. Important information about emergency events and services. Customer Use Policy http://t.co/kEcRWK3H48",
+            "favourites_count": 3,
+            "followers_count": 480102,
+            "friends_count": 70,
+            "id": 16145875,
+            "id_str": "16145875",
+            "listed_count": 3930,
+            "location": "New York City",
+            "name": "NYCEM - Notify NYC",
+            "profile_background_color": "2A3A92",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16145875/1535741380",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/898618865508376577/0yPgJ__U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/898618865508376577/0yPgJ__U_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C1C9DC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "NotifyNYC",
+            "statuses_count": 13716,
+            "url": "http://t.co/OsJGRwKnUQ",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 607867793,
+                "id_str": "607867793",
+                "name": "NWS New York NY",
+                "screen_name": "NWSNewYorkNY"
+            }
+        ]
+    },
+    "quoted_status_id": 1039202133600612360,
+    "quoted_status_id_str": "1039202133600612360",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "A coastal flood advisory is in effect for the southern portion of Queens until tomorrow afternoon \u2013 stay safe, ever\u2026 https://t.co/F32ikXcakG",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1039209746581135362",
+            "url": "https://t.co/F32ikXcakG"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Feb 05 16:39:11 +0000 2010",
+        "default_profile": true,
+        "description": "A boy from Queens. Father, husband, former Congressman, and Springsteen fan.",
+        "favourites_count": 688,
+        "followers_count": 33321,
+        "friends_count": 1046,
+        "geo_enabled": true,
+        "id": 111635980,
+        "id_str": "111635980",
+        "listed_count": 1152,
+        "name": "Joe Crowley",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111635980/1424200467",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978273714495279104/CwvAhSLj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978273714495279104/CwvAhSLj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoeCrowleyNY",
+        "statuses_count": 6449,
+        "verified": true
+    },
+    "user_mentions": []
+}

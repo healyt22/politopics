@@ -1,0 +1,170 @@
+{
+    "created_at": "Tue Apr 18 20:52:00 +0000 2017",
+    "hashtags": [
+        {
+            "text": "oceanplanning"
+        },
+        {
+            "text": "nj"
+        },
+        {
+            "text": "coast"
+        }
+    ],
+    "id": 854437381054877697,
+    "id_str": "854437381054877697",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Tue Apr 18 20:14:01 +0000 2017",
+        "favorite_count": 15,
+        "hashtags": [
+            {
+                "text": "oceanplanning"
+            },
+            {
+                "text": "nj"
+            },
+            {
+                "text": "coast"
+            }
+        ],
+        "id": 854427819866193920,
+        "id_str": "854427819866193920",
+        "lang": "en",
+        "place": {
+            "id": "01bb5d775f6ebee3",
+            "url": "https://api.twitter.com/1.1/geo/id/01bb5d775f6ebee3.json",
+            "place_type": "city",
+            "name": "West Freehold",
+            "full_name": "West Freehold, NJ",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.332704,
+                            40.18095
+                        ],
+                        [
+                            -74.2434504,
+                            40.18095
+                        ],
+                        [
+                            -74.2434504,
+                            40.252228
+                        ],
+                        [
+                            -74.332704,
+                            40.252228
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you! Pleasure meeting w/ @RepChrisSmith to discuss #oceanplanning &amp; #nj #coast issues @littoralsociety\u2026 https://t.co/1lTrhc22tS",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/854427819866193920",
+                "url": "https://t.co/1lTrhc22tS"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Mar 20 13:55:41 +0000 2011",
+            "description": "Effectiveness not Popularity. Environmental Advocate @littoralsociety East Coast. I will never be far from where the map turns blue. My own views here~",
+            "favourites_count": 6418,
+            "followers_count": 1170,
+            "friends_count": 1838,
+            "geo_enabled": true,
+            "id": 269298941,
+            "id_str": "269298941",
+            "listed_count": 51,
+            "location": "New Jersey",
+            "name": "Helen Henderson",
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/269298941/1409188674",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1093938337931554817/9JaCcF6n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093938337931554817/9JaCcF6n_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "EnviroPassion",
+            "statuses_count": 6522
+        },
+        "user_mentions": [
+            {
+                "id": 1289319271,
+                "id_str": "1289319271",
+                "name": "Rep. Chris Smith",
+                "screen_name": "RepChrisSmith"
+            },
+            {
+                "id": 26521732,
+                "id_str": "26521732",
+                "name": "Littoral Society",
+                "screen_name": "littoralsociety"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @EnviroPassion: Thank you! Pleasure meeting w/ @RepChrisSmith to discuss #oceanplanning &amp; #nj #coast issues @littoralsociety @MASurfride\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Mar 22 18:03:53 +0000 2013",
+        "description": "Proud to represent the 4th Congressional District of New Jersey.\n\nSocial media policy: https://t.co/vKjnDqaOS5",
+        "favourites_count": 149,
+        "followers_count": 24013,
+        "friends_count": 223,
+        "id": 1289319271,
+        "id_str": "1289319271",
+        "listed_count": 686,
+        "name": "Rep. Chris Smith",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1289319271/1538495850",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/915302659271380993/AGh07FqH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/915302659271380993/AGh07FqH_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChrisSmith",
+        "statuses_count": 1073,
+        "url": "http://t.co/a3ZJUqfRSg",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 269298941,
+            "id_str": "269298941",
+            "name": "Helen Henderson",
+            "screen_name": "EnviroPassion"
+        },
+        {
+            "id": 1289319271,
+            "id_str": "1289319271",
+            "name": "Rep. Chris Smith",
+            "screen_name": "RepChrisSmith"
+        },
+        {
+            "id": 26521732,
+            "id_str": "26521732",
+            "name": "Littoral Society",
+            "screen_name": "littoralsociety"
+        }
+    ]
+}

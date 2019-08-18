@@ -1,0 +1,138 @@
+{
+    "created_at": "Sat Jun 08 16:41:06 +0000 2019",
+    "hashtags": [],
+    "id": 1137399162062827521,
+    "id_str": "1137399162062827521",
+    "lang": "en",
+    "retweet_count": 19,
+    "retweeted_status": {
+        "created_at": "Sat Jun 08 14:21:46 +0000 2019",
+        "favorite_count": 79,
+        "hashtags": [],
+        "id": 1137364095135506432,
+        "id_str": "1137364095135506432",
+        "lang": "en",
+        "place": {
+            "id": "612e84e8d7e25c88",
+            "url": "https://api.twitter.com/1.1/geo/id/612e84e8d7e25c88.json",
+            "place_type": "city",
+            "name": "Avon",
+            "full_name": "Avon, CO",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -106.553329,
+                            39.613089
+                        ],
+                        [
+                            -106.477924,
+                            39.613089
+                        ],
+                        [
+                            -106.477924,
+                            39.6681197
+                        ],
+                        [
+                            -106.553329,
+                            39.6681197
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 19,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Bipartisan sponsorship, passed, signed into law by @GovofCO: \n\u2705Full-day K\n\u2705Start public health insurance option \n\u2705L\u2026 https://t.co/eq7qBnhRJO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1137364095135506432",
+                "url": "https://t.co/eq7qBnhRJO"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 25 03:37:59 +0000 2009",
+            "description": "State Representative for District 26 in the Colorado House: Eagle County & Routt County. Mountain lawyer. Huge @Rockies fan. #senditforMurph \ud83d\udc99 #insulin4all",
+            "favourites_count": 8013,
+            "followers_count": 2524,
+            "friends_count": 993,
+            "geo_enabled": true,
+            "id": 26420906,
+            "id_str": "26420906",
+            "listed_count": 65,
+            "location": "Avon, CO",
+            "name": "Rep. Dylan Roberts",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26420906/1544224858",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1081643547919446016/bwIjS6r1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081643547919446016/bwIjS6r1_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Dylan_RobertsCO",
+            "statuses_count": 5258,
+            "url": "https://t.co/FgFQzdvEtA"
+        },
+        "user_mentions": [
+            {
+                "id": 728344273620344832,
+                "id_str": "728344273620344832",
+                "name": "Jared Polis",
+                "screen_name": "GovofCO"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Dylan_RobertsCO: Bipartisan sponsorship, passed, signed into law by @GovofCO: \n\u2705Full-day K\n\u2705Start public health insurance option \n\u2705Lowe\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jul 09 03:04:04 +0000 2008",
+        "description": "father, entrepreneur,education policy, baseball, tech, politics, gaymer - Former member of Congress, current Governor of CO",
+        "favourites_count": 9308,
+        "followers_count": 74560,
+        "friends_count": 5505,
+        "geo_enabled": true,
+        "id": 15361570,
+        "id_str": "15361570",
+        "listed_count": 2148,
+        "location": "Boulder, CO",
+        "name": "Jared Polis",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15361570/1558563740",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/752314449206341633/SoUVQR8U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/752314449206341633/SoUVQR8U_normal.jpg",
+        "profile_link_color": "445CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "jaredpolis",
+        "statuses_count": 6788,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 26420906,
+            "id_str": "26420906",
+            "name": "Rep. Dylan Roberts",
+            "screen_name": "Dylan_RobertsCO"
+        },
+        {
+            "id": 728344273620344832,
+            "id_str": "728344273620344832",
+            "name": "Jared Polis",
+            "screen_name": "GovofCO"
+        }
+    ]
+}

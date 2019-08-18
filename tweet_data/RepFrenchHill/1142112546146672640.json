@@ -1,0 +1,201 @@
+{
+    "created_at": "Fri Jun 21 16:50:25 +0000 2019",
+    "hashtags": [],
+    "id": 1142112546146672640,
+    "id_str": "1142112546146672640",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Aw0k22h90T",
+            "expanded_url": "https://twitter.com/NJC_YAF/status/1142049206041030656/photo/1",
+            "id": 1142049199850229760,
+            "media_url": "http://pbs.twimg.com/media/D9lfskkXkAAFGPo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9lfskkXkAAFGPo.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 901,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1537,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Aw0k22h90T"
+        }
+    ],
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Jun 21 12:38:43 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1142049206041030656,
+        "id_str": "1142049206041030656",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Aw0k22h90T",
+                "expanded_url": "https://twitter.com/NJC_YAF/status/1142049206041030656/photo/1",
+                "id": 1142049199850229760,
+                "media_url": "http://pbs.twimg.com/media/D9lfskkXkAAFGPo.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9lfskkXkAAFGPo.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 901,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1537,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Aw0k22h90T"
+            }
+        ],
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to @RepFrenchHill for joining our group for breakfast on Capitol Hill! https://t.co/Aw0k22h90T",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Mar 19 15:03:01 +0000 2009",
+            "description": "The National Journalism Center provides serious training for aspiring journalists through paid DC journalism internships. A project of @YAF.",
+            "favourites_count": 154,
+            "followers_count": 1418,
+            "friends_count": 1352,
+            "geo_enabled": true,
+            "id": 25311745,
+            "id_str": "25311745",
+            "listed_count": 49,
+            "location": "Washington, D.C.",
+            "name": "Natl Journalism Cntr",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25311745/1559249228",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1019982671227715584/XTuUzZCf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019982671227715584/XTuUzZCf_normal.jpg",
+            "profile_link_color": "091F57",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NJC_YAF",
+            "statuses_count": 6188,
+            "url": "https://t.co/Y39U5Iypwy"
+        },
+        "user_mentions": [
+            {
+                "id": 2953974395,
+                "id_str": "2953974395",
+                "name": "French Hill",
+                "screen_name": "RepFrenchHill"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @NJC_YAF: Thanks to @RepFrenchHill for joining our group for breakfast on Capitol Hill! https://t.co/Aw0k22h90T",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 31 23:54:58 +0000 2014",
+        "description": "Official account of Rep French Hill. 9th generation Arkansan. FinTech + AI Task Force Ranking Member. Proudly representing Arkansas's 2nd Congressional District",
+        "favourites_count": 1129,
+        "followers_count": 14456,
+        "friends_count": 1181,
+        "geo_enabled": true,
+        "id": 2953974395,
+        "id_str": "2953974395",
+        "listed_count": 505,
+        "location": "Little Rock, AR",
+        "name": "French Hill",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953974395/1563819578",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepFrenchHill",
+        "statuses_count": 2561,
+        "url": "https://t.co/TggD8rLd3M",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25311745,
+            "id_str": "25311745",
+            "name": "Natl Journalism Cntr",
+            "screen_name": "NJC_YAF"
+        },
+        {
+            "id": 2953974395,
+            "id_str": "2953974395",
+            "name": "French Hill",
+            "screen_name": "RepFrenchHill"
+        }
+    ]
+}

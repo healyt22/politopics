@@ -1,0 +1,79 @@
+{
+    "created_at": "Mon Jul 01 22:40:27 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1145824514368004098,
+    "id_str": "1145824514368004098",
+    "lang": "en",
+    "place": {
+        "id": "07d9e9226e083001",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e9226e083001.json",
+        "place_type": "poi",
+        "name": "Free library Of Philadelphia Whitman Branch",
+        "full_name": "Free library Of Philadelphia Whitman Branch",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -75.15019143894963,
+                        39.921832467175705
+                    ],
+                    [
+                        -75.15019143894963,
+                        39.921832467175705
+                    ],
+                    [
+                        -75.15019143894963,
+                        39.921832467175705
+                    ],
+                    [
+                        -75.15019143894963,
+                        39.921832467175705
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Our children are the future! Grateful for the opportunity to read to the kiddos at the Whitman Library as a part of\u2026 https://t.co/W9RyJk8AVD",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1145824514368004098",
+            "url": "https://t.co/W9RyJk8AVD"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Nov 27 22:10:34 +0000 2018",
+        "description": "Representing Pennsylvania's 5th Congressional District. Vice Chair @HouseJudiciary. Member of @RulesDemocrats.",
+        "favourites_count": 1107,
+        "followers_count": 29358,
+        "friends_count": 879,
+        "geo_enabled": true,
+        "id": 1067541214671577093,
+        "id_str": "1067541214671577093",
+        "listed_count": 361,
+        "name": "Congresswoman Mary Gay Scanlon",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067541214671577093/1563224414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093902853998080001/ehCYUig6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093902853998080001/ehCYUig6_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMGS",
+        "statuses_count": 1612,
+        "url": "https://t.co/oonUimBLPe",
+        "verified": true
+    },
+    "user_mentions": []
+}

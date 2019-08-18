@@ -1,0 +1,102 @@
+{
+    "created_at": "Tue Jun 25 15:32:41 +0000 2019",
+    "favorite_count": 2948,
+    "hashtags": [],
+    "id": 1143542535446564864,
+    "id_str": "1143542535446564864",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/CSnDuK4bU9",
+            "expanded_url": "https://twitter.com/Jim_Jordan/status/1143542535446564864/video/1",
+            "id": 1143539544110850049,
+            "media_url": "http://pbs.twimg.com/media/D96t2aVXoAAyMLZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D96t2aVXoAAyMLZ.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 638,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 638,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 638,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/CSnDuK4bU9",
+            "video_info": {
+                "aspect_ratio": [
+                    119,
+                    67
+                ],
+                "duration_millis": 303233,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143539544110850049/vid/638x360/uvvafcrghU_p1zsq.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1143539544110850049/pl/7NGoAUlj1stqTiIx.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143539544110850049/vid/478x270/EiJTmwUdfiFOdkMY.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143539544110850049/vid/952x536/BBvSp0WvnB_D9cOS.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1294,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "https://t.co/CSnDuK4bU9",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 16 17:20:24 +0000 2008",
+        "description": "Proudly serving Ohio's beautiful fourth district. Ranking Member on @GOPoversight. Fighting to #DoWhatWeSaid",
+        "favourites_count": 1002,
+        "followers_count": 672653,
+        "friends_count": 4311,
+        "geo_enabled": true,
+        "id": 18166778,
+        "id_str": "18166778",
+        "listed_count": 3750,
+        "location": "Washington, D.C. ",
+        "name": "Rep. Jim Jordan",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18166778/1406042839",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+        "profile_link_color": "4F90DB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BA0D1F",
+        "profile_text_color": "01050D",
+        "screen_name": "Jim_Jordan",
+        "statuses_count": 3416,
+        "url": "https://t.co/wd2j7YpRZm",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,119 @@
+{
+    "created_at": "Wed May 22 16:53:09 +0000 2019",
+    "hashtags": [],
+    "id": 1131241597981663238,
+    "id_str": "1131241597981663238",
+    "lang": "en",
+    "retweet_count": 15,
+    "retweeted_status": {
+        "created_at": "Wed May 22 13:34:40 +0000 2019",
+        "favorite_count": 18,
+        "hashtags": [],
+        "id": 1131191647839113217,
+        "id_str": "1131191647839113217",
+        "lang": "en",
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "LISTEN: @SandraSmithFox spoke with @RepMcCaul after the Trump administration says the U.S. does not want war with I\u2026 https://t.co/iblqg7UYKj",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131191647839113217",
+                "url": "https://t.co/iblqg7UYKj"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 07 17:52:42 +0000 2011",
+            "description": "Live on the FOX News Channel Every Weekday From 9-NOON EST! #AmericasNewsroom",
+            "favourites_count": 1176,
+            "followers_count": 82100,
+            "friends_count": 337,
+            "id": 312800783,
+            "id_str": "312800783",
+            "listed_count": 764,
+            "location": "New York, NY",
+            "name": "America's Newsroom",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/312800783/1528981370",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1006539417295687681/CztfMnUb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006539417295687681/CztfMnUb_normal.jpg",
+            "profile_link_color": "043D95",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AmericaNewsroom",
+            "statuses_count": 33251,
+            "url": "http://t.co/TiDPxgo9pq",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2332354080,
+                "id_str": "2332354080",
+                "name": "Sandra Smith",
+                "screen_name": "SandraSmithFox"
+            },
+            {
+                "id": 26424123,
+                "id_str": "26424123",
+                "name": "Michael McCaul",
+                "screen_name": "RepMcCaul"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AmericaNewsroom: LISTEN: @SandraSmithFox spoke with @RepMcCaul after the Trump administration says the U.S. does not want war with Iran\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Mar 25 03:54:11 +0000 2009",
+        "description": "Representing the 10th District of Texas | Leader of @houseforeigngop",
+        "favourites_count": 389,
+        "followers_count": 30611,
+        "friends_count": 384,
+        "geo_enabled": true,
+        "id": 26424123,
+        "id_str": "26424123",
+        "listed_count": 1344,
+        "location": "Texas' 10th District",
+        "name": "Michael McCaul",
+        "profile_background_color": "21206B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26424123/1561644786",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144247573324140544/J1Mw75FZ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144247573324140544/J1Mw75FZ_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "6D78C5",
+        "profile_text_color": "060A51",
+        "profile_use_background_image": true,
+        "screen_name": "RepMcCaul",
+        "statuses_count": 4003,
+        "url": "https://t.co/4jvVzE7EQ5",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 312800783,
+            "id_str": "312800783",
+            "name": "America's Newsroom",
+            "screen_name": "AmericaNewsroom"
+        },
+        {
+            "id": 2332354080,
+            "id_str": "2332354080",
+            "name": "Sandra Smith",
+            "screen_name": "SandraSmithFox"
+        },
+        {
+            "id": 26424123,
+            "id_str": "26424123",
+            "name": "Michael McCaul",
+            "screen_name": "RepMcCaul"
+        }
+    ]
+}

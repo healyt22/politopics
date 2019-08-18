@@ -1,0 +1,138 @@
+{
+    "created_at": "Mon May 06 17:41:53 +0000 2019",
+    "hashtags": [
+        {
+            "text": "AgriTalk"
+        }
+    ],
+    "id": 1125455659733012480,
+    "id_str": "1125455659733012480",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon May 06 15:12:10 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "AgriTalk"
+            }
+        ],
+        "id": 1125417982690308096,
+        "id_str": "1125417982690308096",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Hour-1 of #AgriTalk is on the air! @ChipFlory and @DavisMichaelsen talk with Michael Clark from @bamwxcom, Congress\u2026 https://t.co/IklgcrmdLj",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1125417982690308096",
+                "url": "https://t.co/IklgcrmdLj"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 30 19:53:43 +0000 2009",
+            "default_profile": true,
+            "description": "News alerts and updates from the AgriTalk radio show. http://t.co/OVTAI3WSoG",
+            "favourites_count": 838,
+            "followers_count": 11397,
+            "friends_count": 280,
+            "geo_enabled": true,
+            "id": 52499553,
+            "id_str": "52499553",
+            "listed_count": 194,
+            "name": "AgriTalk Radio",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52499553/1484243893",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/940938241498329089/Mkk0ULhw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/940938241498329089/Mkk0ULhw_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "agritalk",
+            "statuses_count": 2791,
+            "url": "http://t.co/OVTAI3WSoG"
+        },
+        "user_mentions": [
+            {
+                "id": 54583264,
+                "id_str": "54583264",
+                "name": "Chip Flory",
+                "screen_name": "ChipFlory"
+            },
+            {
+                "id": 730795328,
+                "id_str": "730795328",
+                "name": "Davis Michaelsen",
+                "screen_name": "DavisMichaelsen"
+            },
+            {
+                "id": 119126557,
+                "id_str": "119126557",
+                "name": "BAMWX",
+                "screen_name": "bamwxcom"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @agritalk: Hour-1 of #AgriTalk is on the air! @ChipFlory and @DavisMichaelsen talk with Michael Clark from @bamwxcom, Congressman Rick C\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 03 21:57:49 +0000 2011",
+        "description": "Representing Arkansas's 1st District in the United States House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee",
+        "favourites_count": 1519,
+        "followers_count": 18734,
+        "friends_count": 1047,
+        "geo_enabled": true,
+        "id": 233693291,
+        "id_str": "233693291",
+        "listed_count": 894,
+        "location": "Washington, DC",
+        "name": "Rep Rick Crawford",
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233693291/1514907502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_link_color": "048C09",
+        "profile_sidebar_border_color": "2E517B",
+        "profile_sidebar_fill_color": "C1CCDE",
+        "profile_text_color": "2424C7",
+        "profile_use_background_image": true,
+        "screen_name": "RepRickCrawford",
+        "statuses_count": 5255,
+        "url": "https://t.co/Bh2OlD3a1Q",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 52499553,
+            "id_str": "52499553",
+            "name": "AgriTalk Radio",
+            "screen_name": "agritalk"
+        },
+        {
+            "id": 54583264,
+            "id_str": "54583264",
+            "name": "Chip Flory",
+            "screen_name": "ChipFlory"
+        },
+        {
+            "id": 730795328,
+            "id_str": "730795328",
+            "name": "Davis Michaelsen",
+            "screen_name": "DavisMichaelsen"
+        },
+        {
+            "id": 119126557,
+            "id_str": "119126557",
+            "name": "BAMWX",
+            "screen_name": "bamwxcom"
+        }
+    ]
+}

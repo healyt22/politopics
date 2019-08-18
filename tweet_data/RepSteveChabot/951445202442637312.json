@@ -1,0 +1,125 @@
+{
+    "created_at": "Thu Jan 11 13:26:27 +0000 2018",
+    "hashtags": [],
+    "id": 951445202442637312,
+    "id_str": "951445202442637312",
+    "lang": "en",
+    "retweet_count": 23,
+    "retweeted_status": {
+        "created_at": "Thu Jan 11 13:25:46 +0000 2018",
+        "favorite_count": 29,
+        "hashtags": [],
+        "id": 951445029112950784,
+        "id_str": "951445029112950784",
+        "lang": "en",
+        "place": {
+            "id": "07d9ecaae2488000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9ecaae2488000.json",
+            "place_type": "poi",
+            "name": "Long View Gallery",
+            "full_name": "Long View Gallery",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.0241709155753,
+                            38.90667594560294
+                        ],
+                        [
+                            -77.0241709155753,
+                            38.90667594560294
+                        ],
+                        [
+                            -77.0241709155753,
+                            38.90667594560294
+                        ],
+                        [
+                            -77.0241709155753,
+                            38.90667594560294
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 23,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u201cWe have to encourage entrepreneurship. The growth sector of the American economy is people \u2014 people who start busi\u2026 https://t.co/xbviJiMWMy",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/951445029112950784",
+                "url": "https://t.co/xbviJiMWMy"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 14 16:24:31 +0000 2015",
+            "description": "We're the Committee in the House of Representatives fighting on behalf of America's entrepreneurs & innovators. Chaired by @RepSteveChabot.",
+            "favourites_count": 1334,
+            "followers_count": 8797,
+            "friends_count": 1917,
+            "geo_enabled": true,
+            "id": 2978291435,
+            "id_str": "2978291435",
+            "listed_count": 314,
+            "name": "House Committee on Small Business - Republicans",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2978291435/1520528557",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080529575615086593/J5jpozRp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080529575615086593/J5jpozRp_normal.jpg",
+            "profile_link_color": "696969",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "HSBCgop",
+            "statuses_count": 4105,
+            "url": "https://t.co/WBX713hCAS"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @HouseSmallBiz: \u201cWe have to encourage entrepreneurship. The growth sector of the American economy is people \u2014 people who start businesse\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 13 15:03:08 +0000 2011",
+        "description": "Husband, grandpa, public servant, & proud Cincinnatian. Chairman of @HouseSmallBiz & senior Member on @HouseJudiciary & @HouseForeign.",
+        "favourites_count": 1767,
+        "followers_count": 27966,
+        "friends_count": 3008,
+        "geo_enabled": true,
+        "id": 237750442,
+        "id_str": "237750442",
+        "listed_count": 1106,
+        "location": "Cincinnati",
+        "name": "Rep. Steve Chabot",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237750442/1506718866",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_link_color": "666666",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B1D3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepSteveChabot",
+        "statuses_count": 3252,
+        "url": "https://t.co/uGxNrFAFsk",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 861611548250394624,
+            "id_str": "861611548250394624",
+            "name": "House Committee on Small Business",
+            "screen_name": "HouseSmallBiz"
+        }
+    ]
+}

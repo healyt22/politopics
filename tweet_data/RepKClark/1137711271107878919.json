@@ -1,0 +1,175 @@
+{
+    "created_at": "Sun Jun 09 13:21:19 +0000 2019",
+    "favorite_count": 59,
+    "hashtags": [
+        {
+            "text": "TeamClark"
+        }
+    ],
+    "id": 1137711271107878919,
+    "id_str": "1137711271107878919",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Sun Jun 09 00:28:25 +0000 2019",
+        "favorite_count": 110,
+        "hashtags": [],
+        "id": 1137516763581767681,
+        "id_str": "1137516763581767681",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Ll9Z6ugtXy",
+                "expanded_url": "https://twitter.com/JadaMH_/status/1137516763581767681/photo/1",
+                "id": 1137516743935631360,
+                "media_url": "http://pbs.twimg.com/media/D8lFc6hXoAAnjG6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D8lFc6hXoAAnjG6.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 916,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 916,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 608,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Ll9Z6ugtXy"
+            }
+        ],
+        "possibly_sensitive": true,
+        "retweet_count": 14,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "21st in the nation in high jump... I\u2019ll be back @UMass_XC_TF @atlantic10 @NCAATrackField https://t.co/Ll9Z6ugtXy",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Jun 06 20:29:03 +0000 2019",
+            "default_profile": true,
+            "description": "UMASS Track and Field \ud83c\udfc3\ud83c\udffd\u200d\u2640\ufe0f",
+            "favourites_count": 12,
+            "followers_count": 164,
+            "friends_count": 197,
+            "id": 1136731751190093824,
+            "id_str": "1136731751190093824",
+            "name": "Jada Harris",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136731751190093824/1559882911",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145476393763049478/EOH5cZT7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145476393763049478/EOH5cZT7_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JadaMH_",
+            "statuses_count": 7
+        },
+        "user_mentions": [
+            {
+                "id": 816594415,
+                "id_str": "816594415",
+                "name": "UMass XC/T&F",
+                "screen_name": "UMass_XC_TF"
+            },
+            {
+                "id": 18079196,
+                "id_str": "18079196",
+                "name": "Atlantic10Conference",
+                "screen_name": "atlantic10"
+            },
+            {
+                "id": 4083521110,
+                "id_str": "4083521110",
+                "name": "NCAA Track & Field",
+                "screen_name": "NCAATrackField"
+            }
+        ]
+    },
+    "quoted_status_id": 1137516763581767681,
+    "quoted_status_id_str": "1137516763581767681",
+    "retweet_count": 10,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Congrats to #TeamClark intern Jada for placing 21st in the nation for the high jump! You\u2019re bringing our office to\u2026 https://t.co/SLWZwSgijx",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1137711271107878919",
+            "url": "https://t.co/SLWZwSgijx"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 15 18:53:47 +0000 2014",
+        "default_profile": true,
+        "description": "Vice Chair of the House Democratic Caucus. Proudly representing the people of the 5th District of Massachusetts.",
+        "favourites_count": 1328,
+        "followers_count": 64190,
+        "friends_count": 1344,
+        "geo_enabled": true,
+        "id": 2293131060,
+        "id_str": "2293131060",
+        "listed_count": 1212,
+        "name": "Katherine Clark",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293131060/1546611807",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepKClark",
+        "statuses_count": 5219,
+        "url": "https://t.co/qWMKEO845O",
+        "verified": true
+    },
+    "user_mentions": []
+}

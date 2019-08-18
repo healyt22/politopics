@@ -1,0 +1,137 @@
+{
+    "created_at": "Sun Jun 30 22:21:07 +0000 2019",
+    "hashtags": [
+        {
+            "text": "NYCPride"
+        }
+    ],
+    "id": 1145457263047598080,
+    "id_str": "1145457263047598080",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Sun Jun 30 18:45:16 +0000 2019",
+        "favorite_count": 51,
+        "hashtags": [
+            {
+                "text": "NYCPride"
+            }
+        ],
+        "id": 1145402940536033280,
+        "id_str": "1145402940536033280",
+        "lang": "en",
+        "place": {
+            "id": "01a9a39529b27f36",
+            "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+            "place_type": "city",
+            "name": "Manhattan",
+            "full_name": "Manhattan, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.026675,
+                            40.683935
+                        ],
+                        [
+                            -73.910408,
+                            40.683935
+                        ],
+                        [
+                            -73.910408,
+                            40.877483
+                        ],
+                        [
+                            -74.026675,
+                            40.877483
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I had such a lovely time marching in the #NYCPride parade today! It was great to be surrounded by so many friends c\u2026 https://t.co/gntCr32OnW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1145402940536033280",
+                "url": "https://t.co/gntCr32OnW"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 28 19:06:50 +0000 2011",
+            "description": "Honored to rep #NY12 in the US House. A progressive fmr teacher fighting for #Manhattan, #Brooklyn & #Queens. Proud to wear FDNY coat to #renew911VCF! DMs open",
+            "favourites_count": 6276,
+            "followers_count": 41257,
+            "friends_count": 3284,
+            "geo_enabled": true,
+            "id": 258900199,
+            "id_str": "258900199",
+            "listed_count": 1300,
+            "location": "New York City",
+            "name": "Carolyn  B. Maloney",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/258900199/1549467399",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RepMaloney",
+            "statuses_count": 10673,
+            "url": "https://t.co/EhTt891RCX",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RepMaloney: I had such a lovely time marching in the #NYCPride parade today! It was great to be surrounded by so many friends celebrati\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 08 18:18:20 +0000 2010",
+        "default_profile": true,
+        "description": "Represents New York's 7th Congressional District in the U.S. House of Representatives. Chairwoman of House Small Business Committee. Follow us @HouseSmallBiz",
+        "favourites_count": 629,
+        "followers_count": 58907,
+        "friends_count": 5103,
+        "geo_enabled": true,
+        "id": 164369297,
+        "id_str": "164369297",
+        "listed_count": 1371,
+        "location": "NYC and DC",
+        "name": "Rep. Nydia Velazquez",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164369297/1523637643",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994585599343554561/duJdBxTR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994585599343554561/duJdBxTR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "NydiaVelazquez",
+        "statuses_count": 6935,
+        "url": "https://t.co/Gahd1XU986",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 258900199,
+            "id_str": "258900199",
+            "name": "Carolyn  B. Maloney",
+            "screen_name": "RepMaloney"
+        }
+    ]
+}

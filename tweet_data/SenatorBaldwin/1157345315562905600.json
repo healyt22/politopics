@@ -1,0 +1,106 @@
+{
+    "created_at": "Fri Aug 02 17:40:00 +0000 2019",
+    "favorite_count": 58,
+    "hashtags": [
+        {
+            "text": "GreatLakes"
+        }
+    ],
+    "id": 1157345315562905600,
+    "id_str": "1157345315562905600",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/XlTigeyJpj",
+            "expanded_url": "https://twitter.com/SenatorBaldwin/status/1157345315562905600/video/1",
+            "id": 1157332785679556609,
+            "media_url": "http://pbs.twimg.com/media/EA-w3A6XYAA4a0z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EA-w3A6XYAA4a0z.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/XlTigeyJpj",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 61795,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1157332785679556609/pl/BRi-y3zeGZc9wAuO.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1157332785679556609/vid/640x360/BNU5AUB5920VOEmo.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1157332785679556609/vid/480x270/NWfMSOQEzxxgj19-.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1157332785679556609/vid/1280x720/oyBnea-foNgszx6W.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "I\u2019m working to protect and preserve our #GreatLakes for generations to come. https://t.co/XlTigeyJpj",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 09 18:29:44 +0000 2013",
+        "description": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+        "favourites_count": 480,
+        "followers_count": 111300,
+        "friends_count": 2659,
+        "geo_enabled": true,
+        "id": 1074518754,
+        "id_str": "1074518754",
+        "listed_count": 2322,
+        "location": "Washington, D.C.",
+        "name": "Sen. Tammy Baldwin",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074518754/1524675375",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888484691120148481/IQiOuvpT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888484691120148481/IQiOuvpT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorBaldwin",
+        "statuses_count": 13330,
+        "url": "http://t.co/p7vErFeoRD",
+        "verified": true
+    },
+    "user_mentions": []
+}

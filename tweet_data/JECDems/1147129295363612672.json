@@ -1,0 +1,88 @@
+{
+    "created_at": "Fri Jul 05 13:05:11 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 1147129295363612672,
+    "id_str": "1147129295363612672",
+    "in_reply_to_screen_name": "LoudGovTeacher",
+    "in_reply_to_status_id": 1147125914691670016,
+    "in_reply_to_user_id": 786740100554194944,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/DZSNqFpn4k",
+            "expanded_url": "https://twitter.com/JECDems/status/1147129295363612672/photo/1",
+            "id": 1147129289361506304,
+            "media_url": "http://pbs.twimg.com/media/D-tsAsvWwAAe9Qc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-tsAsvWwAAe9Qc.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 944,
+                    "h": 296,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 213,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 944,
+                    "h": 296,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/DZSNqFpn4k"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@LoudGovTeacher @BLS_gov It rose to 62.9% from 62.8%. Chart from the report is here. https://t.co/DZSNqFpn4k",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Feb 22 18:11:02 +0000 2010",
+        "description": "News & updates from the Democratic staff of the U.S. Congress Joint Economic Committee. Vice Chair Rep. Carolyn B. Maloney @RepMaloney\n\nRTs!=endorsements.",
+        "favourites_count": 2219,
+        "followers_count": 8068,
+        "friends_count": 1232,
+        "id": 116505994,
+        "id_str": "116505994",
+        "listed_count": 380,
+        "location": "Washington, D.C.",
+        "name": "Joint Economic Committee Democrats",
+        "profile_background_color": "1B304D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116505994/1522867275",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979086076773101568/rDXGSshY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979086076773101568/rDXGSshY_normal.jpg",
+        "profile_link_color": "5890B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7F7F7",
+        "profile_text_color": "333333",
+        "screen_name": "JECDems",
+        "statuses_count": 4925,
+        "url": "https://t.co/6KGMIAlGfo",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 786740100554194944,
+            "id_str": "786740100554194944",
+            "name": "LoudGovTeacher",
+            "screen_name": "LoudGovTeacher"
+        },
+        {
+            "id": 612896910,
+            "id_str": "612896910",
+            "name": "BLS-Labor Statistics",
+            "screen_name": "BLS_gov"
+        }
+    ]
+}

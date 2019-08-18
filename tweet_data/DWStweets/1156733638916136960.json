@@ -1,0 +1,127 @@
+{
+    "created_at": "Thu Aug 01 01:09:25 +0000 2019",
+    "hashtags": [],
+    "id": 1156733638916136960,
+    "id_str": "1156733638916136960",
+    "lang": "en",
+    "retweet_count": 67,
+    "retweeted_status": {
+        "created_at": "Thu Aug 01 00:57:50 +0000 2019",
+        "favorite_count": 366,
+        "hashtags": [],
+        "id": 1156730725003079685,
+        "id_str": "1156730725003079685",
+        "lang": "en",
+        "place": {
+            "id": "b463d3bd6064861b",
+            "url": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json",
+            "place_type": "city",
+            "name": "Detroit",
+            "full_name": "Detroit, MI",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.288056,
+                            42.255085
+                        ],
+                        [
+                            -82.91052,
+                            42.255085
+                        ],
+                        [
+                            -82.91052,
+                            42.450488
+                        ],
+                        [
+                            -83.288056,
+                            42.450488
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 67,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We don\u2019t need to decriminalize the border in order to stop separating mothers and babies.  The way we stop separati\u2026 https://t.co/m4mvoGmGz3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156730725003079685",
+                "url": "https://t.co/m4mvoGmGz3"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 19 15:26:01 +0000 2010",
+            "description": "Dem Political Strat, CNN/CNNE Commentator, Principal/DSG, Founder @Latinovations, Wise Latina, Mom, Wife, Scorpio, Talker/Doer, #Facts #Truth, #LoveTrumpsHate",
+            "favourites_count": 1960,
+            "followers_count": 52153,
+            "friends_count": 1199,
+            "geo_enabled": true,
+            "id": 124490608,
+            "id_str": "124490608",
+            "listed_count": 711,
+            "location": "Washington DC, P.R., Bogota",
+            "name": "Maria Cardona",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/124490608/1470800629",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2652331486/d6cacfe2d1e245f7e96a577f71beb0f5_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2652331486/d6cacfe2d1e245f7e96a577f71beb0f5_normal.jpeg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "MariaTCardona",
+            "statuses_count": 35105,
+            "url": "https://t.co/iQAp82Y7sc",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @MariaTCardona: We don\u2019t need to decriminalize the border in order to stop separating mothers and babies.  The way we stop separating ch\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Feb 20 17:35:01 +0000 2010",
+        "description": "Dog loving, clean cooking, breast cancer-surviving, Florida Gator cheering, softball-playing mother of three fighting in Congress on behalf of South Floridians.",
+        "favourites_count": 194,
+        "followers_count": 365722,
+        "friends_count": 860,
+        "geo_enabled": true,
+        "id": 115979444,
+        "id_str": "115979444",
+        "listed_count": 5063,
+        "location": "Weston, FL & Washington, D.C.",
+        "name": "Debbie Wasserman Schultz",
+        "profile_background_color": "092473",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115979444/1517266367",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/803926569781784576/eHI49K4W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/803926569781784576/eHI49K4W_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "DWStweets",
+        "statuses_count": 10370,
+        "url": "https://t.co/R5UpTCuwFP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 124490608,
+            "id_str": "124490608",
+            "name": "Maria Cardona",
+            "screen_name": "MariaTCardona"
+        }
+    ]
+}

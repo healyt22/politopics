@@ -1,0 +1,136 @@
+{
+    "created_at": "Wed Apr 24 20:29:49 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1121149266808930305,
+    "id_str": "1121149266808930305",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 23 17:18:52 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [
+            {
+                "text": "LWCF"
+            },
+            {
+                "text": "California"
+            }
+        ],
+        "id": 1120738823351070722,
+        "id_str": "1120738823351070722",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3mTGhSx6eh",
+                "expanded_url": "https://twitter.com/Backcountry_H_A/status/1120738823351070722/photo/1",
+                "id": 1120738807127494657,
+                "media_url": "http://pbs.twimg.com/media/D42qAdTUUAE-Ezi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D42qAdTUUAE-Ezi.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 480,
+                        "h": 320,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 320,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 320,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/3mTGhSx6eh"
+            }
+        ],
+        "retweet_count": 1,
+        "scopes": {
+            "followers": false
+        },
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "Thank you @RepTjCox for reauthorizing #LWCF and supporting public lands in #California and all over the US! https://t.co/3mTGhSx6eh",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Mar 23 17:56:18 +0000 2012",
+            "description": "Follow us for public land conservation, hunting and fishing news and resources. We are the voice for our public lands, waters and wildlife.",
+            "favourites_count": 6608,
+            "followers_count": 21877,
+            "friends_count": 11832,
+            "geo_enabled": true,
+            "id": 534560891,
+            "id_str": "534560891",
+            "listed_count": 190,
+            "location": "United States",
+            "name": "Backcountry Hunters",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/534560891/1426633505",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1939400634/LOGO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1939400634/LOGO_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Backcountry_H_A",
+            "statuses_count": 9064,
+            "url": "http://t.co/2xnNILoW5e"
+        },
+        "user_mentions": [
+            {
+                "id": 1080875913926139910,
+                "id_str": "1080875913926139910",
+                "name": "Congressman TJ Cox",
+                "screen_name": "RepTjCox"
+            }
+        ]
+    },
+    "quoted_status_id": 1120738823351070722,
+    "quoted_status_id_str": "1120738823351070722",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Happy to help! Our public lands are a treasure for all Californians https://t.co/JqYU2n0ABx",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/Backcountry_H_A/status/1120738823351070722",
+            "url": "https://t.co/JqYU2n0ABx"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 17:17:54 +0000 2019",
+        "default_profile": true,
+        "description": "Engineer, dad, small businessman. Serving with @HouseAgDems to grow opportunity in #CA21. Chair, Subcommittee on Oversight and Investigations, @NRDems.",
+        "favourites_count": 324,
+        "followers_count": 5681,
+        "friends_count": 546,
+        "geo_enabled": true,
+        "id": 1080875913926139910,
+        "id_str": "1080875913926139910",
+        "listed_count": 161,
+        "name": "Congressman TJ Cox",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080875913926139910/1554311206",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154061352287162368/geh4UyEV_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154061352287162368/geh4UyEV_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTjCox",
+        "statuses_count": 688,
+        "url": "https://t.co/szOHjcJFAj",
+        "verified": true
+    },
+    "user_mentions": []
+}

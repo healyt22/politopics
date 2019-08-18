@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Mar 23 19:39:44 +0000 2019",
+    "hashtags": [],
+    "id": 1109540250660098049,
+    "id_str": "1109540250660098049",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Sat Mar 23 19:33:00 +0000 2019",
+        "favorite_count": 54,
+        "hashtags": [],
+        "id": 1109538555066490883,
+        "id_str": "1109538555066490883",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": ".@RepChrisStewart: \"I think it's important for the American people to have access to all of this, and one of the re\u2026 https://t.co/37akLIinUZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1109538555066490883",
+                "url": "https://t.co/37akLIinUZ"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3323842,
+            "friends_count": 261,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26109,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 597131,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1072008757,
+                "id_str": "1072008757",
+                "name": "Rep. Chris Stewart",
+                "screen_name": "RepChrisStewart"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @thehill: .@RepChrisStewart: \"I think it's important for the American people to have access to all of this, and one of the reasons is if\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 21:08:19 +0000 2013",
+        "description": "Utah's 2nd District Congressman. Former Air Force B-1 pilot, author, House Intelligence & Appropriations Committees. Visit http://t.co/GUW6weAva6",
+        "favourites_count": 500,
+        "followers_count": 19498,
+        "friends_count": 364,
+        "geo_enabled": true,
+        "id": 1072008757,
+        "id_str": "1072008757",
+        "listed_count": 808,
+        "location": "Utah and DC",
+        "name": "Rep. Chris Stewart",
+        "profile_background_color": "BE1E2D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072008757/1562880146",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000828740520/3a6960ab5bb904c7a6e73e6099e2b2ef_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000828740520/3a6960ab5bb904c7a6e73e6099e2b2ef_normal.jpeg",
+        "profile_link_color": "1B75BB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepChrisStewart",
+        "statuses_count": 3320,
+        "url": "http://stewart.house.gov",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1917731,
+            "id_str": "1917731",
+            "name": "The Hill",
+            "screen_name": "thehill"
+        },
+        {
+            "id": 1072008757,
+            "id_str": "1072008757",
+            "name": "Rep. Chris Stewart",
+            "screen_name": "RepChrisStewart"
+        }
+    ]
+}

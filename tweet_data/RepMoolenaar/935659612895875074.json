@@ -1,0 +1,141 @@
+{
+    "created_at": "Wed Nov 29 00:00:10 +0000 2017",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 935659612895875074,
+    "id_str": "935659612895875074",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Nov 28 22:50:36 +0000 2017",
+        "favorite_count": 8,
+        "hashtags": [
+            {
+                "text": "MOCC"
+            },
+            {
+                "text": "MOISD"
+            }
+        ],
+        "id": 935642109209608192,
+        "id_str": "935642109209608192",
+        "lang": "en",
+        "place": {
+            "id": "07d9e92984880000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9e92984880000.json",
+            "place_type": "poi",
+            "name": "MOCC Career Center",
+            "full_name": "MOCC Career Center",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.47750028168674,
+                            43.69751757030099
+                        ],
+                        [
+                            -85.47750028168674,
+                            43.69751757030099
+                        ],
+                        [
+                            -85.47750028168674,
+                            43.69751757030099
+                        ],
+                        [
+                            -85.47750028168674,
+                            43.69751757030099
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#MOCC was honored to share with @RepMoolenaar the exciting opportunities available to #MOISD students in career and\u2026 https://t.co/at2HaUgqO7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/935642109209608192",
+                "url": "https://t.co/at2HaUgqO7"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 17 22:53:43 +0000 2014",
+            "description": "Christian - Husband - Father - Education Leader - US Army Reserve Soldier. CTE Director & Career Center Principal for Mecosta-Osceola ISD. Tweets are my own.",
+            "favourites_count": 4328,
+            "followers_count": 401,
+            "friends_count": 956,
+            "geo_enabled": true,
+            "id": 2655104424,
+            "id_str": "2655104424",
+            "listed_count": 60,
+            "location": "Big Rapids, MI",
+            "name": "Mike Miller",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2655104424/1469199944",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/898534758849826816/MsfoAzmy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/898534758849826816/MsfoAzmy_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "Betterwrench",
+            "statuses_count": 5012,
+            "url": "https://t.co/7mv0oBr81K"
+        },
+        "user_mentions": [
+            {
+                "id": 2696643955,
+                "id_str": "2696643955",
+                "name": "Rep. John Moolenaar",
+                "screen_name": "RepMoolenaar"
+            }
+        ]
+    },
+    "quoted_status_id": 935642109209608192,
+    "quoted_status_id_str": "935642109209608192",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you for having me. The students were outstanding. They are on the front lines of the job opportunities in the\u2026 https://t.co/s7kaXhcA8Z",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/935659612895875074",
+            "url": "https://t.co/s7kaXhcA8Z"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 31 21:09:14 +0000 2014",
+        "default_profile": true,
+        "description": "Representing Michigan's Fourth Congressional District. This is the Twitter page of the official House office.",
+        "favourites_count": 470,
+        "followers_count": 11015,
+        "friends_count": 339,
+        "id": 2696643955,
+        "id_str": "2696643955",
+        "listed_count": 417,
+        "name": "Rep. John Moolenaar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696643955/1420046825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoolenaar",
+        "statuses_count": 854,
+        "url": "http://t.co/cwXZtKCJhJ",
+        "verified": true
+    },
+    "user_mentions": []
+}

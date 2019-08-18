@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jun 18 03:33:00 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1140824706704187393,
+    "id_str": "1140824706704187393",
+    "lang": "fr",
+    "quoted_status": {
+        "created_at": "Mon Jun 17 20:47:01 +0000 2019",
+        "favorite_count": 401,
+        "hashtags": [],
+        "id": 1140722537116184576,
+        "id_str": "1140722537116184576",
+        "lang": "en",
+        "retweet_count": 98,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Tomorrow @ 3, @Jim_Jordan, @RepAndyBiggsAZ, @CongressmanHice , @RepAndyHarrisMD, @RepScottPerry , @MichaelJCloud ,\u2026 https://t.co/odpnrZIrOn",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1140722537116184576",
+                "url": "https://t.co/odpnrZIrOn"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+            "default_profile": true,
+            "description": "Proudly representing the people of the 21st Congressional District of Texas.",
+            "favourites_count": 325,
+            "followers_count": 21932,
+            "friends_count": 36,
+            "geo_enabled": true,
+            "id": 1082790600292925440,
+            "id_str": "1082790600292925440",
+            "listed_count": 246,
+            "location": "Washington, DC",
+            "name": "Rep. Chip Roy",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1547050497",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepChipRoy",
+            "statuses_count": 1211,
+            "url": "https://t.co/HpJaJuKlOT",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18166778,
+                "id_str": "18166778",
+                "name": "Rep. Jim Jordan",
+                "screen_name": "Jim_Jordan"
+            },
+            {
+                "id": 816652616625168388,
+                "id_str": "816652616625168388",
+                "name": "Rep Andy Biggs",
+                "screen_name": "RepAndyBiggsAZ"
+            },
+            {
+                "id": 2975091705,
+                "id_str": "2975091705",
+                "name": "Rep. Jody Hice",
+                "screen_name": "CongressmanHice"
+            },
+            {
+                "id": 960962340,
+                "id_str": "960962340",
+                "name": "Rep. Andy Harris, MD",
+                "screen_name": "RepAndyHarrisMD"
+            },
+            {
+                "id": 18773159,
+                "id_str": "18773159",
+                "name": "RepScottPerry",
+                "screen_name": "RepScottPerry"
+            },
+            {
+                "id": 23725826,
+                "id_str": "23725826",
+                "name": "Michael Cloud",
+                "screen_name": "MichaelJCloud"
+            }
+        ]
+    },
+    "quoted_status_id": 1140722537116184576,
+    "quoted_status_id_str": "1140722537116184576",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Tune in! https://t.co/MReEEI9AtF",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RepChipRoy/status/1140722537116184576",
+            "url": "https://t.co/MReEEI9AtF"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 15:54:32 +0000 2019",
+        "default_profile": true,
+        "description": "U.S. Congressman for Texas' 6th District. Member of @HouseForeign & @EdLaborCmte. Proud sixth generation resident of Tarrant County.",
+        "favourites_count": 114,
+        "followers_count": 1748,
+        "friends_count": 346,
+        "id": 1080854935535800320,
+        "id_str": "1080854935535800320",
+        "listed_count": 116,
+        "name": "Ron Wright",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080854935535800320/1547051595",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081206587426045958/MkX5U9E6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081206587426045958/MkX5U9E6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRonWright",
+        "statuses_count": 332,
+        "url": "https://t.co/NzGiQ66v6o",
+        "verified": true
+    },
+    "user_mentions": []
+}

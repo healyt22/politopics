@@ -1,0 +1,82 @@
+{
+    "created_at": "Fri Apr 05 20:12:18 +0000 2019",
+    "favorite_count": 44,
+    "hashtags": [],
+    "id": 1114259487483936769,
+    "id_str": "1114259487483936769",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/2wXkoG8Xp7",
+            "expanded_url": "https://twitter.com/repgregwalden/status/1114259487483936769/photo/1",
+            "id": 1114259469339430912,
+            "media_url": "http://pbs.twimg.com/media/D3alFXGXkAARl08.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D3alFXGXkAARl08.jpg",
+            "sizes": {
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 768,
+                    "h": 1024,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 768,
+                    "h": 1024,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/2wXkoG8Xp7"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Ted is suited up and ready to cheer on @OregonWBB tonight. Let\u2019s go Ducks! https://t.co/2wXkoG8Xp7",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Apr 16 17:31:34 +0000 2009",
+        "description": "Proudly serving the people of Oregon's Second Congressional District.| Republican Leader of @housecommerce",
+        "favourites_count": 31,
+        "followers_count": 29597,
+        "friends_count": 173,
+        "geo_enabled": true,
+        "id": 32010840,
+        "id_str": "32010840",
+        "listed_count": 1397,
+        "location": "Oregon",
+        "name": "Rep. Greg Walden",
+        "profile_background_color": "336600",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32010840/1408657438",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705033575066943488/W58QO-EK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705033575066943488/W58QO-EK_normal.jpg",
+        "profile_link_color": "336600",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FAFAFA",
+        "profile_text_color": "0A090A",
+        "profile_use_background_image": true,
+        "screen_name": "repgregwalden",
+        "statuses_count": 2671,
+        "url": "https://t.co/Tehr6W0tBF",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 76082864,
+            "id_str": "76082864",
+            "name": "Oregon Women\u2019s Basketball",
+            "screen_name": "OregonWBB"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Tue Jul 16 20:41:37 +0000 2019",
+    "hashtags": [],
+    "id": 1151230429967634432,
+    "id_str": "1151230429967634432",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 19:12:28 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1151207990525120514,
+        "id_str": "1151207990525120514",
+        "in_reply_to_screen_name": "RepHuffman",
+        "in_reply_to_user_id": 1071102246,
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@RepHuffman asking about @Interior officials' claims that the department lacks the statutory authority to address\u2026 https://t.co/yn4XEqNZe9",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151207990525120514",
+                "url": "https://t.co/yn4XEqNZe9"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 28 13:27:19 +0000 2017",
+            "description": "Non-partisan center @nyulaw dedicated to working with state attorneys general to protect and advance clean energy, climate policy, and environmental laws.",
+            "favourites_count": 1074,
+            "followers_count": 559,
+            "friends_count": 651,
+            "id": 913394690652884993,
+            "id_str": "913394690652884993",
+            "listed_count": 7,
+            "location": "Washington, DC",
+            "name": "State Impact Center",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/913394690652884993/1549482855",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1054809095243321344/irS834_A_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054809095243321344/irS834_A_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "StateImpactCntr",
+            "statuses_count": 2942,
+            "url": "https://t.co/1wrcMc2BUV"
+        },
+        "user_mentions": [
+            {
+                "id": 1071102246,
+                "id_str": "1071102246",
+                "name": "Rep. Jared Huffman",
+                "screen_name": "RepHuffman"
+            },
+            {
+                "id": 76348185,
+                "id_str": "76348185",
+                "name": "US Department of the Interior",
+                "screen_name": "Interior"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @StateImpactCntr: @RepHuffman asking about @Interior officials' claims that the department lacks the statutory authority to address #cli\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jul 13 20:49:36 +0000 2011",
+        "description": "Congressman for CA's 2nd Dist.  Posts on this page authorized by Huffman for Congress.  For my official House of Representatives feed please follow @RepHuffman",
+        "favourites_count": 11025,
+        "followers_count": 7997,
+        "friends_count": 393,
+        "geo_enabled": true,
+        "id": 334894942,
+        "id_str": "334894942",
+        "listed_count": 314,
+        "location": "Northern California",
+        "name": "Rep. Jared Huffman",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/334894942/1466965755",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "JaredHuffman",
+        "statuses_count": 10945,
+        "url": "http://t.co/vfmUDvrNRS",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 913394690652884993,
+            "id_str": "913394690652884993",
+            "name": "State Impact Center",
+            "screen_name": "StateImpactCntr"
+        },
+        {
+            "id": 1071102246,
+            "id_str": "1071102246",
+            "name": "Rep. Jared Huffman",
+            "screen_name": "RepHuffman"
+        },
+        {
+            "id": 76348185,
+            "id_str": "76348185",
+            "name": "US Department of the Interior",
+            "screen_name": "Interior"
+        }
+    ]
+}

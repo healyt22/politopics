@@ -1,0 +1,223 @@
+{
+    "created_at": "Mon Apr 09 13:36:19 +0000 2018",
+    "hashtags": [],
+    "id": 983337813998555137,
+    "id_str": "983337813998555137",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/A6PcF3MIJF",
+            "expanded_url": "https://twitter.com/GoodDayAtlanta/status/983337743337033729/photo/1",
+            "id": 983337735854243840,
+            "media_url": "http://pbs.twimg.com/media/DaWEdffUQAA1reD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DaWEdffUQAA1reD.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/A6PcF3MIJF"
+        }
+    ],
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Apr 09 13:36:02 +0000 2018",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 983337743337033729,
+        "id_str": "983337743337033729",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/A6PcF3MIJF",
+                "expanded_url": "https://twitter.com/GoodDayAtlanta/status/983337743337033729/photo/1",
+                "id": 983337735854243840,
+                "media_url": "http://pbs.twimg.com/media/DaWEdffUQAA1reD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DaWEdffUQAA1reD.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/A6PcF3MIJF"
+            }
+        ],
+        "place": {
+            "id": "e898916fab5ef970",
+            "url": "https://api.twitter.com/1.1/geo/id/e898916fab5ef970.json",
+            "place_type": "city",
+            "name": "Druid Hills",
+            "full_name": "Druid Hills, GA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.3488546,
+                            33.764565
+                        ],
+                        [
+                            -84.30578,
+                            33.764565
+                        ],
+                        [
+                            -84.30578,
+                            33.805572
+                        ],
+                        [
+                            -84.3488546,
+                            33.805572
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Right now @repdavidscott talks about his 15th annual jobs fair on @GoodDayAtlanta . @SharonLFOX5 https://t.co/A6PcF3MIJF",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Sep 02 13:20:38 +0000 2009",
+            "description": "Wake up early with us on @FOX5Atlanta!  We bring you the latest #news, @SKYFOXTraffic and @FOX5StormTeam updates you need for your day... and we're fun!",
+            "favourites_count": 2421,
+            "followers_count": 43407,
+            "friends_count": 1375,
+            "geo_enabled": true,
+            "id": 70961675,
+            "id_str": "70961675",
+            "listed_count": 575,
+            "location": "Atlanta, GA",
+            "name": "Good Day Atlanta",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70961675/1506369284",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/512606006883278848/642ASBuo_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/512606006883278848/642ASBuo_normal.png",
+            "profile_link_color": "1B51DB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "B8C9DB",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GoodDayAtlanta",
+            "statuses_count": 128915,
+            "url": "http://t.co/6hK5qliv4H",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 168673083,
+                "id_str": "168673083",
+                "name": "David Scott",
+                "screen_name": "repdavidscott"
+            },
+            {
+                "id": 70961675,
+                "id_str": "70961675",
+                "name": "Good Day Atlanta",
+                "screen_name": "GoodDayAtlanta"
+            },
+            {
+                "id": 902251343053807617,
+                "id_str": "902251343053807617",
+                "name": "Sharon Lawson FOX 5",
+                "screen_name": "SharonLFOX5"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GoodDayAtlanta: Right now @repdavidscott talks about his 15th annual jobs fair on @GoodDayAtlanta . @SharonLFOX5 https://t.co/A6PcF3MIJF",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 20 14:10:32 +0000 2010",
+        "description": "Representing Georgia's 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+        "favourites_count": 2647,
+        "followers_count": 20888,
+        "friends_count": 1865,
+        "id": 168673083,
+        "id_str": "168673083",
+        "listed_count": 837,
+        "location": "Georgia",
+        "name": "David Scott",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168673083/1425489882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "repdavidscott",
+        "statuses_count": 2835,
+        "url": "http://t.co/86ovd85h30",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 70961675,
+            "id_str": "70961675",
+            "name": "Good Day Atlanta",
+            "screen_name": "GoodDayAtlanta"
+        },
+        {
+            "id": 168673083,
+            "id_str": "168673083",
+            "name": "David Scott",
+            "screen_name": "repdavidscott"
+        },
+        {
+            "id": 70961675,
+            "id_str": "70961675",
+            "name": "Good Day Atlanta",
+            "screen_name": "GoodDayAtlanta"
+        },
+        {
+            "id": 902251343053807617,
+            "id_str": "902251343053807617",
+            "name": "Sharon Lawson FOX 5",
+            "screen_name": "SharonLFOX5"
+        }
+    ]
+}

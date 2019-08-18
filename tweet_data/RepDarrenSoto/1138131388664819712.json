@@ -1,0 +1,118 @@
+{
+    "created_at": "Mon Jun 10 17:10:43 +0000 2019",
+    "hashtags": [],
+    "id": 1138131388664819712,
+    "id_str": "1138131388664819712",
+    "lang": "en",
+    "retweet_count": 20,
+    "retweeted_status": {
+        "created_at": "Mon Jun 10 14:45:40 +0000 2019",
+        "favorite_count": 76,
+        "hashtags": [],
+        "id": 1138094888958930944,
+        "id_str": "1138094888958930944",
+        "lang": "en",
+        "retweet_count": 20,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This morning at Pulse Night Club, @RepDarrenSoto and @RepStephMurphy announced House Resolution 3094, which will de\u2026 https://t.co/dSFy3GKYlU",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138094888958930944",
+                "url": "https://t.co/dSFy3GKYlU"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 23 19:37:03 +0000 2010",
+            "description": "Official Twitter account of the Orlando Police Department. For emergencies, call 911. https://t.co/7aCVDSoXAn",
+            "favourites_count": 9069,
+            "followers_count": 127673,
+            "friends_count": 821,
+            "geo_enabled": true,
+            "id": 219041453,
+            "id_str": "219041453",
+            "listed_count": 941,
+            "location": "Orlando, Florida",
+            "name": "Orlando Police",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/219041453/1559591597",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1143702596051492864/8gSK-ZAr_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143702596051492864/8gSK-ZAr_normal.png",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "OrlandoPolice",
+            "statuses_count": 13889,
+            "url": "https://t.co/1CXZUrhSDY",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 818713465653051392,
+                "id_str": "818713465653051392",
+                "name": "US Rep. Darren Soto",
+                "screen_name": "RepDarrenSoto"
+            },
+            {
+                "id": 796183515998068736,
+                "id_str": "796183515998068736",
+                "name": "Rep. Stephanie Murphy",
+                "screen_name": "RepStephMurphy"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @OrlandoPolice: This morning at Pulse Night Club, @RepDarrenSoto and @RepStephMurphy announced House Resolution 3094, which will designa\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing Central Florida's 9th District: Osceola County and parts of Orange and Polk counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7\n\nOfficial Account",
+        "favourites_count": 4487,
+        "followers_count": 10261,
+        "friends_count": 3427,
+        "geo_enabled": true,
+        "id": 818713465653051392,
+        "id_str": "818713465653051392",
+        "listed_count": 435,
+        "location": "Kissimmee, Florida",
+        "name": "US Rep. Darren Soto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDarrenSoto",
+        "statuses_count": 3150,
+        "url": "https://t.co/3Iswy0Rzuf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 219041453,
+            "id_str": "219041453",
+            "name": "Orlando Police",
+            "screen_name": "OrlandoPolice"
+        },
+        {
+            "id": 818713465653051392,
+            "id_str": "818713465653051392",
+            "name": "US Rep. Darren Soto",
+            "screen_name": "RepDarrenSoto"
+        },
+        {
+            "id": 796183515998068736,
+            "id_str": "796183515998068736",
+            "name": "Rep. Stephanie Murphy",
+            "screen_name": "RepStephMurphy"
+        }
+    ]
+}

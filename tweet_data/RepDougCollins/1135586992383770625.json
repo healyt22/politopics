@@ -1,0 +1,106 @@
+{
+    "created_at": "Mon Jun 03 16:40:11 +0000 2019",
+    "favorite_count": 4713,
+    "hashtags": [
+        {
+            "text": "MuellerReport"
+        }
+    ],
+    "id": 1135586992383770625,
+    "id_str": "1135586992383770625",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/WrKtOUy6Nf",
+            "expanded_url": "https://twitter.com/RepDougCollins/status/1135586992383770625/video/1",
+            "id": 1135586646001442816,
+            "media_url": "http://pbs.twimg.com/media/D8JqL6vW4AMnWUs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8JqL6vW4AMnWUs.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/WrKtOUy6Nf",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 13180,
+                "variants": [
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1135586646001442816/vid/320x180/VU8AiceuGz1fBJpQ.mp4?tag=12"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1135586646001442816/vid/1280x720/fv7txmiYLZ1m2thT.mp4?tag=12"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1135586646001442816/pl/mVHQjuiG4F0NwUjV.m3u8?tag=12"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1135586646001442816/vid/640x360/-_z8zC8rHJXwLV5o.mp4?tag=12"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1777,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "A key question that still demands an answer: How did we get here? #MuellerReport https://t.co/WrKtOUy6Nf",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 04 13:43:55 +0000 2013",
+        "description": "Working for Georgia's 9th Congressional District. Pastor, attorney, military chaplain. Ranking Member of @JudiciaryGOP.",
+        "favourites_count": 605,
+        "followers_count": 103155,
+        "friends_count": 954,
+        "geo_enabled": true,
+        "id": 1060487274,
+        "id_str": "1060487274",
+        "listed_count": 1180,
+        "location": "Gainesville, Georgia",
+        "name": "Rep. Doug Collins",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060487274/1504726600",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024748216712146944/Hc_eYsbv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024748216712146944/Hc_eYsbv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDougCollins",
+        "statuses_count": 4009,
+        "url": "https://t.co/6yvc1EfV0T",
+        "verified": true
+    },
+    "user_mentions": []
+}

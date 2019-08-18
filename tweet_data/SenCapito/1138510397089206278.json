@@ -1,0 +1,84 @@
+{
+    "created_at": "Tue Jun 11 18:16:45 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "GoHerd"
+        }
+    ],
+    "id": 1138510397089206278,
+    "id_str": "1138510397089206278",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/YEcdY8lLtu",
+            "expanded_url": "https://twitter.com/SenCapito/status/1138510397089206278/photo/1",
+            "id": 1138508885940215813,
+            "media_url": "http://pbs.twimg.com/media/D8zLzLgXoAU2K1q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8zLzLgXoAU2K1q.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 2010,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 1178,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 667,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/YEcdY8lLtu"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Ran into some constituents in the hall! Great meeting Langley, Katie, and Claire from @marshallu! #GoHerd https://t.co/YEcdY8lLtu",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Sep 22 18:06:14 +0000 2010",
+        "description": "Proudly serving West Virginia in the United States Senate.",
+        "favourites_count": 417,
+        "followers_count": 68088,
+        "friends_count": 1000,
+        "geo_enabled": true,
+        "id": 193794406,
+        "id_str": "193794406",
+        "listed_count": 1625,
+        "name": "Shelley Moore Capito",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193794406/1561668249",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570247761044312064/gBmXhrin_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570247761044312064/gBmXhrin_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCapito",
+        "statuses_count": 8063,
+        "url": "http://t.co/s6UUsbxSHW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18009532,
+            "id_str": "18009532",
+            "name": "Marshall University",
+            "screen_name": "marshallu"
+        }
+    ]
+}

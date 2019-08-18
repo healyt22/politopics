@@ -1,0 +1,132 @@
+{
+    "created_at": "Thu Mar 14 17:55:32 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 1106252534438494210,
+    "id_str": "1106252534438494210",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Mar 14 16:51:19 +0000 2019",
+        "favorite_count": 8,
+        "hashtags": [
+            {
+                "text": "GAEPFP"
+            }
+        ],
+        "id": 1106236373818847232,
+        "id_str": "1106236373818847232",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "On the Hill today with our #GAEPFP fellows meeting with members of the Georgia delegation. Thanks to Congressman\u2026 https://t.co/e3kDWVPrWd",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1106236373818847232",
+                "url": "https://t.co/e3kDWVPrWd"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 07 18:36:30 +0000 2009",
+            "default_profile": true,
+            "description": "Improving public education in Georgia for 27 years (1992-2019). Focus: Non-partisan policy/research/analysis. Tagline: Informing leaders. Improving education.",
+            "favourites_count": 2031,
+            "followers_count": 4250,
+            "friends_count": 318,
+            "geo_enabled": true,
+            "id": 54635866,
+            "id_str": "54635866",
+            "listed_count": 64,
+            "location": "Atlanta, Georgia",
+            "name": "Georgia Partnership",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54635866/1529413973",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1006546170276208640/Yp9qSw1v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006546170276208640/Yp9qSw1v_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GAPartnership",
+            "statuses_count": 3497,
+            "url": "https://t.co/qYanI6PSBK"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1106236373818847232,
+    "quoted_status_id_str": "1106236373818847232",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thanks for having me! https://t.co/HzhOn8eQay",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/GAPartnership/status/1106236373818847232",
+            "url": "https://t.co/HzhOn8eQay"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 06 14:45:18 +0000 2015",
+        "description": "Proudly representing Georgia's 12th Congressional District",
+        "favourites_count": 97,
+        "followers_count": 17379,
+        "friends_count": 130,
+        "geo_enabled": true,
+        "id": 2964287128,
+        "id_str": "2964287128",
+        "listed_count": 446,
+        "location": "Augusta, GA and Washington, DC",
+        "name": "Rick W. Allen",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964287128/1506352403",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552476601510682624/vklJRMrV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552476601510682624/vklJRMrV_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRickAllen",
+        "statuses_count": 1688,
+        "url": "https://t.co/WfV96n5LQo",
+        "verified": true
+    },
+    "user_mentions": []
+}

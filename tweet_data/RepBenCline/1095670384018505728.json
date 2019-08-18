@@ -1,0 +1,83 @@
+{
+    "created_at": "Wed Feb 13 13:05:50 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [
+        {
+            "text": "va06"
+        }
+    ],
+    "id": 1095670384018505728,
+    "id_str": "1095670384018505728",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/J8v924ZfWV",
+            "expanded_url": "https://twitter.com/RepBenCline/status/1095670384018505728/photo/1",
+            "id": 1095670378431684608,
+            "media_url": "http://pbs.twimg.com/media/DzSaZ3FWoAAzPcO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DzSaZ3FWoAAzPcO.jpg",
+            "sizes": {
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/J8v924ZfWV"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I\u2019m on @cspanwj. I hope you can tune in. #va06 https://t.co/J8v924ZfWV",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Dec 10 15:57:26 +0000 2018",
+        "default_profile": true,
+        "description": "Representing the 6th District of Virginia. Member of House @EdLaborGOP and @JudiciaryGOP Committees.",
+        "favourites_count": 47,
+        "followers_count": 2767,
+        "friends_count": 213,
+        "id": 1072158357237174272,
+        "id_str": "1072158357237174272",
+        "listed_count": 121,
+        "location": "Rockbridge County, Virginia",
+        "name": "Congressman Ben Cline",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072158357237174272/1546453531",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080526430851747841/A1ugejo0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080526430851747841/A1ugejo0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBenCline",
+        "statuses_count": 245,
+        "url": "https://t.co/85A2wNen3Y",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15923226,
+            "id_str": "15923226",
+            "name": "Washington Journal",
+            "screen_name": "cspanwj"
+        }
+    ]
+}

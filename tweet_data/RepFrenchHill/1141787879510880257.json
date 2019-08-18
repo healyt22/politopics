@@ -1,0 +1,126 @@
+{
+    "created_at": "Thu Jun 20 19:20:18 +0000 2019",
+    "hashtags": [
+        {
+            "text": "copticequality"
+        }
+    ],
+    "id": 1141787879510880257,
+    "id_str": "1141787879510880257",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Jun 20 19:02:21 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "copticequality"
+            }
+        ],
+        "id": 1141783363570847744,
+        "id_str": "1141783363570847744",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Big thanks to @RepFrenchHill who reported that he sent @POTUS a note about #copticequality prior to el-Sisi's last\u2026 https://t.co/0IK28hopAe",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141783363570847744",
+                "url": "https://t.co/0IK28hopAe"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jul 18 20:38:53 +0000 2014",
+            "description": "Coptic Solidarity is non-profit organization dedicated to leading efforts to achieve equal citizenship for the Copts in Egypt.",
+            "favourites_count": 75,
+            "followers_count": 602,
+            "friends_count": 268,
+            "geo_enabled": true,
+            "id": 2657701057,
+            "id_str": "2657701057",
+            "listed_count": 14,
+            "location": "Washington, DC",
+            "name": "Coptic Solidarity",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2657701057/1542387705",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/750923326214864897/X9iRrhEg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/750923326214864897/X9iRrhEg_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CoptSolidarity",
+            "statuses_count": 2140,
+            "url": "http://t.co/ju5cIsEy32"
+        },
+        "user_mentions": [
+            {
+                "id": 2953974395,
+                "id_str": "2953974395",
+                "name": "French Hill",
+                "screen_name": "RepFrenchHill"
+            },
+            {
+                "id": 822215679726100480,
+                "id_str": "822215679726100480",
+                "name": "President Trump",
+                "screen_name": "POTUS"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @CoptSolidarity: Big thanks to @RepFrenchHill who reported that he sent @POTUS a note about #copticequality prior to el-Sisi's last visi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 31 23:54:58 +0000 2014",
+        "description": "Official account of Rep French Hill. 9th generation Arkansan. FinTech + AI Task Force Ranking Member. Proudly representing Arkansas's 2nd Congressional District",
+        "favourites_count": 1129,
+        "followers_count": 14456,
+        "friends_count": 1181,
+        "geo_enabled": true,
+        "id": 2953974395,
+        "id_str": "2953974395",
+        "listed_count": 505,
+        "location": "Little Rock, AR",
+        "name": "French Hill",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953974395/1563819578",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepFrenchHill",
+        "statuses_count": 2561,
+        "url": "https://t.co/TggD8rLd3M",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2657701057,
+            "id_str": "2657701057",
+            "name": "Coptic Solidarity",
+            "screen_name": "CoptSolidarity"
+        },
+        {
+            "id": 2953974395,
+            "id_str": "2953974395",
+            "name": "French Hill",
+            "screen_name": "RepFrenchHill"
+        },
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        }
+    ]
+}

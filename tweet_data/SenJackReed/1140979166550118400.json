@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jun 18 13:46:46 +0000 2019",
+    "hashtags": [],
+    "id": 1140979166550118400,
+    "id_str": "1140979166550118400",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Jun 18 13:38:39 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1140977126168039424,
+        "id_str": "1140977126168039424",
+        "lang": "en",
+        "place": {
+            "id": "0fbeae75d2d4d000",
+            "url": "https://api.twitter.com/1.1/geo/id/0fbeae75d2d4d000.json",
+            "place_type": "poi",
+            "name": "The Washington Post",
+            "full_name": "The Washington Post",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.03076839447021,
+                            38.90268944352402
+                        ],
+                        [
+                            -77.03076839447021,
+                            38.90268944352402
+                        ],
+                        [
+                            -77.03076839447021,
+                            38.90268944352402
+                        ],
+                        [
+                            -77.03076839447021,
+                            38.90268944352402
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The goal is to get to the point where we can cure these cancers.. there are some cancers in children that have had\u2026 https://t.co/LAWoJuXhYA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1140977126168039424",
+                "url": "https://t.co/LAWoJuXhYA"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 07 21:16:39 +0000 2008",
+            "description": "The Research!America alliance advocates for science, discovery and innovation to achieve better health for all.",
+            "favourites_count": 8095,
+            "followers_count": 12163,
+            "friends_count": 3347,
+            "geo_enabled": true,
+            "id": 15769734,
+            "id_str": "15769734",
+            "listed_count": 535,
+            "location": "Arlington, VA",
+            "name": "ResearchAmerica",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15769734/1564502623",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105460819259809797/ulp8lb-z_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105460819259809797/ulp8lb-z_normal.png",
+            "profile_link_color": "0575C3",
+            "profile_sidebar_border_color": "B10808",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "ResearchAmerica",
+            "statuses_count": 19256,
+            "url": "http://t.co/ZEbzBe6GEn"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ResearchAmerica: The goal is to get to the point where we can cure these cancers.. there are some cancers in children that have had rem\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 08 15:24:01 +0000 2012",
+        "description": "Official Twitter feed of Rhode Island\u2019s U.S. Senator Jack Reed.",
+        "favourites_count": 152,
+        "followers_count": 93739,
+        "friends_count": 36,
+        "id": 486694111,
+        "id_str": "486694111",
+        "listed_count": 1812,
+        "location": "Providence, Rhode Island",
+        "name": "Senator Jack Reed",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/486694111/1431108911",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/611042380846907393/L-JV9zuJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/611042380846907393/L-JV9zuJ_normal.jpg",
+        "profile_link_color": "42398A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJackReed",
+        "statuses_count": 5913,
+        "url": "http://t.co/zRkAemKyYn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15769734,
+            "id_str": "15769734",
+            "name": "ResearchAmerica",
+            "screen_name": "ResearchAmerica"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "created_at": "Thu Jun 13 18:46:02 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1139242539947560961,
+    "id_str": "1139242539947560961",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jun 13 17:13:59 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1139219376819900417,
+        "id_str": "1139219376819900417",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The @NatlParkService has designated the Buffalo National River as an International Dark Sky Park. The @BuffaloNPS i\u2026 https://t.co/QcM5PBR7yX",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1139219376819900417",
+                "url": "https://t.co/QcM5PBR7yX"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 05 18:53:03 +0000 2011",
+            "description": "Proud to serve the folks of Arkansas's 3rd District. Ranking Member of @HouseBudgetGOP.",
+            "favourites_count": 1274,
+            "followers_count": 20905,
+            "friends_count": 1476,
+            "geo_enabled": true,
+            "id": 234469322,
+            "id_str": "234469322",
+            "listed_count": 964,
+            "location": "Arkansas's 3rd District",
+            "name": "Rep. Steve Womack",
+            "profile_background_color": "798185",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/234469322/1527182179",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2043213363/Official_Pic_4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2043213363/Official_Pic_4_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "rep_stevewomack",
+            "statuses_count": 7114,
+            "url": "https://t.co/2iFHpbXo1l",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 36771809,
+                "id_str": "36771809",
+                "name": "NationalParkService",
+                "screen_name": "NatlParkService"
+            },
+            {
+                "id": 143838454,
+                "id_str": "143838454",
+                "name": "Buffalo Nat'l River",
+                "screen_name": "BuffaloNPS"
+            }
+        ]
+    },
+    "quoted_status_id": 1139219376819900417,
+    "quoted_status_id_str": "1139219376819900417",
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "The Buffalo National River is one of my favorite places in Arkansas - glad to see it's getting some well-deserved r\u2026 https://t.co/pt9sfu8hQu",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1139242539947560961",
+            "url": "https://t.co/pt9sfu8hQu"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Oct 31 03:57:48 +0000 2014",
+        "description": "Representing the 4th District of Arkansas. Husband. Father of 4. Hot Springs native. Engineer. Forester.",
+        "favourites_count": 1224,
+        "followers_count": 9218,
+        "friends_count": 248,
+        "geo_enabled": true,
+        "id": 2852998461,
+        "id_str": "2852998461",
+        "listed_count": 480,
+        "location": "Hot Springs, Arkansas",
+        "name": "Rep. Bruce Westerman",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2852998461/1529430870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875381309744533505/sT1DIGng_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875381309744533505/sT1DIGng_normal.jpg",
+        "profile_link_color": "BE0F34",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepWesterman",
+        "statuses_count": 5099,
+        "verified": true
+    },
+    "user_mentions": []
+}

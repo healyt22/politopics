@@ -1,0 +1,128 @@
+{
+    "created_at": "Thu Jul 18 00:07:55 +0000 2019",
+    "favorite_count": 29,
+    "hashtags": [],
+    "id": 1151644732537364481,
+    "id_str": "1151644732537364481",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 17 13:48:10 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "EnsuringLastingSmiles"
+            }
+        ],
+        "id": 1151488765644419072,
+        "id_str": "1151488765644419072",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/gWP9d83H1m",
+                "expanded_url": "https://twitter.com/NFED_ORG/status/1151488765644419072/photo/1",
+                "id": 1151488761290776576,
+                "media_url": "http://pbs.twimg.com/media/D_ro7XOXYAAK2Ko.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_ro7XOXYAAK2Ko.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1241,
+                        "h": 934,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 903,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 512,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/gWP9d83H1m"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Our kid advocates met with @SenJoniErnst to discuss the #EnsuringLastingSmiles Act! https://t.co/gWP9d83H1m",
+        "urls": [],
+        "user": {
+            "created_at": "Sun May 22 22:04:37 +0000 2011",
+            "description": "National Foundation for Ectodermal Dysplasias - Serving the ectodermal dysplasias community in 85+ countries.",
+            "favourites_count": 449,
+            "followers_count": 899,
+            "friends_count": 1139,
+            "geo_enabled": true,
+            "id": 303452790,
+            "id_str": "303452790",
+            "listed_count": 11,
+            "location": "Worldwide",
+            "name": "NFED",
+            "profile_background_color": "6A2C91",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/303452790/1563198084",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1101536441056837633/TGwSzuwY_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101536441056837633/TGwSzuwY_normal.png",
+            "profile_link_color": "00939D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "NFED_ORG",
+            "statuses_count": 2714
+        },
+        "user_mentions": [
+            {
+                "id": 2856787757,
+                "id_str": "2856787757",
+                "name": "Joni Ernst",
+                "screen_name": "SenJoniErnst"
+            }
+        ]
+    },
+    "quoted_status_id": 1151488765644419072,
+    "quoted_status_id_str": "1151488765644419072",
+    "retweet_count": 10,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great to meet with these young advocates! https://t.co/DaxkncfQeh",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NFED_ORG/status/1151488765644419072",
+            "url": "https://t.co/DaxkncfQeh"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Nov 02 13:32:54 +0000 2014",
+        "description": "Follow for news and updates from the Office of Iowa Senator Joni K. Ernst. Tweets from Joni are signed JKE.",
+        "favourites_count": 140,
+        "followers_count": 63345,
+        "friends_count": 146,
+        "geo_enabled": true,
+        "id": 2856787757,
+        "id_str": "2856787757",
+        "listed_count": 1256,
+        "location": "Iowa",
+        "name": "Joni Ernst",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856787757/1458665236",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088183053669855232/GVWfopWd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088183053669855232/GVWfopWd_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "SenJoniErnst",
+        "statuses_count": 3139,
+        "url": "http://t.co/zUYK5PQEOd",
+        "verified": true
+    },
+    "user_mentions": []
+}

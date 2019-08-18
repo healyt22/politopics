@@ -1,0 +1,153 @@
+{
+    "created_at": "Thu Aug 15 16:57:36 +0000 2019",
+    "hashtags": [],
+    "id": 1162045689687400448,
+    "id_str": "1162045689687400448",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Thu Aug 15 15:07:43 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [],
+        "id": 1162018035810463751,
+        "id_str": "1162018035810463751",
+        "lang": "en",
+        "place": {
+            "id": "dc62519fda13b4ec",
+            "url": "https://api.twitter.com/1.1/geo/id/dc62519fda13b4ec.json",
+            "place_type": "city",
+            "name": "Tampa",
+            "full_name": "Tampa, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.620093,
+                            27.821353
+                        ],
+                        [
+                            -82.2652945,
+                            27.821353
+                        ],
+                        [
+                            -82.2652945,
+                            28.171836
+                        ],
+                        [
+                            -82.620093,
+                            28.171836
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The Higher Education roundtable with @SenRickScott at @CAMLSTAMPA featured spirited discussions on student loans, P\u2026 https://t.co/w4ugFctkAH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162018035810463751",
+                "url": "https://t.co/w4ugFctkAH"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 16 14:04:23 +0000 2009",
+            "description": "Dedicated to improving the entire spectrum of health, from the environment, to the community, to the individual. #MakingLifeBetter",
+            "favourites_count": 6330,
+            "followers_count": 8710,
+            "friends_count": 2414,
+            "geo_enabled": true,
+            "id": 31811989,
+            "id_str": "31811989",
+            "listed_count": 189,
+            "location": "Tampa, FL",
+            "name": "USF Health",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/31811989/1565632751",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1131958509791260672/WzKsgKis_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131958509791260672/WzKsgKis_normal.png",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "USFHealth",
+            "statuses_count": 10956,
+            "url": "https://t.co/eC7iH9aifZ"
+        },
+        "user_mentions": [
+            {
+                "id": 131546062,
+                "id_str": "131546062",
+                "name": "Rick Scott",
+                "screen_name": "SenRickScott"
+            },
+            {
+                "id": 492329240,
+                "id_str": "492329240",
+                "name": "CAMLS",
+                "screen_name": "CAMLSTAMPA"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @USFHealth: The Higher Education roundtable with @SenRickScott at @CAMLSTAMPA featured spirited discussions on student loans, Pell grant\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Apr 10 16:03:04 +0000 2010",
+        "description": "Senator from the great state of Florida. Fighting for Florida families and to Make Washington Work. #LetsGetToWork\nhttps://t.co/t2TJJ5tras",
+        "favourites_count": 15,
+        "followers_count": 260204,
+        "friends_count": 2828,
+        "geo_enabled": true,
+        "id": 131546062,
+        "id_str": "131546062",
+        "listed_count": 3483,
+        "location": "The Sunshine State",
+        "name": "Rick Scott",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131546062/1548253495",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenRickScott",
+        "statuses_count": 14167,
+        "url": "https://t.co/sHIJdrhtn1",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 31811989,
+            "id_str": "31811989",
+            "name": "USF Health",
+            "screen_name": "USFHealth"
+        },
+        {
+            "id": 131546062,
+            "id_str": "131546062",
+            "name": "Rick Scott",
+            "screen_name": "SenRickScott"
+        },
+        {
+            "id": 492329240,
+            "id_str": "492329240",
+            "name": "CAMLS",
+            "screen_name": "CAMLSTAMPA"
+        }
+    ]
+}

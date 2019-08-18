@@ -1,0 +1,81 @@
+{
+    "created_at": "Wed Jun 07 14:01:24 +0000 2017",
+    "favorite_count": 122,
+    "hashtags": [
+        {
+            "text": "FBIDirector"
+        }
+    ],
+    "id": 872453440735240192,
+    "id_str": "872453440735240192",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/XyzrexacHa",
+            "expanded_url": "https://twitter.com/SenSasse/status/872453440735240192/photo/1",
+            "id": 872452931269922819,
+            "media_url": "http://pbs.twimg.com/media/DBuTUYuXkAMceQj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DBuTUYuXkAMceQj.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 660,
+                    "h": 174,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 660,
+                    "h": 174,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 660,
+                    "h": 174,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/XyzrexacHa"
+        }
+    ],
+    "retweet_count": 38,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Statement on nomination of Christopher Wray to be #FBIDirector: https://t.co/jAJLYukDk2 https://t.co/XyzrexacHa",
+    "urls": [
+        {
+            "expanded_url": "https://www.sasse.senate.gov/public/index.cfm?p=press-releases&id=0EE703C7-CCC3-4896-8BF1-11C29085DB2B",
+            "url": "https://t.co/jAJLYukDk2"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 05 22:39:56 +0000 2015",
+        "default_profile": true,
+        "description": "The press office account of U.S. Sen. Sasse. His (less political/hopefully more interesting) personal account is @ BenSasse.",
+        "favourites_count": 1,
+        "followers_count": 144013,
+        "friends_count": 1,
+        "id": 2962923040,
+        "id_str": "2962923040",
+        "listed_count": 1831,
+        "name": "Senator Ben Sasse",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962923040/1445881489",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009479405968621570/-ms4YWy0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009479405968621570/-ms4YWy0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenSasse",
+        "statuses_count": 903,
+        "verified": true
+    },
+    "user_mentions": []
+}

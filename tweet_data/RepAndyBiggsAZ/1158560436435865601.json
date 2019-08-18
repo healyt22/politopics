@@ -1,0 +1,123 @@
+{
+    "created_at": "Tue Aug 06 02:08:27 +0000 2019",
+    "hashtags": [],
+    "id": 1158560436435865601,
+    "id_str": "1158560436435865601",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Sat Aug 03 19:59:07 +0000 2019",
+        "favorite_count": 52,
+        "hashtags": [],
+        "id": 1157742712923123712,
+        "id_str": "1157742712923123712",
+        "lang": "en",
+        "place": {
+            "id": "07d9c938c2084000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c938c2084000.json",
+            "place_type": "poi",
+            "name": "Gilbert Civic Center",
+            "full_name": "Gilbert Civic Center",
+            "country_code": "",
+            "country": "",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.78840307834533,
+                            33.33151029008737
+                        ],
+                        [
+                            -111.78840307834533,
+                            33.33151029008737
+                        ],
+                        [
+                            -111.78840307834533,
+                            33.33151029008737
+                        ],
+                        [
+                            -111.78840307834533,
+                            33.33151029008737
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This week we recognized our 4 amazing Gilbert Softball Little League Teams, including the 9-11 year old team who wo\u2026 https://t.co/doMGpHBx9V",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1157742712923123712",
+                "url": "https://t.co/doMGpHBx9V"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 13 16:38:26 +0000 2016",
+            "default_profile": true,
+            "description": "Official Twitter account for @GilbertYourTown Mayor Jenn Daniels. Follow along for all things #GilbertAZ. Links/retweets \u2260 endorsements.",
+            "favourites_count": 2955,
+            "followers_count": 3021,
+            "friends_count": 638,
+            "geo_enabled": true,
+            "id": 753267351408173057,
+            "id_str": "753267351408173057",
+            "listed_count": 27,
+            "location": "Gilbert, AZ",
+            "name": "Mayor Jenn Daniels",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/753267351408173057/1550790864",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/755536892146266112/4EnC_oTU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/755536892146266112/4EnC_oTU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GilbertAZMayor",
+            "statuses_count": 1393,
+            "url": "https://t.co/QuL7yKSTuF"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GilbertAZMayor: This week we recognized our 4 amazing Gilbert Softball Little League Teams, including the 9-11 year old team who won th\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+        "default_profile": true,
+        "description": "Representing Arizona's Fighting Fifth.",
+        "favourites_count": 3886,
+        "followers_count": 32482,
+        "friends_count": 1235,
+        "id": 816652616625168388,
+        "id_str": "816652616625168388",
+        "listed_count": 596,
+        "location": "Arizona, USA",
+        "name": "Rep Andy Biggs",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1558381518",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyBiggsAZ",
+        "statuses_count": 5935,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 753267351408173057,
+            "id_str": "753267351408173057",
+            "name": "Mayor Jenn Daniels",
+            "screen_name": "GilbertAZMayor"
+        }
+    ]
+}

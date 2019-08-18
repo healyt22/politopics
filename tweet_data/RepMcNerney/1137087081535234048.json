@@ -1,0 +1,159 @@
+{
+    "created_at": "Fri Jun 07 20:01:00 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [
+        {
+            "text": "ScienceOnTheHill"
+        }
+    ],
+    "id": 1137087081535234048,
+    "id_str": "1137087081535234048",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jun 06 21:01:59 +0000 2019",
+        "favorite_count": 25,
+        "hashtags": [],
+        "id": 1136740039306686464,
+        "id_str": "1136740039306686464",
+        "in_reply_to_screen_name": "sciam",
+        "in_reply_to_status_id": 1136737846893715458,
+        "in_reply_to_user_id": 14647570,
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you to @RepMcNerney, @mdichristina, @AprilHCrow, @klavlaw, Dr. Morton Barlaz and everyone who attended or tun\u2026 https://t.co/iFJRc54Xdn",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1136740039306686464",
+                "url": "https://t.co/iFJRc54Xdn"
+            }
+        ],
+        "user": {
+            "created_at": "Sun May 04 12:39:32 +0000 2008",
+            "description": "Awesome discoveries. Expert insights. Science that shapes the world.",
+            "favourites_count": 2428,
+            "followers_count": 3758407,
+            "friends_count": 676,
+            "geo_enabled": true,
+            "id": 14647570,
+            "id_str": "14647570",
+            "listed_count": 29484,
+            "location": "New York City",
+            "name": "Scientific American",
+            "profile_background_color": "F8F8F8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14647570/1563472074",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/676776763431620608/1eNZzxq0_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/676776763431620608/1eNZzxq0_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "D1423D",
+            "profile_sidebar_fill_color": "ECECEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "sciam",
+            "statuses_count": 61979,
+            "url": "http://t.co/FfSfw3mLnA",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 385429543,
+                "id_str": "385429543",
+                "name": "Jerry McNerney",
+                "screen_name": "RepMcNerney"
+            },
+            {
+                "id": 174740894,
+                "id_str": "174740894",
+                "name": "Mariette DiChristina",
+                "screen_name": "mdichristina"
+            },
+            {
+                "id": 627659646,
+                "id_str": "627659646",
+                "name": "April Crow",
+                "screen_name": "AprilHCrow"
+            },
+            {
+                "id": 46716957,
+                "id_str": "46716957",
+                "name": "Kara Lavender Law",
+                "screen_name": "klavlaw"
+            }
+        ]
+    },
+    "quoted_status_id": 1136740039306686464,
+    "quoted_status_id_str": "1136740039306686464",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Great conversations yesterday at our 3rd #ScienceOnTheHill event! Thanks to all those who attended and participated! https://t.co/cTLBwJAwCE",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/sciam/status/1136740039306686464",
+            "url": "https://t.co/cTLBwJAwCE"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Oct 05 13:52:58 +0000 2011",
+        "description": "Proudly representing California's 9th Congressional District. Learn more about my work in Congress at http://t.co/MbFWXH7J",
+        "favourites_count": 374,
+        "followers_count": 25283,
+        "friends_count": 732,
+        "id": 385429543,
+        "id_str": "385429543",
+        "listed_count": 854,
+        "location": "Stockton, CA",
+        "name": "Jerry McNerney",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385429543/1398867539",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453602967006896128/sMQhAO6K_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453602967006896128/sMQhAO6K_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMcNerney",
+        "statuses_count": 2343,
+        "url": "http://t.co/GOFOgB5Ch5",
+        "verified": true
+    },
+    "user_mentions": []
+}

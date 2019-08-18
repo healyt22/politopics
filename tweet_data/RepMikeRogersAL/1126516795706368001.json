@@ -1,0 +1,251 @@
+{
+    "created_at": "Thu May 09 15:58:28 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "AL03"
+        }
+    ],
+    "id": 1126516795706368001,
+    "id_str": "1126516795706368001",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu May 09 15:38:05 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1126511665699328001,
+        "id_str": "1126511665699328001",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/biHjfSnDXW",
+                "expanded_url": "https://twitter.com/PHSBlueKnights/status/1126511665699328001/photo/1",
+                "id": 1126511657541193729,
+                "media_url": "http://pbs.twimg.com/media/D6IsYk8UUAEFYHX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D6IsYk8UUAEFYHX.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/biHjfSnDXW"
+            },
+            {
+                "display_url": "pic.twitter.com/biHjfSnDXW",
+                "expanded_url": "https://twitter.com/PHSBlueKnights/status/1126511665699328001/photo/1",
+                "id": 1126511657394552832,
+                "media_url": "http://pbs.twimg.com/media/D6IsYkZWwAAZrZa.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D6IsYkZWwAAZrZa.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/biHjfSnDXW"
+            },
+            {
+                "display_url": "pic.twitter.com/biHjfSnDXW",
+                "expanded_url": "https://twitter.com/PHSBlueKnights/status/1126511665699328001/photo/1",
+                "id": 1126511657528614912,
+                "media_url": "http://pbs.twimg.com/media/D6IsYk5UYAAHRBl.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D6IsYk5UYAAHRBl.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/biHjfSnDXW"
+            },
+            {
+                "display_url": "pic.twitter.com/biHjfSnDXW",
+                "expanded_url": "https://twitter.com/PHSBlueKnights/status/1126511665699328001/photo/1",
+                "id": 1126511657532846082,
+                "media_url": "http://pbs.twimg.com/media/D6IsYk6U8AIjaMs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D6IsYk6U8AIjaMs.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/biHjfSnDXW"
+            }
+        ],
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "PCMS 8th grade visit to the Capitol Building https://t.co/biHjfSnDXW",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Apr 28 12:21:02 +0000 2009",
+            "description": "Piedmont Band, Piedmont AL",
+            "favourites_count": 242,
+            "followers_count": 355,
+            "friends_count": 306,
+            "geo_enabled": true,
+            "id": 36050368,
+            "id_str": "36050368",
+            "listed_count": 9,
+            "name": "PIEDMONT BAND",
+            "profile_background_color": "F2C618",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/36050368/1551878097",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1019045986994249728/sfmEak_8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019045986994249728/sfmEak_8_normal.jpg",
+            "profile_link_color": "000FB4",
+            "profile_sidebar_border_color": "4E27F1",
+            "profile_sidebar_fill_color": "DBBE2C",
+            "profile_text_color": "1B1313",
+            "profile_use_background_image": true,
+            "screen_name": "PHSBlueKnights",
+            "statuses_count": 3607
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1126511665699328001,
+    "quoted_status_id_str": "1126511665699328001",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great to visit with y'all! #AL03 https://t.co/jHKeAZrDNr",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/PHSBlueKnights/status/1126511665699328001",
+            "url": "https://t.co/jHKeAZrDNr"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Apr 21 17:43:28 +0000 2009",
+        "description": "I am proud to represent Alabama's Third Congressional District.",
+        "favourites_count": 43,
+        "followers_count": 25349,
+        "friends_count": 2974,
+        "geo_enabled": true,
+        "id": 33977070,
+        "id_str": "33977070",
+        "listed_count": 1233,
+        "location": "Washington, D.C./Anniston, AL",
+        "name": "Mike Rogers",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33977070/1384295882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/807319848506261504/VIggyuuB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/807319848506261504/VIggyuuB_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMikeRogersAL",
+        "statuses_count": 4832,
+        "url": "http://t.co/xtRIwQK2MV",
+        "verified": true
+    },
+    "user_mentions": []
+}

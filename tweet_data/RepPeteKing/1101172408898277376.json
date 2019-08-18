@@ -1,0 +1,166 @@
+{
+    "created_at": "Thu Feb 28 17:28:55 +0000 2019",
+    "hashtags": [
+        {
+            "text": "AACRontheHill"
+        }
+    ],
+    "id": 1101172408898277376,
+    "id_str": "1101172408898277376",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu Feb 28 14:57:59 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 1101134422479384576,
+        "id_str": "1101134422479384576",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Great first meeting of the day with @RepPeteKing A long time champion for Cancer Research! @Waynerl @do_phd\u2026 https://t.co/CroVcLoAtl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1101134422479384576",
+                "url": "https://t.co/CroVcLoAtl"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 17 19:38:15 +0000 2018",
+            "default_profile": true,
+            "description": "General Surgery Resident @WCMC, Research Fellow @sloan_kettering, Interests include: Data, Pancreata, Errata, Patterns",
+            "favourites_count": 3409,
+            "followers_count": 131,
+            "friends_count": 126,
+            "geo_enabled": true,
+            "id": 1030539319663108096,
+            "id_str": "1030539319663108096",
+            "location": "Manhattan, NY",
+            "name": "Victoria Aveson",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1030539319663108096/1534535121",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1030541021296427009/6uBKpGN9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030541021296427009/6uBKpGN9_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "VAvesonMD",
+            "statuses_count": 170
+        },
+        "user_mentions": [
+            {
+                "id": 18277655,
+                "id_str": "18277655",
+                "name": "Rep. Pete King",
+                "screen_name": "RepPeteKing"
+            },
+            {
+                "id": 37052157,
+                "id_str": "37052157",
+                "name": "Wayne Lawrence",
+                "screen_name": "Waynerl"
+            },
+            {
+                "id": 1101103647323275265,
+                "id_str": "1101103647323275265",
+                "name": "Pat LoRusso DO PhD",
+                "screen_name": "do_phd"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @VAvesonMD: Great first meeting of the day with @RepPeteKing A long time champion for Cancer Research! @Waynerl @do_phd #AACRontheHill #\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 21 02:49:32 +0000 2008",
+        "default_profile": true,
+        "description": "Representing New York's 2nd Congressional District",
+        "favourites_count": 154,
+        "followers_count": 36381,
+        "friends_count": 100,
+        "geo_enabled": true,
+        "id": 18277655,
+        "id_str": "18277655",
+        "listed_count": 1823,
+        "location": "Seaford, New York",
+        "name": "Rep. Pete King",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18277655/1558122211",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1302288285/newptkheadshot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1302288285/newptkheadshot_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPeteKing",
+        "statuses_count": 2873,
+        "url": "http://t.co/KPR17HxYvl",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1030539319663108096,
+            "id_str": "1030539319663108096",
+            "name": "Victoria Aveson",
+            "screen_name": "VAvesonMD"
+        },
+        {
+            "id": 18277655,
+            "id_str": "18277655",
+            "name": "Rep. Pete King",
+            "screen_name": "RepPeteKing"
+        },
+        {
+            "id": 37052157,
+            "id_str": "37052157",
+            "name": "Wayne Lawrence",
+            "screen_name": "Waynerl"
+        },
+        {
+            "id": 1101103647323275265,
+            "id_str": "1101103647323275265",
+            "name": "Pat LoRusso DO PhD",
+            "screen_name": "do_phd"
+        }
+    ]
+}

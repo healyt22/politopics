@@ -1,0 +1,116 @@
+{
+    "created_at": "Thu Aug 01 20:58:54 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1157032981862785026,
+    "id_str": "1157032981862785026",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Aug 01 20:56:05 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1157032275785240579,
+        "id_str": "1157032275785240579",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Svi0RW9lRk",
+                "expanded_url": "https://twitter.com/JimDuncanNBC12/status/1157032275785240579/photo/1",
+                "id": 1157032272715014144,
+                "media_url": "http://pbs.twimg.com/media/EA6auMjXYAAkmq4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EA6auMjXYAAkmq4.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Svi0RW9lRk"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+        "text": "Stationary severe storm over Richmond. Large hail. Damaging gusts https://t.co/Svi0RW9lRk",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Dec 16 02:36:06 +0000 2009",
+            "description": "Meteorologist for NBC12 in Richmond VA. Tweeting about the weather and things seen in the news. Opinions are my own.",
+            "favourites_count": 2235,
+            "followers_count": 12474,
+            "friends_count": 859,
+            "id": 97116752,
+            "id_str": "97116752",
+            "listed_count": 295,
+            "name": "Jim Duncan",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/97116752/1560388756",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1152593803473240064/CvW6S84A_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152593803473240064/CvW6S84A_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JimDuncanNBC12",
+            "statuses_count": 16770,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1157032275785240579,
+    "quoted_status_id_str": "1157032275785240579",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "As always be safe when severe weather is approaching. Pay attention to the weather forecast. https://t.co/oODK1QDL3o",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/JimDuncanNBC12/status/1157032275785240579",
+            "url": "https://t.co/oODK1QDL3o"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 03 07:15:10 +0000 2017",
+        "description": "Father, husband & Progressive Democrat. Proudly representing VA\u2019s Fighting 4th Congressional District #VA04. Member @EnergyCommerce  @climatecrisis & @NRDems.",
+        "favourites_count": 946,
+        "followers_count": 8469,
+        "friends_count": 1297,
+        "geo_enabled": true,
+        "id": 816181091673448448,
+        "id_str": "816181091673448448",
+        "listed_count": 385,
+        "name": "Rep. Donald McEachin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816181091673448448/1520458426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_link_color": "0A5539",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMcEachin",
+        "statuses_count": 3832,
+        "url": "https://t.co/IsHgFCD4gT",
+        "verified": true
+    },
+    "user_mentions": []
+}

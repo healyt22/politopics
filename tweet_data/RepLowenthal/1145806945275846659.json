@@ -1,0 +1,101 @@
+{
+    "created_at": "Mon Jul 01 21:30:38 +0000 2019",
+    "hashtags": [],
+    "id": 1145806945275846659,
+    "id_str": "1145806945275846659",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Jul 01 21:30:00 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1145806785925787649,
+        "id_str": "1145806785925787649",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "The Trump administration cries \u2018energy dominance\u2019 and issues permits regardless of the consequences.\u2026 https://t.co/CkA7uxOrwB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1145806785925787649",
+                "url": "https://t.co/CkA7uxOrwB"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 04 22:17:54 +0000 2011",
+            "description": "@RepRaulGrijalva & House Dems are working to #ActOnClimate, conserve public lands/oceans, protect wildlife, boost clean energy & defend Tribal rights",
+            "favourites_count": 5852,
+            "followers_count": 12541,
+            "friends_count": 1725,
+            "geo_enabled": true,
+            "id": 247486443,
+            "id_str": "247486443",
+            "listed_count": 425,
+            "location": "Washington, DC",
+            "name": "Natural Resources Committee",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/247486443/1522255238",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/979031010594705409/LiCzuBSA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/979031010594705409/LiCzuBSA_normal.jpg",
+            "profile_link_color": "196F0C",
+            "profile_sidebar_border_color": "E3831D",
+            "profile_sidebar_fill_color": "F0901B",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NRDems",
+            "statuses_count": 7389,
+            "url": "https://t.co/MpceIqSZJs",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NRDems: The Trump administration cries \u2018energy dominance\u2019 and issues permits regardless of the consequences.\n \n@RepRaulGrijalva &amp; @RepL\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 18:11:33 +0000 2013",
+        "default_profile": true,
+        "description": "Proudly serving California's 47th Congressional District. http://t.co/pHmhAyCM6J",
+        "favourites_count": 543,
+        "followers_count": 29839,
+        "friends_count": 3199,
+        "geo_enabled": true,
+        "id": 1055730738,
+        "id_str": "1055730738",
+        "listed_count": 887,
+        "location": "Long Beach, CA",
+        "name": "Rep. Alan Lowenthal",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055730738/1519659528",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/523118825928015873/_KcBsyJZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/523118825928015873/_KcBsyJZ_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLowenthal",
+        "statuses_count": 4880,
+        "url": "http://t.co/0MV3JJn9EM",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 247486443,
+            "id_str": "247486443",
+            "name": "Natural Resources Committee",
+            "screen_name": "NRDems"
+        },
+        {
+            "id": 28602948,
+            "id_str": "28602948",
+            "name": "Raul M. Grijalva",
+            "screen_name": "RepRaulGrijalva"
+        }
+    ]
+}

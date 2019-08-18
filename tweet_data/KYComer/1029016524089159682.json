@@ -1,0 +1,80 @@
+{
+    "created_at": "Mon Aug 13 14:47:12 +0000 2018",
+    "favorite_count": 36,
+    "hashtags": [],
+    "id": 1029016524089159682,
+    "id_str": "1029016524089159682",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/rnvPnLychS",
+            "expanded_url": "https://twitter.com/KYComer/status/1029016524089159682/photo/1",
+            "id": 1029016503243497472,
+            "media_url": "http://pbs.twimg.com/media/DkfNDsfX4AAa4-2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DkfNDsfX4AAa4-2.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1365,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 453,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 800,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/rnvPnLychS"
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Jack Wilford-an Eddyville  @universityofky student- finished up his 2nd summer internship in our Madisonville Office https://t.co/rnvPnLychS",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8370,
+        "followers_count": 12016,
+        "friends_count": 786,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 327,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5820,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 34323121,
+            "id_str": "34323121",
+            "name": "University of Kentucky",
+            "screen_name": "universityofky"
+        }
+    ]
+}

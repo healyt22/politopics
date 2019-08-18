@@ -1,0 +1,119 @@
+{
+    "created_at": "Fri May 24 11:47:55 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 1131889559548125184,
+    "id_str": "1131889559548125184",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu May 23 00:37:07 +0000 2019",
+        "favorite_count": 114,
+        "hashtags": [],
+        "id": 1131358361033818112,
+        "id_str": "1131358361033818112",
+        "in_reply_to_screen_name": "Sblahov",
+        "in_reply_to_status_id": 1131356368299073536,
+        "in_reply_to_user_id": 392826652,
+        "lang": "en",
+        "retweet_count": 52,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "So, this is my big ask of @ewarren, @staceyabrams, @SenDuckworth &amp; everybody else: please share this opportunity so\u2026 https://t.co/WGZGQ7SPRK",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131358361033818112",
+                "url": "https://t.co/WGZGQ7SPRK"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Oct 17 16:38:54 +0000 2011",
+            "description": "Chronically ill disability activist, schnauzer lover, knitter. Expertise on civic engagement & disability. Owns more heating pads than you. Opinions my own.",
+            "favourites_count": 9189,
+            "followers_count": 3649,
+            "friends_count": 913,
+            "id": 392826652,
+            "id_str": "392826652",
+            "listed_count": 71,
+            "location": "Alexandria, VA",
+            "name": "Sarah Blahovec",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/392826652/1563065568",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1129815954152673280/eKF5fIwW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129815954152673280/eKF5fIwW_normal.jpg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "Sblahov",
+            "statuses_count": 14359,
+            "url": "https://t.co/IQsq8hbQMD"
+        },
+        "user_mentions": [
+            {
+                "id": 357606935,
+                "id_str": "357606935",
+                "name": "Elizabeth Warren",
+                "screen_name": "ewarren"
+            },
+            {
+                "id": 216065430,
+                "id_str": "216065430",
+                "name": "Stacey Abrams",
+                "screen_name": "staceyabrams"
+            },
+            {
+                "id": 1058520120,
+                "id_str": "1058520120",
+                "name": "Tammy Duckworth",
+                "screen_name": "SenDuckworth"
+            }
+        ]
+    },
+    "quoted_status_id": 1131358361033818112,
+    "quoted_status_id_str": "1131358361033818112",
+    "retweet_count": 8,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Happy to RT this important message. @Sblahov https://t.co/xZa5u7r4th",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/Sblahov/status/1131358361033818112",
+            "url": "https://t.co/xZa5u7r4th"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 03 16:57:05 +0000 2018",
+        "default_profile": true,
+        "description": "Proud to represent Pennsylvania's 7th Congressional District",
+        "favourites_count": 444,
+        "followers_count": 5227,
+        "friends_count": 465,
+        "geo_enabled": true,
+        "id": 1069636653353000962,
+        "id_str": "1069636653353000962",
+        "listed_count": 194,
+        "location": "United States",
+        "name": "Rep. Susan Wild",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069636653353000962/1559144985",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1069999547026419713/gQssbReA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069999547026419713/gQssbReA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSusanWild",
+        "statuses_count": 796,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 392826652,
+            "id_str": "392826652",
+            "name": "Sarah Blahovec, Queen of Pettiness",
+            "screen_name": "Sblahov"
+        }
+    ]
+}

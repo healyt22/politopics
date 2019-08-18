@@ -1,0 +1,110 @@
+{
+    "created_at": "Tue Jul 02 15:21:12 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1146076362031161345,
+    "id_str": "1146076362031161345",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jun 29 13:33:28 +0000 2019",
+        "favorite_count": 55,
+        "hashtags": [],
+        "id": 1144962088529534976,
+        "id_str": "1144962088529534976",
+        "lang": "en",
+        "retweet_count": 16,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "For those who are forever young, we\u2019re taking you back to summer days spent at the fair. \ud83c\udfa1\ud83c\udfa0\ud83c\udf88Relish the games, rides\u2026 https://t.co/qMDByEaZoQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1144962088529534976",
+                "url": "https://t.co/qMDByEaZoQ"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Oct 07 12:11:00 +0000 2011",
+            "description": "The official Twitter account of the United States Postal Service, managed by the Social Media staff at USPS HQ. For customer service, please tweet @USPSHelp.",
+            "favourites_count": 1850,
+            "followers_count": 122160,
+            "friends_count": 855,
+            "geo_enabled": true,
+            "id": 386507775,
+            "id_str": "386507775",
+            "listed_count": 783,
+            "location": "Washington,  DC",
+            "name": "U.S. Postal Service",
+            "profile_background_color": "1D3D9E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/386507775/1553823070",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/864100712883597313/a1fN6W7g_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/864100712883597313/a1fN6W7g_normal.jpg",
+            "profile_link_color": "70838A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "USPS",
+            "statuses_count": 24967,
+            "url": "https://t.co/K8hnoZ7wtZ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1144962088529534976,
+    "quoted_status_id_str": "1144962088529534976",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "A new @USPS stamp showcasing county and state fairs will be unveiled at the @NDStateFair! https://t.co/R657OS8ohk https://t.co/n5ZgXyzogG",
+    "urls": [
+        {
+            "expanded_url": "https://www.inforum.com/news/2736506-National-unveiling-for-new-postage-stamps-planned-for-North-Dakota-State-Fair",
+            "url": "https://t.co/R657OS8ohk"
+        },
+        {
+            "expanded_url": "https://twitter.com/USPS/status/1144962088529534976",
+            "url": "https://t.co/n5ZgXyzogG"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 17:27:12 +0000 2019",
+        "default_profile": true,
+        "description": "I'm a lifelong, devoted North Dakotan and a tireless advocate for making North Dakota a better place to live and work.",
+        "favourites_count": 236,
+        "followers_count": 8783,
+        "friends_count": 227,
+        "geo_enabled": true,
+        "id": 1080515866255593472,
+        "id_str": "1080515866255593472",
+        "listed_count": 156,
+        "location": "Dickinson, ND and Washington, DC",
+        "name": "Congressman Kelly Armstrong",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080515866255593472/1563561647",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080879174972264449/PE5-7Tn1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080879174972264449/PE5-7Tn1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepArmstrongND",
+        "statuses_count": 503,
+        "url": "https://t.co/bFYBcIEV4G",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 386507775,
+            "id_str": "386507775",
+            "name": "U.S. Postal Service",
+            "screen_name": "USPS"
+        },
+        {
+            "id": 18888146,
+            "id_str": "18888146",
+            "name": "North Dakota State Fair",
+            "screen_name": "NDStateFair"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "created_at": "Fri Jul 26 19:23:22 +0000 2019",
+    "favorite_count": 18,
+    "hashtags": [],
+    "id": 1154834614495719424,
+    "id_str": "1154834614495719424",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/KVepCFsLnx",
+            "expanded_url": "https://twitter.com/RepMarkWalker/status/1154834614495719424/photo/1",
+            "id": 1154834606862012416,
+            "media_url": "http://pbs.twimg.com/media/EAbL9NRWkAAfQ8-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAbL9NRWkAAfQ8-.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1773,
+                    "h": 1831,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 658,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1162,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/KVepCFsLnx"
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Welcome back, Mark. \n\nWhy thank you, @DrinkCheerwine. https://t.co/KVepCFsLnx",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 07 16:20:28 +0000 2015",
+        "description": "US Congressman. @housegop Vice Chair. Ranking Member on Subcommittee for Intelligence and Counterterrorism. Former Pastor gratefully representing #NC06.",
+        "favourites_count": 4523,
+        "followers_count": 20053,
+        "friends_count": 1080,
+        "geo_enabled": true,
+        "id": 2966205003,
+        "id_str": "2966205003",
+        "listed_count": 637,
+        "name": "Rep. Mark Walker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966205003/1515012979",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_link_color": "0B2343",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMarkWalker",
+        "statuses_count": 4921,
+        "url": "https://t.co/uvTWAFvWvC",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 309769888,
+            "id_str": "309769888",
+            "name": "Cheerwine",
+            "screen_name": "DrinkCheerwine"
+        }
+    ]
+}

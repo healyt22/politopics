@@ -1,0 +1,130 @@
+{
+    "created_at": "Mon Mar 05 19:40:38 +0000 2018",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 970745925609115649,
+    "id_str": "970745925609115649",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Mar 05 19:02:19 +0000 2018",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "FAH2018"
+            }
+        ],
+        "id": 970736283030089728,
+        "id_str": "970736283030089728",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qOzjn8nSSa",
+                "expanded_url": "https://twitter.com/FedAmerHospital/status/970736283030089728/photo/1",
+                "id": 970735640504487936,
+                "media_url": "http://pbs.twimg.com/media/DXi-6_8U0AAbJhL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DXi-6_8U0AAbJhL.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1365,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qOzjn8nSSa"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you chairman @PeterRoskam for speaking today at our conference! #FAH2018 https://t.co/qOzjn8nSSa",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Jan 04 16:31:56 +0000 2013",
+            "description": "The Federation of American Hospitals (FAH) represents America's investor-owned community #hospitals and health systems. Social media policy is at the link below",
+            "favourites_count": 221,
+            "followers_count": 2155,
+            "friends_count": 1005,
+            "geo_enabled": true,
+            "id": 1060860422,
+            "id_str": "1060860422",
+            "listed_count": 69,
+            "location": "Washington, D.C.",
+            "name": "FAH",
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060860422/1558381467",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1130560015272730625/LZ_sSAOI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130560015272730625/LZ_sSAOI_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "FedAmerHospital",
+            "statuses_count": 3508,
+            "url": "https://t.co/THQ7kaDSQQ",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 20015903,
+                "id_str": "20015903",
+                "name": "Peter Roskam",
+                "screen_name": "PeterRoskam"
+            }
+        ]
+    },
+    "quoted_status_id": 970736283030089728,
+    "quoted_status_id_str": "970736283030089728",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I was honored to! https://t.co/vpn5oamgvE",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/FedAmerHospital/status/970736283030089728",
+            "url": "https://t.co/vpn5oamgvE"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Feb 04 00:11:56 +0000 2009",
+        "description": "Husband, father, and former U.S. Representative for the 6th District of Illinois.",
+        "favourites_count": 694,
+        "followers_count": 29134,
+        "friends_count": 4449,
+        "geo_enabled": true,
+        "id": 20015903,
+        "id_str": "20015903",
+        "listed_count": 1458,
+        "location": "Wheaton, IL",
+        "name": "Peter Roskam",
+        "profile_background_color": "083B9B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20015903/1491251027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819282338651766784/5VWiVBcS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819282338651766784/5VWiVBcS_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "F10E13",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "E40C19",
+        "profile_use_background_image": true,
+        "screen_name": "PeterRoskam",
+        "statuses_count": 7064,
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,139 @@
+{
+    "created_at": "Mon Jul 08 01:25:15 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1148040317066719233,
+    "id_str": "1148040317066719233",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/VQCOggzXqy",
+            "expanded_url": "https://twitter.com/BobbyScott/status/1148040317066719233/photo/1",
+            "id": 1148040303078707200,
+            "media_url": "http://pbs.twimg.com/media/D-6okrTWkAAv84i.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-6okrTWkAAv84i.jpg",
+            "sizes": {
+                "large": {
+                    "w": 1024,
+                    "h": 768,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1024,
+                    "h": 768,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/VQCOggzXqy"
+        },
+        {
+            "display_url": "pic.twitter.com/VQCOggzXqy",
+            "expanded_url": "https://twitter.com/BobbyScott/status/1148040317066719233/photo/1",
+            "id": 1148040303074598912,
+            "media_url": "http://pbs.twimg.com/media/D-6okrSX4AATywj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-6okrSX4AATywj.jpg",
+            "sizes": {
+                "large": {
+                    "w": 1024,
+                    "h": 768,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1024,
+                    "h": 768,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/VQCOggzXqy"
+        }
+    ],
+    "place": {
+        "id": "07d9dba9c8087000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9dba9c8087000.json",
+        "place_type": "poi",
+        "name": "Phillipine Cultural Center",
+        "full_name": "Phillipine Cultural Center",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -76.14746350605617,
+                        36.823815406899385
+                    ],
+                    [
+                        -76.14746350605617,
+                        36.823815406899385
+                    ],
+                    [
+                        -76.14746350605617,
+                        36.823815406899385
+                    ],
+                    [
+                        -76.14746350605617,
+                        36.823815406899385
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Participated in the Salute the Graduates Ceremony at the Philippine Cultural Center of Virginia today. https://t.co/VQCOggzXqy",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 01 19:57:00 +0000 2010",
+        "description": "Proudly representing Virginia's 3rd Congressional District. Chairman, Committee on Education and Labor @EdLaborCmte.",
+        "favourites_count": 1054,
+        "followers_count": 34491,
+        "friends_count": 2969,
+        "geo_enabled": true,
+        "id": 161791703,
+        "id_str": "161791703",
+        "listed_count": 1178,
+        "location": "Newport News, VA",
+        "name": "Rep. Bobby Scott",
+        "profile_background_color": "244055",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/161791703/1504616852",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741365169926905856/NjQFTLYl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741365169926905856/NjQFTLYl_normal.jpg",
+        "profile_link_color": "575757",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D3D3E0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "BobbyScott",
+        "statuses_count": 5864,
+        "url": "https://t.co/gWMFDglGRu",
+        "verified": true
+    },
+    "user_mentions": []
+}

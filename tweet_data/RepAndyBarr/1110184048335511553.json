@@ -1,0 +1,134 @@
+{
+    "created_at": "Mon Mar 25 14:17:58 +0000 2019",
+    "favorite_count": 30,
+    "hashtags": [],
+    "id": 1110184048335511553,
+    "id_str": "1110184048335511553",
+    "lang": "en",
+    "place": {
+        "id": "6ffcf3b0b904bbcb",
+        "url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json",
+        "place_type": "admin",
+        "name": "Kentucky",
+        "full_name": "Kentucky, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -89.57151,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        39.147359
+                    ],
+                    [
+                        -89.57151,
+                        39.147359
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Tue Mar 19 22:02:00 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [
+            {
+                "text": "prolife"
+            }
+        ],
+        "id": 1108126501277519873,
+        "id_str": "1108126501277519873",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "As a #prolife physician serving in Congress, it is a distinct privilege to lead 76 fellow Members of Congress to st\u2026 https://t.co/FsyAA6LwQt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1108126501277519873",
+                "url": "https://t.co/FsyAA6LwQt"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 06 15:25:19 +0000 2008",
+            "description": "Congressman for Texas' 26th District, M.D. (Ob/Gyn) in my former life",
+            "favourites_count": 117,
+            "followers_count": 28491,
+            "friends_count": 1970,
+            "geo_enabled": true,
+            "id": 15751083,
+            "id_str": "15751083",
+            "listed_count": 1502,
+            "location": "Washington, DC/Lake Dallas, TX",
+            "name": "Michael Burgess, MD",
+            "profile_background_color": "090A8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15751083/1483312385",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FF2941",
+            "profile_sidebar_fill_color": "E2E3E9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "michaelcburgess",
+            "statuses_count": 5754,
+            "url": "http://t.co/qj3aLBJUa9",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1108126501277519873,
+    "quoted_status_id_str": "1108126501277519873",
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I was honored to sign on to this amicus brief allowing states to redirect Medicaid funding away from Planned Parent\u2026 https://t.co/H9vVK5djiU",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1110184048335511553",
+            "url": "https://t.co/H9vVK5djiU"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 14 15:29:49 +0000 2013",
+        "description": "Honored to represent Kentucky's Sixth Congressional District.  Fighting to get Kentuckians back to work and restore fiscal responsibility to Washington",
+        "favourites_count": 270,
+        "followers_count": 21519,
+        "friends_count": 1175,
+        "geo_enabled": true,
+        "id": 1089334250,
+        "id_str": "1089334250",
+        "listed_count": 707,
+        "location": "Lexington, KY",
+        "name": "Rep. Andy Barr",
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089334250/1392572667",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648576649143943169/DGzR6q1Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648576649143943169/DGzR6q1Q_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyBarr",
+        "statuses_count": 3563,
+        "url": "http://t.co/XNnauaj5",
+        "verified": true
+    },
+    "user_mentions": []
+}

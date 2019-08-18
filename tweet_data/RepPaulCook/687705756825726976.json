@@ -1,0 +1,103 @@
+{
+    "created_at": "Thu Jan 14 18:40:04 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "CA08"
+        }
+    ],
+    "id": 687705756825726976,
+    "id_str": "687705756825726976",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jan 13 19:32:01 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 687356446200090624,
+        "id_str": "687356446200090624",
+        "lang": "en",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Yesterday, I introduced legislation to facilitate the transfer of Ontario International Airport https://t.co/7sBiCr6su8",
+        "urls": [
+            {
+                "expanded_url": "http://goo.gl/HgAVK8",
+                "url": "https://t.co/7sBiCr6su8"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 02 22:30:20 +0000 2009",
+            "description": "Official Twitter Account for U.S. Representative Ken Calvert (CA-42)",
+            "favourites_count": 56,
+            "followers_count": 20569,
+            "friends_count": 295,
+            "id": 22545491,
+            "id_str": "22545491",
+            "listed_count": 905,
+            "location": "Corona, CA ",
+            "name": "Ken Calvert",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22545491/1554155600",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/786694649301700609/TfucmvHE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/786694649301700609/TfucmvHE_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "KenCalvert",
+            "statuses_count": 5742,
+            "url": "https://t.co/XcjXyjinJw",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 687356446200090624,
+    "quoted_status_id_str": "687356446200090624",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Glad to be a cosponsor of this. Thanks for your work on this @KenCalvert #CA08 https://t.co/NGM7VuPHZo",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/KenCalvert/status/687356446200090624",
+            "url": "https://t.co/NGM7VuPHZo"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 09 17:43:44 +0000 2013",
+        "description": "Twenty-six year retired @USMC Colonel serving as a United States Congressman from California's 8th Congressional District. Join the conversation #CA08 #Semperfi",
+        "favourites_count": 95,
+        "followers_count": 17501,
+        "friends_count": 1139,
+        "geo_enabled": true,
+        "id": 1074412920,
+        "id_str": "1074412920",
+        "listed_count": 710,
+        "location": "Apple Valley, California",
+        "name": "Rep. Paul Cook",
+        "profile_background_color": "B1D2E3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074412920/1503515107",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/598193321467637761/pYlCDAPS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/598193321467637761/pYlCDAPS_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPaulCook",
+        "statuses_count": 1559,
+        "url": "http://t.co/vy6a8Rp8SU",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22545491,
+            "id_str": "22545491",
+            "name": "Ken Calvert",
+            "screen_name": "KenCalvert"
+        }
+    ]
+}

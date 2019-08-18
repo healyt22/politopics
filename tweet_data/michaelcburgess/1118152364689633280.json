@@ -1,0 +1,116 @@
+{
+    "created_at": "Tue Apr 16 14:01:12 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1118152364689633280,
+    "id_str": "1118152364689633280",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Apr 15 13:01:50 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1117775035492642817,
+        "id_str": "1117775035492642817",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "On https://t.co/STsWa6soCA: \"Reintroduction of TROL Act targets patent abusers\" via @michaelmrosen https://t.co/q5yKtkpiFs",
+        "urls": [
+            {
+                "expanded_url": "http://AEI.org",
+                "url": "https://t.co/STsWa6soCA"
+            },
+            {
+                "expanded_url": "http://ow.ly/HBF530ooXEI",
+                "url": "https://t.co/q5yKtkpiFs"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 16 12:40:31 +0000 2013",
+            "description": "Insight on technology policy from the American Enterprise Institute(@AEI). AEI does not hold any institutional positions.",
+            "favourites_count": 1978,
+            "followers_count": 2458,
+            "friends_count": 562,
+            "id": 1675670611,
+            "id_str": "1675670611",
+            "listed_count": 167,
+            "location": "Washington, D.C.",
+            "name": "AEI Tech Policy",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675670611/1470074362",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/760172993758785536/1HCRKnnR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/760172993758785536/1HCRKnnR_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AEItech",
+            "statuses_count": 7619,
+            "url": "https://t.co/aBv46ZMiK1"
+        },
+        "user_mentions": [
+            {
+                "id": 44300123,
+                "id_str": "44300123",
+                "name": "Michael Rosen",
+                "screen_name": "michaelmrosen"
+            }
+        ]
+    },
+    "quoted_status_id": 1117775035492642817,
+    "quoted_status_id_str": "1117775035492642817",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you to @AEI's @michaelmrosen for highlighting the TROL Act - commonsense legislation that would protect Ameri\u2026 https://t.co/I9TVtVECsy",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1118152364689633280",
+            "url": "https://t.co/I9TVtVECsy"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Aug 06 15:25:19 +0000 2008",
+        "description": "Congressman for Texas' 26th District, M.D. (Ob/Gyn) in my former life",
+        "favourites_count": 117,
+        "followers_count": 28442,
+        "friends_count": 1965,
+        "geo_enabled": true,
+        "id": 15751083,
+        "id_str": "15751083",
+        "listed_count": 1496,
+        "location": "Washington, DC/Lake Dallas, TX",
+        "name": "Michael Burgess, MD",
+        "profile_background_color": "090A8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15751083/1483312385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FF2941",
+        "profile_sidebar_fill_color": "E2E3E9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "michaelcburgess",
+        "statuses_count": 5726,
+        "url": "http://t.co/qj3aLBJUa9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 30864583,
+            "id_str": "30864583",
+            "name": "AEI",
+            "screen_name": "AEI"
+        },
+        {
+            "id": 44300123,
+            "id_str": "44300123",
+            "name": "Michael Rosen",
+            "screen_name": "michaelmrosen"
+        }
+    ]
+}

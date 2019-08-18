@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Mar 17 13:11:31 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [
+        {
+            "text": "twill"
+        }
+    ],
+    "id": 1107268224880644097,
+    "id_str": "1107268224880644097",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun Mar 17 02:16:49 +0000 2019",
+        "favorite_count": 568,
+        "hashtags": [],
+        "id": 1107103462989488129,
+        "id_str": "1107103462989488129",
+        "lang": "en",
+        "place": {
+            "id": "f54a2170ff4b15f7",
+            "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+            "place_type": "admin",
+            "name": "Illinois",
+            "full_name": "Illinois, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.51308,
+                            36.970298
+                        ],
+                        [
+                            -87.019935,
+                            36.970298
+                        ],
+                        [
+                            -87.019935,
+                            42.508303
+                        ],
+                        [
+                            -91.51308,
+                            42.508303
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 161,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "BACK TO BACK @IHSAState CHAMPIONS!!! @MaroonsHoops ARE UNBELIEVABLE. WE ARE #1 two straight years. Bringing the har\u2026 https://t.co/8EDe6B6u3t",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1107103462989488129",
+                "url": "https://t.co/8EDe6B6u3t"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 24 14:33:10 +0000 2013",
+            "description": "Belleville West High School Athletic Department Belleville, Illinois",
+            "favourites_count": 1126,
+            "followers_count": 2301,
+            "friends_count": 80,
+            "geo_enabled": true,
+            "id": 1454405581,
+            "id_str": "1454405581",
+            "listed_count": 22,
+            "location": "Belleville, IL",
+            "name": "BW Athletics",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454405581/1521457707",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000325617888/b67c6fd6bb20851df57a35d2f42e8895_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000325617888/b67c6fd6bb20851df57a35d2f42e8895_normal.jpeg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "BWestAthletics",
+            "statuses_count": 8447,
+            "url": "https://t.co/6I4Iwt3pTH"
+        },
+        "user_mentions": [
+            {
+                "id": 1112436504,
+                "id_str": "1112436504",
+                "name": "IHSA State",
+                "screen_name": "IHSAState"
+            },
+            {
+                "id": 384107106,
+                "id_str": "384107106",
+                "name": "BWest Hoops",
+                "screen_name": "MaroonsHoops"
+            }
+        ]
+    },
+    "quoted_status_id": 1107103462989488129,
+    "quoted_status_id_str": "1107103462989488129",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Congrats on ANOTHER state \ud83c\udfc6! #twill https://t.co/rFMLLGTsRQ",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/BWestAthletics/status/1107103462989488129",
+            "url": "https://t.co/rFMLLGTsRQ"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 06 19:55:08 +0000 2015",
+        "description": "Member of Congress proudly representing IL-12. Serving on @TransportGOP, @HouseAgGOP, and @HouseVetAffairs Committees. Find me on FB at https://t.co/cjWY9Itiyr",
+        "favourites_count": 341,
+        "followers_count": 11240,
+        "friends_count": 1886,
+        "geo_enabled": true,
+        "id": 2964877294,
+        "id_str": "2964877294",
+        "listed_count": 472,
+        "location": "IL-12 Congressional District",
+        "name": "Rep. Mike Bost",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964877294/1548969417",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553681697867575296/TbRJrmrc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553681697867575296/TbRJrmrc_normal.jpeg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepBost",
+        "statuses_count": 1938,
+        "url": "https://t.co/4tXoH7NdiQ",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,101 @@
+{
+    "created_at": "Fri Jul 26 16:09:59 +0000 2019",
+    "favorite_count": 50,
+    "hashtags": [],
+    "id": 1154785946077925376,
+    "id_str": "1154785946077925376",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jul 26 15:33:42 +0000 2019",
+        "favorite_count": 303,
+        "hashtags": [],
+        "id": 1154776816340672514,
+        "id_str": "1154776816340672514",
+        "lang": "en",
+        "retweet_count": 174,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Justice Department Settles with T-Mobile and Sprint in Their Proposed Merger by Requiring a Package of Divestitures\u2026 https://t.co/RA6HZEgnPZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154776816340672514",
+                "url": "https://t.co/RA6HZEgnPZ"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 10 18:16:25 +0000 2009",
+            "description": "Official DOJ Twitter account. Please refer to DOJ\u2019s privacy policy for DOJ use of third-party websites here: https://t.co/KTqaoCW2kY",
+            "followers_count": 1641432,
+            "friends_count": 177,
+            "id": 73181712,
+            "id_str": "73181712",
+            "listed_count": 9979,
+            "location": "United States of America",
+            "name": "Justice Department",
+            "profile_background_color": "FCF9F6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/73181712/1439581911",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/445550654/twitter_logo_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/445550654/twitter_logo_normal.png",
+            "profile_link_color": "765821",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EAE4CF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "TheJusticeDept",
+            "statuses_count": 9604,
+            "url": "http://t.co/A40ifbX0Cp",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1154776816340672514,
+    "quoted_status_id_str": "1154776816340672514",
+    "retweet_count": 22,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "The decision today from @TheJusticeDept is great news for Colorado, which could now be home to the nation\u2019s 4th maj\u2026 https://t.co/To7yadOeCy",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1154785946077925376",
+            "url": "https://t.co/To7yadOeCy"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 07 17:02:56 +0000 2011",
+        "description": "Proudly serving the state of Colorado in the United States Senate. This is my official Senate Twitter account.",
+        "favourites_count": 81,
+        "followers_count": 118181,
+        "friends_count": 273,
+        "geo_enabled": true,
+        "id": 235217558,
+        "id_str": "235217558",
+        "listed_count": 2098,
+        "location": "Colorado",
+        "name": "Cory Gardner",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/235217558/1456516556",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm_normal.jpeg",
+        "profile_link_color": "003CB3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCoryGardner",
+        "statuses_count": 4687,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 73181712,
+            "id_str": "73181712",
+            "name": "Justice Department",
+            "screen_name": "TheJusticeDept"
+        }
+    ]
+}

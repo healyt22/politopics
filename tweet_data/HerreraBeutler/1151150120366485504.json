@@ -1,0 +1,88 @@
+{
+    "created_at": "Tue Jul 16 15:22:30 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1151150120366485504,
+    "id_str": "1151150120366485504",
+    "in_reply_to_screen_name": "HerreraBeutler",
+    "in_reply_to_status_id": 1151124849219309569,
+    "in_reply_to_user_id": 242926427,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/uvfLUQkp4B",
+            "expanded_url": "https://twitter.com/HerreraBeutler/status/1151150120366485504/photo/1",
+            "id": 1151149961721077760,
+            "media_url": "http://pbs.twimg.com/media/D_m0yoeW4AAIpai.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_m0yoeW4AAIpai.jpg",
+            "sizes": {
+                "small": {
+                    "w": 449,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1105,
+                    "h": 1673,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 793,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/uvfLUQkp4B"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "The three astronauts, @TheRealBuzz, Neil Armstrong &amp; @AstroMCollins, who put the U.S. on the moon! \ud83c\udf11 https://t.co/uvfLUQkp4B",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 25 22:36:44 +0000 2011",
+        "description": "I'm proud to have grown up in SW WA, and honored to represent this wonderful region in the US Congress. Want regular email updates? http://t.co/sZutp93Fhg",
+        "favourites_count": 21,
+        "followers_count": 20588,
+        "friends_count": 932,
+        "geo_enabled": true,
+        "id": 242926427,
+        "id_str": "242926427",
+        "listed_count": 901,
+        "name": "JaimeHerreraBeutler",
+        "profile_background_color": "D6083C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242926427/1496761529",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/510487926900150272/UksS2ekj_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/510487926900150272/UksS2ekj_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "HerreraBeutler",
+        "statuses_count": 1249,
+        "url": "http://t.co/g23DlVNdtc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 46220856,
+            "id_str": "46220856",
+            "name": "Buzz Aldrin",
+            "screen_name": "TheRealBuzz"
+        },
+        {
+            "id": 1122878095663321088,
+            "id_str": "1122878095663321088",
+            "name": "Michael Collins",
+            "screen_name": "AstroMCollins"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "created_at": "Mon Sep 17 13:55:01 +0000 2018",
+    "favorite_count": 12,
+    "hashtags": [
+        {
+            "text": "Florence"
+        }
+    ],
+    "id": 1041686970211201024,
+    "id_str": "1041686970211201024",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/AllzQuGJVq",
+            "expanded_url": "https://twitter.com/RepHolding/status/1041686970211201024/video/1",
+            "id": 1041685764860456962,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1041685764860456962/img/FktFeysBP29GAenI.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1041685764860456962/img/FktFeysBP29GAenI.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/AllzQuGJVq",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 217818,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1041685764860456962/pl/hLW6x6dv68Lv_nOD.m3u8?tag=8"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1041685764860456962/vid/320x180/fdha3ytyYPrPa46b.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1041685764860456962/vid/640x360/lJBtvlEbCpgSz4Z8.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1041685764860456962/vid/1280x720/vnuJivhj4z0Xr1GF.mp4?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+    "text": "This weekend, I joined @CNN to give an update on Hurricane #Florence. Click below to watch. https://t.co/AllzQuGJVq",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 18:27:36 +0000 2013",
+        "description": "Raleigh native representing North Carolina's 2nd district in Congress.",
+        "favourites_count": 123,
+        "followers_count": 16676,
+        "friends_count": 545,
+        "id": 1058460818,
+        "id_str": "1058460818",
+        "listed_count": 653,
+        "name": "George Holding",
+        "profile_background_color": "09073D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058460818/1484585672",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1124400969083699200/6ncbK0p__normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124400969083699200/6ncbK0p__normal.png",
+        "profile_link_color": "0D0B57",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHolding",
+        "statuses_count": 894,
+        "url": "http://t.co/zH2CxxmUzu",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN"
+        }
+    ]
+}

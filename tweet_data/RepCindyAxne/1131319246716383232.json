@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed May 22 22:01:41 +0000 2019",
+    "hashtags": [],
+    "id": 1131319246716383232,
+    "id_str": "1131319246716383232",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Wed May 22 21:56:27 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [],
+        "id": 1131317929822347264,
+        "id_str": "1131317929822347264",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "This morning, @RepCindyAxne questioned @stevenmnuchin1 on how increased tariffs could impact Iowans. That and more\u2026 https://t.co/7gKrDo1zRG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131317929822347264",
+                "url": "https://t.co/7gKrDo1zRG"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 24 01:36:11 +0000 2008",
+            "description": "Iowa Public Radio enriches the civic and cultural life in Iowa through high quality news and cultural programming.",
+            "favourites_count": 1411,
+            "followers_count": 12746,
+            "friends_count": 526,
+            "geo_enabled": true,
+            "id": 18347570,
+            "id_str": "18347570",
+            "listed_count": 406,
+            "location": "Iowa, USA",
+            "name": "Iowa Public Radio",
+            "profile_background_color": "76B6BD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18347570/1564415542",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2052486585/I-Mark_IPRTeal_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2052486585/I-Mark_IPRTeal_normal.jpg",
+            "profile_link_color": "002B54",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "1A1A1A",
+            "profile_text_color": "606061",
+            "screen_name": "IowaPublicRadio",
+            "statuses_count": 7440,
+            "url": "https://t.co/RJzhyObW8v",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1080865917377097728,
+                "id_str": "1080865917377097728",
+                "name": "Rep. Cindy Axne",
+                "screen_name": "RepCindyAxne"
+            },
+            {
+                "id": 799764016885329921,
+                "id_str": "799764016885329921",
+                "name": "Steven Mnuchin",
+                "screen_name": "stevenmnuchin1"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @IowaPublicRadio: This morning, @RepCindyAxne questioned @stevenmnuchin1 on how increased tariffs could impact Iowans. That and more on\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 16:38:10 +0000 2019",
+        "description": "Proud to serve as the U.S. Representative from Iowa's Third Congressional District.",
+        "favourites_count": 71,
+        "followers_count": 8485,
+        "friends_count": 300,
+        "geo_enabled": true,
+        "id": 1080865917377097728,
+        "id_str": "1080865917377097728",
+        "listed_count": 207,
+        "location": "Des Moines, IA",
+        "name": "Rep. Cindy Axne",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080865917377097728/1546613243",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080868174097043456/QomNGZDc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080868174097043456/QomNGZDc_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepCindyAxne",
+        "statuses_count": 497,
+        "url": "https://t.co/8HYX7IyY9b",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18347570,
+            "id_str": "18347570",
+            "name": "Iowa Public Radio",
+            "screen_name": "IowaPublicRadio"
+        },
+        {
+            "id": 1080865917377097728,
+            "id_str": "1080865917377097728",
+            "name": "Rep. Cindy Axne",
+            "screen_name": "RepCindyAxne"
+        },
+        {
+            "id": 799764016885329921,
+            "id_str": "799764016885329921",
+            "name": "Steven Mnuchin",
+            "screen_name": "stevenmnuchin1"
+        }
+    ]
+}

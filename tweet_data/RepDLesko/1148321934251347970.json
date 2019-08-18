@@ -1,0 +1,104 @@
+{
+    "created_at": "Mon Jul 08 20:04:18 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [],
+    "id": 1148321934251347970,
+    "id_str": "1148321934251347970",
+    "in_reply_to_screen_name": "RepDLesko",
+    "in_reply_to_status_id": 1148321907923664896,
+    "in_reply_to_user_id": 996094929733652481,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/kNt76vs5Ms",
+            "expanded_url": "https://twitter.com/RepDLesko/status/1148321934251347970/video/1",
+            "id": 1148321912076066817,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1148321912076066817/pu/img/LgiinuJoNDT1oYLB.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1148321912076066817/pu/img/LgiinuJoNDT1oYLB.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 848,
+                    "h": 480,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 848,
+                    "h": 480,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 385,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/kNt76vs5Ms",
+            "video_info": {
+                "aspect_ratio": [
+                    53,
+                    30
+                ],
+                "duration_millis": 11559,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1148321912076066817/pu/pl/VcgXHld1EA2W0iee.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1148321912076066817/pu/vid/636x360/4UGF2KrM2fD_VgGz.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1148321912076066817/pu/vid/848x480/Ohph_Sh_VQXQRE9X.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1148321912076066817/pu/vid/476x270/HGmr9DrpA3le7WaB.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "And of course, no tour is complete without a visit to the gift shop! https://t.co/kNt76vs5Ms",
+    "urls": [],
+    "user": {
+        "created_at": "Mon May 14 18:28:32 +0000 2018",
+        "default_profile": true,
+        "description": "Proudly representing Arizona's 8th Congressional District in Congress. Member of @HomelandGOP, @JudiciaryGOP and  @RulesReps. #AZ08",
+        "favourites_count": 565,
+        "followers_count": 12683,
+        "friends_count": 818,
+        "geo_enabled": true,
+        "id": 996094929733652481,
+        "id_str": "996094929733652481",
+        "listed_count": 270,
+        "location": "Arizona, USA",
+        "name": "Congresswoman Debbie Lesko",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/996094929733652481/1526491101",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020421037685649408/o5l6JXcP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020421037685649408/o5l6JXcP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDLesko",
+        "statuses_count": 1227,
+        "url": "https://t.co/NCZAf6lLOd",
+        "verified": true
+    },
+    "user_mentions": []
+}

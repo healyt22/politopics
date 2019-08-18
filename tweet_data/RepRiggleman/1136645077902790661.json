@@ -1,0 +1,105 @@
+{
+    "created_at": "Thu Jun 06 14:44:39 +0000 2019",
+    "hashtags": [],
+    "id": 1136645077902790661,
+    "id_str": "1136645077902790661",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu Jun 06 14:19:51 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1136638837025837056,
+        "id_str": "1136638837025837056",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "THE FINAL SALUTE: Join us LIVE as we commemorate the 75th anniversary of D-Day at the\u00a0@DDayMemorial  in Bedford\u2026 https://t.co/P7r13CAbWp",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1136638837025837056",
+                "url": "https://t.co/P7r13CAbWp"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 17 12:47:17 +0000 2008",
+            "description": "Edward R. Murrow Award Winner. Your stop for all breaking news, weather & sports coming from the heart of Virginia. Story ideas? Email us: newsdesk@wset.com",
+            "favourites_count": 8093,
+            "followers_count": 46380,
+            "friends_count": 487,
+            "geo_enabled": true,
+            "id": 15145138,
+            "id_str": "15145138",
+            "listed_count": 585,
+            "location": "Lynchburg, VA",
+            "name": "ABC 13 News - WSET",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15145138/1553547966",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1141763627252420608/qbnImBBM_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141763627252420608/qbnImBBM_normal.png",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ABC13News",
+            "statuses_count": 142979,
+            "url": "https://t.co/qddQtiMSXa",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 376788500,
+                "id_str": "376788500",
+                "name": "Nat'l D-Day Memorial",
+                "screen_name": "DDayMemorial"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @ABC13News: THE FINAL SALUTE: Join us LIVE as we commemorate the 75th anniversary of D-Day at the\u00a0@DDayMemorial  in Bedford #DDay75thAnn\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 16:40:09 +0000 2019",
+        "default_profile": true,
+        "description": "Official Twitter for Congressman Denver Riggleman, proudly representing VA-05",
+        "favourites_count": 138,
+        "followers_count": 4123,
+        "friends_count": 98,
+        "id": 1080504024695222273,
+        "id_str": "1080504024695222273",
+        "listed_count": 131,
+        "location": "Nelson County, VA",
+        "name": "Congressman Denver Riggleman",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080504024695222273/1546470119",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080504233311551490/MieXr9k1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080504233311551490/MieXr9k1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRiggleman",
+        "statuses_count": 746,
+        "url": "https://t.co/FzMaNM6XGR",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15145138,
+            "id_str": "15145138",
+            "name": "ABC 13 News - WSET",
+            "screen_name": "ABC13News"
+        },
+        {
+            "id": 376788500,
+            "id_str": "376788500",
+            "name": "Nat'l D-Day Memorial",
+            "screen_name": "DDayMemorial"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "created_at": "Wed Jul 17 16:06:41 +0000 2019",
+    "favorite_count": 173,
+    "hashtags": [],
+    "id": 1151523628435083264,
+    "id_str": "1151523628435083264",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/wRXMUUzd5r",
+            "expanded_url": "https://twitter.com/SenJackyRosen/status/1151523628435083264/video/1",
+            "id": 1151522915709530113,
+            "media_url": "http://pbs.twimg.com/media/D_sIkXrW4AATADK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_sIkXrW4AATADK.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/wRXMUUzd5r",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 33250,
+                "variants": [
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1151522915709530113/vid/480x270/e_1FWcTYtz31qsJ4.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1151522915709530113/vid/1280x720/lN2FPh90dB8w1hxJ.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1151522915709530113/pl/YWNRxhOgMKrEe8V7.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1151522915709530113/vid/640x360/iJQmf-GeyxkWZeJc.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 54,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "The migrants at the border aren\u2019t \u2018these people.\u2019 They\u2019re families and children in desperate need of help. https://t.co/wRXMUUzd5r",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 09 20:24:29 +0000 2017",
+        "default_profile": true,
+        "description": "U.S. Senator for Nevada.",
+        "favourites_count": 145,
+        "followers_count": 20672,
+        "friends_count": 225,
+        "id": 818554054309715969,
+        "id_str": "818554054309715969",
+        "listed_count": 510,
+        "location": "Las Vegas, NV",
+        "name": "Senator Jacky Rosen",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818554054309715969/1546525180",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJackyRosen",
+        "statuses_count": 4028,
+        "url": "https://t.co/BHuJG9D5U9",
+        "verified": true
+    },
+    "user_mentions": []
+}

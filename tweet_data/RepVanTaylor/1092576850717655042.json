@@ -1,0 +1,128 @@
+{
+    "created_at": "Tue Feb 05 00:13:14 +0000 2019",
+    "hashtags": [],
+    "id": 1092576850717655042,
+    "id_str": "1092576850717655042",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Feb 04 18:52:37 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1092496163033542657,
+        "id_str": "1092496163033542657",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Great luncheon bringing our freshmen Congressmen together. Thank you @ColinAllredTX @RepVanTaylor and @RepRonWright\u2026 https://t.co/ONrbWPIKH8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1092496163033542657",
+                "url": "https://t.co/ONrbWPIKH8"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 20 18:52:18 +0000 2009",
+            "description": "The North Texas Commission brings together businesses, government entities and higher education institutions to enhance the economic vitality of North Texas",
+            "favourites_count": 1208,
+            "followers_count": 1722,
+            "friends_count": 1008,
+            "geo_enabled": true,
+            "id": 21421838,
+            "id_str": "21421838",
+            "listed_count": 47,
+            "location": "North Texas",
+            "name": "NorthTexasCommission",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21421838/1554923077",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1116060393011646465/polouZIA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116060393011646465/polouZIA_normal.jpg",
+            "profile_link_color": "AD0001",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CCCCF0",
+            "profile_text_color": "000000",
+            "screen_name": "NTxCommission",
+            "statuses_count": 2299,
+            "url": "https://t.co/AtQztac1oT"
+        },
+        "user_mentions": [
+            {
+                "id": 346964561,
+                "id_str": "346964561",
+                "name": "Colin Allred",
+                "screen_name": "ColinAllredTX"
+            },
+            {
+                "id": 1075040139351597056,
+                "id_str": "1075040139351597056",
+                "name": "Rep Van Taylor",
+                "screen_name": "RepVanTaylor"
+            },
+            {
+                "id": 1080854935535800320,
+                "id_str": "1080854935535800320",
+                "name": "Ron Wright",
+                "screen_name": "RepRonWright"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NTxCommission: Great luncheon bringing our freshmen Congressmen together. Thank you @ColinAllredTX @RepVanTaylor and @RepRonWright for\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 18 14:48:37 +0000 2018",
+        "description": "Proudly Serving the Third Congressional District of Texas.",
+        "favourites_count": 166,
+        "followers_count": 1769,
+        "friends_count": 137,
+        "geo_enabled": true,
+        "id": 1075040139351597056,
+        "id_str": "1075040139351597056",
+        "listed_count": 98,
+        "location": "Plano, Texas",
+        "name": "Rep Van Taylor",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075040139351597056/1548371843",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088576583684812800/nPn9LNpI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088576583684812800/nPn9LNpI_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepVanTaylor",
+        "statuses_count": 206,
+        "url": "https://t.co/aqeSw1xyWt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21421838,
+            "id_str": "21421838",
+            "name": "NorthTexasCommission",
+            "screen_name": "NTxCommission"
+        },
+        {
+            "id": 346964561,
+            "id_str": "346964561",
+            "name": "Colin Allred",
+            "screen_name": "ColinAllredTX"
+        },
+        {
+            "id": 1075040139351597056,
+            "id_str": "1075040139351597056",
+            "name": "Rep Van Taylor",
+            "screen_name": "RepVanTaylor"
+        },
+        {
+            "id": 1080854935535800320,
+            "id_str": "1080854935535800320",
+            "name": "Ron Wright",
+            "screen_name": "RepRonWright"
+        }
+    ]
+}

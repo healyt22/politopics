@@ -1,0 +1,106 @@
+{
+    "created_at": "Thu Jun 27 22:00:06 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [
+        {
+            "text": "FY20NDAA"
+        }
+    ],
+    "id": 1144364808806027264,
+    "id_str": "1144364808806027264",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/fBJs0keK3r",
+            "expanded_url": "https://twitter.com/SenJohnHoeven/status/1144364808806027264/video/1",
+            "id": 1144323711157329928,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1144323711157329928/img/leazwtl7pJX35Itw.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1144323711157329928/img/leazwtl7pJX35Itw.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/fBJs0keK3r",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 445145,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1144323711157329928/vid/640x360/CVtYly4pLtw_9m9u.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1144323711157329928/vid/480x270/UsBx3KFK4X5p-FAv.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1144323711157329928/vid/1280x720/Uf2XhGuMpgIWzPNF.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1144323711157329928/pl/I2O8U2Bde7mpAD2n.m3u8?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Spoke on the floor today about important provisions I included in #FY20NDAA, which was passed by the Senate today. https://t.co/fBJs0keK3r",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 30 17:55:30 +0000 2011",
+        "description": "Official account of U.S. Senator John Hoeven of North Dakota. Chairman of #Agriculture Appropriations & @IndianCommittee.",
+        "favourites_count": 688,
+        "followers_count": 92982,
+        "friends_count": 702,
+        "geo_enabled": true,
+        "id": 382791093,
+        "id_str": "382791093",
+        "listed_count": 1615,
+        "location": "North Dakota",
+        "name": "Senator John Hoeven",
+        "profile_background_color": "9E976D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/382791093/1553287177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085227990005493764/olR6Sayb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085227990005493764/olR6Sayb_normal.jpg",
+        "profile_link_color": "A1392B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJohnHoeven",
+        "statuses_count": 3517,
+        "url": "https://t.co/S1wB3GGEfX",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,102 @@
+{
+    "created_at": "Tue May 07 15:01:32 +0000 2019",
+    "favorite_count": 32,
+    "hashtags": [],
+    "id": 1125777694266929154,
+    "id_str": "1125777694266929154",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 07 14:16:00 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1125766234769907712,
+        "id_str": "1125766234769907712",
+        "lang": "en",
+        "retweet_count": 21,
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "text": "Fentanyl is now the leading cause of fatal drug overdoses.\n\nIn 2017 alone, 49,000 Americans lost their lives to fen\u2026 https://t.co/kryIJRbTP3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1125766234769907712",
+                "url": "https://t.co/kryIJRbTP3"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 25 15:01:18 +0000 2014",
+            "description": "We believe high-quality, credible news reporting on political and policy issues is of paramount importance to an informed and free society.",
+            "favourites_count": 1207,
+            "followers_count": 65359,
+            "friends_count": 5409,
+            "id": 2361224263,
+            "id_str": "2361224263",
+            "listed_count": 1296,
+            "location": "Washington, DC",
+            "name": "The Daily Signal",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2361224263/1401793567",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/463674157725532160/exx8EGeZ_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/463674157725532160/exx8EGeZ_normal.jpeg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DailySignal",
+            "statuses_count": 40499,
+            "url": "http://t.co/X1QEhYV0Fy",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1125766234769907712,
+    "quoted_status_id_str": "1125766234769907712",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Actively working with @SenDougJones on a bipartisan bill to crack down on any country, like China, that allows the\u2026 https://t.co/NOrft653K9",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1125777694266929154",
+            "url": "https://t.co/NOrft653K9"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Nov 29 22:32:09 +0000 2010",
+        "description": "Official Twitter account for Pat Toomey. Husband. Father. U.S. Senator for Pennsylvania.",
+        "favourites_count": 234,
+        "followers_count": 129326,
+        "friends_count": 1051,
+        "geo_enabled": true,
+        "id": 221162525,
+        "id_str": "221162525",
+        "listed_count": 2783,
+        "name": "Senator Pat Toomey",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/221162525/1434047453",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574930402214727683/gDu5VqMP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/574930402214727683/gDu5VqMP_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "999999",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenToomey",
+        "statuses_count": 4814,
+        "url": "http://t.co/7dKjJ0xolY",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 941080085121175552,
+            "id_str": "941080085121175552",
+            "name": "Doug Jones",
+            "screen_name": "SenDougJones"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "created_at": "Thu Jul 18 19:28:40 +0000 2019",
+    "favorite_count": 38,
+    "hashtags": [],
+    "id": 1151936843186868225,
+    "id_str": "1151936843186868225",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/1qw4YDpF1l",
+            "expanded_url": "https://twitter.com/RepJahanaHayes/status/1151936843186868225/video/1",
+            "id": 1151936752237592577,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1151936752237592577/pu/img/3SNWG50HQcNY5ri6.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1151936752237592577/pu/img/3SNWG50HQcNY5ri6.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/1qw4YDpF1l",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 5700,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1151936752237592577/pu/vid/360x640/eC3c6ylOc6QC_s3v.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1151936752237592577/pu/vid/720x1280/LsyGLZqF1uYuWlW8.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1151936752237592577/pu/vid/320x568/k_YLURP3p91i5reB.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1151936752237592577/pu/pl/AdVr6JP0SyQrlhVA.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "place": {
+        "id": "f9a4ed4d94a9b93f",
+        "url": "https://api.twitter.com/1.1/geo/id/f9a4ed4d94a9b93f.json",
+        "place_type": "city",
+        "name": "Waterbury",
+        "full_name": "Waterbury, CT",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -73.093845,
+                        41.513971
+                    ],
+                    [
+                        -72.9503712,
+                        41.513971
+                    ],
+                    [
+                        -72.9503712,
+                        41.619186
+                    ],
+                    [
+                        -73.093845,
+                        41.619186
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "District Staff Assistant Chelsea inspecting our mail for harmful chemicals.  \n \nDon\u2019t try any funny business! https://t.co/1qw4YDpF1l",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 07 01:26:40 +0000 2019",
+        "description": "Mom, Educator, Congresswoman for CT-05 #hayesinthehouse",
+        "favourites_count": 316,
+        "followers_count": 25605,
+        "friends_count": 82,
+        "geo_enabled": true,
+        "id": 1082086081238102018,
+        "id_str": "1082086081238102018",
+        "listed_count": 238,
+        "location": "Waterbury, CT",
+        "name": "Jahana Hayes",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086081238102018/1547671578",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082087383766654976/qIee7Jsn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082087383766654976/qIee7Jsn_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepJahanaHayes",
+        "statuses_count": 878,
+        "url": "https://t.co/xvv9DfqY8M",
+        "verified": true
+    },
+    "user_mentions": []
+}

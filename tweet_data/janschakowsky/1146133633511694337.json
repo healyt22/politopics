@@ -1,0 +1,88 @@
+{
+    "created_at": "Tue Jul 02 19:08:47 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 1146133633511694337,
+    "id_str": "1146133633511694337",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/PPRI9R4Y0n",
+            "expanded_url": "https://twitter.com/janschakowsky/status/1146133633511694337/photo/1",
+            "id": 1146133607800627202,
+            "media_url": "http://pbs.twimg.com/media/D-ficZ4X4AI0zZP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-ficZ4X4AI0zZP.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 1152,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/PPRI9R4Y0n"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Tune into @WCPT820 - I\u2019m on live with @JoanEspositoCHI https://t.co/PPRI9R4Y0n",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Mar 13 16:03:17 +0000 2009",
+        "default_profile": true,
+        "description": "Official Twitter account for Rep. Jan Schakowsky, Illinois 9th Congressional District",
+        "favourites_count": 953,
+        "followers_count": 44005,
+        "friends_count": 1375,
+        "geo_enabled": true,
+        "id": 24195214,
+        "id_str": "24195214",
+        "listed_count": 1728,
+        "location": "Chicago, IL",
+        "name": "Jan Schakowsky",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24195214/1546478385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978337720757096448/2aKjNkwQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978337720757096448/2aKjNkwQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "janschakowsky",
+        "statuses_count": 7783,
+        "url": "https://t.co/qdNbWpywjL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19793134,
+            "id_str": "19793134",
+            "name": "WCPT 820",
+            "screen_name": "WCPT820"
+        },
+        {
+            "id": 183332996,
+            "id_str": "183332996",
+            "name": "joan esposito",
+            "screen_name": "JoanEspositoCHI"
+        }
+    ]
+}

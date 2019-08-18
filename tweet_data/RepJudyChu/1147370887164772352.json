@@ -1,0 +1,149 @@
+{
+    "created_at": "Sat Jul 06 05:05:11 +0000 2019",
+    "favorite_count": 221,
+    "hashtags": [
+        {
+            "text": "Pasadena"
+        },
+        {
+            "text": "earthquake"
+        }
+    ],
+    "id": 1147370887164772352,
+    "id_str": "1147370887164772352",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jul 06 04:10:53 +0000 2019",
+        "favorite_count": 763,
+        "hashtags": [],
+        "id": 1147357223170871296,
+        "id_str": "1147357223170871296",
+        "lang": "en",
+        "place": {
+            "id": "10de09f288b1665c",
+            "url": "https://api.twitter.com/1.1/geo/id/10de09f288b1665c.json",
+            "place_type": "city",
+            "name": "Pasadena",
+            "full_name": "Pasadena, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -118.198346,
+                            34.117025
+                        ],
+                        [
+                            -118.065582,
+                            34.117025
+                        ],
+                        [
+                            -118.065582,
+                            34.237595
+                        ],
+                        [
+                            -118.198346,
+                            34.237595
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 264,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "A 7.1 magnitude quake occurred at approximately 8:19 pm in the Ridgecrest area of Southern California. The quake wa\u2026 https://t.co/lyhn4YZOlb",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1147357223170871296",
+                "url": "https://t.co/lyhn4YZOlb"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 30 23:23:22 +0000 2008",
+            "description": "At the California Institute of Technology, extraordinary faculty and students translate big ideas into big discoveries.",
+            "favourites_count": 5249,
+            "followers_count": 74999,
+            "friends_count": 533,
+            "geo_enabled": true,
+            "id": 16536844,
+            "id_str": "16536844",
+            "listed_count": 1453,
+            "location": "Pasadena, CA",
+            "name": "Caltech",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16536844/1560877518",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/840360735813197825/RGKA-xsb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/840360735813197825/RGKA-xsb_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Caltech",
+            "statuses_count": 6937,
+            "url": "http://t.co/SBYRW9Me5P",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1147357223170871296,
+    "quoted_status_id_str": "1147357223170871296",
+    "retweet_count": 61,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thank you @Caltech @DrLucyJones and team in #Pasadena for keeping us informed about tonight\u2019s #earthquake. Please s\u2026 https://t.co/wwTOhgHtLB",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1147370887164772352",
+            "url": "https://t.co/wwTOhgHtLB"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 22 15:18:17 +0000 2010",
+        "description": "Proudly representing California's 27th District in the U.S. House of Representatives. Ways and Means. Small Business. Chair of @CAPAC.",
+        "favourites_count": 437,
+        "followers_count": 71162,
+        "friends_count": 45397,
+        "id": 193732179,
+        "id_str": "193732179",
+        "listed_count": 1643,
+        "location": "Pasadena, CA",
+        "name": "Judy Chu",
+        "profile_background_color": "DBF7FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193732179/1363272599",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000660180425/626ed3754e3c64e47ce8a9d1cdf66ef7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000660180425/626ed3754e3c64e47ce8a9d1cdf66ef7_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJudyChu",
+        "statuses_count": 5322,
+        "url": "http://t.co/ifzdjzHS3k",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16536844,
+            "id_str": "16536844",
+            "name": "Caltech",
+            "screen_name": "Caltech"
+        },
+        {
+            "id": 2417085025,
+            "id_str": "2417085025",
+            "name": "Dr. Lucy Jones",
+            "screen_name": "DrLucyJones"
+        }
+    ]
+}

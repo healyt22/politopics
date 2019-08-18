@@ -1,0 +1,128 @@
+{
+    "created_at": "Fri Jun 21 15:52:09 +0000 2019",
+    "hashtags": [],
+    "id": 1142097882704678913,
+    "id_str": "1142097882704678913",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Jun 21 14:13:28 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1142073050298540033,
+        "id_str": "1142073050298540033",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Rep. Emanuel Cleaver (MO-5) welcomes Serbian Members of Parliament to his office yesterday. Mr. Cleaver is the co-c\u2026 https://t.co/XmbNdc5mNQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1142073050298540033",
+                "url": "https://t.co/XmbNdc5mNQ"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Apr 03 16:21:22 +0000 2009",
+            "description": "A small legislative agency making a BIG impact on U.S., Russian & Eurasian relations. We link leaders with each other & Congress. Let\u2019s talk!",
+            "favourites_count": 517,
+            "followers_count": 1760,
+            "friends_count": 517,
+            "geo_enabled": true,
+            "id": 28595880,
+            "id_str": "28595880",
+            "listed_count": 57,
+            "location": "Washington, DC",
+            "name": "Open World program",
+            "profile_background_color": "CCCCCC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28595880/1541782155",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/594186879437774848/c5PqJ0QD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/594186879437774848/c5PqJ0QD_normal.jpg",
+            "profile_link_color": "705E27",
+            "profile_sidebar_border_color": "CCCCCC",
+            "profile_sidebar_fill_color": "FCFCFC",
+            "profile_text_color": "505082",
+            "profile_use_background_image": true,
+            "screen_name": "OWprogram",
+            "statuses_count": 3427,
+            "url": "http://t.co/bzrRx4CJFm",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @OWprogram: Rep. Emanuel Cleaver (MO-5) welcomes Serbian Members of Parliament to his office yesterday. Mr. Cleaver is the co-chair of t\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 06 19:14:47 +0000 2010",
+        "description": "This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri's Fifth District.",
+        "favourites_count": 496,
+        "followers_count": 43007,
+        "friends_count": 1022,
+        "geo_enabled": true,
+        "id": 163570705,
+        "id_str": "163570705",
+        "listed_count": 1157,
+        "name": "Rep. Emanuel Cleaver",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163570705/1553799524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repcleaver",
+        "statuses_count": 6676,
+        "url": "https://t.co/dOfaqxI1gQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 28595880,
+            "id_str": "28595880",
+            "name": "Open World program",
+            "screen_name": "OWprogram"
+        }
+    ]
+}

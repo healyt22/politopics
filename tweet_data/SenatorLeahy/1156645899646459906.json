@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 31 19:20:46 +0000 2019",
+    "hashtags": [],
+    "id": 1156645899646459906,
+    "id_str": "1156645899646459906",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Jul 31 18:44:35 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1156636794949177346,
+        "id_str": "1156636794949177346",
+        "in_reply_to_screen_name": "SenatorLeahy",
+        "in_reply_to_user_id": 242836537,
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "@SenatorLeahy answered OnCuba\u2019s questions about some issues concerning the bill for the Freedom for Americans to Tr\u2026 https://t.co/GlQV2ZyeqZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156636794949177346",
+                "url": "https://t.co/GlQV2ZyeqZ"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 25 12:47:07 +0000 2014",
+            "description": "OnCuba is a northamerican communication platform, founded in 2012 by Hugo Cancio. The platform is part of the media division of Fuego Enterprises, Inc. (FUGI).",
+            "favourites_count": 303,
+            "followers_count": 3079,
+            "friends_count": 75,
+            "geo_enabled": true,
+            "id": 2410967539,
+            "id_str": "2410967539",
+            "listed_count": 81,
+            "location": "EE.UU. - Cuba",
+            "name": "OnCubaNews",
+            "profile_background_color": "000305",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2410967539/1539137442",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1049843953439318016/ct3-h_05_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049843953439318016/ct3-h_05_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "OnCubaNews",
+            "statuses_count": 5160,
+            "url": "https://t.co/2xaQdkZTZp"
+        },
+        "user_mentions": [
+            {
+                "id": 242836537,
+                "id_str": "242836537",
+                "name": "Sen. Patrick Leahy",
+                "screen_name": "SenatorLeahy"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @OnCubaNews: @SenatorLeahy answered OnCuba\u2019s questions about some issues concerning the bill for the Freedom for Americans to Travel to\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 25 18:20:07 +0000 2011",
+        "favourites_count": 121,
+        "followers_count": 189366,
+        "friends_count": 2595,
+        "id": 242836537,
+        "id_str": "242836537",
+        "listed_count": 3032,
+        "location": "Washington, DC",
+        "name": "Sen. Patrick Leahy",
+        "profile_background_color": "4D7830",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242836537/1358287469",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/921434597900128256/rcREOAwv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/921434597900128256/rcREOAwv_normal.jpg",
+        "profile_link_color": "9E410B",
+        "profile_sidebar_border_color": "9E410B",
+        "profile_sidebar_fill_color": "F7F8E9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorLeahy",
+        "statuses_count": 15387,
+        "url": "http://t.co/yrKgLVIocD",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2410967539,
+            "id_str": "2410967539",
+            "name": "OnCubaNews",
+            "screen_name": "OnCubaNews"
+        },
+        {
+            "id": 242836537,
+            "id_str": "242836537",
+            "name": "Sen. Patrick Leahy",
+            "screen_name": "SenatorLeahy"
+        }
+    ]
+}

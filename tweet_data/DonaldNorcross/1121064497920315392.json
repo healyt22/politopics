@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Apr 24 14:52:59 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 1121064497920315392,
+    "id_str": "1121064497920315392",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Apr 24 14:36:35 +0000 2019",
+        "hashtags": [],
+        "id": 1121060372084142080,
+        "id_str": "1121060372084142080",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/nDaHJ3lR1p",
+                "expanded_url": "https://twitter.com/davidlevinsky/status/1121060372084142080/photo/1",
+                "id": 1121060324046725122,
+                "media_url": "http://pbs.twimg.com/media/D47ObNKW4AIAJ3j.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D47ObNKW4AIAJ3j.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/nDaHJ3lR1p"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ". @DonaldNorcross holding round table discussion in Pennsauken on issues surrounding prescription drug prices https://t.co/nDaHJ3lR1p",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Nov 15 14:44:21 +0000 2010",
+            "default_profile": true,
+            "description": "General Assignment reporter for the Burlington County Times newspaper dlevinsky@thebct.com",
+            "favourites_count": 740,
+            "followers_count": 1827,
+            "friends_count": 975,
+            "geo_enabled": true,
+            "id": 216001749,
+            "id_str": "216001749",
+            "listed_count": 69,
+            "location": "Burlington County, NJ",
+            "name": "David Levinsky",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1561126411/levinsky2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1561126411/levinsky2_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "davidlevinsky",
+            "statuses_count": 9487,
+            "url": "https://t.co/1kdLr7dsJe"
+        },
+        "user_mentions": [
+            {
+                "id": 3122099613,
+                "id_str": "3122099613",
+                "name": "Donald Norcross",
+                "screen_name": "DonaldNorcross"
+            }
+        ]
+    },
+    "quoted_status_id": 1121060372084142080,
+    "quoted_status_id_str": "1121060372084142080",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "You can still join us live on Facebook: https://t.co/DCKezV1eIX \n\nPlease feel free to share your prescription drug\u2026 https://t.co/JrdAYa2M94",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2XMvyMj",
+            "url": "https://t.co/DCKezV1eIX"
+        },
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1121064497920315392",
+            "url": "https://t.co/JrdAYa2M94"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Mar 27 20:08:34 +0000 2015",
+        "description": "Congressman, NJ-01 \u2022 Electrician \u2022 Born & Raised in South Jersey \u2022 Husband, Dad, Granddad \u2022 @EdLaborCmte Member \u2022 @HASCDemocrats TAL Chair",
+        "favourites_count": 2710,
+        "followers_count": 9525,
+        "friends_count": 1235,
+        "geo_enabled": true,
+        "id": 3122099613,
+        "id_str": "3122099613",
+        "listed_count": 491,
+        "name": "Donald Norcross",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3122099613/1522337915",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1050098504515899392/h6RzXCGt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050098504515899392/h6RzXCGt_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "DonaldNorcross",
+        "statuses_count": 7501,
+        "url": "https://t.co/yD13GE8LK4",
+        "verified": true
+    },
+    "user_mentions": []
+}

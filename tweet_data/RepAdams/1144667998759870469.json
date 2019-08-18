@@ -1,0 +1,151 @@
+{
+    "created_at": "Fri Jun 28 18:04:52 +0000 2019",
+    "hashtags": [],
+    "id": 1144667998759870469,
+    "id_str": "1144667998759870469",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Jun 28 18:03:41 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1144667699051712512,
+        "id_str": "1144667699051712512",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Finishing Friday with a New Member Training panel, moderated by @RhonnieF of @RepAdams office and Scott Rausch of\u2026 https://t.co/OAxejtjzvL",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1144667699051712512",
+                "url": "https://t.co/OAxejtjzvL"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 24 19:11:17 +0000 2009",
+            "description": "The Congressional Management Foundation is a nonpartisan nonprofit dedicated to building trust and effectiveness in Congress.",
+            "favourites_count": 571,
+            "followers_count": 2113,
+            "friends_count": 1354,
+            "geo_enabled": true,
+            "id": 77017567,
+            "id_str": "77017567",
+            "listed_count": 92,
+            "location": "Washington, DC",
+            "name": "CMF",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/77017567/1531257537",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/434112666/Twitter-CMF-Full-Logo-color_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/434112666/Twitter-CMF-Full-Logo-color_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "congressfdn",
+            "statuses_count": 1732,
+            "url": "https://t.co/i3tuEq9ue1"
+        },
+        "user_mentions": [
+            {
+                "id": 1567028114,
+                "id_str": "1567028114",
+                "name": "Rhonda Foxx",
+                "screen_name": "RhonnieF"
+            },
+            {
+                "id": 2916086925,
+                "id_str": "2916086925",
+                "name": "Alma S. Adams",
+                "screen_name": "RepAdams"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @congressfdn: Finishing Friday with a New Member Training panel, moderated by @RhonnieF of @RepAdams office and Scott Rausch of @RepAlex\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 11 19:54:07 +0000 2014",
+        "description": "Congresswoman from NC-12. Educator. Artist. Founder & Co-Chair of the Bipartisan HBCU Caucus.",
+        "favourites_count": 1542,
+        "followers_count": 15050,
+        "friends_count": 1484,
+        "geo_enabled": true,
+        "id": 2916086925,
+        "id_str": "2916086925",
+        "listed_count": 650,
+        "name": "Alma S. Adams",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2916086925/1560437252",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1058437112192819202/9ARlrosL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058437112192819202/9ARlrosL_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepAdams",
+        "statuses_count": 6961,
+        "url": "https://t.co/wPfZolUQ4r",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 77017567,
+            "id_str": "77017567",
+            "name": "CMF",
+            "screen_name": "congressfdn"
+        },
+        {
+            "id": 1567028114,
+            "id_str": "1567028114",
+            "name": "Rhonda Foxx",
+            "screen_name": "RhonnieF"
+        },
+        {
+            "id": 2916086925,
+            "id_str": "2916086925",
+            "name": "Alma S. Adams",
+            "screen_name": "RepAdams"
+        }
+    ]
+}

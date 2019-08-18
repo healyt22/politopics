@@ -1,0 +1,129 @@
+{
+    "created_at": "Tue Jun 25 15:18:48 +0000 2019",
+    "hashtags": [],
+    "id": 1143539044304990208,
+    "id_str": "1143539044304990208",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Jun 25 15:18:10 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1143538883965177856,
+        "id_str": "1143538883965177856",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "We are going to rally at noon at the Capitol with @AFLCIO, @RichardTrumka, @rosadelauro and others to say no new\u2026 https://t.co/udxUy3hjOM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143538883965177856",
+                "url": "https://t.co/udxUy3hjOM"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 16 20:28:33 +0000 2009",
+            "description": "The International Association of Machinists & Aerospace Workers. 600,000 people making North America move. Stay in touch: https://t.co/gcgPb2FbNc",
+            "favourites_count": 4421,
+            "followers_count": 19093,
+            "friends_count": 1950,
+            "geo_enabled": true,
+            "id": 74829020,
+            "id_str": "74829020",
+            "listed_count": 344,
+            "location": "U.S. & Canada",
+            "name": "Machinists Union",
+            "profile_background_color": "0B2B75",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/74829020/1557148679",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080549930601758721/o6EatKwC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080549930601758721/o6EatKwC_normal.jpg",
+            "profile_link_color": "274BB0",
+            "profile_sidebar_border_color": "A1BCD9",
+            "profile_sidebar_fill_color": "C4C4C4",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "MachinistsUnion",
+            "statuses_count": 15809,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 10069612,
+                "id_str": "10069612",
+                "name": "AFL-CIO",
+                "screen_name": "AFLCIO"
+            },
+            {
+                "id": 394741838,
+                "id_str": "394741838",
+                "name": "Richard Trumka",
+                "screen_name": "RichardTrumka"
+            },
+            {
+                "id": 140519774,
+                "id_str": "140519774",
+                "name": "Rosa DeLauro",
+                "screen_name": "rosadelauro"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MachinistsUnion: We are going to rally at noon at the Capitol with @AFLCIO, @RichardTrumka, @rosadelauro and others to say no new #NAFT\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 05 18:11:32 +0000 2010",
+        "description": "Proud to represent CT's 3rd CD. Italian-American, New Haven native, fierce advocate for a strong middle class & those in need. Tweets from Rosa are signed -Rosa",
+        "favourites_count": 511,
+        "followers_count": 41743,
+        "friends_count": 3225,
+        "geo_enabled": true,
+        "id": 140519774,
+        "id_str": "140519774",
+        "listed_count": 1355,
+        "location": "New Haven, CT",
+        "name": "Rosa DeLauro",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140519774/1450710256",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/677211963865358338/ZbwzWm8I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/677211963865358338/ZbwzWm8I_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rosadelauro",
+        "statuses_count": 7077,
+        "url": "http://t.co/IEn4FrZ95W",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 74829020,
+            "id_str": "74829020",
+            "name": "Machinists Union",
+            "screen_name": "MachinistsUnion"
+        },
+        {
+            "id": 10069612,
+            "id_str": "10069612",
+            "name": "AFL-CIO",
+            "screen_name": "AFLCIO"
+        },
+        {
+            "id": 394741838,
+            "id_str": "394741838",
+            "name": "Richard Trumka",
+            "screen_name": "RichardTrumka"
+        },
+        {
+            "id": 140519774,
+            "id_str": "140519774",
+            "name": "Rosa DeLauro",
+            "screen_name": "rosadelauro"
+        }
+    ]
+}

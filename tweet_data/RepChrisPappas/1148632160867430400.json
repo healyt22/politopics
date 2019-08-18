@@ -1,0 +1,105 @@
+{
+    "created_at": "Tue Jul 09 16:37:02 +0000 2019",
+    "hashtags": [],
+    "id": 1148632160867430400,
+    "id_str": "1148632160867430400",
+    "lang": "en",
+    "retweet_count": 38,
+    "retweeted_status": {
+        "created_at": "Tue Jul 09 16:33:01 +0000 2019",
+        "favorite_count": 104,
+        "hashtags": [],
+        "id": 1148631152472858629,
+        "id_str": "1148631152472858629",
+        "lang": "en",
+        "retweet_count": 38,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\"We owe all veterans who have defended our nation access to the healthcare and benefits we promised\u201d- @SenDuckworth\u2026 https://t.co/RBh72Arbbf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148631152472858629",
+                "url": "https://t.co/RBh72Arbbf"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 03 15:54:10 +0000 2010",
+            "description": "Chairman @RepMarkTakano | House Committee on Veterans\u2019 Affairs",
+            "favourites_count": 964,
+            "followers_count": 6426,
+            "friends_count": 1372,
+            "id": 151519500,
+            "id_str": "151519500",
+            "listed_count": 171,
+            "location": "Washington, D.C.",
+            "name": "House Veterans' Affairs",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151519500/1565630250",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1160963628847247360/b4-8-0CN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160963628847247360/b4-8-0CN_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "VetAffairsDems",
+            "statuses_count": 2427,
+            "url": "https://t.co/XAfH0YKYIm",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1058520120,
+                "id_str": "1058520120",
+                "name": "Tammy Duckworth",
+                "screen_name": "SenDuckworth"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @VetAffairsDems: \"We owe all veterans who have defended our nation access to the healthcare and benefits we promised\u201d- @SenDuckworth on\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 28 11:54:50 +0000 2018",
+        "default_profile": true,
+        "description": "Member of Congress serving New Hampshire's 1st District | Life-long Manchester Resident, former Executive Councilor for District 4 | #NH01",
+        "favourites_count": 278,
+        "followers_count": 7013,
+        "friends_count": 595,
+        "geo_enabled": true,
+        "id": 1067748650485497862,
+        "id_str": "1067748650485497862",
+        "listed_count": 164,
+        "location": "Manchester, NH",
+        "name": "Congressman Chris Pappas",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067748650485497862/1560283895",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083084908640305153/OXrPrfxD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083084908640305153/OXrPrfxD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChrisPappas",
+        "statuses_count": 811,
+        "url": "https://t.co/4EQmOIv1cZ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 151519500,
+            "id_str": "151519500",
+            "name": "House Veterans' Affairs",
+            "screen_name": "VetAffairsDems"
+        },
+        {
+            "id": 1058520120,
+            "id_str": "1058520120",
+            "name": "Tammy Duckworth",
+            "screen_name": "SenDuckworth"
+        }
+    ]
+}

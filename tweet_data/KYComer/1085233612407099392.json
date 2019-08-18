@@ -1,0 +1,138 @@
+{
+    "created_at": "Tue Jan 15 17:53:50 +0000 2019",
+    "favorite_count": 104,
+    "hashtags": [],
+    "id": 1085233612407099392,
+    "id_str": "1085233612407099392",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jan 15 03:02:28 +0000 2019",
+        "favorite_count": 46,
+        "hashtags": [
+            {
+                "text": "AFBF19"
+            }
+        ],
+        "id": 1085009293705953283,
+        "id_str": "1085009293705953283",
+        "lang": "en",
+        "place": {
+            "id": "dd3b100831dd1763",
+            "url": "https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json",
+            "place_type": "city",
+            "name": "New Orleans",
+            "full_name": "New Orleans, LA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.137908,
+                            29.889574
+                        ],
+                        [
+                            -89.884108,
+                            29.889574
+                        ],
+                        [
+                            -89.884108,
+                            30.075628
+                        ],
+                        [
+                            -90.137908,
+                            30.075628
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 14,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "ICYMI: U.S. Rep. James Comer (KY-1) received the @FarmBureau Outstanding New Member of Congress Award. #AFBF19 |\u2026 https://t.co/YuGMbjuZ6V",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1085009293705953283",
+                "url": "https://t.co/YuGMbjuZ6V"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 16 14:14:56 +0000 2009",
+            "description": "Kentucky Farm Bureau serves as the Voice of Kentucky Agriculture, representing the interests of Kentucky farm familes and rural communities.",
+            "favourites_count": 1010,
+            "followers_count": 3358,
+            "friends_count": 392,
+            "geo_enabled": true,
+            "id": 24696405,
+            "id_str": "24696405",
+            "listed_count": 77,
+            "location": "Kentucky",
+            "name": "Kentucky Farm Bureau Federation",
+            "profile_background_color": "20723D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24696405/1547313884",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/518408915801747458/ajkW4Rb-_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/518408915801747458/ajkW4Rb-_normal.png",
+            "profile_link_color": "00337F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CEDFED",
+            "profile_text_color": "050205",
+            "profile_use_background_image": true,
+            "screen_name": "KYFB",
+            "statuses_count": 5655,
+            "url": "https://t.co/th3Qc6VqMo"
+        },
+        "user_mentions": [
+            {
+                "id": 20957191,
+                "id_str": "20957191",
+                "name": "American Farm Bureau",
+                "screen_name": "FarmBureau"
+            }
+        ]
+    },
+    "quoted_status_id": 1085009293705953283,
+    "quoted_status_id_str": "1085009293705953283",
+    "retweet_count": 17,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I really appreciate Farm Bureau and this amazing video they produced about my award: https://t.co/u6Gjpvxddt",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/kyfb/status/1085009293705953283",
+            "url": "https://t.co/u6Gjpvxddt"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Sep 21 19:51:00 +0000 2012",
+        "description": "U.S. Congressman (#KY1) Farmer. Former KY Commissioner of Agriculture. Husband to TJ & father of Reagan, Harlan & Aniston.",
+        "favourites_count": 8400,
+        "followers_count": 12089,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 838462994,
+        "id_str": "838462994",
+        "listed_count": 337,
+        "location": "Monroe County, Kentucky",
+        "name": "James Comer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838462994/1485139213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825832628125319168/_S3dJiIp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KYComer",
+        "statuses_count": 5831,
+        "verified": true
+    },
+    "user_mentions": []
+}

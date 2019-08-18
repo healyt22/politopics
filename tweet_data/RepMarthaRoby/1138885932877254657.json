@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jun 12 19:09:00 +0000 2019",
+    "hashtags": [
+        {
+            "text": "FAA"
+        },
+        {
+            "text": "AirportGrants"
+        },
+        {
+            "text": "airport"
+        },
+        {
+            "text": "infrastructure"
+        }
+    ],
+    "id": 1138885932877254657,
+    "id_str": "1138885932877254657",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Wed Jun 12 17:50:46 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [
+            {
+                "text": "FAA"
+            },
+            {
+                "text": "AirportGrants"
+            },
+            {
+                "text": "airport"
+            }
+        ],
+        "id": 1138866243618914309,
+        "id_str": "1138866243618914309",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@USDOT and the #FAA announce a total of $25.4M in #AirportGrants to fund the improvement of #airport\u2026 https://t.co/RIzmWXk38j",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138866243618914309",
+                "url": "https://t.co/RIzmWXk38j"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 29 15:04:53 +0000 2010",
+            "description": "Welcome to the official twitter account of the Federal Aviation Administration. Following, mention or RT does not mean endorsement.",
+            "favourites_count": 3828,
+            "followers_count": 302870,
+            "friends_count": 1368,
+            "geo_enabled": true,
+            "id": 160946337,
+            "id_str": "160946337",
+            "listed_count": 3529,
+            "location": "Washington, D.C.",
+            "name": "The FAA",
+            "profile_background_color": "0097D7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/160946337/1563461548",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/775690421309739009/004I2jDO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/775690421309739009/004I2jDO_normal.jpg",
+            "profile_link_color": "006FB9",
+            "profile_sidebar_border_color": "A5ACAF",
+            "profile_sidebar_fill_color": "E2E4E4",
+            "profile_text_color": "37424A",
+            "profile_use_background_image": true,
+            "screen_name": "FAANews",
+            "statuses_count": 12791,
+            "url": "https://t.co/bu7hc8Ln7O",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 393562221,
+                "id_str": "393562221",
+                "name": "TransportationGov",
+                "screen_name": "USDOT"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @FAANews: .@USDOT and the #FAA announce a total of $25.4M in #AirportGrants to fund the improvement of #airport #infrastructure and #ope\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 08 16:56:29 +0000 2010",
+        "description": "I am honored to represent Alabama\u2019s Second Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 674,
+        "followers_count": 33344,
+        "friends_count": 2173,
+        "id": 224294785,
+        "id_str": "224294785",
+        "listed_count": 1185,
+        "name": "Rep. Martha Roby",
+        "profile_background_color": "5C6161",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/224294785/1403222188",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/479774391933214721/ZlZZ6h2__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/479774391933214721/ZlZZ6h2__normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "CC1433",
+        "profile_sidebar_fill_color": "232422",
+        "profile_text_color": "333333",
+        "screen_name": "RepMarthaRoby",
+        "statuses_count": 8696,
+        "url": "https://t.co/nPA2X3gwgx",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 160946337,
+            "id_str": "160946337",
+            "name": "The FAA",
+            "screen_name": "FAANews"
+        },
+        {
+            "id": 393562221,
+            "id_str": "393562221",
+            "name": "TransportationGov",
+            "screen_name": "USDOT"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "created_at": "Tue May 21 23:18:10 +0000 2019",
+    "hashtags": [],
+    "id": 1130976104209166337,
+    "id_str": "1130976104209166337",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue May 21 20:27:20 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1130933111607439364,
+        "id_str": "1130933111607439364",
+        "in_reply_to_screen_name": "hbrosenbaum",
+        "in_reply_to_status_id": 1130895280562462721,
+        "in_reply_to_user_id": 2705256559,
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Thank you to the offices of our 3 representatives: @RepRubenGallego, @RepRaulGrijalva, and @RepKirkpatrick for meet\u2026 https://t.co/36Q7QTUbm1",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1130933111607439364",
+                "url": "https://t.co/36Q7QTUbm1"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 04 00:21:20 +0000 2014",
+            "description": "@UAPhxFamilyMed Resident. @AFPpodcast Season 5 Co-Host. #SanAntonio native #gospursgo. #GWU alum. Poet/editor/dog lover. #FMRevolution #geriatrics #HPM",
+            "favourites_count": 852,
+            "followers_count": 385,
+            "friends_count": 301,
+            "geo_enabled": true,
+            "id": 2705256559,
+            "id_str": "2705256559",
+            "listed_count": 32,
+            "location": "Phoenix, AZ",
+            "name": "Herbert Rosenbaum, M.D.",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2705256559/1424662636",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/933180166200856576/4MF39UiL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/933180166200856576/4MF39UiL_normal.jpg",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "hbrosenbaum",
+            "statuses_count": 1017
+        },
+        "user_mentions": [
+            {
+                "id": 2966570782,
+                "id_str": "2966570782",
+                "name": "Ruben Gallego",
+                "screen_name": "RepRubenGallego"
+            },
+            {
+                "id": 28602948,
+                "id_str": "28602948",
+                "name": "Raul M. Grijalva",
+                "screen_name": "RepRaulGrijalva"
+            },
+            {
+                "id": 1081240074946252801,
+                "id_str": "1081240074946252801",
+                "name": "Rep. Ann Kirkpatrick",
+                "screen_name": "RepKirkpatrick"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @hbrosenbaum: Thank you to the offices of our 3 representatives: @RepRubenGallego, @RepRaulGrijalva, and @RepKirkpatrick for meeting wit\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 04 17:24:57 +0000 2019",
+        "description": "Congresswoman representing Arizona's 2nd Congressional District, but my grandchildren call me \"Mumsy!\"",
+        "favourites_count": 23,
+        "followers_count": 4825,
+        "friends_count": 471,
+        "geo_enabled": true,
+        "id": 1081240074946252801,
+        "id_str": "1081240074946252801",
+        "listed_count": 149,
+        "location": "Tucson, AZ",
+        "name": "Rep. Ann Kirkpatrick",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081240074946252801/1552591275",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083105724312506369/LMn9i3D5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083105724312506369/LMn9i3D5_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepKirkpatrick",
+        "statuses_count": 737,
+        "url": "https://t.co/98uPA9ejti",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2705256559,
+            "id_str": "2705256559",
+            "name": "Herbert Rosenbaum, M.D.",
+            "screen_name": "hbrosenbaum"
+        },
+        {
+            "id": 2966570782,
+            "id_str": "2966570782",
+            "name": "Ruben Gallego",
+            "screen_name": "RepRubenGallego"
+        },
+        {
+            "id": 28602948,
+            "id_str": "28602948",
+            "name": "Raul M. Grijalva",
+            "screen_name": "RepRaulGrijalva"
+        },
+        {
+            "id": 1081240074946252801,
+            "id_str": "1081240074946252801",
+            "name": "Rep. Ann Kirkpatrick",
+            "screen_name": "RepKirkpatrick"
+        }
+    ]
+}

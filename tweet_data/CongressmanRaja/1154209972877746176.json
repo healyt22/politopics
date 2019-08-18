@@ -1,0 +1,106 @@
+{
+    "created_at": "Thu Jul 25 02:01:16 +0000 2019",
+    "favorite_count": 102,
+    "hashtags": [],
+    "id": 1154209972877746176,
+    "id_str": "1154209972877746176",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jul 25 02:00:00 +0000 2019",
+        "favorite_count": 69,
+        "hashtags": [],
+        "id": 1154209654152544259,
+        "id_str": "1154209654152544259",
+        "lang": "en",
+        "retweet_count": 24,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "WATCH: @RepValDemings and @CongressmanRaja share their takeaways after questioning the former special counsel.\u2026 https://t.co/6zjIOCh6jA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154209654152544259",
+                "url": "https://t.co/6zjIOCh6jA"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 21 15:59:46 +0000 2013",
+            "description": "@chrislhayes hosts the Emmy Award-winning 'All In' weeknights at 8pm on @msnbc. Follow the conversation along with other #inners.  https://t.co/s1OQXsgvxV",
+            "favourites_count": 716,
+            "followers_count": 300836,
+            "friends_count": 532,
+            "geo_enabled": true,
+            "id": 1286312880,
+            "id_str": "1286312880",
+            "listed_count": 2369,
+            "name": "All In w/Chris Hayes",
+            "profile_background_color": "626566",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286312880/1454452419",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/751133282931204097/EwImU2Na_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/751133282931204097/EwImU2Na_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "allinwithchris",
+            "statuses_count": 17938,
+            "url": "http://t.co/W3e1qP8zTC",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 798973032362606600,
+                "id_str": "798973032362606600",
+                "name": "Rep. Val Demings",
+                "screen_name": "RepValDemings"
+            },
+            {
+                "id": 814179031956488192,
+                "id_str": "814179031956488192",
+                "name": "Raja Krishnamoorthi",
+                "screen_name": "CongressmanRaja"
+            }
+        ]
+    },
+    "quoted_status_id": 1154209654152544259,
+    "quoted_status_id_str": "1154209654152544259",
+    "retweet_count": 16,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Today's may not have had the pyrotechnics which some were hoping for, but it was a revealing look at the heart of t\u2026 https://t.co/o6uEdS4lxs",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1154209972877746176",
+            "url": "https://t.co/o6uEdS4lxs"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 28 18:39:42 +0000 2016",
+        "default_profile": true,
+        "description": "Official Twitter account of Congressman   Raja Krishnamoorthi, representing Illinois' 8th Congressional District.",
+        "favourites_count": 1262,
+        "followers_count": 17877,
+        "friends_count": 1772,
+        "id": 814179031956488192,
+        "id_str": "814179031956488192",
+        "listed_count": 508,
+        "location": "Schaumburg, IL",
+        "name": "Raja Krishnamoorthi",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814179031956488192/1483562500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanRaja",
+        "statuses_count": 3730,
+        "url": "https://t.co/zHGbk8wDWc",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,138 @@
+{
+    "created_at": "Tue Oct 30 14:20:27 +0000 2018",
+    "favorite_count": 39,
+    "hashtags": [],
+    "id": 1057276046670733312,
+    "id_str": "1057276046670733312",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Oct 29 15:41:28 +0000 2018",
+        "favorite_count": 20,
+        "hashtags": [],
+        "id": 1056934046335410176,
+        "id_str": "1056934046335410176",
+        "lang": "en",
+        "place": {
+            "id": "bcbf83640d70852e",
+            "url": "https://api.twitter.com/1.1/geo/id/bcbf83640d70852e.json",
+            "place_type": "city",
+            "name": "Chesterton",
+            "full_name": "Chesterton, IN",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.124381,
+                            41.568289
+                        ],
+                        [
+                            -87.008687,
+                            41.568289
+                        ],
+                        [
+                            -87.008687,
+                            41.640063
+                        ],
+                        [
+                            -87.124381,
+                            41.640063
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Thank you @RepVisclosky for meeting with our debate team to discuss topics this season, and his experiences in gove\u2026 https://t.co/HuXDT7b9S2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1056934046335410176",
+                "url": "https://t.co/HuXDT7b9S2"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 31 15:39:59 +0000 2013",
+            "description": "Welcome to Chesterton High School's official Twitter feed! Follow us for news, announcements, sports, and information\n\nInstagram: ChestertonHS\n#OnwardTrojans",
+            "favourites_count": 970,
+            "followers_count": 2912,
+            "friends_count": 122,
+            "geo_enabled": true,
+            "id": 1635768338,
+            "id_str": "1635768338",
+            "listed_count": 24,
+            "location": "Chesterton, Indiana",
+            "name": "Chesterton High",
+            "profile_background_color": "78021A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1635768338/1528310501",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/925387224346226688/0N8wM1XU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/925387224346226688/0N8wM1XU_normal.jpg",
+            "profile_link_color": "D4C415",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ChestertonHS",
+            "statuses_count": 6841,
+            "url": "https://t.co/x8GhRsQR81"
+        },
+        "user_mentions": [
+            {
+                "id": 193872188,
+                "id_str": "193872188",
+                "name": "Rep. Pete Visclosky",
+                "screen_name": "RepVisclosky"
+            }
+        ]
+    },
+    "quoted_status_id": 1056934046335410176,
+    "quoted_status_id_str": "1056934046335410176",
+    "retweet_count": 8,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "It was a great discussion! I appreciate your engagement in the relevant issues of the day and wish you all continue\u2026 https://t.co/D9f35aNlaf",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1057276046670733312",
+            "url": "https://t.co/D9f35aNlaf"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 22 21:24:46 +0000 2010",
+        "description": "Tweets from the Office of Congressman Pete Visclosky, proudly representing the people of Indiana's First Congressional District. Policy: http://t.co/Wi81U7L5zE",
+        "favourites_count": 37,
+        "followers_count": 14962,
+        "friends_count": 1055,
+        "geo_enabled": true,
+        "id": 193872188,
+        "id_str": "193872188",
+        "listed_count": 698,
+        "location": "Northwest, IN - Washington, DC",
+        "name": "Rep. Pete Visclosky",
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193872188/1433276783",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568448535402532867/xbUar8z5_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/568448535402532867/xbUar8z5_normal.png",
+        "profile_link_color": "01064A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepVisclosky",
+        "statuses_count": 1899,
+        "url": "http://t.co/NunATQ3IeS",
+        "verified": true
+    },
+    "user_mentions": []
+}

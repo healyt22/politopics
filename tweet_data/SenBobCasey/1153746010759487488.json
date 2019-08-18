@@ -1,0 +1,110 @@
+{
+    "created_at": "Tue Jul 23 19:17:39 +0000 2019",
+    "hashtags": [],
+    "id": 1153746010759487488,
+    "id_str": "1153746010759487488",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Jul 23 18:49:06 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 1153738828441694209,
+        "id_str": "1153738828441694209",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Miners from Central and Northern Appalachia and their widows testify alongside @JoeManchinWV, Sen. Casey and\u2026 https://t.co/xYkYkvpQEp",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1153738828441694209",
+                "url": "https://t.co/xYkYkvpQEp"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 04 15:00:39 +0000 2011",
+            "default_profile": true,
+            "description": "I report.",
+            "favourites_count": 1966,
+            "followers_count": 753,
+            "friends_count": 642,
+            "id": 233969328,
+            "id_str": "233969328",
+            "listed_count": 40,
+            "name": "Mark Olalde",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/233969328/1448595537",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/670084062304993280/s9EqKHVm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/670084062304993280/s9EqKHVm_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MarkOlalde",
+            "statuses_count": 7728,
+            "url": "https://t.co/5szDXjT6Fx",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 113355380,
+                "id_str": "113355380",
+                "name": "Joe Manchin",
+                "screen_name": "JoeManchinWV"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @MarkOlalde: Miners from Central and Northern Appalachia and their widows testify alongside @JoeManchinWV, Sen. Casey and @SherrodBrown.\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 27 18:38:20 +0000 2010",
+        "description": "Official twitter profile for U.S. Senator Bob Casey.",
+        "favourites_count": 638,
+        "followers_count": 408579,
+        "friends_count": 638,
+        "geo_enabled": true,
+        "id": 171598736,
+        "id_str": "171598736",
+        "listed_count": 3088,
+        "location": "Scranton, PA",
+        "name": "Senator Bob Casey",
+        "profile_background_color": "162F53",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748886037649297408/B4cLMsR__normal.jpg",
+        "profile_link_color": "2F6291",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "screen_name": "SenBobCasey",
+        "statuses_count": 9278,
+        "url": "https://t.co/EghtimAhrt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 233969328,
+            "id_str": "233969328",
+            "name": "Mark Olalde",
+            "screen_name": "MarkOlalde"
+        },
+        {
+            "id": 113355380,
+            "id_str": "113355380",
+            "name": "Joe Manchin",
+            "screen_name": "JoeManchinWV"
+        },
+        {
+            "id": 24768753,
+            "id_str": "24768753",
+            "name": "Sherrod Brown",
+            "screen_name": "SherrodBrown"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "created_at": "Fri Jul 19 19:42:42 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1152302762899755009,
+    "id_str": "1152302762899755009",
+    "in_reply_to_screen_name": "RepMarkWalker",
+    "in_reply_to_status_id": 1152284737492410368,
+    "in_reply_to_user_id": 2966205003,
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ao6SDUynst",
+            "expanded_url": "https://twitter.com/RepMarkWalker/status/1152302762899755009/video/1",
+            "id": 1152302674563543045,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152302674563543045/pu/img/PfFhJfVAXuyLcBC1.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152302674563543045/pu/img/PfFhJfVAXuyLcBC1.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/ao6SDUynst",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 10310,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1152302674563543045/pu/vid/1280x720/3gGMaRh7793FoheT.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1152302674563543045/pu/vid/480x270/PmW5FmCN2kGynIDs.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1152302674563543045/pu/vid/640x360/8BRrEW0KH4VzCxu4.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1152302674563543045/pu/pl/GtpdF9nPYzDngngL.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "https://t.co/ao6SDUynst",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 07 16:20:28 +0000 2015",
+        "description": "US Congressman. @housegop Vice Chair. Ranking Member on Subcommittee for Intelligence and Counterterrorism. Former Pastor gratefully representing #NC06.",
+        "favourites_count": 4523,
+        "followers_count": 20053,
+        "friends_count": 1080,
+        "geo_enabled": true,
+        "id": 2966205003,
+        "id_str": "2966205003",
+        "listed_count": 637,
+        "name": "Rep. Mark Walker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966205003/1515012979",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_link_color": "0B2343",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMarkWalker",
+        "statuses_count": 4921,
+        "url": "https://t.co/uvTWAFvWvC",
+        "verified": true
+    },
+    "user_mentions": []
+}

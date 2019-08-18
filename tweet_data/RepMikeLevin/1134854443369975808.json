@@ -1,0 +1,126 @@
+{
+    "created_at": "Sat Jun 01 16:09:18 +0000 2019",
+    "favorite_count": 60,
+    "hashtags": [],
+    "id": 1134854443369975808,
+    "id_str": "1134854443369975808",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jun 01 01:36:33 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1134634810456940544,
+        "id_str": "1134634810456940544",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fJB0mefHg8",
+                "expanded_url": "https://twitter.com/sdut/status/1134634810456940544/photo/1",
+                "id": 1134634808850538496,
+                "media_url": "http://pbs.twimg.com/media/D78IWNtUYAAg_GT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D78IWNtUYAAg_GT.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/fJB0mefHg8"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "World War II veteran finally collects his war medals, 74 years later https://t.co/EgA7G694Gr [Shareable] https://t.co/fJB0mefHg8",
+        "urls": [
+            {
+                "expanded_url": "http://dlvr.it/R5pbd2",
+                "url": "https://t.co/EgA7G694Gr"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 14 19:29:04 +0000 2008",
+            "description": "The San Diego Union-Tribune, the region's leading news source since 1868. Follow our journalists, too: https://t.co/bahQMYf2zJ",
+            "favourites_count": 2594,
+            "followers_count": 179820,
+            "friends_count": 132,
+            "geo_enabled": true,
+            "id": 14148802,
+            "id_str": "14148802",
+            "listed_count": 3075,
+            "location": "San Diego, CA",
+            "name": "San Diego Union-Tribune",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14148802/1485815806",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1087119401327849472/jAbte90j_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087119401327849472/jAbte90j_normal.jpg",
+            "profile_link_color": "177292",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EDF6FC",
+            "profile_text_color": "074869",
+            "profile_use_background_image": true,
+            "screen_name": "sdut",
+            "statuses_count": 104542,
+            "url": "https://t.co/Sr8qZVoQNl",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1134634810456940544,
+    "quoted_status_id_str": "1134634810456940544",
+    "retweet_count": 10,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I was honored to present 99-year-old World War II veteran George Coburn with the service medals he earned but never\u2026 https://t.co/R71oS56MYH",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1134854443369975808",
+            "url": "https://t.co/R71oS56MYH"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 10 14:21:12 +0000 2018",
+        "description": "Proud husband/dad, SoCal native, clean energy advocate, environmental attorney, Stanford/Duke alum. U.S. Representative for CA-49. Official account.",
+        "favourites_count": 87,
+        "followers_count": 13431,
+        "friends_count": 193,
+        "id": 1072134139560620033,
+        "id_str": "1072134139560620033",
+        "listed_count": 260,
+        "location": "California\u2019s 49th District",
+        "name": "Rep. Mike Levin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072134139560620033/1563231382",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072137667670761472/tSqX70D8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072137667670761472/tSqX70D8_normal.jpg",
+        "profile_link_color": "002868",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMikeLevin",
+        "statuses_count": 537,
+        "url": "https://t.co/OQ51VoCcrf",
+        "verified": true
+    },
+    "user_mentions": []
+}

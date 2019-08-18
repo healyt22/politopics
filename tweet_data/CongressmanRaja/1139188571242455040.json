@@ -1,0 +1,79 @@
+{
+    "created_at": "Thu Jun 13 15:11:35 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1139188571242455040,
+    "id_str": "1139188571242455040",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/GAju7Dbidi",
+            "expanded_url": "https://twitter.com/CongressmanRaja/status/1139188571242455040/photo/1",
+            "id": 1139188389880705024,
+            "media_url": "http://pbs.twimg.com/media/D881zg8WsAApjGr.png",
+            "media_url_https": "https://pbs.twimg.com/media/D881zg8WsAApjGr.png",
+            "sizes": {
+                "small": {
+                    "w": 537,
+                    "h": 179,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 537,
+                    "h": 179,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 537,
+                    "h": 179,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/GAju7Dbidi"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "And we should all get accustomed to hearing that answer, @kyledcheney https://t.co/GAju7Dbidi",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 28 18:39:42 +0000 2016",
+        "default_profile": true,
+        "description": "Official Twitter account of Congressman   Raja Krishnamoorthi, representing Illinois' 8th Congressional District.",
+        "favourites_count": 1262,
+        "followers_count": 17877,
+        "friends_count": 1772,
+        "id": 814179031956488192,
+        "id_str": "814179031956488192",
+        "listed_count": 508,
+        "location": "Schaumburg, IL",
+        "name": "Raja Krishnamoorthi",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814179031956488192/1483562500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/817454739910750209/-LvcQa9a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanRaja",
+        "statuses_count": 3730,
+        "url": "https://t.co/zHGbk8wDWc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 23578274,
+            "id_str": "23578274",
+            "name": "Kyle Cheney",
+            "screen_name": "kyledcheney"
+        }
+    ]
+}

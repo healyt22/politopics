@@ -1,0 +1,90 @@
+{
+    "created_at": "Fri Jun 07 14:17:23 +0000 2019",
+    "hashtags": [],
+    "id": 1137000604100939776,
+    "id_str": "1137000604100939776",
+    "lang": "en",
+    "retweet_count": 98,
+    "retweeted_status": {
+        "created_at": "Fri Jun 07 03:49:00 +0000 2019",
+        "favorite_count": 286,
+        "hashtags": [],
+        "id": 1136842466701668353,
+        "id_str": "1136842466701668353",
+        "lang": "en",
+        "retweet_count": 98,
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "Thank you for your voices and your heart! So many stories. So much love. There is truly unbelievable passion to\u2026 https://t.co/zNMAJADRl4",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1136842466701668353",
+                "url": "https://t.co/zNMAJADRl4"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 17 19:37:37 +0000 2009",
+            "description": "The Alzheimer\u2019s Association is the leading voluntary health organization in Alzheimer's care, support and research. #ENDALZ",
+            "favourites_count": 8947,
+            "followers_count": 146140,
+            "friends_count": 3959,
+            "geo_enabled": true,
+            "id": 21121491,
+            "id_str": "21121491",
+            "listed_count": 1853,
+            "name": "Alzheimer's Assoc.",
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21121491/1562862021",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/832238752676315136/lcdpNaDh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/832238752676315136/lcdpNaDh_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "screen_name": "alzassociation",
+            "statuses_count": 41503,
+            "url": "https://t.co/vpxBpHSUko",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @alzassociation: Thank you for your voices and your heart! So many stories. So much love. There is truly unbelievable passion to #EndAlz\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 15:54:32 +0000 2019",
+        "default_profile": true,
+        "description": "U.S. Congressman for Texas' 6th District. Member of @HouseForeign & @EdLaborCmte. Proud sixth generation resident of Tarrant County.",
+        "favourites_count": 114,
+        "followers_count": 1748,
+        "friends_count": 346,
+        "id": 1080854935535800320,
+        "id_str": "1080854935535800320",
+        "listed_count": 116,
+        "name": "Ron Wright",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080854935535800320/1547051595",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081206587426045958/MkX5U9E6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081206587426045958/MkX5U9E6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRonWright",
+        "statuses_count": 332,
+        "url": "https://t.co/NzGiQ66v6o",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21121491,
+            "id_str": "21121491",
+            "name": "Alzheimer's Assoc.",
+            "screen_name": "alzassociation"
+        }
+    ]
+}

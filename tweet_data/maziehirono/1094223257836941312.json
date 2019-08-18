@@ -1,0 +1,127 @@
+{
+    "created_at": "Sat Feb 09 13:15:29 +0000 2019",
+    "favorite_count": 305,
+    "hashtags": [],
+    "id": 1094223257836941312,
+    "id_str": "1094223257836941312",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Feb 09 08:42:03 +0000 2019",
+        "favorite_count": 29,
+        "hashtags": [],
+        "id": 1094154448660615168,
+        "id_str": "1094154448660615168",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qBgp4ZYxO6",
+                "expanded_url": "https://twitter.com/KHONnews/status/1094154448660615168/photo/1",
+                "id": 1094154446852939776,
+                "media_url": "http://pbs.twimg.com/media/Dy83rB4VYAAKUSE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Dy83rB4VYAAKUSE.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qBgp4ZYxO6"
+            }
+        ],
+        "retweet_count": 9,
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "Weekend weather: First come the strong winds and high surf, then the rain arrives Sunday https://t.co/CI69Hmvryj https://t.co/qBgp4ZYxO6",
+        "urls": [
+            {
+                "expanded_url": "http://dlvr.it/QyWZ15",
+                "url": "https://t.co/CI69Hmvryj"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 09 23:57:27 +0000 2009",
+            "description": "This is the official Twitter account for KHON2 News.",
+            "favourites_count": 1131,
+            "followers_count": 114311,
+            "friends_count": 36323,
+            "id": 20479321,
+            "id_str": "20479321",
+            "listed_count": 1381,
+            "location": "Honolulu, Hawaii",
+            "name": "khon2 News",
+            "profile_background_color": "4EB3D2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20479321/1506137241",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/797384930195968001/Wj4sbrbE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/797384930195968001/Wj4sbrbE_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "KHONnews",
+            "statuses_count": 80583,
+            "url": "https://t.co/W8CyGFDNzq",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1094154448660615168,
+    "quoted_status_id_str": "1094154448660615168",
+    "retweet_count": 56,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I encourage everyone in the path of this weekend\u2019s severe weather to prepare, stay safe, and take its potential imp\u2026 https://t.co/51pCsRHsU7",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1094223257836941312",
+            "url": "https://t.co/51pCsRHsU7"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Nov 24 03:10:37 +0000 2009",
+        "description": "U.S. Senator Mazie K. Hirono - Proudly Serving the People of Hawaii",
+        "favourites_count": 98,
+        "followers_count": 407329,
+        "friends_count": 1417,
+        "geo_enabled": true,
+        "id": 92186819,
+        "id_str": "92186819",
+        "listed_count": 3238,
+        "location": "Hawaii",
+        "name": "Senator Mazie Hirono",
+        "profile_background_color": "B7A7EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92186819/1519779404",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1130916929957445632/mkavgyCa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130916929957445632/mkavgyCa_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "maziehirono",
+        "statuses_count": 5605,
+        "url": "http://t.co/m4u3CFOBHg",
+        "verified": true
+    },
+    "user_mentions": []
+}

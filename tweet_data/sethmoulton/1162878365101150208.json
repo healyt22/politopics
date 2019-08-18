@@ -1,0 +1,120 @@
+{
+    "created_at": "Sun Aug 18 00:06:22 +0000 2019",
+    "hashtags": [],
+    "id": 1162878365101150208,
+    "id_str": "1162878365101150208",
+    "lang": "en",
+    "retweet_count": 14,
+    "retweeted_status": {
+        "created_at": "Sat Aug 17 23:38:16 +0000 2019",
+        "favorite_count": 69,
+        "hashtags": [],
+        "id": 1162871296914612224,
+        "id_str": "1162871296914612224",
+        "lang": "en",
+        "retweet_count": 14,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": ".@sethmoulton may be polling at 0%, and he may have been the last candidate at the @IowaStateFair, but he held noth\u2026 https://t.co/E4Iuq3mGar",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162871296914612224",
+                "url": "https://t.co/E4Iuq3mGar"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Oct 21 17:19:30 +0000 2008",
+            "default_profile": true,
+            "description": "Des Moines Register jobs reporter. UF J-school alumnus. Retweets are me saying, \"Hey look at this.\"",
+            "favourites_count": 1741,
+            "followers_count": 982,
+            "friends_count": 1687,
+            "geo_enabled": true,
+            "id": 16889583,
+            "id_str": "16889583",
+            "listed_count": 43,
+            "location": "Des Moines, IA",
+            "name": "Tyler Jett",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16889583/1564441370",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1155974653325615111/ii3uZ9dI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155974653325615111/ii3uZ9dI_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LetsJett",
+            "statuses_count": 11816,
+            "url": "https://t.co/6Q4pV6fYVv"
+        },
+        "user_mentions": [
+            {
+                "id": 248495200,
+                "id_str": "248495200",
+                "name": "Seth Moulton",
+                "screen_name": "sethmoulton"
+            },
+            {
+                "id": 15680988,
+                "id_str": "15680988",
+                "name": "Iowa State Fair",
+                "screen_name": "IowaStateFair"
+            }
+        ]
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "RT @LetsJett: .@sethmoulton may be polling at 0%, and he may have been the last candidate at the @IowaStateFair, but he held nothing back t\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Feb 07 03:35:59 +0000 2011",
+        "default_profile": true,
+        "description": "Father, husband, Marine, Congressman, and candidate for President of the United States. \n\nIt's time for a new generation of leadership.",
+        "favourites_count": 4016,
+        "followers_count": 147354,
+        "friends_count": 2439,
+        "geo_enabled": true,
+        "id": 248495200,
+        "id_str": "248495200",
+        "listed_count": 2571,
+        "location": "Salem, MA",
+        "name": "Seth Moulton",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248495200/1559917656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sethmoulton",
+        "statuses_count": 10971,
+        "url": "https://t.co/x3XcV4cO6O",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16889583,
+            "id_str": "16889583",
+            "name": "Tyler Jett",
+            "screen_name": "LetsJett"
+        },
+        {
+            "id": 248495200,
+            "id_str": "248495200",
+            "name": "Seth Moulton",
+            "screen_name": "sethmoulton"
+        },
+        {
+            "id": 15680988,
+            "id_str": "15680988",
+            "name": "Iowa State Fair",
+            "screen_name": "IowaStateFair"
+        }
+    ]
+}

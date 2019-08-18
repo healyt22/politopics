@@ -1,0 +1,168 @@
+{
+    "created_at": "Thu May 23 01:33:22 +0000 2019",
+    "favorite_count": 94,
+    "hashtags": [],
+    "id": 1131372515849330688,
+    "id_str": "1131372515849330688",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed May 22 23:42:26 +0000 2019",
+        "favorite_count": 2137,
+        "hashtags": [
+            {
+                "text": "DreamAndPromiseNOW"
+            },
+            {
+                "text": "ProtectTheDream"
+            }
+        ],
+        "id": 1131344598696103939,
+        "id_str": "1131344598696103939",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TPjFwdHeGv",
+                "expanded_url": "https://twitter.com/HispanicCaucus/status/1131344598696103939/video/1",
+                "id": 1131344069471461376,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1131344069471461376/img/UZGYCgHjFjwEGGXh.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1131344069471461376/img/UZGYCgHjFjwEGGXh.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/TPjFwdHeGv",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 27134,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1131344069471461376/pl/ajihScmyGm-5jEdv.m3u8?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1131344069471461376/vid/640x360/-4MUMDwy-GWHP0o8.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1131344069471461376/vid/1280x720/sXAkopngYhYMpDhg.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1131344069471461376/vid/320x180/Xy1CaFdTaoX6kkuv.mp4?tag=12"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 685,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "That moment when the Dream Act passed @HouseJudiciary \ud83c\udf89\ud83c\udf89\ud83c\udf89\n#DreamAndPromiseNOW #ProtectTheDream https://t.co/TPjFwdHeGv",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Apr 20 14:33:01 +0000 2009",
+            "description": "The 38-Member Congressional Hispanic Caucus advocates for issues important to Latinos via the legislative process in Congress.",
+            "favourites_count": 4364,
+            "followers_count": 62768,
+            "friends_count": 3098,
+            "geo_enabled": true,
+            "id": 33530012,
+            "id_str": "33530012",
+            "listed_count": 1178,
+            "location": "Washington, DC",
+            "name": "Hispanic Caucus",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33530012/1549074342",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1091509544373628931/lg-1Eobc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091509544373628931/lg-1Eobc_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HispanicCaucus",
+            "statuses_count": 30698,
+            "url": "http://t.co/M5o7LhojfY",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 246357149,
+                "id_str": "246357149",
+                "name": "House Judiciary Dems",
+                "screen_name": "HouseJudiciary"
+            }
+        ]
+    },
+    "quoted_status_id": 1131344598696103939,
+    "quoted_status_id_str": "1131344598696103939",
+    "retweet_count": 28,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Dream Act just passed in the @HouseJudiciary! https://t.co/4NQV8CYGl2",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/HispanicCaucus/status/1131344598696103939",
+            "url": "https://t.co/4NQV8CYGl2"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 08 00:04:27 +0000 2019",
+        "default_profile": true,
+        "description": "Progressive Chicagoan, Retired Marathoner. Congressman of #IL04. @TransportDems and @FSCDems. FB/IG: @RepChuyGarcia",
+        "favourites_count": 87,
+        "followers_count": 5178,
+        "friends_count": 229,
+        "id": 1082427779583541248,
+        "id_str": "1082427779583541248",
+        "listed_count": 169,
+        "name": "Congressman Chuy Garc\u00eda",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082427779583541248/1549477572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092137300115496960/9_hmhIKo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092137300115496960/9_hmhIKo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChuyGarcia",
+        "statuses_count": 496,
+        "url": "https://t.co/XUixIycAnx",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 246357149,
+            "id_str": "246357149",
+            "name": "House Judiciary Dems",
+            "screen_name": "HouseJudiciary"
+        }
+    ]
+}

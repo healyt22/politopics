@@ -1,0 +1,79 @@
+{
+    "created_at": "Wed Aug 07 23:16:14 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1159241870314074112,
+    "id_str": "1159241870314074112",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/W05dFy2Ba8",
+            "expanded_url": "https://twitter.com/RepDavid/status/1159241870314074112/photo/1",
+            "id": 1159241866744700931,
+            "media_url": "http://pbs.twimg.com/media/EBZ0VfwUIAM_6hY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBZ0VfwUIAM_6hY.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/W05dFy2Ba8"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great to meet with @ASU Scientists today to discuss how we can reduce our CO2 levels. https://t.co/W05dFy2Ba8",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 21 19:48:02 +0000 2010",
+        "description": "Avid hiker and coffee enthusiast who is proud to represent Arizona's 6th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 491,
+        "followers_count": 26975,
+        "friends_count": 1928,
+        "id": 229197216,
+        "id_str": "229197216",
+        "listed_count": 1131,
+        "location": "Arizona",
+        "name": "Rep David Schweikert",
+        "profile_background_color": "D5D2BF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/229197216/1425598365",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120412904304599041/dVK5QlEQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120412904304599041/dVK5QlEQ_normal.jpg",
+        "profile_link_color": "AA1200",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepDavid",
+        "statuses_count": 3879,
+        "url": "https://t.co/bsAbCTNenN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18783501,
+            "id_str": "18783501",
+            "name": "Arizona State University",
+            "screen_name": "ASU"
+        }
+    ]
+}

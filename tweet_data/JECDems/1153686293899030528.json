@@ -1,0 +1,130 @@
+{
+    "created_at": "Tue Jul 23 15:20:21 +0000 2019",
+    "hashtags": [],
+    "id": 1153686293899030528,
+    "id_str": "1153686293899030528",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 23 13:29:05 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1153658292754944000,
+        "id_str": "1153658292754944000",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Danielle Vogel of @GlensGardenMkt says people feel like so much is out of their control these days. Fighting food w\u2026 https://t.co/VIUs3Xlfyz",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1153658292754944000",
+                "url": "https://t.co/VIUs3Xlfyz"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Sep 28 22:56:29 +0000 2008",
+            "description": "Writer. Food & Ag nerd. Contributor @Forbes + @Slate @NYMag @washingtonpost @mental_floss Managing Editor @scimoms Immersive Experience Creator @TBDImmersive",
+            "favourites_count": 10582,
+            "followers_count": 5098,
+            "friends_count": 3054,
+            "geo_enabled": true,
+            "id": 16504032,
+            "id_str": "16504032",
+            "location": "Washington DC",
+            "name": "Jenny Splitter",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16504032/1558358888",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1074459111654338561/P8BwS3Xh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074459111654338561/P8BwS3Xh_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "jennysplitter",
+            "statuses_count": 20597,
+            "url": "https://t.co/LY3ibU7Rqi"
+        },
+        "user_mentions": [
+            {
+                "id": 394704947,
+                "id_str": "394704947",
+                "name": "Glen's Garden Market",
+                "screen_name": "GlensGardenMkt"
+            }
+        ]
+    },
+    "quoted_status_id": 1153658292754944000,
+    "quoted_status_id_str": "1153658292754944000",
+    "retweet_count": 2,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "ICYMI: In our response to the Economic Report of the President, we showed that cutting carbon emissions is key to a\u2026 https://t.co/rYsmErEhtJ",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153686293899030528",
+            "url": "https://t.co/rYsmErEhtJ"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 22 18:11:02 +0000 2010",
+        "description": "News & updates from the Democratic staff of the U.S. Congress Joint Economic Committee. Vice Chair Rep. Carolyn B. Maloney @RepMaloney\n\nRTs!=endorsements.",
+        "favourites_count": 2243,
+        "followers_count": 8137,
+        "friends_count": 1233,
+        "id": 116505994,
+        "id_str": "116505994",
+        "listed_count": 380,
+        "location": "Washington, D.C.",
+        "name": "Joint Economic Committee Democrats",
+        "profile_background_color": "1B304D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116505994/1522867275",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979086076773101568/rDXGSshY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979086076773101568/rDXGSshY_normal.jpg",
+        "profile_link_color": "5890B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7F7F7",
+        "profile_text_color": "333333",
+        "screen_name": "JECDems",
+        "statuses_count": 5086,
+        "url": "https://t.co/6KGMIAlGfo",
+        "verified": true
+    },
+    "user_mentions": []
+}

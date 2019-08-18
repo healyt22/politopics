@@ -1,0 +1,122 @@
+{
+    "created_at": "Thu May 09 17:35:43 +0000 2019",
+    "hashtags": [],
+    "id": 1126541269977706497,
+    "id_str": "1126541269977706497",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu May 09 17:02:38 +0000 2019",
+        "favorite_count": 18,
+        "hashtags": [],
+        "id": 1126532944271691776,
+        "id_str": "1126532944271691776",
+        "lang": "en",
+        "place": {
+            "id": "05fe3c3f4a709dfd",
+            "url": "https://api.twitter.com/1.1/geo/id/05fe3c3f4a709dfd.json",
+            "place_type": "neighborhood",
+            "name": "Capitol Hill",
+            "full_name": "Capitol Hill, Washington",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.0152553,
+                            38.8773146
+                        ],
+                        [
+                            -76.985432,
+                            38.8773146
+                        ],
+                        [
+                            -76.985432,
+                            38.8973988
+                        ],
+                        [
+                            -77.0152553,
+                            38.8973988
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Surreal moment talking to All Saints\u2019 Episcopal 6th graders and teachers (from my alma mater in Florence, SC) about\u2026 https://t.co/HFKu2GNGsA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1126532944271691776",
+                "url": "https://t.co/HFKu2GNGsA"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 18 17:06:31 +0000 2014",
+            "description": "Federal Relations for South Carolina Governor @HenryMcMaster",
+            "favourites_count": 1427,
+            "followers_count": 443,
+            "friends_count": 646,
+            "geo_enabled": true,
+            "id": 2742494600,
+            "id_str": "2742494600",
+            "listed_count": 5,
+            "name": "Jordan Marsh",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2742494600/1413925161",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1112116939319586818/Jpx_H5gM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112116939319586818/Jpx_H5gM_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "jordan_c_marsh",
+            "statuses_count": 514
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @jordan_c_marsh: Surreal moment talking to All Saints\u2019 Episcopal 6th graders and teachers (from my alma mater in Florence, SC) about Gov\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jun 29 17:38:35 +0000 2017",
+        "default_profile": true,
+        "description": "Official account of U.S. Congressman Ralph Norman. Proudly serving the 5th congressional district of South Carolina.",
+        "favourites_count": 384,
+        "followers_count": 6470,
+        "friends_count": 675,
+        "id": 880480631108644864,
+        "id_str": "880480631108644864",
+        "listed_count": 282,
+        "location": "South Carolina, USA",
+        "name": "Rep. Ralph Norman",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/880480631108644864/1561058726",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/886594415904608258/VyYZc8Uk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/886594415904608258/VyYZc8Uk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRalphNorman",
+        "statuses_count": 1553,
+        "url": "https://t.co/cjGUNi1VrC",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2742494600,
+            "id_str": "2742494600",
+            "name": "Jordan Marsh",
+            "screen_name": "jordan_c_marsh"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Mon Jul 15 14:53:56 +0000 2019",
+    "hashtags": [],
+    "id": 1150780544180862976,
+    "id_str": "1150780544180862976",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Mon Jul 15 14:47:25 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1150778904073953280,
+        "id_str": "1150778904073953280",
+        "in_reply_to_screen_name": "shelbyfleig",
+        "in_reply_to_status_id": 1150778297393078273,
+        "in_reply_to_user_id": 447705148,
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "In Iraq, @sethmoulton says, he \"united troops behind a common mission,\" an experience he says will help him \"build\u2026 https://t.co/vGZQBcHwJW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150778904073953280",
+                "url": "https://t.co/vGZQBcHwJW"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 27 05:32:24 +0000 2011",
+            "description": "reporter @DMRegister, covering @amyklobuchar in Iowa. shelbyfleig@dmreg.com",
+            "favourites_count": 3643,
+            "followers_count": 986,
+            "friends_count": 819,
+            "geo_enabled": true,
+            "id": 447705148,
+            "id_str": "447705148",
+            "listed_count": 40,
+            "location": "Des Moines, IA",
+            "name": "Shelby Fleig",
+            "profile_background_color": "FCFCFC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/447705148/1563233851",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/939173436273905664/fG_HQGug_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/939173436273905664/fG_HQGug_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "shelbyfleig",
+            "statuses_count": 3066,
+            "url": "https://t.co/BW656YGOIz",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 248495200,
+                "id_str": "248495200",
+                "name": "Seth Moulton",
+                "screen_name": "sethmoulton"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @shelbyfleig: In Iraq, @sethmoulton says, he \"united troops behind a common mission,\" an experience he says will help him \"build the coa\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Feb 07 03:35:59 +0000 2011",
+        "default_profile": true,
+        "description": "Father, husband, Marine, Congressman, and candidate for President of the United States. \n\nIt's time for a new generation of leadership.",
+        "favourites_count": 3999,
+        "followers_count": 143995,
+        "friends_count": 2365,
+        "geo_enabled": true,
+        "id": 248495200,
+        "id_str": "248495200",
+        "listed_count": 2476,
+        "location": "Salem, MA",
+        "name": "Seth Moulton",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248495200/1559917656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120277608523026432/N66Alj6P_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sethmoulton",
+        "statuses_count": 10762,
+        "url": "https://t.co/x3XcV4cO6O",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 447705148,
+            "id_str": "447705148",
+            "name": "Shelby Fleig",
+            "screen_name": "shelbyfleig"
+        },
+        {
+            "id": 248495200,
+            "id_str": "248495200",
+            "name": "Seth Moulton",
+            "screen_name": "sethmoulton"
+        }
+    ]
+}

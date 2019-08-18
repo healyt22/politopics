@@ -1,0 +1,132 @@
+{
+    "created_at": "Thu Nov 15 17:20:13 +0000 2018",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 1063119494342721536,
+    "id_str": "1063119494342721536",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Nov 15 17:07:08 +0000 2018",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1063116199825936385,
+        "id_str": "1063116199825936385",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you Congressman @daveloebsack for taking time out of your busy schedule to meet with us today. Physicians for\u2026 https://t.co/Hl9UJmQwLE",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1063116199825936385",
+                "url": "https://t.co/Hl9UJmQwLE"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 20 17:37:56 +0000 2009",
+            "description": "Advocate for Reproductive Justice. Baby-catcher. Former AMA-MSS Chair. Lover of good food, good wine, and good friends.",
+            "favourites_count": 20,
+            "followers_count": 214,
+            "friends_count": 175,
+            "geo_enabled": true,
+            "id": 58535081,
+            "id_str": "58535081",
+            "listed_count": 6,
+            "location": "Iowa, USA",
+            "name": "LeAnne Roberts, MD",
+            "profile_background_color": "F5CECE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/376189756/n8814382_41654355_162_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/376189756/n8814382_41654355_162_normal.jpg",
+            "profile_link_color": "0AA335",
+            "profile_sidebar_border_color": "D3D2CF",
+            "profile_sidebar_fill_color": "FFFEFC",
+            "profile_text_color": "F01A45",
+            "screen_name": "LeAnneRobertsMD",
+            "statuses_count": 1072
+        },
+        "user_mentions": [
+            {
+                "id": 510516465,
+                "id_str": "510516465",
+                "name": "Dave Loebsack",
+                "screen_name": "daveloebsack"
+            }
+        ]
+    },
+    "quoted_status_id": 1063116199825936385,
+    "quoted_status_id_str": "1063116199825936385",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "It was great meeting with you! Thanks for all that you do. https://t.co/Zbk6FTjkjf",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/LeAnneRobertsMD/status/1063116199825936385",
+            "url": "https://t.co/Zbk6FTjkjf"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Mar 01 16:52:06 +0000 2012",
+        "description": "Fighting for the hardworking people of Iowa",
+        "favourites_count": 190,
+        "followers_count": 9159,
+        "friends_count": 584,
+        "geo_enabled": true,
+        "id": 510516465,
+        "id_str": "510516465",
+        "listed_count": 622,
+        "location": "Iowa's 2nd District",
+        "name": "Dave Loebsack",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/510516465/1360003545",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880546146153889792/TGLWXSy-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880546146153889792/TGLWXSy-_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "daveloebsack",
+        "statuses_count": 1260,
+        "url": "https://t.co/kmMHKMAfkT",
+        "verified": true
+    },
+    "user_mentions": []
+}

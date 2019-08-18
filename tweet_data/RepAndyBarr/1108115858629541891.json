@@ -1,0 +1,88 @@
+{
+    "created_at": "Tue Mar 19 21:19:43 +0000 2019",
+    "favorite_count": 19,
+    "hashtags": [],
+    "id": 1108115858629541891,
+    "id_str": "1108115858629541891",
+    "lang": "en",
+    "place": {
+        "id": "0c8f644153d50001",
+        "url": "https://api.twitter.com/1.1/geo/id/0c8f644153d50001.json",
+        "place_type": "poi",
+        "name": "Dv8 Kitchen",
+        "full_name": "Dv8 Kitchen",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -84.51466765016335,
+                        38.039906091587106
+                    ],
+                    [
+                        -84.51466765016335,
+                        38.039906091587106
+                    ],
+                    [
+                        -84.51466765016335,
+                        38.039906091587106
+                    ],
+                    [
+                        -84.51466765016335,
+                        38.039906091587106
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great to have @ONDCP Director Jim Carroll in Lexington for a roundtable discussion on addiction and recovery with\u2026 https://t.co/8b3pQfVONr",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1108115858629541891",
+            "url": "https://t.co/8b3pQfVONr"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 14 15:29:49 +0000 2013",
+        "description": "Honored to represent Kentucky's Sixth Congressional District.  Fighting to get Kentuckians back to work and restore fiscal responsibility to Washington",
+        "favourites_count": 265,
+        "followers_count": 21442,
+        "friends_count": 1175,
+        "geo_enabled": true,
+        "id": 1089334250,
+        "id_str": "1089334250",
+        "listed_count": 698,
+        "location": "Lexington, KY",
+        "name": "Rep. Andy Barr",
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089334250/1392572667",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648576649143943169/DGzR6q1Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648576649143943169/DGzR6q1Q_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyBarr",
+        "statuses_count": 3548,
+        "url": "http://t.co/XNnauaj5",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 874325346107174914,
+            "id_str": "874325346107174914",
+            "name": "ONDCP",
+            "screen_name": "ONDCP"
+        }
+    ]
+}

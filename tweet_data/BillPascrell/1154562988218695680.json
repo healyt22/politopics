@@ -1,0 +1,126 @@
+{
+    "created_at": "Fri Jul 26 01:24:01 +0000 2019",
+    "favorite_count": 125,
+    "hashtags": [],
+    "id": 1154562988218695680,
+    "id_str": "1154562988218695680",
+    "in_reply_to_screen_name": "BillPascrell",
+    "in_reply_to_status_id": 1154561944541515776,
+    "in_reply_to_user_id": 74508260,
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jul 25 20:55:26 +0000 2019",
+        "favorite_count": 573,
+        "hashtags": [],
+        "id": 1154495397546614784,
+        "id_str": "1154495397546614784",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/T8At5knYwq",
+                "expanded_url": "https://twitter.com/RichardRubinDC/status/1154495397546614784/photo/1",
+                "id": 1154495372179509248,
+                "media_url": "http://pbs.twimg.com/media/EAWXbJmXkAAfPi9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAWXbJmXkAAfPi9.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/T8At5knYwq"
+            }
+        ],
+        "retweet_count": 234,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Here is Neal statement. It\u2019s linking the Nixon precedent to Trump. https://t.co/T8At5knYwq",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Dec 17 20:38:28 +0000 2010",
+            "default_profile": true,
+            "description": "I cover U.S. tax policy for the @WSJ. There is ALWAYS a tax angle. Retweets are not endorsements or tax advice.",
+            "favourites_count": 17594,
+            "followers_count": 28218,
+            "friends_count": 587,
+            "id": 227790723,
+            "id_str": "227790723",
+            "listed_count": 937,
+            "location": "Washington, DC",
+            "name": "Richard Rubin",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/227790723/1507133880",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/686556654901538816/vJadnl38_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/686556654901538816/vJadnl38_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RichardRubinDC",
+            "statuses_count": 29314,
+            "url": "https://t.co/z9cavTJpYZ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1154495397546614784,
+    "quoted_status_id_str": "1154495397546614784",
+    "retweet_count": 47,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "And let me add that republicans have repeatedly called our pursuit of Trump\u2019s taxes \u2018unprecedented.\u2019\n\nThey didn\u2019t l\u2026 https://t.co/e80XPUfuaZ",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1154562988218695680",
+            "url": "https://t.co/e80XPUfuaZ"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 15 17:54:32 +0000 2009",
+        "description": "Representing the 9th District of New Jersey in the House of Representatives. Member, Ways & Means Committee.",
+        "favourites_count": 5727,
+        "followers_count": 47462,
+        "friends_count": 95,
+        "geo_enabled": true,
+        "id": 74508260,
+        "id_str": "74508260",
+        "listed_count": 1038,
+        "location": "Paterson, NJ",
+        "name": "Bill Pascrell, Jr.",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74508260/1486055628",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979359893214912512/pazrRFes_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979359893214912512/pazrRFes_normal.jpg",
+        "profile_link_color": "004080",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "BillPascrell",
+        "statuses_count": 4345,
+        "url": "https://t.co/q9EtRgyxbk",
+        "verified": true
+    },
+    "user_mentions": []
+}

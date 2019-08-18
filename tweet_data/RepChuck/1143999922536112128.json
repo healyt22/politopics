@@ -1,0 +1,123 @@
+{
+    "created_at": "Wed Jun 26 21:50:10 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [],
+    "id": 1143999922536112128,
+    "id_str": "1143999922536112128",
+    "in_reply_to_screen_name": "RepChuck",
+    "in_reply_to_status_id": 1143984271281000448,
+    "in_reply_to_user_id": 235190657,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/bTuqu7oBqC",
+            "expanded_url": "https://twitter.com/RepChuck/status/1143999922536112128/video/1",
+            "id": 1143999847130959873,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143999847130959873/pu/img/x7mwRN9qYJcHjjZU.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143999847130959873/pu/img/x7mwRN9qYJcHjjZU.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/bTuqu7oBqC",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 21497,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1143999847130959873/pu/pl/EpFOkh4vZ47eW60d.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1143999847130959873/pu/vid/480x270/NtZikdtY4AM7Z2jc.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1143999847130959873/pu/vid/640x360/qWvB7e8uwBLZHeEW.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1143999847130959873/pu/vid/1280x720/OcpiMtPMaK9JfKvo.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Always have to represent @UTKnoxville @Vol_Sports at @thehillbaseball - go Vols! \ud83c\udf4a https://t.co/bTuqu7oBqC",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 07 15:46:29 +0000 2011",
+        "description": "My official House office Twitter account. I work for the people of TN-03.",
+        "favourites_count": 232,
+        "followers_count": 16260,
+        "friends_count": 706,
+        "geo_enabled": true,
+        "id": 235190657,
+        "id_str": "235190657",
+        "listed_count": 790,
+        "location": "Washington, D.C./TN-03",
+        "name": "Chuck Fleischmann",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/235190657/1559660016",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/818947796787142656/mH-TXPye_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/818947796787142656/mH-TXPye_normal.jpg",
+        "profile_link_color": "206F98",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepChuck",
+        "statuses_count": 2713,
+        "url": "http://t.co/BanS9JzDxx",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19773627,
+            "id_str": "19773627",
+            "name": "UT Knoxville",
+            "screen_name": "UTKnoxville"
+        },
+        {
+            "id": 46139542,
+            "id_str": "46139542",
+            "name": "Tennessee Athletics",
+            "screen_name": "Vol_Sports"
+        },
+        {
+            "id": 322754909,
+            "id_str": "322754909",
+            "name": "Congressional Game",
+            "screen_name": "thehillbaseball"
+        }
+    ]
+}

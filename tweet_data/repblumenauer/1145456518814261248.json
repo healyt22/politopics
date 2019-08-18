@@ -1,0 +1,84 @@
+{
+    "created_at": "Sun Jun 30 22:18:10 +0000 2019",
+    "favorite_count": 82,
+    "hashtags": [
+        {
+            "text": "WorldPride"
+        },
+        {
+            "text": "LoveWins"
+        },
+        {
+            "text": "Stonewall50"
+        }
+    ],
+    "id": 1145456518814261248,
+    "id_str": "1145456518814261248",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/wwl43QTibR",
+            "expanded_url": "https://twitter.com/repblumenauer/status/1145456518814261248/photo/1",
+            "id": 1145456510006222848,
+            "media_url": "http://pbs.twimg.com/media/D-V6oICUYAAqmF1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-V6oICUYAAqmF1.jpg",
+            "sizes": {
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/wwl43QTibR"
+        }
+    ],
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#WorldPride #LoveWins #Stonewall50 https://t.co/wwl43QTibR",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Aug 23 06:38:46 +0000 2008",
+        "description": "Progressive Democrat proudly representing Oregon\u2019s 3rd Congressional District.",
+        "favourites_count": 195,
+        "followers_count": 65513,
+        "friends_count": 1195,
+        "geo_enabled": true,
+        "id": 15954997,
+        "id_str": "15954997",
+        "listed_count": 2067,
+        "location": "Portland, OR",
+        "name": "Earl Blumenauer",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15954997/1439504673",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096198742343147521/rAkpNj8j_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096198742343147521/rAkpNj8j_normal.png",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "screen_name": "repblumenauer",
+        "statuses_count": 4064,
+        "url": "https://t.co/tSU5eJrWdN",
+        "verified": true
+    },
+    "user_mentions": []
+}

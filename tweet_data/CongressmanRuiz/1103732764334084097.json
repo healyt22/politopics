@@ -1,0 +1,131 @@
+{
+    "created_at": "Thu Mar 07 19:02:52 +0000 2019",
+    "favorite_count": 19,
+    "hashtags": [],
+    "id": 1103732764334084097,
+    "id_str": "1103732764334084097",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Mar 07 16:59:41 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "cfadvocacy"
+            }
+        ],
+        "id": 1103701767404032006,
+        "id_str": "1103701767404032006",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/jRFMupDa4Q",
+                "expanded_url": "https://twitter.com/SuperStriderMom/status/1103701767404032006/photo/1",
+                "id": 1103701766103805953,
+                "media_url": "http://pbs.twimg.com/media/D1Ei6JqWsAEFdNA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D1Ei6JqWsAEFdNA.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 768,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 768,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/jRFMupDa4Q"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @CongressmanRuiz for stopping to talk about the importance of healthcare &amp;CF medical research. #cfadvocacy https://t.co/jRFMupDa4Q",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Apr 07 01:34:28 +0000 2014",
+            "default_profile": true,
+            "description": "Mom, wife and cystic fibrosis advocate. CFF San Diego Board Member. Great Strides Chair. National CF Foundation Past Volunteer Leadership Initiative Co-Chair",
+            "favourites_count": 217,
+            "followers_count": 175,
+            "friends_count": 99,
+            "geo_enabled": true,
+            "id": 2431264411,
+            "id_str": "2431264411",
+            "listed_count": 3,
+            "location": "San Diego, CA",
+            "name": "Katrina Young",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2431264411/1435417481",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/614811580862189568/Mqmy2MsS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/614811580862189568/Mqmy2MsS_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SuperStriderMom",
+            "statuses_count": 451
+        },
+        "user_mentions": [
+            {
+                "id": 1089859058,
+                "id_str": "1089859058",
+                "name": "Raul Ruiz",
+                "screen_name": "CongressmanRuiz"
+            }
+        ]
+    },
+    "quoted_status_id": 1103701767404032006,
+    "quoted_status_id_str": "1103701767404032006",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you Katrina for your commitment to advocating for patients with cystic fibrosis, a genetic disease that affec\u2026 https://t.co/Ts3BCCyqv3",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1103732764334084097",
+            "url": "https://t.co/Ts3BCCyqv3"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 14 18:58:43 +0000 2013",
+        "default_profile": true,
+        "description": "Emergency room doctor and public servant. Proudly serving California's 36th Congressional District.",
+        "favourites_count": 51,
+        "followers_count": 19095,
+        "friends_count": 28,
+        "id": 1089859058,
+        "id_str": "1089859058",
+        "listed_count": 698,
+        "name": "Raul Ruiz",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089859058/1486433030",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3109371960/abcc78e171a1bc5232a05b221ac6d6a3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3109371960/abcc78e171a1bc5232a05b221ac6d6a3_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanRuiz",
+        "statuses_count": 1408,
+        "url": "http://t.co/sgTdElO4",
+        "verified": true
+    },
+    "user_mentions": []
+}

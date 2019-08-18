@@ -1,0 +1,207 @@
+{
+    "created_at": "Sun Jul 21 22:33:20 +0000 2019",
+    "favorite_count": 1931,
+    "hashtags": [],
+    "id": 1153070483237216256,
+    "id_str": "1153070483237216256",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/BrfUUwREV8",
+            "expanded_url": "https://twitter.com/Ilhan/status/1153070483237216256/photo/1",
+            "id": 1153070469408595968,
+            "media_url": "http://pbs.twimg.com/media/EACHe5IXoAAy4bL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EACHe5IXoAAy4bL.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/BrfUUwREV8"
+        },
+        {
+            "display_url": "pic.twitter.com/BrfUUwREV8",
+            "expanded_url": "https://twitter.com/Ilhan/status/1153070483237216256/photo/1",
+            "id": 1153070469429583878,
+            "media_url": "http://pbs.twimg.com/media/EACHe5NX4AYkUqo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EACHe5NX4AYkUqo.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 750,
+                    "h": 921,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 750,
+                    "h": 921,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 554,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/BrfUUwREV8"
+        },
+        {
+            "display_url": "pic.twitter.com/BrfUUwREV8",
+            "expanded_url": "https://twitter.com/Ilhan/status/1153070483237216256/photo/1",
+            "id": 1153070469408595974,
+            "media_url": "http://pbs.twimg.com/media/EACHe5IXoAYE_RC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EACHe5IXoAYE_RC.jpg",
+            "sizes": {
+                "large": {
+                    "w": 750,
+                    "h": 1334,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 382,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/BrfUUwREV8"
+        },
+        {
+            "display_url": "pic.twitter.com/BrfUUwREV8",
+            "expanded_url": "https://twitter.com/Ilhan/status/1153070483237216256/photo/1",
+            "id": 1153070469408526336,
+            "media_url": "http://pbs.twimg.com/media/EACHe5IWkAAmQn3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EACHe5IWkAAmQn3.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/BrfUUwREV8"
+        }
+    ],
+    "place": {
+        "id": "07d9f3fcae486002",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9f3fcae486002.json",
+        "place_type": "poi",
+        "name": "Open Streets",
+        "full_name": "Open Streets",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -93.27323312565753,
+                        44.948365812367825
+                    ],
+                    [
+                        -93.27323312565753,
+                        44.948365812367825
+                    ],
+                    [
+                        -93.27323312565753,
+                        44.948365812367825
+                    ],
+                    [
+                        -93.27323312565753,
+                        44.948365812367825
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 168,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Had so much fun connecting with local businesses, organizations, and community at @OpenStreetsMPLS Lake &amp; Minnehaha! https://t.co/BrfUUwREV8",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 07 17:53:13 +0000 2019",
+        "default_profile": true,
+        "description": "Representing Minnesota's 5th District in the People's House. @USProgressives Whip and Midwest Regional Whip.",
+        "favourites_count": 677,
+        "followers_count": 413733,
+        "friends_count": 320,
+        "geo_enabled": true,
+        "id": 1082334352711790593,
+        "id_str": "1082334352711790593",
+        "listed_count": 1275,
+        "location": "Minneapolis, MN and Washington, DC",
+        "name": "Rep. Ilhan Omar",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082334352711790593/1546985315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082685661621178373/ledtkemL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082685661621178373/ledtkemL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Ilhan",
+        "statuses_count": 1117,
+        "url": "https://t.co/etKOoQglhI",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 199847154,
+            "id_str": "199847154",
+            "name": "Open Streets MPLS",
+            "screen_name": "OpenStreetsMPLS"
+        }
+    ]
+}

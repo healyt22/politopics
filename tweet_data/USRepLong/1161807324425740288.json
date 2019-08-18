@@ -1,0 +1,101 @@
+{
+    "created_at": "Thu Aug 15 01:10:26 +0000 2019",
+    "hashtags": [],
+    "id": 1161807324425740288,
+    "id_str": "1161807324425740288",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Aug 14 22:20:34 +0000 2019",
+        "favorite_count": 18,
+        "hashtags": [],
+        "id": 1161764576683331590,
+        "id_str": "1161764576683331590",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Great seeing my friend @auctnr1 at  the ribbon cutting for Springfield Underground\u2019s new command center! Thanks to\u2026 https://t.co/StsHJAPx1C",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161764576683331590",
+                "url": "https://t.co/StsHJAPx1C"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Oct 30 22:04:35 +0000 2013",
+            "default_profile": true,
+            "favourites_count": 178,
+            "followers_count": 157,
+            "friends_count": 161,
+            "id": 2165547116,
+            "id_str": "2165547116",
+            "location": "Missouri, USA",
+            "name": "John Griesemer",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1142809510383370241/wrJEIVn9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142809510383370241/wrJEIVn9_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GriesemerJohn",
+            "statuses_count": 172
+        },
+        "user_mentions": [
+            {
+                "id": 21572351,
+                "id_str": "21572351",
+                "name": "Billy Long",
+                "screen_name": "auctnr1"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GriesemerJohn: Great seeing my friend @auctnr1 at  the ribbon cutting for Springfield Underground\u2019s new command center! Thanks to our d\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon May 20 15:02:21 +0000 2013",
+        "default_profile": true,
+        "description": "Representing Missouri\u2019s 7th District in the United States Congress - Member of the House Energy and Commerce Committee",
+        "favourites_count": 284,
+        "followers_count": 18845,
+        "friends_count": 4324,
+        "id": 1444015610,
+        "id_str": "1444015610",
+        "listed_count": 637,
+        "name": "U.S. Rep. Billy Long",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444015610/1369083530",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/931238240396423168/Zew9SE9S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/931238240396423168/Zew9SE9S_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "USRepLong",
+        "statuses_count": 7742,
+        "url": "https://t.co/uG5DCdtUfQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2165547116,
+            "id_str": "2165547116",
+            "name": "John Griesemer",
+            "screen_name": "GriesemerJohn"
+        },
+        {
+            "id": 21572351,
+            "id_str": "21572351",
+            "name": "Billy Long",
+            "screen_name": "auctnr1"
+        }
+    ]
+}

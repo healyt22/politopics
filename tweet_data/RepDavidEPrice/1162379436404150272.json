@@ -1,0 +1,136 @@
+{
+    "created_at": "Fri Aug 16 15:03:48 +0000 2019",
+    "hashtags": [
+        {
+            "text": "SmallBiz"
+        }
+    ],
+    "id": 1162379436404150272,
+    "id_str": "1162379436404150272",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Aug 16 14:19:47 +0000 2019",
+        "favorite_count": 20,
+        "hashtags": [
+            {
+                "text": "SmallBiz"
+            }
+        ],
+        "id": 1162368361508016128,
+        "id_str": "1162368361508016128",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Thanks again to @RepDavidEPrice for taking the @NFIB #SmallBiz Challenge yesterday afternoon at @BurkeBrothers Hard\u2026 https://t.co/oFirdwJjwT",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162368361508016128",
+                "url": "https://t.co/oFirdwJjwT"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 14 18:28:04 +0000 2009",
+            "description": "NFIB is a member-driven organization advocating for small and independent businesses in Washington, D.C. & all 50 states. We are the voice of small business.",
+            "favourites_count": 8,
+            "followers_count": 765,
+            "friends_count": 953,
+            "geo_enabled": true,
+            "id": 65700195,
+            "id_str": "65700195",
+            "listed_count": 144,
+            "location": "Raleigh, NC",
+            "name": "NFIB North Carolina",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/65700195/1555965201",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/995930377293324288/FOgNVBoO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/995930377293324288/FOgNVBoO_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nfib_nc",
+            "statuses_count": 3235,
+            "url": "http://t.co/FTMRLB63vK"
+        },
+        "user_mentions": [
+            {
+                "id": 155669457,
+                "id_str": "155669457",
+                "name": "David E. Price",
+                "screen_name": "RepDavidEPrice"
+            },
+            {
+                "id": 14587949,
+                "id_str": "14587949",
+                "name": "NFIB",
+                "screen_name": "NFIB"
+            },
+            {
+                "id": 49711476,
+                "id_str": "49711476",
+                "name": "Burke Bros. Hardware",
+                "screen_name": "BurkeBrothers"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @nfib_nc: Thanks again to @RepDavidEPrice for taking the @NFIB #SmallBiz Challenge yesterday afternoon at @BurkeBrothers Hardware in Ral\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jun 14 19:44:06 +0000 2010",
+        "description": "I am proud to represent NC's 4th Congressional District, which includes Orange and parts of Wake and Durham Counties.",
+        "favourites_count": 888,
+        "followers_count": 29774,
+        "friends_count": 2696,
+        "geo_enabled": true,
+        "id": 155669457,
+        "id_str": "155669457",
+        "listed_count": 978,
+        "name": "David E. Price",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/155669457/1527112408",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978257235192287232/XUsOnM3Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978257235192287232/XUsOnM3Z_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepDavidEPrice",
+        "statuses_count": 4590,
+        "url": "https://t.co/Ie8fVlfmac",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 65700195,
+            "id_str": "65700195",
+            "name": "NFIB North Carolina",
+            "screen_name": "nfib_nc"
+        },
+        {
+            "id": 155669457,
+            "id_str": "155669457",
+            "name": "David E. Price",
+            "screen_name": "RepDavidEPrice"
+        },
+        {
+            "id": 14587949,
+            "id_str": "14587949",
+            "name": "NFIB",
+            "screen_name": "NFIB"
+        },
+        {
+            "id": 49711476,
+            "id_str": "49711476",
+            "name": "Burke Bros. Hardware",
+            "screen_name": "BurkeBrothers"
+        }
+    ]
+}

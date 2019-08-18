@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Aug 07 23:13:11 +0000 2019",
+    "hashtags": [],
+    "id": 1159241102160990208,
+    "id_str": "1159241102160990208",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Wed Aug 07 21:02:27 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 1159208204770906112,
+        "id_str": "1159208204770906112",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Today we were honored to host @SenMarkey for a critical discussion about the opioid crisis and the Senator's propos\u2026 https://t.co/3nKHkbRoLX",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159208204770906112",
+                "url": "https://t.co/3nKHkbRoLX"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 28 10:32:03 +0000 2011",
+            "description": "Official account of the Middlesex (MA) Sheriff's Office. This account is not monitored 24/7. Please call 911 in an emergency",
+            "favourites_count": 3576,
+            "followers_count": 8463,
+            "friends_count": 3473,
+            "geo_enabled": true,
+            "id": 381443589,
+            "id_str": "381443589",
+            "listed_count": 175,
+            "location": "Middlesex County, Mass.",
+            "name": "Middlesex Sheriff",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/381443589/1559937234",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/916034516967477248/zjssfd2u_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/916034516967477248/zjssfd2u_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "msosheriff",
+            "statuses_count": 5027,
+            "url": "https://t.co/s4TNs1jnHr",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 21406834,
+                "id_str": "21406834",
+                "name": "Ed Markey",
+                "screen_name": "SenMarkey"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @msosheriff: Today we were honored to host @SenMarkey for a critical discussion about the opioid crisis and the Senator's proposed legis\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Feb 20 15:49:29 +0000 2009",
+        "description": "Official account for Senator Edward J. Markey. National leader on energy, environment, climate, telecom. Voice for consumer protection. https://t.co/nfYWzVp6R8",
+        "favourites_count": 332,
+        "followers_count": 159075,
+        "friends_count": 1373,
+        "geo_enabled": true,
+        "id": 21406834,
+        "id_str": "21406834",
+        "listed_count": 3318,
+        "location": "MA",
+        "name": "Ed Markey",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21406834/1549578517",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+        "profile_link_color": "062232",
+        "profile_sidebar_border_color": "F55600",
+        "profile_sidebar_fill_color": "B8FDB5",
+        "profile_text_color": "333333",
+        "screen_name": "SenMarkey",
+        "statuses_count": 14503,
+        "url": "https://t.co/PvCpESuHno",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 381443589,
+            "id_str": "381443589",
+            "name": "Middlesex Sheriff",
+            "screen_name": "msosheriff"
+        },
+        {
+            "id": 21406834,
+            "id_str": "21406834",
+            "name": "Ed Markey",
+            "screen_name": "SenMarkey"
+        }
+    ]
+}

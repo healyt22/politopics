@@ -1,0 +1,79 @@
+{
+    "created_at": "Wed Jun 26 18:48:35 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1143954223543066626,
+    "id_str": "1143954223543066626",
+    "lang": "en",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Proud to join @RepLBR @RepMikeTurner &amp; @RepWalorski in the House and @SenMarkey &amp; @lisamurkowski in the Senate to i\u2026 https://t.co/WSC95yv1kV",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143954223543066626",
+            "url": "https://t.co/WSC95yv1kV"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 20:29:22 +0000 2013",
+        "default_profile": true,
+        "description": "Honored to serve the people of New Hampshire\u2019s Second District in Congress.",
+        "favourites_count": 686,
+        "followers_count": 21785,
+        "friends_count": 2315,
+        "geo_enabled": true,
+        "id": 1058717720,
+        "id_str": "1058717720",
+        "listed_count": 810,
+        "location": "NH's 2nd District",
+        "name": "Ann McLane Kuster",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058717720/1359664710",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/859420869008994304/SGpr9ua7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/859420869008994304/SGpr9ua7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAnnieKuster",
+        "statuses_count": 4838,
+        "url": "http://t.co/1ApjVskz3y",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 817050219007328258,
+            "id_str": "817050219007328258",
+            "name": "Rep. Blunt Rochester",
+            "screen_name": "RepLBR"
+        },
+        {
+            "id": 51228911,
+            "id_str": "51228911",
+            "name": "US Rep. Mike Turner",
+            "screen_name": "RepMikeTurner"
+        },
+        {
+            "id": 1065995022,
+            "id_str": "1065995022",
+            "name": "Jackie Walorski",
+            "screen_name": "RepWalorski"
+        },
+        {
+            "id": 21406834,
+            "id_str": "21406834",
+            "name": "Ed Markey",
+            "screen_name": "SenMarkey"
+        },
+        {
+            "id": 18061669,
+            "id_str": "18061669",
+            "name": "Sen. Lisa Murkowski",
+            "screen_name": "lisamurkowski"
+        }
+    ]
+}

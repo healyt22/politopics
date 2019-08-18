@@ -1,0 +1,85 @@
+{
+    "created_at": "Sat May 25 15:14:59 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "MI06"
+        }
+    ],
+    "id": 1132304060835606528,
+    "id_str": "1132304060835606528",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/V34tY9SFlx",
+            "expanded_url": "https://twitter.com/RepFredUpton/status/1132304060835606528/photo/1",
+            "id": 1132304054523179014,
+            "media_url": "http://pbs.twimg.com/media/D7bAidOWsAYSAS_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7bAidOWsAYSAS_.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/V34tY9SFlx"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great conversation with @morning_grind this morning in Saugatuck. Thanks for having me on!  #MI06 \ud83c\udf99\ud83d\udcfb\ud83d\ude0e https://t.co/V34tY9SFlx",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 18 17:34:35 +0000 2010",
+        "description": "Call me Fred. Husband, Dad, & proud to represent Southwest Michigan.",
+        "favourites_count": 2149,
+        "followers_count": 26445,
+        "friends_count": 2037,
+        "geo_enabled": true,
+        "id": 124224165,
+        "id_str": "124224165",
+        "listed_count": 1247,
+        "location": "St. Joseph, Michigan",
+        "name": "Fred Upton",
+        "profile_background_color": "91D5EC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124224165/1554902865",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1133025054676201472/ZeYuIcgN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133025054676201472/ZeYuIcgN_normal.png",
+        "profile_link_color": "5A5D5E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "91D5EC",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepFredUpton",
+        "statuses_count": 6299,
+        "url": "https://t.co/3thchERYkn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 596854558,
+            "id_str": "596854558",
+            "name": "Morning Grind",
+            "screen_name": "morning_grind"
+        }
+    ]
+}

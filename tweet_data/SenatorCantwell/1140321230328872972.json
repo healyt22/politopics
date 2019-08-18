@@ -1,0 +1,78 @@
+{
+    "created_at": "Sun Jun 16 18:12:22 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [
+        {
+            "text": "HappyFathersDay"
+        }
+    ],
+    "id": 1140321230328872972,
+    "id_str": "1140321230328872972",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Ry79q5E66G",
+            "expanded_url": "https://twitter.com/SenatorCantwell/status/1140321230328872972/photo/1",
+            "id": 1140321226927366146,
+            "media_url": "http://pbs.twimg.com/media/D9M8HTzX4AINQMb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9M8HTzX4AINQMb.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 640,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 640,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 640,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ry79q5E66G"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Wishing dads across Washington state a very #HappyFathersDay today! https://t.co/Ry79q5E66G",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 25 19:21:52 +0000 2010",
+        "description": "U.S. Senator from Washington State | Tweets from Maria are signed \u2013MC | Facebook: https://t.co/qLmMk10nJI RT\u2260endorsement",
+        "favourites_count": 794,
+        "followers_count": 229594,
+        "friends_count": 2203,
+        "id": 117501995,
+        "id_str": "117501995",
+        "listed_count": 2475,
+        "location": "Washington, DC",
+        "name": "Sen. Maria Cantwell",
+        "profile_background_color": "B8B6B6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117501995/1525958289",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112707249032626176/j7drmGgX_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112707249032626176/j7drmGgX_normal.png",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "25377E",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "25378F",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorCantwell",
+        "statuses_count": 8304,
+        "url": "https://t.co/5P50HzPLoB",
+        "verified": true
+    },
+    "user_mentions": []
+}

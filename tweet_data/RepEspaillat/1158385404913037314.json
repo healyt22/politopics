@@ -1,0 +1,105 @@
+{
+    "created_at": "Mon Aug 05 14:32:56 +0000 2019",
+    "hashtags": [],
+    "id": 1158385404913037314,
+    "id_str": "1158385404913037314",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Aug 05 14:21:50 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1158382611347267584,
+        "id_str": "1158382611347267584",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Now: @RepEspaillat joins with his reaction to the President's speech on gun violence following two mass shootings o\u2026 https://t.co/gmjDKmbaPA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1158382611347267584",
+                "url": "https://t.co/gmjDKmbaPA"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 09 03:39:43 +0000 2008",
+            "description": "@WNYC radio host with conversations that matter. Live 10-12 ET, online always. Tweets signed BL are from Brian, unsigned from his awesome team. Cover \ud83d\udcf7: AP",
+            "favourites_count": 10846,
+            "followers_count": 61487,
+            "friends_count": 1081,
+            "geo_enabled": true,
+            "id": 12011422,
+            "id_str": "12011422",
+            "listed_count": 1762,
+            "location": "New York, NY",
+            "name": "Brian Lehrer Show",
+            "profile_background_color": "FA0000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/12011422/1554240038",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/939215781518299137/kEFXgB3r_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/939215781518299137/kEFXgB3r_normal.jpg",
+            "profile_link_color": "66A7ED",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "screen_name": "BrianLehrer",
+            "statuses_count": 59661,
+            "url": "https://t.co/wwMlcHT7IP",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 817076257770835968,
+                "id_str": "817076257770835968",
+                "name": "Adriano Espaillat",
+                "screen_name": "RepEspaillat"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @BrianLehrer: Now: @RepEspaillat joins with his reaction to the President's speech on gun violence following two mass shootings over the\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 05 18:32:15 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly serving New York\u2019s 13th Congressional District. @HispanicCaucus @HouseForeign @TransportDems @HouseSmallBiz. Follow my work in Washington and #NY13",
+        "favourites_count": 4406,
+        "followers_count": 15491,
+        "friends_count": 1519,
+        "geo_enabled": true,
+        "id": 817076257770835968,
+        "id_str": "817076257770835968",
+        "listed_count": 502,
+        "location": "https://www.facebook.com/Congr",
+        "name": "Adriano Espaillat",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817076257770835968/1549406735",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827580972442988545/RJ5H4gCN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827580972442988545/RJ5H4gCN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepEspaillat",
+        "statuses_count": 8328,
+        "url": "https://t.co/lcRqmQFAbz",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 12011422,
+            "id_str": "12011422",
+            "name": "Brian Lehrer Show",
+            "screen_name": "BrianLehrer"
+        },
+        {
+            "id": 817076257770835968,
+            "id_str": "817076257770835968",
+            "name": "Adriano Espaillat",
+            "screen_name": "RepEspaillat"
+        }
+    ]
+}

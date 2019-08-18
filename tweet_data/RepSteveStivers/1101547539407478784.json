@@ -1,0 +1,101 @@
+{
+    "created_at": "Fri Mar 01 18:19:33 +0000 2019",
+    "favorite_count": 31,
+    "hashtags": [],
+    "id": 1101547539407478784,
+    "id_str": "1101547539407478784",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/SWdNke796J",
+            "expanded_url": "https://twitter.com/RepSteveStivers/status/1101547539407478784/video/1",
+            "id": 1101547449548787712,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101547449548787712/pu/img/O7YRawbuSP8ddpo9.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101547449548787712/pu/img/O7YRawbuSP8ddpo9.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/SWdNke796J",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 29930,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1101547449548787712/pu/vid/320x180/1Btzh6u5E8b6d_hl.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1101547449548787712/pu/vid/640x360/0yNIq_nPi4pkh_ts.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1101547449548787712/pu/vid/1280x720/EoNpptqzwO_3TXUv.mp4?tag=6"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1101547449548787712/pu/pl/SN4U4A8xgLQhZg8n.m3u8?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Happy birthday to our great state. Ohio joined the Union on this day in 1803. https://t.co/SWdNke796J",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 03 05:57:36 +0000 2010",
+        "description": "Proud to represent the citizens of Ohio's 15th Congressional District.",
+        "favourites_count": 1305,
+        "followers_count": 34244,
+        "friends_count": 927,
+        "geo_enabled": true,
+        "id": 211420609,
+        "id_str": "211420609",
+        "listed_count": 975,
+        "name": "Steve Stivers",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211420609/1458918817",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552881728226750464/ELtq08Dw_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552881728226750464/ELtq08Dw_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSteveStivers",
+        "statuses_count": 3267,
+        "url": "http://t.co/ccc8OvsbWo",
+        "verified": true
+    },
+    "user_mentions": []
+}

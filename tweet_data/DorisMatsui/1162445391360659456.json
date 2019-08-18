@@ -1,0 +1,139 @@
+{
+    "created_at": "Fri Aug 16 19:25:53 +0000 2019",
+    "hashtags": [],
+    "id": 1162445391360659456,
+    "id_str": "1162445391360659456",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Aug 16 18:16:42 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1162427984227082240,
+        "id_str": "1162427984227082240",
+        "lang": "en",
+        "place": {
+            "id": "b71fac2ee9792cbe",
+            "url": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json",
+            "place_type": "city",
+            "name": "Sacramento",
+            "full_name": "Sacramento, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.576613,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.6855236
+                        ],
+                        [
+                            -121.576613,
+                            38.6855236
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We are so grateful to have @DorisMatsui as our flood control champion! We thank her for her contributions to improv\u2026 https://t.co/nvEqjxKM6c",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162427984227082240",
+                "url": "https://t.co/nvEqjxKM6c"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 16 01:27:22 +0000 2015",
+            "description": "Sac City Councilmember Rick Jennings--Greenhaven/Pocket-Delta Shores-Detroit-Valley Hi communities. Tweets by Member & staff-retweets do not mean endorsement.",
+            "favourites_count": 490,
+            "followers_count": 2228,
+            "friends_count": 802,
+            "geo_enabled": true,
+            "id": 2984875662,
+            "id_str": "2984875662",
+            "listed_count": 41,
+            "location": "City of Sacramento",
+            "name": "Rick Jennings, II",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2984875662/1421438999",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/835307031728807938/NXxz2e_9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/835307031728807938/NXxz2e_9_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "RickJenningsD7",
+            "statuses_count": 3979,
+            "url": "https://t.co/KWrzugCgfu"
+        },
+        "user_mentions": [
+            {
+                "id": 38254095,
+                "id_str": "38254095",
+                "name": "Rep. Doris Matsui",
+                "screen_name": "DorisMatsui"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @RickJenningsD7: We are so grateful to have @DorisMatsui as our flood control champion! We thank her for her contributions to improving\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 06 19:20:50 +0000 2009",
+        "description": "Representing California's 6th Congressional District. Member of the @EnergyCommerce Committee.",
+        "favourites_count": 271,
+        "followers_count": 36068,
+        "friends_count": 9186,
+        "geo_enabled": true,
+        "id": 38254095,
+        "id_str": "38254095",
+        "listed_count": 1124,
+        "location": "Sacramento, CA",
+        "name": "Rep. Doris Matsui",
+        "profile_background_color": "D4CCE8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38254095/1559062275",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E4EAED",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "DorisMatsui",
+        "statuses_count": 3407,
+        "url": "http://t.co/dt820eUUHc",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2984875662,
+            "id_str": "2984875662",
+            "name": "Rick Jennings, II",
+            "screen_name": "RickJenningsD7"
+        },
+        {
+            "id": 38254095,
+            "id_str": "38254095",
+            "name": "Rep. Doris Matsui",
+            "screen_name": "DorisMatsui"
+        }
+    ]
+}

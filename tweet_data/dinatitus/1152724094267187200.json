@@ -1,0 +1,130 @@
+{
+    "created_at": "Sat Jul 20 23:36:55 +0000 2019",
+    "hashtags": [],
+    "id": 1152724094267187200,
+    "id_str": "1152724094267187200",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Sat Jul 20 21:52:18 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1152697768143515649,
+        "id_str": "1152697768143515649",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Rep. @dinatitus, whose district we are in, is here to introduce @JoeBiden at the @nvdems Local Brews + National Vie\u2026 https://t.co/6jSPRzBvAz",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1152697768143515649",
+                "url": "https://t.co/6jSPRzBvAz"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jun 26 03:51:38 +0000 2011",
+            "description": "@thenvindy reporter covering 2020, health care + #nvleg | @ucberkeley alum + oc native | megan@thenvindy.com | dm for pgp + signal",
+            "favourites_count": 6210,
+            "followers_count": 8982,
+            "friends_count": 1139,
+            "geo_enabled": true,
+            "id": 324169263,
+            "id_str": "324169263",
+            "listed_count": 312,
+            "location": "Las Vegas, NV",
+            "name": "Megan Messerly",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/324169263/1528677748",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151178646272405504/7vMUg-ay_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151178646272405504/7vMUg-ay_normal.jpg",
+            "profile_link_color": "9897C0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "meganmesserly",
+            "statuses_count": 15763,
+            "url": "https://t.co/gIZ9PJK97O",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 17907578,
+                "id_str": "17907578",
+                "name": "Dina Titus",
+                "screen_name": "dinatitus"
+            },
+            {
+                "id": 939091,
+                "id_str": "939091",
+                "name": "Joe Biden",
+                "screen_name": "JoeBiden"
+            },
+            {
+                "id": 72717049,
+                "id_str": "72717049",
+                "name": "NV Dems",
+                "screen_name": "nvdems"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @meganmesserly: Rep. @dinatitus, whose district we are in, is here to introduce @JoeBiden at the @nvdems Local Brews + National Views ev\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 05 20:49:41 +0000 2008",
+        "description": "Representative of Nevada's First District. Tweeting politics, culture & #OnlyInDistrict1.",
+        "favourites_count": 7546,
+        "followers_count": 9301,
+        "friends_count": 1259,
+        "geo_enabled": true,
+        "id": 17907578,
+        "id_str": "17907578",
+        "listed_count": 401,
+        "location": "Fabulous Las Vegas, Nevada",
+        "name": "Dina Titus",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17907578/1485036291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "dinatitus",
+        "statuses_count": 7094,
+        "url": "https://t.co/nJxR59HXbP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 324169263,
+            "id_str": "324169263",
+            "name": "Megan Messerly",
+            "screen_name": "meganmesserly"
+        },
+        {
+            "id": 17907578,
+            "id_str": "17907578",
+            "name": "Dina Titus",
+            "screen_name": "dinatitus"
+        },
+        {
+            "id": 939091,
+            "id_str": "939091",
+            "name": "Joe Biden",
+            "screen_name": "JoeBiden"
+        },
+        {
+            "id": 72717049,
+            "id_str": "72717049",
+            "name": "NV Dems",
+            "screen_name": "nvdems"
+        }
+    ]
+}

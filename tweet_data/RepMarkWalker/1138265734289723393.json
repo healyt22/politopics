@@ -1,0 +1,91 @@
+{
+    "created_at": "Tue Jun 11 02:04:33 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1138265734289723393,
+    "id_str": "1138265734289723393",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 10 21:12:25 +0000 2019",
+        "hashtags": [],
+        "id": 1138192216504119296,
+        "id_str": "1138192216504119296",
+        "lang": "en",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I sent a message to Rep Mark Walker with @Countable https://t.co/wshaNsQuTf",
+        "urls": [
+            {
+                "expanded_url": "https://www.countable.us",
+                "url": "https://t.co/wshaNsQuTf"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 01 03:39:55 +0000 2019",
+            "default_profile": true,
+            "description": "Scientist, bioinformatician, statistician and science book author. I developed a number of machine learning and bioinformatics tools and methods.",
+            "followers_count": 5,
+            "friends_count": 7,
+            "id": 1079945284543803392,
+            "id_str": "1079945284543803392",
+            "location": "North Carolina, USA",
+            "name": "Hamid D. Ismail, PhD",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079945284543803392/1546314853",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1079948326542495744/rqAqKxuV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079948326542495744/rqAqKxuV_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HamidDIsmail2",
+            "statuses_count": 7,
+            "url": "https://t.co/dCjQVowx76"
+        },
+        "user_mentions": [
+            {
+                "id": 1537558634,
+                "id_str": "1537558634",
+                "name": "Countable",
+                "screen_name": "countable"
+            }
+        ]
+    },
+    "quoted_status_id": 1138192216504119296,
+    "quoted_status_id_str": "1138192216504119296",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Thanks Dr. Ismail. Look forward to reading it. https://t.co/ZIOzJKAGx5",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/HamidDIsmail2/status/1138192216504119296",
+            "url": "https://t.co/ZIOzJKAGx5"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 07 16:20:28 +0000 2015",
+        "description": "US Congressman. @housegop Vice Chair. Ranking Member on Subcommittee for Counterterrorism and Intelligence. Former Pastor gratefully representing #NC06.",
+        "favourites_count": 4438,
+        "followers_count": 19393,
+        "friends_count": 1066,
+        "geo_enabled": true,
+        "id": 2966205003,
+        "id_str": "2966205003",
+        "listed_count": 636,
+        "name": "Rep. Mark Walker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966205003/1515012979",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_link_color": "0B2343",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMarkWalker",
+        "statuses_count": 4829,
+        "url": "https://t.co/uvTWAFvWvC",
+        "verified": true
+    },
+    "user_mentions": []
+}

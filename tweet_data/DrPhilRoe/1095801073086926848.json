@@ -1,0 +1,102 @@
+{
+    "created_at": "Wed Feb 13 21:45:09 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1095801073086926848,
+    "id_str": "1095801073086926848",
+    "in_reply_to_screen_name": "DrPhilRoe",
+    "in_reply_to_status_id": 1095801068972400640,
+    "in_reply_to_user_id": 52503751,
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/775b56OFg0",
+            "expanded_url": "https://twitter.com/DrPhilRoe/status/1095801073086926848/video/1",
+            "id": 1095800770702774273,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095800770702774273/pu/img/1e_oWf8WK29WRJLj.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095800770702774273/pu/img/1e_oWf8WK29WRJLj.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/775b56OFg0",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 74584,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1095800770702774273/pu/vid/640x360/Ek5rikFHS0XDAHta.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1095800770702774273/pu/vid/320x180/OlqvmkoDD5uKkHXG.mp4?tag=6"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1095800770702774273/pu/pl/QPogQUN-1LQJdaDV.m3u8?tag=6"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1095800770702774273/pu/vid/1280x720/JKZynE2WqNqrByST.mp4?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "https://t.co/775b56OFg0",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 30 20:07:34 +0000 2009",
+        "description": "Official Account of Rep. Phil Roe, MD, serving TN-01. Ranking Member of @HouseVetAffairs . Member of @EdWorkforce & co-chair of @gopdoccaucus",
+        "favourites_count": 206,
+        "followers_count": 19076,
+        "friends_count": 291,
+        "id": 52503751,
+        "id_str": "52503751",
+        "listed_count": 994,
+        "location": "East Tennessee",
+        "name": "Dr. Phil Roe",
+        "profile_background_color": "050D4D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52503751/1535563992",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092849084795420678/lMHmQkh1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092849084795420678/lMHmQkh1_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "8F2C1F",
+        "profile_text_color": "333333",
+        "screen_name": "DrPhilRoe",
+        "statuses_count": 3347,
+        "url": "http://t.co/eWYX8wFvy7",
+        "verified": true
+    },
+    "user_mentions": []
+}

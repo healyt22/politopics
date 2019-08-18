@@ -1,0 +1,116 @@
+{
+    "created_at": "Mon Aug 05 23:49:35 +0000 2019",
+    "favorite_count": 27,
+    "hashtags": [],
+    "id": 1158525487511146496,
+    "id_str": "1158525487511146496",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/nG152lrV7V",
+            "expanded_url": "https://twitter.com/janschakowsky/status/1158525487511146496/photo/1",
+            "id": 1158525479365894150,
+            "media_url": "http://pbs.twimg.com/media/EBPoyQzX4AYSaD4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBPoyQzX4AYSaD4.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/nG152lrV7V"
+        }
+    ],
+    "place": {
+        "id": "8b351eeb91372dc7",
+        "url": "https://api.twitter.com/1.1/geo/id/8b351eeb91372dc7.json",
+        "place_type": "city",
+        "name": "Evanston",
+        "full_name": "Evanston, IL",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -87.733451,
+                        42.0191507
+                    ],
+                    [
+                        -87.6649403,
+                        42.0191507
+                    ],
+                    [
+                        -87.6649403,
+                        42.071723
+                    ],
+                    [
+                        -87.733451,
+                        42.071723
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "So great to be here with @IndivisibleEV for a town hall! https://t.co/nG152lrV7V",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Mar 13 16:03:17 +0000 2009",
+        "default_profile": true,
+        "description": "Official Twitter account for Rep. Jan Schakowsky, Illinois 9th Congressional District",
+        "favourites_count": 1042,
+        "followers_count": 44326,
+        "friends_count": 1373,
+        "geo_enabled": true,
+        "id": 24195214,
+        "id_str": "24195214",
+        "listed_count": 1752,
+        "location": "Chicago, IL",
+        "name": "Jan Schakowsky",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24195214/1546478385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978337720757096448/2aKjNkwQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978337720757096448/2aKjNkwQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "janschakowsky",
+        "statuses_count": 7981,
+        "url": "https://t.co/qdNbWpywjL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 853635595863719936,
+            "id_str": "853635595863719936",
+            "name": "Indivisible Evanston",
+            "screen_name": "IndivisibleEV"
+        }
+    ]
+}

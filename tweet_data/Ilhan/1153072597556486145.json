@@ -1,0 +1,138 @@
+{
+    "created_at": "Sun Jul 21 22:41:44 +0000 2019",
+    "favorite_count": 2240,
+    "hashtags": [],
+    "id": 1153072597556486145,
+    "id_str": "1153072597556486145",
+    "in_reply_to_screen_name": "Ilhan",
+    "in_reply_to_status_id": 1153070483237216256,
+    "in_reply_to_user_id": 1082334352711790593,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Fkut4f6vZT",
+            "expanded_url": "https://twitter.com/Ilhan/status/1153072597556486145/video/1",
+            "id": 1153072555374387201,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1153072555374387201/pu/img/6G5mkhQF8q9lzDVi.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1153072555374387201/pu/img/6G5mkhQF8q9lzDVi.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Fkut4f6vZT",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 7718,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1153072555374387201/pu/vid/360x640/f3w8U4jSKsM2vUvp.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1153072555374387201/pu/vid/320x568/RDQplGW5c8fz4FBf.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1153072555374387201/pu/vid/720x1280/p6GuVPfFcNQQlJN3.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1153072555374387201/pu/pl/90CM9t-QuxKpecsd.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "place": {
+        "id": "fe577a7e304136b4",
+        "url": "https://api.twitter.com/1.1/geo/id/fe577a7e304136b4.json",
+        "place_type": "city",
+        "name": "Edina",
+        "full_name": "Edina, MN",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -93.402474,
+                        44.8598201
+                    ],
+                    [
+                        -93.318726,
+                        44.8598201
+                    ],
+                    [
+                        -93.318726,
+                        44.930624
+                    ],
+                    [
+                        -93.402474,
+                        44.930624
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 175,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I love pick-up soccer! Next time I\u2019ll bring my A-game! \u26bd\ufe0f\ud83d\ude02 https://t.co/Fkut4f6vZT",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 07 17:53:13 +0000 2019",
+        "default_profile": true,
+        "description": "Representing Minnesota's 5th District in the People's House. @USProgressives Whip and Midwest Regional Whip.",
+        "favourites_count": 677,
+        "followers_count": 413733,
+        "friends_count": 320,
+        "geo_enabled": true,
+        "id": 1082334352711790593,
+        "id_str": "1082334352711790593",
+        "listed_count": 1275,
+        "location": "Minneapolis, MN and Washington, DC",
+        "name": "Rep. Ilhan Omar",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082334352711790593/1546985315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082685661621178373/ledtkemL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082685661621178373/ledtkemL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Ilhan",
+        "statuses_count": 1117,
+        "url": "https://t.co/etKOoQglhI",
+        "verified": true
+    },
+    "user_mentions": []
+}

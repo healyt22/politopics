@@ -1,0 +1,129 @@
+{
+    "created_at": "Thu Aug 01 13:47:31 +0000 2019",
+    "hashtags": [],
+    "id": 1156924422193852416,
+    "id_str": "1156924422193852416",
+    "lang": "en",
+    "retweet_count": 13,
+    "retweeted_status": {
+        "created_at": "Wed Jul 31 13:18:54 +0000 2019",
+        "favorite_count": 82,
+        "hashtags": [],
+        "id": 1156554831898828806,
+        "id_str": "1156554831898828806",
+        "lang": "en",
+        "retweet_count": 13,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @SenCortezMasto and @SenJackyRosen for hosting us at your Battle Born Breakfast! This @MomsDemand volunte\u2026 https://t.co/gV2KMv0uGt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1156554831898828806",
+                "url": "https://t.co/gV2KMv0uGt"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 28 03:18:02 +0000 2015",
+            "default_profile": true,
+            "description": "proud mama of 2 girls, wild feminist, survivor, community activist, action figure, and volunteer for @momsdemand. all opinions are my own. she/her.",
+            "favourites_count": 13363,
+            "followers_count": 5961,
+            "friends_count": 5864,
+            "geo_enabled": true,
+            "id": 3048430298,
+            "id_str": "3048430298",
+            "listed_count": 22,
+            "location": "Las Vegas, NV",
+            "name": "lisa hendricks",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3048430298/1561928323",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1160217051887099906/9SHskltj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160217051887099906/9SHskltj_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MsLisaHendricks",
+            "statuses_count": 4132,
+            "url": "https://t.co/v2Z6UdGS2v"
+        },
+        "user_mentions": [
+            {
+                "id": 811313565760163844,
+                "id_str": "811313565760163844",
+                "name": "Senator Cortez Masto",
+                "screen_name": "SenCortezMasto"
+            },
+            {
+                "id": 818554054309715969,
+                "id_str": "818554054309715969",
+                "name": "Senator Jacky Rosen",
+                "screen_name": "SenJackyRosen"
+            },
+            {
+                "id": 1017637447,
+                "id_str": "1017637447",
+                "name": "Moms Demand Action",
+                "screen_name": "MomsDemand"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @MsLisaHendricks: Thank you @SenCortezMasto and @SenJackyRosen for hosting us at your Battle Born Breakfast! This @MomsDemand volunteer\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 09 20:24:29 +0000 2017",
+        "default_profile": true,
+        "description": "U.S. Senator for Nevada.",
+        "favourites_count": 149,
+        "followers_count": 21274,
+        "friends_count": 238,
+        "id": 818554054309715969,
+        "id_str": "818554054309715969",
+        "listed_count": 532,
+        "location": "Las Vegas, NV",
+        "name": "Senator Jacky Rosen",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818554054309715969/1546525180",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJackyRosen",
+        "statuses_count": 4202,
+        "url": "https://t.co/BHuJG9D5U9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3048430298,
+            "id_str": "3048430298",
+            "name": "lisa hendricks",
+            "screen_name": "MsLisaHendricks"
+        },
+        {
+            "id": 811313565760163844,
+            "id_str": "811313565760163844",
+            "name": "Senator Cortez Masto",
+            "screen_name": "SenCortezMasto"
+        },
+        {
+            "id": 818554054309715969,
+            "id_str": "818554054309715969",
+            "name": "Senator Jacky Rosen",
+            "screen_name": "SenJackyRosen"
+        },
+        {
+            "id": 1017637447,
+            "id_str": "1017637447",
+            "name": "Moms Demand Action",
+            "screen_name": "MomsDemand"
+        }
+    ]
+}

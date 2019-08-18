@@ -1,0 +1,132 @@
+{
+    "created_at": "Tue Jul 16 20:15:11 +0000 2019",
+    "hashtags": [],
+    "id": 1151223773774974976,
+    "id_str": "1151223773774974976",
+    "lang": "en",
+    "retweet_count": 35,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 20:14:28 +0000 2019",
+        "favorite_count": 65,
+        "hashtags": [],
+        "id": 1151223594434859009,
+        "id_str": "1151223594434859009",
+        "lang": "en",
+        "retweet_count": 35,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "IT'S OFFICIAL: @Interior @SecBernhardt announced that @BLMNational will be moving its headquarters to Grand Junctio\u2026 https://t.co/bBMZsSHJeh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151223594434859009",
+                "url": "https://t.co/bBMZsSHJeh"
+            }
+        ],
+        "user": {
+            "created_at": "Mon May 17 21:03:10 +0000 2010",
+            "description": "Delivering smarter land, water, and energy policy.",
+            "favourites_count": 6633,
+            "followers_count": 5309,
+            "friends_count": 2910,
+            "geo_enabled": true,
+            "id": 144986277,
+            "id_str": "144986277",
+            "listed_count": 107,
+            "location": "Washington, DC",
+            "name": "Western Caucus",
+            "profile_background_color": "537D8F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/144986277/1565192767",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1141336286537682945/73jtPBjg_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141336286537682945/73jtPBjg_normal.png",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "screen_name": "westerncaucus",
+            "statuses_count": 8144,
+            "url": "https://t.co/UEWq2bVEzH",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 76348185,
+                "id_str": "76348185",
+                "name": "US Department of the Interior",
+                "screen_name": "Interior"
+            },
+            {
+                "id": 821456935421693952,
+                "id_str": "821456935421693952",
+                "name": "Secretary David Bernhardt",
+                "screen_name": "SecBernhardt"
+            },
+            {
+                "id": 140457196,
+                "id_str": "140457196",
+                "name": "BLMNational",
+                "screen_name": "BLMNational"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @westerncaucus: IT'S OFFICIAL: @Interior @SecBernhardt announced that @BLMNational will be moving its headquarters to Grand Junction, Co\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri May 01 18:31:38 +0000 2009",
+        "description": "Teacher, State Rep, State Senator, Congressman for all Alaska for the last 46 years and Dean of the US House.",
+        "favourites_count": 268,
+        "followers_count": 19400,
+        "friends_count": 646,
+        "geo_enabled": true,
+        "id": 37007274,
+        "id_str": "37007274",
+        "listed_count": 1185,
+        "location": "Ft. Yukon, AK",
+        "name": "Rep. Don Young",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37007274/1552674247",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1106619557119254529/WE7PdXxL_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106619557119254529/WE7PdXxL_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repdonyoung",
+        "statuses_count": 1808,
+        "url": "https://t.co/igN7z1qk5z",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 144986277,
+            "id_str": "144986277",
+            "name": "Western Caucus",
+            "screen_name": "westerncaucus"
+        },
+        {
+            "id": 76348185,
+            "id_str": "76348185",
+            "name": "US Department of the Interior",
+            "screen_name": "Interior"
+        },
+        {
+            "id": 821456935421693952,
+            "id_str": "821456935421693952",
+            "name": "Secretary David Bernhardt",
+            "screen_name": "SecBernhardt"
+        },
+        {
+            "id": 140457196,
+            "id_str": "140457196",
+            "name": "BLMNational",
+            "screen_name": "BLMNational"
+        }
+    ]
+}

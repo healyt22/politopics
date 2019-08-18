@@ -1,0 +1,103 @@
+{
+    "created_at": "Fri Jun 14 00:05:50 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1139323020198236160,
+    "id_str": "1139323020198236160",
+    "in_reply_to_screen_name": "RepSusieLee",
+    "in_reply_to_status_id": 1139322850068881424,
+    "in_reply_to_user_id": 1079061579973439488,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/6g3DBq50yI",
+            "expanded_url": "https://twitter.com/RepSusieLee/status/1139323020198236160/video/1",
+            "id": 1139322925381771271,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139322925381771271/pu/img/swwpy2OqW6ww8VVe.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139322925381771271/pu/img/swwpy2OqW6ww8VVe.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/6g3DBq50yI",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 45000,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1139322925381771271/pu/pl/G8Eb9Ve74rPB5tB7.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1139322925381771271/pu/vid/640x360/JhFrjy_f_QuCn5is.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1139322925381771271/pu/vid/1280x720/kixFFAv7nWzLDWyR.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1139322925381771271/pu/vid/480x270/Oh9cLPLgCm2_eYRs.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Watch my remarks in the Tech Mod Subcommittee hearing yesterday\u2b07\ufe0f 5/5 https://t.co/6g3DBq50yI",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Dec 29 17:08:23 +0000 2018",
+        "default_profile": true,
+        "description": "Congresswoman proudly serving the folks in Nevada's 3rd District. Bipartisan Leader. Education Advocate. Wife to Dan and mom to two great kids.",
+        "favourites_count": 180,
+        "followers_count": 9791,
+        "friends_count": 151,
+        "geo_enabled": true,
+        "id": 1079061579973439488,
+        "id_str": "1079061579973439488",
+        "listed_count": 182,
+        "location": "Las Vegas, NV",
+        "name": "Rep. Susie Lee",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079061579973439488/1546532419",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080861522061127680/PO_53d01_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080861522061127680/PO_53d01_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSusieLee",
+        "statuses_count": 1184,
+        "verified": true
+    },
+    "user_mentions": []
+}

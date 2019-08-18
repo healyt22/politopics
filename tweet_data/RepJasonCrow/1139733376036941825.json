@@ -1,0 +1,236 @@
+{
+    "created_at": "Sat Jun 15 03:16:26 +0000 2019",
+    "hashtags": [
+        {
+            "text": "ACA"
+        }
+    ],
+    "id": 1139733376036941825,
+    "id_str": "1139733376036941825",
+    "lang": "en",
+    "quoted_status_id": 1139661162524663815,
+    "quoted_status_id_str": "1139661162524663815",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Jun 14 23:42:40 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "ACA"
+            }
+        ],
+        "id": 1139679580124413952,
+        "id_str": "1139679580124413952",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Fri Jun 14 22:29:29 +0000 2019",
+            "favorite_count": 2,
+            "hashtags": [],
+            "id": 1139661162524663815,
+            "id_str": "1139661162524663815",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/UoVX8pk2zG",
+                    "expanded_url": "https://twitter.com/lpackard/status/1139661162524663815/photo/1",
+                    "id": 1139661154647728130,
+                    "media_url": "http://pbs.twimg.com/media/D9DjyC8W4AIEm5S.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D9DjyC8W4AIEm5S.jpg",
+                    "sizes": {
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/UoVX8pk2zG"
+                }
+            ],
+            "place": {
+                "id": "01ea63d31d2a506d",
+                "url": "https://api.twitter.com/1.1/geo/id/01ea63d31d2a506d.json",
+                "place_type": "city",
+                "name": "Brighton",
+                "full_name": "Brighton, CO",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -104.89098,
+                                39.899695
+                            ],
+                            [
+                                -104.735073,
+                                39.899695
+                            ],
+                            [
+                                -104.735073,
+                                40.024017
+                            ],
+                            [
+                                -104.89098,
+                                40.024017
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 2,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Excellent health care roundtable with @RepJasonCrow and fellow health care advocates in Brighton this afternoon. https://t.co/UoVX8pk2zG",
+            "urls": [],
+            "user": {
+                "created_at": "Fri Mar 21 19:04:00 +0000 2008",
+                "description": "Small biz owner/progressive digital consultant @Power_Thru Co-chair @HealthCareVoter Founder @VoiceHealthCare Cancer survivor Formerly #BlockedByTrump She/hers",
+                "favourites_count": 48753,
+                "followers_count": 20128,
+                "friends_count": 2297,
+                "geo_enabled": true,
+                "id": 14193053,
+                "id_str": "14193053",
+                "listed_count": 364,
+                "location": "Denver, CO",
+                "name": "Laura Packard",
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14193053/1485368879",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1109631622574276608/1z0Xjfrx_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109631622574276608/1z0Xjfrx_normal.png",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "screen_name": "lpackard",
+                "statuses_count": 15688,
+                "url": "https://t.co/wKCkYQbiXm",
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 1080191866509901826,
+                    "id_str": "1080191866509901826",
+                    "name": "Rep. Jason Crow",
+                    "screen_name": "RepJasonCrow"
+                }
+            ]
+        },
+        "quoted_status_id": 1139661162524663815,
+        "quoted_status_id_str": "1139661162524663815",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Thank you @lpackard for your advocacy and @RepJasonCrow for your work on protecting the #ACA and all those who need\u2026 https://t.co/uuO46Gi7Uy",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1139679580124413952",
+                "url": "https://t.co/uuO46Gi7Uy"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 15 19:26:15 +0000 2019",
+            "default_profile": true,
+            "description": "The ACA is under attack and we must stop the healthcare sabotage!",
+            "favourites_count": 163,
+            "followers_count": 72,
+            "friends_count": 284,
+            "id": 1106637753888833536,
+            "id_str": "1106637753888833536",
+            "name": "Coloradans United to Protect Our Care",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106637753888833536/1552933570",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1106637885329952768/NITPLlZh_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106637885329952768/NITPLlZh_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "StopHCsabotage",
+            "statuses_count": 184
+        },
+        "user_mentions": [
+            {
+                "id": 14193053,
+                "id_str": "14193053",
+                "name": "Laura Packard",
+                "screen_name": "lpackard"
+            },
+            {
+                "id": 1080191866509901826,
+                "id_str": "1080191866509901826",
+                "name": "Rep. Jason Crow",
+                "screen_name": "RepJasonCrow"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @StopHCsabotage: Thank you @lpackard for your advocacy and @RepJasonCrow for your work on protecting the #ACA and all those who need acc\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 01 19:59:44 +0000 2019",
+        "description": "Proudly serving #CO06. Member of @hascdemocrats & @housesmallbiz. Vice Chair of Gun Violence Prevention Task Force. Former Army Ranger. Husband. Dad.",
+        "favourites_count": 39,
+        "followers_count": 7335,
+        "friends_count": 393,
+        "id": 1080191866509901826,
+        "id_str": "1080191866509901826",
+        "listed_count": 203,
+        "name": "Rep. Jason Crow",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080191866509901826/1553274406",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080818711815176193/HGVcZOy1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080818711815176193/HGVcZOy1_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepJasonCrow",
+        "statuses_count": 803,
+        "url": "https://t.co/ExWo3nV1Up",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1106637753888833536,
+            "id_str": "1106637753888833536",
+            "name": "Coloradans United to Protect Our Care",
+            "screen_name": "StopHCsabotage"
+        },
+        {
+            "id": 14193053,
+            "id_str": "14193053",
+            "name": "Laura Packard",
+            "screen_name": "lpackard"
+        },
+        {
+            "id": 1080191866509901826,
+            "id_str": "1080191866509901826",
+            "name": "Rep. Jason Crow",
+            "screen_name": "RepJasonCrow"
+        }
+    ]
+}

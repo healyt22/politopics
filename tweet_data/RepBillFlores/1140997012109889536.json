@@ -1,0 +1,125 @@
+{
+    "created_at": "Tue Jun 18 14:57:41 +0000 2019",
+    "hashtags": [],
+    "id": 1140997012109889536,
+    "id_str": "1140997012109889536",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Tue Jun 18 02:29:23 +0000 2019",
+        "favorite_count": 46,
+        "hashtags": [],
+        "id": 1140808699751096320,
+        "id_str": "1140808699751096320",
+        "lang": "en",
+        "place": {
+            "id": "e0060cda70f5f341",
+            "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json",
+            "place_type": "admin",
+            "name": "Texas",
+            "full_name": "Texas, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -106.645646,
+                            25.837092
+                        ],
+                        [
+                            -93.508131,
+                            25.837092
+                        ],
+                        [
+                            -93.508131,
+                            36.500695
+                        ],
+                        [
+                            -106.645646,
+                            36.500695
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "My original \u201cpoint man\u201d Detective Dan Griffith was awarded the Congressional Veterans Commendation by Congressmen B\u2026 https://t.co/8du8OUTXzh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1140808699751096320",
+                "url": "https://t.co/8du8OUTXzh"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 25 21:34:22 +0000 2019",
+            "default_profile": true,
+            "description": "This account is not monitored 24/7. K9, Highway Enforcement, Specialized Operation, Blue Guardians",
+            "favourites_count": 446,
+            "followers_count": 893,
+            "friends_count": 352,
+            "geo_enabled": true,
+            "id": 1088912988176859137,
+            "id_str": "1088912988176859137",
+            "listed_count": 1,
+            "location": "Pflugerville, TX",
+            "name": "Lieutenant B. Makeba Lewis",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088912988176859137/1548453161",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1088916447546564608/1y2cl6XZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088916447546564608/1y2cl6XZ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "lewis_makeba",
+            "statuses_count": 185
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @lewis_makeba: My original \u201cpoint man\u201d Detective Dan Griffith was awarded the Congressional Veterans Commendation by Congressmen Bill Fl\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 12 15:20:23 +0000 2011",
+        "description": "I serve hardworking Texas families in District 17 to rebuild our national security, improve economic opportunity, and protect our Constitutional liberties.",
+        "favourites_count": 4352,
+        "followers_count": 19809,
+        "friends_count": 3779,
+        "geo_enabled": true,
+        "id": 237312687,
+        "id_str": "237312687",
+        "listed_count": 989,
+        "location": "17th District of Texas",
+        "name": "U.S. Representative Bill Flores",
+        "profile_background_color": "3D020D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237312687/1487103224",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558737418287722496/JSryyVjS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/558737418287722496/JSryyVjS_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBillFlores",
+        "statuses_count": 10045,
+        "url": "https://t.co/sdeY8itPYQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1088912988176859137,
+            "id_str": "1088912988176859137",
+            "name": "Lieutenant B. Makeba Lewis",
+            "screen_name": "lewis_makeba"
+        }
+    ]
+}

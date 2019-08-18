@@ -1,0 +1,146 @@
+{
+    "created_at": "Tue Jun 18 18:22:30 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [
+        {
+            "text": "OmaDawgs"
+        },
+        {
+            "text": "CWS19"
+        }
+    ],
+    "id": 1141048556977053706,
+    "id_str": "1141048556977053706",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 18 13:01:02 +0000 2019",
+        "favorite_count": 819,
+        "hashtags": [],
+        "id": 1140967659472936961,
+        "id_str": "1140967659472936961",
+        "lang": "en",
+        "place": {
+            "id": "a84b808ce3f11719",
+            "url": "https://api.twitter.com/1.1/geo/id/a84b808ce3f11719.json",
+            "place_type": "city",
+            "name": "Omaha",
+            "full_name": "Omaha, NE",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.234587,
+                            41.175884
+                        ],
+                        [
+                            -95.872275,
+                            41.175884
+                        ],
+                        [
+                            -95.872275,
+                            41.375558
+                        ],
+                        [
+                            -96.234587,
+                            41.375558
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 118,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Diamond Dawgs &amp; Vandy Boys \u26be\ufe0f\n\n\ud83c\udd9a: Vanderbilt\n\ud83d\udccd: TD Ameritrade Park\n\u23f0: 6 PM CT\n\ud83d\udcfa: ESPN\n\ud83d\udcbb/\ud83d\udcf1: https://t.co/kRuJAqpfcv\u2026 https://t.co/tGNuN2eixj",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://hailst.at/2rHqnjQ",
+                "url": "https://t.co/kRuJAqpfcv"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1140967659472936961",
+                "url": "https://t.co/tGNuN2eixj"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jun 19 18:38:16 +0000 2010",
+            "description": "The official account of Mississippi State Baseball | 11 CWS Appearances | 208 MLB Draft Picks | Home to the only two SEC Triple Crown Winners EVER | #HailState",
+            "favourites_count": 4292,
+            "followers_count": 133983,
+            "friends_count": 317,
+            "geo_enabled": true,
+            "id": 157410178,
+            "id_str": "157410178",
+            "listed_count": 554,
+            "location": "Starkville, MS",
+            "name": "Mississippi State Baseball",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/157410178/1564420232",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1156206935055769600/hzk91V28_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156206935055769600/hzk91V28_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "660000",
+            "profile_text_color": "969696",
+            "profile_use_background_image": true,
+            "screen_name": "HailStateBB",
+            "statuses_count": 61739,
+            "url": "https://t.co/5WnZ0InKuy",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1140967659472936961,
+    "quoted_status_id_str": "1140967659472936961",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "A shot at another upset tonight! Let's go @HailStateBB! #OmaDawgs #CWS19 https://t.co/16SGeoYtd9",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/HailStateBB/status/1140967659472936961",
+            "url": "https://t.co/16SGeoYtd9"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Apr 09 14:17:47 +0000 2018",
+        "default_profile": true,
+        "description": "Office of U.S. Senator Cindy Hyde-Smith (R-Miss.).",
+        "favourites_count": 1041,
+        "followers_count": 7456,
+        "friends_count": 584,
+        "geo_enabled": true,
+        "id": 983348251972816896,
+        "id_str": "983348251972816896",
+        "listed_count": 355,
+        "location": "Brookhaven",
+        "name": "U.S. Senator Cindy Hyde-Smith",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/983348251972816896/1548194897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/991802081119006721/hZJj2JSr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/991802081119006721/hZJj2JSr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenHydeSmith",
+        "statuses_count": 820,
+        "url": "https://t.co/cwhXwzYx2R",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 157410178,
+            "id_str": "157410178",
+            "name": "Mississippi State Baseball",
+            "screen_name": "HailStateBB"
+        }
+    ]
+}

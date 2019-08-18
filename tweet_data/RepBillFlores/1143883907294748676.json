@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jun 26 14:09:10 +0000 2019",
+    "hashtags": [],
+    "id": 1143883907294748676,
+    "id_str": "1143883907294748676",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Tue Jun 25 23:54:13 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1143668750388011010,
+        "id_str": "1143668750388011010",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Today, in partnership with @AustinChamber, we gathered the Central Texas delegation and @RepBillFlores to discuss m\u2026 https://t.co/gmEtToEsNf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143668750388011010",
+                "url": "https://t.co/gmEtToEsNf"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 13 16:04:24 +0000 2016",
+            "default_profile": true,
+            "description": "Samsung U.S. Public Affairs. Follow us for updates on the innovations and issues that improve the lives of our U.S. consumers, employees & communities.",
+            "favourites_count": 180,
+            "followers_count": 2603,
+            "friends_count": 360,
+            "id": 4795520367,
+            "id_str": "4795520367",
+            "listed_count": 33,
+            "location": "Washington, DC",
+            "name": "SamsungDC",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4795520367/1541799596",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1061010574249746433/qeXXiUY7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061010574249746433/qeXXiUY7_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SamsungDC",
+            "statuses_count": 697,
+            "url": "https://t.co/e6CqVwPtbu",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 40818079,
+                "id_str": "40818079",
+                "name": "Austin Chamber",
+                "screen_name": "AustinChamber"
+            },
+            {
+                "id": 237312687,
+                "id_str": "237312687",
+                "name": "U.S. Representative Bill Flores",
+                "screen_name": "RepBillFlores"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @SamsungDC: Today, in partnership with @AustinChamber, we gathered the Central Texas delegation and @RepBillFlores to discuss manufactur\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 12 15:20:23 +0000 2011",
+        "description": "I serve hardworking Texas families in District 17 to rebuild our national security, improve economic opportunity, and protect our Constitutional liberties.",
+        "favourites_count": 4352,
+        "followers_count": 19809,
+        "friends_count": 3779,
+        "geo_enabled": true,
+        "id": 237312687,
+        "id_str": "237312687",
+        "listed_count": 989,
+        "location": "17th District of Texas",
+        "name": "U.S. Representative Bill Flores",
+        "profile_background_color": "3D020D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237312687/1487103224",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558737418287722496/JSryyVjS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/558737418287722496/JSryyVjS_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBillFlores",
+        "statuses_count": 10045,
+        "url": "https://t.co/sdeY8itPYQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 4795520367,
+            "id_str": "4795520367",
+            "name": "SamsungDC",
+            "screen_name": "SamsungDC"
+        },
+        {
+            "id": 40818079,
+            "id_str": "40818079",
+            "name": "Austin Chamber",
+            "screen_name": "AustinChamber"
+        },
+        {
+            "id": 237312687,
+            "id_str": "237312687",
+            "name": "U.S. Representative Bill Flores",
+            "screen_name": "RepBillFlores"
+        }
+    ]
+}

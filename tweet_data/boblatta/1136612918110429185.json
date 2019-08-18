@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Jun 06 12:36:51 +0000 2019",
+    "hashtags": [],
+    "id": 1136612918110429185,
+    "id_str": "1136612918110429185",
+    "lang": "en",
+    "retweet_count": 51,
+    "retweeted_status": {
+        "created_at": "Mon Jun 03 18:30:04 +0000 2019",
+        "favorite_count": 132,
+        "hashtags": [],
+        "id": 1135614644758953986,
+        "id_str": "1135614644758953986",
+        "lang": "en",
+        "retweet_count": 51,
+        "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+        "text": "Veterans reflect on 75th anniversary of D-Day https://t.co/PoM8gE41RI via @CBSNews",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/315jecn",
+                "url": "https://t.co/PoM8gE41RI"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 29 20:32:28 +0000 2009",
+            "description": "Official Twitter feed of the U.S. Department of Veterans Affairs. Following a Twitter user does not signify VA endorsement.",
+            "favourites_count": 1490,
+            "followers_count": 627857,
+            "friends_count": 746,
+            "geo_enabled": true,
+            "id": 78408666,
+            "id_str": "78408666",
+            "listed_count": 4474,
+            "location": "Washington, D.C.",
+            "name": "Veterans Affairs",
+            "profile_background_color": "F4F4F7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/78408666/1549424576",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/344513261565984455/a9fcce7feb947b2ec498491c6c6d6985_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261565984455/a9fcce7feb947b2ec498491c6c6d6985_normal.png",
+            "profile_link_color": "3277A8",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E4EBF0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DeptVetAffairs",
+            "statuses_count": 29441,
+            "url": "https://t.co/kfcLwsAHxx",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 15012486,
+                "id_str": "15012486",
+                "name": "CBS News",
+                "screen_name": "CBSNews"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @DeptVetAffairs: Veterans reflect on 75th anniversary of D-Day https://t.co/PoM8gE41RI via @CBSNews",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/315jecn",
+            "url": "https://t.co/PoM8gE41RI"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 11 18:33:24 +0000 2008",
+        "description": "Representing #OH5. Deputy Whip. Member of @HouseCommerce Committee. Republican Leader of the Communications and Technology Subcommittee.",
+        "favourites_count": 540,
+        "followers_count": 37780,
+        "friends_count": 2940,
+        "geo_enabled": true,
+        "id": 15394954,
+        "id_str": "15394954",
+        "listed_count": 1350,
+        "name": "U.S. Rep. Bob Latta",
+        "profile_background_color": "4F4F4F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15394954/1565216908",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621369511636135937/Zk5PgsWw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621369511636135937/Zk5PgsWw_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "550000",
+        "profile_sidebar_fill_color": "B2CEED",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "boblatta",
+        "statuses_count": 7168,
+        "url": "https://t.co/CIaeduqh2k",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 78408666,
+            "id_str": "78408666",
+            "name": "Veterans Affairs",
+            "screen_name": "DeptVetAffairs"
+        },
+        {
+            "id": 15012486,
+            "id_str": "15012486",
+            "name": "CBS News",
+            "screen_name": "CBSNews"
+        }
+    ]
+}

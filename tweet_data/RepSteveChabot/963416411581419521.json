@@ -1,0 +1,159 @@
+{
+    "created_at": "Tue Feb 13 14:15:46 +0000 2018",
+    "hashtags": [
+        {
+            "text": "StartupCincy"
+        }
+    ],
+    "id": 963416411581419521,
+    "id_str": "963416411581419521",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Mon Feb 12 19:51:30 +0000 2018",
+        "favorite_count": 26,
+        "hashtags": [
+            {
+                "text": "StartupCincy"
+            }
+        ],
+        "id": 963138514446700546,
+        "id_str": "963138514446700546",
+        "lang": "en",
+        "place": {
+            "id": "08c676b8f9951000",
+            "url": "https://api.twitter.com/1.1/geo/id/08c676b8f9951000.json",
+            "place_type": "poi",
+            "name": "Union Hall",
+            "full_name": "Union Hall",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.5153732820315,
+                            39.10993293152982
+                        ],
+                        [
+                            -84.5153732820315,
+                            39.10993293152982
+                        ],
+                        [
+                            -84.5153732820315,
+                            39.10993293152982
+                        ],
+                        [
+                            -84.5153732820315,
+                            39.10993293152982
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you, @RepSteveChabot, for coming to spend time in @UnionHallCincy today!\n\n#StartupCincy\u2019s entrepreneurs, inve\u2026 https://t.co/H5pkvLhv5S",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/963138514446700546",
+                "url": "https://t.co/H5pkvLhv5S"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 08 03:32:52 +0000 2012",
+            "description": "We are a collaborative force for innovation in Greater Cincinnati | Our Active Network = entrepreneurs, investors, BigCos, startups + talent | #StartupCincy",
+            "favourites_count": 8801,
+            "followers_count": 7638,
+            "friends_count": 2354,
+            "geo_enabled": true,
+            "id": 602426702,
+            "id_str": "602426702",
+            "listed_count": 320,
+            "location": "Cincinnati",
+            "name": "Cintrifuse",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/602426702/1534797122",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/654273628654047232/wSN3i4I6_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/654273628654047232/wSN3i4I6_normal.png",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "cintrifuse",
+            "statuses_count": 8456,
+            "url": "https://t.co/PYSjhqEec1"
+        },
+        "user_mentions": [
+            {
+                "id": 237750442,
+                "id_str": "237750442",
+                "name": "Rep. Steve Chabot",
+                "screen_name": "RepSteveChabot"
+            },
+            {
+                "id": 723580171823935489,
+                "id_str": "723580171823935489",
+                "name": "Union Hall",
+                "screen_name": "UnionHallCincy"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @cintrifuse: Thank you, @RepSteveChabot, for coming to spend time in @UnionHallCincy today!\n\n#StartupCincy\u2019s entrepreneurs, investors an\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 13 15:03:08 +0000 2011",
+        "description": "Husband, grandpa, public servant, & proud Cincinnatian. Chairman of @HouseSmallBiz & senior Member on @HouseJudiciary & @HouseForeign.",
+        "favourites_count": 1767,
+        "followers_count": 27966,
+        "friends_count": 3008,
+        "geo_enabled": true,
+        "id": 237750442,
+        "id_str": "237750442",
+        "listed_count": 1106,
+        "location": "Cincinnati",
+        "name": "Rep. Steve Chabot",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237750442/1506718866",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+        "profile_link_color": "666666",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B1D3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepSteveChabot",
+        "statuses_count": 3252,
+        "url": "https://t.co/uGxNrFAFsk",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 602426702,
+            "id_str": "602426702",
+            "name": "Cintrifuse",
+            "screen_name": "cintrifuse"
+        },
+        {
+            "id": 237750442,
+            "id_str": "237750442",
+            "name": "Rep. Steve Chabot",
+            "screen_name": "RepSteveChabot"
+        },
+        {
+            "id": 723580171823935489,
+            "id_str": "723580171823935489",
+            "name": "Union Hall",
+            "screen_name": "UnionHallCincy"
+        }
+    ]
+}

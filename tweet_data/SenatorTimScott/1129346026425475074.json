@@ -1,0 +1,81 @@
+{
+    "created_at": "Fri May 17 11:20:49 +0000 2019",
+    "favorite_count": 289,
+    "hashtags": [],
+    "id": 1129346026425475074,
+    "id_str": "1129346026425475074",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/G9Y88M9OzO",
+            "expanded_url": "https://twitter.com/SenatorTimScott/status/1129346026425475074/photo/1",
+            "id": 1129346019639156736,
+            "media_url": "http://pbs.twimg.com/media/D6w-OKkX4AAr2cD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6w-OKkX4AAr2cD.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/G9Y88M9OzO"
+        }
+    ],
+    "retweet_count": 24,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "On @foxandfriends now! https://t.co/G9Y88M9OzO",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Nov 19 20:34:30 +0000 2010",
+        "description": "United States Senator from South Carolina",
+        "favourites_count": 1648,
+        "followers_count": 378192,
+        "friends_count": 3890,
+        "geo_enabled": true,
+        "id": 217543151,
+        "id_str": "217543151",
+        "listed_count": 3649,
+        "location": "South Carolina",
+        "name": "Tim Scott",
+        "profile_background_color": "E0DBC8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217543151/1550264874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_link_color": "606060",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EBE9DC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTimScott",
+        "statuses_count": 7971,
+        "url": "https://t.co/EoB6giYuOp",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15513604,
+            "id_str": "15513604",
+            "name": "FOX & friends",
+            "screen_name": "foxandfriends"
+        }
+    ]
+}

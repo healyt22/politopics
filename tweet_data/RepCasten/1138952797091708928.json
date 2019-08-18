@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jun 12 23:34:42 +0000 2019",
+    "hashtags": [],
+    "id": 1138952797091708928,
+    "id_str": "1138952797091708928",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Jun 12 20:35:43 +0000 2019",
+        "favorite_count": 31,
+        "hashtags": [],
+        "id": 1138907755878764544,
+        "id_str": "1138907755878764544",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Had a ton of fun with @Illinois_Alma Chancellor Robert Jones and @RepCasten presenting an @IlliniFootball helmet to\u2026 https://t.co/GSUXQZtOmG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138907755878764544",
+                "url": "https://t.co/GSUXQZtOmG"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 02 18:01:55 +0000 2014",
+            "description": "Official Twitter for the @UofILSystem Governmental Relations Office",
+            "favourites_count": 605,
+            "followers_count": 844,
+            "friends_count": 1297,
+            "geo_enabled": true,
+            "id": 2273358264,
+            "id_str": "2273358264",
+            "listed_count": 53,
+            "name": "U of I Governmental Relations",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2273358264/1563549100",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/976537482660581377/9SdnwV4c_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/976537482660581377/9SdnwV4c_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "uofigovrelation",
+            "statuses_count": 1737,
+            "url": "https://t.co/EaURAPqWxl"
+        },
+        "user_mentions": [
+            {
+                "id": 18165866,
+                "id_str": "18165866",
+                "name": "University of Illinois",
+                "screen_name": "Illinois_Alma"
+            },
+            {
+                "id": 1083472286089396224,
+                "id_str": "1083472286089396224",
+                "name": "Rep. Sean Casten",
+                "screen_name": "RepCasten"
+            },
+            {
+                "id": 26791995,
+                "id_str": "26791995",
+                "name": "Illinois Football",
+                "screen_name": "IlliniFootball"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @uofigovrelation: Had a ton of fun with @Illinois_Alma Chancellor Robert Jones and @RepCasten presenting an @IlliniFootball helmet to di\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 10 21:14:57 +0000 2019",
+        "description": "Official twitter account for Rep. Sean Casten, representing #IL06.",
+        "favourites_count": 11,
+        "followers_count": 10205,
+        "friends_count": 692,
+        "id": 1083472286089396224,
+        "id_str": "1083472286089396224",
+        "listed_count": 160,
+        "name": "Rep. Sean Casten",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083472286089396224/1560287343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100458327002304513/mINz-ss-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100458327002304513/mINz-ss-_normal.png",
+        "profile_link_color": "46819C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepCasten",
+        "statuses_count": 718,
+        "url": "https://t.co/hJKrtCC1y8",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2273358264,
+            "id_str": "2273358264",
+            "name": "U of I Governmental Relations",
+            "screen_name": "uofigovrelation"
+        },
+        {
+            "id": 18165866,
+            "id_str": "18165866",
+            "name": "University of Illinois",
+            "screen_name": "Illinois_Alma"
+        },
+        {
+            "id": 1083472286089396224,
+            "id_str": "1083472286089396224",
+            "name": "Rep. Sean Casten",
+            "screen_name": "RepCasten"
+        },
+        {
+            "id": 26791995,
+            "id_str": "26791995",
+            "name": "Illinois Football",
+            "screen_name": "IlliniFootball"
+        }
+    ]
+}

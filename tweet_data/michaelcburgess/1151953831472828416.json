@@ -1,0 +1,128 @@
+{
+    "created_at": "Thu Jul 18 20:36:10 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1151953831472828416,
+    "id_str": "1151953831472828416",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 09 18:52:07 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1148666154677936130,
+        "id_str": "1148666154677936130",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you to Representatives @michaelcburgess, @RepMGriffith, Gianforte, &amp; @repgusbilirakis for your leadership in\u2026 https://t.co/6eiZaZLJai",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148666154677936130",
+                "url": "https://t.co/6eiZaZLJai"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 16 14:23:50 +0000 2014",
+            "default_profile": true,
+            "description": "Commissioner - Federal Communications Commission",
+            "favourites_count": 2388,
+            "followers_count": 7783,
+            "friends_count": 749,
+            "geo_enabled": true,
+            "id": 2651190312,
+            "id_str": "2651190312",
+            "listed_count": 141,
+            "location": "Washington DC",
+            "name": "Brendan Carr",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2651190312/1532028298",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/897829527665090560/ZcrsepeH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/897829527665090560/ZcrsepeH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BrendanCarrFCC",
+            "statuses_count": 3118,
+            "url": "https://t.co/HrNEj0Udzu",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 15751083,
+                "id_str": "15751083",
+                "name": "Michael Burgess, MD",
+                "screen_name": "michaelcburgess"
+            },
+            {
+                "id": 234057152,
+                "id_str": "234057152",
+                "name": "Morgan Griffith",
+                "screen_name": "RepMGriffith"
+            },
+            {
+                "id": 26051676,
+                "id_str": "26051676",
+                "name": "Gus Bilirakis",
+                "screen_name": "RepGusBilirakis"
+            }
+        ]
+    },
+    "quoted_status_id": 1148666154677936130,
+    "quoted_status_id_str": "1148666154677936130",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "ICYMI: I recently sent a letter to Commissioner @BrendanCarrFCC in support of the @FCC's work to expand access to t\u2026 https://t.co/kCwDeOeHTa",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151953831472828416",
+            "url": "https://t.co/kCwDeOeHTa"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Aug 06 15:25:19 +0000 2008",
+        "description": "Congressman for Texas' 26th District, M.D. (Ob/Gyn) in my former life",
+        "favourites_count": 117,
+        "followers_count": 28491,
+        "friends_count": 1970,
+        "geo_enabled": true,
+        "id": 15751083,
+        "id_str": "15751083",
+        "listed_count": 1502,
+        "location": "Washington, DC/Lake Dallas, TX",
+        "name": "Michael Burgess, MD",
+        "profile_background_color": "090A8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15751083/1483312385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FF2941",
+        "profile_sidebar_fill_color": "E2E3E9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "michaelcburgess",
+        "statuses_count": 5754,
+        "url": "http://t.co/qj3aLBJUa9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2651190312,
+            "id_str": "2651190312",
+            "name": "Brendan Carr",
+            "screen_name": "BrendanCarrFCC"
+        },
+        {
+            "id": 66369206,
+            "id_str": "66369206",
+            "name": "The FCC",
+            "screen_name": "FCC"
+        }
+    ]
+}

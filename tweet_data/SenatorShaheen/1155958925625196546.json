@@ -1,0 +1,128 @@
+{
+    "created_at": "Mon Jul 29 21:50:59 +0000 2019",
+    "favorite_count": 36,
+    "hashtags": [],
+    "id": 1155958925625196546,
+    "id_str": "1155958925625196546",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jul 29 20:02:11 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1155931548224389121,
+        "id_str": "1155931548224389121",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/23g861QbGC",
+                "expanded_url": "https://twitter.com/nhpr/status/1155931548224389121/photo/1",
+                "id": 1155931546554998784,
+                "media_url": "http://pbs.twimg.com/media/EAqxngEUIAALmFs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAqxngEUIAALmFs.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 425,
+                        "h": 282,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 425,
+                        "h": 282,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 425,
+                        "h": 282,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/23g861QbGC"
+            }
+        ],
+        "retweet_count": 9,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "Federal Judge Blocks Implementation of N.H. Medicaid Work Requirement: https://t.co/U6sdLahKQz https://t.co/23g861QbGC",
+        "urls": [
+            {
+                "expanded_url": "http://ow.ly/crCO50vfADA",
+                "url": "https://t.co/U6sdLahKQz"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 27 07:05:22 +0000 2007",
+            "description": "New Hampshire Public Radio on Twitter. News, politics, culture, local programs, and more.",
+            "favourites_count": 1793,
+            "followers_count": 41859,
+            "friends_count": 1911,
+            "geo_enabled": true,
+            "id": 10649692,
+            "id_str": "10649692",
+            "listed_count": 812,
+            "location": "New Hampshire, USA",
+            "name": "NH Public Radio",
+            "profile_background_color": "D3222A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/10649692/1433886022",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/608387873667186690/zkKvDtr__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/608387873667186690/zkKvDtr__normal.jpg",
+            "profile_link_color": "D8292D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DFDED7",
+            "profile_text_color": "000000",
+            "screen_name": "nhpr",
+            "statuses_count": 41983,
+            "url": "http://t.co/idj231GsvB",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1155931548224389121,
+    "quoted_status_id_str": "1155931548224389121",
+    "retweet_count": 11,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Today\u2019s ruling is good news for Granite Staters at risk of losing access to health care received through the bipart\u2026 https://t.co/mL91HdkqCZ",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1155958925625196546",
+            "url": "https://t.co/mL91HdkqCZ"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 28 15:22:44 +0000 2010",
+        "description": "Proud Granite Stater serving New Hampshire in the US Senate. Former Governor. Mother & Grandmother. Frequent Flyer. Pats & Red Sox Fan. Outdoor enthusiast.",
+        "favourites_count": 396,
+        "followers_count": 106193,
+        "friends_count": 2915,
+        "geo_enabled": true,
+        "id": 109287731,
+        "id_str": "109287731",
+        "listed_count": 2306,
+        "location": "Washington, DC",
+        "name": "Sen. Jeanne Shaheen",
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/109287731/1527175584",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994599196652199936/zKIvaqMU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994599196652199936/zKIvaqMU_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorShaheen",
+        "statuses_count": 8071,
+        "url": "https://t.co/6hHVU7yiOK",
+        "verified": true
+    },
+    "user_mentions": []
+}

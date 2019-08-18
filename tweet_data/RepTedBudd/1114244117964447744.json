@@ -1,0 +1,100 @@
+{
+    "created_at": "Fri Apr 05 19:11:14 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [],
+    "id": 1114244117964447744,
+    "id_str": "1114244117964447744",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Gn11mZayrq",
+            "expanded_url": "https://twitter.com/RepTedBudd/status/1114244117964447744/video/1",
+            "id": 1114242654668238849,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1114242654668238849/pu/img/EyWsJJ-rvXNI8ZTB.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1114242654668238849/pu/img/EyWsJJ-rvXNI8ZTB.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Gn11mZayrq",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 115532,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1114242654668238849/pu/vid/320x180/kmRFn507VEevt4qY.mp4?tag=8"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1114242654668238849/pu/pl/HafejSc9tie8SW3u.m3u8?tag=8"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1114242654668238849/pu/vid/1280x720/_x7NqdIPf_tXbpNn.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1114242654668238849/pu/vid/640x360/mBPoiBubzlVhNLjH.mp4?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Don\u2019t miss this week\u2019s Budd Report, highlighting my week in Washington. https://t.co/Gn11mZayrq",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 05 22:39:33 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly serving the 13th district of North Carolina. #NC13",
+        "favourites_count": 71,
+        "followers_count": 10308,
+        "friends_count": 208,
+        "id": 817138492614524928,
+        "id_str": "817138492614524928",
+        "listed_count": 333,
+        "location": "Davie County, North Carolina",
+        "name": "Ted Budd",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817138492614524928/1485880195",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/987039452483739648/Hs7YypAA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/987039452483739648/Hs7YypAA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTedBudd",
+        "statuses_count": 1503,
+        "url": "https://t.co/VTsvWe0pia",
+        "verified": true
+    },
+    "user_mentions": []
+}

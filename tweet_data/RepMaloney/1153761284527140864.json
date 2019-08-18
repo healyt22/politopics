@@ -1,0 +1,163 @@
+{
+    "created_at": "Tue Jul 23 20:18:20 +0000 2019",
+    "hashtags": [],
+    "id": 1153761284527140864,
+    "id_str": "1153761284527140864",
+    "lang": "en",
+    "retweet_count": 193,
+    "retweeted_status": {
+        "created_at": "Tue Jul 23 20:17:58 +0000 2019",
+        "favorite_count": 941,
+        "hashtags": [],
+        "id": 1153761192101515265,
+        "id_str": "1153761192101515265",
+        "in_reply_to_screen_name": "SpectrumNewsDC",
+        "in_reply_to_status_id": 1153759418619748354,
+        "in_reply_to_user_id": 976528480635629568,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GoZbA6wE5M",
+                "expanded_url": "https://twitter.com/SpectrumNewsDC/status/1153761192101515265/video/1",
+                "id": 1153761089408176129,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1153761089408176129/pu/img/F3JW5tF8c2NHxh-4.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1153761089408176129/pu/img/F3JW5tF8c2NHxh-4.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/GoZbA6wE5M",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 5403,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1153761089408176129/pu/vid/640x360/-zuaEYSHZXwFsfh8.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1153761089408176129/pu/vid/480x270/1IncMpmlpZAAPnEX.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1153761089408176129/pu/pl/exkb_WDmQbhn4BBg.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1153761089408176129/pu/vid/1280x720/2Hz808RuJ1v2FH4Y.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 193,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@RepMaloney finally gets to take her FDNY jacket off. She swore to wear it every day until the bill passed. https://t.co/GoZbA6wE5M",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Mar 21 18:38:27 +0000 2018",
+            "default_profile": true,
+            "description": "Provides localized coverage of breaking news, politics, and key issues from DC for Spectrum channels in NY, NC, FL, TX, OH, KY, WI and CA.",
+            "favourites_count": 717,
+            "followers_count": 1106,
+            "friends_count": 1127,
+            "geo_enabled": true,
+            "id": 976528480635629568,
+            "id_str": "976528480635629568",
+            "listed_count": 39,
+            "location": "Washington, DC",
+            "name": "Spectrum News DC",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/976528480635629568/1544119630",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/992479806305525760/3Z93OyBV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/992479806305525760/3Z93OyBV_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SpectrumNewsDC",
+            "statuses_count": 2574,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 258900199,
+                "id_str": "258900199",
+                "name": "Carolyn  B. Maloney",
+                "screen_name": "RepMaloney"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SpectrumNewsDC: .@RepMaloney finally gets to take her FDNY jacket off. She swore to wear it every day until the bill passed. https://t.\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Feb 28 19:06:50 +0000 2011",
+        "description": "Honored to rep #NY12 in the US House. A progressive fmr teacher fighting for #Manhattan, #Brooklyn & #Queens. Proud to wear FDNY coat to #renew911VCF! DMs open",
+        "favourites_count": 6408,
+        "followers_count": 42347,
+        "friends_count": 3281,
+        "geo_enabled": true,
+        "id": 258900199,
+        "id_str": "258900199",
+        "listed_count": 1323,
+        "location": "New York City",
+        "name": "Carolyn  B. Maloney",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258900199/1549467399",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842059480842047488/j3HHDZiW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMaloney",
+        "statuses_count": 10833,
+        "url": "https://t.co/EhTt891RCX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 976528480635629568,
+            "id_str": "976528480635629568",
+            "name": "Spectrum News DC",
+            "screen_name": "SpectrumNewsDC"
+        },
+        {
+            "id": 258900199,
+            "id_str": "258900199",
+            "name": "Carolyn  B. Maloney",
+            "screen_name": "RepMaloney"
+        }
+    ]
+}

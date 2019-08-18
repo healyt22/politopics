@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jun 20 19:31:47 +0000 2018",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1009519198723366923,
+    "id_str": "1009519198723366923",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 20 12:45:46 +0000 2018",
+        "favorite_count": 7781,
+        "hashtags": [],
+        "id": 1009417019828129795,
+        "id_str": "1009417019828129795",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/wXXC8urswV",
+                "expanded_url": "https://twitter.com/SecPompeo/status/1009417019828129795/photo/1",
+                "id": 1009416862986358784,
+                "media_url": "http://pbs.twimg.com/media/DgIrSeyXUAA8zEF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DgIrSeyXUAA8zEF.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/wXXC8urswV"
+            }
+        ],
+        "retweet_count": 2982,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Hmm\u2026 Can this be explained? https://t.co/wXXC8urswV",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Apr 24 00:20:22 +0000 2018",
+            "description": "70th U.S. Secretary of @StateDept, working alongside the world\u2019s finest diplomatic corps. Husband, father, Army veteran, and proud Kansan.",
+            "favourites_count": 9,
+            "followers_count": 757986,
+            "friends_count": 49,
+            "id": 988573326376427520,
+            "id_str": "988573326376427520",
+            "listed_count": 3066,
+            "name": "Secretary Pompeo",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/988573326376427520/1525190402",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1014454396522934273/w_96hmja_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014454396522934273/w_96hmja_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "SecPompeo",
+            "statuses_count": 1180,
+            "url": "https://t.co/eFqP1DyLiJ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1009417019828129795,
+    "quoted_status_id_str": "1009417019828129795",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The protests highlight the distinction between the ideals and priorities of the Iranian people and the actions of t\u2026 https://t.co/bxAR3aVhaV",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1009519198723366923",
+            "url": "https://t.co/bxAR3aVhaV"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 03 02:39:21 +0000 2017",
+        "default_profile": true,
+        "description": "Honored to serve the citizens of Florida's 19th Congressional District. Official Government account.",
+        "favourites_count": 276,
+        "followers_count": 7021,
+        "friends_count": 452,
+        "id": 816111677917851649,
+        "id_str": "816111677917851649",
+        "listed_count": 333,
+        "location": "SWFL",
+        "name": "Francis Rooney",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816111677917851649/1495747447",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865221777693134851/treodBIl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865221777693134851/treodBIl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRooney",
+        "statuses_count": 917,
+        "verified": true
+    },
+    "user_mentions": []
+}

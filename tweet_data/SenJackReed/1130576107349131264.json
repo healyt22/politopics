@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon May 20 20:48:43 +0000 2019",
+    "hashtags": [],
+    "id": 1130576107349131264,
+    "id_str": "1130576107349131264",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon May 20 13:27:43 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1130465123989168128,
+        "id_str": "1130465123989168128",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "ICYMI: \"He is an example of bravery and courage we all must emulate,\" @SenJackReed said about Captain Matthew Augus\u2026 https://t.co/AkXSycVzon",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1130465123989168128",
+                "url": "https://t.co/AkXSycVzon"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 29 03:18:58 +0000 2015",
+            "default_profile": true,
+            "description": "Multimedia Journalist @NBC4i. Former MMJ in WV & RI. @elonuniversity & @ElonLocalNews alum. Tweets are my own. RTs not endorsements. Email: ehalperin@wcmh.com",
+            "favourites_count": 1225,
+            "followers_count": 915,
+            "friends_count": 509,
+            "geo_enabled": true,
+            "id": 3393102237,
+            "id_str": "3393102237",
+            "listed_count": 28,
+            "location": "Columbus, OH",
+            "name": "Eric Halperin",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3393102237/1565214137",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1087042954697543686/OBQf7vqE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087042954697543686/OBQf7vqE_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "EricHalperinTV",
+            "statuses_count": 2315,
+            "url": "https://t.co/f2ThGNCS6d"
+        },
+        "user_mentions": [
+            {
+                "id": 486694111,
+                "id_str": "486694111",
+                "name": "Senator Jack Reed",
+                "screen_name": "SenJackReed"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @EricHalperinTV: ICYMI: \"He is an example of bravery and courage we all must emulate,\" @SenJackReed said about Captain Matthew August.\nh\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 08 15:24:01 +0000 2012",
+        "description": "Official Twitter feed of Rhode Island\u2019s U.S. Senator Jack Reed.",
+        "favourites_count": 152,
+        "followers_count": 93739,
+        "friends_count": 36,
+        "id": 486694111,
+        "id_str": "486694111",
+        "listed_count": 1812,
+        "location": "Providence, Rhode Island",
+        "name": "Senator Jack Reed",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/486694111/1431108911",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/611042380846907393/L-JV9zuJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/611042380846907393/L-JV9zuJ_normal.jpg",
+        "profile_link_color": "42398A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJackReed",
+        "statuses_count": 5913,
+        "url": "http://t.co/zRkAemKyYn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3393102237,
+            "id_str": "3393102237",
+            "name": "Eric Halperin",
+            "screen_name": "EricHalperinTV"
+        },
+        {
+            "id": 486694111,
+            "id_str": "486694111",
+            "name": "Senator Jack Reed",
+            "screen_name": "SenJackReed"
+        }
+    ]
+}

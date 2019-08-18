@@ -1,0 +1,121 @@
+{
+    "created_at": "Tue Feb 26 21:37:53 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [],
+    "id": 1100510285201321985,
+    "id_str": "1100510285201321985",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Feb 26 15:26:46 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [
+            {
+                "text": "WashConf2019"
+            }
+        ],
+        "id": 1100416891779272704,
+        "id_str": "1100416891779272704",
+        "lang": "nl",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/oEqNFDSivh",
+                "expanded_url": "https://twitter.com/MarkVMFA251/status/1100416891779272704/photo/1",
+                "id": 1100416883621330945,
+                "media_url": "http://pbs.twimg.com/media/D0V3U00XgAEJD5C.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D0V3U00XgAEJD5C.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/oEqNFDSivh"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "#WashConf2019 ran into Rep John Moolenaar https://t.co/oEqNFDSivh",
+        "urls": [],
+        "user": {
+            "created_at": "Sat May 17 11:47:50 +0000 2014",
+            "default_profile": true,
+            "favourites_count": 152,
+            "followers_count": 35,
+            "friends_count": 83,
+            "geo_enabled": true,
+            "id": 2501376115,
+            "id_str": "2501376115",
+            "name": "Mark Sutton",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1056674561830383619/KGfm8A4q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056674561830383619/KGfm8A4q_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MarkVMFA251",
+            "statuses_count": 140
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1100416891779272704,
+    "quoted_status_id_str": "1100416891779272704",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "It was outstanding to see Ray Moore of Lake City and John Mella of Gladwin at the Capitol today. They are terrific\u2026 https://t.co/MiUIPfgqwL",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1100510285201321985",
+            "url": "https://t.co/MiUIPfgqwL"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 31 21:09:14 +0000 2014",
+        "default_profile": true,
+        "description": "Representing Michigan's Fourth Congressional District. This is the Twitter page of the official House office.",
+        "favourites_count": 470,
+        "followers_count": 11015,
+        "friends_count": 339,
+        "id": 2696643955,
+        "id_str": "2696643955",
+        "listed_count": 417,
+        "name": "Rep. John Moolenaar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696643955/1420046825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoolenaar",
+        "statuses_count": 854,
+        "url": "http://t.co/cwXZtKCJhJ",
+        "verified": true
+    },
+    "user_mentions": []
+}

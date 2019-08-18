@@ -1,0 +1,186 @@
+{
+    "created_at": "Tue May 21 18:11:02 +0000 2019",
+    "favorite_count": 22,
+    "hashtags": [],
+    "id": 1130898811293822976,
+    "id_str": "1130898811293822976",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 21 17:48:04 +0000 2019",
+        "favorite_count": 75,
+        "hashtags": [
+            {
+                "text": "sb179"
+            },
+            {
+                "text": "StopTheBans"
+            }
+        ],
+        "id": 1130893032834813952,
+        "id_str": "1130893032834813952",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Ftg3x0vYX0",
+                "expanded_url": "https://twitter.com/NaralNv/status/1130893032834813952/video/1",
+                "id": 1130892957337280512,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130892957337280512/pu/img/6Q4x-z8RklAOd8Jv.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130892957337280512/pu/img/6Q4x-z8RklAOd8Jv.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/Ftg3x0vYX0",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 24080,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1130892957337280512/pu/vid/1280x720/FL5JeuYF1VO038dn.mp4?tag=9"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1130892957337280512/pu/pl/bNVqDnGIBhGYjCnz.m3u8?tag=9"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1130892957337280512/pu/vid/320x180/FMim14S7S8ncRDdd.mp4?tag=9"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1130892957337280512/pu/vid/640x360/REAmJzQbvGYRcESK.mp4?tag=9"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 24,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "We won't go back! #sb179 #StopTheBans @PPVotesNevada @PLANevada @HRC_NV @IndivisibleLV @ACLUNV https://t.co/Ftg3x0vYX0",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jul 12 20:36:18 +0000 2016",
+            "description": "NARAL Pro-Choice Nevada is a non-profit advancing reproductive freedom for all Nevadans through community organizing, political action and feminist hell raising",
+            "favourites_count": 1906,
+            "followers_count": 1460,
+            "friends_count": 401,
+            "geo_enabled": true,
+            "id": 752964826586947584,
+            "id_str": "752964826586947584",
+            "listed_count": 39,
+            "location": "Nevada, USA",
+            "name": "NARAL Pro-Choice Nevada",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/752964826586947584/1551898849",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960575487759278080/0i5vsxbk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960575487759278080/0i5vsxbk_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "NaralNv",
+            "statuses_count": 2705,
+            "url": "https://t.co/nH0Oh3eRT9"
+        },
+        "user_mentions": [
+            {
+                "id": 17037285,
+                "id_str": "17037285",
+                "name": "Planned Parenthood Votes NV",
+                "screen_name": "PPVotesNevada"
+            },
+            {
+                "id": 18645342,
+                "id_str": "18645342",
+                "name": "PLAN",
+                "screen_name": "PLANevada"
+            },
+            {
+                "id": 981655395558215681,
+                "id_str": "981655395558215681",
+                "name": "HRC in Nevada",
+                "screen_name": "HRC_NV"
+            },
+            {
+                "id": 818651676059893762,
+                "id_str": "818651676059893762",
+                "name": "IndivisibleVegas",
+                "screen_name": "IndivisibleLV"
+            },
+            {
+                "id": 36146709,
+                "id_str": "36146709",
+                "name": "ACLU of Nevada",
+                "screen_name": "ACLUNV"
+            }
+        ]
+    },
+    "quoted_status_id": 1130893032834813952,
+    "quoted_status_id_str": "1130893032834813952",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "While some states across the country are passing restrictive abortion bans, Nevada is standing up to the dangerous\u2026 https://t.co/JOz3zILdLF",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1130898811293822976",
+            "url": "https://t.co/JOz3zILdLF"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Dec 05 20:49:41 +0000 2008",
+        "description": "Representative of Nevada's First District. Tweeting politics, culture & #OnlyInDistrict1.",
+        "favourites_count": 7546,
+        "followers_count": 9301,
+        "friends_count": 1259,
+        "geo_enabled": true,
+        "id": 17907578,
+        "id_str": "17907578",
+        "listed_count": 401,
+        "location": "Fabulous Las Vegas, Nevada",
+        "name": "Dina Titus",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17907578/1485036291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970553299697938434/mBxkAbHq_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "dinatitus",
+        "statuses_count": 7094,
+        "url": "https://t.co/nJxR59HXbP",
+        "verified": true
+    },
+    "user_mentions": []
+}

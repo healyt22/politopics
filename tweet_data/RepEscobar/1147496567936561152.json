@@ -1,0 +1,135 @@
+{
+    "created_at": "Sat Jul 06 13:24:35 +0000 2019",
+    "favorite_count": 422,
+    "hashtags": [],
+    "id": 1147496567936561152,
+    "id_str": "1147496567936561152",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Jul 06 12:47:50 +0000 2019",
+        "favorite_count": 409,
+        "hashtags": [],
+        "id": 1147487319508869120,
+        "id_str": "1147487319508869120",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 486,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "TIP: Democratic congresswoman secretly sending staff into Mexico to coach asylum-seekers https://t.co/t2DjJ5OsKx",
+        "urls": [
+            {
+                "expanded_url": "https://washex.am/2XrFPS9",
+                "url": "https://t.co/t2DjJ5OsKx"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jan 06 02:20:33 +0000 2013",
+            "description": "Homeland Security Reporter @DCexaminer \u273d Alumni Board @AsburyUniv \u273d Bylines @Oregonian @RollCall @msn \u273d Either on the border or planning the next trip",
+            "favourites_count": 4038,
+            "followers_count": 9353,
+            "friends_count": 873,
+            "geo_enabled": true,
+            "id": 1064535738,
+            "id_str": "1064535738",
+            "listed_count": 235,
+            "location": "Washington, DC",
+            "name": "Anna Giaritelli",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1064535738/1549249708",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1150974856839794688/T6fAuE9m_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150974856839794688/T6fAuE9m_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "78C0A8",
+            "profile_text_color": "5E412F",
+            "profile_use_background_image": true,
+            "screen_name": "Anna_Giaritelli",
+            "statuses_count": 709,
+            "url": "https://t.co/yAe6ER3l3h",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1147487319508869120,
+    "quoted_status_id_str": "1147487319508869120",
+    "retweet_count": 196,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "While the absurdity of your story is laughable, @Anna_Giaritelli, it offers important insight:\n\n1) \u201cSenior official\u2026 https://t.co/OmYDokkADd",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1147496567936561152",
+            "url": "https://t.co/OmYDokkADd"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 19 22:26:42 +0000 2018",
+        "description": "Tejana, fronteriza. Proudly representing Texas' 16th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 2254,
+        "followers_count": 36096,
+        "friends_count": 1294,
+        "geo_enabled": true,
+        "id": 1075517806551154689,
+        "id_str": "1075517806551154689",
+        "listed_count": 405,
+        "location": "El Paso, TX",
+        "name": "Rep. Veronica Escobar",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075517806551154689/1546448528",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080877314123157505/gwdT0ZH9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080877314123157505/gwdT0ZH9_normal.jpg",
+        "profile_link_color": "147AC7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepEscobar",
+        "statuses_count": 1899,
+        "url": "https://t.co/8S9GJ59vDq",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1064535738,
+            "id_str": "1064535738",
+            "name": "Anna Giaritelli",
+            "screen_name": "Anna_Giaritelli"
+        }
+    ]
+}

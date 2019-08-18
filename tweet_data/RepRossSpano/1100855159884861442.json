@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Feb 27 20:28:17 +0000 2019",
+    "hashtags": [],
+    "id": 1100855159884861442,
+    "id_str": "1100855159884861442",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Feb 27 18:21:53 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1100823350685904896,
+        "id_str": "1100823350685904896",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you @RepRossSpano and @RepWebster for sharing time with FloridaMakes today, supporting the @NIST_MEP National\u2026 https://t.co/zzxSIgNZ7V",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1100823350685904896",
+                "url": "https://t.co/zzxSIgNZ7V"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Oct 13 14:06:17 +0000 2015",
+            "default_profile": true,
+            "favourites_count": 66,
+            "followers_count": 150,
+            "friends_count": 94,
+            "geo_enabled": true,
+            "id": 3947105068,
+            "id_str": "3947105068",
+            "listed_count": 5,
+            "location": "Orlando, FL",
+            "name": "FloridaMakes",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3947105068/1508181425",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/920004786048684032/hzOAX_vH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/920004786048684032/hzOAX_vH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FloridaMakes",
+            "statuses_count": 237,
+            "url": "https://t.co/bBi1C1fo0A"
+        },
+        "user_mentions": [
+            {
+                "id": 1090328229548826627,
+                "id_str": "1090328229548826627",
+                "name": "@RepRossSpano",
+                "screen_name": "RepRossSpano"
+            },
+            {
+                "id": 281540744,
+                "id_str": "281540744",
+                "name": "Daniel Webster",
+                "screen_name": "RepWebster"
+            },
+            {
+                "id": 295897315,
+                "id_str": "295897315",
+                "name": "NIST MEP",
+                "screen_name": "NIST_MEP"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @FloridaMakes: Thank you @RepRossSpano and @RepWebster for sharing time with FloridaMakes today, supporting the @NIST_MEP National Netwo\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 29 19:18:02 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly Representing #FL15 in the U.S. House of Representatives | RTs/follow \u2260 endorsement.",
+        "favourites_count": 117,
+        "followers_count": 916,
+        "friends_count": 405,
+        "id": 1090328229548826627,
+        "id_str": "1090328229548826627",
+        "listed_count": 72,
+        "location": "Dover, FL",
+        "name": "@RepRossSpano",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090328229548826627/1548857545",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090328310381494273/PFIY-g70_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090328310381494273/PFIY-g70_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRossSpano",
+        "statuses_count": 237,
+        "url": "https://t.co/s70X5B8YiV",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3947105068,
+            "id_str": "3947105068",
+            "name": "FloridaMakes",
+            "screen_name": "FloridaMakes"
+        },
+        {
+            "id": 1090328229548826627,
+            "id_str": "1090328229548826627",
+            "name": "@RepRossSpano",
+            "screen_name": "RepRossSpano"
+        },
+        {
+            "id": 281540744,
+            "id_str": "281540744",
+            "name": "Daniel Webster",
+            "screen_name": "RepWebster"
+        },
+        {
+            "id": 295897315,
+            "id_str": "295897315",
+            "name": "NIST MEP",
+            "screen_name": "NIST_MEP"
+        }
+    ]
+}

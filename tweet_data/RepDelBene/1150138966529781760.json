@@ -1,0 +1,105 @@
+{
+    "created_at": "Sat Jul 13 20:24:32 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [
+        {
+            "text": "ICERaids"
+        }
+    ],
+    "id": 1150138966529781760,
+    "id_str": "1150138966529781760",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/GNswX3jn9y",
+            "expanded_url": "https://twitter.com/RepDelBene/status/1150138966529781760/video/1",
+            "id": 1150138784769544193,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1150138784769544193/img/Ua36Ve-BnirNvqeV.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1150138784769544193/img/Ua36Ve-BnirNvqeV.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/GNswX3jn9y",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 22760,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1150138784769544193/vid/1280x720/7tieB5Gdw9S9vDsp.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1150138784769544193/pl/jL_BjjTDHupMExmg.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1150138784769544193/vid/480x270/Qb7YTWjqSZBlYmco.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1150138784769544193/vid/640x360/Cq1ZEtKimMsZz34g.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 9,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "To every immigrant family afraid of being targeted by tomorrow\u2019s #ICERaids: be prepared. https://t.co/GNswX3jn9y",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 07 14:40:48 +0000 2012",
+        "default_profile": true,
+        "description": "U.S. Congresswoman representing Washington's 1st Congressional District (#WA01)",
+        "favourites_count": 1550,
+        "followers_count": 26217,
+        "friends_count": 1969,
+        "id": 995193054,
+        "id_str": "995193054",
+        "listed_count": 933,
+        "name": "Rep. Suzan DelBene",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/995193054/1529512887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156643809763188736/CUo7K9U2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156643809763188736/CUo7K9U2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDelBene",
+        "statuses_count": 5515,
+        "url": "http://t.co/qnvcd0Kg",
+        "verified": true
+    },
+    "user_mentions": []
+}

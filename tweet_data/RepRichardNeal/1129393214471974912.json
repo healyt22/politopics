@@ -1,0 +1,100 @@
+{
+    "created_at": "Fri May 17 14:28:20 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1129393214471974912,
+    "id_str": "1129393214471974912",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri May 17 13:15:17 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1129374833064726528,
+        "id_str": "1129374833064726528",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Can you believe that Commencement is tomorrow? Congratulations Class of 2019, we can't wait to see you take the sta\u2026 https://t.co/9SDT1VKGuO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1129374833064726528",
+                "url": "https://t.co/9SDT1VKGuO"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 18 16:48:48 +0000 2012",
+            "description": "Focused on our students and surrounded by the Berkshires in Massachusetts, MCLA prepares you to make an impression on the world.",
+            "favourites_count": 3200,
+            "followers_count": 1871,
+            "friends_count": 887,
+            "geo_enabled": true,
+            "id": 831441433,
+            "id_str": "831441433",
+            "listed_count": 63,
+            "location": "The Berkshires, Massachusetts",
+            "name": "MCLA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/831441433/1561127059",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1143587396048621568/U8s-BQ9e_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143587396048621568/U8s-BQ9e_normal.png",
+            "profile_link_color": "0085CA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MCLA_EDU",
+            "statuses_count": 6392,
+            "url": "http://t.co/rEPs7iyg7U"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1129374833064726528,
+    "quoted_status_id_str": "1129374833064726528",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Looking forward to addressing the Class of 2019 at @MCLA_EDU Commencement tomorrow. https://t.co/ZEhhcPnR6W",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/MCLA_EDU/status/1129374833064726528",
+            "url": "https://t.co/ZEhhcPnR6W"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 21 14:18:30 +0000 2011",
+        "default_profile": true,
+        "description": "Serving the 1st District of Massachusetts in the US House of Representatives, with 87 cities & towns in western & central MA. Chairman of @WaysMeansCmte.",
+        "followers_count": 28165,
+        "friends_count": 57,
+        "id": 442824717,
+        "id_str": "442824717",
+        "listed_count": 931,
+        "name": "Rep. Richard Neal",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/442824717/1548792228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2245213250/TP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2245213250/TP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRichardNeal",
+        "statuses_count": 1883,
+        "url": "https://t.co/0gvFZ0xBDb",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 831441433,
+            "id_str": "831441433",
+            "name": "MCLA",
+            "screen_name": "MCLA_EDU"
+        }
+    ]
+}

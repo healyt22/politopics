@@ -1,0 +1,85 @@
+{
+    "created_at": "Sun Jun 16 13:53:32 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 1140256095769976832,
+    "id_str": "1140256095769976832",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/scG1uyO8Su",
+            "expanded_url": "https://twitter.com/RepDavidEPrice/status/1140256095769976832/photo/1",
+            "id": 1140256082893443073,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D9MA3bXXkAEJf3Q.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9MA3bXXkAEJf3Q.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 900,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/scG1uyO8Su",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/D9MA3bXXkAEJf3Q.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Happy Father\u2019s Day! https://t.co/scG1uyO8Su",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jun 14 19:44:06 +0000 2010",
+        "description": "I am proud to represent NC's 4th Congressional District, which includes Orange and parts of Wake and Durham Counties.",
+        "favourites_count": 888,
+        "followers_count": 29774,
+        "friends_count": 2696,
+        "geo_enabled": true,
+        "id": 155669457,
+        "id_str": "155669457",
+        "listed_count": 978,
+        "name": "David E. Price",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/155669457/1527112408",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978257235192287232/XUsOnM3Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978257235192287232/XUsOnM3Z_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepDavidEPrice",
+        "statuses_count": 4590,
+        "url": "https://t.co/Ie8fVlfmac",
+        "verified": true
+    },
+    "user_mentions": []
+}

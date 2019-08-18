@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed May 22 19:03:43 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [
+        {
+            "text": "TeamClark"
+        },
+        {
+            "text": "ForThePeople"
+        }
+    ],
+    "id": 1131274459363647489,
+    "id_str": "1131274459363647489",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed May 22 17:57:39 +0000 2019",
+        "favorite_count": 20,
+        "hashtags": [],
+        "id": 1131257830286270464,
+        "id_str": "1131257830286270464",
+        "lang": "en",
+        "retweet_count": 11,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Congresswoman Katherine Clark (@RepKClark), Vice Chair of the Democratic Caucus, announced a number of new staff hi\u2026 https://t.co/yHvaZk9zkf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131257830286270464",
+                "url": "https://t.co/yHvaZk9zkf"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 18 17:56:38 +0000 2016",
+            "default_profile": true,
+            "description": "Washington\u2019s Inclusive Political Pulse: A new, independent, must-read, DIVERSE, digital tipsheet! info@TheBeatDC.com",
+            "favourites_count": 1248,
+            "followers_count": 14302,
+            "friends_count": 845,
+            "geo_enabled": true,
+            "id": 755098969190072320,
+            "id_str": "755098969190072320",
+            "listed_count": 126,
+            "location": "Washington, DC",
+            "name": "The Beat",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/755098969190072320/1490735802",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/846832464714706944/udWZ7soX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/846832464714706944/udWZ7soX_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "thebeatdc",
+            "statuses_count": 9711,
+            "url": "https://t.co/EkO1LZ7Hv6"
+        },
+        "user_mentions": [
+            {
+                "id": 2293131060,
+                "id_str": "2293131060",
+                "name": "Katherine Clark",
+                "screen_name": "RepKClark"
+            }
+        ]
+    },
+    "quoted_status_id": 1131257830286270464,
+    "quoted_status_id_str": "1131257830286270464",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "So proud to welcome the newest members of #TeamClark and the @HouseDemocrats! #ForThePeople @xeniafruiz @diana_rudd\u2026 https://t.co/b0ZpfLaslm",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1131274459363647489",
+            "url": "https://t.co/b0ZpfLaslm"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 15 18:53:47 +0000 2014",
+        "default_profile": true,
+        "description": "Vice Chair of the House Democratic Caucus. Proudly representing the people of the 5th District of Massachusetts.",
+        "favourites_count": 1328,
+        "followers_count": 64190,
+        "friends_count": 1344,
+        "geo_enabled": true,
+        "id": 2293131060,
+        "id_str": "2293131060",
+        "listed_count": 1212,
+        "name": "Katherine Clark",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293131060/1546611807",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepKClark",
+        "statuses_count": 5219,
+        "url": "https://t.co/qWMKEO845O",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43963249,
+            "id_str": "43963249",
+            "name": "House Democrats",
+            "screen_name": "HouseDemocrats"
+        },
+        {
+            "id": 1504338824,
+            "id_str": "1504338824",
+            "name": "Xenia Ruiz",
+            "screen_name": "xeniafruiz"
+        },
+        {
+            "id": 1601398597,
+            "id_str": "1601398597",
+            "name": "Diana Rudd",
+            "screen_name": "diana_rudd"
+        }
+    ]
+}

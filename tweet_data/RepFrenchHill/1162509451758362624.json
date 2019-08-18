@@ -1,0 +1,133 @@
+{
+    "created_at": "Fri Aug 16 23:40:26 +0000 2019",
+    "favorite_count": 33,
+    "hashtags": [
+        {
+            "text": "Idlib"
+        }
+    ],
+    "id": 1162509451758362624,
+    "id_str": "1162509451758362624",
+    "lang": "en",
+    "place": {
+        "id": "6e3daa43345fa8e3",
+        "url": "https://api.twitter.com/1.1/geo/id/6e3daa43345fa8e3.json",
+        "place_type": "city",
+        "name": "Newport",
+        "full_name": "Newport, RI",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -71.346338,
+                        41.451004
+                    ],
+                    [
+                        -71.285606,
+                        41.451004
+                    ],
+                    [
+                        -71.285606,
+                        41.52333
+                    ],
+                    [
+                        -71.346338,
+                        41.52333
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Fri Aug 16 18:41:29 +0000 2019",
+        "favorite_count": 36,
+        "hashtags": [],
+        "id": 1162434220649787392,
+        "id_str": "1162434220649787392",
+        "lang": "en",
+        "retweet_count": 29,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today a village where American communities sustain and support A school and a women\u2019s center was attacked. child fr\u2026 https://t.co/fPFi4yDL40",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162434220649787392",
+                "url": "https://t.co/fPFi4yDL40"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 23 02:44:02 +0000 2009",
+            "description": "Executive Director of @SyrianETF https://t.co/8sdLy7CtNq",
+            "favourites_count": 17415,
+            "followers_count": 4877,
+            "friends_count": 952,
+            "geo_enabled": true,
+            "id": 34503746,
+            "id_str": "34503746",
+            "listed_count": 212,
+            "location": "Washington D.C.",
+            "name": "Mouaz Moustafa",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/34503746/1390956391",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/738920457219543040/Loa8kGa3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/738920457219543040/Loa8kGa3_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SoccerMouaz",
+            "statuses_count": 29756
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1162434220649787392,
+    "quoted_status_id_str": "1162434220649787392",
+    "retweet_count": 25,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Receiving news that there are attacks on innocent civilians in Syria\u2019s #Idlib Province. Evacuations of women and ch\u2026 https://t.co/Sfib9vlyVk",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1162509451758362624",
+            "url": "https://t.co/Sfib9vlyVk"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 31 23:54:58 +0000 2014",
+        "description": "Official account of Rep French Hill. 9th generation Arkansan. FinTech + AI Task Force Ranking Member. Proudly representing Arkansas's 2nd Congressional District",
+        "favourites_count": 1129,
+        "followers_count": 14456,
+        "friends_count": 1181,
+        "geo_enabled": true,
+        "id": 2953974395,
+        "id_str": "2953974395",
+        "listed_count": 505,
+        "location": "Little Rock, AR",
+        "name": "French Hill",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953974395/1563819578",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996470402795950081/uXyDkCZ7_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepFrenchHill",
+        "statuses_count": 2561,
+        "url": "https://t.co/TggD8rLd3M",
+        "verified": true
+    },
+    "user_mentions": []
+}

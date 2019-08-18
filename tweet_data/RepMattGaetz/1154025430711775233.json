@@ -1,0 +1,111 @@
+{
+    "created_at": "Wed Jul 24 13:47:58 +0000 2019",
+    "favorite_count": 1914,
+    "hashtags": [
+        {
+            "text": "MuellerHearings"
+        }
+    ],
+    "id": 1154025430711775233,
+    "id_str": "1154025430711775233",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/PG9uNib4Sq",
+            "expanded_url": "https://twitter.com/RepMattGaetz/status/1154025430711775233/video/1",
+            "id": 1153777701943201792,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1153777701943201792/img/DJKs8d_RLGKS9KHL.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1153777701943201792/img/DJKs8d_RLGKS9KHL.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/PG9uNib4Sq",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 127494,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1153777701943201792/vid/1280x720/wV33qJodYHCHBQ0Q.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1153777701943201792/vid/480x270/OYOf1_RQLnztoeoC.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1153777701943201792/vid/640x360/0JEglXli0tDia9iG.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1153777701943201792/pl/I3CaPgwyWaYV0lSO.m3u8?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 718,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "If President @realDonaldTrump wanted to fire Mueller, he could have. But he didn\u2019t. #MuellerHearings https://t.co/PG9uNib4Sq",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+        "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+        "favourites_count": 492,
+        "followers_count": 333600,
+        "friends_count": 884,
+        "geo_enabled": true,
+        "id": 818948638890217473,
+        "id_str": "818948638890217473",
+        "listed_count": 1547,
+        "name": "Rep. Matt Gaetz",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1546465602",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+        "profile_link_color": "BB1A2A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMattGaetz",
+        "statuses_count": 3937,
+        "url": "https://t.co/GcjK1dZCtR",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

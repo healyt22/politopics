@@ -1,0 +1,108 @@
+{
+    "created_at": "Wed Apr 24 00:56:09 +0000 2019",
+    "hashtags": [
+        {
+            "text": "theBOW"
+        }
+    ],
+    "id": 1120853902763675648,
+    "id_str": "1120853902763675648",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Apr 18 21:29:19 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1118989912110436357,
+        "id_str": "1118989912110436357",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "A huge thank you to @Google and Representative Van Taylor for talking to our students about digital citizenship.\u2026 https://t.co/FhhWrp0eMm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118989912110436357",
+                "url": "https://t.co/FhhWrp0eMm"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 23 17:21:40 +0000 2012",
+            "default_profile": true,
+            "favourites_count": 605,
+            "followers_count": 473,
+            "friends_count": 88,
+            "geo_enabled": true,
+            "id": 712777890,
+            "id_str": "712777890",
+            "listed_count": 11,
+            "location": "Plano, Texas",
+            "name": "Bowman Middle School",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/587601509417754625/Ix2hbItk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/587601509417754625/Ix2hbItk_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BowmanRaiders",
+            "statuses_count": 1247,
+            "url": "http://t.co/iEWx2yCUAj"
+        },
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "name": "Google",
+                "screen_name": "Google"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BowmanRaiders: A huge thank you to @Google and Representative Van Taylor for talking to our students about digital citizenship. #theBOW\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 18 14:48:37 +0000 2018",
+        "description": "Proudly Serving the Third Congressional District of Texas.",
+        "favourites_count": 185,
+        "followers_count": 1934,
+        "friends_count": 164,
+        "geo_enabled": true,
+        "id": 1075040139351597056,
+        "id_str": "1075040139351597056",
+        "listed_count": 107,
+        "location": "Plano, Texas",
+        "name": "Rep Van Taylor",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075040139351597056/1548371843",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088576583684812800/nPn9LNpI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088576583684812800/nPn9LNpI_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepVanTaylor",
+        "statuses_count": 222,
+        "url": "https://t.co/aqeSw1xyWt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 712777890,
+            "id_str": "712777890",
+            "name": "Bowman Middle School",
+            "screen_name": "BowmanRaiders"
+        },
+        {
+            "id": 20536157,
+            "id_str": "20536157",
+            "name": "Google",
+            "screen_name": "Google"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "created_at": "Mon Jul 22 17:19:36 +0000 2019",
+    "favorite_count": 111,
+    "hashtags": [],
+    "id": 1153353916958019584,
+    "id_str": "1153353916958019584",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Edqxanis9E",
+            "expanded_url": "https://twitter.com/Sen_JoeManchin/status/1153353916958019584/video/1",
+            "id": 1153353609976975360,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1153353609976975360/pu/img/q3flHNVGvL09HnNY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1153353609976975360/pu/img/q3flHNVGvL09HnNY.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Edqxanis9E",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 89741,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1153353609976975360/pu/vid/480x270/6F-ASAdR3z2QDEtH.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1153353609976975360/pu/pl/As04UhucTwekmo_H.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1153353609976975360/pu/vid/640x360/1ls29XTM0qHroZsr.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1153353609976975360/pu/vid/1280x720/eDuNPm00EIh4C31a.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 23,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Here\u2019s my view racing down \u201cThe Big Zip\u201d at @BechtelSummit. Better luck next time, @SenCapito! @2019_wsj https://t.co/Edqxanis9E",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 05 14:13:33 +0000 2011",
+        "description": "U.S. Senator for #WV. Ranking member @EnergyDems. Please do not hesitate to contact me to share your commonsense ideas, concerns or if you need assistance.",
+        "favourites_count": 190,
+        "followers_count": 181506,
+        "friends_count": 740,
+        "geo_enabled": true,
+        "id": 234374703,
+        "id_str": "234374703",
+        "listed_count": 2534,
+        "location": "West Virginia, USA",
+        "name": "Senator Joe Manchin",
+        "profile_background_color": "EDEDED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234374703/1428611282",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907719517266219008/am4POdPf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907719517266219008/am4POdPf_normal.jpg",
+        "profile_link_color": "006BB3",
+        "profile_sidebar_border_color": "D1D1D1",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Sen_JoeManchin",
+        "statuses_count": 6144,
+        "url": "http://t.co/KZ8ptSeHhI",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 166355068,
+            "id_str": "166355068",
+            "name": "Summit",
+            "screen_name": "BechtelSummit"
+        },
+        {
+            "id": 193794406,
+            "id_str": "193794406",
+            "name": "Shelley Moore Capito",
+            "screen_name": "SenCapito"
+        },
+        {
+            "id": 3352635369,
+            "id_str": "3352635369",
+            "name": "24th World #ScoutJamboree",
+            "screen_name": "2019_wsj"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "created_at": "Wed Jul 24 21:12:10 +0000 2019",
+    "favorite_count": 771,
+    "hashtags": [
+        {
+            "text": "ProtectOurElections"
+        }
+    ],
+    "id": 1154137218212093954,
+    "id_str": "1154137218212093954",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/HqkHfOdm5L",
+            "expanded_url": "https://twitter.com/MarkWarner/status/1154137218212093954/video/1",
+            "id": 1154136480543125509,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1154136480543125509/img/UVvuuFbQ96QycV9e.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1154136480543125509/img/UVvuuFbQ96QycV9e.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/HqkHfOdm5L",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 17050,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154136480543125509/vid/640x360/yd3PIqiYbXibsLwC.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1154136480543125509/vid/480x270/hAo85TAd-YGV7Pf7.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1154136480543125509/pl/nZodev7IEhE84-y_.m3u8?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 328,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Watch this. We are running out of time to #ProtectOurElections https://t.co/HqkHfOdm5L",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 12 14:03:33 +0000 2007",
+        "description": "Serving Virginia in the US Senate. Vice Chairman, Intel Committee. Dad, Husband, Budget Wonk. Previous: Serial entrepreneur, business guy, 69th Governor of Va",
+        "favourites_count": 1788,
+        "followers_count": 450553,
+        "friends_count": 23889,
+        "id": 7429102,
+        "id_str": "7429102",
+        "listed_count": 4920,
+        "location": "Virginia",
+        "name": "Mark Warner",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7429102/1473719645",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/944243549922582528/DyFwGriJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/944243549922582528/DyFwGriJ_normal.jpg",
+        "profile_link_color": "28486F",
+        "profile_sidebar_border_color": "28486F",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "MarkWarner",
+        "statuses_count": 9067,
+        "url": "https://t.co/sIM9jRW0rP",
+        "verified": true
+    },
+    "user_mentions": []
+}

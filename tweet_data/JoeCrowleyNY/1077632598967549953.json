@@ -1,0 +1,100 @@
+{
+    "created_at": "Tue Dec 25 18:30:07 +0000 2018",
+    "favorite_count": 128,
+    "hashtags": [
+        {
+            "text": "MontanaStyle"
+        }
+    ],
+    "id": 1077632598967549953,
+    "id_str": "1077632598967549953",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/I5yPTS6zuc",
+            "expanded_url": "https://twitter.com/repjoecrowley/status/1077632598967549953/video/1",
+            "id": 1077632478054100992,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1077632478054100992/pu/img/mtrX2JGabvwrmmVR.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1077632478054100992/pu/img/mtrX2JGabvwrmmVR.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 568,
+                    "h": 320,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 568,
+                    "h": 320,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 568,
+                    "h": 320,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/I5yPTS6zuc",
+            "video_info": {
+                "aspect_ratio": [
+                    71,
+                    40
+                ],
+                "duration_millis": 16947,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1077632478054100992/pu/vid/318x180/wU3kZ3QKig2DdTrk.mp4?tag=6"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1077632478054100992/pu/pl/AQsgH0l14BaLcyQq.m3u8?tag=6"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1077632478054100992/pu/vid/568x320/EzEjQ13uueCjh3oF.mp4?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 12,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Merry Christmas from my family to yours! We\u2019re celebrating #MontanaStyle this year in Kasey\u2019s hometown! https://t.co/I5yPTS6zuc",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Feb 05 16:39:11 +0000 2010",
+        "default_profile": true,
+        "description": "A boy from Queens. Father, husband, former Congressman, and Springsteen fan.",
+        "favourites_count": 688,
+        "followers_count": 33321,
+        "friends_count": 1046,
+        "geo_enabled": true,
+        "id": 111635980,
+        "id_str": "111635980",
+        "listed_count": 1152,
+        "name": "Joe Crowley",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111635980/1424200467",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978273714495279104/CwvAhSLj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978273714495279104/CwvAhSLj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoeCrowleyNY",
+        "statuses_count": 6449,
+        "verified": true
+    },
+    "user_mentions": []
+}

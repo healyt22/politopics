@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed May 01 20:10:37 +0000 2019",
+    "hashtags": [],
+    "id": 1123681149308624897,
+    "id_str": "1123681149308624897",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed May 01 17:19:10 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1123638000448147457,
+        "id_str": "1123638000448147457",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Hershey, PA native and State Champ @jordanmarielew was able to speak with both @SenToomey @SenBobCasey and her Cong\u2026 https://t.co/Cs8xVbrpbJ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1123638000448147457",
+                "url": "https://t.co/Cs8xVbrpbJ"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 21 19:21:29 +0000 2009",
+            "description": "The NEA is an independent federal government agency that supports artistic excellence, creativity & innovation for the benefit of individuals & communities.",
+            "favourites_count": 22024,
+            "followers_count": 99823,
+            "friends_count": 852,
+            "geo_enabled": true,
+            "id": 41655821,
+            "id_str": "41655821",
+            "listed_count": 2933,
+            "location": "Washington, DC",
+            "name": "Nat'l Endow f/t Arts",
+            "profile_background_color": "DDDDDD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1092903337568149504/QzvyPEFY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092903337568149504/QzvyPEFY_normal.jpg",
+            "profile_link_color": "A9C4DC",
+            "profile_sidebar_border_color": "1E1E1E",
+            "profile_sidebar_fill_color": "615C5B",
+            "profile_text_color": "BCBCBC",
+            "profile_use_background_image": true,
+            "screen_name": "NEAarts",
+            "statuses_count": 81527,
+            "url": "http://t.co/lK288yvcSq",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 795137324594118656,
+                "id_str": "795137324594118656",
+                "name": "jordan marie",
+                "screen_name": "jordanmarielew"
+            },
+            {
+                "id": 221162525,
+                "id_str": "221162525",
+                "name": "Senator Pat Toomey",
+                "screen_name": "SenToomey"
+            },
+            {
+                "id": 171598736,
+                "id_str": "171598736",
+                "name": "Senator Bob Casey",
+                "screen_name": "SenBobCasey"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NEAarts: Hershey, PA native and State Champ @jordanmarielew was able to speak with both @SenToomey @SenBobCasey and her Congressman @Re\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 08 18:29:58 +0000 2009",
+        "default_profile": true,
+        "description": "Husband, Father of two young daughters, Small Businessman and Soldier. Congressman - 10th District (PA).",
+        "favourites_count": 73,
+        "followers_count": 20277,
+        "friends_count": 2716,
+        "geo_enabled": true,
+        "id": 18773159,
+        "id_str": "18773159",
+        "listed_count": 831,
+        "name": "RepScottPerry",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18773159/1364824897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1113825215178473472/ulkiqqVW_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113825215178473472/ulkiqqVW_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepScottPerry",
+        "statuses_count": 3402,
+        "url": "http://t.co/eu7DgRNJJj",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 41655821,
+            "id_str": "41655821",
+            "name": "Nat'l Endow f/t Arts",
+            "screen_name": "NEAarts"
+        },
+        {
+            "id": 795137324594118656,
+            "id_str": "795137324594118656",
+            "name": "jordan marie",
+            "screen_name": "jordanmarielew"
+        },
+        {
+            "id": 221162525,
+            "id_str": "221162525",
+            "name": "Senator Pat Toomey",
+            "screen_name": "SenToomey"
+        },
+        {
+            "id": 171598736,
+            "id_str": "171598736",
+            "name": "Senator Bob Casey",
+            "screen_name": "SenBobCasey"
+        }
+    ]
+}

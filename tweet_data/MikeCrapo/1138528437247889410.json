@@ -1,0 +1,122 @@
+{
+    "created_at": "Tue Jun 11 19:28:26 +0000 2019",
+    "hashtags": [],
+    "id": 1138528437247889410,
+    "id_str": "1138528437247889410",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Jun 11 19:15:50 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1138525263728467969,
+        "id_str": "1138525263728467969",
+        "in_reply_to_screen_name": "MikeCrapo",
+        "in_reply_to_user_id": 600463589,
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@MikeCrapo Thank you for taking time out of your day to meet with me and @bread4theworld! Thank you for being an or\u2026 https://t.co/ppKxYHtKHy",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138525263728467969",
+                "url": "https://t.co/ppKxYHtKHy"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Sep 05 04:05:14 +0000 2009",
+            "description": "I'm a Wife, Mom, Nurse, Hunger Advocate, Bread for the World Board of Directors & Chickenista. I never thought my life would go this direction and, I love it!",
+            "favourites_count": 3855,
+            "followers_count": 399,
+            "friends_count": 585,
+            "geo_enabled": true,
+            "id": 71722438,
+            "id_str": "71722438",
+            "listed_count": 30,
+            "location": "Boise, Idaho",
+            "name": "Dawn Pierce",
+            "profile_background_color": "FFF04D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/71722438/1562458583",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080673826264907777/W_AKOakw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080673826264907777/W_AKOakw_normal.jpg",
+            "profile_link_color": "333333",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "0099CC",
+            "profile_use_background_image": true,
+            "screen_name": "DawnCPierce",
+            "statuses_count": 7700,
+            "url": "https://t.co/mFoWVVTOrG"
+        },
+        "user_mentions": [
+            {
+                "id": 600463589,
+                "id_str": "600463589",
+                "name": "Senator Mike Crapo",
+                "screen_name": "MikeCrapo"
+            },
+            {
+                "id": 41405412,
+                "id_str": "41405412",
+                "name": "Bread for the World",
+                "screen_name": "bread4theworld"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DawnCPierce: @MikeCrapo Thank you for taking time out of your day to meet with me and @bread4theworld! Thank you for being an original\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 05 22:16:35 +0000 2012",
+        "description": "United States Senator for the great state of Idaho.",
+        "favourites_count": 733,
+        "followers_count": 95539,
+        "friends_count": 742,
+        "geo_enabled": true,
+        "id": 600463589,
+        "id_str": "600463589",
+        "listed_count": 1725,
+        "location": "Idaho & Washington, D.C.",
+        "name": "Senator Mike Crapo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/600463589/1358530313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "MikeCrapo",
+        "statuses_count": 6484,
+        "url": "http://t.co/W6cAM2HKzW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 71722438,
+            "id_str": "71722438",
+            "name": "Dawn Pierce",
+            "screen_name": "DawnCPierce"
+        },
+        {
+            "id": 600463589,
+            "id_str": "600463589",
+            "name": "Senator Mike Crapo",
+            "screen_name": "MikeCrapo"
+        },
+        {
+            "id": 41405412,
+            "id_str": "41405412",
+            "name": "Bread for the World",
+            "screen_name": "bread4theworld"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "created_at": "Wed Apr 24 13:56:57 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 1121050395672043522,
+    "id_str": "1121050395672043522",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 23 17:51:00 +0000 2019",
+        "favorite_count": 134,
+        "hashtags": [],
+        "id": 1120746911051460613,
+        "id_str": "1120746911051460613",
+        "lang": "en",
+        "retweet_count": 16,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "As I cast my vote this afternoon, I felt a rush of positivity and inspiration. This campaign has shown me the peopl\u2026 https://t.co/k3f334dWXr",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1120746911051460613",
+                "url": "https://t.co/k3f334dWXr"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 27 17:39:27 +0000 2019",
+            "default_profile": true,
+            "description": "Mayor of Tampa, FL \u2014 The Greatest City in the World.",
+            "favourites_count": 113,
+            "followers_count": 6061,
+            "friends_count": 67,
+            "id": 1110959531872407554,
+            "id_str": "1110959531872407554",
+            "listed_count": 34,
+            "location": "Tampa, FL",
+            "name": "Jane Castor",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1110959531872407554/1556721027",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1135659185734070272/lbrg4864_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135659185734070272/lbrg4864_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JaneCastor",
+            "statuses_count": 411,
+            "url": "https://t.co/3ONUddruQQ",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1120746911051460613,
+    "quoted_status_id_str": "1120746911051460613",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Congratulations, @JaneCastor! Tampa is in good hands. https://t.co/N5dVJTET52",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/JaneCastor/status/1120746911051460613",
+            "url": "https://t.co/N5dVJTET52"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Feb 20 17:35:01 +0000 2010",
+        "description": "Dog loving, clean cooking, breast cancer-surviving, Florida Gator cheering, softball-playing mother of three fighting in Congress on behalf of South Floridians.",
+        "favourites_count": 192,
+        "followers_count": 365828,
+        "friends_count": 861,
+        "geo_enabled": true,
+        "id": 115979444,
+        "id_str": "115979444",
+        "listed_count": 5049,
+        "location": "Weston, FL & Washington, D.C.",
+        "name": "Debbie Wasserman Schultz",
+        "profile_background_color": "092473",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115979444/1517266367",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/803926569781784576/eHI49K4W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/803926569781784576/eHI49K4W_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "DWStweets",
+        "statuses_count": 10326,
+        "url": "https://t.co/R5UpTCuwFP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1110959531872407554,
+            "id_str": "1110959531872407554",
+            "name": "Jane Castor",
+            "screen_name": "JaneCastor"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "created_at": "Tue Apr 30 20:03:19 +0000 2019",
+    "hashtags": [],
+    "id": 1123316924962803712,
+    "id_str": "1123316924962803712",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Apr 30 19:52:01 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1123314079354036224,
+        "id_str": "1123314079354036224",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "text": "Kansas Electric Cooperatives and member cooperative representatives met this morning with @SenPatRoberts in Washing\u2026 https://t.co/K0NzWV0jBh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1123314079354036224",
+                "url": "https://t.co/K0NzWV0jBh"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 13 15:25:18 +0000 2017",
+            "default_profile": true,
+            "description": "KEC is the statewide service organization for the electric cooperatives in Kansas. Formed in 1941.",
+            "favourites_count": 32,
+            "followers_count": 76,
+            "friends_count": 17,
+            "id": 841309198872788992,
+            "id_str": "841309198872788992",
+            "listed_count": 1,
+            "location": "Topeka, KS",
+            "name": "KS Electric Coops",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/841309198872788992/1489418905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/841309903796895744/_j9evhuS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/841309903796895744/_j9evhuS_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "KansasElectric",
+            "statuses_count": 1003,
+            "url": "https://t.co/SZ6wLfeqSG"
+        },
+        "user_mentions": [
+            {
+                "id": 75364211,
+                "id_str": "75364211",
+                "name": "Senator Pat Roberts",
+                "screen_name": "SenPatRoberts"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @KansasElectric: Kansas Electric Cooperatives and member cooperative representatives met this morning with @SenPatRoberts in Washington,\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 18 19:34:56 +0000 2009",
+        "description": "Senior Senator from Kansas. Chairman of @SenateAgGOP.",
+        "favourites_count": 341,
+        "followers_count": 72873,
+        "friends_count": 917,
+        "id": 75364211,
+        "id_str": "75364211",
+        "listed_count": 1982,
+        "location": "Kansas, USA",
+        "name": "Senator Pat Roberts",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75364211/1436984767",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981951337536671744/8z6P2Eck_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981951337536671744/8z6P2Eck_normal.jpg",
+        "profile_link_color": "8D1616",
+        "profile_sidebar_border_color": "CBCAC0",
+        "profile_sidebar_fill_color": "E7E6DB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenPatRoberts",
+        "statuses_count": 6483,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 841309198872788992,
+            "id_str": "841309198872788992",
+            "name": "KS Electric Coops",
+            "screen_name": "KansasElectric"
+        },
+        {
+            "id": 75364211,
+            "id_str": "75364211",
+            "name": "Senator Pat Roberts",
+            "screen_name": "SenPatRoberts"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "created_at": "Thu Jun 27 00:38:13 +0000 2019",
+    "hashtags": [],
+    "id": 1144042212587687936,
+    "id_str": "1144042212587687936",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Jun 26 18:14:38 +0000 2019",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 1143945682153136128,
+        "id_str": "1143945682153136128",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u201cSecretary Carson has chosen politics over people here.... HUD is seeking to spend more to help fewer people\u201d -\u2026 https://t.co/nFJYvw5Fhd",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143945682153136128",
+                "url": "https://t.co/nFJYvw5Fhd"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 11 13:41:50 +0000 2009",
+            "description": "The National Coalition for the Homeless is a broad network of individuals & organizations united by a commitment to ending homelessness.",
+            "favourites_count": 5463,
+            "followers_count": 34014,
+            "friends_count": 3104,
+            "geo_enabled": true,
+            "id": 46388145,
+            "id_str": "46388145",
+            "listed_count": 1021,
+            "location": "Washington, DC",
+            "name": "National Homeless",
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/46388145/1398267391",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/457195122824712192/sKzIjIig_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/457195122824712192/sKzIjIig_normal.png",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Ntl_Homeless",
+            "statuses_count": 16068,
+            "url": "http://t.co/rZqdWLInXP"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Ntl_Homeless: \u201cSecretary Carson has chosen politics over people here.... HUD is seeking to spend more to help fewer people\u201d - @RepSylvi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 22:10:54 +0000 2019",
+        "default_profile": true,
+        "description": "Member of Congress, TX-29. Includes Houston, Galena Park, Jacinto City, South Houston & Pasadena. Passionate about public service. Fighting for working people.",
+        "favourites_count": 443,
+        "followers_count": 13715,
+        "friends_count": 666,
+        "geo_enabled": true,
+        "id": 1080587263132733442,
+        "id_str": "1080587263132733442",
+        "listed_count": 237,
+        "location": "Houston, TX",
+        "name": "Rep. Sylvia Garcia",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080587263132733442/1553125634",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080667541725278209/OXghDPVX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080667541725278209/OXghDPVX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSylviaGarcia",
+        "statuses_count": 819,
+        "url": "https://t.co/8fsvZ7J993",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 46388145,
+            "id_str": "46388145",
+            "name": "National Homeless",
+            "screen_name": "Ntl_Homeless"
+        }
+    ]
+}

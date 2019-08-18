@@ -1,0 +1,81 @@
+{
+    "created_at": "Fri Aug 02 12:22:39 +0000 2019",
+    "favorite_count": 1377,
+    "hashtags": [],
+    "id": 1157265454358048768,
+    "id_str": "1157265454358048768",
+    "lang": "en",
+    "place": {
+        "id": "ec6dac47648ca27f",
+        "url": "https://api.twitter.com/1.1/geo/id/ec6dac47648ca27f.json",
+        "place_type": "city",
+        "name": "Gainesville",
+        "full_name": "Gainesville, GA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -83.89971,
+                        34.238672
+                    ],
+                    [
+                        -83.7628886,
+                        34.238672
+                    ],
+                    [
+                        -83.7628886,
+                        34.362593
+                    ],
+                    [
+                        -83.89971,
+                        34.362593
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 372,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thankful to be a part of Choices Pregnancy Care Center\u2019s ribbon cutting ceremony yesterday. Their new facility will\u2026 https://t.co/uxXnxRnJOK",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1157265454358048768",
+            "url": "https://t.co/uxXnxRnJOK"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 04 13:43:55 +0000 2013",
+        "description": "Working for Georgia's 9th Congressional District. Pastor, attorney, military chaplain. Ranking Member of @JudiciaryGOP.",
+        "favourites_count": 605,
+        "followers_count": 103155,
+        "friends_count": 954,
+        "geo_enabled": true,
+        "id": 1060487274,
+        "id_str": "1060487274",
+        "listed_count": 1180,
+        "location": "Gainesville, Georgia",
+        "name": "Rep. Doug Collins",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060487274/1504726600",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024748216712146944/Hc_eYsbv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024748216712146944/Hc_eYsbv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDougCollins",
+        "statuses_count": 4009,
+        "url": "https://t.co/6yvc1EfV0T",
+        "verified": true
+    },
+    "user_mentions": []
+}

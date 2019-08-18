@@ -1,0 +1,112 @@
+{
+    "created_at": "Wed May 01 15:16:45 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [],
+    "id": 1123607194661019649,
+    "id_str": "1123607194661019649",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/z9MhZqMAjP",
+            "expanded_url": "https://twitter.com/RepKendraHorn/status/1123607194661019649/photo/1",
+            "id": 1123607188625395714,
+            "media_url": "http://pbs.twimg.com/media/D5fayPEXkAIfw1t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D5fayPEXkAIfw1t.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 750,
+                    "h": 1334,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 382,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/z9MhZqMAjP"
+        }
+    ],
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 9,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Are you a veteran interested in the tech field? This program could help you pay for school! https://t.co/Viu2AcaL1b https://t.co/z9MhZqMAjP",
+    "urls": [
+        {
+            "expanded_url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/introduction",
+            "url": "https://t.co/Viu2AcaL1b"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 09 15:15:21 +0000 2019",
+        "description": "Representative for Oklahoma's 5th District, chairwoman of the House Subcommittee on Space and Aeronautics, @womenleadok founder, @girlscouts supporter.",
+        "favourites_count": 47,
+        "followers_count": 7418,
+        "friends_count": 114,
+        "geo_enabled": true,
+        "id": 1083019402046513152,
+        "id_str": "1083019402046513152",
+        "listed_count": 176,
+        "location": "Oklahoma City, OK",
+        "name": "Congresswoman Kendra Horn",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083019402046513152/1551222759",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090745559160373249/Ch9xl97p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090745559160373249/Ch9xl97p_normal.jpg",
+        "profile_link_color": "4B0082",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepKendraHorn",
+        "statuses_count": 309,
+        "url": "https://t.co/lZ1mc81o7x",
+        "verified": true
+    },
+    "user_mentions": []
+}

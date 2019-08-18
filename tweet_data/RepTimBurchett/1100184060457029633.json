@@ -1,0 +1,116 @@
+{
+    "created_at": "Tue Feb 26 00:01:35 +0000 2019",
+    "hashtags": [],
+    "id": 1100184060457029633,
+    "id_str": "1100184060457029633",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Feb 25 19:40:08 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1100118267920875521,
+        "id_str": "1100118267920875521",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We'd like to thank @RepTimBurchett for stopping by the 2019 @ENERGY Tennessee Science Bowl! He is pictured \ud83d\udcf8 with O\u2026 https://t.co/2tUcTYbhra",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1100118267920875521",
+                "url": "https://t.co/2tUcTYbhra"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 02 20:59:22 +0000 2009",
+            "description": "ORAU provides scientific and technical solutions to advance national priorities in science, health, education and security. ORAU manages ORISE for DOE.",
+            "favourites_count": 1653,
+            "followers_count": 1890,
+            "friends_count": 459,
+            "geo_enabled": true,
+            "id": 28418866,
+            "id_str": "28418866",
+            "listed_count": 58,
+            "location": "Oak Ridge, TN",
+            "name": "ORAU",
+            "profile_background_color": "4669A1",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28418866/1554819273",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/474603421035536384/uPcSgSDh_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/474603421035536384/uPcSgSDh_normal.jpeg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "202930",
+            "profile_text_color": "666666",
+            "screen_name": "orau",
+            "statuses_count": 3907,
+            "url": "http://t.co/K5FmmKu9yP"
+        },
+        "user_mentions": [
+            {
+                "id": 1028854804087492613,
+                "id_str": "1028854804087492613",
+                "name": "Rep. Tim Burchett",
+                "screen_name": "RepTimBurchett"
+            },
+            {
+                "id": 166252256,
+                "id_str": "166252256",
+                "name": "Energy Department",
+                "screen_name": "ENERGY"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @orau: We'd like to thank @RepTimBurchett for stopping by the 2019 @ENERGY Tennessee Science Bowl! He is pictured \ud83d\udcf8 with ORAU President\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Aug 13 04:04:35 +0000 2018",
+        "description": "Congressman representing Tennessee's 2nd District. Husband to Kelly. Father to Isabel. Serve on House Budget, Foreign Affairs, and Small Business committees.",
+        "favourites_count": 36,
+        "followers_count": 4451,
+        "friends_count": 300,
+        "geo_enabled": true,
+        "id": 1028854804087492613,
+        "id_str": "1028854804087492613",
+        "listed_count": 108,
+        "location": "East Tennessee",
+        "name": "Rep. Tim Burchett",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028854804087492613/1550172251",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1078105969543004160/vB8JwoxG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078105969543004160/vB8JwoxG_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepTimBurchett",
+        "statuses_count": 273,
+        "url": "https://t.co/bFphy5OASq",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 28418866,
+            "id_str": "28418866",
+            "name": "ORAU",
+            "screen_name": "orau"
+        },
+        {
+            "id": 1028854804087492613,
+            "id_str": "1028854804087492613",
+            "name": "Rep. Tim Burchett",
+            "screen_name": "RepTimBurchett"
+        },
+        {
+            "id": 166252256,
+            "id_str": "166252256",
+            "name": "Energy Department",
+            "screen_name": "ENERGY"
+        }
+    ]
+}

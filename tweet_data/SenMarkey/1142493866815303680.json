@@ -1,0 +1,93 @@
+{
+    "created_at": "Sat Jun 22 18:05:39 +0000 2019",
+    "hashtags": [],
+    "id": 1142493866815303680,
+    "id_str": "1142493866815303680",
+    "lang": "en",
+    "retweet_count": 65,
+    "retweeted_status": {
+        "created_at": "Sat Jun 22 16:25:00 +0000 2019",
+        "favorite_count": 72,
+        "hashtags": [],
+        "id": 1142468538222829568,
+        "id_str": "1142468538222829568",
+        "lang": "en",
+        "retweet_count": 65,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\u201cIt is outrageous that DHS allowed individuals\u2019 sensitive data to be compromised, but this case also highlights the\u2026 https://t.co/zfDD5ACw9e",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1142468538222829568",
+                "url": "https://t.co/zfDD5ACw9e"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 28 14:17:28 +0000 2006",
+            "description": "We're the Electronic Frontier Foundation. We defend your civil liberties in a digital world.",
+            "favourites_count": 1237,
+            "followers_count": 422737,
+            "friends_count": 1001,
+            "geo_enabled": true,
+            "id": 4816,
+            "id_str": "4816",
+            "listed_count": 14521,
+            "location": "San Francisco, CA",
+            "name": "EFF",
+            "profile_background_color": "E17701",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4816/1562776597",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1109145060929490945/H1RmsjEu_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109145060929490945/H1RmsjEu_normal.png",
+            "profile_link_color": "6A3ACB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E8D8DD",
+            "profile_text_color": "000000",
+            "screen_name": "EFF",
+            "statuses_count": 22786,
+            "url": "https://t.co/1gDghboN0q",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @EFF: \u201cIt is outrageous that DHS allowed individuals\u2019 sensitive data to be compromised, but this case also highlights the risks of colle\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Feb 20 15:49:29 +0000 2009",
+        "description": "Official account for Senator Edward J. Markey. National leader on energy, environment, climate, telecom. Voice for consumer protection. https://t.co/nfYWzVp6R8",
+        "favourites_count": 325,
+        "followers_count": 158200,
+        "friends_count": 1372,
+        "geo_enabled": true,
+        "id": 21406834,
+        "id_str": "21406834",
+        "listed_count": 3301,
+        "location": "MA",
+        "name": "Ed Markey",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21406834/1549578517",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+        "profile_link_color": "062232",
+        "profile_sidebar_border_color": "F55600",
+        "profile_sidebar_fill_color": "B8FDB5",
+        "profile_text_color": "333333",
+        "screen_name": "SenMarkey",
+        "statuses_count": 14408,
+        "url": "https://t.co/PvCpESuHno",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 4816,
+            "id_str": "4816",
+            "name": "EFF",
+            "screen_name": "EFF"
+        }
+    ]
+}

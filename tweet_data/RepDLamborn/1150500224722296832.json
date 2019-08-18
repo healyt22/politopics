@@ -1,0 +1,123 @@
+{
+    "created_at": "Sun Jul 14 20:20:03 +0000 2019",
+    "favorite_count": 53,
+    "hashtags": [],
+    "id": 1150500224722296832,
+    "id_str": "1150500224722296832",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun Jul 14 19:25:05 +0000 2019",
+        "favorite_count": 43,
+        "hashtags": [],
+        "id": 1150486391303729153,
+        "id_str": "1150486391303729153",
+        "lang": "en",
+        "retweet_count": 19,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\ud83d\udd34 PREMIERING TONIGHT!\n\nColorado Spring\u2019s @RepDLamborn joins me on @Epoch Times\u2019 American Thought Leaders \ud83c\uddfa\ud83c\uddf8  \n\nWe d\u2026 https://t.co/STeJEYwDao",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150486391303729153",
+                "url": "https://t.co/STeJEYwDao"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 04 06:48:22 +0000 2008",
+            "description": "Senior Editor @EpochTimes; host American Thought Leaders\ud83c\uddfa\ud83c\uddf8 https://t.co/V0jIJnC0Uv American exceptionalist Canadian. RT\u2260endorsement.",
+            "favourites_count": 7904,
+            "followers_count": 12422,
+            "friends_count": 3797,
+            "geo_enabled": true,
+            "id": 15719232,
+            "id_str": "15719232",
+            "listed_count": 263,
+            "location": "New York, New York",
+            "name": "Jan Jekielek",
+            "profile_background_color": "FAFAFA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15719232/1409525910",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1090334648956342273/l6j8mTa1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090334648956342273/l6j8mTa1_normal.jpg",
+            "profile_link_color": "08088A",
+            "profile_sidebar_border_color": "FFF8AD",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JanJekielek",
+            "statuses_count": 13848,
+            "url": "https://t.co/Kz0FcIjDKZ"
+        },
+        "user_mentions": [
+            {
+                "id": 584012853,
+                "id_str": "584012853",
+                "name": "Rep. Doug Lamborn",
+                "screen_name": "RepDLamborn"
+            },
+            {
+                "id": 14632024,
+                "id_str": "14632024",
+                "name": "Epoch",
+                "screen_name": "Epoch"
+            }
+        ]
+    },
+    "quoted_status_id": 1150486391303729153,
+    "quoted_status_id_str": "1150486391303729153",
+    "retweet_count": 22,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "It was great sitting down with @JanJekielek at @EpochTimes yesterday to discuss the importance of defending those w\u2026 https://t.co/0vRV98EmQ9",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1150500224722296832",
+            "url": "https://t.co/0vRV98EmQ9"
+        }
+    ],
+    "user": {
+        "created_at": "Fri May 18 16:01:17 +0000 2012",
+        "default_profile": true,
+        "description": "Honored to represent Colorado's 5th District | Member of the House Armed Services Committee and @NatResources | Twitter user policy: https://t.co/eTVPJXYvYx",
+        "favourites_count": 1118,
+        "followers_count": 21978,
+        "friends_count": 1010,
+        "geo_enabled": true,
+        "id": 584012853,
+        "id_str": "584012853",
+        "listed_count": 926,
+        "location": "Colorado Springs, CO",
+        "name": "Rep. Doug Lamborn",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/584012853/1508967511",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/938793231453581313/Y6vJ-Ci6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/938793231453581313/Y6vJ-Ci6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDLamborn",
+        "statuses_count": 4850,
+        "url": "https://t.co/aVNY6LkLMd",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15719232,
+            "id_str": "15719232",
+            "name": "Jan Jekielek",
+            "screen_name": "JanJekielek"
+        },
+        {
+            "id": 29097819,
+            "id_str": "29097819",
+            "name": "The Epoch Times",
+            "screen_name": "EpochTimes"
+        }
+    ]
+}

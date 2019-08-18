@@ -1,0 +1,80 @@
+{
+    "created_at": "Fri Jun 07 21:05:31 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1137103313743294465,
+    "id_str": "1137103313743294465",
+    "lang": "en",
+    "place": {
+        "id": "07d9dc004b483003",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9dc004b483003.json",
+        "place_type": "poi",
+        "name": "Downtown Sanford",
+        "full_name": "Downtown Sanford",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -81.26767213309456,
+                        28.81200578871569
+                    ],
+                    [
+                        -81.26767213309456,
+                        28.81200578871569
+                    ],
+                    [
+                        -81.26767213309456,
+                        28.81200578871569
+                    ],
+                    [
+                        -81.26767213309456,
+                        28.81200578871569
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I am so impressed by our service academy nominees. I wished them luck in their new and exciting journey as they pre\u2026 https://t.co/fh9RiSh26r",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1137103313743294465",
+            "url": "https://t.co/fh9RiSh26r"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 09 02:51:57 +0000 2016",
+        "description": "Fighting for progress and proudly representing Seminole & Orange Counties in the U.S. House of Representatives. #FL07",
+        "favourites_count": 513,
+        "followers_count": 22072,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 796183515998068736,
+        "id_str": "796183515998068736",
+        "listed_count": 634,
+        "location": "Winter Park, FL",
+        "name": "Rep. Stephanie Murphy",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/796183515998068736/1562094922",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096336998003101696/KaSvMntG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096336998003101696/KaSvMntG_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepStephMurphy",
+        "statuses_count": 2506,
+        "url": "https://t.co/7stdgh39et",
+        "verified": true
+    },
+    "user_mentions": []
+}

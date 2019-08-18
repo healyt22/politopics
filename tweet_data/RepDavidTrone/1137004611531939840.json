@@ -1,0 +1,135 @@
+{
+    "created_at": "Fri Jun 07 14:33:18 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1137004611531939840,
+    "id_str": "1137004611531939840",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jun 07 14:13:49 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1136999709086834688,
+        "id_str": "1136999709086834688",
+        "lang": "en",
+        "place": {
+            "id": "dea1eac2d7ef8878",
+            "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json",
+            "place_type": "admin",
+            "name": "Maryland",
+            "full_name": "Maryland, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.487651,
+                            37.886607
+                        ],
+                        [
+                            -74.986286,
+                            37.886607
+                        ],
+                        [
+                            -74.986286,
+                            39.723622
+                        ],
+                        [
+                            -79.487651,
+                            39.723622
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Sec. Bartenfelder and MDA staff join @RepDavidTrone in Washington County to discuss federal priorities with farmers\u2026 https://t.co/OgUBtH9SnZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1136999709086834688",
+                "url": "https://t.co/OgUBtH9SnZ"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Oct 05 20:07:04 +0000 2009",
+            "description": "Welcome to the Official Twitter Account for the Maryland Department of Agriculture.",
+            "favourites_count": 3465,
+            "followers_count": 14162,
+            "friends_count": 1031,
+            "geo_enabled": true,
+            "id": 80113196,
+            "id_str": "80113196",
+            "listed_count": 342,
+            "location": "Annapolis, MD & Region",
+            "name": "Maryland Agriculture",
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/80113196/1564412828",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/834427473089617920/ViAF_p8i_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/834427473089617920/ViAF_p8i_normal.jpg",
+            "profile_link_color": "14623E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MdAgDept",
+            "statuses_count": 13469,
+            "url": "http://t.co/p6NnY1Y4c9",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1080573351914061825,
+                "id_str": "1080573351914061825",
+                "name": "Rep. David Trone",
+                "screen_name": "RepDavidTrone"
+            }
+        ]
+    },
+    "quoted_status_id": 1136999709086834688,
+    "quoted_status_id_str": "1136999709086834688",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Farmers in Western Maryland deserve our attention and partnership at the local, state, and federal levels.\n\nThank y\u2026 https://t.co/3ZJnSbujpL",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1137004611531939840",
+            "url": "https://t.co/3ZJnSbujpL"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 21:15:37 +0000 2019",
+        "default_profile": true,
+        "description": "Congressman representing the 6th District of Maryland. Husband, Father, Business Owner.",
+        "favourites_count": 159,
+        "followers_count": 6695,
+        "friends_count": 878,
+        "id": 1080573351914061825,
+        "id_str": "1080573351914061825",
+        "listed_count": 172,
+        "location": "Maryland\u2019s 6th District",
+        "name": "Rep. David Trone",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080573351914061825/1546536501",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDavidTrone",
+        "statuses_count": 551,
+        "url": "https://t.co/YsuCO1X7X4",
+        "verified": true
+    },
+    "user_mentions": []
+}

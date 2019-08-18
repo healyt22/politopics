@@ -1,0 +1,187 @@
+{
+    "created_at": "Sat Jul 13 19:28:30 +0000 2019",
+    "hashtags": [],
+    "id": 1150124864554110976,
+    "id_str": "1150124864554110976",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Pz1MwSDYfz",
+            "expanded_url": "https://twitter.com/CorieWhalen/status/1149787685931954176/photo/1",
+            "id": 1149787681330749441,
+            "media_url": "http://pbs.twimg.com/media/D_TdzejW4AEGMK8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_TdzejW4AEGMK8.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 697,
+                    "h": 632,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 697,
+                    "h": 632,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 617,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Pz1MwSDYfz"
+        }
+    ],
+    "retweet_count": 93,
+    "retweeted_status": {
+        "created_at": "Fri Jul 12 21:08:41 +0000 2019",
+        "favorite_count": 379,
+        "hashtags": [],
+        "id": 1149787685931954176,
+        "id_str": "1149787685931954176",
+        "in_reply_to_screen_name": "CorieWhalen",
+        "in_reply_to_status_id": 1149787023785517057,
+        "in_reply_to_user_id": 24476251,
+        "lang": "und",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Pz1MwSDYfz",
+                "expanded_url": "https://twitter.com/CorieWhalen/status/1149787685931954176/photo/1",
+                "id": 1149787681330749441,
+                "media_url": "http://pbs.twimg.com/media/D_TdzejW4AEGMK8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_TdzejW4AEGMK8.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 697,
+                        "h": 632,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 697,
+                        "h": 632,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 617,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Pz1MwSDYfz"
+            }
+        ],
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 93,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "https://t.co/Pz1MwSDYfz",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Mar 15 02:56:57 +0000 2009",
+            "description": "Small-l libertarian and/or classical liberal. MA native. Director of Media Relations at @CatoInstitute. Former Capitol Hill comms director. Opinions are my own.",
+            "favourites_count": 9615,
+            "followers_count": 12359,
+            "friends_count": 4093,
+            "geo_enabled": true,
+            "id": 24476251,
+            "id_str": "24476251",
+            "listed_count": 492,
+            "location": "Arlington, VA",
+            "name": "Corie Whalen",
+            "profile_background_color": "AA8EE8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24476251/1565142479",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1153811334095491072/jSEC5yB7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153811334095491072/jSEC5yB7_normal.jpg",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "screen_name": "CorieWhalen",
+            "statuses_count": 54341,
+            "url": "https://t.co/XgatE3lKPz"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CorieWhalen: https://t.co/Pz1MwSDYfz",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 04 07:09:11 +0000 2011",
+        "description": "I defend #liberty \u2022 \u201cLaws must be general, equal, and certain.\u201d \u2014F.A. Hayek",
+        "favourites_count": 437,
+        "followers_count": 350976,
+        "friends_count": 5804,
+        "id": 233842454,
+        "id_str": "233842454",
+        "listed_count": 4220,
+        "location": "Third District of Michigan",
+        "name": "Justin Amash",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233842454/1446352343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1062568344879091712/jTRi-6Lm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062568344879091712/jTRi-6Lm_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "justinamash",
+        "statuses_count": 16248,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 24476251,
+            "id_str": "24476251",
+            "name": "Corie Whalen",
+            "screen_name": "CorieWhalen"
+        }
+    ]
+}

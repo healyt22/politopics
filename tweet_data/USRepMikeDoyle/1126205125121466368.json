@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed May 08 19:20:00 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [],
+    "id": 1126205125121466368,
+    "id_str": "1126205125121466368",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed May 08 18:02:51 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "primarycare"
+            }
+        ],
+        "id": 1126185710606798854,
+        "id_str": "1126185710606798854",
+        "in_reply_to_screen_name": "HealthTechPitt",
+        "in_reply_to_status_id": 1126144840914411520,
+        "in_reply_to_user_id": 4816230377,
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We spoke about medical education, support for #primarycare, expansion of health care coverage from birth, reauthori\u2026 https://t.co/ucd9dKl0RA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1126185710606798854",
+                "url": "https://t.co/ucd9dKl0RA"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 15 17:41:36 +0000 2016",
+            "description": "The Center for Behavioral Health + Smart Technology at the University of Pittsburgh. Multidisciplinary group striving to improve health & health care.",
+            "favourites_count": 3202,
+            "followers_count": 944,
+            "friends_count": 806,
+            "geo_enabled": true,
+            "id": 4816230377,
+            "id_str": "4816230377",
+            "listed_count": 25,
+            "location": "Pittsburgh, PA",
+            "name": "Health Tech Pitt",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4816230377/1561396934",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/888405683195977728/YDgFTk0U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/888405683195977728/YDgFTk0U_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "HealthTechPitt",
+            "statuses_count": 1489,
+            "url": "https://t.co/78T07CMUEp"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1126185710606798854,
+    "quoted_status_id_str": "1126185710606798854",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "It was great to talk with you, @HealthTechPitt! Thank you for advocating on these issues. https://t.co/WUzzh7fipG",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/HealthTechPitt/status/1126185710606798854",
+            "url": "https://t.co/WUzzh7fipG"
+        }
+    ],
+    "user": {
+        "created_at": "Mon May 11 13:22:08 +0000 2009",
+        "description": "U.S. Member of Congress representing PA's 18th District",
+        "favourites_count": 5,
+        "followers_count": 19112,
+        "friends_count": 83,
+        "id": 39249305,
+        "id_str": "39249305",
+        "listed_count": 1104,
+        "location": "Pittsburgh, PA",
+        "name": "Mike Doyle",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39249305/1560199486",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "USRepMikeDoyle",
+        "statuses_count": 1728,
+        "url": "https://t.co/lnbMOLPFwX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 4816230377,
+            "id_str": "4816230377",
+            "name": "Health Tech Pitt",
+            "screen_name": "HealthTechPitt"
+        }
+    ]
+}

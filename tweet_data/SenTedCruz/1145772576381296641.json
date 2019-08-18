@@ -1,0 +1,135 @@
+{
+    "created_at": "Mon Jul 01 19:14:04 +0000 2019",
+    "hashtags": [
+        {
+            "text": "BORDERNEWS"
+        }
+    ],
+    "id": 1145772576381296641,
+    "id_str": "1145772576381296641",
+    "lang": "en",
+    "retweet_count": 355,
+    "retweeted_status": {
+        "created_at": "Mon Jul 01 18:39:37 +0000 2019",
+        "favorite_count": 817,
+        "hashtags": [
+            {
+                "text": "BORDERNEWS"
+            }
+        ],
+        "id": 1145763908722053120,
+        "id_str": "1145763908722053120",
+        "lang": "en",
+        "place": {
+            "id": "56e525d58114f761",
+            "url": "https://api.twitter.com/1.1/geo/id/56e525d58114f761.json",
+            "place_type": "city",
+            "name": "Reynosa",
+            "full_name": "Reynosa, Tamaulipas",
+            "country_code": "MX",
+            "country": "Mexico",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -98.587332,
+                            25.4458489
+                        ],
+                        [
+                            -98.13773,
+                            25.4458489
+                        ],
+                        [
+                            -98.13773,
+                            26.227286
+                        ],
+                        [
+                            -98.587332,
+                            26.227286
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 355,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#BORDERNEWS \u201cOver 144,000 people crossed the river last month, in one month alone. This is a crisis. The loopholes\u2026 https://t.co/a7gvbuCQCA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1145763908722053120",
+                "url": "https://t.co/a7gvbuCQCA"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 05 20:43:35 +0000 2017",
+            "description": "News Reporter @KGBT | Former @KWKTFOX44 | Digging into the latest Border, Breaking, Corruption and Crime News in the Rio Grande Valley\ud83d\udcfa\u2728@Syhernandez@sbgtv.com",
+            "favourites_count": 6295,
+            "followers_count": 4247,
+            "friends_count": 837,
+            "geo_enabled": true,
+            "id": 849724216274374656,
+            "id_str": "849724216274374656",
+            "listed_count": 41,
+            "location": "TEXAS MEXICO BORDER ",
+            "name": "Sydney Hernandez",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/849724216274374656/1542835794",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1084173482034909185/sPUlG_50_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084173482034909185/sPUlG_50_normal.jpg",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "SydneyKGBT",
+            "statuses_count": 2510,
+            "url": "https://t.co/rj6SLmOrgt"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SydneyKGBT: #BORDERNEWS \u201cOver 144,000 people crossed the river last month, in one month alone. This is a crisis. The loopholes that Con\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 09 18:11:37 +0000 2013",
+        "description": "Representing the State of Texas in the United States Senate.",
+        "favourites_count": 401,
+        "followers_count": 1260401,
+        "friends_count": 6990,
+        "geo_enabled": true,
+        "id": 1074480192,
+        "id_str": "1074480192",
+        "listed_count": 8459,
+        "location": "Houston, Texas",
+        "name": "Senator Ted Cruz",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074480192/1515618797",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenTedCruz",
+        "statuses_count": 10790,
+        "url": "https://t.co/9HWCyvsTvJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 849724216274374656,
+            "id_str": "849724216274374656",
+            "name": "Sydney Hernandez",
+            "screen_name": "SydneyKGBT"
+        }
+    ]
+}

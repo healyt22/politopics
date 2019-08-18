@@ -1,0 +1,129 @@
+{
+    "created_at": "Fri Jun 21 01:35:00 +0000 2019",
+    "hashtags": [],
+    "id": 1141882175920443392,
+    "id_str": "1141882175920443392",
+    "lang": "en",
+    "retweet_count": 89,
+    "retweeted_status": {
+        "created_at": "Fri Jun 21 01:14:06 +0000 2019",
+        "favorite_count": 248,
+        "hashtags": [],
+        "id": 1141876917345378305,
+        "id_str": "1141876917345378305",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 89,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We went to Capitol Hill today to send Mitch McConnell a message.\n\nTo remind him that since the House passed backgro\u2026 https://t.co/NsK6OZxFJl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141876917345378305",
+                "url": "https://t.co/NsK6OZxFJl"
+            }
+        ],
+        "user": {
+            "created_at": "Tue May 22 16:10:22 +0000 2012",
+            "description": "Founded by @GabbyGiffords and @ShuttleCDRKelly, Giffords is on a mission to save lives from gun violence.",
+            "favourites_count": 4483,
+            "followers_count": 66488,
+            "friends_count": 1949,
+            "geo_enabled": true,
+            "id": 587536673,
+            "id_str": "587536673",
+            "listed_count": 684,
+            "location": "Washington, DC",
+            "name": "Giffords",
+            "profile_background_color": "666767",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/587536673/1552410633",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1146071334595829760/GTM8fGad_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146071334595829760/GTM8fGad_normal.png",
+            "profile_link_color": "171C4B",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GiffordsCourage",
+            "statuses_count": 15283,
+            "url": "https://t.co/NB3NWyKEQV",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GiffordsCourage: We went to Capitol Hill today to send Mitch McConnell a message.\n\nTo remind him that since the House passed background\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon May 23 14:58:06 +0000 2011",
+        "default_profile": true,
+        "description": "Rep. Mike Thompson represents California's 5th Congressional District and chairs the House Gun Violence Prevention Task Force.",
+        "favourites_count": 43,
+        "followers_count": 28611,
+        "friends_count": 421,
+        "id": 303861808,
+        "id_str": "303861808",
+        "listed_count": 837,
+        "location": "St. Helena, CA",
+        "name": "Mike Thompson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/303861808/1522080424",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1127943228727209986/JzbYTuQJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127943228727209986/JzbYTuQJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepThompson",
+        "statuses_count": 8328,
+        "url": "https://t.co/nPlTDENiPK",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 587536673,
+            "id_str": "587536673",
+            "name": "Giffords",
+            "screen_name": "GiffordsCourage"
+        }
+    ]
+}

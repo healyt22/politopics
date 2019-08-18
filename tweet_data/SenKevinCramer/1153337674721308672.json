@@ -1,0 +1,108 @@
+{
+    "created_at": "Mon Jul 22 16:15:04 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1153337674721308672,
+    "id_str": "1153337674721308672",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jul 22 15:46:39 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1153330525928640512,
+        "id_str": "1153330525928640512",
+        "lang": "en",
+        "retweet_count": 12,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "FMCSA is working to help American farmers and commercial drivers by seeking public comment agricultural commodity d\u2026 https://t.co/LA4Rd0vRzh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1153330525928640512",
+                "url": "https://t.co/LA4Rd0vRzh"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 12 18:12:42 +0000 2015",
+            "description": "Our primary mission is to prevent crashes, injuries and fatalities involving large trucks and buses.",
+            "favourites_count": 44,
+            "followers_count": 5702,
+            "friends_count": 70,
+            "id": 3418461995,
+            "id_str": "3418461995",
+            "listed_count": 76,
+            "location": "Washington, DC",
+            "name": "FMCSA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3418461995/1555605853",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1139512376586321920/rpvIyg8n_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139512376586321920/rpvIyg8n_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "FMCSA",
+            "statuses_count": 1130,
+            "url": "https://t.co/4MAxvV7JGo",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1153330525928640512,
+    "quoted_status_id_str": "1153330525928640512",
+    "retweet_count": 3,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "This is a good next step, and I applaud @SecElaineChao and @SecretarySonny for taking it. \n\nHOS reform is a top pri\u2026 https://t.co/Gk4Gv4nlPt",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153337674721308672",
+            "url": "https://t.co/Gk4Gv4nlPt"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 30 20:54:06 +0000 2012",
+        "description": "Representing the great people of North Dakota in the United States Senate.",
+        "favourites_count": 139,
+        "followers_count": 19670,
+        "friends_count": 497,
+        "geo_enabled": true,
+        "id": 1048784496,
+        "id_str": "1048784496",
+        "listed_count": 802,
+        "name": "Sen. Kevin Cramer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048784496/1546464991",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenKevinCramer",
+        "statuses_count": 3909,
+        "url": "https://t.co/M4l7PNHhUi",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 826065858548133888,
+            "id_str": "826065858548133888",
+            "name": "Sec. Elaine L. Chao",
+            "screen_name": "SecElaineChao"
+        },
+        {
+            "id": 842072478834909184,
+            "id_str": "842072478834909184",
+            "name": "Sec. Sonny Perdue",
+            "screen_name": "SecretarySonny"
+        }
+    ]
+}

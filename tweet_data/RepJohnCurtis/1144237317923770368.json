@@ -1,0 +1,187 @@
+{
+    "created_at": "Thu Jun 27 13:33:30 +0000 2019",
+    "hashtags": [],
+    "id": 1144237317923770368,
+    "id_str": "1144237317923770368",
+    "lang": "en",
+    "quoted_status_id": 1144012680551960577,
+    "quoted_status_id_str": "1144012680551960577",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Jun 27 13:05:55 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1144230377806020608,
+        "id_str": "1144230377806020608",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Wed Jun 26 22:40:52 +0000 2019",
+            "favorite_count": 8,
+            "hashtags": [],
+            "id": 1144012680551960577,
+            "id_str": "1144012680551960577",
+            "in_reply_to_screen_name": "RepJohnCurtis",
+            "in_reply_to_status_id": 1144012679675359235,
+            "in_reply_to_user_id": 931614483050414080,
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/iTgJvbnsST",
+                    "expanded_url": "https://twitter.com/RepJohnCurtis/status/1144012680551960577/photo/1",
+                    "id": 1144012400963837954,
+                    "media_url": "http://pbs.twimg.com/media/D-BZN6oXYAIgxqx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D-BZN6oXYAIgxqx.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1196,
+                            "h": 808,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 459,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1196,
+                            "h": 808,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/iTgJvbnsST"
+                }
+            ],
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Not to mention-- the guy's got great sock game. https://t.co/iTgJvbnsST",
+            "urls": [],
+            "user": {
+                "created_at": "Fri Nov 17 20:06:16 +0000 2017",
+                "description": "Official account for Congressman John Curtis, self-proclaimed millennial. Proudly serving the people of Utah's 3rd district.",
+                "favourites_count": 1059,
+                "followers_count": 3244,
+                "friends_count": 197,
+                "geo_enabled": true,
+                "id": 931614483050414080,
+                "id_str": "931614483050414080",
+                "listed_count": 164,
+                "location": "Utah and DC",
+                "name": "Rep. John Curtis",
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/931614483050414080/1552422198",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1143191800548663299/9Ffm2sDG_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143191800548663299/9Ffm2sDG_normal.png",
+                "profile_link_color": "6C7614",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "screen_name": "RepJohnCurtis",
+                "statuses_count": 1739,
+                "url": "https://t.co/EXDQ281Hrl",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1144012680551960577,
+        "quoted_status_id_str": "1144012680551960577",
+        "retweet_count": 1,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "As do you @RepJohnCurtis  \ud83d\ude00 https://t.co/UUF45z4vwl",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/RepJohnCurtis/status/1144012680551960577",
+                "url": "https://t.co/UUF45z4vwl"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 06 18:56:30 +0000 2016",
+            "default_profile": true,
+            "description": "We're inspired by our co-founder, John Cronin, a young man with Down syndrome, who loves his socks & wants to share that joy with everyone.",
+            "favourites_count": 3976,
+            "followers_count": 8615,
+            "friends_count": 158,
+            "geo_enabled": true,
+            "id": 806210727170244612,
+            "id_str": "806210727170244612",
+            "listed_count": 31,
+            "location": "Melville, NY",
+            "name": "John's Crazy Socks",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/806210727170244612/1530289263",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1112814727246372866/XUoiE1KH_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112814727246372866/XUoiE1KH_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JohnsCrazySocks",
+            "statuses_count": 3341,
+            "url": "https://t.co/LHd8oaEnE9"
+        },
+        "user_mentions": [
+            {
+                "id": 931614483050414080,
+                "id_str": "931614483050414080",
+                "name": "Rep. John Curtis",
+                "screen_name": "RepJohnCurtis"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @JohnsCrazySocks: As do you @RepJohnCurtis  \ud83d\ude00 https://t.co/UUF45z4vwl",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RepJohnCurtis/status/1144012680551960577",
+            "url": "https://t.co/UUF45z4vwl"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Nov 17 20:06:16 +0000 2017",
+        "description": "Official account for Congressman John Curtis, self-proclaimed millennial. Proudly serving the people of Utah's 3rd district.",
+        "favourites_count": 1059,
+        "followers_count": 3244,
+        "friends_count": 197,
+        "geo_enabled": true,
+        "id": 931614483050414080,
+        "id_str": "931614483050414080",
+        "listed_count": 164,
+        "location": "Utah and DC",
+        "name": "Rep. John Curtis",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/931614483050414080/1552422198",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143191800548663299/9Ffm2sDG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143191800548663299/9Ffm2sDG_normal.png",
+        "profile_link_color": "6C7614",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepJohnCurtis",
+        "statuses_count": 1739,
+        "url": "https://t.co/EXDQ281Hrl",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 806210727170244612,
+            "id_str": "806210727170244612",
+            "name": "John's Crazy Socks",
+            "screen_name": "JohnsCrazySocks"
+        },
+        {
+            "id": 931614483050414080,
+            "id_str": "931614483050414080",
+            "name": "Rep. John Curtis",
+            "screen_name": "RepJohnCurtis"
+        }
+    ]
+}

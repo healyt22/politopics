@@ -1,0 +1,155 @@
+{
+    "created_at": "Thu Jul 25 00:42:52 +0000 2019",
+    "favorite_count": 1772,
+    "hashtags": [],
+    "id": 1154190244151009280,
+    "id_str": "1154190244151009280",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jul 25 00:32:56 +0000 2019",
+        "favorite_count": 2799,
+        "hashtags": [],
+        "id": 1154187743100100609,
+        "id_str": "1154187743100100609",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 956,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Such a disgrace that @TRConsulNY attacked @ICLINY through their bully tactics and caused my camp\u2019s cancellation; th\u2026 https://t.co/bIK92fbAnR",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154187743100100609",
+                "url": "https://t.co/bIK92fbAnR"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 20 16:29:14 +0000 2011",
+            "description": "{Hizmetin Hizmetk\u00e2r\u0131} #Live4Others https://t.co/2ff4gWjSdE & https://t.co/OY1rPtavCH |\ud83d\udc7b eneskanter11",
+            "favourites_count": 14,
+            "followers_count": 459983,
+            "geo_enabled": true,
+            "id": 302111485,
+            "id_str": "302111485",
+            "listed_count": 1827,
+            "location": "Pennsylvania, USA",
+            "name": "Enes Kanter",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/302111485/1560303093",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147544194715664384/Ne_XHje8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147544194715664384/Ne_XHje8_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "EnesKanter",
+            "statuses_count": 7720,
+            "url": "https://t.co/0qUS2vdMKK",
+            "verified": true,
+            "withheld_in_countries": [
+                "TR"
+            ]
+        },
+        "user_mentions": [
+            {
+                "id": 443182335,
+                "id_str": "443182335",
+                "name": "TR Consulate NewYork",
+                "screen_name": "TRConsulNY"
+            },
+            {
+                "id": 1724466494,
+                "id_str": "1724466494",
+                "name": "Islamic Center of LI",
+                "screen_name": "ICLINY"
+            }
+        ],
+        "withheld_in_countries": [
+            "TR"
+        ]
+    },
+    "quoted_status_id": 1154187743100100609,
+    "quoted_status_id_str": "1154187743100100609",
+    "retweet_count": 685,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "This is shameful. My office is working with @EnesKanter to find an alternative location nearby that can host his ca\u2026 https://t.co/RnoDTN4eV7",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1154190244151009280",
+            "url": "https://t.co/RnoDTN4eV7"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 09 21:18:27 +0000 2015",
+        "description": "U.S. Representative for #NY04 (Long Island). Former Nassau County DA.",
+        "favourites_count": 360,
+        "followers_count": 27825,
+        "friends_count": 1301,
+        "geo_enabled": true,
+        "id": 2970462034,
+        "id_str": "2970462034",
+        "listed_count": 681,
+        "location": "Long Island, NY",
+        "name": "Kathleen Rice",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2970462034/1560185274",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/755805100094984192/dxloSyzZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/755805100094984192/dxloSyzZ_normal.jpg",
+        "profile_link_color": "42ABED",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepKathleenRice",
+        "statuses_count": 2988,
+        "url": "http://t.co/XBMpgvbVZ1",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 302111485,
+            "id_str": "302111485",
+            "name": "Enes Kanter",
+            "screen_name": "EnesKanter"
+        }
+    ]
+}

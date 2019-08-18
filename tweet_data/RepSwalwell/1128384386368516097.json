@@ -1,0 +1,132 @@
+{
+    "created_at": "Tue May 14 19:39:36 +0000 2019",
+    "hashtags": [],
+    "id": 1128384386368516097,
+    "id_str": "1128384386368516097",
+    "lang": "en",
+    "retweet_count": 123,
+    "retweeted_status": {
+        "created_at": "Tue May 14 16:09:24 +0000 2019",
+        "favorite_count": 309,
+        "hashtags": [],
+        "id": 1128331485314985984,
+        "id_str": "1128331485314985984",
+        "lang": "en",
+        "retweet_count": 123,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "For @Politifact/@KHNews, I fact-checked @RepSwalwell, who said Georgia's new abortion law \"outlaws abortion before\u2026 https://t.co/HnrutTyTzL",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1128331485314985984",
+                "url": "https://t.co/HnrutTyTzL"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Apr 19 03:18:42 +0000 2011",
+            "default_profile": true,
+            "description": "@KHNews correspondent. Reporting on health care, fact-checking politicians, listening to Julien Baker. Tips: shefalil@kff.org / DM for Signal.",
+            "favourites_count": 2140,
+            "followers_count": 2842,
+            "friends_count": 840,
+            "geo_enabled": true,
+            "id": 284340330,
+            "id_str": "284340330",
+            "listed_count": 147,
+            "location": "the nation's capital",
+            "name": "Shefali Luthra",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/284340330/1556222438",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1138547446005542913/sfJPo2mM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138547446005542913/sfJPo2mM_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "shefalil",
+            "statuses_count": 3597,
+            "url": "https://t.co/LI2qFdxYGf",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 8953122,
+                "id_str": "8953122",
+                "name": "PolitiFact",
+                "screen_name": "PolitiFact"
+            },
+            {
+                "id": 23999515,
+                "id_str": "23999515",
+                "name": "Kaiser Health News",
+                "screen_name": "KHNews"
+            },
+            {
+                "id": 942156122,
+                "id_str": "942156122",
+                "name": "Rep. Eric Swalwell",
+                "screen_name": "RepSwalwell"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @shefalil: For @Politifact/@KHNews, I fact-checked @RepSwalwell, who said Georgia's new abortion law \"outlaws abortion before most women\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Nov 11 20:26:01 +0000 2012",
+        "description": "Husband & Papa to Nelson/Cricket. CA Congressman @HouseJudiciary/@HouseIntel. Promise of America: if you work hard, you do better & dream bigger #FreedomToDream",
+        "favourites_count": 17508,
+        "followers_count": 541704,
+        "friends_count": 8755,
+        "geo_enabled": true,
+        "id": 942156122,
+        "id_str": "942156122",
+        "listed_count": 3868,
+        "location": "East Bay, CA & DC (CA-15)",
+        "name": "Rep. Eric Swalwell",
+        "profile_background_color": "2967B3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/942156122/1548969863",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083558899029032961/tweWUB8Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083558899029032961/tweWUB8Y_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSwalwell",
+        "statuses_count": 11415,
+        "url": "https://t.co/tq8A1WWg2Y",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 284340330,
+            "id_str": "284340330",
+            "name": "Shefali Luthra",
+            "screen_name": "shefalil"
+        },
+        {
+            "id": 8953122,
+            "id_str": "8953122",
+            "name": "PolitiFact",
+            "screen_name": "PolitiFact"
+        },
+        {
+            "id": 23999515,
+            "id_str": "23999515",
+            "name": "Kaiser Health News",
+            "screen_name": "KHNews"
+        },
+        {
+            "id": 942156122,
+            "id_str": "942156122",
+            "name": "Rep. Eric Swalwell",
+            "screen_name": "RepSwalwell"
+        }
+    ]
+}

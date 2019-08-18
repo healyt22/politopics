@@ -1,0 +1,103 @@
+{
+    "created_at": "Tue Jun 25 17:49:56 +0000 2019",
+    "hashtags": [],
+    "id": 1143577075367972868,
+    "id_str": "1143577075367972868",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Jun 25 16:17:32 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1143553824415768577,
+        "id_str": "1143553824415768577",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@SenJohnBarrasso: Over the 54 year history of the program, about 27 percent of all the funds have been allocated f\u2026 https://t.co/xYeUgPVPKG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143553824415768577",
+                "url": "https://t.co/xYeUgPVPKG"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Oct 15 16:44:57 +0000 2009",
+            "description": "Official Twitter account for the U.S. Senate Committee on Energy and Natural Resources (Majority), Chaired by @LisaMurkowski of #Alaska.",
+            "favourites_count": 2100,
+            "followers_count": 12376,
+            "friends_count": 823,
+            "geo_enabled": true,
+            "id": 82657929,
+            "id_str": "82657929",
+            "listed_count": 617,
+            "location": "Washington, DC",
+            "name": "Senate Energy GOP",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/82657929/1534363813",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1029822926751707140/99iWp5id_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029822926751707140/99iWp5id_normal.jpg",
+            "profile_link_color": "1E5011",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "EnergyGOP",
+            "statuses_count": 7628,
+            "url": "https://t.co/j28reJSLPk",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 202206694,
+                "id_str": "202206694",
+                "name": "Sen. John Barrasso",
+                "screen_name": "SenJohnBarrasso"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @EnergyGOP: .@SenJohnBarrasso: Over the 54 year history of the program, about 27 percent of all the funds have been allocated for state\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Oct 13 14:49:08 +0000 2010",
+        "description": "U.S. Senator for the great state of Wyoming, @SenateGOP Chairman, and Chairman of @EPWGOP.",
+        "favourites_count": 21,
+        "followers_count": 118014,
+        "friends_count": 518,
+        "id": 202206694,
+        "id_str": "202206694",
+        "listed_count": 2251,
+        "name": "Sen. John Barrasso",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJohnBarrasso",
+        "statuses_count": 4342,
+        "url": "http://t.co/oAKWpUrAWS",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 82657929,
+            "id_str": "82657929",
+            "name": "Senate Energy GOP",
+            "screen_name": "EnergyGOP"
+        },
+        {
+            "id": 202206694,
+            "id_str": "202206694",
+            "name": "Sen. John Barrasso",
+            "screen_name": "SenJohnBarrasso"
+        }
+    ]
+}

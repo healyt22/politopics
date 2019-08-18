@@ -1,0 +1,201 @@
+{
+    "created_at": "Wed May 29 00:31:17 +0000 2019",
+    "hashtags": [],
+    "id": 1133531219768029185,
+    "id_str": "1133531219768029185",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/V9smZPmf1g",
+            "expanded_url": "https://twitter.com/NWSKansasCity/status/1133531006017781760/photo/1",
+            "id": 1133531004570722304,
+            "media_url": "http://pbs.twimg.com/media/D7sccWVUYAA-pxS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7sccWVUYAA-pxS.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 1020,
+                    "h": 860,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1020,
+                    "h": 860,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 573,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/V9smZPmf1g"
+        }
+    ],
+    "retweet_count": 24,
+    "retweeted_status": {
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -94.41088363,
+                39.28891173
+            ]
+        },
+        "created_at": "Wed May 29 00:30:26 +0000 2019",
+        "favorite_count": 32,
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                39.28891173,
+                -94.41088363
+            ]
+        },
+        "hashtags": [],
+        "id": 1133531006017781760,
+        "id_str": "1133531006017781760",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/V9smZPmf1g",
+                "expanded_url": "https://twitter.com/NWSKansasCity/status/1133531006017781760/photo/1",
+                "id": 1133531004570722304,
+                "media_url": "http://pbs.twimg.com/media/D7sccWVUYAA-pxS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D7sccWVUYAA-pxS.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 1020,
+                        "h": 860,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1020,
+                        "h": 860,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 573,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/V9smZPmf1g"
+            }
+        ],
+        "place": {
+            "id": "2526edd24c06e60c",
+            "url": "https://api.twitter.com/1.1/geo/id/2526edd24c06e60c.json",
+            "place_type": "admin",
+            "name": "Missouri",
+            "full_name": "Missouri, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.774704,
+                            35.995476
+                        ],
+                        [
+                            -89.098843,
+                            35.995476
+                        ],
+                        [
+                            -89.098843,
+                            40.613641
+                        ],
+                        [
+                            -95.774704,
+                            40.613641
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 24,
+        "source": "<a href=\"http://www.weather.gov/crh/impact\" rel=\"nofollow\">Svr Wx Impact Graphics - EAX</a>",
+        "text": "Flash Flood Warning including Kansas City MO, Independence MO, Liberty MO until 1:30 AM CDT https://t.co/V9smZPmf1g",
+        "urls": [],
+        "user": {
+            "created_at": "Mon May 23 20:52:10 +0000 2011",
+            "description": "This is the official twitter account for the National Weather Service in Kansas City/Pleasant Hill, MO. Details: http://t.co/KKTK7cZlhK",
+            "favourites_count": 4874,
+            "followers_count": 63780,
+            "friends_count": 414,
+            "geo_enabled": true,
+            "id": 304043568,
+            "id_str": "304043568",
+            "listed_count": 1143,
+            "location": "Kansas City/Pleasant Hill, MO",
+            "name": "NWS Kansas City",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/304043568/1497973081",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/711662160829669376/0nJUMs1r_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/711662160829669376/0nJUMs1r_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NWSKansasCity",
+            "statuses_count": 22365,
+            "url": "http://t.co/DFWUQIvk7X",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @NWSKansasCity: Flash Flood Warning including Kansas City MO, Independence MO, Liberty MO until 1:30 AM CDT https://t.co/V9smZPmf1g",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 06 19:14:47 +0000 2010",
+        "description": "This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri's Fifth District.",
+        "favourites_count": 474,
+        "followers_count": 41954,
+        "friends_count": 1021,
+        "geo_enabled": true,
+        "id": 163570705,
+        "id_str": "163570705",
+        "listed_count": 1143,
+        "name": "Rep. Emanuel Cleaver",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163570705/1553799524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repcleaver",
+        "statuses_count": 6606,
+        "url": "https://t.co/dOfaqxI1gQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 304043568,
+            "id_str": "304043568",
+            "name": "NWS Kansas City",
+            "screen_name": "NWSKansasCity"
+        }
+    ]
+}

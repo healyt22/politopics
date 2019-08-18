@@ -1,0 +1,84 @@
+{
+    "created_at": "Sun Apr 28 00:24:12 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "Edon"
+        }
+    ],
+    "id": 1122295414529712128,
+    "id_str": "1122295414529712128",
+    "lang": "en",
+    "place": {
+        "id": "07d9e9e408088000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e9e408088000.json",
+        "place_type": "poi",
+        "name": "Edon Schools",
+        "full_name": "Edon Schools",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -84.77946729801492,
+                        41.55788194480359
+                    ],
+                    [
+                        -84.77946729801492,
+                        41.55788194480359
+                    ],
+                    [
+                        -84.77946729801492,
+                        41.55788194480359
+                    ],
+                    [
+                        -84.77946729801492,
+                        41.55788194480359
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "A big crowd in #Edon for the North Western Electric Cooperative annual meeting.\n\nI spoke about a number of energy i\u2026 https://t.co/Mj9ficKTIu",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1122295414529712128",
+            "url": "https://t.co/Mj9ficKTIu"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 11 18:33:24 +0000 2008",
+        "description": "Representing #OH5. Deputy Whip. Member of @HouseCommerce Committee. Republican Leader of the Communications and Technology Subcommittee.",
+        "favourites_count": 531,
+        "followers_count": 37776,
+        "friends_count": 2943,
+        "geo_enabled": true,
+        "id": 15394954,
+        "id_str": "15394954",
+        "listed_count": 1348,
+        "name": "U.S. Rep. Bob Latta",
+        "profile_background_color": "4F4F4F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15394954/1436980975",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621369511636135937/Zk5PgsWw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621369511636135937/Zk5PgsWw_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "550000",
+        "profile_sidebar_fill_color": "B2CEED",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "boblatta",
+        "statuses_count": 7125,
+        "url": "http://t.co/dSKBcpo6FL",
+        "verified": true
+    },
+    "user_mentions": []
+}

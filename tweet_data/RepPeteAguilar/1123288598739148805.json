@@ -1,0 +1,141 @@
+{
+    "created_at": "Tue Apr 30 18:10:46 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [],
+    "id": 1123288598739148805,
+    "id_str": "1123288598739148805",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 30 17:00:06 +0000 2019",
+        "favorite_count": 52,
+        "hashtags": [
+            {
+                "text": "SanBernardino"
+            },
+            {
+                "text": "WheelofFortune"
+            }
+        ],
+        "id": 1123270814172962816,
+        "id_str": "1123270814172962816",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Fizhy9RSWs",
+                "expanded_url": "https://twitter.com/ABC7/status/1123270814172962816/photo/1",
+                "id": 1123270794744934401,
+                "media_url": "http://pbs.twimg.com/media/D5ao1iNXsAEFxw7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D5ao1iNXsAEFxw7.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1344,
+                        "h": 2016,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 800,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 453,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Fizhy9RSWs"
+            }
+        ],
+        "retweet_count": 8,
+        "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+        "text": "Sylvia Myers from #SanBernardino is on @WheelofFortune tonight.  Cheer her on at 730pm on @abc7.  #WheelofFortune https://t.co/Fizhy9RSWs",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Sep 20 04:22:30 +0000 2008",
+            "description": "Your #1 breaking news source in Southern California. When you witness news, share it with #abc7eyewitness.",
+            "favourites_count": 3358,
+            "followers_count": 1088643,
+            "friends_count": 453,
+            "geo_enabled": true,
+            "id": 16374678,
+            "id_str": "16374678",
+            "listed_count": 6545,
+            "name": "ABC7 Eyewitness News",
+            "profile_background_color": "044CC1",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16374678/1502745997",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_normal.jpg",
+            "profile_link_color": "044CC1",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DEDEDE",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ABC7",
+            "statuses_count": 198377,
+            "url": "https://t.co/wA2krgJd0y",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 52553796,
+                "id_str": "52553796",
+                "name": "Wheel of Fortune",
+                "screen_name": "WheelofFortune"
+            },
+            {
+                "id": 16374678,
+                "id_str": "16374678",
+                "name": "ABC7 Eyewitness News",
+                "screen_name": "ABC7"
+            }
+        ]
+    },
+    "quoted_status_id": 1123270814172962816,
+    "quoted_status_id_str": "1123270814172962816",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "G _ _ D  L _ CK SYLVIA! \n\nWe'll be cheering you on from San Bernardino and DC. https://t.co/20yke1YtbY",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/ABC7/status/1123270814172962816",
+            "url": "https://t.co/20yke1YtbY"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Feb 04 21:01:23 +0000 2015",
+        "default_profile": true,
+        "description": "Pete Aguilar represents CA\u2019s 31st Congressional District. A former mayor, Rep. Aguilar is committed to strengthening the Inland Empire\u2019s middle class.",
+        "favourites_count": 3,
+        "followers_count": 12488,
+        "friends_count": 326,
+        "id": 3018670151,
+        "id_str": "3018670151",
+        "listed_count": 571,
+        "location": "San Bernardino, CA",
+        "name": "Rep. Pete Aguilar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018670151/1522169391",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978674008735584256/vlRYXhmR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978674008735584256/vlRYXhmR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPeteAguilar",
+        "statuses_count": 1678,
+        "url": "http://t.co/o4deRoUnuK",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,150 @@
+{
+    "created_at": "Sat Apr 13 02:11:10 +0000 2019",
+    "hashtags": [],
+    "id": 1116886516427575296,
+    "id_str": "1116886516427575296",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Sat Apr 13 01:33:59 +0000 2019",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 1116877158591401985,
+        "id_str": "1116877158591401985",
+        "lang": "en",
+        "place": {
+            "id": "07d9d24cd3482001",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d24cd3482001.json",
+            "place_type": "poi",
+            "name": "Newberry College",
+            "full_name": "Newberry College",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.62105883228197,
+                            34.285570230060436
+                        ],
+                        [
+                            -81.62105883228197,
+                            34.285570230060436
+                        ],
+                        [
+                            -81.62105883228197,
+                            34.285570230060436
+                        ],
+                        [
+                            -81.62105883228197,
+                            34.285570230060436
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Impressive night at @ArmyROTC Dining Out for Highlander Battalion 100th Year of Commissioning.  @NewberryCollege\u2026 https://t.co/da4hL8W5PC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1116877158591401985",
+                "url": "https://t.co/da4hL8W5PC"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 21 19:26:56 +0000 2009",
+            "default_profile": true,
+            "description": "Mayor of Newberry. Husband to Sharon for 26 great years, dad of three, sports fan, including the Newberry Wolves. This is a personal account.",
+            "favourites_count": 6715,
+            "followers_count": 789,
+            "friends_count": 397,
+            "geo_enabled": true,
+            "id": 19302335,
+            "id_str": "19302335",
+            "listed_count": 7,
+            "location": "Newberry, SC",
+            "name": "Foster Senn",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19302335/1424661816",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/988465176482639872/GTC1M-CU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/988465176482639872/GTC1M-CU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "fostersenn",
+            "statuses_count": 2180
+        },
+        "user_mentions": [
+            {
+                "id": 24234881,
+                "id_str": "24234881",
+                "name": "Army ROTC",
+                "screen_name": "ArmyROTC"
+            },
+            {
+                "id": 52808311,
+                "id_str": "52808311",
+                "name": "Newberry College",
+                "screen_name": "NewberryCollege"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @fostersenn: Impressive night at @ArmyROTC Dining Out for Highlander Battalion 100th Year of Commissioning.  @NewberryCollege @presbycol\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jun 29 17:38:35 +0000 2017",
+        "default_profile": true,
+        "description": "Official account of U.S. Congressman Ralph Norman. Proudly serving the 5th congressional district of South Carolina.",
+        "favourites_count": 384,
+        "followers_count": 6470,
+        "friends_count": 675,
+        "id": 880480631108644864,
+        "id_str": "880480631108644864",
+        "listed_count": 282,
+        "location": "South Carolina, USA",
+        "name": "Rep. Ralph Norman",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/880480631108644864/1561058726",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/886594415904608258/VyYZc8Uk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/886594415904608258/VyYZc8Uk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRalphNorman",
+        "statuses_count": 1553,
+        "url": "https://t.co/cjGUNi1VrC",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19302335,
+            "id_str": "19302335",
+            "name": "Foster Senn",
+            "screen_name": "fostersenn"
+        },
+        {
+            "id": 24234881,
+            "id_str": "24234881",
+            "name": "Army ROTC",
+            "screen_name": "ArmyROTC"
+        },
+        {
+            "id": 52808311,
+            "id_str": "52808311",
+            "name": "Newberry College",
+            "screen_name": "NewberryCollege"
+        }
+    ]
+}

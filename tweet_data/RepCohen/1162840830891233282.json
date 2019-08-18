@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Aug 17 21:37:13 +0000 2019",
+    "hashtags": [
+        {
+            "text": "RecessRally"
+        },
+        {
+            "text": "StudentsDemandAction"
+        }
+    ],
+    "id": 1162840830891233282,
+    "id_str": "1162840830891233282",
+    "lang": "en",
+    "retweet_count": 61,
+    "retweeted_status": {
+        "created_at": "Sat Aug 17 19:46:13 +0000 2019",
+        "favorite_count": 98,
+        "hashtags": [
+            {
+                "text": "RecessRally"
+            },
+            {
+                "text": "StudentsDemandAction"
+            }
+        ],
+        "id": 1162812899322159104,
+        "id_str": "1162812899322159104",
+        "lang": "en",
+        "place": {
+            "id": "f995a9bd45d4a867",
+            "url": "https://api.twitter.com/1.1/geo/id/f995a9bd45d4a867.json",
+            "place_type": "city",
+            "name": "Memphis",
+            "full_name": "Memphis, TN",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.135782,
+                            34.994192
+                        ],
+                        [
+                            -89.708276,
+                            34.994192
+                        ],
+                        [
+                            -89.708276,
+                            35.2728491
+                        ],
+                        [
+                            -90.135782,
+                            35.2728491
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 61,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "HAPPENING NOW at a #RecessRally in Memphis, Tennessee\ud83d\udc49 @MomsDemand and #StudentsDemandAction volunteers will not si\u2026 https://t.co/IKIy9LHTwh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162812899322159104",
+                "url": "https://t.co/IKIy9LHTwh"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 04 01:06:42 +0000 2011",
+            "default_profile": true,
+            "description": "A mom loving on her babies, gardening, & climbing Tennessee\u2019s mountains. #Gunsense advocate, @MomsDemand, NRA Fx, #FightLikeAMother #GeeksResist",
+            "favourites_count": 15171,
+            "followers_count": 2589,
+            "friends_count": 3944,
+            "geo_enabled": true,
+            "id": 348189713,
+            "id_str": "348189713",
+            "listed_count": 12,
+            "location": "Tennessee, USA",
+            "name": "JBell",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/348189713/1539280789",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1098640316641492994/cki1lkzz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098640316641492994/cki1lkzz_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "jbellbooks",
+            "statuses_count": 8616
+        },
+        "user_mentions": [
+            {
+                "id": 1017637447,
+                "id_str": "1017637447",
+                "name": "Moms Demand Action",
+                "screen_name": "MomsDemand"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @jbellbooks: HAPPENING NOW at a #RecessRally in Memphis, Tennessee\ud83d\udc49 @MomsDemand and #StudentsDemandAction volunteers will not sit by whi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 02 15:10:21 +0000 2010",
+        "description": "CongressTN09 Memphis;Judiciary&Transportation;Civil Rights&Liberties;Impeach45; Women&Minority Issues;Med. Research;Animal Welfare;Father of TN Ed. Lottery; Dem",
+        "favourites_count": 21591,
+        "followers_count": 66530,
+        "friends_count": 7388,
+        "geo_enabled": true,
+        "id": 162069635,
+        "id_str": "162069635",
+        "listed_count": 1673,
+        "location": "Memphis, TN and Washington, DC",
+        "name": "Steve Cohen",
+        "profile_background_color": "002436",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/162069635/1478383164",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096455442635636737/9KUK51VJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096455442635636737/9KUK51VJ_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepCohen",
+        "statuses_count": 9935,
+        "url": "https://t.co/8nluo21rdt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 348189713,
+            "id_str": "348189713",
+            "name": "JBell",
+            "screen_name": "jbellbooks"
+        },
+        {
+            "id": 1017637447,
+            "id_str": "1017637447",
+            "name": "Moms Demand Action",
+            "screen_name": "MomsDemand"
+        }
+    ]
+}

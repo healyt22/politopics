@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun Jun 30 14:35:14 +0000 2019",
+    "favorite_count": 145,
+    "hashtags": [],
+    "id": 1145340017402929153,
+    "id_str": "1145340017402929153",
+    "lang": "en",
+    "place": {
+        "id": "3df4f427b5a60fea",
+        "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+        "place_type": "city",
+        "name": "San Antonio",
+        "full_name": "San Antonio, TX",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -98.778559,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.693046
+                    ],
+                    [
+                        -98.778559,
+                        29.693046
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 48,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "In 2 days, @RepLloydDoggett &amp; I will be hosting a town hall to address domestic violence in San Antonio. We will be\u2026 https://t.co/vOM9gzqXVK",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1145340017402929153",
+            "url": "https://t.co/vOM9gzqXVK"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+        "description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of Intelligence and @EdLaborCmte Commitees; host of @DiploCable.",
+        "favourites_count": 5660,
+        "followers_count": 182186,
+        "friends_count": 1891,
+        "geo_enabled": true,
+        "id": 231510077,
+        "id_str": "231510077",
+        "listed_count": 2351,
+        "location": "San Antonio, Texas",
+        "name": "Joaquin Castro",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoaquinCastrotx",
+        "statuses_count": 14753,
+        "url": "http://t.co/SBuEnv1k",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 153944899,
+            "id_str": "153944899",
+            "name": "Lloyd Doggett",
+            "screen_name": "RepLloydDoggett"
+        }
+    ]
+}

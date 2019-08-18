@@ -1,0 +1,151 @@
+{
+    "created_at": "Wed Jul 17 05:09:05 +0000 2019",
+    "hashtags": [],
+    "id": 1151358134188937216,
+    "id_str": "1151358134188937216",
+    "lang": "en",
+    "retweet_count": 76,
+    "retweeted_status": {
+        "created_at": "Tue Jul 16 19:07:48 +0000 2019",
+        "favorite_count": 151,
+        "hashtags": [],
+        "id": 1151206820188512257,
+        "id_str": "1151206820188512257",
+        "lang": "en",
+        "place": {
+            "id": "9c1c0a45346f5837",
+            "url": "https://api.twitter.com/1.1/geo/id/9c1c0a45346f5837.json",
+            "place_type": "city",
+            "name": "Davenport",
+            "full_name": "Davenport, IA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.6921396,
+                            41.475836
+                        ],
+                        [
+                            -90.5027437,
+                            41.475836
+                        ],
+                        [
+                            -90.5027437,
+                            41.6000496
+                        ],
+                        [
+                            -90.6921396,
+                            41.6000496
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 76,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "JUST NOW: Iowa State Rep @phyllisthede endorses @KamalaHarris at the start of their Women of Color Roundtable in Da\u2026 https://t.co/CT09HhGMO2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151206820188512257",
+                "url": "https://t.co/CT09HhGMO2"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jan 30 06:00:01 +0000 2011",
+            "description": "Iowa Communications Director for @kamalaharris",
+            "favourites_count": 2934,
+            "followers_count": 6580,
+            "friends_count": 2126,
+            "geo_enabled": true,
+            "id": 244817600,
+            "id_str": "244817600",
+            "listed_count": 132,
+            "location": "Des Moines, IA",
+            "name": "Miryam Lipper",
+            "profile_background_color": "0F1AFA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/244817600/1549421041",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1092977177652588545/wpOxaYnX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092977177652588545/wpOxaYnX_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "MiryamLipper",
+            "statuses_count": 4569
+        },
+        "user_mentions": [
+            {
+                "id": 34347209,
+                "id_str": "34347209",
+                "name": "Phyllis Thede",
+                "screen_name": "phyllisthede"
+            },
+            {
+                "id": 30354991,
+                "id_str": "30354991",
+                "name": "Kamala Harris",
+                "screen_name": "KamalaHarris"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @MiryamLipper: JUST NOW: Iowa State Rep @phyllisthede endorses @KamalaHarris at the start of their Women of Color Roundtable in Davenpor\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 19 16:41:06 +0000 2012",
+        "default_profile": true,
+        "description": "Official Campaign Twitter Account of Lacy Clay for Congress. US Rep, Missouri 1st District. R/Ts & links are not endorsements.",
+        "favourites_count": 19271,
+        "followers_count": 10350,
+        "friends_count": 2688,
+        "geo_enabled": true,
+        "id": 584912320,
+        "id_str": "584912320",
+        "listed_count": 605,
+        "location": "St. Louis, MO",
+        "name": "Lacy Clay MO1st",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/584912320/1467869397",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2363796933/8n10rzwlg5hvynzyv568_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2363796933/8n10rzwlg5hvynzyv568_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "LacyClayMO1",
+        "statuses_count": 19344,
+        "url": "https://t.co/M1086ZAdUj",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 244817600,
+            "id_str": "244817600",
+            "name": "Miryam Lipper",
+            "screen_name": "MiryamLipper"
+        },
+        {
+            "id": 34347209,
+            "id_str": "34347209",
+            "name": "Phyllis Thede",
+            "screen_name": "phyllisthede"
+        },
+        {
+            "id": 30354991,
+            "id_str": "30354991",
+            "name": "Kamala Harris",
+            "screen_name": "KamalaHarris"
+        }
+    ]
+}

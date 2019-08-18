@@ -1,0 +1,88 @@
+{
+    "created_at": "Sun Mar 03 19:08:32 +0000 2019",
+    "favorite_count": 37,
+    "hashtags": [],
+    "id": 1102284642001084417,
+    "id_str": "1102284642001084417",
+    "lang": "en",
+    "place": {
+        "id": "288de3df481163e8",
+        "url": "https://api.twitter.com/1.1/geo/id/288de3df481163e8.json",
+        "place_type": "admin",
+        "name": "Alabama",
+        "full_name": "Alabama, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -88.473228,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        35.008029
+                    ],
+                    [
+                        -88.473228,
+                        35.008029
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I want to congratulate @SenShelby on becoming Alabama\u2019s longest serving senator.  Almost 12 thousand days in the Un\u2026 https://t.co/c1rwCzsbcG",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1102284642001084417",
+            "url": "https://t.co/c1rwCzsbcG"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 22 21:16:37 +0000 2009",
+        "description": "Proudly serving the 4th Congressional District of Alabama in the United States House of Representatives",
+        "favourites_count": 291,
+        "followers_count": 25960,
+        "friends_count": 374,
+        "geo_enabled": true,
+        "id": 76452765,
+        "id_str": "76452765",
+        "listed_count": 1127,
+        "location": "Haleyville, AL",
+        "name": "Rep. Robert Aderholt",
+        "profile_background_color": "1C24B0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76452765/1563387658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985983813196111873/98_-GnNb_normal.jpg",
+        "profile_link_color": "A60C25",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Robert_Aderholt",
+        "statuses_count": 1649,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21111098,
+            "id_str": "21111098",
+            "name": "Richard Shelby",
+            "screen_name": "SenShelby"
+        }
+    ]
+}

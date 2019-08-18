@@ -1,0 +1,127 @@
+{
+    "created_at": "Fri Jul 26 03:43:50 +0000 2019",
+    "hashtags": [],
+    "id": 1154598172339167232,
+    "id_str": "1154598172339167232",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Jul 25 20:37:19 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1154490837343985670,
+        "id_str": "1154490837343985670",
+        "lang": "en",
+        "place": {
+            "id": "07d9ec834ec88000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9ec834ec88000.json",
+            "place_type": "poi",
+            "name": "Rayburn House Office Building",
+            "full_name": "Rayburn House Office Building",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u201cWe have the responsibility to expand access to healthcare and reduce the cost of medicine, the goal is to lower th\u2026 https://t.co/8PXBgi7aby",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154490837343985670",
+                "url": "https://t.co/8PXBgi7aby"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Oct 13 17:41:13 +0000 2011",
+            "description": "The Congressional Hispanic Leadership Institute (CHLI) Advancing the #Hispanic Community's #DiversityofThought",
+            "favourites_count": 1418,
+            "followers_count": 2579,
+            "friends_count": 359,
+            "geo_enabled": true,
+            "id": 390240185,
+            "id_str": "390240185",
+            "listed_count": 62,
+            "location": "Washington, D.C.",
+            "name": "CHLI",
+            "profile_background_color": "300830",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/390240185/1559073632",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/854414778768510976/-Ofajcol_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/854414778768510976/-Ofajcol_normal.jpg",
+            "profile_link_color": "B2BF02",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "screen_name": "TheCHLI",
+            "statuses_count": 5288,
+            "url": "https://t.co/mmMzH62qwJ"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @TheCHLI: \u201cWe have the responsibility to expand access to healthcare and reduce the cost of medicine, the goal is to lower the price wit\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing Central Florida's 9th District: Osceola County and parts of Orange and Polk counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7\n\nOfficial Account",
+        "favourites_count": 4695,
+        "followers_count": 10786,
+        "friends_count": 3441,
+        "geo_enabled": true,
+        "id": 818713465653051392,
+        "id_str": "818713465653051392",
+        "listed_count": 446,
+        "location": "Kissimmee, Florida",
+        "name": "US Rep. Darren Soto",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824454906446745601/DtndIYe0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDarrenSoto",
+        "statuses_count": 3265,
+        "url": "https://t.co/3Iswy0Rzuf",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 390240185,
+            "id_str": "390240185",
+            "name": "CHLI",
+            "screen_name": "TheCHLI"
+        }
+    ]
+}

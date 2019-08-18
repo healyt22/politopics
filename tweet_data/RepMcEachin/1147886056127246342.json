@@ -1,0 +1,136 @@
+{
+    "created_at": "Sun Jul 07 15:12:17 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1147886056127246342,
+    "id_str": "1147886056127246342",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Sat Jul 06 20:06:08 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "amtrak"
+            }
+        ],
+        "id": 1147597618719133697,
+        "id_str": "1147597618719133697",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "From The @ProgressIndex: The same federal agency that was poised to scuttle #amtrak service at the Ettrick (Va.) st\u2026 https://t.co/wjydAxEVjX",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1147597618719133697",
+                "url": "https://t.co/wjydAxEVjX"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 11 20:10:16 +0000 2018",
+            "default_profile": true,
+            "description": "Assistant Editor, The Progress-Index, Petersburg, VA;  national columnist, Gatehouse News Service; husband, father, \"pet-dad' Followings  = show all sides",
+            "favourites_count": 160,
+            "followers_count": 182,
+            "friends_count": 648,
+            "id": 1039607075901526016,
+            "id_str": "1039607075901526016",
+            "listed_count": 2,
+            "location": "Petersburg, VA",
+            "name": "BillAtkinson_PI",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1039607075901526016/1537211796",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1094989909469863950/32zeAvtu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094989909469863950/32zeAvtu_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BAtkinsonpi",
+            "statuses_count": 1200,
+            "url": "https://t.co/pUhz73oO0G"
+        },
+        "user_mentions": [
+            {
+                "id": 54941379,
+                "id_str": "54941379",
+                "name": "The Progress-Index",
+                "screen_name": "ProgressIndex"
+            }
+        ]
+    },
+    "quoted_status_id": 1147597618719133697,
+    "quoted_status_id_str": "1147597618719133697",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "This is an outstanding first step. Locating Amtrak permanently in Ettrick not only serves the community, fits into\u2026 https://t.co/hqOJ8WxFXm",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1147886056127246342",
+            "url": "https://t.co/hqOJ8WxFXm"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 03 07:15:10 +0000 2017",
+        "description": "Father, husband & Progressive Democrat. Proudly representing VA\u2019s Fighting 4th Congressional District #VA04. Member @EnergyCommerce  @climatecrisis & @NRDems.",
+        "favourites_count": 946,
+        "followers_count": 8469,
+        "friends_count": 1297,
+        "geo_enabled": true,
+        "id": 816181091673448448,
+        "id_str": "816181091673448448",
+        "listed_count": 385,
+        "name": "Rep. Donald McEachin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816181091673448448/1520458426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098458215489114112/5LgELEfd_normal.png",
+        "profile_link_color": "0A5539",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMcEachin",
+        "statuses_count": 3832,
+        "url": "https://t.co/IsHgFCD4gT",
+        "verified": true
+    },
+    "user_mentions": []
+}

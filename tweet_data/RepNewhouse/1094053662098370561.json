@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Feb 09 02:01:34 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Winter"
+        }
+    ],
+    "id": 1094053662098370561,
+    "id_str": "1094053662098370561",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Fri Feb 08 22:50:49 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "Winter"
+            }
+        ],
+        "id": 1094005660927361025,
+        "id_str": "1094005660927361025",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "#Winter has finally arrived and it looks to stick around for some time. After this weekend storm, expect another co\u2026 https://t.co/0MzOW3f9kF",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1094005660927361025",
+                "url": "https://t.co/0MzOW3f9kF"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 11 17:50:19 +0000 2012",
+            "description": "Official Twitter account for the National Weather Service Pendleton. Details: http://t.co/DT7PGbdIaq",
+            "favourites_count": 841,
+            "followers_count": 6575,
+            "friends_count": 211,
+            "id": 605691600,
+            "id_str": "605691600",
+            "listed_count": 321,
+            "location": "Pendleton Oregon",
+            "name": "NWS Pendleton",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/605691600/1565450121",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875436081050669056/Rhsl-aa__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875436081050669056/Rhsl-aa__normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NWSPendleton",
+            "statuses_count": 5995,
+            "url": "http://t.co/iqmxTxcwQH",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NWSPendleton: #Winter has finally arrived and it looks to stick around for some time. After this weekend storm, expect another couple o\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 18 20:19:23 +0000 2014",
+        "default_profile": true,
+        "description": "Proud to represent Washington's 4th District in the U.S. Congress",
+        "favourites_count": 729,
+        "followers_count": 13599,
+        "friends_count": 1678,
+        "id": 2930635215,
+        "id_str": "2930635215",
+        "listed_count": 493,
+        "name": "Rep. Dan Newhouse",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2930635215/1552426574",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553653397505576960/4z-oC8rN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553653397505576960/4z-oC8rN_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepNewhouse",
+        "statuses_count": 1510,
+        "url": "https://t.co/qIftHgI639",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 605691600,
+            "id_str": "605691600",
+            "name": "NWS Pendleton",
+            "screen_name": "NWSPendleton"
+        }
+    ]
+}

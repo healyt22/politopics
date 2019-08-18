@@ -1,0 +1,79 @@
+{
+    "created_at": "Tue Mar 19 13:54:29 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1108003811610841089,
+    "id_str": "1108003811610841089",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/t5KcwXqPhn",
+            "expanded_url": "https://twitter.com/RepEdCase/status/1108003811610841089/photo/1",
+            "id": 1108003800336551936,
+            "media_url": "http://pbs.twimg.com/media/D2BrlgDX0AAyOmv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2BrlgDX0AAyOmv.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/t5KcwXqPhn"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "With awesome Marines at Camp Schwab, Okinawa. @USMC https://t.co/t5KcwXqPhn",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Jan 05 00:44:02 +0000 2019",
+        "description": "Proudly representing Hawaii's First Congressional District.",
+        "favourites_count": 11,
+        "followers_count": 2314,
+        "friends_count": 110,
+        "geo_enabled": true,
+        "id": 1081350574589833221,
+        "id_str": "1081350574589833221",
+        "listed_count": 131,
+        "name": "Rep. Ed Case",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081350574589833221/1546649266",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148306755778162688/dIpjFqB8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148306755778162688/dIpjFqB8_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepEdCase",
+        "statuses_count": 269,
+        "url": "https://t.co/aGmfQAB56h",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 10126672,
+            "id_str": "10126672",
+            "name": "U.S. Marines",
+            "screen_name": "USMC"
+        }
+    ]
+}

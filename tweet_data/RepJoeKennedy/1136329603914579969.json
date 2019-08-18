@@ -1,0 +1,150 @@
+{
+    "created_at": "Wed Jun 05 17:51:04 +0000 2019",
+    "favorite_count": 1639,
+    "hashtags": [],
+    "id": 1136329603914579969,
+    "id_str": "1136329603914579969",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 28 02:33:00 +0000 2019",
+        "favorite_count": 909,
+        "hashtags": [],
+        "id": 1133199462422188033,
+        "id_str": "1133199462422188033",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mBgeXLCcYy",
+                "expanded_url": "https://twitter.com/nowthisnews/status/1133199462422188033/video/1",
+                "id": 1131249918654517248,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1131249918654517248/img/MqzomRrU6sXdAoYy.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1131249918654517248/img/MqzomRrU6sXdAoYy.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/mBgeXLCcYy",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 74841,
+                    "variants": [
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1131249918654517248/vid/320x320/n_6R1LGVpVAEpv0p.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1131249918654517248/vid/480x480/4rwkz4-t8am6h-ze.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1131249918654517248/vid/720x720/GU8ZMDcgcJ71Wtvh.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1131249918654517248/pl/22cCtpWhZUTqccAC.m3u8?tag=12"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 264,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "Nevada just made it illegal to use gay and trans \u2018panic\u2019 defenses in court for crimes against LGBTQ+ people https://t.co/mBgeXLCcYy",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jul 17 20:31:08 +0000 2012",
+            "description": "Stories that move. Send us tips: contact@nowthismedia.com. Subscribe to our daily newsletter: https://t.co/2sCY2rymF7",
+            "favourites_count": 12723,
+            "followers_count": 2395102,
+            "friends_count": 12205,
+            "geo_enabled": true,
+            "id": 701725963,
+            "id_str": "701725963",
+            "listed_count": 9506,
+            "location": "The Internet & NYC",
+            "name": "NowThis",
+            "profile_background_color": "7FDBB6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nowthisnews",
+            "statuses_count": 130006,
+            "url": "http://t.co/1NLX7sJ52o",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1133199462422188033,
+    "quoted_status_id_str": "1133199462422188033",
+    "retweet_count": 456,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "As long as gay and trans panic defenses are allowed in our courts, the LGBTQ community will be deprived of the just\u2026 https://t.co/HIyHWXhiwQ",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1136329603914579969",
+            "url": "https://t.co/HIyHWXhiwQ"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 19:33:36 +0000 2013",
+        "description": "Official Twitter account of Congressman Joe Kennedy III, representing Massachusetts' 4th Congressional District.",
+        "favourites_count": 12,
+        "followers_count": 782157,
+        "friends_count": 699,
+        "geo_enabled": true,
+        "id": 1055907624,
+        "id_str": "1055907624",
+        "listed_count": 3314,
+        "name": "Rep. Joe Kennedy III",
+        "profile_background_color": "10214A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055907624/1506705689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_link_color": "BF1B1B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeKennedy",
+        "statuses_count": 5315,
+        "url": "https://t.co/rYNEysanC2",
+        "verified": true
+    },
+    "user_mentions": []
+}

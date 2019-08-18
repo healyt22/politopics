@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jul 03 11:44:19 +0000 2019",
+    "favorite_count": 92,
+    "hashtags": [],
+    "id": 1146384170802962433,
+    "id_str": "1146384170802962433",
+    "lang": "en",
+    "place": {
+        "id": "f5dbf46b0e401a18",
+        "url": "https://api.twitter.com/1.1/geo/id/f5dbf46b0e401a18.json",
+        "place_type": "city",
+        "name": "Deephaven",
+        "full_name": "Deephaven, MN",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -93.549325,
+                        44.909677
+                    ],
+                    [
+                        -93.502337,
+                        44.909677
+                    ],
+                    [
+                        -93.502337,
+                        44.9459198
+                    ],
+                    [
+                        -93.549325,
+                        44.9459198
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Tue Jul 02 21:15:05 +0000 2019",
+        "favorite_count": 304,
+        "hashtags": [],
+        "id": 1146165419281125376,
+        "id_str": "1146165419281125376",
+        "lang": "en",
+        "retweet_count": 101,
+        "source": "<a href=\"http://www.washingtonpost.com\" rel=\"nofollow\">MainRevere</a>",
+        "text": "Trump administration drops plans to add citizenship question to the 2020 Census https://t.co/Q3nijQhXfY",
+        "urls": [
+            {
+                "expanded_url": "https://www.washingtonpost.com/local/social-issues/2020-census-will-not-include-citizenship-question-doj-confirms/2019/07/02/0067be4a-9c44-11e9-9ed4-c9089972ad5a_story.html?utm_term=.cca03816d486",
+                "url": "https://t.co/Q3nijQhXfY"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 27 11:19:39 +0000 2007",
+            "description": "Breaking news, analysis, and opinion. Founded in 1877. Our staff on Twitter: https://t.co/VV0UBAMHg8",
+            "favourites_count": 4582,
+            "followers_count": 14022461,
+            "friends_count": 1538,
+            "geo_enabled": true,
+            "id": 2467791,
+            "id_str": "2467791",
+            "listed_count": 90551,
+            "location": "Washington, DC",
+            "name": "The Washington Post",
+            "profile_background_color": "333333",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+            "profile_link_color": "0057EC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DBDBDB",
+            "profile_text_color": "323232",
+            "profile_use_background_image": true,
+            "screen_name": "washingtonpost",
+            "statuses_count": 326876,
+            "url": "http://t.co/Hq7hTYkOPg",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1146165419281125376,
+    "quoted_status_id_str": "1146165419281125376",
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Our Constitution requires the counting of \u201cPersons\u201d living in our country every ten years. A citizenship question o\u2026 https://t.co/SCyHITYLG8",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1146384170802962433",
+            "url": "https://t.co/SCyHITYLG8"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Nov 10 17:30:23 +0000 2018",
+        "default_profile": true,
+        "description": "Exposing truth, cleaning-up corruption & inspiring collaboration in Congress. Member of House Financial Services, Foreign Affairs, & Ethics Committees. #MN03",
+        "favourites_count": 2688,
+        "followers_count": 11462,
+        "friends_count": 767,
+        "geo_enabled": true,
+        "id": 1061310112013434882,
+        "id_str": "1061310112013434882",
+        "listed_count": 214,
+        "location": "Minnesota, USA",
+        "name": "Rep. Dean Phillips",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061310112013434882/1543962611",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDeanPhillips",
+        "statuses_count": 608,
+        "url": "https://t.co/shLWxHqqwP",
+        "verified": true
+    },
+    "user_mentions": []
+}

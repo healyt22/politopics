@@ -1,0 +1,158 @@
+{
+    "created_at": "Wed Jul 31 22:28:00 +0000 2019",
+    "favorite_count": 1022,
+    "hashtags": [],
+    "id": 1156693017085919232,
+    "id_str": "1156693017085919232",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 31 13:33:00 +0000 2019",
+        "favorite_count": 1139,
+        "hashtags": [],
+        "id": 1156558380225503233,
+        "id_str": "1156558380225503233",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/p0oNOgkvw3",
+                "expanded_url": "https://twitter.com/nowthisnews/status/1156558380225503233/video/1",
+                "id": 1156272845858758657,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1156272845858758657/img/9SM9JQW42Zk7xse1.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1156272845858758657/img/9SM9JQW42Zk7xse1.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/p0oNOgkvw3",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 42042,
+                    "variants": [
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1156272845858758657/vid/320x320/ZmSNl-3blFO2Xqty.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1156272845858758657/pl/Pt4wimzFfV_AXQI7.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1156272845858758657/vid/480x480/KzbbaCIzBbbp5c9u.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1156272845858758657/vid/720x720/k4zPXabnrBSxEVDC.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 329,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "These seesaws were built across the U.S.-Mexico border so kids from both sides can play together https://t.co/p0oNOgkvw3",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jul 17 20:31:08 +0000 2012",
+            "description": "Stories that move. Send us tips: contact@nowthismedia.com. Subscribe to our daily newsletter: https://t.co/2sCY2rymF7",
+            "favourites_count": 12723,
+            "followers_count": 2395102,
+            "friends_count": 12205,
+            "geo_enabled": true,
+            "id": 701725963,
+            "id_str": "701725963",
+            "listed_count": 9506,
+            "location": "The Internet & NYC",
+            "name": "NowThis",
+            "profile_background_color": "7FDBB6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nowthisnews",
+            "statuses_count": 130006,
+            "url": "http://t.co/1NLX7sJ52o",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1156558380225503233,
+    "quoted_status_id_str": "1156558380225503233",
+    "retweet_count": 244,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Children are children no matter where they come from. Proud of the @UCBerkeley professors who designed these to bri\u2026 https://t.co/NKsJYP9g0w",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1156693017085919232",
+            "url": "https://t.co/NKsJYP9g0w"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 07 16:28:28 +0000 2011",
+        "description": "Progressive Democrat representing the #EastBay. Promoting justice for all, peace, & human rights. @ProChoiceCaucus Co-Chair. Proud member of the #resistance.",
+        "favourites_count": 4007,
+        "followers_count": 244079,
+        "friends_count": 16284,
+        "geo_enabled": true,
+        "id": 248735463,
+        "id_str": "248735463",
+        "listed_count": 3323,
+        "location": "Washington, DC and Oakland, CA",
+        "name": "Rep. Barbara Lee",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248735463/1438096272",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/831276027674558470/o7pTafU9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/831276027674558470/o7pTafU9_normal.jpg",
+        "profile_link_color": "B71234",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBarbaraLee",
+        "statuses_count": 10029,
+        "url": "https://t.co/hfpx6kAg4s",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 176932593,
+            "id_str": "176932593",
+            "name": "UC Berkeley",
+            "screen_name": "UCBerkeley"
+        }
+    ]
+}

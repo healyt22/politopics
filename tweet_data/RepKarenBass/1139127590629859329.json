@@ -1,0 +1,101 @@
+{
+    "created_at": "Thu Jun 13 11:09:16 +0000 2019",
+    "favorite_count": 157,
+    "hashtags": [],
+    "id": 1139127590629859329,
+    "id_str": "1139127590629859329",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Xug451HMw2",
+            "expanded_url": "https://twitter.com/evanmcmurry/status/1138936855435591681/video/1",
+            "id": 1138931265032413184,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1138931265032413184/img/DUPofhHFxeZtZ_nJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1138931265032413184/img/DUPofhHFxeZtZ_nJ.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Xug451HMw2",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 107040,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1138931265032413184/vid/480x480/y4VloWREUm6ME32J.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1138931265032413184/vid/320x320/9QWWKza8Xi7IolHD.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1138931265032413184/pl/FH62_Ix9QeWGVIVZ.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1138931265032413184/vid/720x720/WssyKOpY7uKNd4Jv.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 83,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Once again, Trump calls for foreign governments to interfere with our elections. https://t.co/Xug451HMw2",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 18 20:25:36 +0000 2011",
+        "description": "Representing California's 37th District, which includes Los Angeles, South LA, and Culver City. https://t.co/XHzgMSAQAc",
+        "favourites_count": 1492,
+        "followers_count": 110472,
+        "friends_count": 2650,
+        "geo_enabled": true,
+        "id": 239949176,
+        "id_str": "239949176",
+        "listed_count": 1998,
+        "location": "Los Angeles & Washington",
+        "name": "Congressmember Bass",
+        "profile_background_color": "196A88",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239949176/1433187461",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/605458297475317761/P1AjUUex_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/605458297475317761/P1AjUUex_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "screen_name": "RepKarenBass",
+        "statuses_count": 5117,
+        "url": "http://t.co/1QNH7tmurQ",
+        "verified": true
+    },
+    "user_mentions": []
+}

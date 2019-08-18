@@ -1,0 +1,79 @@
+{
+    "created_at": "Thu Jul 25 01:10:58 +0000 2019",
+    "favorite_count": 92,
+    "hashtags": [],
+    "id": 1154197313482608642,
+    "id_str": "1154197313482608642",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/TmUg88rMqQ",
+            "expanded_url": "https://twitter.com/SenPatRoberts/status/1154197313482608642/photo/1",
+            "id": 1154197307900010502,
+            "media_url": "http://pbs.twimg.com/media/EASIVhoXoAYJtd7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EASIVhoXoAYJtd7.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1536,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/TmUg88rMqQ"
+        }
+    ],
+    "retweet_count": 9,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Franki and I enjoyed celebrating @SenatorDole\u2019s birthday with him today! https://t.co/TmUg88rMqQ",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Sep 18 19:34:56 +0000 2009",
+        "description": "Senior Senator from Kansas. Chairman of @SenateAgGOP.",
+        "favourites_count": 343,
+        "followers_count": 73225,
+        "friends_count": 917,
+        "id": 75364211,
+        "id_str": "75364211",
+        "listed_count": 2002,
+        "location": "Kansas, USA",
+        "name": "Senator Pat Roberts",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75364211/1436984767",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981951337536671744/8z6P2Eck_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981951337536671744/8z6P2Eck_normal.jpg",
+        "profile_link_color": "8D1616",
+        "profile_sidebar_border_color": "CBCAC0",
+        "profile_sidebar_fill_color": "E7E6DB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenPatRoberts",
+        "statuses_count": 6535,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3342812001,
+            "id_str": "3342812001",
+            "name": "Senator Bob Dole",
+            "screen_name": "SenatorDole"
+        }
+    ]
+}

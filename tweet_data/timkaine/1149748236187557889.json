@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Jul 12 18:31:55 +0000 2019",
+    "favorite_count": 142,
+    "hashtags": [],
+    "id": 1149748236187557889,
+    "id_str": "1149748236187557889",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jul 12 17:25:53 +0000 2019",
+        "favorite_count": 78,
+        "hashtags": [
+            {
+                "text": "Mars"
+            }
+        ],
+        "id": 1149731618707443713,
+        "id_str": "1149731618707443713",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Can you design a human mission to #Mars? These students can! Virginia Senator @timkaine stopped by to congratulate\u2026 https://t.co/6IP9UDDwn4",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149731618707443713",
+                "url": "https://t.co/6IP9UDDwn4"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 17 18:04:44 +0000 2008",
+            "description": "NASA Langley Research Center contributes to NASA's work in aeronautics, Earth science and space exploration.  A retweet doesn't equal an endorsement.",
+            "favourites_count": 427,
+            "followers_count": 284408,
+            "friends_count": 238,
+            "geo_enabled": true,
+            "id": 18194898,
+            "id_str": "18194898",
+            "listed_count": 3594,
+            "location": "Hampton, VA, USA",
+            "name": "NASA_Langley",
+            "profile_background_color": "0B3D91",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194898/1536065032",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/767697200327561216/J7FMpVla_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/767697200327561216/J7FMpVla_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FC3D21",
+            "profile_sidebar_fill_color": "CCEBFA",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "NASA_Langley",
+            "statuses_count": 10034,
+            "url": "http://t.co/ELY15GMjsW",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 172858784,
+                "id_str": "172858784",
+                "name": "Tim Kaine",
+                "screen_name": "timkaine"
+            }
+        ]
+    },
+    "quoted_status_id": 1149731618707443713,
+    "quoted_status_id_str": "1149731618707443713",
+    "retweet_count": 27,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "This visit was out of this world. \ud83d\ude0e https://t.co/xG5czi4lqX",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NASA_Langley/status/1149731618707443713",
+            "url": "https://t.co/xG5czi4lqX"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 30 20:00:32 +0000 2010",
+        "description": "Husband to @AnneHolton, father of 3. U.S. Senator from Virginia. In my free time, I\u2019m either outdoors, reading, or jamming on the harmonica.",
+        "favourites_count": 838,
+        "followers_count": 988476,
+        "friends_count": 773,
+        "geo_enabled": true,
+        "id": 172858784,
+        "id_str": "172858784",
+        "listed_count": 6283,
+        "location": "Richmond, VA",
+        "name": "Tim Kaine",
+        "profile_background_color": "CFCFCF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/172858784/1495807361",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/922472118377476096/XqCk_uDv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/922472118377476096/XqCk_uDv_normal.jpg",
+        "profile_link_color": "AB0A0F",
+        "profile_sidebar_border_color": "191561",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "timkaine",
+        "statuses_count": 10044,
+        "url": "https://t.co/YNK0Xrmt2G",
+        "verified": true
+    },
+    "user_mentions": []
+}

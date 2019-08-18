@@ -1,0 +1,106 @@
+{
+    "created_at": "Tue Jul 16 11:07:02 +0000 2019",
+    "hashtags": [],
+    "id": 1151085830867431425,
+    "id_str": "1151085830867431425",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Mon Jul 15 03:05:22 +0000 2019",
+        "favorite_count": 48,
+        "hashtags": [],
+        "id": 1150602224659238912,
+        "id_str": "1150602224659238912",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://joe.beastdigital.com\" rel=\"nofollow\">joe.sentry</a>",
+        "text": "I was honored to introduce U.S. Senator @JohnCornyn this evening at a political event for the Fort Bend County Repu\u2026 https://t.co/zko507PyVr",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150602224659238912",
+                "url": "https://t.co/zko507PyVr"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jan 26 18:38:31 +0000 2008",
+            "description": "Campaign Twitter account for Rep. Pete Olson, TX-22",
+            "favourites_count": 74,
+            "followers_count": 12751,
+            "friends_count": 3085,
+            "id": 12726012,
+            "id_str": "12726012",
+            "listed_count": 704,
+            "location": "Sugar Land, TX",
+            "name": "Pete Olson",
+            "profile_background_color": "0000CC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/12726012/1488304889",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/67572725/Pete_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/67572725/Pete_normal.JPG",
+            "profile_link_color": "FF003C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFDA33",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "PeteOlson",
+            "statuses_count": 2005,
+            "url": "https://t.co/IbOq2Vy1I5",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 13218102,
+                "id_str": "13218102",
+                "name": "Senator John Cornyn",
+                "screen_name": "JohnCornyn"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @PeteOlson: I was honored to introduce U.S. Senator @JohnCornyn this evening at a political event for the Fort Bend County Republican Pa\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 07 19:52:55 +0000 2008",
+        "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs =/= endorsements",
+        "favourites_count": 59,
+        "followers_count": 212097,
+        "friends_count": 11643,
+        "id": 13218102,
+        "id_str": "13218102",
+        "listed_count": 5333,
+        "location": "Austin, Texas",
+        "name": "Senator John Cornyn",
+        "profile_background_color": "71829E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13218102/1558356879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1062343144048603136/fpH4AUOc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062343144048603136/fpH4AUOc_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "002D62",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "002D62",
+        "profile_use_background_image": true,
+        "screen_name": "JohnCornyn",
+        "statuses_count": 31884,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 12726012,
+            "id_str": "12726012",
+            "name": "Pete Olson",
+            "screen_name": "PeteOlson"
+        },
+        {
+            "id": 13218102,
+            "id_str": "13218102",
+            "name": "Senator John Cornyn",
+            "screen_name": "JohnCornyn"
+        }
+    ]
+}

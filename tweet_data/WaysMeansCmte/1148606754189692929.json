@@ -1,0 +1,103 @@
+{
+    "created_at": "Tue Jul 09 14:56:04 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1148606754189692929,
+    "id_str": "1148606754189692929",
+    "in_reply_to_screen_name": "WaysMeansCmte",
+    "in_reply_to_status_id": 1148606749492076545,
+    "in_reply_to_user_id": 31128529,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Pj6T0k3Pts",
+            "expanded_url": "https://twitter.com/WaysMeansCmte/status/1148606754189692929/video/1",
+            "id": 1148600338032861184,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1148600338032861184/pu/img/5pK3ATb23YylYqfF.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1148600338032861184/pu/img/5pK3ATb23YylYqfF.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/Pj6T0k3Pts",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 65442,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1148600338032861184/pu/vid/480x270/9zEeYWmOc38Hwm9o.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1148600338032861184/pu/pl/H78MBISUi-hnsS0r.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1148600338032861184/pu/vid/640x360/Z5lcHiKleJl2jx69.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1148600338032861184/pu/vid/1280x720/eYCDNu78ENIUxpsG.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "(3/6): It means that Ola, a chronically ill young person, could go without affordable, necessary health services. https://t.co/Pj6T0k3Pts",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Apr 14 14:06:39 +0000 2009",
+        "description": "Official twitter account for Ways & Means \u2013 senior committee with jurisdiction over health care, trade, taxes, and Social Security. Chaired by @RepRichardNeal.",
+        "favourites_count": 59,
+        "followers_count": 37880,
+        "friends_count": 260,
+        "geo_enabled": true,
+        "id": 31128529,
+        "id_str": "31128529",
+        "listed_count": 1307,
+        "location": "Washington, DC",
+        "name": "Ways & Means Committee",
+        "profile_background_color": "CFE0E6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31128529/1562960901",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145692074538360833/Jvbw7M1n_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145692074538360833/Jvbw7M1n_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "2C3825",
+        "profile_sidebar_fill_color": "214B70",
+        "profile_text_color": "0E1366",
+        "screen_name": "WaysMeansCmte",
+        "statuses_count": 12603,
+        "url": "https://t.co/Ld6ZbDnPIe",
+        "verified": true
+    },
+    "user_mentions": []
+}

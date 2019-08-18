@@ -1,0 +1,105 @@
+{
+    "created_at": "Thu Mar 07 14:10:39 +0000 2019",
+    "hashtags": [],
+    "id": 1103659229385277442,
+    "id_str": "1103659229385277442",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu Mar 07 14:10:03 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 1103659078591627264,
+        "id_str": "1103659078591627264",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@RepTomEmmer on the need for regulatory certainty: We need clear rules of the road that ensure even the smallest s\u2026 https://t.co/qvbZWhq9H6",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1103659078591627264",
+                "url": "https://t.co/qvbZWhq9H6"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 22 20:47:25 +0000 2014",
+            "description": "The Chamber of Digital Commerce is the world's leading #blockchain trade association.",
+            "favourites_count": 2491,
+            "followers_count": 12659,
+            "friends_count": 2547,
+            "geo_enabled": true,
+            "id": 2756444533,
+            "id_str": "2756444533",
+            "listed_count": 486,
+            "location": "Washington, D.C.",
+            "name": "Chamber of Digital Commerce",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2756444533/1552059843",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/912535172238663681/6muCkRPl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/912535172238663681/6muCkRPl_normal.jpg",
+            "profile_link_color": "1569AA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "DigitalChamber",
+            "statuses_count": 2925,
+            "url": "https://t.co/wZ3NxJ09d6"
+        },
+        "user_mentions": [
+            {
+                "id": 2914515430,
+                "id_str": "2914515430",
+                "name": "Tom Emmer",
+                "screen_name": "RepTomEmmer"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DigitalChamber: .@RepTomEmmer on the need for regulatory certainty: We need clear rules of the road that ensure even the smallest start\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 10 21:44:52 +0000 2014",
+        "default_profile": true,
+        "description": "Husband, father, hockey fan, and Congressman for Minnesota's 6th District.",
+        "favourites_count": 521,
+        "followers_count": 13264,
+        "friends_count": 906,
+        "id": 2914515430,
+        "id_str": "2914515430",
+        "listed_count": 506,
+        "location": "Otsego, MN | Washington, D.C.",
+        "name": "Tom Emmer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914515430/1446669081",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1067846972235804672/41P-z5uD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067846972235804672/41P-z5uD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTomEmmer",
+        "statuses_count": 4229,
+        "url": "http://t.co/jU8TYBqqHL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2756444533,
+            "id_str": "2756444533",
+            "name": "Chamber of Digital Commerce",
+            "screen_name": "DigitalChamber"
+        },
+        {
+            "id": 2914515430,
+            "id_str": "2914515430",
+            "name": "Tom Emmer",
+            "screen_name": "RepTomEmmer"
+        }
+    ]
+}

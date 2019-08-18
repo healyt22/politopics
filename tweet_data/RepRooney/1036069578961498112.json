@@ -1,0 +1,103 @@
+{
+    "created_at": "Sun Sep 02 01:53:31 +0000 2018",
+    "hashtags": [],
+    "id": 1036069578961498112,
+    "id_str": "1036069578961498112",
+    "lang": "en",
+    "retweet_count": 95,
+    "retweeted_status": {
+        "created_at": "Sat Sep 01 17:28:28 +0000 2018",
+        "favorite_count": 356,
+        "hashtags": [],
+        "id": 1035942477671354368,
+        "id_str": "1035942477671354368",
+        "lang": "en",
+        "retweet_count": 95,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": ".@RepRooney: \"It took a long time to get Strzok out of there. I would've thought that would've been a pretty quick\u2026 https://t.co/I1ZlcQgXU1",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1035942477671354368",
+                "url": "https://t.co/I1ZlcQgXU1"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Mar 17 19:01:26 +0000 2007",
+            "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/3gb0b8MMza",
+            "followers_count": 18436946,
+            "friends_count": 398,
+            "geo_enabled": true,
+            "id": 1367531,
+            "id_str": "1367531",
+            "listed_count": 65443,
+            "location": "U.S.A.",
+            "name": "Fox News",
+            "profile_background_color": "0E2331",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1367531/1492649996",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/918480715158716419/4X8oCbge_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/918480715158716419/4X8oCbge_normal.jpg",
+            "profile_link_color": "183A52",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F4F4F4",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "FoxNews",
+            "statuses_count": 418053,
+            "url": "http://t.co/ZYG58XZtAC",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 816111677917851649,
+                "id_str": "816111677917851649",
+                "name": "Francis Rooney",
+                "screen_name": "RepRooney"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @FoxNews: .@RepRooney: \"It took a long time to get Strzok out of there. I would've thought that would've been a pretty quick decision.\"\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 03 02:39:21 +0000 2017",
+        "default_profile": true,
+        "description": "Honored to serve the citizens of Florida's 19th Congressional District. Official Government account.",
+        "favourites_count": 276,
+        "followers_count": 7021,
+        "friends_count": 452,
+        "id": 816111677917851649,
+        "id_str": "816111677917851649",
+        "listed_count": 333,
+        "location": "SWFL",
+        "name": "Francis Rooney",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816111677917851649/1495747447",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865221777693134851/treodBIl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865221777693134851/treodBIl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRooney",
+        "statuses_count": 917,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1367531,
+            "id_str": "1367531",
+            "name": "Fox News",
+            "screen_name": "FoxNews"
+        },
+        {
+            "id": 816111677917851649,
+            "id_str": "816111677917851649",
+            "name": "Francis Rooney",
+            "screen_name": "RepRooney"
+        }
+    ]
+}

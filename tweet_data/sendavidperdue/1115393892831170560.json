@@ -1,0 +1,103 @@
+{
+    "created_at": "Mon Apr 08 23:20:01 +0000 2019",
+    "favorite_count": 182,
+    "hashtags": [],
+    "id": 1115393892831170560,
+    "id_str": "1115393892831170560",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/nDsFP1TzAY",
+            "expanded_url": "https://twitter.com/sendavidperdue/status/1115393892831170560/video/1",
+            "id": 1115393863030644736,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115393863030644736/pu/img/oDWPjykhJPxWGq-k.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115393863030644736/pu/img/oDWPjykhJPxWGq-k.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/nDsFP1TzAY",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 6900,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1115393863030644736/pu/vid/320x180/6L6ziqhhUPY9XMUo.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1115393863030644736/pu/vid/640x360/g-z3fFnPy0xIjpes.mp4?tag=8"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1115393863030644736/pu/vid/1280x720/50b2MAqoI9npjKmT.mp4?tag=8"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1115393863030644736/pu/pl/BqKq9pqnjZXzHHdO.m3u8?tag=8"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 43,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Here\u2019s an F/A-18 Super Hornet taking off from the USS Harry S. Truman aircraft carrier. https://t.co/nDsFP1TzAY",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 05 20:58:02 +0000 2014",
+        "default_profile": true,
+        "description": "Official Twitter account for U.S. Senator David Perdue of Georgia.",
+        "favourites_count": 534,
+        "followers_count": 66187,
+        "friends_count": 1011,
+        "geo_enabled": true,
+        "id": 2863210809,
+        "id_str": "2863210809",
+        "listed_count": 1340,
+        "location": "Georgia",
+        "name": "David Perdue",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863210809/1553346257",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/821843329008680967/zqpECZrD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/821843329008680967/zqpECZrD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "sendavidperdue",
+        "statuses_count": 3922,
+        "url": "https://t.co/I3Xla8NlsK",
+        "verified": true
+    },
+    "user_mentions": []
+}

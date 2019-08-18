@@ -1,0 +1,117 @@
+{
+    "created_at": "Sat Feb 23 00:53:52 +0000 2019",
+    "hashtags": [],
+    "id": 1099110056023470080,
+    "id_str": "1099110056023470080",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Feb 22 23:45:05 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1099092747015909376,
+        "id_str": "1099092747015909376",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Happy to meet with @RepHolding and University President Dr. J. Bradley Creed at @campbelledu. Together we are expan\u2026 https://t.co/lNuHafA2Mq",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1099092747015909376",
+                "url": "https://t.co/lNuHafA2Mq"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jul 30 17:39:44 +0000 2010",
+            "description": "Assistant Secretary for @ECAatState, the Bureau of Educational and Cultural Affairs.",
+            "favourites_count": 3391,
+            "followers_count": 37381,
+            "friends_count": 535,
+            "id": 172814396,
+            "id_str": "172814396",
+            "listed_count": 718,
+            "location": "U.S. Department of State",
+            "name": "Marie Royce",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/172814396/1511274559",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/987439219483213824/9SkuTpGc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/987439219483213824/9SkuTpGc_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ECA_AS",
+            "statuses_count": 11484,
+            "url": "https://t.co/9GsR5cBme5",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1058460818,
+                "id_str": "1058460818",
+                "name": "George Holding",
+                "screen_name": "RepHolding"
+            },
+            {
+                "id": 36977227,
+                "id_str": "36977227",
+                "name": "Campbell University",
+                "screen_name": "campbelledu"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ECA_AS: Happy to meet with @RepHolding and University President Dr. J. Bradley Creed at @campbelledu. Together we are expanding #virtua\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 18:27:36 +0000 2013",
+        "description": "Raleigh native representing North Carolina's 2nd district in Congress.",
+        "favourites_count": 123,
+        "followers_count": 16676,
+        "friends_count": 545,
+        "id": 1058460818,
+        "id_str": "1058460818",
+        "listed_count": 653,
+        "name": "George Holding",
+        "profile_background_color": "09073D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058460818/1484585672",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1124400969083699200/6ncbK0p__normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124400969083699200/6ncbK0p__normal.png",
+        "profile_link_color": "0D0B57",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHolding",
+        "statuses_count": 894,
+        "url": "http://t.co/zH2CxxmUzu",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 172814396,
+            "id_str": "172814396",
+            "name": "Marie Royce",
+            "screen_name": "ECA_AS"
+        },
+        {
+            "id": 1058460818,
+            "id_str": "1058460818",
+            "name": "George Holding",
+            "screen_name": "RepHolding"
+        },
+        {
+            "id": 36977227,
+            "id_str": "36977227",
+            "name": "Campbell University",
+            "screen_name": "campbelledu"
+        }
+    ]
+}

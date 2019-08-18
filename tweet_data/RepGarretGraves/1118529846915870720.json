@@ -1,0 +1,148 @@
+{
+    "created_at": "Wed Apr 17 15:01:11 +0000 2019",
+    "hashtags": [],
+    "id": 1118529846915870720,
+    "id_str": "1118529846915870720",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Apr 17 14:47:58 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1118526522938286082,
+        "id_str": "1118526522938286082",
+        "lang": "en",
+        "place": {
+            "id": "1c73ebb264e145ee",
+            "url": "https://api.twitter.com/1.1/geo/id/1c73ebb264e145ee.json",
+            "place_type": "admin",
+            "name": "Louisiana",
+            "full_name": "Louisiana, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.043628,
+                            28.855128
+                        ],
+                        [
+                            -88.758389,
+                            28.855128
+                        ],
+                        [
+                            -88.758389,
+                            33.019544
+                        ],
+                        [
+                            -94.043628,
+                            33.019544
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": ".@RepGarretGraves says -\n\n'This is definitive, this is happening.\n\nThis is historic, this is a big deal.'\u2026 https://t.co/bNKFw94QJ5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118526522938286082",
+                "url": "https://t.co/bNKFw94QJ5"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 15 19:07:47 +0000 2011",
+            "description": "Publisher - The Livingston Parish News | Agent / Notary - PropertySprocket | LSU Fan | Sports Enthusiast | Gamer | Reader | IoT",
+            "favourites_count": 40881,
+            "followers_count": 897,
+            "friends_count": 1949,
+            "geo_enabled": true,
+            "id": 355695243,
+            "id_str": "355695243",
+            "listed_count": 67,
+            "location": "Lewsiana",
+            "name": "McHugh David",
+            "profile_background_color": "981CEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/355695243/1504571489",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/790216904296140800/7BTo6w1-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/790216904296140800/7BTo6w1-_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "mchughdavid41",
+            "statuses_count": 21165,
+            "url": "https://t.co/DzbzlsgHqp"
+        },
+        "user_mentions": [
+            {
+                "id": 2951574214,
+                "id_str": "2951574214",
+                "name": "Rep. Garret Graves",
+                "screen_name": "RepGarretGraves"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @mchughdavid41: .@RepGarretGraves says -\n\n'This is definitive, this is happening.\n\nThis is historic, this is a big deal.'\n\n@LPNews1898 #\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 30 17:51:24 +0000 2014",
+        "default_profile": true,
+        "description": "Official Twitter Page of Congressman Garret Graves (LA06)",
+        "favourites_count": 311,
+        "followers_count": 12180,
+        "friends_count": 1115,
+        "geo_enabled": true,
+        "id": 2951574214,
+        "id_str": "2951574214",
+        "listed_count": 383,
+        "location": "Follow us on Facebook: ",
+        "name": "Rep. Garret Graves",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951574214/1421440830",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553292029963145216/lzwyCMoA_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553292029963145216/lzwyCMoA_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGarretGraves",
+        "statuses_count": 3574,
+        "url": "https://t.co/glkM2IIXms",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 355695243,
+            "id_str": "355695243",
+            "name": "McHugh David",
+            "screen_name": "mchughdavid41"
+        },
+        {
+            "id": 2951574214,
+            "id_str": "2951574214",
+            "name": "Rep. Garret Graves",
+            "screen_name": "RepGarretGraves"
+        },
+        {
+            "id": 356242849,
+            "id_str": "356242849",
+            "name": "LivingstonParishNews",
+            "screen_name": "LPNews1898"
+        }
+    ]
+}

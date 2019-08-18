@@ -1,0 +1,103 @@
+{
+    "created_at": "Wed May 01 22:32:10 +0000 2019",
+    "hashtags": [],
+    "id": 1123716772845228032,
+    "id_str": "1123716772845228032",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Wed May 01 16:24:36 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1123624269748027392,
+        "id_str": "1123624269748027392",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@RodneyDavis: \u201cThe American people are going to demand action on infrastructure. There isn\u2019t an issue in Washingto\u2026 https://t.co/gSxUAQrOXC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1123624269748027392",
+                "url": "https://t.co/gSxUAQrOXC"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 10 18:58:01 +0000 2016",
+            "default_profile": true,
+            "description": "#ConnectToCongress is the best way to talk to your lawmakers through the Sinclair Broadcast Group network. https://t.co/3G2jKZ1OwR",
+            "favourites_count": 880,
+            "followers_count": 1097,
+            "friends_count": 465,
+            "id": 741343677465890820,
+            "id_str": "741343677465890820",
+            "listed_count": 61,
+            "location": "Washington, DC",
+            "name": "C2C Sinclair",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/741343677465890820/1465586441",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/741345386925817856/mtKcEXUU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/741345386925817856/mtKcEXUU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SBGC2C",
+            "statuses_count": 5417,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 993153006,
+                "id_str": "993153006",
+                "name": "US Rep Rodney Davis",
+                "screen_name": "RodneyDavis"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SBGC2C: .@RodneyDavis: \u201cThe American people are going to demand action on infrastructure. There isn\u2019t an issue in Washington more bipar\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 06 14:20:04 +0000 2012",
+        "description": "Proudly representing the 13th Congressional District of Illinois and marginalized Nickelback fans everywhere.",
+        "favourites_count": 188,
+        "followers_count": 21577,
+        "friends_count": 560,
+        "geo_enabled": true,
+        "id": 993153006,
+        "id_str": "993153006",
+        "listed_count": 845,
+        "location": "Taylorville, IL",
+        "name": "US Rep Rodney Davis",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/993153006/1497639898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/861602080712216576/Qa1f4EOG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/861602080712216576/Qa1f4EOG_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RodneyDavis",
+        "statuses_count": 6052,
+        "url": "http://t.co/foaAG4Df",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 741343677465890820,
+            "id_str": "741343677465890820",
+            "name": "C2C Sinclair",
+            "screen_name": "SBGC2C"
+        },
+        {
+            "id": 993153006,
+            "id_str": "993153006",
+            "name": "US Rep Rodney Davis",
+            "screen_name": "RodneyDavis"
+        }
+    ]
+}

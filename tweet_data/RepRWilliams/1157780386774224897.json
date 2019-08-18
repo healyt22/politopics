@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Aug 03 22:28:49 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [],
+    "id": 1157780386774224897,
+    "id_str": "1157780386774224897",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Aug 03 18:10:30 +0000 2019",
+        "favorite_count": 946,
+        "hashtags": [],
+        "id": 1157715380338601984,
+        "id_str": "1157715380338601984",
+        "lang": "en",
+        "retweet_count": 1109,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Multiple victims have been injured in a shooting at the Walmart in El Paso, Texas. Follow live updates:\u2026 https://t.co/jBB3pi1rsf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1157715380338601984",
+                "url": "https://t.co/jBB3pi1rsf"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+            "description": "Breaking news from CNN Digital. Now 55M strong. Check @cnn for all things CNN, breaking and more. Download the app for custom alerts: https://t.co/UCHG9M367J",
+            "favourites_count": 22,
+            "followers_count": 55671143,
+            "friends_count": 121,
+            "id": 428333,
+            "id_str": "428333",
+            "listed_count": 182904,
+            "location": "Everywhere",
+            "name": "CNN Breaking News",
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/428333/1531855520",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "DADADA",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "cnnbrk",
+            "statuses_count": 67233,
+            "url": "http://t.co/HjKR4r61U5",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1157715380338601984,
+    "quoted_status_id_str": "1157715380338601984",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Praying for the El Paso community and my friend @mayor_margo today. I stand ready to assist in any way I can. https://t.co/PsVEi4R4Nt",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/cnnbrk/status/1157715380338601984",
+            "url": "https://t.co/PsVEi4R4Nt"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 10 19:21:22 +0000 2013",
+        "description": "I am honored to represent the 25th Congressional District of Texas. Member of @FinancialCmte.",
+        "favourites_count": 1030,
+        "followers_count": 11559,
+        "friends_count": 704,
+        "geo_enabled": true,
+        "id": 1077446982,
+        "id_str": "1077446982",
+        "listed_count": 611,
+        "location": "Central Texas",
+        "name": "Rep. Roger Williams",
+        "profile_background_color": "DEDDE0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077446982/1547135020",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436164065665093632/aealPAUa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/436164065665093632/aealPAUa_normal.jpeg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepRWilliams",
+        "statuses_count": 4904,
+        "url": "http://t.co/JVoBEX18T4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 793684943054315520,
+            "id_str": "793684943054315520",
+            "name": "Mayor Dee Margo",
+            "screen_name": "mayor_margo"
+        }
+    ]
+}

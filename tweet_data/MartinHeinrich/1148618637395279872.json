@@ -1,0 +1,125 @@
+{
+    "created_at": "Tue Jul 09 15:43:18 +0000 2019",
+    "hashtags": [
+        {
+            "text": "NewMexico"
+        }
+    ],
+    "id": 1148618637395279872,
+    "id_str": "1148618637395279872",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Tue Jul 09 12:30:08 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [
+            {
+                "text": "NewMexico"
+            }
+        ],
+        "id": 1148570024971554816,
+        "id_str": "1148570024971554816",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "text": "We agree with #NewMexico Senator @MartinHeinrich! As he writes in @thehill, \"Adding wind to our power system enhanc\u2026 https://t.co/XB4pwva3Lt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148570024971554816",
+                "url": "https://t.co/XB4pwva3Lt"
+            }
+        ],
+        "user": {
+            "created_at": "Mon May 25 20:53:48 +0000 2009",
+            "description": "Pattern Energy is an independent power company that owns & operates wind & solar power facilities around the world. Listed on NASDAQ and TSX (PEGI).",
+            "favourites_count": 1328,
+            "followers_count": 4502,
+            "friends_count": 984,
+            "geo_enabled": true,
+            "id": 42485015,
+            "id_str": "42485015",
+            "listed_count": 129,
+            "location": "San Francisco, CA",
+            "name": "Pattern Energy",
+            "profile_background_color": "004265",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/42485015/1561381757",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1029025569311051777/a6r8zHK1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029025569311051777/a6r8zHK1_normal.jpg",
+            "profile_link_color": "004265",
+            "profile_sidebar_border_color": "B2B2B2",
+            "profile_sidebar_fill_color": "E6E6E6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "PatternEnergy",
+            "statuses_count": 3887,
+            "url": "http://t.co/yW8qS4u4mA"
+        },
+        "user_mentions": [
+            {
+                "id": 1099199839,
+                "id_str": "1099199839",
+                "name": "Martin Heinrich",
+                "screen_name": "MartinHeinrich"
+            },
+            {
+                "id": 1917731,
+                "id_str": "1917731",
+                "name": "The Hill",
+                "screen_name": "thehill"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @PatternEnergy: We agree with #NewMexico Senator @MartinHeinrich! As he writes in @thehill, \"Adding wind to our power system enhances re\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 17 20:24:19 +0000 2013",
+        "description": "United States Senator from New Mexico",
+        "favourites_count": 680,
+        "followers_count": 189567,
+        "friends_count": 572,
+        "geo_enabled": true,
+        "id": 1099199839,
+        "id_str": "1099199839",
+        "listed_count": 1930,
+        "name": "Martin Heinrich",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099199839/1513792542",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091387172282867718/pNhlcC9I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091387172282867718/pNhlcC9I_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "MartinHeinrich",
+        "statuses_count": 7631,
+        "url": "https://t.co/97adkYcq3x",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 42485015,
+            "id_str": "42485015",
+            "name": "Pattern Energy",
+            "screen_name": "PatternEnergy"
+        },
+        {
+            "id": 1099199839,
+            "id_str": "1099199839",
+            "name": "Martin Heinrich",
+            "screen_name": "MartinHeinrich"
+        },
+        {
+            "id": 1917731,
+            "id_str": "1917731",
+            "name": "The Hill",
+            "screen_name": "thehill"
+        }
+    ]
+}

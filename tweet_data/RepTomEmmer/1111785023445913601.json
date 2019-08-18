@@ -1,0 +1,116 @@
+{
+    "created_at": "Sat Mar 30 00:19:40 +0000 2019",
+    "hashtags": [],
+    "id": 1111785023445913601,
+    "id_str": "1111785023445913601",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Thu Mar 28 17:14:43 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1111315695642529792,
+        "id_str": "1111315695642529792",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "In a recent interview with @LBS, GBBC's CEO @srolondon said, \n\"We need to get beyond the idea that blockchain is ju\u2026 https://t.co/Shi4BR0sF7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1111315695642529792",
+                "url": "https://t.co/Shi4BR0sF7"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 08 18:25:32 +0000 2017",
+            "default_profile": true,
+            "description": "Global Blockchain Business Council - harnessing groundbreaking blockchain technology to create more secure, equitable, and functional societies",
+            "favourites_count": 1849,
+            "followers_count": 2439,
+            "friends_count": 521,
+            "geo_enabled": true,
+            "id": 839542616211537924,
+            "id_str": "839542616211537924",
+            "listed_count": 81,
+            "name": "GBBC",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/839542616211537924/1553551196",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1110293857474879489/h__eGcVr_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110293857474879489/h__eGcVr_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GBBCouncil",
+            "statuses_count": 1272,
+            "url": "https://t.co/yZCwljmElp"
+        },
+        "user_mentions": [
+            {
+                "id": 25983654,
+                "id_str": "25983654",
+                "name": "London Business School",
+                "screen_name": "LBS"
+            },
+            {
+                "id": 500712026,
+                "id_str": "500712026",
+                "name": "Sandra Ro",
+                "screen_name": "srolondon"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GBBCouncil: In a recent interview with @LBS, GBBC's CEO @srolondon said, \n\"We need to get beyond the idea that blockchain is just about\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 10 21:44:52 +0000 2014",
+        "default_profile": true,
+        "description": "Husband, father, hockey fan, and Congressman for Minnesota's 6th District.",
+        "favourites_count": 518,
+        "followers_count": 13400,
+        "friends_count": 911,
+        "id": 2914515430,
+        "id_str": "2914515430",
+        "listed_count": 511,
+        "location": "Otsego, MN | Washington, D.C.",
+        "name": "Tom Emmer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914515430/1446669081",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1067846972235804672/41P-z5uD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067846972235804672/41P-z5uD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTomEmmer",
+        "statuses_count": 4264,
+        "url": "http://t.co/jU8TYBqqHL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 839542616211537924,
+            "id_str": "839542616211537924",
+            "name": "GBBC",
+            "screen_name": "GBBCouncil"
+        },
+        {
+            "id": 25983654,
+            "id_str": "25983654",
+            "name": "London Business School",
+            "screen_name": "LBS"
+        },
+        {
+            "id": 500712026,
+            "id_str": "500712026",
+            "name": "Sandra Ro",
+            "screen_name": "srolondon"
+        }
+    ]
+}

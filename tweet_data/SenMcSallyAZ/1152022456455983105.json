@@ -1,0 +1,153 @@
+{
+    "created_at": "Fri Jul 19 01:08:51 +0000 2019",
+    "hashtags": [],
+    "id": 1152022456455983105,
+    "id_str": "1152022456455983105",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Jul 18 15:36:26 +0000 2019",
+        "favorite_count": 21,
+        "hashtags": [],
+        "id": 1151878401210404864,
+        "id_str": "1151878401210404864",
+        "lang": "en",
+        "place": {
+            "id": "07d9c965e1888000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c965e1888000.json",
+            "place_type": "poi",
+            "name": "Dirksen Senate Building",
+            "full_name": "Dirksen Senate Building",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ],
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ],
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ],
+                        [
+                            -77.00540542602539,
+                            38.89240232767372
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Arizona, Idaho water managers tell \u2066Senate @EnergyGOP\u2069 water panel chair \u2066@SenMcSallyAZ\u2069 they need more flexibility\u2026 https://t.co/60VgyFWYDO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151878401210404864",
+                "url": "https://t.co/60VgyFWYDO"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 19 20:52:55 +0000 2010",
+            "default_profile": true,
+            "description": "Senior Congressional Reporter Bloomberg Environment @environment. Links & RTs \u2260 endorsements dscott@BloombergEnvironment.com",
+            "favourites_count": 890,
+            "followers_count": 3618,
+            "friends_count": 1689,
+            "geo_enabled": true,
+            "id": 134918286,
+            "id_str": "134918286",
+            "listed_count": 248,
+            "location": "Washington D.C.",
+            "name": "Dean Scott",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/134918286/1475769974",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1744104280/DeanFORtwitter_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1744104280/DeanFORtwitter_normal.JPG",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "deantscott",
+            "statuses_count": 3460,
+            "url": "https://t.co/6s4YJvDOSf",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 82657929,
+                "id_str": "82657929",
+                "name": "Senate Energy GOP",
+                "screen_name": "EnergyGOP"
+            },
+            {
+                "id": 2964949642,
+                "id_str": "2964949642",
+                "name": "Martha McSally",
+                "screen_name": "SenMcSallyAZ"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @deantscott: Arizona, Idaho water managers tell \u2066Senate @EnergyGOP\u2069 water panel chair \u2066@SenMcSallyAZ\u2069 they need more flexibility from fe\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 06 20:39:37 +0000 2015",
+        "description": "First female fighter pilot to fly in combat. Veteran. Dog mom to Boomer. Proudly representing the people of Arizona in the U.S Senate.",
+        "favourites_count": 267,
+        "followers_count": 65329,
+        "friends_count": 736,
+        "geo_enabled": true,
+        "id": 2964949642,
+        "id_str": "2964949642",
+        "listed_count": 1027,
+        "location": "Arizona, USA",
+        "name": "Martha McSally",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964949642/1460992343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090315894109204480/DiDFtf5C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090315894109204480/DiDFtf5C_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenMcSallyAZ",
+        "statuses_count": 3646,
+        "url": "https://t.co/ZaC11aNF6e",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 134918286,
+            "id_str": "134918286",
+            "name": "Dean Scott",
+            "screen_name": "deantscott"
+        },
+        {
+            "id": 82657929,
+            "id_str": "82657929",
+            "name": "Senate Energy GOP",
+            "screen_name": "EnergyGOP"
+        },
+        {
+            "id": 2964949642,
+            "id_str": "2964949642",
+            "name": "Martha McSally",
+            "screen_name": "SenMcSallyAZ"
+        }
+    ]
+}

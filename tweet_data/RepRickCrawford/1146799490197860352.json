@@ -1,0 +1,140 @@
+{
+    "created_at": "Thu Jul 04 15:14:39 +0000 2019",
+    "favorite_count": 26,
+    "hashtags": [
+        {
+            "text": "4thofjuly"
+        }
+    ],
+    "id": 1146799490197860352,
+    "id_str": "1146799490197860352",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/xfMSsMWgq6",
+            "expanded_url": "https://twitter.com/RepRickCrawford/status/1146799490197860352/video/1",
+            "id": 1146799130716581888,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146799130716581888/pu/img/gAXQQmQIOaQB3m7K.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146799130716581888/pu/img/gAXQQmQIOaQB3m7K.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/xfMSsMWgq6",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 100534,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1146799130716581888/pu/pl/pNhg_darvKaWcBPW.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1146799130716581888/pu/vid/1280x720/SuOH6qlFc6XJWU1s.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1146799130716581888/pu/vid/480x270/40lUoDoWo7qX7_jB.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1146799130716581888/pu/vid/640x360/DIwTGfFui09NBNyj.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "place": {
+        "id": "d6819fe60643ebc1",
+        "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+        "place_type": "city",
+        "name": "Alexandria",
+        "full_name": "Alexandria, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.144435,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.8448531
+                    ],
+                    [
+                        -77.144435,
+                        38.8448531
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Wishing you and your family a Happy Independence Day! #4thofjuly https://t.co/xfMSsMWgq6",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 03 21:57:49 +0000 2011",
+        "description": "Representing Arkansas's 1st District in the United States House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee",
+        "favourites_count": 1550,
+        "followers_count": 19067,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 233693291,
+        "id_str": "233693291",
+        "listed_count": 907,
+        "location": "Washington, DC",
+        "name": "Rep Rick Crawford",
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233693291/1514907502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993922640040603649/VsFpRzt0_normal.jpg",
+        "profile_link_color": "048C09",
+        "profile_sidebar_border_color": "2E517B",
+        "profile_sidebar_fill_color": "C1CCDE",
+        "profile_text_color": "2424C7",
+        "profile_use_background_image": true,
+        "screen_name": "RepRickCrawford",
+        "statuses_count": 5300,
+        "url": "https://t.co/Bh2OlD3a1Q",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,201 @@
+{
+    "created_at": "Wed Jul 10 19:42:23 +0000 2019",
+    "hashtags": [],
+    "id": 1149041195936600065,
+    "id_str": "1149041195936600065",
+    "lang": "en",
+    "retweet_count": 45,
+    "retweeted_status": {
+        "created_at": "Wed Jul 10 19:41:41 +0000 2019",
+        "favorite_count": 108,
+        "hashtags": [],
+        "id": 1149041017691234305,
+        "id_str": "1149041017691234305",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 45,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Today, I joined @HispanicCaucus Chairman @JoaquinCastrotx, @RepCummings, Rep @RashidaTlaib, @RepPressley @RepAOC &amp;\u2026 https://t.co/ojR1A4Tlfk",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149041017691234305",
+                "url": "https://t.co/ojR1A4Tlfk"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 08 18:18:20 +0000 2010",
+            "default_profile": true,
+            "description": "Represents New York's 7th Congressional District in the U.S. House of Representatives. Chairwoman of House Small Business Committee. Follow us @HouseSmallBiz",
+            "favourites_count": 629,
+            "followers_count": 58907,
+            "friends_count": 5103,
+            "geo_enabled": true,
+            "id": 164369297,
+            "id_str": "164369297",
+            "listed_count": 1371,
+            "location": "NYC and DC",
+            "name": "Rep. Nydia Velazquez",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/164369297/1523637643",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/994585599343554561/duJdBxTR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/994585599343554561/duJdBxTR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NydiaVelazquez",
+            "statuses_count": 6935,
+            "url": "https://t.co/Gahd1XU986",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 33530012,
+                "id_str": "33530012",
+                "name": "Hispanic Caucus",
+                "screen_name": "HispanicCaucus"
+            },
+            {
+                "id": 231510077,
+                "id_str": "231510077",
+                "name": "Joaquin Castro",
+                "screen_name": "JoaquinCastrotx"
+            },
+            {
+                "id": 787373558,
+                "id_str": "787373558",
+                "name": "Elijah E. Cummings",
+                "screen_name": "RepCummings"
+            },
+            {
+                "id": 435331179,
+                "id_str": "435331179",
+                "name": "Rashida Tlaib",
+                "screen_name": "RashidaTlaib"
+            },
+            {
+                "id": 1080584229510172678,
+                "id_str": "1080584229510172678",
+                "name": "Congresswoman Ayanna Pressley",
+                "screen_name": "RepPressley"
+            },
+            {
+                "id": 1079104563280527364,
+                "id_str": "1079104563280527364",
+                "name": "Rep. Alexandria Ocasio-Cortez",
+                "screen_name": "RepAOC"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NydiaVelazquez: Today, I joined @HispanicCaucus Chairman @JoaquinCastrotx, @RepCummings, Rep @RashidaTlaib, @RepPressley @RepAOC &amp; @Rep\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 08 17:00:41 +0000 2016",
+        "description": "Proudly serving MD's 8th District. Member of: @rulesdemocrats | @housejudiciary | @oversightdems | @houseadm_dems. https://t.co/EkyEyszJWc",
+        "favourites_count": 10034,
+        "followers_count": 61024,
+        "friends_count": 4608,
+        "geo_enabled": true,
+        "id": 806906355214852096,
+        "id_str": "806906355214852096",
+        "listed_count": 917,
+        "location": "Maryland's 8th District",
+        "name": "Rep. Jamie Raskin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/806906355214852096/1521810245",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096425621528432640/xjSVVXNB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096425621528432640/xjSVVXNB_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRaskin",
+        "statuses_count": 6365,
+        "url": "https://t.co/bo0IGrClrq",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 164369297,
+            "id_str": "164369297",
+            "name": "Rep. Nydia Velazquez",
+            "screen_name": "NydiaVelazquez"
+        },
+        {
+            "id": 33530012,
+            "id_str": "33530012",
+            "name": "Hispanic Caucus",
+            "screen_name": "HispanicCaucus"
+        },
+        {
+            "id": 231510077,
+            "id_str": "231510077",
+            "name": "Joaquin Castro",
+            "screen_name": "JoaquinCastrotx"
+        },
+        {
+            "id": 787373558,
+            "id_str": "787373558",
+            "name": "Elijah E. Cummings",
+            "screen_name": "RepCummings"
+        },
+        {
+            "id": 435331179,
+            "id_str": "435331179",
+            "name": "Rashida Tlaib",
+            "screen_name": "RashidaTlaib"
+        },
+        {
+            "id": 1080584229510172678,
+            "id_str": "1080584229510172678",
+            "name": "Congresswoman Ayanna Pressley",
+            "screen_name": "RepPressley"
+        },
+        {
+            "id": 1079104563280527364,
+            "id_str": "1079104563280527364",
+            "name": "Rep. Alexandria Ocasio-Cortez",
+            "screen_name": "RepAOC"
+        }
+    ]
+}

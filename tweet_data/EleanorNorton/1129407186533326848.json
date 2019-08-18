@@ -1,0 +1,108 @@
+{
+    "created_at": "Fri May 17 15:23:51 +0000 2019",
+    "hashtags": [],
+    "id": 1129407186533326848,
+    "id_str": "1129407186533326848",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri May 17 15:08:55 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 1129403430383046656,
+        "id_str": "1129403430383046656",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Talking about traffic. Rep. @EleanorNorton touring construction the new Frederick Douglass Bridge to be completed i\u2026 https://t.co/J66Ubgqke6",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1129403430383046656",
+                "url": "https://t.co/J66Ubgqke6"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 20 15:22:57 +0000 2009",
+            "description": "Transportation reporter @washingtonpost.\ud83d\udeb6 \ud83d\udef4 \ud83d\udeb2 \ud83d\udee3 \ud83d\ude97 \ud83d\ude8e \ud83d\ude8a \u2708\ufe0f and more. @AmericanU alum. Tips: luz.lazo@washpost.com",
+            "favourites_count": 902,
+            "followers_count": 2647,
+            "friends_count": 1299,
+            "geo_enabled": true,
+            "id": 33547767,
+            "id_str": "33547767",
+            "listed_count": 154,
+            "location": "Washington, D.C.",
+            "name": "Luz Lazo",
+            "profile_background_color": "8FC3D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33547767/1367535812",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/958699140959100931/7ENXEJlo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/958699140959100931/7ENXEJlo_normal.jpg",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "luzcita",
+            "statuses_count": 5832,
+            "url": "https://t.co/vURV8tllYI",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 23600262,
+                "id_str": "23600262",
+                "name": "Eleanor Holmes Norton",
+                "screen_name": "EleanorNorton"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @luzcita: Talking about traffic. Rep. @EleanorNorton touring construction the new Frederick Douglass Bridge to be completed in 2021. htt\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Mar 10 14:47:46 +0000 2009",
+        "description": "Member of the U.S. Congress representing the District of Columbia",
+        "favourites_count": 337,
+        "followers_count": 33910,
+        "friends_count": 1862,
+        "geo_enabled": true,
+        "id": 23600262,
+        "id_str": "23600262",
+        "listed_count": 1401,
+        "location": "Washington, DC",
+        "name": "Eleanor Holmes Norton",
+        "profile_background_color": "023161",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23600262/1517937370",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593777800588328960/HlNwgiwl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593777800588328960/HlNwgiwl_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "034AA1",
+        "profile_sidebar_fill_color": "8F2B33",
+        "profile_text_color": "1B23B8",
+        "profile_use_background_image": true,
+        "screen_name": "EleanorNorton",
+        "statuses_count": 5168,
+        "url": "https://t.co/gHzzk4LhKo",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 33547767,
+            "id_str": "33547767",
+            "name": "Luz Lazo",
+            "screen_name": "luzcita"
+        },
+        {
+            "id": 23600262,
+            "id_str": "23600262",
+            "name": "Eleanor Holmes Norton",
+            "screen_name": "EleanorNorton"
+        }
+    ]
+}

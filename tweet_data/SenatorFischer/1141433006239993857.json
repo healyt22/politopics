@@ -1,0 +1,126 @@
+{
+    "created_at": "Wed Jun 19 19:50:10 +0000 2019",
+    "hashtags": [
+        {
+            "text": "E15"
+        }
+    ],
+    "id": 1141433006239993857,
+    "id_str": "1141433006239993857",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Jun 19 19:33:45 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "E15"
+            }
+        ],
+        "id": 1141428877518135296,
+        "id_str": "1141428877518135296",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "NE @SenatorFischer celebrates #E15 and continues to fight for farmers by bringing transparency to @EPA\u2019s refinery e\u2026 https://t.co/65VL1jHzMh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141428877518135296",
+                "url": "https://t.co/65VL1jHzMh"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 17 16:02:42 +0000 2012",
+            "description": "Fuels America is a coalition committed to protecting the Renewable Fuel Standard and promoting the benefits of renewable fuel already growing in America.",
+            "favourites_count": 71,
+            "followers_count": 6148,
+            "friends_count": 3033,
+            "id": 763977163,
+            "id_str": "763977163",
+            "listed_count": 139,
+            "location": "United States",
+            "name": "Fuels America",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/763977163/1408038631",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/499976227499687936/zo1N3Wsa_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/499976227499687936/zo1N3Wsa_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FuelsAmerica",
+            "statuses_count": 5147,
+            "url": "http://t.co/XBbJ7spBc7",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1071402577,
+                "id_str": "1071402577",
+                "name": "Senator Deb Fischer",
+                "screen_name": "SenatorFischer"
+            },
+            {
+                "id": 14615871,
+                "id_str": "14615871",
+                "name": "U.S. EPA",
+                "screen_name": "EPA"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @FuelsAmerica: NE @SenatorFischer celebrates #E15 and continues to fight for farmers by bringing transparency to @EPA\u2019s refinery exempti\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 16:49:07 +0000 2013",
+        "description": "U.S. Senator and Cherry County rancher working to bring some Nebraska common sense to Washington",
+        "favourites_count": 56,
+        "followers_count": 81862,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 1071402577,
+        "id_str": "1071402577",
+        "listed_count": 1718,
+        "name": "Senator Deb Fischer",
+        "profile_background_color": "B4C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071402577/1467819561",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/816319022182649860/pev9bNlJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/816319022182649860/pev9bNlJ_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorFischer",
+        "statuses_count": 5687,
+        "url": "http://t.co/0O49SY7v",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 763977163,
+            "id_str": "763977163",
+            "name": "Fuels America",
+            "screen_name": "FuelsAmerica"
+        },
+        {
+            "id": 1071402577,
+            "id_str": "1071402577",
+            "name": "Senator Deb Fischer",
+            "screen_name": "SenatorFischer"
+        },
+        {
+            "id": 14615871,
+            "id_str": "14615871",
+            "name": "U.S. EPA",
+            "screen_name": "EPA"
+        }
+    ]
+}

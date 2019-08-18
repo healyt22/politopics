@@ -1,0 +1,261 @@
+{
+    "created_at": "Wed Jul 10 21:28:13 +0000 2019",
+    "hashtags": [
+        {
+            "text": "Georgia"
+        },
+        {
+            "text": "amiright"
+        }
+    ],
+    "id": 1149067829053992960,
+    "id_str": "1149067829053992960",
+    "lang": "en",
+    "quoted_status_id": 1148996592164384769,
+    "quoted_status_id_str": "1148996592164384769",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Jul 10 21:26:32 +0000 2019",
+        "favorite_count": 17,
+        "hashtags": [
+            {
+                "text": "Georgia"
+            },
+            {
+                "text": "amiright"
+            }
+        ],
+        "id": 1149067404485505024,
+        "id_str": "1149067404485505024",
+        "in_reply_to_screen_name": "SenatorTimScott",
+        "in_reply_to_user_id": 217543151,
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Wed Jul 10 16:45:09 +0000 2019",
+            "favorite_count": 619,
+            "hashtags": [],
+            "id": 1148996592164384769,
+            "id_str": "1148996592164384769",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/6xUGh5yFJj",
+                    "expanded_url": "https://twitter.com/SenatorTimScott/status/1148996592164384769/photo/1",
+                    "id": 1148996575718510593,
+                    "media_url": "http://pbs.twimg.com/media/D_IOTEfXkAEpRQi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D_IOTEfXkAEpRQi.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 969,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1654,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 549,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/6xUGh5yFJj"
+                },
+                {
+                    "display_url": "pic.twitter.com/6xUGh5yFJj",
+                    "expanded_url": "https://twitter.com/SenatorTimScott/status/1148996592164384769/photo/1",
+                    "id": 1148996575718498310,
+                    "media_url": "http://pbs.twimg.com/media/D_IOTEfXYAYW-qH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D_IOTEfXYAYW-qH.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 610,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1838,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1077,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/6xUGh5yFJj"
+                }
+            ],
+            "place": {
+                "id": "07d9e38382088001",
+                "url": "https://api.twitter.com/1.1/geo/id/07d9e38382088001.json",
+                "place_type": "poi",
+                "name": "Hart Senate Building",
+                "full_name": "Hart Senate Building",
+                "country_code": "",
+                "country": "",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -77.00449881637981,
+                                38.892549690574846
+                            ],
+                            [
+                                -77.00449881637981,
+                                38.892549690574846
+                            ],
+                            [
+                                -77.00449881637981,
+                                38.892549690574846
+                            ],
+                            [
+                                -77.00449881637981,
+                                38.892549690574846
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 33,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "It\u2019s that time of year again \u2014 South Carolina peach delivery day. Hope my colleagues enjoy the nation\u2019s best \ud83c\udf51\ud83c\udf51! https://t.co/6xUGh5yFJj",
+            "urls": [],
+            "user": {
+                "created_at": "Fri Nov 19 20:34:30 +0000 2010",
+                "description": "United States Senator from South Carolina",
+                "favourites_count": 1648,
+                "followers_count": 378192,
+                "friends_count": 3890,
+                "geo_enabled": true,
+                "id": 217543151,
+                "id_str": "217543151",
+                "listed_count": 3649,
+                "location": "South Carolina",
+                "name": "Tim Scott",
+                "profile_background_color": "E0DBC8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/217543151/1550264874",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+                "profile_link_color": "606060",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "EBE9DC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "SenatorTimScott",
+                "statuses_count": 7971,
+                "url": "https://t.co/EoB6giYuOp",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1148996592164384769,
+        "quoted_status_id_str": "1148996592164384769",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@SenatorTimScott, I\u2019m sure they\u2019re very fine peaches, but it\u2019s #Georgia that\u2019s known as The Peach State! #amiright\u2026 https://t.co/C67Lchq0rI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149067404485505024",
+                "url": "https://t.co/C67Lchq0rI"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jun 16 19:53:11 +0000 2019",
+            "default_profile": true,
+            "description": "Navigating adulthood. Christian, conservative, gay, and a good sense of humor.",
+            "favourites_count": 135,
+            "followers_count": 18,
+            "friends_count": 363,
+            "id": 1140346602344919046,
+            "id_str": "1140346602344919046",
+            "location": "Atlanta, Georgia",
+            "name": "Beauregard Jackson Pickett Burnside",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140346602344919046/1562227124",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1140355335091367936/8aJxcsjS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140355335091367936/8aJxcsjS_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BJPBurnside",
+            "statuses_count": 118
+        },
+        "user_mentions": [
+            {
+                "id": 217543151,
+                "id_str": "217543151",
+                "name": "Tim Scott",
+                "screen_name": "SenatorTimScott"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @BJPBurnside: @SenatorTimScott, I\u2019m sure they\u2019re very fine peaches, but it\u2019s #Georgia that\u2019s known as The Peach State! #amiright , @Sena\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 29 20:09:30 +0000 2009",
+        "description": "U.S. Senator Johnny Isakson, R-Ga. | Committees: Veterans' Affairs, Chairman; Ethics, Chairman; Foreign Relations; HELP; Finance.\nKeep comments family friendly.",
+        "favourites_count": 819,
+        "followers_count": 66373,
+        "friends_count": 456,
+        "geo_enabled": true,
+        "id": 78403308,
+        "id_str": "78403308",
+        "listed_count": 2132,
+        "location": "GA & DC",
+        "name": "Johnny Isakson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78403308/1488812068",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/543499427365650432/JitEqhDZ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorIsakson",
+        "statuses_count": 6318,
+        "url": "http://t.co/n3mMYfmg5C",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1140346602344919046,
+            "id_str": "1140346602344919046",
+            "name": "Beauregard Jackson Pickett Burnside",
+            "screen_name": "BJPBurnside"
+        },
+        {
+            "id": 217543151,
+            "id_str": "217543151",
+            "name": "Tim Scott",
+            "screen_name": "SenatorTimScott"
+        }
+    ]
+}

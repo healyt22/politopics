@@ -1,0 +1,123 @@
+{
+    "created_at": "Mon Aug 12 14:08:15 +0000 2019",
+    "hashtags": [
+        {
+            "text": "COREAct"
+        }
+    ],
+    "id": 1160915904252796932,
+    "id_str": "1160915904252796932",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Sat Aug 10 23:05:33 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "COREAct"
+            }
+        ],
+        "id": 1160326347505295361,
+        "id_str": "1160326347505295361",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": ".@Wilderness was at A-Basin's @cirqueseries to talk about the #COREAct. Looks like Colorado is ready for action and\u2026 https://t.co/nA4d2bDKFx",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1160326347505295361",
+                "url": "https://t.co/nA4d2bDKFx"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Oct 02 16:19:14 +0000 2015",
+            "description": "A diverse group of citizens, businesses, sportsmen, & conservationists working to protect Colorado\u2019s most cherished lands, waters, and forests. #COREAct",
+            "favourites_count": 280,
+            "followers_count": 335,
+            "friends_count": 292,
+            "id": 3760586592,
+            "id_str": "3760586592",
+            "listed_count": 9,
+            "location": "Colorado, USA",
+            "name": "CORE Act",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3760586592/1443803911",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1161363191110209536/ixUTNz5g_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161363191110209536/ixUTNz5g_normal.jpg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "PassTheCOREAct",
+            "statuses_count": 1640,
+            "url": "http://t.co/0U4dggP1cA"
+        },
+        "user_mentions": [
+            {
+                "id": 5031151,
+                "id_str": "5031151",
+                "name": "Wilderness Society \ud83c\udf33",
+                "screen_name": "Wilderness"
+            },
+            {
+                "id": 1159853543769010176,
+                "id_str": "1159853543769010176",
+                "name": "Cirque Series",
+                "screen_name": "cirqueseries"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @PassTheCOREAct: .@Wilderness was at A-Basin's @cirqueseries to talk about the #COREAct. Looks like Colorado is ready for action and tha\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 28 20:29:29 +0000 2018",
+        "default_profile": true,
+        "description": "U.S. Rep. for Colorado\u2019s 2nd District. @NRDems @HouseJudiciary @ClimateCrisis & Vice-Chair @USProgressives. Proud Husband. Dad. First-generation American.",
+        "favourites_count": 377,
+        "followers_count": 13766,
+        "friends_count": 854,
+        "geo_enabled": true,
+        "id": 1078749802765139968,
+        "id_str": "1078749802765139968",
+        "listed_count": 345,
+        "location": "Northern Colorado",
+        "name": "Rep. Joe Neguse",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078749802765139968/1554924086",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1078835620246622209/3n6aNkEV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078835620246622209/3n6aNkEV_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeNeguse",
+        "statuses_count": 1527,
+        "url": "https://t.co/uQl52J20Oh",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3760586592,
+            "id_str": "3760586592",
+            "name": "CORE Act",
+            "screen_name": "PassTheCOREAct"
+        },
+        {
+            "id": 5031151,
+            "id_str": "5031151",
+            "name": "Wilderness Society \ud83c\udf33",
+            "screen_name": "Wilderness"
+        },
+        {
+            "id": 1159853543769010176,
+            "id_str": "1159853543769010176",
+            "name": "Cirque Series",
+            "screen_name": "cirqueseries"
+        }
+    ]
+}

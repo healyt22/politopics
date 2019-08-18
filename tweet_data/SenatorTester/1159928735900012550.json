@@ -1,0 +1,106 @@
+{
+    "created_at": "Fri Aug 09 20:45:35 +0000 2019",
+    "favorite_count": 120,
+    "hashtags": [
+        {
+            "text": "DontPetTheBison"
+        }
+    ],
+    "id": 1159928735900012550,
+    "id_str": "1159928735900012550",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/l58UE07kV5",
+            "expanded_url": "https://twitter.com/SenatorTester/status/1159928735900012550/video/1",
+            "id": 1159928668564705283,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1159928668564705283/pu/img/nltERnqvD2Az_eK8.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1159928668564705283/pu/img/nltERnqvD2Az_eK8.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 852,
+                    "h": 480,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 852,
+                    "h": 480,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/l58UE07kV5",
+            "video_info": {
+                "aspect_ratio": [
+                    71,
+                    40
+                ],
+                "duration_millis": 51618,
+                "variants": [
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1159928668564705283/pu/vid/478x270/AwEFrVQIORkUcUNQ.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1159928668564705283/pu/pl/xDiMyyPFYyNk1uyP.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1159928668564705283/pu/vid/638x360/_xXKY1n3VkmZQJTt.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1159928668564705283/pu/vid/852x480/zo2n6w2HVZxhuMw8.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 23,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Need a CliffsNotes version of yesterday's safety tips? We've got you covered. \n\nMost importantly - #DontPetTheBison https://t.co/l58UE07kV5",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 05 20:13:29 +0000 2012",
+        "description": "Third-generation Montana farmer. Proud grandfather. Former school teacher. Flattop icon. Trumpet player. Montana's senior Senator.",
+        "favourites_count": 300,
+        "followers_count": 94979,
+        "friends_count": 1001,
+        "geo_enabled": true,
+        "id": 515822213,
+        "id_str": "515822213",
+        "listed_count": 1379,
+        "location": "Montana",
+        "name": "Senator Jon Tester",
+        "profile_background_color": "0C0203",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/515822213/1490051228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_link_color": "FA610F",
+        "profile_sidebar_border_color": "D6BCAB",
+        "profile_sidebar_fill_color": "BE9658",
+        "profile_text_color": "544D3D",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTester",
+        "statuses_count": 4670,
+        "url": "http://t.co/G4S7FHr0Od",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,149 @@
+{
+    "created_at": "Sun Aug 04 03:22:02 +0000 2019",
+    "favorite_count": 1262,
+    "hashtags": [],
+    "id": 1157854177818603521,
+    "id_str": "1157854177818603521",
+    "lang": "und",
+    "quoted_status": {
+        "created_at": "Sun Aug 04 01:20:22 +0000 2019",
+        "favorite_count": 55305,
+        "hashtags": [],
+        "id": 1157823561039527938,
+        "id_str": "1157823561039527938",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bKD90EyJPt",
+                "expanded_url": "https://twitter.com/DonSquiresdc/status/1157823561039527938/video/1",
+                "id": 1157823510926036993,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157823510926036993/pu/img/khneKiQms5-MBx9D.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157823510926036993/pu/img/khneKiQms5-MBx9D.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/bKD90EyJPt",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 13404,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1157823510926036993/pu/vid/1280x720/ws_elOAmpdMX5zfK.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1157823510926036993/pu/vid/640x360/vqSDnnfmZ3LoZwBo.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1157823510926036993/pu/pl/emexg4SAp4U7Palp.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1157823510926036993/pu/vid/480x270/SvTEihV81Ru___1m.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 15216,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Happening now at the White House.  @MomsDemand https://t.co/bKD90EyJPt",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Oct 26 15:24:56 +0000 2016",
+            "default_profile": true,
+            "favourites_count": 39,
+            "followers_count": 192,
+            "friends_count": 31,
+            "id": 791299581606756352,
+            "id_str": "791299581606756352",
+            "listed_count": 2,
+            "name": "Don Squires",
+            "profile_background_color": "F5F8FA",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/791383360144826368/YHlfG0WR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/791383360144826368/YHlfG0WR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DonSquiresdc",
+            "statuses_count": 79
+        },
+        "user_mentions": [
+            {
+                "id": 1017637447,
+                "id_str": "1017637447",
+                "name": "Moms Demand Action",
+                "screen_name": "MomsDemand"
+            }
+        ]
+    },
+    "quoted_status_id": 1157823561039527938,
+    "quoted_status_id_str": "1157823561039527938",
+    "retweet_count": 281,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u2764\ufe0f https://t.co/oPkUtXxXwT",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/DonSquiresdc/status/1157823561039527938",
+            "url": "https://t.co/oPkUtXxXwT"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 19 22:26:42 +0000 2018",
+        "description": "Tejana fronteriza. Proudly representing Texas' 16th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 2543,
+        "followers_count": 52644,
+        "friends_count": 1337,
+        "geo_enabled": true,
+        "id": 1075517806551154689,
+        "id_str": "1075517806551154689",
+        "listed_count": 493,
+        "location": "El Paso, TX",
+        "name": "Rep. Veronica Escobar",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075517806551154689/1546448528",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080877314123157505/gwdT0ZH9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080877314123157505/gwdT0ZH9_normal.jpg",
+        "profile_link_color": "147AC7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepEscobar",
+        "statuses_count": 2100,
+        "url": "https://t.co/8S9GJ5r720",
+        "verified": true
+    },
+    "user_mentions": []
+}

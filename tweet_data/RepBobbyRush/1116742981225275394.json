@@ -1,0 +1,108 @@
+{
+    "created_at": "Fri Apr 12 16:40:49 +0000 2019",
+    "hashtags": [],
+    "id": 1116742981225275394,
+    "id_str": "1116742981225275394",
+    "lang": "en",
+    "retweet_count": 11,
+    "retweeted_status": {
+        "created_at": "Fri Apr 12 15:25:59 +0000 2019",
+        "favorite_count": 21,
+        "hashtags": [],
+        "id": 1116724148179435521,
+        "id_str": "1116724148179435521",
+        "lang": "en",
+        "retweet_count": 11,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Over our first 100 days, my colleagues and I on @EnergyCommerce have begun to fulfill our promises to the American\u2026 https://t.co/b2UPT81iLk",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1116724148179435521",
+                "url": "https://t.co/b2UPT81iLk"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 16 13:51:56 +0000 2009",
+            "description": "The official Twitter account of Congressman Frank Pallone, Jr. (D), of New Jersey's 6th district, Chairman of @EnergyCommerce Committee.",
+            "favourites_count": 434,
+            "followers_count": 34096,
+            "friends_count": 2911,
+            "geo_enabled": true,
+            "id": 31801993,
+            "id_str": "31801993",
+            "listed_count": 1554,
+            "location": "#NJ",
+            "name": "Rep. Frank Pallone",
+            "profile_background_color": "2B590F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/31801993/1528210922",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1096470387041419264/0vCNMXci_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096470387041419264/0vCNMXci_normal.png",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "295C32",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "FrankPallone",
+            "statuses_count": 13845,
+            "url": "https://t.co/jZroKb15fq",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 30929600,
+                "id_str": "30929600",
+                "name": "Energy and Commerce Committee",
+                "screen_name": "EnergyCommerce"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @FrankPallone: Over our first 100 days, my colleagues and I on @EnergyCommerce have begun to fulfill our promises to the American people\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 25 20:59:25 +0000 2011",
+        "default_profile": true,
+        "description": "Official Twitter account of Congressman Bobby L. Rush, proudly representing the 1st Congressional District of Illinois.",
+        "favourites_count": 432,
+        "followers_count": 20276,
+        "friends_count": 960,
+        "geo_enabled": true,
+        "id": 305216911,
+        "id_str": "305216911",
+        "listed_count": 945,
+        "location": "Chicago, IL",
+        "name": "Bobby L. Rush",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/305216911/1518124449",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004884463963303936/qe5m6af2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004884463963303936/qe5m6af2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBobbyRush",
+        "statuses_count": 2900,
+        "url": "https://t.co/m46YtFAWex",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 31801993,
+            "id_str": "31801993",
+            "name": "Rep. Frank Pallone",
+            "screen_name": "FrankPallone"
+        },
+        {
+            "id": 30929600,
+            "id_str": "30929600",
+            "name": "Energy and Commerce Committee",
+            "screen_name": "EnergyCommerce"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "created_at": "Mon Jul 01 19:37:17 +0000 2019",
+    "hashtags": [
+        {
+            "text": "ticks"
+        }
+    ],
+    "id": 1145778419956879360,
+    "id_str": "1145778419956879360",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Jul 01 16:51:10 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "ticks"
+            }
+        ],
+        "id": 1145736613269577734,
+        "id_str": "1145736613269577734",
+        "lang": "en",
+        "place": {
+            "id": "94965b2c45386f87",
+            "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json",
+            "place_type": "admin",
+            "name": "New York",
+            "full_name": "New York, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.76259,
+                            40.477383
+                        ],
+                        [
+                            -71.777492,
+                            40.477383
+                        ],
+                        [
+                            -71.777492,
+                            45.015851
+                        ],
+                        [
+                            -79.76259,
+                            45.015851
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "TONIGHT: we take you inside the @UpstateNews lab that's working with #ticks to determine the best treatments for yo\u2026 https://t.co/gKL2rAr2Rx",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1145736613269577734",
+                "url": "https://t.co/gKL2rAr2Rx"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 14 14:48:16 +0000 2011",
+            "description": "MMJ/Reporter @CNYCentral. News tips/comments? DM me! @ithacacollege Alum. Retweets not endorsements. Views are my own.",
+            "favourites_count": 1680,
+            "followers_count": 960,
+            "friends_count": 745,
+            "geo_enabled": true,
+            "id": 266033776,
+            "id_str": "266033776",
+            "listed_count": 19,
+            "location": "Syracuse, NY",
+            "name": "mary kielar",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/266033776/1489703597",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021480921583820802/SxnqTIdY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021480921583820802/SxnqTIdY_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "marykielarCNY",
+            "statuses_count": 6657,
+            "url": "https://t.co/PbPEY7zDoN"
+        },
+        "user_mentions": [
+            {
+                "id": 47676683,
+                "id_str": "47676683",
+                "name": "SUNY Upstate Medical",
+                "screen_name": "UpstateNews"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @marykielarCNY: TONIGHT: we take you inside the @UpstateNews lab that's working with #ticks to determine the best treatments for you and\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 07 21:51:49 +0000 2015",
+        "default_profile": true,
+        "description": "Official Twitter account of Rep. John Katko. Proudly representing New York's 24th Congressional District.",
+        "favourites_count": 174,
+        "followers_count": 14769,
+        "friends_count": 238,
+        "geo_enabled": true,
+        "id": 2966765501,
+        "id_str": "2966765501",
+        "listed_count": 555,
+        "location": "Syracuse, New York",
+        "name": "John Katko",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966765501/1522697719",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/554696221269712897/C6aDs9sH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/554696221269712897/C6aDs9sH_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJohnKatko",
+        "statuses_count": 1047,
+        "url": "https://t.co/GLTSxMTZwp",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 266033776,
+            "id_str": "266033776",
+            "name": "mary kielar",
+            "screen_name": "marykielarCNY"
+        },
+        {
+            "id": 47676683,
+            "id_str": "47676683",
+            "name": "SUNY Upstate Medical",
+            "screen_name": "UpstateNews"
+        }
+    ]
+}

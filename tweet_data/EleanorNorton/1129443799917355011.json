@@ -1,0 +1,128 @@
+{
+    "created_at": "Fri May 17 17:49:20 +0000 2019",
+    "hashtags": [
+        {
+            "text": "InfrastructureWeek"
+        }
+    ],
+    "id": 1129443799917355011,
+    "id_str": "1129443799917355011",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri May 17 16:48:16 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [
+            {
+                "text": "InfrastructureWeek"
+            }
+        ],
+        "id": 1129428430343331840,
+        "id_str": "1129428430343331840",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We are closing out  #InfrastructureWeek by showing @EleanorNorton progress on the @newfdmb. The new bridge, schedul\u2026 https://t.co/YvqpoG6D8K",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1129428430343331840",
+                "url": "https://t.co/YvqpoG6D8K"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 24 19:53:20 +0000 2009",
+            "description": "DDOT wants to hear from District residents. Tweet us, visit web https://t.co/89iHGAMvxK. For service requests, call or tweet 311. Follow @DDOTDCDirector",
+            "favourites_count": 13687,
+            "followers_count": 39194,
+            "friends_count": 1586,
+            "geo_enabled": true,
+            "id": 21789369,
+            "id_str": "21789369",
+            "listed_count": 1622,
+            "location": "\u00dcT: 38.961058,-77.034935",
+            "name": "DDOT DC",
+            "profile_background_color": "575757",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21789369/1530908874",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145701913754836993/n9ju-1Ug_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145701913754836993/n9ju-1Ug_normal.png",
+            "profile_link_color": "F53D3D",
+            "profile_sidebar_border_color": "ADADAD",
+            "profile_sidebar_fill_color": "E3E3E3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "DDOTDC",
+            "statuses_count": 41646,
+            "url": "https://t.co/89iHGAMvxK",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 23600262,
+                "id_str": "23600262",
+                "name": "Eleanor Holmes Norton",
+                "screen_name": "EleanorNorton"
+            },
+            {
+                "id": 951209684337295361,
+                "id_str": "951209684337295361",
+                "name": "The New Frederick Douglass Memorial Bridge",
+                "screen_name": "newfdmb"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DDOTDC: We are closing out  #InfrastructureWeek by showing @EleanorNorton progress on the @newfdmb. The new bridge, scheduled for compl\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Mar 10 14:47:46 +0000 2009",
+        "description": "Member of the U.S. Congress representing the District of Columbia",
+        "favourites_count": 337,
+        "followers_count": 33910,
+        "friends_count": 1862,
+        "geo_enabled": true,
+        "id": 23600262,
+        "id_str": "23600262",
+        "listed_count": 1401,
+        "location": "Washington, DC",
+        "name": "Eleanor Holmes Norton",
+        "profile_background_color": "023161",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23600262/1517937370",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593777800588328960/HlNwgiwl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593777800588328960/HlNwgiwl_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "034AA1",
+        "profile_sidebar_fill_color": "8F2B33",
+        "profile_text_color": "1B23B8",
+        "profile_use_background_image": true,
+        "screen_name": "EleanorNorton",
+        "statuses_count": 5168,
+        "url": "https://t.co/gHzzk4LhKo",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21789369,
+            "id_str": "21789369",
+            "name": "DDOT DC",
+            "screen_name": "DDOTDC"
+        },
+        {
+            "id": 23600262,
+            "id_str": "23600262",
+            "name": "Eleanor Holmes Norton",
+            "screen_name": "EleanorNorton"
+        },
+        {
+            "id": 951209684337295361,
+            "id_str": "951209684337295361",
+            "name": "The New Frederick Douglass Memorial Bridge",
+            "screen_name": "newfdmb"
+        }
+    ]
+}

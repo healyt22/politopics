@@ -1,0 +1,117 @@
+{
+    "created_at": "Tue Apr 30 13:10:30 +0000 2019",
+    "hashtags": [],
+    "id": 1123213033092931584,
+    "id_str": "1123213033092931584",
+    "lang": "en",
+    "retweet_count": 35,
+    "retweeted_status": {
+        "created_at": "Tue Apr 30 00:04:16 +0000 2019",
+        "favorite_count": 50,
+        "hashtags": [],
+        "id": 1123015171230916608,
+        "id_str": "1123015171230916608",
+        "lang": "en",
+        "retweet_count": 35,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to Congressman @RepLaMalfa for taking the time to attend tonight\u2019s event @librarycongress and meet with our\u2026 https://t.co/UZlCucgm6h",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1123015171230916608",
+                "url": "https://t.co/UZlCucgm6h"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 28 00:25:35 +0000 2015",
+            "default_profile": true,
+            "description": "International Festival of Language and Culture - USA #IFLC2019",
+            "favourites_count": 1040,
+            "followers_count": 2490,
+            "friends_count": 55,
+            "id": 3002333601,
+            "id_str": "3002333601",
+            "location": "Washington, DC",
+            "name": "IFLC USA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3002333601/1555354994",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1117868134071975941/mxacsA_4_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117868134071975941/mxacsA_4_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "iflcusa",
+            "statuses_count": 1068,
+            "url": "https://t.co/0mEwcziiXT"
+        },
+        "user_mentions": [
+            {
+                "id": 1069124515,
+                "id_str": "1069124515",
+                "name": "Rep. Doug LaMalfa",
+                "screen_name": "RepLaMalfa"
+            },
+            {
+                "id": 7152572,
+                "id_str": "7152572",
+                "name": "Library of Congress",
+                "screen_name": "librarycongress"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @iflcusa: Thanks to Congressman @RepLaMalfa for taking the time to attend tonight\u2019s event @librarycongress and meet with our wonderful p\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 07 20:07:58 +0000 2013",
+        "default_profile": true,
+        "description": "Representing California's First District including Siskiyou, Shasta, Tehama, Butte, Glenn, Modoc, Lassen, Plumas, Sierra, Nevada and Placer Counties",
+        "favourites_count": 287,
+        "followers_count": 17966,
+        "friends_count": 980,
+        "id": 1069124515,
+        "id_str": "1069124515",
+        "listed_count": 664,
+        "location": "Northern California",
+        "name": "Rep. Doug LaMalfa",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069124515/1412866084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/532998035416969216/vtCyv9Ze_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/532998035416969216/vtCyv9Ze_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLaMalfa",
+        "statuses_count": 1370,
+        "url": "http://t.co/zhUYypSZHQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3002333601,
+            "id_str": "3002333601",
+            "name": "IFLC USA",
+            "screen_name": "iflcusa"
+        },
+        {
+            "id": 1069124515,
+            "id_str": "1069124515",
+            "name": "Rep. Doug LaMalfa",
+            "screen_name": "RepLaMalfa"
+        },
+        {
+            "id": 7152572,
+            "id_str": "7152572",
+            "name": "Library of Congress",
+            "screen_name": "librarycongress"
+        }
+    ]
+}

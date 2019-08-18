@@ -1,0 +1,115 @@
+{
+    "created_at": "Thu Aug 09 20:31:36 +0000 2018",
+    "hashtags": [],
+    "id": 1027653643078717440,
+    "id_str": "1027653643078717440",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Aug 09 20:29:07 +0000 2018",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1027653020442664961,
+        "id_str": "1027653020442664961",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "PREVIEW @repdavidscott's 14th Annual Health Fair this Saturday at Mundy\u2019s Mill High School: https://t.co/HbUV7wozSL\u2026 https://t.co/DBFmQa95q3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://on.11alive.com/2KGhaOG",
+                "url": "https://t.co/HbUV7wozSL"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1027653020442664961",
+                "url": "https://t.co/DBFmQa95q3"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 09 21:55:03 +0000 2009",
+            "description": "Daily talk show hosted by @cdpullara featuring all things Atlanta! Tune in M-F from 11a-12:30p on @11Alive.",
+            "favourites_count": 7430,
+            "followers_count": 20849,
+            "friends_count": 2331,
+            "geo_enabled": true,
+            "id": 30077514,
+            "id_str": "30077514",
+            "listed_count": 323,
+            "location": "Atlanta",
+            "name": "Atlanta & Company",
+            "profile_background_color": "FFBA0A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30077514/1529956777",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/641621898460180480/5VexiTHs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/641621898460180480/5VexiTHs_normal.jpg",
+            "profile_link_color": "B30018",
+            "profile_sidebar_border_color": "FFB805",
+            "profile_sidebar_fill_color": "FFFBCC",
+            "profile_text_color": "140303",
+            "profile_use_background_image": true,
+            "screen_name": "atlandco",
+            "statuses_count": 10797,
+            "url": "https://t.co/SljS9fpwKM",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 168673083,
+                "id_str": "168673083",
+                "name": "David Scott",
+                "screen_name": "repdavidscott"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @atlandco: PREVIEW @repdavidscott's 14th Annual Health Fair this Saturday at Mundy\u2019s Mill High School: https://t.co/HbUV7wozSL\n#ATLevent\u2026",
+    "urls": [
+        {
+            "expanded_url": "https://on.11alive.com/2KGhaOG",
+            "url": "https://t.co/HbUV7wozSL"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jul 20 14:10:32 +0000 2010",
+        "description": "Representing Georgia's 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+        "favourites_count": 2673,
+        "followers_count": 21046,
+        "friends_count": 1874,
+        "id": 168673083,
+        "id_str": "168673083",
+        "listed_count": 844,
+        "location": "Georgia",
+        "name": "David Scott",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168673083/1425489882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "repdavidscott",
+        "statuses_count": 2861,
+        "url": "http://t.co/86ovd85h30",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 30077514,
+            "id_str": "30077514",
+            "name": "Atlanta & Company",
+            "screen_name": "atlandco"
+        },
+        {
+            "id": 168673083,
+            "id_str": "168673083",
+            "name": "David Scott",
+            "screen_name": "repdavidscott"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "created_at": "Wed Jun 19 20:46:57 +0000 2019",
+    "hashtags": [],
+    "id": 1141447297911402497,
+    "id_str": "1141447297911402497",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jun 19 19:35:42 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1141429365550583809,
+        "id_str": "1141429365550583809",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tFjMTk2hy5",
+                "expanded_url": "https://twitter.com/ARiquier/status/1141429365550583809/photo/1",
+                "id": 1141429355303907329,
+                "media_url": "http://pbs.twimg.com/media/D9cr83sXsAEPW0g.png",
+                "media_url_https": "https://pbs.twimg.com/media/D9cr83sXsAEPW0g.png",
+                "sizes": {
+                    "medium": {
+                        "w": 921,
+                        "h": 226,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 167,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 921,
+                        "h": 226,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/tFjMTk2hy5"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "first time anyone has used the words \"virtuous\" and \"Trump\" in the same sentence? https://t.co/tFjMTk2hy5",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Aug 27 12:56:46 +0000 2011",
+            "description": "MarketWatch reporter; IBD, Debtwire, Columbia alum. Survivor. My opinions have always been my own.",
+            "favourites_count": 8628,
+            "followers_count": 2911,
+            "friends_count": 530,
+            "geo_enabled": true,
+            "id": 363048803,
+            "id_str": "363048803",
+            "listed_count": 169,
+            "name": "Andrea Riquier",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/363048803/1552061640",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2737363299/726056c953b3e943b47222ce0411bca2_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2737363299/726056c953b3e943b47222ce0411bca2_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ARiquier",
+            "statuses_count": 13918,
+            "url": "https://t.co/z7rhYtgxcT",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1141429365550583809,
+    "quoted_status_id_str": "1141429365550583809",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "\"Mr. Moore is superbly underqualified for the role for which he has been nominated.\" -- Vice Chair @RepMaloney in a\u2026 https://t.co/JVCMV8fOtB",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1141447297911402497",
+            "url": "https://t.co/JVCMV8fOtB"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Feb 22 18:11:02 +0000 2010",
+        "description": "News & updates from the Democratic staff of the U.S. Congress Joint Economic Committee. Vice Chair Rep. Carolyn B. Maloney @RepMaloney\n\nRTs!=endorsements.",
+        "favourites_count": 2219,
+        "followers_count": 8068,
+        "friends_count": 1232,
+        "id": 116505994,
+        "id_str": "116505994",
+        "listed_count": 380,
+        "location": "Washington, D.C.",
+        "name": "Joint Economic Committee Democrats",
+        "profile_background_color": "1B304D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116505994/1522867275",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979086076773101568/rDXGSshY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979086076773101568/rDXGSshY_normal.jpg",
+        "profile_link_color": "5890B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7F7F7",
+        "profile_text_color": "333333",
+        "screen_name": "JECDems",
+        "statuses_count": 4925,
+        "url": "https://t.co/6KGMIAlGfo",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 258900199,
+            "id_str": "258900199",
+            "name": "Carolyn  B. Maloney",
+            "screen_name": "RepMaloney"
+        }
+    ]
+}

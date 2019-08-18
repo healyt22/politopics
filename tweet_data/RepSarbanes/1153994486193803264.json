@@ -1,0 +1,112 @@
+{
+    "created_at": "Wed Jul 24 11:45:00 +0000 2019",
+    "favorite_count": 74,
+    "hashtags": [
+        {
+            "text": "ProtectOurElections"
+        }
+    ],
+    "id": 1153994486193803264,
+    "id_str": "1153994486193803264",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/DgM9aT4eyO",
+            "expanded_url": "https://twitter.com/RepSarbanes/status/1153994486193803264/video/1",
+            "id": 1153971706140213248,
+            "media_url": "http://pbs.twimg.com/media/EAO-ms3W4AEM3zz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAO-ms3W4AEM3zz.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/DgM9aT4eyO",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 161128,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1153971706140213248/pl/xgBmgPgt4Ie-iAGe.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1153971706140213248/vid/480x270/VlZOuaA2VaVUTR7X.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1153971706140213248/vid/1280x720/Lkv5QHDYLocBLCh3.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1153971706140213248/vid/640x360/MQhNLq9dtW7IldBI.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 27,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "\ud83d\udc4f Hey, @senatemajldr. \ud83d\udc4f What\u2019s the hold up? #ProtectOurElections https://t.co/DgM9aT4eyO",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Aug 29 18:44:47 +0000 2011",
+        "description": "Representing Maryland\u2019s 3rd District. Author of #HR1. Cleaning up corruption #ForThePeople. Chair: @House_DRTF. Member: @OversightDems & @EnergyCommerce.",
+        "favourites_count": 243,
+        "followers_count": 22930,
+        "friends_count": 516,
+        "geo_enabled": true,
+        "id": 364415553,
+        "id_str": "364415553",
+        "listed_count": 837,
+        "location": "Maryland",
+        "name": "Rep. John Sarbanes",
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/364415553/1450112915",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/512000635386855425/iDW41TJ9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/512000635386855425/iDW41TJ9_normal.jpeg",
+        "profile_link_color": "558ADE",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepSarbanes",
+        "statuses_count": 2075,
+        "url": "https://t.co/xkBEGeSvuh",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1249982359,
+            "id_str": "1249982359",
+            "name": "Leader McConnell",
+            "screen_name": "senatemajldr"
+        }
+    ]
+}

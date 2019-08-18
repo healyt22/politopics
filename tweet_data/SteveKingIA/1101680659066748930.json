@@ -1,0 +1,128 @@
+{
+    "created_at": "Sat Mar 02 03:08:32 +0000 2019",
+    "favorite_count": 201,
+    "hashtags": [],
+    "id": 1101680659066748930,
+    "id_str": "1101680659066748930",
+    "lang": "en",
+    "place": {
+        "id": "3cd4c18d3615bbc9",
+        "url": "https://api.twitter.com/1.1/geo/id/3cd4c18d3615bbc9.json",
+        "place_type": "admin",
+        "name": "Iowa",
+        "full_name": "Iowa, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -96.6396669,
+                        40.375437
+                    ],
+                    [
+                        -90.140061,
+                        40.375437
+                    ],
+                    [
+                        -90.140061,
+                        43.50102
+                    ],
+                    [
+                        -96.6396669,
+                        43.50102
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Fri Mar 01 02:42:42 +0000 2019",
+        "favorite_count": 4300,
+        "hashtags": [],
+        "id": 1101311770696843269,
+        "id_str": "1101311770696843269",
+        "lang": "en",
+        "retweet_count": 1425,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Whenever an unborn baby is diagnosed with a life-limiting condition abortion is usually recommended\n\nBut little Alb\u2026 https://t.co/i78coXBKda",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1101311770696843269",
+                "url": "https://t.co/i78coXBKda"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Apr 19 19:00:53 +0000 2009",
+            "description": "I'm passionately pro-life,pro-woman,pro-family,pro-marriage\ud83e\udd35\ud83c\udffd\ud83d\udc70\ud83c\udffd& pro-Africa!So iSpeak,iAdvocate,iWrote TargetAfrica,iFounded @COLAfrica &yes iBlock trolls",
+            "favourites_count": 43127,
+            "followers_count": 85878,
+            "friends_count": 136,
+            "geo_enabled": true,
+            "id": 33280581,
+            "id_str": "33280581",
+            "listed_count": 506,
+            "location": "Africa-Europe-America       ",
+            "name": "Obianuju Ekeocha",
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33280581/1473725008",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3517094886/2013b1f65ef3007f7cd580db25322a82_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3517094886/2013b1f65ef3007f7cd580db25322a82_normal.jpeg",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "screen_name": "obianuju",
+            "statuses_count": 13461,
+            "url": "https://t.co/o31Nt9nRZy",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1101311770696843269,
+    "quoted_status_id_str": "1101311770696843269",
+    "retweet_count": 65,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Heart wrenching and heart warming at the same time. This baby would have been killed if the ProAborts &amp; ProInfantic\u2026 https://t.co/NPSGL9wsQt",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1101680659066748930",
+            "url": "https://t.co/NPSGL9wsQt"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jun 17 21:09:41 +0000 2009",
+        "description": "U.S. Congress, 4th Congressional District of Iowa #IA04",
+        "favourites_count": 68,
+        "followers_count": 118052,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 48117116,
+        "id_str": "48117116",
+        "listed_count": 2780,
+        "location": "Washington, DC",
+        "name": "Steve King",
+        "profile_background_color": "061025",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+        "profile_link_color": "061025",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D1AF59",
+        "profile_text_color": "061025",
+        "profile_use_background_image": true,
+        "screen_name": "SteveKingIA",
+        "statuses_count": 2797,
+        "verified": true
+    },
+    "user_mentions": []
+}

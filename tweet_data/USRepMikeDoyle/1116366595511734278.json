@@ -1,0 +1,109 @@
+{
+    "created_at": "Thu Apr 11 15:45:12 +0000 2019",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1116366595511734278,
+    "id_str": "1116366595511734278",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Apr 11 13:45:00 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "Pittsburgh"
+            },
+            {
+                "text": "netneutrality"
+            }
+        ],
+        "id": 1116336346967101442,
+        "id_str": "1116336346967101442",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Glad to see tech leadership coming out of #Pittsburgh on such an important topic. #netneutrality @USRepMikeDoyle\n\nhttps://t.co/bM7rTtDeuY",
+        "urls": [
+            {
+                "expanded_url": "https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.post-gazette.com%2Fnews%2Fpolitics-nation%2F2019%2F04%2F10%2Fnet-neutrality-save-the-internet-fcc-mike-doyle%2Fstories%2F201904100107&data=02%7C01%7Ckateulreich%40pitt.edu%7C55950efa28c5495d4a6708d6bde9df6f%7C9ef9f489e0a04eeb87cc3a526112fd0d%7C1%7C0%7C636905209501487696&sdata=bzZ8uk4vub15j874ve4GgF%2BZZZK1KeF%2BWF6tSvWGVu0%3D&reserved=0",
+                "url": "https://t.co/bM7rTtDeuY"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 27 13:57:39 +0000 2019",
+            "description": "Founding Director @PittCyber, Law Professor, Former US Attorney",
+            "favourites_count": 30,
+            "followers_count": 247,
+            "friends_count": 261,
+            "id": 1100756851359133697,
+            "id_str": "1100756851359133697",
+            "listed_count": 2,
+            "location": "Pittsburgh, PA",
+            "name": "David J. Hickton",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100756851359133697/1554297291",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1113428729794052096/iv5LWJiA_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113428729794052096/iv5LWJiA_normal.png",
+            "profile_link_color": "1C2957",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "DavidJHickton",
+            "statuses_count": 88,
+            "url": "https://t.co/YJGOhMmok0"
+        },
+        "user_mentions": [
+            {
+                "id": 39249305,
+                "id_str": "39249305",
+                "name": "Mike Doyle",
+                "screen_name": "USRepMikeDoyle"
+            }
+        ]
+    },
+    "quoted_status_id": 1116336346967101442,
+    "quoted_status_id_str": "1116336346967101442",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thanks for the kind words, @DavidJHickton! https://t.co/gMlHG4WB6F",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/DavidJHickton/status/1116336346967101442",
+            "url": "https://t.co/gMlHG4WB6F"
+        }
+    ],
+    "user": {
+        "created_at": "Mon May 11 13:22:08 +0000 2009",
+        "description": "U.S. Member of Congress representing PA's 18th District",
+        "favourites_count": 5,
+        "followers_count": 19112,
+        "friends_count": 83,
+        "id": 39249305,
+        "id_str": "39249305",
+        "listed_count": 1104,
+        "location": "Pittsburgh, PA",
+        "name": "Mike Doyle",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39249305/1560199486",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747895226237222912/uxrSeuOA_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "USRepMikeDoyle",
+        "statuses_count": 1728,
+        "url": "https://t.co/lnbMOLPFwX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1100756851359133697,
+            "id_str": "1100756851359133697",
+            "name": "David J. Hickton",
+            "screen_name": "DavidJHickton"
+        }
+    ]
+}

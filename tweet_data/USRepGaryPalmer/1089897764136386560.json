@@ -1,0 +1,139 @@
+{
+    "created_at": "Mon Jan 28 14:47:30 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [
+        {
+            "text": "AL06"
+        }
+    ],
+    "id": 1089897764136386560,
+    "id_str": "1089897764136386560",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jan 28 13:21:35 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "deliciousfood"
+            }
+        ],
+        "id": 1089876139198296064,
+        "id_str": "1089876139198296064",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XKMSm67WA6",
+                "expanded_url": "https://twitter.com/MAShow995/status/1089876139198296064/photo/1",
+                "id": 1089876132986609664,
+                "media_url": "http://pbs.twimg.com/media/DyAEkYvX4AA6AmE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DyAEkYvX4AA6AmE.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1152,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/XKMSm67WA6"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Look what @USRepGaryPalmer brought us! Food for the winter! #deliciousfood https://t.co/XKMSm67WA6",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Aug 13 16:17:50 +0000 2018",
+            "default_profile": true,
+            "description": "What are you wearing and what is your favorite fruit?",
+            "favourites_count": 3172,
+            "followers_count": 1281,
+            "friends_count": 194,
+            "id": 1029039333737680896,
+            "id_str": "1029039333737680896",
+            "listed_count": 5,
+            "location": "Birmingham, AL",
+            "name": "M&AShow",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029039333737680896/1534177312",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1125447639326236672/PNRRJ3Ir_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125447639326236672/PNRRJ3Ir_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "MAShow995",
+            "statuses_count": 3384
+        },
+        "user_mentions": [
+            {
+                "id": 2861616083,
+                "id_str": "2861616083",
+                "name": "Gary Palmer",
+                "screen_name": "USRepGaryPalmer"
+            }
+        ]
+    },
+    "quoted_status_id": 1089876139198296064,
+    "quoted_status_id_str": "1089876139198296064",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thanks as usual for having me! Always good to see you guys on the @MAShow995. Listen here if you missed it, #AL06!\u2026 https://t.co/wOGf1B3ov9",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1089897764136386560",
+            "url": "https://t.co/wOGf1B3ov9"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Nov 04 22:58:38 +0000 2014",
+        "description": "Proudly serving the people of Alabama's 6th Congressional District.",
+        "favourites_count": 344,
+        "followers_count": 16704,
+        "friends_count": 878,
+        "geo_enabled": true,
+        "id": 2861616083,
+        "id_str": "2861616083",
+        "listed_count": 535,
+        "name": "Gary Palmer",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2861616083/1457816586",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/963834426131087362/G281BjJD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/963834426131087362/G281BjJD_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "USRepGaryPalmer",
+        "statuses_count": 2085,
+        "url": "https://t.co/f5XX8JEE0I",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1029039333737680896,
+            "id_str": "1029039333737680896",
+            "name": "M&AShow",
+            "screen_name": "MAShow995"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "created_at": "Sun May 05 20:53:06 +0000 2019",
+    "favorite_count": 43,
+    "hashtags": [],
+    "id": 1125141392064434177,
+    "id_str": "1125141392064434177",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun May 05 20:04:35 +0000 2019",
+        "favorite_count": 35,
+        "hashtags": [],
+        "id": 1125129180159438850,
+        "id_str": "1125129180159438850",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/56eqWCTpHX",
+                "expanded_url": "https://twitter.com/FullertonBSB/status/1125129180159438850/video/1",
+                "id": 1125129136656093185,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125129136656093185/pu/img/ZugStjpwN4gpcfvI.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125129136656093185/pu/img/ZugStjpwN4gpcfvI.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/56eqWCTpHX",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 15162,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1125129136656093185/pu/pl/JTWl9IPH-NAgbQkd.m3u8?tag=9"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1125129136656093185/pu/vid/320x180/oBdcZGzleb8BffYs.mp4?tag=9"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1125129136656093185/pu/vid/1280x720/Cj0JarqG632RHT9B.mp4?tag=9"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1125129136656093185/pu/vid/640x360/b9OY2Fb5nk0fgodf.mp4?tag=9"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today\u2019s Ceremonial First Pitch thrown by California District 39 Representative Gil Ciscernos! https://t.co/56eqWCTpHX",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Aug 30 00:50:28 +0000 2011",
+            "description": "The Official Twitter Account of Cal State Fullerton Baseball #TusksUp",
+            "favourites_count": 1244,
+            "followers_count": 24853,
+            "friends_count": 328,
+            "geo_enabled": true,
+            "id": 364591873,
+            "id_str": "364591873",
+            "listed_count": 251,
+            "location": "Fullerton, Calif.",
+            "name": "Titans Baseball",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/364591873/1497893613",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1012385193603133440/_QAL7Nhy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012385193603133440/_QAL7Nhy_normal.jpg",
+            "profile_link_color": "F89728",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FullertonBSB",
+            "statuses_count": 27167,
+            "url": "https://t.co/TOiHWnVMFo"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1125129180159438850,
+    "quoted_status_id_str": "1125129180159438850",
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you @FullertonBSB for letting me take the mound today to throw out the first pitch. Good luck on the rest of\u2026 https://t.co/tvXNpx355V",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1125141392064434177",
+            "url": "https://t.co/tvXNpx355V"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 04 00:36:00 +0000 2019",
+        "description": "Navy Veteran and Representative for California's 39th District. Member of @VetAffairsDems, @HASCDemocrats, @HispanicCaucus, @CAPAC. Ready to serve.",
+        "favourites_count": 80,
+        "followers_count": 5369,
+        "friends_count": 421,
+        "id": 1080986167003230208,
+        "id_str": "1080986167003230208",
+        "listed_count": 181,
+        "location": "Yorba Linda, CA",
+        "name": "Rep. Gil Cisneros",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080986167003230208/1553351147",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096232620663468032/PWHZFWd4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096232620663468032/PWHZFWd4_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepGilCisneros",
+        "statuses_count": 601,
+        "url": "https://t.co/5REBl6EqoA",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 364591873,
+            "id_str": "364591873",
+            "name": "Titans Baseball",
+            "screen_name": "FullertonBSB"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "created_at": "Thu Mar 07 17:11:47 +0000 2019",
+    "hashtags": [
+        {
+            "text": "GreenNewDeal"
+        }
+    ],
+    "id": 1103704810593927170,
+    "id_str": "1103704810593927170",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Thu Mar 07 00:30:23 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [
+            {
+                "text": "GreenNewDeal"
+            }
+        ],
+        "id": 1103452801638825986,
+        "id_str": "1103452801638825986",
+        "in_reply_to_screen_name": "CongressmanHice",
+        "in_reply_to_status_id": 1100860450361753601,
+        "in_reply_to_user_id": 2975091705,
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "I'm grateful for @RepTedBudd's leadership as we work to bring the #GreenNewDeal up for a vote on the @HouseFloor. H\u2026 https://t.co/uZumjKhW7q",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1103452801638825986",
+                "url": "https://t.co/uZumjKhW7q"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 12 18:48:35 +0000 2015",
+            "default_profile": true,
+            "description": "I'm honored to serve Georgia's 10th Congressional District.",
+            "favourites_count": 1283,
+            "followers_count": 26034,
+            "friends_count": 926,
+            "geo_enabled": true,
+            "id": 2975091705,
+            "id_str": "2975091705",
+            "listed_count": 606,
+            "location": "Greensboro, GA; Washington, DC",
+            "name": "Rep. Jody Hice",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2975091705/1536671706",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1004114780200816641/_vvzlcnp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004114780200816641/_vvzlcnp_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CongressmanHice",
+            "statuses_count": 2846,
+            "url": "https://t.co/apR1dqYCIk",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 817138492614524928,
+                "id_str": "817138492614524928",
+                "name": "Ted Budd",
+                "screen_name": "RepTedBudd"
+            },
+            {
+                "id": 7402662,
+                "id_str": "7402662",
+                "name": "U.S. House Floor",
+                "screen_name": "HouseFloor"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CongressmanHice: I'm grateful for @RepTedBudd's leadership as we work to bring the #GreenNewDeal up for a vote on the @HouseFloor. His\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 05 22:39:33 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly serving the 13th district of North Carolina. #NC13",
+        "favourites_count": 71,
+        "followers_count": 10308,
+        "friends_count": 208,
+        "id": 817138492614524928,
+        "id_str": "817138492614524928",
+        "listed_count": 333,
+        "location": "Davie County, North Carolina",
+        "name": "Ted Budd",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817138492614524928/1485880195",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/987039452483739648/Hs7YypAA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/987039452483739648/Hs7YypAA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTedBudd",
+        "statuses_count": 1503,
+        "url": "https://t.co/VTsvWe0pia",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2975091705,
+            "id_str": "2975091705",
+            "name": "Rep. Jody Hice",
+            "screen_name": "CongressmanHice"
+        },
+        {
+            "id": 817138492614524928,
+            "id_str": "817138492614524928",
+            "name": "Ted Budd",
+            "screen_name": "RepTedBudd"
+        },
+        {
+            "id": 7402662,
+            "id_str": "7402662",
+            "name": "U.S. House Floor",
+            "screen_name": "HouseFloor"
+        }
+    ]
+}

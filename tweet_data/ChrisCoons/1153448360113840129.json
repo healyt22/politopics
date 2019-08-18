@@ -1,0 +1,81 @@
+{
+    "created_at": "Mon Jul 22 23:34:53 +0000 2019",
+    "favorite_count": 66,
+    "hashtags": [],
+    "id": 1153448360113840129,
+    "id_str": "1153448360113840129",
+    "lang": "en",
+    "place": {
+        "id": "0fc3028495d42000",
+        "url": "https://api.twitter.com/1.1/geo/id/0fc3028495d42000.json",
+        "place_type": "poi",
+        "name": "Wilmington, DE",
+        "full_name": "Wilmington, DE",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -75.5471420288086,
+                        39.74573810975803
+                    ],
+                    [
+                        -75.5471420288086,
+                        39.74573810975803
+                    ],
+                    [
+                        -75.5471420288086,
+                        39.74573810975803
+                    ],
+                    [
+                        -75.5471420288086,
+                        39.74573810975803
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "It was great to have lunch with my Delaware interns today. I'm proud of what they've accomplished so far and excite\u2026 https://t.co/doOnyzx7gh",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153448360113840129",
+            "url": "https://t.co/doOnyzx7gh"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Jul 05 11:17:54 +0000 2008",
+        "description": "Father, husband, U.S. Senator from Delaware",
+        "favourites_count": 268,
+        "followers_count": 143284,
+        "friends_count": 2397,
+        "geo_enabled": true,
+        "id": 15324851,
+        "id_str": "15324851",
+        "listed_count": 2652,
+        "location": "Wilmington, DE",
+        "name": "Senator Chris Coons",
+        "profile_background_color": "4871B0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15324851/1564158359",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010166727529893888/O-lZLomM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010166727529893888/O-lZLomM_normal.jpg",
+        "profile_link_color": "4871B0",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "ChrisCoons",
+        "statuses_count": 11826,
+        "url": "https://t.co/xBCHCdwhCz",
+        "verified": true
+    },
+    "user_mentions": []
+}

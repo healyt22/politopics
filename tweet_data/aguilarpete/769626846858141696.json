@@ -1,0 +1,111 @@
+{
+    "created_at": "Sat Aug 27 20:05:13 +0000 2016",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "CA31"
+        },
+        {
+            "text": "tellusthetruth"
+        }
+    ],
+    "id": 769626846858141696,
+    "id_str": "769626846858141696",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sat Aug 27 15:21:46 +0000 2016",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 769555510659915781,
+        "id_str": "769555510659915781",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "What's @DrPaulChabot hiding? A lot, apparently. He still won't answer our questions. https://t.co/RlDuUXJg3F",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2bEyOnO",
+                "url": "https://t.co/RlDuUXJg3F"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 24 16:45:10 +0000 2016",
+            "default_profile": true,
+            "description": "Dad. Husband. 4th generation Californian. Congressman. Fan of Dodgers, craft beer and working across the aisle to get things done.",
+            "favourites_count": 4,
+            "followers_count": 1064,
+            "friends_count": 237,
+            "id": 768489333393272832,
+            "id_str": "768489333393272832",
+            "listed_count": 35,
+            "location": "San Bernardino, CA",
+            "name": "Pete Aguilar",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/768489333393272832/1536774529",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1039981999086350337/XjQzyGQ-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039981999086350337/XjQzyGQ-_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AguilarCampaign",
+            "statuses_count": 206,
+            "url": "https://t.co/tTc0XSyehH",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 21775351,
+                "id_str": "21775351",
+                "name": "Dr Paul Chabot",
+                "screen_name": "DrPaulChabot"
+            }
+        ]
+    },
+    "quoted_status_id": 769555510659915781,
+    "quoted_status_id_str": "769555510659915781",
+    "retweet_count": 4,
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "text": "Head over to @AguilarCampaign for the latest about our #CA31 race and to push our opponent to #tellusthetruth https://t.co/wIT3sYYzG7",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/AguilarCampaign/status/769555510659915781",
+            "url": "https://t.co/wIT3sYYzG7"
+        }
+    ],
+    "user": {
+        "created_at": "Thu May 21 05:04:40 +0000 2009",
+        "description": "Dad. Husband. Former pothole filling Mayor and elected Representative of California's 31st district. Living the dream. Personal account",
+        "favourites_count": 4,
+        "followers_count": 2746,
+        "friends_count": 624,
+        "id": 41533245,
+        "id_str": "41533245",
+        "listed_count": 213,
+        "location": "Redlands, CA",
+        "name": "Pete Aguilar",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41533245/1425249861",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "aguilarpete",
+        "statuses_count": 734,
+        "url": "https://t.co/tTc0XSgDq9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 768489333393272832,
+            "id_str": "768489333393272832",
+            "name": "Pete Aguilar",
+            "screen_name": "AguilarCampaign"
+        }
+    ]
+}

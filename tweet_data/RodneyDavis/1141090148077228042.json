@@ -1,0 +1,150 @@
+{
+    "created_at": "Tue Jun 18 21:07:46 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [
+        {
+            "text": "USMCA"
+        }
+    ],
+    "id": 1141090148077228042,
+    "id_str": "1141090148077228042",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 18 20:10:23 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [
+            {
+                "text": "dairy"
+            },
+            {
+                "text": "USMCA"
+            },
+            {
+                "text": "exports"
+            }
+        ],
+        "id": 1141075708887928832,
+        "id_str": "1141075708887928832",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Grateful to @RodneyDavis for meeting with IDFA's #dairy leaders from across the country to talk #USMCA, #exports, &amp;\u2026 https://t.co/Y1vC6HRAp7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141075708887928832",
+                "url": "https://t.co/Y1vC6HRAp7"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 23 14:42:19 +0000 2009",
+            "description": "International Dairy Foods Association (IDFA) represents dairy manufacturing and marketing industries and their suppliers.",
+            "favourites_count": 1902,
+            "followers_count": 7210,
+            "friends_count": 1911,
+            "geo_enabled": true,
+            "id": 59482330,
+            "id_str": "59482330",
+            "listed_count": 195,
+            "location": "Washington, D.C.",
+            "name": "IDFA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/59482330/1560456881",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/481551125141671936/aMecPf0M_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/481551125141671936/aMecPf0M_normal.png",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "dairyidfa",
+            "statuses_count": 9941,
+            "url": "http://t.co/ha9EZkTk1R"
+        },
+        "user_mentions": [
+            {
+                "id": 993153006,
+                "id_str": "993153006",
+                "name": "US Rep Rodney Davis",
+                "screen_name": "RodneyDavis"
+            }
+        ]
+    },
+    "quoted_status_id": 1141075708887928832,
+    "quoted_status_id_str": "1141075708887928832",
+    "retweet_count": 5,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Thank you for coming in to meet with me. Passing #USMCA will significantly increase access to markets for our farme\u2026 https://t.co/LXd8hjcWzr",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1141090148077228042",
+            "url": "https://t.co/LXd8hjcWzr"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Dec 06 14:20:04 +0000 2012",
+        "description": "Proudly representing the 13th Congressional District of Illinois and marginalized Nickelback fans everywhere.",
+        "favourites_count": 191,
+        "followers_count": 21744,
+        "friends_count": 559,
+        "geo_enabled": true,
+        "id": 993153006,
+        "id_str": "993153006",
+        "listed_count": 854,
+        "location": "Taylorville, IL",
+        "name": "US Rep Rodney Davis",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/993153006/1497639898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/861602080712216576/Qa1f4EOG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/861602080712216576/Qa1f4EOG_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RodneyDavis",
+        "statuses_count": 6113,
+        "url": "http://t.co/foaAG4Df",
+        "verified": true
+    },
+    "user_mentions": []
+}

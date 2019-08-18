@@ -1,0 +1,118 @@
+{
+    "created_at": "Wed Jul 10 20:08:23 +0000 2019",
+    "hashtags": [],
+    "id": 1149047737847095296,
+    "id_str": "1149047737847095296",
+    "lang": "en",
+    "retweet_count": 14,
+    "retweeted_status": {
+        "created_at": "Wed Jul 10 20:05:33 +0000 2019",
+        "favorite_count": 32,
+        "hashtags": [],
+        "id": 1149047024777617411,
+        "id_str": "1149047024777617411",
+        "lang": "en",
+        "retweet_count": 14,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Watch yesterday\u2019s @WAFF48 report on Alabama\u2019s lawsuit\u2014brought by Attorney General Steve Marshall and @RepMoBrooks\u2014o\u2026 https://t.co/nX4jchnNAm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1149047024777617411",
+                "url": "https://t.co/nX4jchnNAm"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 10 23:39:44 +0000 2017",
+            "description": "Official Twitter account of Alabama Attorney General Steve Marshall, the state\u2019s chief law-enforcement officer.",
+            "favourites_count": 126,
+            "followers_count": 3610,
+            "friends_count": 1058,
+            "geo_enabled": true,
+            "id": 830199604503334913,
+            "id_str": "830199604503334913",
+            "listed_count": 71,
+            "location": "Montgomery, AL",
+            "name": "AG Steve Marshall",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/830199604503334913/1524597183",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/988858524238151680/a7z44_9E_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/988858524238151680/a7z44_9E_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AGSteveMarshall",
+            "statuses_count": 1295,
+            "url": "https://t.co/J4S580dBmr",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18058293,
+                "id_str": "18058293",
+                "name": "WAFF 48",
+                "screen_name": "waff48"
+            },
+            {
+                "id": 237299871,
+                "id_str": "237299871",
+                "name": "Mo Brooks",
+                "screen_name": "RepMoBrooks"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AGSteveMarshall: Watch yesterday\u2019s @WAFF48 report on Alabama\u2019s lawsuit\u2014brought by Attorney General Steve Marshall and @RepMoBrooks\u2014over\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 12 14:46:14 +0000 2011",
+        "description": "Thanks for following me. I'm the Congressman for Alabama's Fifth District and this is my official Twitter page. It's an honor to serve you.",
+        "favourites_count": 788,
+        "followers_count": 33313,
+        "friends_count": 2783,
+        "geo_enabled": true,
+        "id": 237299871,
+        "id_str": "237299871",
+        "listed_count": 1263,
+        "location": "Alabama",
+        "name": "Mo Brooks",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237299871/1408038766",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3253062018/1745ec9085ff4db219c69bd7ffb2e7fc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3253062018/1745ec9085ff4db219c69bd7ffb2e7fc_normal.jpeg",
+        "profile_link_color": "27BAF0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoBrooks",
+        "statuses_count": 2666,
+        "url": "http://t.co/XErdLh9N6C",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 830199604503334913,
+            "id_str": "830199604503334913",
+            "name": "AG Steve Marshall",
+            "screen_name": "AGSteveMarshall"
+        },
+        {
+            "id": 18058293,
+            "id_str": "18058293",
+            "name": "WAFF 48",
+            "screen_name": "waff48"
+        },
+        {
+            "id": 237299871,
+            "id_str": "237299871",
+            "name": "Mo Brooks",
+            "screen_name": "RepMoBrooks"
+        }
+    ]
+}

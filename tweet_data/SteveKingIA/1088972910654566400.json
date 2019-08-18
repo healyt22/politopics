@@ -1,0 +1,170 @@
+{
+    "created_at": "Sat Jan 26 01:32:28 +0000 2019",
+    "favorite_count": 229,
+    "hashtags": [],
+    "id": 1088972910654566400,
+    "id_str": "1088972910654566400",
+    "lang": "en",
+    "place": {
+        "id": "3cd4c18d3615bbc9",
+        "url": "https://api.twitter.com/1.1/geo/id/3cd4c18d3615bbc9.json",
+        "place_type": "admin",
+        "name": "Iowa",
+        "full_name": "Iowa, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -96.6396669,
+                        40.375437
+                    ],
+                    [
+                        -90.140061,
+                        40.375437
+                    ],
+                    [
+                        -90.140061,
+                        43.50102
+                    ],
+                    [
+                        -96.6396669,
+                        43.50102
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Sat Jan 26 00:53:59 +0000 2019",
+        "favorite_count": 36,
+        "hashtags": [
+            {
+                "text": "EagleGathering"
+            }
+        ],
+        "id": 1088963224823840768,
+        "id_str": "1088963224823840768",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/VP5IKzFnYm",
+                "expanded_url": "https://twitter.com/gatewaypundit/status/1088963224823840768/photo/1",
+                "id": 1088963218125447169,
+                "media_url": "http://pbs.twimg.com/media/DxzGRv3VYAERL3V.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DxzGRv3VYAERL3V.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 902,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1539,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 511,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/VP5IKzFnYm"
+            }
+        ],
+        "retweet_count": 14,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "At #EagleGathering with Ambassador Szabo from Hungary and \u2066@EagleEdMartin\u2069 \u2066@HungaryinUSA\u2069 https://t.co/VP5IKzFnYm",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jan 20 00:45:40 +0000 2009",
+            "description": "Writer- Speaker- Where Hope Made a Comeback - Top Choice of the American Truth Seeker",
+            "favourites_count": 5210,
+            "followers_count": 170798,
+            "friends_count": 1360,
+            "id": 19211550,
+            "id_str": "19211550",
+            "listed_count": 2828,
+            "location": "St. Louis, Missouri",
+            "name": "Jim Hoft",
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19211550/1504151751",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/967266044338294786/6cu37jlt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/967266044338294786/6cu37jlt_normal.jpg",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "gatewaypundit",
+            "statuses_count": 87408,
+            "url": "https://t.co/9D93JQ9grt",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 19612749,
+                "id_str": "19612749",
+                "name": "Ed Martin",
+                "screen_name": "EagleEdMartin"
+            },
+            {
+                "id": 1094018665,
+                "id_str": "1094018665",
+                "name": "Hungarian Embassy DC",
+                "screen_name": "HungaryinUSA"
+            }
+        ]
+    },
+    "quoted_status_id": 1088963224823840768,
+    "quoted_status_id_str": "1088963224823840768",
+    "retweet_count": 52,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "I can certify these are all good people who are making Freedom and God Given Liberty Great Again! https://t.co/3RgpFL3SQU",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/gatewaypundit/status/1088963224823840768",
+            "url": "https://t.co/3RgpFL3SQU"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jun 17 21:09:41 +0000 2009",
+        "description": "U.S. Congress, 4th Congressional District of Iowa #IA04",
+        "favourites_count": 68,
+        "followers_count": 118052,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 48117116,
+        "id_str": "48117116",
+        "listed_count": 2780,
+        "location": "Washington, DC",
+        "name": "Steve King",
+        "profile_background_color": "061025",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+        "profile_link_color": "061025",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D1AF59",
+        "profile_text_color": "061025",
+        "profile_use_background_image": true,
+        "screen_name": "SteveKingIA",
+        "statuses_count": 2797,
+        "verified": true
+    },
+    "user_mentions": []
+}

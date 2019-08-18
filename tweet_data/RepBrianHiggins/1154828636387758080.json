@@ -1,0 +1,135 @@
+{
+    "created_at": "Fri Jul 26 18:59:37 +0000 2019",
+    "hashtags": [
+        {
+            "text": "food"
+        }
+    ],
+    "id": 1154828636387758080,
+    "id_str": "1154828636387758080",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu Jul 25 12:18:38 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "food"
+            }
+        ],
+        "id": 1154365340673105920,
+        "id_str": "1154365340673105920",
+        "lang": "en",
+        "place": {
+            "id": "7dabbf75534f6cee",
+            "url": "https://api.twitter.com/1.1/geo/id/7dabbf75534f6cee.json",
+            "place_type": "city",
+            "name": "Amherst",
+            "full_name": "Amherst, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.832497,
+                            42.948903
+                        ],
+                        [
+                            -78.696766,
+                            42.948903
+                        ],
+                        [
+                            -78.696766,
+                            43.06933
+                        ],
+                        [
+                            -78.832497,
+                            43.06933
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The Williamsville Farmer's Market is averaging 100lbs #food scraps dropped off each week in July! Visit us Saturday\u2026 https://t.co/ieocXMnwGF",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1154365340673105920",
+                "url": "https://t.co/ieocXMnwGF"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 04 17:37:29 +0000 2009",
+            "description": "WeRadiate aims to shift our current waste management paradigm towards greater #organics diversion by harnessing #technology",
+            "favourites_count": 53,
+            "followers_count": 462,
+            "friends_count": 458,
+            "geo_enabled": true,
+            "id": 62876935,
+            "id_str": "62876935",
+            "listed_count": 31,
+            "location": "New York State",
+            "name": "WeRadiate",
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/62876935/1430701768",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/595032375853092865/AD4_TVki_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/595032375853092865/AD4_TVki_normal.png",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "WeRadiateNY",
+            "statuses_count": 1130,
+            "url": "https://t.co/rebZ6tthsO"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @WeRadiateNY: The Williamsville Farmer's Market is averaging 100lbs #food scraps dropped off each week in July! Visit us Saturday 10a-1p\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Apr 20 16:47:06 +0000 2009",
+        "description": "Official account for the Office of Congressman Brian Higgins (NY-26) representing portions of Erie and Niagara counties. http://t.co/Cpl0TlH2JW",
+        "favourites_count": 425,
+        "followers_count": 23664,
+        "friends_count": 3651,
+        "geo_enabled": true,
+        "id": 33576489,
+        "id_str": "33576489",
+        "listed_count": 1110,
+        "location": "WNY and Washington, DC",
+        "name": "Brian Higgins",
+        "profile_background_color": "0B868C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33576489/1401727504",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655008552243761152/vHUDf1-r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655008552243761152/vHUDf1-r_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBrianHiggins",
+        "statuses_count": 14394,
+        "url": "http://t.co/O0L2n6ZElF",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 62876935,
+            "id_str": "62876935",
+            "name": "WeRadiate",
+            "screen_name": "WeRadiateNY"
+        }
+    ]
+}

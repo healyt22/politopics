@@ -1,0 +1,244 @@
+{
+    "created_at": "Sat Aug 11 13:59:52 +0000 2018",
+    "hashtags": [],
+    "id": 1028279839592198146,
+    "id_str": "1028279839592198146",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/vBPTVBUZ2S",
+            "expanded_url": "https://twitter.com/sbc1989/status/1028274216007872518/video/1",
+            "id": 1028274191886241792,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1028274191886241792/pu/img/yXKe5jo2Cg511scj.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1028274191886241792/pu/img/yXKe5jo2Cg511scj.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 406,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 406,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/vBPTVBUZ2S",
+            "video_info": {
+                "aspect_ratio": [
+                    360,
+                    203
+                ],
+                "duration_millis": 3550,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1028274191886241792/pu/vid/720x406/u78tWEyh9BYqT3dH.mp4?tag=5"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1028274191886241792/pu/vid/318x180/MdMp9HzJDMVGgdgF.mp4?tag=5"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1028274191886241792/pu/pl/xCot5pUpDdgSZx-m.m3u8?tag=5"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sat Aug 11 13:37:32 +0000 2018",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1028274216007872518,
+        "id_str": "1028274216007872518",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vBPTVBUZ2S",
+                "expanded_url": "https://twitter.com/sbc1989/status/1028274216007872518/video/1",
+                "id": 1028274191886241792,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1028274191886241792/pu/img/yXKe5jo2Cg511scj.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1028274191886241792/pu/img/yXKe5jo2Cg511scj.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 406,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 406,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/vBPTVBUZ2S",
+                "video_info": {
+                    "aspect_ratio": [
+                        360,
+                        203
+                    ],
+                    "duration_millis": 3550,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1028274191886241792/pu/vid/720x406/u78tWEyh9BYqT3dH.mp4?tag=5"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1028274191886241792/pu/vid/318x180/MdMp9HzJDMVGgdgF.mp4?tag=5"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1028274191886241792/pu/pl/xCot5pUpDdgSZx-m.m3u8?tag=5"
+                        }
+                    ]
+                }
+            }
+        ],
+        "place": {
+            "id": "7142eb97ae21e839",
+            "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json",
+            "place_type": "admin",
+            "name": "Georgia",
+            "full_name": "Georgia, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.605166,
+                            30.355644
+                        ],
+                        [
+                            -80.742567,
+                            30.355644
+                        ],
+                        [
+                            -80.742567,
+                            35.000771
+                        ],
+                        [
+                            -85.605166,
+                            35.000771
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Congressman David Scott's 14th  Annual Healthfair today. SBC is so excited to be here! @repdavidscott https://t.co/vBPTVBUZ2S",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Apr 19 00:39:47 +0000 2012",
+            "description": "Breast Cancer, Breast Cancer Disparities, Atlanta based Breast Cancer Support Group.",
+            "favourites_count": 164,
+            "followers_count": 375,
+            "friends_count": 307,
+            "geo_enabled": true,
+            "id": 557342966,
+            "id_str": "557342966",
+            "listed_count": 18,
+            "location": "Atlanta Georgia",
+            "name": "Sisters By Choice",
+            "profile_background_color": "339999",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/557342966/1425226543",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/521002843973492738/A7DJXDhx_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/521002843973492738/A7DJXDhx_normal.png",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "sbc1989",
+            "statuses_count": 1346,
+            "url": "http://t.co/pGOtYblB9P"
+        },
+        "user_mentions": [
+            {
+                "id": 168673083,
+                "id_str": "168673083",
+                "name": "David Scott",
+                "screen_name": "repdavidscott"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @sbc1989: Congressman David Scott's 14th  Annual Healthfair today. SBC is so excited to be here! @repdavidscott https://t.co/vBPTVBUZ2S",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jul 20 14:10:32 +0000 2010",
+        "description": "Representing Georgia's 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+        "favourites_count": 2673,
+        "followers_count": 21046,
+        "friends_count": 1874,
+        "id": 168673083,
+        "id_str": "168673083",
+        "listed_count": 844,
+        "location": "Georgia",
+        "name": "David Scott",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168673083/1425489882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "repdavidscott",
+        "statuses_count": 2861,
+        "url": "http://t.co/86ovd85h30",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 557342966,
+            "id_str": "557342966",
+            "name": "Sisters By Choice",
+            "screen_name": "sbc1989"
+        },
+        {
+            "id": 168673083,
+            "id_str": "168673083",
+            "name": "David Scott",
+            "screen_name": "repdavidscott"
+        }
+    ]
+}

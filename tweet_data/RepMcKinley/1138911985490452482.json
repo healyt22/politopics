@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jun 12 20:52:31 +0000 2019",
+    "hashtags": [],
+    "id": 1138911985490452482,
+    "id_str": "1138911985490452482",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Wed Jun 12 19:21:13 +0000 2019",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 1138889006551379970,
+        "id_str": "1138889006551379970",
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you @SenBobCasey, @RepMcKinley, and @RepMarkPocan for cosponsoring the U.S. Call Center Worker and Consumer P\u2026 https://t.co/4y6wmkSSs5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138889006551379970",
+                "url": "https://t.co/4y6wmkSSs5"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Apr 04 13:55:45 +0000 2009",
+            "description": "Building a Movement for Economic Justice and Democracy",
+            "favourites_count": 3535,
+            "followers_count": 46917,
+            "friends_count": 2980,
+            "geo_enabled": true,
+            "id": 28796289,
+            "id_str": "28796289",
+            "listed_count": 845,
+            "name": "CWA",
+            "profile_background_color": "05074C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28796289/1496947443",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1121475848345985027/JH8b6sv__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121475848345985027/JH8b6sv__normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E5E3E4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CWAUnion",
+            "statuses_count": 14890,
+            "url": "http://t.co/fJsf5c697c",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 171598736,
+                "id_str": "171598736",
+                "name": "Senator Bob Casey",
+                "screen_name": "SenBobCasey"
+            },
+            {
+                "id": 240427862,
+                "id_str": "240427862",
+                "name": "David B. McKinley",
+                "screen_name": "RepMcKinley"
+            },
+            {
+                "id": 1206227149,
+                "id_str": "1206227149",
+                "name": "Rep. Mark Pocan",
+                "screen_name": "repmarkpocan"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CWAUnion: Thank you @SenBobCasey, @RepMcKinley, and @RepMarkPocan for cosponsoring the U.S. Call Center Worker and Consumer Protection\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 19 22:29:00 +0000 2011",
+        "description": "Proud to serve the First District of West Virginia in the U.S. House of Representatives. Member of the Energy and Commerce Committee. Staff-run account",
+        "favourites_count": 568,
+        "followers_count": 30398,
+        "friends_count": 1074,
+        "geo_enabled": true,
+        "id": 240427862,
+        "id_str": "240427862",
+        "listed_count": 869,
+        "name": "David B. McKinley",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240427862/1518113770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1128746342518525952/DyT_BdAm_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128746342518525952/DyT_BdAm_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepMcKinley",
+        "statuses_count": 5966,
+        "url": "http://t.co/5H1HsbP76e",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 28796289,
+            "id_str": "28796289",
+            "name": "CWA",
+            "screen_name": "CWAUnion"
+        },
+        {
+            "id": 171598736,
+            "id_str": "171598736",
+            "name": "Senator Bob Casey",
+            "screen_name": "SenBobCasey"
+        },
+        {
+            "id": 240427862,
+            "id_str": "240427862",
+            "name": "David B. McKinley",
+            "screen_name": "RepMcKinley"
+        },
+        {
+            "id": 1206227149,
+            "id_str": "1206227149",
+            "name": "Rep. Mark Pocan",
+            "screen_name": "repmarkpocan"
+        }
+    ]
+}

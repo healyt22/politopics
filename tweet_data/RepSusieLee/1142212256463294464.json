@@ -1,0 +1,133 @@
+{
+    "created_at": "Fri Jun 21 23:26:37 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1142212256463294464,
+    "id_str": "1142212256463294464",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jun 21 15:40:00 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "ESSA"
+            },
+            {
+                "text": "TitleI"
+            }
+        ],
+        "id": 1142094826113888256,
+        "id_str": "1142094826113888256",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/SPPP4oITLI",
+                "expanded_url": "https://twitter.com/educationweek/status/1142094826113888256/photo/1",
+                "id": 1141822788812070912,
+                "media_url": "http://pbs.twimg.com/media/D9iRxtuW4AAu8gG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D9iRxtuW4AAu8gG.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 470,
+                        "h": 235,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 470,
+                        "h": 235,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 470,
+                        "h": 235,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/SPPP4oITLI"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Betsy DeVos has released #ESSA #TitleI school spending guidance. https://t.co/CYfvoH66V5 https://t.co/SPPP4oITLI",
+        "urls": [
+            {
+                "expanded_url": "https://edwk.it/2IWu4Jj",
+                "url": "https://t.co/CYfvoH66V5"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 17 15:56:56 +0000 2008",
+            "description": "Education Week is America\u2019s most trusted source of independent K-12 education news, analysis, and opinion.",
+            "favourites_count": 262,
+            "followers_count": 825098,
+            "friends_count": 3011,
+            "id": 15147042,
+            "id_str": "15147042",
+            "listed_count": 12674,
+            "location": "Bethesda, MD",
+            "name": "Education Week",
+            "profile_background_color": "333366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15147042/1540495722",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460768184279117825/KVtl_fK__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460768184279117825/KVtl_fK__normal.png",
+            "profile_link_color": "333367",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "CDEFB8",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "educationweek",
+            "statuses_count": 143104,
+            "url": "http://t.co/jDtj5VHhqo",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1142094826113888256,
+    "quoted_status_id_str": "1142094826113888256",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "More lenient ESSA guidelines means less money goes to underserved and underfunded public schools. Title 1 Schools a\u2026 https://t.co/sjD4C1pcST",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1142212256463294464",
+            "url": "https://t.co/sjD4C1pcST"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Dec 29 17:08:23 +0000 2018",
+        "default_profile": true,
+        "description": "Congresswoman proudly serving the folks in Nevada's 3rd District. Bipartisan Leader. Education Advocate. Wife to Dan and mom to two great kids.",
+        "favourites_count": 180,
+        "followers_count": 9791,
+        "friends_count": 151,
+        "geo_enabled": true,
+        "id": 1079061579973439488,
+        "id_str": "1079061579973439488",
+        "listed_count": 182,
+        "location": "Las Vegas, NV",
+        "name": "Rep. Susie Lee",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079061579973439488/1546532419",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080861522061127680/PO_53d01_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080861522061127680/PO_53d01_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSusieLee",
+        "statuses_count": 1184,
+        "verified": true
+    },
+    "user_mentions": []
+}

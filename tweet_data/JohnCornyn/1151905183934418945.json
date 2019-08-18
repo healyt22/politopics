@@ -1,0 +1,116 @@
+{
+    "created_at": "Thu Jul 18 17:22:51 +0000 2019",
+    "hashtags": [],
+    "id": 1151905183934418945,
+    "id_str": "1151905183934418945",
+    "lang": "en",
+    "retweet_count": 23,
+    "retweeted_status": {
+        "created_at": "Thu Jul 18 17:10:00 +0000 2019",
+        "favorite_count": 45,
+        "hashtags": [],
+        "id": 1151901950063063040,
+        "id_str": "1151901950063063040",
+        "lang": "en",
+        "retweet_count": 23,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Excited to introduce the bipartisan JROTC Cyber Training Act -- alongside @MarshaBlackburn, @JohnCornyn, and\u2026 https://t.co/qsQzmebjLV",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151901950063063040",
+                "url": "https://t.co/qsQzmebjLV"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 09 20:24:29 +0000 2017",
+            "default_profile": true,
+            "description": "U.S. Senator for Nevada.",
+            "favourites_count": 145,
+            "followers_count": 20672,
+            "friends_count": 225,
+            "id": 818554054309715969,
+            "id_str": "818554054309715969",
+            "listed_count": 510,
+            "location": "Las Vegas, NV",
+            "name": "Senator Jacky Rosen",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/818554054309715969/1546525180",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SenJackyRosen",
+            "statuses_count": 4028,
+            "url": "https://t.co/BHuJG9D5U9",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 278145569,
+                "id_str": "278145569",
+                "name": "Sen. Marsha Blackburn",
+                "screen_name": "MarshaBlackburn"
+            },
+            {
+                "id": 13218102,
+                "id_str": "13218102",
+                "name": "Senator John Cornyn",
+                "screen_name": "JohnCornyn"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SenJackyRosen: Excited to introduce the bipartisan JROTC Cyber Training Act -- alongside @MarshaBlackburn, @JohnCornyn, and @SenGaryPet\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Feb 07 19:52:55 +0000 2008",
+        "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs =/= endorsements",
+        "favourites_count": 59,
+        "followers_count": 212097,
+        "friends_count": 11643,
+        "id": 13218102,
+        "id_str": "13218102",
+        "listed_count": 5333,
+        "location": "Austin, Texas",
+        "name": "Senator John Cornyn",
+        "profile_background_color": "71829E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13218102/1558356879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1062343144048603136/fpH4AUOc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062343144048603136/fpH4AUOc_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "002D62",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "002D62",
+        "profile_use_background_image": true,
+        "screen_name": "JohnCornyn",
+        "statuses_count": 31884,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 818554054309715969,
+            "id_str": "818554054309715969",
+            "name": "Senator Jacky Rosen",
+            "screen_name": "SenJackyRosen"
+        },
+        {
+            "id": 278145569,
+            "id_str": "278145569",
+            "name": "Sen. Marsha Blackburn",
+            "screen_name": "MarshaBlackburn"
+        },
+        {
+            "id": 13218102,
+            "id_str": "13218102",
+            "name": "Senator John Cornyn",
+            "screen_name": "JohnCornyn"
+        }
+    ]
+}

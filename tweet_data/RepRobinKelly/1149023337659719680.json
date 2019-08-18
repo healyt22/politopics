@@ -1,0 +1,133 @@
+{
+    "created_at": "Wed Jul 10 18:31:26 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [
+        {
+            "text": "Medicare4All"
+        }
+    ],
+    "id": 1149023337659719680,
+    "id_str": "1149023337659719680",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 10 15:03:44 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1148971067605737476,
+        "id_str": "1148971067605737476",
+        "in_reply_to_screen_name": "RobertLBurns61",
+        "in_reply_to_status_id": 1148950652447539200,
+        "in_reply_to_user_id": 1013498165507608576,
+        "lang": "en",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@RobertLBurns61 @paulkrugman I assume @SenatorDurbin @SenDuckworth @RepRobinKelly are all opposed to cuts in Obamac\u2026 https://t.co/4g1nkXkT5o",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148971067605737476",
+                "url": "https://t.co/4g1nkXkT5o"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 15 15:18:48 +0000 2016",
+            "default_profile": true,
+            "description": "Teaching is my life! \ud83d\ude0e CPS grad, parent, teacher, and proud Chicagoan. CTU solidarity! NBCTs are cool! Southside Cubs fan--and still a Bears fan! \ud83d\ude44",
+            "favourites_count": 29645,
+            "followers_count": 603,
+            "friends_count": 891,
+            "id": 4815222941,
+            "id_str": "4815222941",
+            "listed_count": 62,
+            "location": "Chicago, IL",
+            "name": "Donald Davis",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4815222941/1459829741",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1148966268717977601/EmYGDaJl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148966268717977601/EmYGDaJl_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ddteachpaz",
+            "statuses_count": 31853
+        },
+        "user_mentions": [
+            {
+                "id": 1013498165507608576,
+                "id_str": "1013498165507608576",
+                "name": "Robert Burns",
+                "screen_name": "RobertLBurns61"
+            },
+            {
+                "id": 17006157,
+                "id_str": "17006157",
+                "name": "Paul Krugman",
+                "screen_name": "paulkrugman"
+            },
+            {
+                "id": 247334603,
+                "id_str": "247334603",
+                "name": "Senator Dick Durbin",
+                "screen_name": "SenatorDurbin"
+            },
+            {
+                "id": 1058520120,
+                "id_str": "1058520120",
+                "name": "Tammy Duckworth",
+                "screen_name": "SenDuckworth"
+            },
+            {
+                "id": 1339931490,
+                "id_str": "1339931490",
+                "name": "Robin Kelly",
+                "screen_name": "RepRobinKelly"
+            }
+        ]
+    },
+    "quoted_status_id": 1148971067605737476,
+    "quoted_status_id_str": "1148971067605737476",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thanks for asking @ddteachpaz. I support #Medicare4All and I\u2019m proudly a member of the House Caucus working to adva\u2026 https://t.co/NRdoC9Uzhr",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1149023337659719680",
+            "url": "https://t.co/NRdoC9Uzhr"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Apr 09 19:02:01 +0000 2013",
+        "description": "Official Twitter account for Robin Kelly, U.S. Representative #IL02.",
+        "favourites_count": 7052,
+        "followers_count": 27505,
+        "friends_count": 10827,
+        "id": 1339931490,
+        "id_str": "1339931490",
+        "listed_count": 858,
+        "name": "Robin Kelly",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339931490/1490883255",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/984514539424309248/WwLF-phG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/984514539424309248/WwLF-phG_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRobinKelly",
+        "statuses_count": 4539,
+        "url": "https://t.co/7pZornDHqs",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 4815222941,
+            "id_str": "4815222941",
+            "name": "Donald Davis",
+            "screen_name": "ddteachpaz"
+        }
+    ]
+}

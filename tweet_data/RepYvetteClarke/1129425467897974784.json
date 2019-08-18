@@ -1,0 +1,129 @@
+{
+    "created_at": "Fri May 17 16:36:29 +0000 2019",
+    "favorite_count": 54,
+    "hashtags": [],
+    "id": 1129425467897974784,
+    "id_str": "1129425467897974784",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri May 17 16:14:52 +0000 2019",
+        "favorite_count": 6227,
+        "hashtags": [],
+        "id": 1129420025000017920,
+        "id_str": "1129420025000017920",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1167,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "BREAKING: House of Representatives just passed the Equality Act!",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Mar 10 13:53:21 +0000 2009",
+            "description": "Congressman for Rhode Island\u2019s 1st District.   DPCC Chair.  Antitrust Subcommittee Chairman. #ForThePeople",
+            "favourites_count": 2666,
+            "followers_count": 92435,
+            "friends_count": 4807,
+            "geo_enabled": true,
+            "id": 23593446,
+            "id_str": "23593446",
+            "listed_count": 1533,
+            "name": "David Cicilline",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23593446/1533056627",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960354458365554694/gaOJMfBF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960354458365554694/gaOJMfBF_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "davidcicilline",
+            "statuses_count": 19206,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1129420025000017920,
+    "quoted_status_id_str": "1129420025000017920",
+    "retweet_count": 11,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "That feeling when @HouseDemocrats are keeping their promise and fighting for ALL Americans. It was a proud moment t\u2026 https://t.co/slVYMQNfRR",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1129425467897974784",
+            "url": "https://t.co/slVYMQNfRR"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 20 20:14:21 +0000 2011",
+        "default_profile": true,
+        "description": "Representing New York\u2019s 9th Congressional District. Brooklyn bred. Vice Chair of @EnergyCommerce // press: sarah.sinovic@mail.house.gov",
+        "favourites_count": 7483,
+        "followers_count": 60510,
+        "friends_count": 3852,
+        "geo_enabled": true,
+        "id": 240812994,
+        "id_str": "240812994",
+        "listed_count": 1453,
+        "location": "Brooklyn, NY",
+        "name": "Yvette D. Clarke",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240812994/1554211887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999351152129884162/a1p9rErQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/999351152129884162/a1p9rErQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepYvetteClarke",
+        "statuses_count": 12407,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43963249,
+            "id_str": "43963249",
+            "name": "House Democrats",
+            "screen_name": "HouseDemocrats"
+        }
+    ]
+}

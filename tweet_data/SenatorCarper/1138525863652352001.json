@@ -1,0 +1,111 @@
+{
+    "created_at": "Tue Jun 11 19:18:13 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1138525863652352001,
+    "id_str": "1138525863652352001",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 11 16:33:03 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "ACMexico"
+            }
+        ],
+        "id": 1138484296887521282,
+        "id_str": "1138484296887521282",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "Don\u2019t miss our #ACMexico event TOMORROW for a close look at the economic havoc that tariffs on Mexico\u2014still on the\u2026 https://t.co/FJNKAv1dRJ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138484296887521282",
+                "url": "https://t.co/FJNKAv1dRJ"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Dec 20 15:34:07 +0000 2008",
+            "description": "Working together to secure the future. https://t.co/KTbArs8Iwl",
+            "favourites_count": 3672,
+            "followers_count": 112688,
+            "friends_count": 1500,
+            "id": 18267548,
+            "id_str": "18267548",
+            "listed_count": 2562,
+            "location": "1030 15th St NW,Washington, DC",
+            "name": "Atlantic Council",
+            "profile_background_color": "003580",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18267548/1521822103",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/936736301046407168/UpP3d42l_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/936736301046407168/UpP3d42l_normal.jpg",
+            "profile_link_color": "005596",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7E95D6",
+            "profile_text_color": "333333",
+            "screen_name": "AtlanticCouncil",
+            "statuses_count": 45670,
+            "url": "https://t.co/otXMg8wX2m",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138484296887521282,
+    "quoted_status_id_str": "1138484296887521282",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I\u2019m excited to join @AtlanticCouncil tomorrow to discuss the real costs of @realDonaldTrump\u2019s trade wars and his la\u2026 https://t.co/zG49m3NE10",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138525863652352001",
+            "url": "https://t.co/zG49m3NE10"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Feb 09 19:46:42 +0000 2011",
+        "description": "Husband, father, proud @USNavy veteran and former governor. U.S. Senator for Delaware and ranking member @EPWDems",
+        "favourites_count": 1136,
+        "followers_count": 96078,
+        "friends_count": 1415,
+        "geo_enabled": true,
+        "id": 249787913,
+        "id_str": "249787913",
+        "listed_count": 1969,
+        "location": "Delaware",
+        "name": "Senator Tom Carper",
+        "profile_background_color": "D6DDE1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249787913/1466708976",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000497501114/77d2bd85a246e66e8f77670018fbaaca_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000497501114/77d2bd85a246e66e8f77670018fbaaca_normal.jpeg",
+        "profile_link_color": "1E3F66",
+        "profile_sidebar_border_color": "BAC1C4",
+        "profile_sidebar_fill_color": "E2E8EB",
+        "profile_text_color": "737373",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorCarper",
+        "statuses_count": 8298,
+        "url": "http://t.co/0KSoFFra6j",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18267548,
+            "id_str": "18267548",
+            "name": "Atlantic Council",
+            "screen_name": "AtlanticCouncil"
+        },
+        {
+            "id": 25073877,
+            "id_str": "25073877",
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        }
+    ]
+}

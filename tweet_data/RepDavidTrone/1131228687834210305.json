@@ -1,0 +1,105 @@
+{
+    "created_at": "Wed May 22 16:01:51 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1131228687834210305,
+    "id_str": "1131228687834210305",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue May 21 21:52:03 +0000 2019",
+        "favorite_count": 67,
+        "hashtags": [],
+        "id": 1130954433368604672,
+        "id_str": "1130954433368604672",
+        "lang": "en",
+        "retweet_count": 22,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Our Speaker @DelegateAJones recognized today by @SpeakerPelosi  at the 100th anniversary of the passage of the 19th\u2026 https://t.co/puFD5yirMO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1130954433368604672",
+                "url": "https://t.co/puFD5yirMO"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Feb 10 18:47:11 +0000 2013",
+            "description": "Official twitter account of The Maryland House Democratic Caucus. Authority: Maryland House Democratic Caucus Committee; Gail E. Smith, Treasurer.",
+            "favourites_count": 1022,
+            "followers_count": 4404,
+            "friends_count": 289,
+            "geo_enabled": true,
+            "id": 1166690726,
+            "id_str": "1166690726",
+            "listed_count": 76,
+            "location": "Annapolis, MD",
+            "name": "MD House Democrats",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166690726/1547073190",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/897461576755814400/RrDfpFM6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/897461576755814400/RrDfpFM6_normal.jpg",
+            "profile_link_color": "000099",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "mdhousedems",
+            "statuses_count": 2890,
+            "url": "https://t.co/cbXoutbFVV"
+        },
+        "user_mentions": [
+            {
+                "id": 15764644,
+                "id_str": "15764644",
+                "name": "Nancy Pelosi",
+                "screen_name": "SpeakerPelosi"
+            }
+        ]
+    },
+    "quoted_status_id": 1130954433368604672,
+    "quoted_status_id_str": "1130954433368604672",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Wonderful moment celebrating new Maryland Speaker @DelegateAJones and her courageous leadership yesterday. https://t.co/VDnhzK8X43",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/mdhousedems/status/1130954433368604672",
+            "url": "https://t.co/VDnhzK8X43"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 02 21:15:37 +0000 2019",
+        "default_profile": true,
+        "description": "Congressman representing the 6th District of Maryland. Husband, Father, Business Owner.",
+        "favourites_count": 149,
+        "followers_count": 6366,
+        "friends_count": 854,
+        "id": 1080573351914061825,
+        "id_str": "1080573351914061825",
+        "listed_count": 1,
+        "location": "Maryland\u2019s 6th District",
+        "name": "Rep. David Trone",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080573351914061825/1546536501",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDavidTrone",
+        "statuses_count": 459,
+        "url": "https://t.co/YsuCO1X7X4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2339213606,
+            "id_str": "2339213606",
+            "name": "Speaker Jones",
+            "screen_name": "DelegateAJones"
+        }
+    ]
+}

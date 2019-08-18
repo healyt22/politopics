@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed Mar 06 21:22:16 +0000 2019",
+    "hashtags": [],
+    "id": 1103405459485179905,
+    "id_str": "1103405459485179905",
+    "lang": "en",
+    "retweet_count": 33,
+    "retweeted_status": {
+        "created_at": "Wed Mar 06 21:21:32 +0000 2019",
+        "favorite_count": 77,
+        "hashtags": [],
+        "id": 1103405274117931015,
+        "id_str": "1103405274117931015",
+        "lang": "en",
+        "retweet_count": 33,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Two bills introduced today, in the U.S. House (by @RepRonKind &amp; @JimPressOffice) and U.S. Senate (by @SenatorTester\u2026 https://t.co/aDJxngQLFE",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1103405274117931015",
+                "url": "https://t.co/aDJxngQLFE"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 05 20:21:30 +0000 2007",
+            "description": "National Wildlife Federation works to unite all Americans to ensure wildlife thrive in a rapidly changing world.",
+            "favourites_count": 6932,
+            "followers_count": 592007,
+            "friends_count": 243,
+            "id": 3554721,
+            "id_str": "3554721",
+            "listed_count": 8183,
+            "location": "Reston, VA",
+            "name": "National Wildlife Federation",
+            "profile_background_color": "00573D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3554721/1482263656",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1149353695760572424/MPdh0sJq_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149353695760572424/MPdh0sJq_normal.png",
+            "profile_link_color": "00573D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F5F1E9",
+            "profile_text_color": "666053",
+            "profile_use_background_image": true,
+            "screen_name": "NWF",
+            "statuses_count": 25843,
+            "url": "https://t.co/dwnpFHTZff",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 112740986,
+                "id_str": "112740986",
+                "name": "Rep. Ron Kind",
+                "screen_name": "RepRonKind"
+            },
+            {
+                "id": 851621377,
+                "id_str": "851621377",
+                "name": "Sensenbrenner Press",
+                "screen_name": "JimPressOffice"
+            },
+            {
+                "id": 515822213,
+                "id_str": "515822213",
+                "name": "Senator Jon Tester",
+                "screen_name": "SenatorTester"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NWF: Two bills introduced today, in the U.S. House (by @RepRonKind &amp; @JimPressOffice) and U.S. Senate (by @SenatorTester), will help ad\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 05 20:13:29 +0000 2012",
+        "description": "Third-generation Montana farmer. Proud grandfather. Former school teacher. Flattop icon. Trumpet player. Montana's senior Senator.",
+        "favourites_count": 300,
+        "followers_count": 94817,
+        "friends_count": 1001,
+        "geo_enabled": true,
+        "id": 515822213,
+        "id_str": "515822213",
+        "listed_count": 1370,
+        "location": "Montana",
+        "name": "Senator Jon Tester",
+        "profile_background_color": "0C0203",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/515822213/1490051228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_link_color": "FA610F",
+        "profile_sidebar_border_color": "D6BCAB",
+        "profile_sidebar_fill_color": "BE9658",
+        "profile_text_color": "544D3D",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTester",
+        "statuses_count": 4605,
+        "url": "http://t.co/G4S7FHr0Od",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3554721,
+            "id_str": "3554721",
+            "name": "National Wildlife Federation",
+            "screen_name": "NWF"
+        },
+        {
+            "id": 112740986,
+            "id_str": "112740986",
+            "name": "Rep. Ron Kind",
+            "screen_name": "RepRonKind"
+        },
+        {
+            "id": 851621377,
+            "id_str": "851621377",
+            "name": "Sensenbrenner Press",
+            "screen_name": "JimPressOffice"
+        },
+        {
+            "id": 515822213,
+            "id_str": "515822213",
+            "name": "Senator Jon Tester",
+            "screen_name": "SenatorTester"
+        }
+    ]
+}

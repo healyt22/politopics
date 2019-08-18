@@ -1,0 +1,79 @@
+{
+    "created_at": "Fri Jan 11 21:37:39 +0000 2019",
+    "favorite_count": 35,
+    "hashtags": [
+        {
+            "text": "NationalMilkDay"
+        }
+    ],
+    "id": 1083840386936782848,
+    "id_str": "1083840386936782848",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ZI8zkjetkP",
+            "expanded_url": "https://twitter.com/CongMikeSimpson/status/1083840386936782848/photo/1",
+            "id": 1083840265939533831,
+            "media_url": "http://pbs.twimg.com/media/DwqS-ryXQAcBwov.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwqS-ryXQAcBwov.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 425,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 241,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2000,
+                    "h": 709,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZI8zkjetkP"
+        }
+    ],
+    "retweet_count": 10,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Happy #NationalMilkDay - Idaho is the 3rd largest milk producing state in the nation. \ud83e\udd5b https://t.co/ZI8zkjetkP",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Sep 21 20:26:26 +0000 2009",
+        "default_profile": true,
+        "description": "Proudly representing Idaho's 2nd Congressional District",
+        "favourites_count": 236,
+        "followers_count": 17084,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "id": 76132891,
+        "id_str": "76132891",
+        "listed_count": 642,
+        "location": "Washington, D.C.",
+        "name": "Cong. Mike Simpson",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76132891/1541176451",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongMikeSimpson",
+        "statuses_count": 1113,
+        "url": "http://t.co/lRNTKPfcmE",
+        "verified": true
+    },
+    "user_mentions": []
+}

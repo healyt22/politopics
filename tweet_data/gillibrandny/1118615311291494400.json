@@ -1,0 +1,126 @@
+{
+    "created_at": "Wed Apr 17 20:40:47 +0000 2019",
+    "favorite_count": 32,
+    "hashtags": [],
+    "id": 1118615311291494400,
+    "id_str": "1118615311291494400",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Apr 17 18:19:02 +0000 2019",
+        "favorite_count": 79,
+        "hashtags": [],
+        "id": 1118579639197286406,
+        "id_str": "1118579639197286406",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/jYpkiY3H57",
+                "expanded_url": "https://twitter.com/thehill/status/1118579639197286406/photo/1",
+                "id": 1118579637695787008,
+                "media_url": "http://pbs.twimg.com/media/D4X-QQXXsAAbvw9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D4X-QQXXsAAbvw9.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/jYpkiY3H57"
+            }
+        ],
+        "retweet_count": 12,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Gillibrand introduces bill to ban harmful pesticide from school lunch https://t.co/pHcNEYhKEv https://t.co/jYpkiY3H57",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/g31MJKB",
+                "url": "https://t.co/pHcNEYhKEv"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3323840,
+            "friends_count": 261,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26109,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 597130,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1118579639197286406,
+    "quoted_status_id_str": "1118579639197286406",
+    "retweet_count": 13,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Chlorpyrifos\u2014a widely used pesticide that\u2019s sprayed on fruits like apples and oranges\u2014has been linked to developmen\u2026 https://t.co/6IFdlS3ZVU",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1118615311291494400",
+            "url": "https://t.co/6IFdlS3ZVU"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Aug 22 12:56:39 +0000 2017",
+        "default_profile": true,
+        "description": "United States Senator for New York. Official Senate Twitter account.",
+        "favourites_count": 90,
+        "followers_count": 8270,
+        "friends_count": 215,
+        "id": 899978622416695297,
+        "id_str": "899978622416695297",
+        "listed_count": 465,
+        "location": "New York",
+        "name": "Sen. Kirsten Gillibrand",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/899978622416695297/1548970594",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1122951029606297602/LjBFG3YX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1122951029606297602/LjBFG3YX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "gillibrandny",
+        "statuses_count": 476,
+        "url": "https://t.co/a3YeRswNc4",
+        "verified": true
+    },
+    "user_mentions": []
+}

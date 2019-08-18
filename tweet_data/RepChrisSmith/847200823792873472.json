@@ -1,0 +1,108 @@
+{
+    "created_at": "Wed Mar 29 21:36:31 +0000 2017",
+    "favorite_count": 36,
+    "hashtags": [
+        {
+            "text": "ENDALZ"
+        }
+    ],
+    "id": 847200823792873472,
+    "id_str": "847200823792873472",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Mar 29 21:04:22 +0000 2017",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 847192733055930368,
+        "id_str": "847192733055930368",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @RepChrisSmith for your continued support of Alzheimer's and the actions to eradicate this disease.\u2026 https://t.co/iU0Z8LD6gT",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/847192733055930368",
+                "url": "https://t.co/iU0Z8LD6gT"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 07 02:04:13 +0000 2012",
+            "default_profile": true,
+            "description": "Alzheimer's Ambassador",
+            "favourites_count": 8,
+            "followers_count": 19,
+            "friends_count": 39,
+            "geo_enabled": true,
+            "id": 601467041,
+            "id_str": "601467041",
+            "location": "New Jersey, USA",
+            "name": "John Sturtevant",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/860592752274411520/xEOcZDwH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/860592752274411520/xEOcZDwH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JohnCSturtevant",
+            "statuses_count": 10
+        },
+        "user_mentions": [
+            {
+                "id": 1289319271,
+                "id_str": "1289319271",
+                "name": "Rep. Chris Smith",
+                "screen_name": "RepChrisSmith"
+            }
+        ]
+    },
+    "quoted_status_id": 847192733055930368,
+    "quoted_status_id_str": "847192733055930368",
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you @alzassociation for the work you do for the 170k people in NJ w/ Alz #ENDALZ https://t.co/DopaJNWIl9",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/JohnCSturtevant/status/847192733055930368",
+            "url": "https://t.co/DopaJNWIl9"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Mar 22 18:03:53 +0000 2013",
+        "description": "Proud to represent the 4th Congressional District of New Jersey.\n\nSocial media policy: https://t.co/vKjnDqaOS5",
+        "favourites_count": 149,
+        "followers_count": 24013,
+        "friends_count": 223,
+        "id": 1289319271,
+        "id_str": "1289319271",
+        "listed_count": 686,
+        "name": "Rep. Chris Smith",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1289319271/1538495850",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/915302659271380993/AGh07FqH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/915302659271380993/AGh07FqH_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChrisSmith",
+        "statuses_count": 1073,
+        "url": "http://t.co/a3ZJUqfRSg",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21121491,
+            "id_str": "21121491",
+            "name": "Alzheimer's Assoc.",
+            "screen_name": "alzassociation"
+        }
+    ]
+}

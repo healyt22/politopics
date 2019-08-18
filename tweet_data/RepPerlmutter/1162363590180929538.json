@@ -1,0 +1,162 @@
+{
+    "created_at": "Fri Aug 16 14:00:50 +0000 2019",
+    "hashtags": [],
+    "id": 1162363590180929538,
+    "id_str": "1162363590180929538",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Aug 16 13:51:36 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1162361269011152898,
+        "id_str": "1162361269011152898",
+        "in_reply_to_screen_name": "RepPerlmutter",
+        "in_reply_to_user_id": 20552026,
+        "lang": "en",
+        "place": {
+            "id": "e21c8e4914eef2b3",
+            "url": "https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json",
+            "place_type": "admin",
+            "name": "Colorado",
+            "full_name": "Colorado, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -109.060257,
+                            36.992427
+                        ],
+                        [
+                            -102.041524,
+                            36.992427
+                        ],
+                        [
+                            -102.041524,
+                            41.003445
+                        ],
+                        [
+                            -109.060257,
+                            41.003445
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@RepPerlmutter, a @JeffcoSchoolsCo alumni, gives the legislative update today during @ArvadaChamber breakfast. Spea\u2026 https://t.co/leqTwBzfkJ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162361269011152898",
+                "url": "https://t.co/leqTwBzfkJ"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 11 21:51:15 +0000 2018",
+            "description": "Career and Technical Education for Jeffco Public Schools",
+            "favourites_count": 177,
+            "followers_count": 140,
+            "friends_count": 38,
+            "geo_enabled": true,
+            "id": 1017164439244509184,
+            "id_str": "1017164439244509184",
+            "listed_count": 1,
+            "location": "Golden, CO",
+            "name": "Jeffco CTE",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017167940603400192/lF20avrd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017167940603400192/lF20avrd_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "CteJeffco",
+            "statuses_count": 193
+        },
+        "user_mentions": [
+            {
+                "id": 20552026,
+                "id_str": "20552026",
+                "name": "Rep. Ed Perlmutter",
+                "screen_name": "RepPerlmutter"
+            },
+            {
+                "id": 81924558,
+                "id_str": "81924558",
+                "name": "Jeffco Public Schools",
+                "screen_name": "JeffcoSchoolsCo"
+            },
+            {
+                "id": 122158961,
+                "id_str": "122158961",
+                "name": "Arvada, CO Chamber",
+                "screen_name": "ArvadaChamber"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CteJeffco: @RepPerlmutter, a @JeffcoSchoolsCo alumni, gives the legislative update today during @ArvadaChamber breakfast. Speaks to get\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Feb 10 22:17:52 +0000 2009",
+        "description": "Member of Congress, proudly representing the 7th District of Colorado https://t.co/wLRJaGd9rX",
+        "favourites_count": 1624,
+        "followers_count": 33176,
+        "friends_count": 4510,
+        "id": 20552026,
+        "id_str": "20552026",
+        "listed_count": 1376,
+        "location": "Colorado",
+        "name": "Rep. Ed Perlmutter",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20552026/1403113187",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978292192803422208/H3i3We-O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978292192803422208/H3i3We-O_normal.jpg",
+        "profile_link_color": "0400B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPerlmutter",
+        "statuses_count": 5541,
+        "url": "http://t.co/NZmeXSnqTP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1017164439244509184,
+            "id_str": "1017164439244509184",
+            "name": "Jeffco CTE",
+            "screen_name": "CteJeffco"
+        },
+        {
+            "id": 20552026,
+            "id_str": "20552026",
+            "name": "Rep. Ed Perlmutter",
+            "screen_name": "RepPerlmutter"
+        },
+        {
+            "id": 81924558,
+            "id_str": "81924558",
+            "name": "Jeffco Public Schools",
+            "screen_name": "JeffcoSchoolsCo"
+        },
+        {
+            "id": 122158961,
+            "id_str": "122158961",
+            "name": "Arvada, CO Chamber",
+            "screen_name": "ArvadaChamber"
+        }
+    ]
+}

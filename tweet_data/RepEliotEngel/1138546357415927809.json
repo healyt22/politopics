@@ -1,0 +1,159 @@
+{
+    "created_at": "Tue Jun 11 20:39:39 +0000 2019",
+    "hashtags": [
+        {
+            "text": "CAREcon"
+        }
+    ],
+    "id": 1138546357415927809,
+    "id_str": "1138546357415927809",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Tue Jun 11 20:35:55 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [
+            {
+                "text": "CAREcon"
+            }
+        ],
+        "id": 1138545418529386498,
+        "id_str": "1138545418529386498",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Just finishing up my last Hill Day meeting at #CAREcon with @RepEliotEngel one of @CARE\u2019s strongest allies in Congr\u2026 https://t.co/byjYX0CI96",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138545418529386498",
+                "url": "https://t.co/byjYX0CI96"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 22 21:35:31 +0000 2013",
+            "description": "President and CEO of CARE, a global humanitarian organization that fights poverty by empowering girls and women.",
+            "favourites_count": 353,
+            "followers_count": 10777,
+            "friends_count": 472,
+            "geo_enabled": true,
+            "id": 1613681130,
+            "id_str": "1613681130",
+            "listed_count": 283,
+            "location": "Atlanta, GA",
+            "name": "Michelle Nunn",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613681130/1563544023",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/631497373198483456/dYY1aHdh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/631497373198483456/dYY1aHdh_normal.jpg",
+            "profile_link_color": "E4761E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "MichelleNunn",
+            "statuses_count": 1935,
+            "url": "https://t.co/ibdgEFKXf9",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 164007407,
+                "id_str": "164007407",
+                "name": "Eliot Engel",
+                "screen_name": "RepEliotEngel"
+            },
+            {
+                "id": 16834046,
+                "id_str": "16834046",
+                "name": "CARE (care.org)",
+                "screen_name": "CARE"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @MichelleNunn: Just finishing up my last Hill Day meeting at #CAREcon with @RepEliotEngel one of @CARE\u2019s strongest allies in Congress! T\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jul 07 20:34:17 +0000 2010",
+        "description": "Congressman representing parts of the Bronx and Westchester Counties in New York #NY16. Chair, @HouseForeign.",
+        "favourites_count": 215,
+        "followers_count": 33939,
+        "friends_count": 958,
+        "geo_enabled": true,
+        "id": 164007407,
+        "id_str": "164007407",
+        "listed_count": 1183,
+        "name": "Eliot Engel",
+        "profile_background_color": "EBE6CE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164007407/1517494271",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/523095197983309825/3TdNyI76_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/523095197983309825/3TdNyI76_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepEliotEngel",
+        "statuses_count": 4718,
+        "url": "http://t.co/BVwX9Ov3sA",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1613681130,
+            "id_str": "1613681130",
+            "name": "Michelle Nunn",
+            "screen_name": "MichelleNunn"
+        },
+        {
+            "id": 164007407,
+            "id_str": "164007407",
+            "name": "Eliot Engel",
+            "screen_name": "RepEliotEngel"
+        },
+        {
+            "id": 16834046,
+            "id_str": "16834046",
+            "name": "CARE (care.org)",
+            "screen_name": "CARE"
+        }
+    ]
+}

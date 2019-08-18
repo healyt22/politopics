@@ -1,0 +1,119 @@
+{
+    "created_at": "Tue Jun 11 20:30:23 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1138544027173871616,
+    "id_str": "1138544027173871616",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 11 19:16:55 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [
+            {
+                "text": "NetNeutrality"
+            }
+        ],
+        "id": 1138525536202973185,
+        "id_str": "1138525536202973185",
+        "lang": "en",
+        "retweet_count": 23,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We're LIVE now with Congressman @PeterWelch talking about the importance of restoring #NetNeutrality. Tune in at\u2026 https://t.co/Ljw2csQMfR",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138525536202973185",
+                "url": "https://t.co/Ljw2csQMfR"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 29 23:43:55 +0000 2011",
+            "description": "We believe there's hardly anything as important as ensuring that our shared future has freedom of expression and creativity at its core.",
+            "favourites_count": 5246,
+            "followers_count": 99230,
+            "friends_count": 2562,
+            "geo_enabled": true,
+            "id": 382376904,
+            "id_str": "382376904",
+            "listed_count": 1830,
+            "location": "The Internet",
+            "name": "Fight for the Future",
+            "profile_background_color": "071B2F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/382376904/1546459928",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1006756518035771392/WQ8DP55__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006756518035771392/WQ8DP55__normal.jpg",
+            "profile_link_color": "19A961",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "fightfortheftr",
+            "statuses_count": 24650,
+            "url": "http://t.co/ZsLdXJ1evU",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1410590874,
+                "id_str": "1410590874",
+                "name": "Rep. Peter Welch",
+                "screen_name": "PeterWelch"
+            }
+        ]
+    },
+    "quoted_status_id": 1138525536202973185,
+    "quoted_status_id_str": "1138525536202973185",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great to join you @evangreer.  Thanks for all the work you and @fightfortheftr do to preserve a free and open inter\u2026 https://t.co/I6XVWlKJ7I",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138544027173871616",
+            "url": "https://t.co/I6XVWlKJ7I"
+        }
+    ],
+    "user": {
+        "created_at": "Tue May 07 16:10:47 +0000 2013",
+        "description": "Official Twitter Account for Congressman Peter Welch, proudly representing the great state of Vermont in the U.S. House of Representatives.",
+        "favourites_count": 97,
+        "followers_count": 18362,
+        "friends_count": 1977,
+        "geo_enabled": true,
+        "id": 1410590874,
+        "id_str": "1410590874",
+        "listed_count": 826,
+        "location": "Vermont and Washington, DC",
+        "name": "Rep. Peter Welch",
+        "profile_background_color": "F2FBFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410590874/1470422800",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593413173455257600/o0GKZGhi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593413173455257600/o0GKZGhi_normal.jpg",
+        "profile_link_color": "023D1D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "PeterWelch",
+        "statuses_count": 2324,
+        "url": "http://t.co/P7VlnuEP0v",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 232600527,
+            "id_str": "232600527",
+            "name": "Evan Greer",
+            "screen_name": "evangreer"
+        },
+        {
+            "id": 382376904,
+            "id_str": "382376904",
+            "name": "Fight for the Future",
+            "screen_name": "fightfortheftr"
+        }
+    ]
+}

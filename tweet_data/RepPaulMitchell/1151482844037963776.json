@@ -1,0 +1,85 @@
+{
+    "created_at": "Wed Jul 17 13:24:38 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1151482844037963776,
+    "id_str": "1151482844037963776",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/t44EzznLd2",
+            "expanded_url": "https://twitter.com/RepPaulMitchell/status/1151482844037963776/photo/1",
+            "id": 1151482832155488256,
+            "media_url": "http://pbs.twimg.com/media/D_rjiPeWsAAc_6S.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_rjiPeWsAAc_6S.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/t44EzznLd2"
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Recording @SBGC2C for @nbc25fox66. Be sure to tune in to tonight's broadcast! \ud83d\udcfa https://t.co/t44EzznLd2",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 21 18:01:14 +0000 2016",
+        "default_profile": true,
+        "description": "Official account for Congressman Paul Mitchell #MI10",
+        "favourites_count": 126,
+        "followers_count": 6471,
+        "friends_count": 416,
+        "geo_enabled": true,
+        "id": 811632636598910976,
+        "id_str": "811632636598910976",
+        "listed_count": 324,
+        "name": "Rep. Paul Mitchell",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/811632636598910976/1482348484",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1053321319062929408/EEaqrAvm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053321319062929408/EEaqrAvm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPaulMitchell",
+        "statuses_count": 1553,
+        "url": "https://t.co/zSBYj2y0i6",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 741343677465890820,
+            "id_str": "741343677465890820",
+            "name": "C2C Sinclair",
+            "screen_name": "SBGC2C"
+        },
+        {
+            "id": 21139887,
+            "id_str": "21139887",
+            "name": "NBC25 / FOX66 News",
+            "screen_name": "nbc25fox66"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed May 22 20:45:05 +0000 2019",
+    "hashtags": [],
+    "id": 1131299966771695616,
+    "id_str": "1131299966771695616",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Wed May 22 20:43:18 +0000 2019",
+        "favorite_count": 11,
+        "hashtags": [],
+        "id": 1131299519608627200,
+        "id_str": "1131299519608627200",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\ud83d\udea8 Republicans &amp; Democrats agree \ud83d\udea8 the @CFPB needs reform, but H.R. 1500 won't do that. It ignores the fundamental f\u2026 https://t.co/i84LnV4nwv",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131299519608627200",
+                "url": "https://t.co/i84LnV4nwv"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 27 17:00:31 +0000 2009",
+            "description": "U.S. House Committee on Financial Services Republicans \u2013 Ranking Member @PatrickMcHenry",
+            "favourites_count": 1746,
+            "followers_count": 24156,
+            "friends_count": 3172,
+            "geo_enabled": true,
+            "id": 42924141,
+            "id_str": "42924141",
+            "listed_count": 971,
+            "location": "Washington, D.C.",
+            "name": "Financial Services GOP",
+            "profile_background_color": "215B80",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/42924141/1546618381",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1150826340012240898/rzk_pfE9_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150826340012240898/rzk_pfE9_normal.png",
+            "profile_link_color": "E23B30",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "FinancialCmte",
+            "statuses_count": 10294,
+            "url": "https://t.co/EKkSEK5LqC",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 234826866,
+                "id_str": "234826866",
+                "name": "consumerfinance.gov",
+                "screen_name": "CFPB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @FinancialCmte: \ud83d\udea8 Republicans &amp; Democrats agree \ud83d\udea8 the @CFPB needs reform, but H.R. 1500 won't do that. It ignores the fundamental flaw o\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 04 14:01:28 +0000 2011",
+        "description": "I serve the people of the 2nd District of Michigan. Member of Financial Services Committee. Father of 5. Visit http://t.co/Rj7T6mD76d for even more!",
+        "favourites_count": 1194,
+        "followers_count": 20999,
+        "friends_count": 4968,
+        "geo_enabled": true,
+        "id": 233949261,
+        "id_str": "233949261",
+        "listed_count": 898,
+        "location": "2nd District, MI",
+        "name": "Rep. Bill Huizenga",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233949261/1551386050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/443039780276682753/UYej9mz0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/443039780276682753/UYej9mz0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepHuizenga",
+        "statuses_count": 6542,
+        "url": "http://t.co/F9UwL81Pr9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 42924141,
+            "id_str": "42924141",
+            "name": "Financial Services GOP",
+            "screen_name": "FinancialCmte"
+        },
+        {
+            "id": 234826866,
+            "id_str": "234826866",
+            "name": "consumerfinance.gov",
+            "screen_name": "CFPB"
+        }
+    ]
+}

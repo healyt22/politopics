@@ -1,0 +1,143 @@
+{
+    "created_at": "Wed May 22 15:34:48 +0000 2019",
+    "hashtags": [],
+    "id": 1131221884236980226,
+    "id_str": "1131221884236980226",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed May 22 15:14:30 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 1131216775188701194,
+        "id_str": "1131216775188701194",
+        "lang": "en",
+        "place": {
+            "id": "006b48995ede9bcc",
+            "url": "https://api.twitter.com/1.1/geo/id/006b48995ede9bcc.json",
+            "place_type": "city",
+            "name": "Gilbert",
+            "full_name": "Gilbert, AZ",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.842244,
+                            33.204608
+                        ],
+                        [
+                            -111.634889,
+                            33.204608
+                        ],
+                        [
+                            -111.634889,
+                            33.3858215
+                        ],
+                        [
+                            -111.842244,
+                            33.3858215
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@RepGregStanton thank you for sharing the emotional and psychological impact of inaction. Myself and the\u2026 https://t.co/okdty6uHCE",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131216775188701194",
+                "url": "https://t.co/okdty6uHCE"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Sep 05 08:18:32 +0000 2010",
+            "description": "AZ \ud83c\udf35| Entrepreneur| Dancer| Educator| Organizer \u2615\ufe0f| @kennedy_school| @asu|Founder+CEO @AlientoAZ| @ForbesUnder30| @echoinggreen| #NBCLatino20 #Dreamer #DACA",
+            "favourites_count": 3408,
+            "followers_count": 2024,
+            "friends_count": 618,
+            "geo_enabled": true,
+            "id": 187108150,
+            "id_str": "187108150",
+            "listed_count": 28,
+            "location": "Gilbert, AZ",
+            "name": "Reyna Montoya",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/187108150/1548798547",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1077844664445657088/7dHSJGCO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077844664445657088/7dHSJGCO_normal.jpg",
+            "profile_link_color": "BD1381",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "ReynaEMontoya",
+            "statuses_count": 11514,
+            "url": "https://t.co/ud8nOBDY70"
+        },
+        "user_mentions": [
+            {
+                "id": 1080885078425784320,
+                "id_str": "1080885078425784320",
+                "name": "Greg Stanton",
+                "screen_name": "RepGregStanton"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @ReynaEMontoya: .@RepGregStanton thank you for sharing the emotional and psychological impact of inaction. Myself and the @AlientoAZ tea\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 17:54:19 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly serving Arizona's 9th Congressional District",
+        "favourites_count": 67,
+        "followers_count": 3958,
+        "friends_count": 1129,
+        "id": 1080885078425784320,
+        "id_str": "1080885078425784320",
+        "listed_count": 167,
+        "name": "Greg Stanton",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080885078425784320/1546958876",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080997387831832577/QeoSs0Jd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080997387831832577/QeoSs0Jd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGregStanton",
+        "statuses_count": 306,
+        "url": "https://t.co/3BRXv6iBwh",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 187108150,
+            "id_str": "187108150",
+            "name": "Reyna Montoya",
+            "screen_name": "ReynaEMontoya"
+        },
+        {
+            "id": 1080885078425784320,
+            "id_str": "1080885078425784320",
+            "name": "Greg Stanton",
+            "screen_name": "RepGregStanton"
+        },
+        {
+            "id": 741347215197638656,
+            "id_str": "741347215197638656",
+            "name": "Aliento",
+            "screen_name": "AlientoAZ"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "created_at": "Tue May 07 12:21:01 +0000 2019",
+    "hashtags": [],
+    "id": 1125737296899321856,
+    "id_str": "1125737296899321856",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue May 07 12:20:44 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 1125737226669785088,
+        "id_str": "1125737226669785088",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Up now, a discussion on the environment with @SenBillCassidy, @RepScottPeters , and Elizabeth Gore of\u2026 https://t.co/vv2B9MLZY8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1125737226669785088",
+                "url": "https://t.co/vv2B9MLZY8"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Oct 02 13:46:56 +0000 2018",
+            "description": "Amplify your influence with info & analytics for professionals who interact with\u2014or are affected by\u2014the government. |  Follow our journalists & news: @BGOV",
+            "favourites_count": 85,
+            "followers_count": 941,
+            "friends_count": 162,
+            "id": 1047120751315361792,
+            "id_str": "1047120751315361792",
+            "listed_count": 27,
+            "location": "Arlington, VA",
+            "name": "Bloomberg Government",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1047120751315361792/1540822824",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1056929556903411712/rUWhTxvY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056929556903411712/rUWhTxvY_normal.jpg",
+            "profile_link_color": "9933CC",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "bloomberggov",
+            "statuses_count": 495,
+            "url": "https://t.co/kgWiN0KpAS",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1017500185356853248,
+                "id_str": "1017500185356853248",
+                "name": "U.S. Senator Bill Cassidy, M.D.",
+                "screen_name": "SenBillCassidy"
+            },
+            {
+                "id": 1135486501,
+                "id_str": "1135486501",
+                "name": "Rep. Scott Peters",
+                "screen_name": "RepScottPeters"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @bloomberggov: Up now, a discussion on the environment with @SenBillCassidy, @RepScottPeters , and Elizabeth Gore of @EnvDefenseFund, mo\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jul 12 20:05:23 +0000 2018",
+        "default_profile": true,
+        "description": "Treated uninsured patients as a doctor in Louisiana\u2019s charity hospital system, now serving the people of my state in the US Senate. Proud LSU grad! #GeauxTigers",
+        "favourites_count": 188,
+        "followers_count": 11473,
+        "friends_count": 1091,
+        "id": 1017500185356853248,
+        "id_str": "1017500185356853248",
+        "listed_count": 271,
+        "location": "Baton Rouge, LA",
+        "name": "U.S. Senator Bill Cassidy, M.D.",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017500185356853248/1547826031",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017836622145040386/DcP_lQSc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017836622145040386/DcP_lQSc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenBillCassidy",
+        "statuses_count": 1414,
+        "url": "https://t.co/yd6jxEbab5",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1047120751315361792,
+            "id_str": "1047120751315361792",
+            "name": "Bloomberg Government",
+            "screen_name": "bloomberggov"
+        },
+        {
+            "id": 1017500185356853248,
+            "id_str": "1017500185356853248",
+            "name": "U.S. Senator Bill Cassidy, M.D.",
+            "screen_name": "SenBillCassidy"
+        },
+        {
+            "id": 1135486501,
+            "id_str": "1135486501",
+            "name": "Rep. Scott Peters",
+            "screen_name": "RepScottPeters"
+        },
+        {
+            "id": 20068053,
+            "id_str": "20068053",
+            "name": "EDF",
+            "screen_name": "EnvDefenseFund"
+        }
+    ]
+}

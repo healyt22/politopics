@@ -1,0 +1,184 @@
+{
+    "created_at": "Fri Aug 16 00:46:19 +0000 2019",
+    "hashtags": [
+        {
+            "text": "AARPNY"
+        }
+    ],
+    "id": 1162163645847146496,
+    "id_str": "1162163645847146496",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Aug 15 20:57:46 +0000 2019",
+        "favorite_count": 19,
+        "hashtags": [
+            {
+                "text": "AARPNY"
+            }
+        ],
+        "id": 1162106128668471302,
+        "id_str": "1162106128668471302",
+        "lang": "en",
+        "place": {
+            "id": "01a9a39529b27f36",
+            "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+            "place_type": "city",
+            "name": "Manhattan",
+            "full_name": "Manhattan, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.026675,
+                            40.683935
+                        ],
+                        [
+                            -73.910408,
+                            40.683935
+                        ],
+                        [
+                            -73.910408,
+                            40.877483
+                        ],
+                        [
+                            -74.026675,
+                            40.877483
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Great to see @RepMaxRose @ABC7NY studios today (w/#AARPNY State Director @BethNY &amp; @TULLYLAKE34) - and to have his\u2026 https://t.co/5wVNGTdUFl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162106128668471302",
+                "url": "https://t.co/5wVNGTdUFl"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 13 18:28:49 +0000 2009",
+            "description": "Nonprofit, nonpartisan org. working for NYers 50+. Learn more about #DisruptDisparities & follow our State Director @BethNY https://t.co/yKwJFufczT",
+            "favourites_count": 11967,
+            "followers_count": 8113,
+            "friends_count": 4852,
+            "geo_enabled": true,
+            "id": 39811240,
+            "id_str": "39811240",
+            "listed_count": 251,
+            "location": "New York",
+            "name": "AARP New York",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39811240/1564769141",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/565129761895092226/ydBorbsR_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/565129761895092226/ydBorbsR_normal.png",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AARPNY",
+            "statuses_count": 33234,
+            "url": "https://t.co/kQqiyp7O58",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1078692057940742144,
+                "id_str": "1078692057940742144",
+                "name": "Rep. Max Rose",
+                "screen_name": "RepMaxRose"
+            },
+            {
+                "id": 16715398,
+                "id_str": "16715398",
+                "name": "Eyewitness News",
+                "screen_name": "ABC7NY"
+            },
+            {
+                "id": 16192895,
+                "id_str": "16192895",
+                "name": "Beth Finkel",
+                "screen_name": "BethNY"
+            },
+            {
+                "id": 429382630,
+                "id_str": "429382630",
+                "name": "Bill Ferris",
+                "screen_name": "TULLYLAKE34"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AARPNY: Great to see @RepMaxRose @ABC7NY studios today (w/#AARPNY State Director @BethNY &amp; @TULLYLAKE34) - and to have his support to #\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Dec 28 16:40:02 +0000 2018",
+        "default_profile": true,
+        "description": "\u201cLittle Guy\" according to @CityandStateNY. \"Human Terrier\" according to @WashingtonPost. But Staten Islanders and South Brooklynites, please just call me Max.",
+        "favourites_count": 139,
+        "followers_count": 13509,
+        "friends_count": 673,
+        "id": 1078692057940742144,
+        "id_str": "1078692057940742144",
+        "listed_count": 218,
+        "location": "Staten Island and South Brooklyn, NY",
+        "name": "Rep. Max Rose",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078692057940742144/1548979187",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091109882953191424/qlSgfhF2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091109882953191424/qlSgfhF2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMaxRose",
+        "statuses_count": 597,
+        "url": "https://t.co/nJq5nPN9Xw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 39811240,
+            "id_str": "39811240",
+            "name": "AARP New York",
+            "screen_name": "AARPNY"
+        },
+        {
+            "id": 1078692057940742144,
+            "id_str": "1078692057940742144",
+            "name": "Rep. Max Rose",
+            "screen_name": "RepMaxRose"
+        },
+        {
+            "id": 16715398,
+            "id_str": "16715398",
+            "name": "Eyewitness News",
+            "screen_name": "ABC7NY"
+        },
+        {
+            "id": 16192895,
+            "id_str": "16192895",
+            "name": "Beth Finkel",
+            "screen_name": "BethNY"
+        },
+        {
+            "id": 429382630,
+            "id_str": "429382630",
+            "name": "Bill Ferris",
+            "screen_name": "TULLYLAKE34"
+        }
+    ]
+}

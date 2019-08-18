@@ -1,0 +1,155 @@
+{
+    "created_at": "Mon Mar 25 18:02:49 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [],
+    "id": 1110240635993423872,
+    "id_str": "1110240635993423872",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Mar 25 17:54:28 +0000 2019",
+        "favorite_count": 19043,
+        "hashtags": [
+            {
+                "text": "ReleaseTheReport"
+            }
+        ],
+        "id": 1110238536509390848,
+        "id_str": "1110238536509390848",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vbvloZOHud",
+                "expanded_url": "https://twitter.com/SpeakerPelosi/status/1110238536509390848/video/1",
+                "id": 1110238138834866176,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1110238138834866176/img/d0TDtigbCmBeQiMy.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1110238138834866176/img/d0TDtigbCmBeQiMy.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/vbvloZOHud",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 9010,
+                    "variants": [
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1110238138834866176/vid/320x180/UD5QdBEDGefXUG8N.mp4?tag=11"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1110238138834866176/pl/XjF0gPPm6ZIhB-AH.m3u8?tag=11"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1110238138834866176/vid/1280x720/pWRnlzD8usxL-pyf.mp4?tag=11"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1110238138834866176/vid/640x360/kXrXScrafw8arwlS.mp4?tag=11"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 4887,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "Even a broken clock is right twice a day. #ReleaseTheReport https://t.co/vbvloZOHud",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Aug 07 15:35:02 +0000 2008",
+            "description": "Speaker of the House, focused on strengthening America's middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.",
+            "favourites_count": 10,
+            "followers_count": 2709042,
+            "friends_count": 361,
+            "id": 15764644,
+            "id_str": "15764644",
+            "listed_count": 16254,
+            "location": "San Francisco",
+            "name": "Nancy Pelosi",
+            "profile_background_color": "385BA3",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15764644/1522022108",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1114294290375688193/P9mcJNGb_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114294290375688193/P9mcJNGb_normal.png",
+            "profile_link_color": "4B12E6",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FCFCFC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SpeakerPelosi",
+            "statuses_count": 9115,
+            "url": "https://t.co/jztVqrP3x5",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1110238536509390848,
+    "quoted_status_id_str": "1110238536509390848",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "The American people, Congress and President Trump agree that the Special Counsel\u2019s report should be released in ful\u2026 https://t.co/eXMoDJwdVD",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1110240635993423872",
+            "url": "https://t.co/eXMoDJwdVD"
+        }
+    ],
+    "user": {
+        "created_at": "Wed May 25 20:59:25 +0000 2011",
+        "default_profile": true,
+        "description": "Official Twitter account of Congressman Bobby L. Rush, proudly representing the 1st Congressional District of Illinois.",
+        "favourites_count": 431,
+        "followers_count": 20034,
+        "friends_count": 960,
+        "geo_enabled": true,
+        "id": 305216911,
+        "id_str": "305216911",
+        "listed_count": 933,
+        "location": "Chicago, IL",
+        "name": "Bobby L. Rush",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/305216911/1518124449",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004884463963303936/qe5m6af2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004884463963303936/qe5m6af2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBobbyRush",
+        "statuses_count": 2877,
+        "url": "https://t.co/m46YtFAWex",
+        "verified": true
+    },
+    "user_mentions": []
+}

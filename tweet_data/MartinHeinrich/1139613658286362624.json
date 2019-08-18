@@ -1,0 +1,188 @@
+{
+    "created_at": "Fri Jun 14 19:20:43 +0000 2019",
+    "favorite_count": 96,
+    "hashtags": [],
+    "id": 1139613658286362624,
+    "id_str": "1139613658286362624",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jun 14 16:15:48 +0000 2019",
+        "favorite_count": 61,
+        "hashtags": [
+            {
+                "text": "BREAKING"
+            },
+            {
+                "text": "ABQ"
+            }
+        ],
+        "id": 1139567123263438849,
+        "id_str": "1139567123263438849",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pXIFGXv3KY",
+                "expanded_url": "https://twitter.com/nateoneal/status/1139567123263438849/video/1",
+                "id": 1139566956091101184,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139566956091101184/pu/img/n3hTkvN2neQOz5CA.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139566956091101184/pu/img/n3hTkvN2neQOz5CA.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/pXIFGXv3KY",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 27812,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1139566956091101184/pu/pl/-rYeO2MFOTpKBkvT.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1139566956091101184/pu/vid/480x270/2sgPE936ufkFhiqP.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1139566956091101184/pu/vid/1280x720/o9JTLY7EtrzrN1y9.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1139566956091101184/pu/vid/640x360/K0BElM7l0h11s0bt.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 20,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#BREAKING - @GovMLG announces @NBCUniversal will make $1 BILLION investment in New Mexico @KOB4 @MayorKeller #ABQ https://t.co/pXIFGXv3KY",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Mar 07 01:30:14 +0000 2009",
+            "description": "Investigative Reporter @KOB4  ~ Edward R. Murrow & Emmy Award winner. #VegasStrong @Cronkite_ASU alum. Sun Devil. AZ\u27a1\ufe0fNV\u27a1\ufe0fABQ. RT\u2260endorsement. noneal@kob.com",
+            "favourites_count": 1787,
+            "followers_count": 2994,
+            "friends_count": 2586,
+            "geo_enabled": true,
+            "id": 23148516,
+            "id_str": "23148516",
+            "listed_count": 169,
+            "location": "Albuquerque, NM",
+            "name": "Nathan O'Neal",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23148516/1534612793",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1160022193675239424/b41TxFiE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160022193675239424/b41TxFiE_normal.jpg",
+            "profile_link_color": "083B75",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nateoneal",
+            "statuses_count": 7303,
+            "url": "https://t.co/W41GWE1e4B"
+        },
+        "user_mentions": [
+            {
+                "id": 1070083706822438912,
+                "id_str": "1070083706822438912",
+                "name": "Michelle Lujan Grisham",
+                "screen_name": "GovMLG"
+            },
+            {
+                "id": 93673287,
+                "id_str": "93673287",
+                "name": "NBCUniversal",
+                "screen_name": "NBCUniversal"
+            },
+            {
+                "id": 17220423,
+                "id_str": "17220423",
+                "name": "KOB 4",
+                "screen_name": "KOB4"
+            },
+            {
+                "id": 28675723,
+                "id_str": "28675723",
+                "name": "Mayor Tim Keller",
+                "screen_name": "MayorKeller"
+            }
+        ]
+    },
+    "quoted_status_id": 1139567123263438849,
+    "quoted_status_id_str": "1139567123263438849",
+    "retweet_count": 21,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Excited to have @NBCUniversal set up shop in Albuquerque! New Mexico is quickly becoming the premier destination fo\u2026 https://t.co/5Gvv1pqA1O",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1139613658286362624",
+            "url": "https://t.co/5Gvv1pqA1O"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 17 20:24:19 +0000 2013",
+        "description": "United States Senator from New Mexico",
+        "favourites_count": 680,
+        "followers_count": 189567,
+        "friends_count": 572,
+        "geo_enabled": true,
+        "id": 1099199839,
+        "id_str": "1099199839",
+        "listed_count": 1930,
+        "name": "Martin Heinrich",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099199839/1513792542",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091387172282867718/pNhlcC9I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091387172282867718/pNhlcC9I_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "MartinHeinrich",
+        "statuses_count": 7631,
+        "url": "https://t.co/97adkYcq3x",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 93673287,
+            "id_str": "93673287",
+            "name": "NBCUniversal",
+            "screen_name": "NBCUniversal"
+        }
+    ]
+}

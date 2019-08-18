@@ -1,0 +1,81 @@
+{
+    "created_at": "Fri Jul 12 15:42:40 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1149705642950692864,
+    "id_str": "1149705642950692864",
+    "in_reply_to_screen_name": "ericowensdc",
+    "in_reply_to_status_id": 1149704374723252225,
+    "in_reply_to_user_id": 801367260,
+    "lang": "en",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@ericowensdc @GOPoversight @chiproytx @GOP Healthcare -- https://t.co/uw0O4uhGdd https://t.co/zKyHGoK2c0 \n\nImmigrat\u2026 https://t.co/ipzHKa6gFD",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://washex.am/2FVXOFz",
+            "url": "https://t.co/uw0O4uhGdd"
+        },
+        {
+            "expanded_url": "https://bit.ly/30utn14",
+            "url": "https://t.co/zKyHGoK2c0"
+        },
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1149705642950692864",
+            "url": "https://t.co/ipzHKa6gFD"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+        "default_profile": true,
+        "description": "Proudly representing the people of the 21st Congressional District of Texas.",
+        "favourites_count": 325,
+        "followers_count": 21932,
+        "friends_count": 36,
+        "geo_enabled": true,
+        "id": 1082790600292925440,
+        "id_str": "1082790600292925440",
+        "listed_count": 246,
+        "location": "Washington, DC",
+        "name": "Rep. Chip Roy",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1547050497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107675107365998595/fZXeXUFU_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChipRoy",
+        "statuses_count": 1211,
+        "url": "https://t.co/HpJaJuKlOT",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 801367260,
+            "id_str": "801367260",
+            "name": "Eric Owens",
+            "screen_name": "ericowensdc"
+        },
+        {
+            "id": 22508473,
+            "id_str": "22508473",
+            "name": "Oversight Committee Republicans",
+            "screen_name": "GOPoversight"
+        },
+        {
+            "id": 1257667158,
+            "id_str": "1257667158",
+            "name": "Chip Roy",
+            "screen_name": "chiproytx"
+        },
+        {
+            "id": 11134252,
+            "id_str": "11134252",
+            "name": "GOP",
+            "screen_name": "GOP"
+        }
+    ]
+}

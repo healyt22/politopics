@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jun 26 20:20:04 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [],
+    "id": 1143977246731825152,
+    "id_str": "1143977246731825152",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 25 21:44:14 +0000 2019",
+        "favorite_count": 59,
+        "hashtags": [],
+        "id": 1143636040114008064,
+        "id_str": "1143636040114008064",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Today @RepAdamSmith and I are proud to announce that $9.1 million in federal funding has been awarded to support no\u2026 https://t.co/bB3bQbbCWl",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143636040114008064",
+                "url": "https://t.co/bB3bQbbCWl"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 25 19:21:52 +0000 2010",
+            "description": "U.S. Senator from Washington State | Tweets from Maria are signed \u2013MC | Facebook: https://t.co/qLmMk10nJI RT\u2260endorsement",
+            "favourites_count": 814,
+            "followers_count": 230257,
+            "friends_count": 2205,
+            "id": 117501995,
+            "id_str": "117501995",
+            "listed_count": 2493,
+            "location": "Washington, DC",
+            "name": "Sen. Maria Cantwell",
+            "profile_background_color": "B8B6B6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/117501995/1525958289",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1112707249032626176/j7drmGgX_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112707249032626176/j7drmGgX_normal.png",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "25377E",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "25378F",
+            "profile_use_background_image": true,
+            "screen_name": "SenatorCantwell",
+            "statuses_count": 8396,
+            "url": "https://t.co/5P50HzPLoB",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 58928690,
+                "id_str": "58928690",
+                "name": "Rep. Adam Smith",
+                "screen_name": "RepAdamSmith"
+            }
+        ]
+    },
+    "quoted_status_id": 1143636040114008064,
+    "quoted_status_id_str": "1143636040114008064",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Proud to work with @SenatorCantwell to address airplane noise issues in @HighlineSchools. Having grown up in SeaTac\u2026 https://t.co/jN5OnjPqOF",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143977246731825152",
+            "url": "https://t.co/jN5OnjPqOF"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jul 21 21:31:55 +0000 2009",
+        "default_profile": true,
+        "description": "Proudly serving Washington State's 9th District. Chairman of the House Armed Services Committee @HASCDemocrats",
+        "favourites_count": 303,
+        "followers_count": 33958,
+        "friends_count": 1927,
+        "geo_enabled": true,
+        "id": 58928690,
+        "id_str": "58928690",
+        "listed_count": 1389,
+        "location": "Washington's 9th District",
+        "name": "Rep. Adam Smith",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/58928690/1540239101",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1046859374055047169/OrFwOGl6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046859374055047169/OrFwOGl6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAdamSmith",
+        "statuses_count": 4090,
+        "url": "http://t.co/bEAIcyoDki",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 117501995,
+            "id_str": "117501995",
+            "name": "Sen. Maria Cantwell",
+            "screen_name": "SenatorCantwell"
+        },
+        {
+            "id": 130304151,
+            "id_str": "130304151",
+            "name": "Highline Schools",
+            "screen_name": "HighlineSchools"
+        }
+    ]
+}

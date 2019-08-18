@@ -1,0 +1,119 @@
+{
+    "created_at": "Tue Jun 18 20:30:37 +0000 2019",
+    "hashtags": [],
+    "id": 1141080799703384065,
+    "id_str": "1141080799703384065",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Tue Jun 18 17:32:25 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1141035955157159936,
+        "id_str": "1141035955157159936",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "I had the opportunity to talk to @SpectrumNews1KY about my work on @HouseCommerce to fix the practice of surprise m\u2026 https://t.co/65Qm301DIX",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141035955157159936",
+                "url": "https://t.co/65Qm301DIX"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 26 14:37:17 +0000 2013",
+            "default_profile": true,
+            "description": "Fighting for conservative values in Washington while representing the people of Kentucky's 2nd Congressional District",
+            "favourites_count": 147,
+            "followers_count": 16392,
+            "friends_count": 218,
+            "id": 1908143071,
+            "id_str": "1908143071",
+            "listed_count": 487,
+            "location": "Kentucky's Second District",
+            "name": "Rep. Brett Guthrie",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908143071/1398802844",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/689479180568829952/sNv4Qrl3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/689479180568829952/sNv4Qrl3_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepGuthrie",
+            "statuses_count": 849,
+            "url": "https://t.co/o8TdiWaWnj",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 126051146,
+                "id_str": "126051146",
+                "name": "Spectrum News 1 Kentucky",
+                "screen_name": "SpectrumNews1KY"
+            },
+            {
+                "id": 114756202,
+                "id_str": "114756202",
+                "name": "Energy & Commerce GOP",
+                "screen_name": "HouseCommerce"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @RepGuthrie: I had the opportunity to talk to @SpectrumNews1KY about my work on @HouseCommerce to fix the practice of surprise medical b\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Feb 16 14:18:06 +0000 2010",
+        "description": "House Energy & Commerce Committee Republicans | Republican Leader @repgregwalden",
+        "favourites_count": 426,
+        "followers_count": 31292,
+        "friends_count": 1045,
+        "geo_enabled": true,
+        "id": 114756202,
+        "id_str": "114756202",
+        "listed_count": 1305,
+        "location": "Washington, D.C.",
+        "name": "Energy & Commerce GOP",
+        "profile_background_color": "050000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114756202/1504288315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+        "profile_link_color": "A79777",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C7C5C5",
+        "profile_text_color": "28539E",
+        "profile_use_background_image": true,
+        "screen_name": "HouseCommerce",
+        "statuses_count": 14420,
+        "url": "https://t.co/N1b9OueDJW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1908143071,
+            "id_str": "1908143071",
+            "name": "Rep. Brett Guthrie",
+            "screen_name": "RepGuthrie"
+        },
+        {
+            "id": 126051146,
+            "id_str": "126051146",
+            "name": "Spectrum News 1 Kentucky",
+            "screen_name": "SpectrumNews1KY"
+        },
+        {
+            "id": 114756202,
+            "id_str": "114756202",
+            "name": "Energy & Commerce GOP",
+            "screen_name": "HouseCommerce"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "created_at": "Tue Jan 12 14:14:11 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "CA08"
+        }
+    ],
+    "id": 686914071761960960,
+    "id_str": "686914071761960960",
+    "lang": "und",
+    "quoted_status": {
+        "created_at": "Mon Jan 11 23:56:22 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 686698195867455488,
+        "id_str": "686698195867455488",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/LidUzEoHtO",
+                "expanded_url": "https://twitter.com/BishopMuleDays/status/686698195867455488/photo/1",
+                "id": 686698190570041344,
+                "media_url": "http://pbs.twimg.com/media/CYekXbTUsAAViMR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CYekXbTUsAAViMR.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 478,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 478,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 451,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/LidUzEoHtO"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Mule colors: sorrel, bay, black, grey, white, roans, palomino, dun, and buckskin. Least common: paint and tobianos. https://t.co/LidUzEoHtO",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Apr 02 21:55:50 +0000 2009",
+            "default_profile": true,
+            "description": "The greatest mule show on earth! #BishopMuleDays",
+            "favourites_count": 556,
+            "followers_count": 958,
+            "friends_count": 506,
+            "id": 28429647,
+            "id_str": "28429647",
+            "listed_count": 10,
+            "location": "Bishop, California",
+            "name": "Bishop Mule Days",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28429647/1492116425",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1055651962325098496/VIKzTHbw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055651962325098496/VIKzTHbw_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BishopMuleDays",
+            "statuses_count": 2478,
+            "url": "https://t.co/lgxliUl5SX"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 686698195867455488,
+    "quoted_status_id_str": "686698195867455488",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#CA08 https://t.co/bsxDI544I6",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/BishopMuleDays/status/686698195867455488",
+            "url": "https://t.co/bsxDI544I6"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 09 17:43:44 +0000 2013",
+        "description": "Twenty-six year retired @USMC Colonel serving as a United States Congressman from California's 8th Congressional District. Join the conversation #CA08 #Semperfi",
+        "favourites_count": 95,
+        "followers_count": 17501,
+        "friends_count": 1139,
+        "geo_enabled": true,
+        "id": 1074412920,
+        "id_str": "1074412920",
+        "listed_count": 710,
+        "location": "Apple Valley, California",
+        "name": "Rep. Paul Cook",
+        "profile_background_color": "B1D2E3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074412920/1503515107",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/598193321467637761/pYlCDAPS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/598193321467637761/pYlCDAPS_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPaulCook",
+        "statuses_count": 1559,
+        "url": "http://t.co/vy6a8Rp8SU",
+        "verified": true
+    },
+    "user_mentions": []
+}

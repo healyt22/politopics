@@ -1,0 +1,79 @@
+{
+    "created_at": "Tue Aug 06 15:06:01 +0000 2019",
+    "favorite_count": 31,
+    "hashtags": [],
+    "id": 1158756117666832384,
+    "id_str": "1158756117666832384",
+    "lang": "en",
+    "place": {
+        "id": "07d9ecd975086002",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ecd975086002.json",
+        "place_type": "poi",
+        "name": "Centennial Science & Engineering Bldg.  UNM",
+        "full_name": "Centennial Science & Engineering Bldg.  UNM",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -106.62575514426585,
+                        35.08325545161018
+                    ],
+                    [
+                        -106.62575514426585,
+                        35.08325545161018
+                    ],
+                    [
+                        -106.62575514426585,
+                        35.08325545161018
+                    ],
+                    [
+                        -106.62575514426585,
+                        35.08325545161018
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 10,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great to share the work we\u2019re doing on the Natural Resources Committee to bolster climate resilience at the 4th Ann\u2026 https://t.co/PJBBC7kiEM",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1158756117666832384",
+            "url": "https://t.co/PJBBC7kiEM"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 05:21:40 +0000 2019",
+        "description": "She/Her, Representing #NM CD1, one of the 1st Native American women serving in Congress. Pueblo woman. Single mom. Marathon runner. Non-fiction reader. #NMProud",
+        "favourites_count": 1398,
+        "followers_count": 63456,
+        "friends_count": 1416,
+        "geo_enabled": true,
+        "id": 1080695666760929280,
+        "id_str": "1080695666760929280",
+        "listed_count": 506,
+        "location": "Albuquerque, NM",
+        "name": "Rep. Deb Haaland",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080695666760929280/1562764982",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105916181217718272/PQVfEFpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105916181217718272/PQVfEFpJ_normal.png",
+        "profile_link_color": "1995AF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDebHaaland",
+        "statuses_count": 1537,
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,112 @@
+{
+    "created_at": "Mon Apr 01 14:53:58 +0000 2019",
+    "hashtags": [
+        {
+            "text": "ESOP"
+        }
+    ],
+    "id": 1112729823879839745,
+    "id_str": "1112729823879839745",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Apr 01 14:21:02 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "ESOP"
+            }
+        ],
+        "id": 1112721537742897153,
+        "id_str": "1112721537742897153",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "The employee-owners at Vac-Con chatted with @RepTedYoho about what their #ESOP means to them--retirement savings, s\u2026 https://t.co/5BBC8N3rIC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1112721537742897153",
+                "url": "https://t.co/5BBC8N3rIC"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 13 16:02:23 +0000 2012",
+            "description": "The Employee-Owned S Corporations of America (ESCA) is the Washington, DC voice for employee-owned S corporations.",
+            "favourites_count": 91,
+            "followers_count": 1201,
+            "friends_count": 1284,
+            "id": 523397097,
+            "id_str": "523397097",
+            "listed_count": 27,
+            "location": "Washington, DC",
+            "name": "ESCA",
+            "profile_background_color": "78727A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/523397097/1348063183",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2144877867/workers_cover_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2144877867/workers_cover_normal.JPG",
+            "profile_link_color": "92BCD1",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F0E8BB",
+            "profile_text_color": "E1D9C0",
+            "profile_use_background_image": true,
+            "screen_name": "EmployeesOwn",
+            "statuses_count": 3492,
+            "url": "http://t.co/jkmuylb07p"
+        },
+        "user_mentions": [
+            {
+                "id": 1071900114,
+                "id_str": "1071900114",
+                "name": "Ted Yoho",
+                "screen_name": "RepTedYoho"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @EmployeesOwn: The employee-owners at Vac-Con chatted with @RepTedYoho about what their #ESOP means to them--retirement savings, strong\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 20:25:18 +0000 2013",
+        "description": "Representing Florida's 3rd Congressional District; large animal veterinarian; conservative business owner; Member of @HouseForeignGOP  & @HouseAgGOP Committees",
+        "favourites_count": 147,
+        "followers_count": 32275,
+        "friends_count": 309,
+        "id": 1071900114,
+        "id_str": "1071900114",
+        "listed_count": 913,
+        "name": "Ted Yoho",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071900114/1368207742",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTedYoho",
+        "statuses_count": 1411,
+        "url": "https://t.co/9wBRsUS6FX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 523397097,
+            "id_str": "523397097",
+            "name": "ESCA",
+            "screen_name": "EmployeesOwn"
+        },
+        {
+            "id": 1071900114,
+            "id_str": "1071900114",
+            "name": "Ted Yoho",
+            "screen_name": "RepTedYoho"
+        }
+    ]
+}

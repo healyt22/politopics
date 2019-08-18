@@ -1,0 +1,101 @@
+{
+    "created_at": "Mon Jun 24 22:14:31 +0000 2019",
+    "favorite_count": 529,
+    "hashtags": [],
+    "id": 1143281272757936130,
+    "id_str": "1143281272757936130",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/WInMcPqi05",
+            "expanded_url": "https://twitter.com/WhipClyburn/status/1143281272757936130/video/1",
+            "id": 1143280386803425281,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1143280386803425281/img/YVIN8yWvLNOzyje-.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1143280386803425281/img/YVIN8yWvLNOzyje-.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/WInMcPqi05",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 148799,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143280386803425281/vid/1280x720/xd0jSvE7WbJoOat8.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143280386803425281/vid/480x270/P_3BjyjmKbgejGQi.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1143280386803425281/pl/QAy1q0R8UEjEKo-E.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1143280386803425281/vid/640x360/_rZOBwSyq5Tn3E4n.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 63,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Wishing my wonderful wife of 58 years, Ms. Emily, a happy anniversary today. https://t.co/WInMcPqi05",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 07 18:50:22 +0000 2010",
+        "description": "Majority Whip in the U.S. House of Representatives; representing South Carolina's 6th District.",
+        "favourites_count": 920,
+        "followers_count": 71155,
+        "friends_count": 1576,
+        "id": 188019606,
+        "id_str": "188019606",
+        "listed_count": 1820,
+        "location": "Washington, DC",
+        "name": "James E. Clyburn",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/188019606/1547745502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093201526573748224/v1NrvNKu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093201526573748224/v1NrvNKu_normal.jpg",
+        "profile_link_color": "00A7C4",
+        "profile_sidebar_border_color": "002B6B",
+        "profile_sidebar_fill_color": "3D4259",
+        "profile_text_color": "FFFAFF",
+        "profile_use_background_image": true,
+        "screen_name": "WhipClyburn",
+        "statuses_count": 2883,
+        "url": "https://t.co/uCL4fDYXSY",
+        "verified": true
+    },
+    "user_mentions": []
+}

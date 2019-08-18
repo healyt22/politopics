@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed May 01 21:33:29 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1123702001215447041,
+    "id_str": "1123702001215447041",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed May 01 17:40:51 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "ABAFlyIn2019"
+            }
+        ],
+        "id": 1123643458021883905,
+        "id_str": "1123643458021883905",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xL4px8uQ0l",
+                "expanded_url": "https://twitter.com/WIBevAssoc/status/1123643458021883905/photo/1",
+                "id": 1123643452246380545,
+                "media_url": "http://pbs.twimg.com/media/D5f7xDlW0AEqZAI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D5f7xDlW0AEqZAI.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 601,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1026,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 341,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/xL4px8uQ0l"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Thank you @RepGallagher for taking time to meet with Wisconsin beverage industry leaders. #ABAFlyIn2019 https://t.co/xL4px8uQ0l",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Nov 30 21:53:30 +0000 2010",
+            "description": "Wisconsin Beverage Association is a Trade Association that reps the non-alcoholic beverage industry, including producers, distributors and franchise companies.",
+            "favourites_count": 132,
+            "followers_count": 133,
+            "friends_count": 151,
+            "id": 221517870,
+            "id_str": "221517870",
+            "listed_count": 3,
+            "location": "Madison, Wisconsin",
+            "name": "WI Beverage Assoc.",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/221517870/1455081772",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/697289295854465024/d4Ur-bix_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/697289295854465024/d4Ur-bix_normal.png",
+            "profile_link_color": "0A1F62",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "WIBevAssoc",
+            "statuses_count": 85,
+            "url": "https://t.co/d5iv62fuWY"
+        },
+        "user_mentions": [
+            {
+                "id": 815966620300480514,
+                "id_str": "815966620300480514",
+                "name": "Rep. Mike Gallagher",
+                "screen_name": "RepGallagher"
+            }
+        ]
+    },
+    "quoted_status_id": 1123643458021883905,
+    "quoted_status_id_str": "1123643458021883905",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thanks for stopping by! https://t.co/XTFodFDwey",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/WIBevAssoc/status/1123643458021883905",
+            "url": "https://t.co/XTFodFDwey"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 02 17:02:57 +0000 2017",
+        "default_profile": true,
+        "description": "Green Bay Native, Marine Veteran, and Eisenhower Nerd proudly representing #WI08 in Congress. #GoPackGo. https://t.co/D2ANAop3fA",
+        "favourites_count": 166,
+        "followers_count": 15831,
+        "friends_count": 403,
+        "geo_enabled": true,
+        "id": 815966620300480514,
+        "id_str": "815966620300480514",
+        "listed_count": 444,
+        "location": "Green Bay, WI",
+        "name": "Rep. Mike Gallagher",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815966620300480514/1539873451",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819978410038624266/0Df5fXvA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819978410038624266/0Df5fXvA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepGallagher",
+        "statuses_count": 2443,
+        "url": "https://t.co/uBDJgXRW2D",
+        "verified": true
+    },
+    "user_mentions": []
+}

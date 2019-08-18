@@ -1,0 +1,152 @@
+{
+    "created_at": "Wed Jun 12 17:08:06 +0000 2019",
+    "hashtags": [],
+    "id": 1138855508025196544,
+    "id_str": "1138855508025196544",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Jun 12 16:59:00 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1138853216022683648,
+        "id_str": "1138853216022683648",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you to the office of @SusanWBrooks for meeting with us  &amp; @bgchuntington about the power of afterschool AND y\u2026 https://t.co/XPvw7oqzGV",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1138853216022683648",
+                "url": "https://t.co/XPvw7oqzGV"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 17 20:55:23 +0000 2014",
+            "description": "Our vision is that all Indiana youth have access to high quality OST opportunities that prepare them for success in school, college, careers & life.",
+            "favourites_count": 5745,
+            "followers_count": 1245,
+            "friends_count": 1067,
+            "geo_enabled": true,
+            "id": 2349059168,
+            "id_str": "2349059168",
+            "listed_count": 41,
+            "location": "Indiana",
+            "name": "Indiana Afterschool",
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2349059168/1556025749",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/435519913705218048/IJr-Tc5w_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/435519913705218048/IJr-Tc5w_normal.jpeg",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "INafterschool",
+            "statuses_count": 3159,
+            "url": "http://t.co/6eWOUsdIfP"
+        },
+        "user_mentions": [
+            {
+                "id": 1074101017,
+                "id_str": "1074101017",
+                "name": "Susan W. Brooks",
+                "screen_name": "SusanWBrooks"
+            },
+            {
+                "id": 174264509,
+                "id_str": "174264509",
+                "name": "Boys & Girls Club",
+                "screen_name": "bgchuntington"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @INafterschool: Thank you to the office of @SusanWBrooks for meeting with us  &amp; @bgchuntington about the power of afterschool AND your c\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 09 15:30:38 +0000 2013",
+        "description": "Serving the good people of Indiana\u2019s 5th District in Congress. Facebook: https://t.co/GSC0yQ0KXW Instagram & Snapchat: @susanwbrooks",
+        "favourites_count": 1085,
+        "followers_count": 21619,
+        "friends_count": 1286,
+        "geo_enabled": true,
+        "id": 1074101017,
+        "id_str": "1074101017",
+        "listed_count": 834,
+        "name": "Susan W. Brooks",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074101017/1399049517",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/971850596956372995/KWSTHxQb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/971850596956372995/KWSTHxQb_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SusanWBrooks",
+        "statuses_count": 6552,
+        "url": "https://t.co/JSQOTU8q0S",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2349059168,
+            "id_str": "2349059168",
+            "name": "Indiana Afterschool",
+            "screen_name": "INafterschool"
+        },
+        {
+            "id": 1074101017,
+            "id_str": "1074101017",
+            "name": "Susan W. Brooks",
+            "screen_name": "SusanWBrooks"
+        },
+        {
+            "id": 174264509,
+            "id_str": "174264509",
+            "name": "Boys & Girls Club",
+            "screen_name": "bgchuntington"
+        }
+    ]
+}

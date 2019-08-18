@@ -1,0 +1,83 @@
+{
+    "created_at": "Thu Aug 01 21:08:30 +0000 2019",
+    "favorite_count": 24,
+    "hashtags": [
+        {
+            "text": "MuslimCommunity"
+        }
+    ],
+    "id": 1157035397266006026,
+    "id_str": "1157035397266006026",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/EiSQfsQDCb",
+            "expanded_url": "https://twitter.com/BradSherman/status/1157035397266006026/photo/1",
+            "id": 1157035393285611521,
+            "media_url": "http://pbs.twimg.com/media/EA6dj1lX4AECVsE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EA6dj1lX4AECVsE.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/EiSQfsQDCb"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Good to have lunch at @brentsdeli with Mohammed Khan - a leader in the San Fernando Valley #MuslimCommunity. https://t.co/EiSQfsQDCb",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 13:38:03 +0000 2009",
+        "description": "Proudly serving California's San Fernando Valley in the U.S. Congress. Admission: Some tweets are prepared by my staff on my behalf. RTs are not an endorsement.",
+        "favourites_count": 21,
+        "followers_count": 48097,
+        "friends_count": 667,
+        "id": 30216513,
+        "id_str": "30216513",
+        "listed_count": 1301,
+        "location": "Sherman Oaks, CA",
+        "name": "Rep. Brad Sherman",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30216513/1548176559",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/938782994591916032/BQlooFe5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/938782994591916032/BQlooFe5_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "screen_name": "BradSherman",
+        "statuses_count": 2095,
+        "url": "https://t.co/SyFUwfPtR8",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 343678624,
+            "id_str": "343678624",
+            "name": "Brent's Deli",
+            "screen_name": "brentsdeli"
+        }
+    ]
+}

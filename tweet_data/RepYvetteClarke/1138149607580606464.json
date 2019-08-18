@@ -1,0 +1,153 @@
+{
+    "created_at": "Mon Jun 10 18:23:06 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [],
+    "id": 1138149607580606464,
+    "id_str": "1138149607580606464",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jun 10 18:14:39 +0000 2019",
+        "favorite_count": 77,
+        "hashtags": [],
+        "id": 1138147478170198017,
+        "id_str": "1138147478170198017",
+        "in_reply_to_screen_name": "MSNBC",
+        "in_reply_to_status_id": 1138146071044079618,
+        "in_reply_to_user_id": 2836421,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/FYsSXK7lIY",
+                "expanded_url": "https://twitter.com/MSNBC/status/1138147478170198017/video/1",
+                "id": 1138147310855176192,
+                "media_url": "http://pbs.twimg.com/media/D8uDF3kWkAQLpts.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D8uDF3kWkAQLpts.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/FYsSXK7lIY",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 76377,
+                    "variants": [
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138147310855176192/vid/480x270/8DIbZhLCvBMdEmyX.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1138147310855176192/pl/eH3x-J9mS96XCxFX.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138147310855176192/vid/1280x720/Pr3_iOICQmFHHAzl.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1138147310855176192/vid/640x360/TNBgoatpk0f9nb2R.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 120,
+        "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+        "text": "BREAKING: FDNY: Helicopter has crashed into a building in Midtown Manhattan. https://t.co/FYsSXK7lIY",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Mar 29 13:15:41 +0000 2007",
+            "description": "The place for in-depth analysis, political commentary and informed perspectives.",
+            "favourites_count": 697,
+            "followers_count": 2605547,
+            "friends_count": 645,
+            "geo_enabled": true,
+            "id": 2836421,
+            "id_str": "2836421",
+            "listed_count": 22788,
+            "name": "MSNBC",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836421/1562086301",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+            "profile_link_color": "0CB1C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "MSNBC",
+            "statuses_count": 175022,
+            "url": "https://t.co/5TAF6ijWwt",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1138147478170198017,
+    "quoted_status_id_str": "1138147478170198017",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "As we learn of details of this crash\u2014keeping my fellow New Yorkers in my thoughts and prayers. We are resilient. \ud83d\ude4f\ud83c\udffe\u2026 https://t.co/xmilonoDwa",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1138149607580606464",
+            "url": "https://t.co/xmilonoDwa"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 20 20:14:21 +0000 2011",
+        "default_profile": true,
+        "description": "Representing New York\u2019s 9th Congressional District. Brooklyn bred. Vice Chair of @EnergyCommerce // press: sarah.sinovic@mail.house.gov",
+        "favourites_count": 7493,
+        "followers_count": 62114,
+        "friends_count": 3852,
+        "geo_enabled": true,
+        "id": 240812994,
+        "id_str": "240812994",
+        "listed_count": 1469,
+        "location": "Brooklyn, NY",
+        "name": "Yvette D. Clarke",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240812994/1554211887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999351152129884162/a1p9rErQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/999351152129884162/a1p9rErQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepYvetteClarke",
+        "statuses_count": 12470,
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,206 @@
+{
+    "created_at": "Tue Jun 25 18:54:10 +0000 2019",
+    "hashtags": [],
+    "id": 1143593244036608000,
+    "id_str": "1143593244036608000",
+    "lang": "en",
+    "quoted_status_id": 1143528392471523328,
+    "quoted_status_id_str": "1143528392471523328",
+    "retweet_count": 18,
+    "retweeted_status": {
+        "created_at": "Tue Jun 25 16:10:04 +0000 2019",
+        "favorite_count": 47,
+        "hashtags": [],
+        "id": 1143551943928877056,
+        "id_str": "1143551943928877056",
+        "lang": "en",
+        "place": {
+            "id": "3df4f427b5a60fea",
+            "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+            "place_type": "city",
+            "name": "San Antonio",
+            "full_name": "San Antonio, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -98.778559,
+                            29.141956
+                        ],
+                        [
+                            -98.302744,
+                            29.141956
+                        ],
+                        [
+                            -98.302744,
+                            29.693046
+                        ],
+                        [
+                            -98.778559,
+                            29.693046
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Tue Jun 25 14:36:29 +0000 2019",
+            "favorite_count": 56,
+            "hashtags": [],
+            "id": 1143528392471523328,
+            "id_str": "1143528392471523328",
+            "lang": "en",
+            "retweet_count": 30,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Domestic violence is a crisis. And addressing it requires cooperation from partners across our community. That is w\u2026 https://t.co/0YwdR6TwXP",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1143528392471523328",
+                    "url": "https://t.co/0YwdR6TwXP"
+                }
+            ],
+            "user": {
+                "created_at": "Wed Jun 09 23:53:50 +0000 2010",
+                "description": "Representing communities from San Antonio to Austin. Chairman of the Health Subcommittee on the House Ways & Means Committee.",
+                "favourites_count": 276,
+                "followers_count": 34465,
+                "friends_count": 501,
+                "geo_enabled": true,
+                "id": 153944899,
+                "id_str": "153944899",
+                "listed_count": 1350,
+                "location": "Texas",
+                "name": "Lloyd Doggett",
+                "profile_background_color": "B2DFDA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/153944899/1541168154",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2512072298/x393d17j8ghxhd4aieu2_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2512072298/x393d17j8ghxhd4aieu2_normal.jpeg",
+                "profile_link_color": "002566",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "RepLloydDoggett",
+                "statuses_count": 7841,
+                "url": "http://t.co/ukPGmJS3hB",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1143528392471523328,
+        "quoted_status_id_str": "1143528392471523328",
+        "retweet_count": 18,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "A critically important conversation for our community. \n\nThank you @RepLloydDoggett &amp; @JoaquinCastrotx for elevatin\u2026 https://t.co/ao8Pzef2oB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143551943928877056",
+                "url": "https://t.co/ao8Pzef2oB"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 11 14:57:14 +0000 2009",
+            "description": "Husband, father and San Antonio Mayor. We\u2019re building the city you deserve. #GoSpursGo",
+            "favourites_count": 5757,
+            "followers_count": 20100,
+            "friends_count": 1408,
+            "geo_enabled": true,
+            "id": 23773465,
+            "id_str": "23773465",
+            "listed_count": 220,
+            "location": "San Antonio, Texas",
+            "name": "Mayor Ron Nirenberg",
+            "profile_background_color": "03175E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23773465/1536030852",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974461476231569408/eGfLgujY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974461476231569408/eGfLgujY_normal.jpg",
+            "profile_link_color": "03175E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "screen_name": "Ron_Nirenberg",
+            "statuses_count": 7222,
+            "url": "https://t.co/EdN1FHftsS",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 153944899,
+                "id_str": "153944899",
+                "name": "Lloyd Doggett",
+                "screen_name": "RepLloydDoggett"
+            },
+            {
+                "id": 231510077,
+                "id_str": "231510077",
+                "name": "Joaquin Castro",
+                "screen_name": "JoaquinCastrotx"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @Ron_Nirenberg: A critically important conversation for our community. \n\nThank you @RepLloydDoggett &amp; @JoaquinCastrotx for elevating the\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+        "description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of Intelligence and @EdLaborCmte Commitees; host of @DiploCable.",
+        "favourites_count": 5660,
+        "followers_count": 182186,
+        "friends_count": 1891,
+        "geo_enabled": true,
+        "id": 231510077,
+        "id_str": "231510077",
+        "listed_count": 2351,
+        "location": "San Antonio, Texas",
+        "name": "Joaquin Castro",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JoaquinCastrotx",
+        "statuses_count": 14753,
+        "url": "http://t.co/SBuEnv1k",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 23773465,
+            "id_str": "23773465",
+            "name": "Mayor Ron Nirenberg",
+            "screen_name": "Ron_Nirenberg"
+        },
+        {
+            "id": 153944899,
+            "id_str": "153944899",
+            "name": "Lloyd Doggett",
+            "screen_name": "RepLloydDoggett"
+        },
+        {
+            "id": 231510077,
+            "id_str": "231510077",
+            "name": "Joaquin Castro",
+            "screen_name": "JoaquinCastrotx"
+        }
+    ]
+}

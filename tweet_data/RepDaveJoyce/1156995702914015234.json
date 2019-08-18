@@ -1,0 +1,87 @@
+{
+    "created_at": "Thu Aug 01 18:30:46 +0000 2019",
+    "favorite_count": 10,
+    "hashtags": [],
+    "id": 1156995702914015234,
+    "id_str": "1156995702914015234",
+    "lang": "en",
+    "place": {
+        "id": "249bc600a1b6bb6a",
+        "url": "https://api.twitter.com/1.1/geo/id/249bc600a1b6bb6a.json",
+        "place_type": "city",
+        "name": "Aurora",
+        "full_name": "Aurora, OH",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -81.391771,
+                        41.275668
+                    ],
+                    [
+                        -81.310528,
+                        41.275668
+                    ],
+                    [
+                        -81.310528,
+                        41.348308
+                    ],
+                    [
+                        -81.391771,
+                        41.348308
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Made my way to @waysideworkshop\u2019s new location - a historic home built in 1838. Thanks to Ken and Jane for showing\u2026 https://t.co/B8aW8pR2Ai",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1156995702914015234",
+            "url": "https://t.co/B8aW8pR2Ai"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 28 21:12:14 +0000 2012",
+        "description": "Father, husband, and former prosecutor proudly representing #OH14",
+        "favourites_count": 531,
+        "followers_count": 20865,
+        "friends_count": 2524,
+        "geo_enabled": true,
+        "id": 976969338,
+        "id_str": "976969338",
+        "listed_count": 622,
+        "location": "Washington, DC",
+        "name": "Dave Joyce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/976969338/1494534964",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/471370204589469696/jzOCXHSW_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/471370204589469696/jzOCXHSW_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepDaveJoyce",
+        "statuses_count": 4385,
+        "url": "http://t.co/w7lVGg29p2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 38925650,
+            "id_str": "38925650",
+            "name": "Wayside Workshop",
+            "screen_name": "waysideworkshop"
+        }
+    ]
+}

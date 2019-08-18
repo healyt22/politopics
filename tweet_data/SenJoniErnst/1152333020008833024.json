@@ -1,0 +1,83 @@
+{
+    "created_at": "Fri Jul 19 21:42:55 +0000 2019",
+    "favorite_count": 36,
+    "hashtags": [],
+    "id": 1152333020008833024,
+    "id_str": "1152333020008833024",
+    "in_reply_to_screen_name": "SenJoniErnst",
+    "in_reply_to_status_id": 1152333008453722112,
+    "in_reply_to_user_id": 2856787757,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/GaHUUaq6gJ",
+            "expanded_url": "https://twitter.com/SenJoniErnst/status/1152333020008833024/photo/1",
+            "id": 1152333010760622086,
+            "media_url": "http://pbs.twimg.com/media/D_3oxJlX4AYum1J.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_3oxJlX4AYum1J.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1878,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 1100,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 624,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/GaHUUaq6gJ"
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "It was great to be with Alli, and other kids from @NFED_org to hear their stories. Thanks for all that you do! https://t.co/GaHUUaq6gJ",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Nov 02 13:32:54 +0000 2014",
+        "description": "Follow for news and updates from the Office of Iowa Senator Joni K. Ernst. Tweets from Joni are signed JKE.",
+        "favourites_count": 140,
+        "followers_count": 63345,
+        "friends_count": 146,
+        "geo_enabled": true,
+        "id": 2856787757,
+        "id_str": "2856787757",
+        "listed_count": 1256,
+        "location": "Iowa",
+        "name": "Joni Ernst",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856787757/1458665236",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088183053669855232/GVWfopWd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088183053669855232/GVWfopWd_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "SenJoniErnst",
+        "statuses_count": 3139,
+        "url": "http://t.co/zUYK5PQEOd",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 303452790,
+            "id_str": "303452790",
+            "name": "NFED",
+            "screen_name": "NFED_ORG"
+        }
+    ]
+}

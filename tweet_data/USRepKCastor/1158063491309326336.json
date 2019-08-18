@@ -1,0 +1,133 @@
+{
+    "created_at": "Sun Aug 04 17:13:46 +0000 2019",
+    "favorite_count": 39,
+    "hashtags": [
+        {
+            "text": "Florida"
+        }
+    ],
+    "id": 1158063491309326336,
+    "id_str": "1158063491309326336",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun Aug 04 12:17:14 +0000 2019",
+        "favorite_count": 300,
+        "hashtags": [],
+        "id": 1157988866139328522,
+        "id_str": "1157988866139328522",
+        "lang": "en",
+        "place": {
+            "id": "5d231ed8656fcf5a",
+            "url": "https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json",
+            "place_type": "city",
+            "name": "St Petersburg",
+            "full_name": "St Petersburg, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.758209,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.8971155
+                        ],
+                        [
+                            -82.758209,
+                            27.8971155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 272,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This week, the country mourns mass killings at the hands of 3 men w military-style firearms. \n\nAlso this week, Flor\u2026 https://t.co/LHIAcQ1fqD",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1157988866139328522",
+                "url": "https://t.co/LHIAcQ1fqD"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 03 01:05:20 +0000 2008",
+            "description": "Political editor for the @TB_Times. Covering power, politics and influence in the Sunshine State. \n\nI'm on Signal: 813-438-3481. DMs are open.",
+            "favourites_count": 4882,
+            "followers_count": 6383,
+            "friends_count": 3224,
+            "geo_enabled": true,
+            "id": 17824322,
+            "id_str": "17824322",
+            "listed_count": 343,
+            "location": "Tampa, Florida",
+            "name": "Steve Contorno",
+            "profile_background_color": "BEFFA8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17824322/1516848018",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1154420818115534853/DXAZPQvP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154420818115534853/DXAZPQvP_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "CCCCCC",
+            "profile_text_color": "000000",
+            "screen_name": "scontorno",
+            "statuses_count": 29672,
+            "url": "https://t.co/u2jDQgy6Ru",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1157988866139328522,
+    "quoted_status_id_str": "1157988866139328522",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83d\ude4b\ud83c\udffd\u200d\u2640\ufe0f #Florida! Let\u2019s give our kids and families a fighting chance ... if elected Republicans refuse to ban militar\u2026 https://t.co/0Yn4vlkG8X",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1158063491309326336",
+            "url": "https://t.co/0Yn4vlkG8X"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 18 20:03:57 +0000 2013",
+        "default_profile": true,
+        "description": "Tampa Bay's Congresswoman \ud83c\uddfa\ud83c\uddf8 Chair of the Select Committee on the Climate Crisis",
+        "favourites_count": 3240,
+        "followers_count": 19031,
+        "friends_count": 4212,
+        "geo_enabled": true,
+        "id": 1880674038,
+        "id_str": "1880674038",
+        "listed_count": 862,
+        "name": "US Rep Kathy Castor",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880674038/1566066399",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148730766270128128/KkoP7wlR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148730766270128128/KkoP7wlR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "USRepKCastor",
+        "statuses_count": 6274,
+        "url": "https://t.co/H9etkVQGX3",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,116 @@
+{
+    "created_at": "Tue Feb 13 23:34:42 +0000 2018",
+    "hashtags": [],
+    "id": 963557073417064450,
+    "id_str": "963557073417064450",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Tue Feb 06 15:41:17 +0000 2018",
+        "favorite_count": 16,
+        "hashtags": [],
+        "id": 960901216602607617,
+        "id_str": "960901216602607617",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thanks to Congressman @PeterRoskam for taking time to hear from local brewers and to @EmmettsBeer for hosting us!\u2026 https://t.co/nAlnHUKK2a",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/960901216602607617",
+                "url": "https://t.co/nAlnHUKK2a"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 25 19:35:52 +0000 2012",
+            "description": "The ICBG is a nonprofit organization supporting the growth and expansion of the Illinois craft beer industry. Proud hosts of @ILCraftBeerWeek and @FoBABOfficial",
+            "favourites_count": 3669,
+            "followers_count": 12463,
+            "friends_count": 1755,
+            "geo_enabled": true,
+            "id": 474219907,
+            "id_str": "474219907",
+            "listed_count": 346,
+            "location": "#DrinkIllinois",
+            "name": "IL Craft Brewers Guild",
+            "profile_background_color": "0A0808",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/474219907/1564064214",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/837086188880203777/BncB0AiL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/837086188880203777/BncB0AiL_normal.jpg",
+            "profile_link_color": "0099CC",
+            "profile_sidebar_border_color": "FFF8AD",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "screen_name": "IllinoisBeer",
+            "statuses_count": 8512,
+            "url": "https://t.co/vvE8v8EtcG"
+        },
+        "user_mentions": [
+            {
+                "id": 20015903,
+                "id_str": "20015903",
+                "name": "Peter Roskam",
+                "screen_name": "PeterRoskam"
+            },
+            {
+                "id": 45676907,
+                "id_str": "45676907",
+                "name": "Emmett's Brewing Co.",
+                "screen_name": "EmmettsBeer"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @IllinoisBeer: Thanks to Congressman @PeterRoskam for taking time to hear from local brewers and to @EmmettsBeer for hosting us! #smallb\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 04 00:11:56 +0000 2009",
+        "description": "Husband, father, and former U.S. Representative for the 6th District of Illinois.",
+        "favourites_count": 694,
+        "followers_count": 29134,
+        "friends_count": 4449,
+        "geo_enabled": true,
+        "id": 20015903,
+        "id_str": "20015903",
+        "listed_count": 1458,
+        "location": "Wheaton, IL",
+        "name": "Peter Roskam",
+        "profile_background_color": "083B9B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20015903/1491251027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819282338651766784/5VWiVBcS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819282338651766784/5VWiVBcS_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "F10E13",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "E40C19",
+        "profile_use_background_image": true,
+        "screen_name": "PeterRoskam",
+        "statuses_count": 7064,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 474219907,
+            "id_str": "474219907",
+            "name": "IL Craft Brewers Guild",
+            "screen_name": "IllinoisBeer"
+        },
+        {
+            "id": 20015903,
+            "id_str": "20015903",
+            "name": "Peter Roskam",
+            "screen_name": "PeterRoskam"
+        },
+        {
+            "id": 45676907,
+            "id_str": "45676907",
+            "name": "Emmett's Brewing Co.",
+            "screen_name": "EmmettsBeer"
+        }
+    ]
+}

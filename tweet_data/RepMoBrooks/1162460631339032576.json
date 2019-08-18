@@ -1,0 +1,118 @@
+{
+    "created_at": "Fri Aug 16 20:26:26 +0000 2019",
+    "hashtags": [],
+    "id": 1162460631339032576,
+    "id_str": "1162460631339032576",
+    "lang": "en",
+    "retweet_count": 280,
+    "retweeted_status": {
+        "created_at": "Fri Aug 16 19:10:36 +0000 2019",
+        "favorite_count": 1464,
+        "hashtags": [],
+        "id": 1162441546689630209,
+        "id_str": "1162441546689630209",
+        "lang": "en",
+        "retweet_count": 280,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "LIVE from @NASA_Marshall: I\u2019m making an important announcement about @NASA\u2019s plans to return to the Moon as a part\u2026 https://t.co/PjtMwa3RcU",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1162441546689630209",
+                "url": "https://t.co/PjtMwa3RcU"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 27 00:32:51 +0000 2011",
+            "default_profile": true,
+            "description": "@NASA Administrator. Husband. Father. Veteran. https://t.co/zjlQuVy4s1",
+            "favourites_count": 1171,
+            "followers_count": 64063,
+            "friends_count": 412,
+            "id": 243418245,
+            "id_str": "243418245",
+            "listed_count": 562,
+            "location": "Washington, DC",
+            "name": "Jim Bridenstine",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/243418245/1552484485",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1154488953917104130/qujJzZ6d_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154488953917104130/qujJzZ6d_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "JimBridenstine",
+            "statuses_count": 1193,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 28184452,
+                "id_str": "28184452",
+                "name": "NASA Marshall",
+                "screen_name": "NASA_Marshall"
+            },
+            {
+                "id": 11348282,
+                "id_str": "11348282",
+                "name": "NASA",
+                "screen_name": "NASA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JimBridenstine: LIVE from @NASA_Marshall: I\u2019m making an important announcement about @NASA\u2019s plans to return to the Moon as a part of t\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 12 14:46:14 +0000 2011",
+        "description": "Thanks for following me. I'm the Congressman for Alabama's Fifth District and this is my official Twitter page. It's an honor to serve you.",
+        "favourites_count": 788,
+        "followers_count": 33313,
+        "friends_count": 2783,
+        "geo_enabled": true,
+        "id": 237299871,
+        "id_str": "237299871",
+        "listed_count": 1263,
+        "location": "Alabama",
+        "name": "Mo Brooks",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237299871/1408038766",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3253062018/1745ec9085ff4db219c69bd7ffb2e7fc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3253062018/1745ec9085ff4db219c69bd7ffb2e7fc_normal.jpeg",
+        "profile_link_color": "27BAF0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoBrooks",
+        "statuses_count": 2666,
+        "url": "http://t.co/XErdLh9N6C",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 243418245,
+            "id_str": "243418245",
+            "name": "Jim Bridenstine",
+            "screen_name": "JimBridenstine"
+        },
+        {
+            "id": 28184452,
+            "id_str": "28184452",
+            "name": "NASA Marshall",
+            "screen_name": "NASA_Marshall"
+        },
+        {
+            "id": 11348282,
+            "id_str": "11348282",
+            "name": "NASA",
+            "screen_name": "NASA"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "created_at": "Fri Jul 19 17:53:49 +0000 2019",
+    "hashtags": [
+        {
+            "text": "NewDem"
+        }
+    ],
+    "id": 1152275364141588480,
+    "id_str": "1152275364141588480",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Thu Jul 18 19:41:51 +0000 2019",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "NewDem"
+            }
+        ],
+        "id": 1151940164073267200,
+        "id_str": "1151940164073267200",
+        "in_reply_to_screen_name": "NewDemCoalition",
+        "in_reply_to_status_id": 1151940162609438720,
+        "in_reply_to_user_id": 761783018,
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "The second Economic Policy Pitch Day poll includes pitches from #NewDem @RepDeanPhillips, @RepBillFoster,\u2026 https://t.co/tZzmh9cXLI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151940164073267200",
+                "url": "https://t.co/tZzmh9cXLI"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 16 15:42:06 +0000 2012",
+            "description": "The New Democrat Coalition is committed to pro-growth, innovative, and fiscally-responsible policies. We believe in ideas over ideology.",
+            "favourites_count": 2920,
+            "followers_count": 8022,
+            "friends_count": 4364,
+            "id": 761783018,
+            "id_str": "761783018",
+            "listed_count": 241,
+            "location": "U.S. House of Representatives",
+            "name": "New Dem Coalition",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/761783018/1546638645",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151231626132635648/DnnbR6So_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151231626132635648/DnnbR6So_normal.png",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NewDemCoalition",
+            "statuses_count": 7678,
+            "url": "https://t.co/zpAzSMQTQq",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1061310112013434882,
+                "id_str": "1061310112013434882",
+                "name": "Rep. Dean Phillips",
+                "screen_name": "RepDeanPhillips"
+            },
+            {
+                "id": 1080509366,
+                "id_str": "1080509366",
+                "name": "Bill Foster",
+                "screen_name": "RepBillFoster"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @NewDemCoalition: The second Economic Policy Pitch Day poll includes pitches from #NewDem @RepDeanPhillips, @RepBillFoster, @RepSchneide\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 19:59:14 +0000 2013",
+        "description": "Proud to represent the people of Illinois's 10th Congressional District",
+        "favourites_count": 506,
+        "followers_count": 10125,
+        "friends_count": 1057,
+        "geo_enabled": true,
+        "id": 1071840474,
+        "id_str": "1071840474",
+        "listed_count": 619,
+        "location": "Illinois",
+        "name": "Rep. Brad Schneider",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071840474/1501254950",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3083482784/f26ee35aa027b535f85aa43da1188d02_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3083482784/f26ee35aa027b535f85aa43da1188d02_normal.jpeg",
+        "profile_link_color": "137D13",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSchneider",
+        "statuses_count": 3786,
+        "url": "http://t.co/sVfHx7ZP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 761783018,
+            "id_str": "761783018",
+            "name": "New Dem Coalition",
+            "screen_name": "NewDemCoalition"
+        },
+        {
+            "id": 1061310112013434882,
+            "id_str": "1061310112013434882",
+            "name": "Rep. Dean Phillips",
+            "screen_name": "RepDeanPhillips"
+        },
+        {
+            "id": 1080509366,
+            "id_str": "1080509366",
+            "name": "Bill Foster",
+            "screen_name": "RepBillFoster"
+        }
+    ]
+}

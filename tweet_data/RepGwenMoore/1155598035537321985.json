@@ -1,0 +1,107 @@
+{
+    "created_at": "Sun Jul 28 21:56:56 +0000 2019",
+    "favorite_count": 19,
+    "hashtags": [],
+    "id": 1155598035537321985,
+    "id_str": "1155598035537321985",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 24 17:31:56 +0000 2019",
+        "favorite_count": 31,
+        "hashtags": [
+            {
+                "text": "MuellerHearings"
+            }
+        ],
+        "id": 1154081794427432960,
+        "id_str": "1154081794427432960",
+        "lang": "en",
+        "quoted_status_id": 1154021910033907714,
+        "quoted_status_id_str": "1154021910033907714",
+        "retweet_count": 15,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "This can't be ignored. \n\n#MuellerHearings https://t.co/qLOf9OPxfC",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/CNN/status/1154021910033907714",
+                "url": "https://t.co/qLOf9OPxfC"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 03 20:02:57 +0000 2009",
+            "description": "Honored to represent Wisconsin\u2019s 4th Congressional District. Proud mother, grandmother & great-grandmother. Loves poetry reading, knitting & crocheting.",
+            "favourites_count": 939,
+            "followers_count": 36914,
+            "friends_count": 2716,
+            "geo_enabled": true,
+            "id": 22669526,
+            "id_str": "22669526",
+            "listed_count": 1466,
+            "location": "Washington, DC",
+            "name": "Rep. Gwen Moore",
+            "profile_background_color": "223968",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22669526/1554391426",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/981240264747634688/v84wIURO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/981240264747634688/v84wIURO_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "DC975E",
+            "profile_sidebar_fill_color": "DFAB58",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "RepGwenMoore",
+            "statuses_count": 7049,
+            "url": "https://t.co/ebeaMlYpu3",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1154081794427432960,
+    "quoted_status_id_str": "1154081794427432960",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Clearly @RepRatcliffe used the Mueller hearings as an opportunity to audition for a cabinet position. https://t.co/ERtheB5rUX",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RepGwenMoore/status/1154081794427432960",
+            "url": "https://t.co/ERtheB5rUX"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Mar 03 20:02:57 +0000 2009",
+        "description": "Honored to represent Wisconsin\u2019s 4th Congressional District. Proud mother, grandmother & great-grandmother. Loves poetry reading, knitting & crocheting.",
+        "favourites_count": 939,
+        "followers_count": 36914,
+        "friends_count": 2716,
+        "geo_enabled": true,
+        "id": 22669526,
+        "id_str": "22669526",
+        "listed_count": 1466,
+        "location": "Washington, DC",
+        "name": "Rep. Gwen Moore",
+        "profile_background_color": "223968",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22669526/1554391426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981240264747634688/v84wIURO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981240264747634688/v84wIURO_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "DC975E",
+        "profile_sidebar_fill_color": "DFAB58",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "screen_name": "RepGwenMoore",
+        "statuses_count": 7049,
+        "url": "https://t.co/ebeaMlYpu3",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2847221717,
+            "id_str": "2847221717",
+            "name": "John Ratcliffe",
+            "screen_name": "RepRatcliffe"
+        }
+    ]
+}

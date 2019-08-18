@@ -1,0 +1,150 @@
+{
+    "created_at": "Thu Jul 04 02:44:07 +0000 2019",
+    "favorite_count": 23,
+    "hashtags": [
+        {
+            "text": "utpol"
+        }
+    ],
+    "id": 1146610613587718144,
+    "id_str": "1146610613587718144",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/l71XY14TmM",
+            "expanded_url": "https://twitter.com/RepBenMcAdams/status/1146610613587718144/photo/1",
+            "id": 1146610598416809984,
+            "media_url": "http://pbs.twimg.com/media/D-mUQ6ZVAAAxThx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-mUQ6ZVAAAxThx.jpg",
+            "sizes": {
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/l71XY14TmM"
+        },
+        {
+            "display_url": "pic.twitter.com/l71XY14TmM",
+            "expanded_url": "https://twitter.com/RepBenMcAdams/status/1146610613587718144/photo/1",
+            "id": 1146610598408359938,
+            "media_url": "http://pbs.twimg.com/media/D-mUQ6XUEAIx7wd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-mUQ6XUEAIx7wd.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/l71XY14TmM"
+        }
+    ],
+    "place": {
+        "id": "07d9c93b9f486001",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9c93b9f486001.json",
+        "place_type": "poi",
+        "name": "Rio Tinto Stadium",
+        "full_name": "Rio Tinto Stadium",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -111.89339589922467,
+                        40.58326731169179
+                    ],
+                    [
+                        -111.89339589922467,
+                        40.58326731169179
+                    ],
+                    [
+                        -111.89339589922467,
+                        40.58326731169179
+                    ],
+                    [
+                        -111.89339589922467,
+                        40.58326731169179
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Greeting veterans who will join me on the field at halftime! @realsaltlake #utpol https://t.co/l71XY14TmM",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 28 23:18:15 +0000 2010",
+        "description": "The official Twitter account for Utah's 4th Congressional District representative",
+        "favourites_count": 1021,
+        "followers_count": 10874,
+        "friends_count": 1106,
+        "geo_enabled": true,
+        "id": 196362083,
+        "id_str": "196362083",
+        "listed_count": 323,
+        "location": "Utah, USA",
+        "name": "Rep. Ben McAdams",
+        "profile_background_color": "7A3838",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196362083/1547180285",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_link_color": "702323",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBenMcAdams",
+        "statuses_count": 4200,
+        "url": "https://t.co/12wZyksOHt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17288520,
+            "id_str": "17288520",
+            "name": "Real Salt Lake",
+            "screen_name": "realsaltlake"
+        }
+    ]
+}

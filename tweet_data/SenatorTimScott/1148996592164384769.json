@@ -1,0 +1,139 @@
+{
+    "created_at": "Wed Jul 10 16:45:09 +0000 2019",
+    "favorite_count": 619,
+    "hashtags": [],
+    "id": 1148996592164384769,
+    "id_str": "1148996592164384769",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/6xUGh5yFJj",
+            "expanded_url": "https://twitter.com/SenatorTimScott/status/1148996592164384769/photo/1",
+            "id": 1148996575718510593,
+            "media_url": "http://pbs.twimg.com/media/D_IOTEfXkAEpRQi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_IOTEfXkAEpRQi.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 969,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1654,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 549,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/6xUGh5yFJj"
+        },
+        {
+            "display_url": "pic.twitter.com/6xUGh5yFJj",
+            "expanded_url": "https://twitter.com/SenatorTimScott/status/1148996592164384769/photo/1",
+            "id": 1148996575718498310,
+            "media_url": "http://pbs.twimg.com/media/D_IOTEfXYAYW-qH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_IOTEfXYAYW-qH.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 610,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1838,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 1077,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/6xUGh5yFJj"
+        }
+    ],
+    "place": {
+        "id": "07d9e38382088001",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e38382088001.json",
+        "place_type": "poi",
+        "name": "Hart Senate Building",
+        "full_name": "Hart Senate Building",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.00449881637981,
+                        38.892549690574846
+                    ],
+                    [
+                        -77.00449881637981,
+                        38.892549690574846
+                    ],
+                    [
+                        -77.00449881637981,
+                        38.892549690574846
+                    ],
+                    [
+                        -77.00449881637981,
+                        38.892549690574846
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 33,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "It\u2019s that time of year again \u2014 South Carolina peach delivery day. Hope my colleagues enjoy the nation\u2019s best \ud83c\udf51\ud83c\udf51! https://t.co/6xUGh5yFJj",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Nov 19 20:34:30 +0000 2010",
+        "description": "United States Senator from South Carolina",
+        "favourites_count": 1648,
+        "followers_count": 378192,
+        "friends_count": 3890,
+        "geo_enabled": true,
+        "id": 217543151,
+        "id_str": "217543151",
+        "listed_count": 3649,
+        "location": "South Carolina",
+        "name": "Tim Scott",
+        "profile_background_color": "E0DBC8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217543151/1550264874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_link_color": "606060",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EBE9DC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTimScott",
+        "statuses_count": 7971,
+        "url": "https://t.co/EoB6giYuOp",
+        "verified": true
+    },
+    "user_mentions": []
+}

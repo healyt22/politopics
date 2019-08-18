@@ -1,0 +1,115 @@
+{
+    "created_at": "Fri Jun 28 20:01:17 +0000 2019",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 1144697296963153920,
+    "id_str": "1144697296963153920",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jun 28 13:13:43 +0000 2019",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 1144594729553801216,
+        "id_str": "1144594729553801216",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks so much to outgoing @MayorSlyJames and to @MarkFunkhouser, Kay Barnes, @repcleaver, and Charles Wheeler for\u2026 https://t.co/BBO80TfPpG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1144594729553801216",
+                "url": "https://t.co/BBO80TfPpG"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 17 14:34:40 +0000 2013",
+            "default_profile": true,
+            "description": "Former longtime Kansas City Star reporter/Still a big believer in local news as force for community progress.",
+            "favourites_count": 632,
+            "followers_count": 2746,
+            "friends_count": 29,
+            "id": 1435819922,
+            "id_str": "1435819922",
+            "listed_count": 77,
+            "name": "LynnHorsley",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1435819922/1466116122",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/504312780862660608/M6WHp2Yw_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/504312780862660608/M6WHp2Yw_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "LynnHorsley",
+            "statuses_count": 7139,
+            "url": "https://t.co/uN3S4W3AKh",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 390176029,
+                "id_str": "390176029",
+                "name": "Sly James",
+                "screen_name": "MayorSlyJames"
+            },
+            {
+                "id": 30076150,
+                "id_str": "30076150",
+                "name": "Mark Funkhouser",
+                "screen_name": "MarkFunkhouser"
+            },
+            {
+                "id": 163570705,
+                "id_str": "163570705",
+                "name": "Rep. Emanuel Cleaver",
+                "screen_name": "repcleaver"
+            }
+        ]
+    },
+    "quoted_status_id": 1144594729553801216,
+    "quoted_status_id_str": "1144594729553801216",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Happy to sit down with you! \n\nIn case you missed it, you can find the story here:\nhttps://t.co/NAqmw2K5av https://t.co/JiyAblfwPx",
+    "urls": [
+        {
+            "expanded_url": "https://www.kcur.org/post/5-former-kansas-city-mayors-have-advice-mayor-elect-quinton-lucas#stream/0",
+            "url": "https://t.co/NAqmw2K5av"
+        },
+        {
+            "expanded_url": "https://twitter.com/LynnHorsley/status/1144594729553801216",
+            "url": "https://t.co/JiyAblfwPx"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jul 06 19:14:47 +0000 2010",
+        "description": "This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri's Fifth District.",
+        "favourites_count": 496,
+        "followers_count": 43007,
+        "friends_count": 1022,
+        "geo_enabled": true,
+        "id": 163570705,
+        "id_str": "163570705",
+        "listed_count": 1157,
+        "name": "Rep. Emanuel Cleaver",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163570705/1553799524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repcleaver",
+        "statuses_count": 6676,
+        "url": "https://t.co/dOfaqxI1gQ",
+        "verified": true
+    },
+    "user_mentions": []
+}

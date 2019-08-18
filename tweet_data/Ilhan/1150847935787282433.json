@@ -1,0 +1,120 @@
+{
+    "created_at": "Mon Jul 15 19:21:44 +0000 2019",
+    "favorite_count": 2056,
+    "hashtags": [],
+    "id": 1150847935787282433,
+    "id_str": "1150847935787282433",
+    "lang": "fr",
+    "quoted_status": {
+        "created_at": "Mon Jul 15 19:12:00 +0000 2019",
+        "favorite_count": 3056,
+        "hashtags": [],
+        "id": 1150845486460526592,
+        "id_str": "1150845486460526592",
+        "lang": "und",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zJgwo5CJlJ",
+                "expanded_url": "https://twitter.com/MSNBC/status/1150845486460526592/photo/1",
+                "id": 1150837629744816133,
+                "media_url": "http://pbs.twimg.com/media/D_iYuhMXoAU0ofc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_iYuhMXoAU0ofc.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/zJgwo5CJlJ"
+            }
+        ],
+        "retweet_count": 508,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "https://t.co/zJgwo5CJlJ",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Mar 29 13:15:41 +0000 2007",
+            "description": "The place for in-depth analysis, political commentary and informed perspectives.",
+            "favourites_count": 697,
+            "followers_count": 2605544,
+            "friends_count": 645,
+            "geo_enabled": true,
+            "id": 2836421,
+            "id_str": "2836421",
+            "listed_count": 22788,
+            "name": "MSNBC",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836421/1562086301",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+            "profile_link_color": "0CB1C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "MSNBC",
+            "statuses_count": 175022,
+            "url": "https://t.co/5TAF6ijWwt",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1150845486460526592,
+    "quoted_status_id_str": "1150845486460526592",
+    "retweet_count": 291,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Tune in! https://t.co/VZEjk928SI",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/MSNBC/status/1150845486460526592",
+            "url": "https://t.co/VZEjk928SI"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 07 17:53:13 +0000 2019",
+        "default_profile": true,
+        "description": "Representing Minnesota's 5th District in the People's House. @USProgressives Whip and Midwest Regional Whip.",
+        "favourites_count": 677,
+        "followers_count": 413733,
+        "friends_count": 320,
+        "geo_enabled": true,
+        "id": 1082334352711790593,
+        "id_str": "1082334352711790593",
+        "listed_count": 1275,
+        "location": "Minneapolis, MN and Washington, DC",
+        "name": "Rep. Ilhan Omar",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082334352711790593/1546985315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082685661621178373/ledtkemL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082685661621178373/ledtkemL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Ilhan",
+        "statuses_count": 1117,
+        "url": "https://t.co/etKOoQglhI",
+        "verified": true
+    },
+    "user_mentions": []
+}

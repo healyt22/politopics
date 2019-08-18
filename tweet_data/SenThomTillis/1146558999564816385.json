@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jul 03 23:19:02 +0000 2019",
+    "hashtags": [
+        {
+            "text": "SmallBiz"
+        },
+        {
+            "text": "GreensboroNC"
+        }
+    ],
+    "id": 1146558999564816385,
+    "id_str": "1146558999564816385",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Wed Jul 03 15:25:24 +0000 2019",
+        "favorite_count": 22,
+        "hashtags": [
+            {
+                "text": "SmallBiz"
+            }
+        ],
+        "id": 1146439807436034050,
+        "id_str": "1146439807436034050",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @SenThomTillis for taking the @NFIB #SmallBiz Challenge this morning at Illuminating Technologies in\u2026 https://t.co/YCvvKWcOok",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1146439807436034050",
+                "url": "https://t.co/YCvvKWcOok"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 14 18:28:04 +0000 2009",
+            "description": "NFIB is a member-driven organization advocating for small and independent businesses in Washington, D.C. & all 50 states. We are the voice of small business.",
+            "favourites_count": 8,
+            "followers_count": 765,
+            "friends_count": 953,
+            "geo_enabled": true,
+            "id": 65700195,
+            "id_str": "65700195",
+            "listed_count": 144,
+            "location": "Raleigh, NC",
+            "name": "NFIB North Carolina",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/65700195/1555965201",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/995930377293324288/FOgNVBoO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/995930377293324288/FOgNVBoO_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "nfib_nc",
+            "statuses_count": 3235,
+            "url": "http://t.co/FTMRLB63vK"
+        },
+        "user_mentions": [
+            {
+                "id": 2964174789,
+                "id_str": "2964174789",
+                "name": "Senator Thom Tillis",
+                "screen_name": "SenThomTillis"
+            },
+            {
+                "id": 14587949,
+                "id_str": "14587949",
+                "name": "NFIB",
+                "screen_name": "NFIB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @nfib_nc: Thank you @SenThomTillis for taking the @NFIB #SmallBiz Challenge this morning at Illuminating Technologies in #GreensboroNC!\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 06 14:22:18 +0000 2015",
+        "description": "Official Twitter account of North Carolina U.S. Senator Thom Tillis.",
+        "favourites_count": 1409,
+        "followers_count": 82026,
+        "friends_count": 4638,
+        "geo_enabled": true,
+        "id": 2964174789,
+        "id_str": "2964174789",
+        "listed_count": 1643,
+        "location": "North Carolina, USA",
+        "name": "Senator Thom Tillis",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964174789/1556910350",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1113102311566594048/TE6vxjHC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113102311566594048/TE6vxjHC_normal.png",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenThomTillis",
+        "statuses_count": 4364,
+        "url": "https://t.co/mLVkKiULqh",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 65700195,
+            "id_str": "65700195",
+            "name": "NFIB North Carolina",
+            "screen_name": "nfib_nc"
+        },
+        {
+            "id": 2964174789,
+            "id_str": "2964174789",
+            "name": "Senator Thom Tillis",
+            "screen_name": "SenThomTillis"
+        },
+        {
+            "id": 14587949,
+            "id_str": "14587949",
+            "name": "NFIB",
+            "screen_name": "NFIB"
+        }
+    ]
+}

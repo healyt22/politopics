@@ -1,0 +1,132 @@
+{
+    "created_at": "Mon Aug 12 20:20:29 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "Trumponomics"
+        }
+    ],
+    "id": 1161009580031139840,
+    "id_str": "1161009580031139840",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Aug 12 20:19:03 +0000 2019",
+        "favorite_count": 112,
+        "hashtags": [],
+        "id": 1161009219899932674,
+        "id_str": "1161009219899932674",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/hU4ksS8vSO",
+                "expanded_url": "https://twitter.com/thehill/status/1161009219899932674/photo/1",
+                "id": 1161009218469711877,
+                "media_url": "http://pbs.twimg.com/media/EBy7u5_XUAUBQce.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBy7u5_XUAUBQce.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 645,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 645,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 645,
+                        "h": 363,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/hU4ksS8vSO"
+            }
+        ],
+        "retweet_count": 117,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "JUST IN: US budget deficit has already eclipsed last year's total https://t.co/czQNrSxkZY https://t.co/hU4ksS8vSO",
+        "urls": [
+            {
+                "expanded_url": "http://hill.cm/oDGZFRq",
+                "url": "https://t.co/czQNrSxkZY"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 25,
+            "followers_count": 3356619,
+            "friends_count": 256,
+            "id": 1917731,
+            "id_str": "1917731",
+            "listed_count": 26244,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "thehill",
+            "statuses_count": 609593,
+            "url": "http://t.co/t414UtTRv4",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1161009219899932674,
+    "quoted_status_id_str": "1161009219899932674",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Thanks Donald #Trumponomics https://t.co/bQQv3stpkI",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/thehill/status/1161009219899932674",
+            "url": "https://t.co/bQQv3stpkI"
+        }
+    ],
+    "user": {
+        "created_at": "Sat May 19 16:41:06 +0000 2012",
+        "default_profile": true,
+        "description": "Official Campaign Twitter Account of Lacy Clay for Congress. US Rep, Missouri 1st District. R/Ts & links are not endorsements.",
+        "favourites_count": 20065,
+        "followers_count": 10501,
+        "friends_count": 2713,
+        "geo_enabled": true,
+        "id": 584912320,
+        "id_str": "584912320",
+        "listed_count": 613,
+        "location": "St. Louis, MO",
+        "name": "Lacy Clay MO1st",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/584912320/1467869397",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2363796933/8n10rzwlg5hvynzyv568_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2363796933/8n10rzwlg5hvynzyv568_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "LacyClayMO1",
+        "statuses_count": 20066,
+        "url": "https://t.co/M1086ZAdUj",
+        "verified": true
+    },
+    "user_mentions": []
+}

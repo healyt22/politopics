@@ -1,0 +1,126 @@
+{
+    "created_at": "Wed Jun 19 20:15:36 +0000 2019",
+    "hashtags": [
+        {
+            "text": "workforce"
+        }
+    ],
+    "id": 1141439409272819712,
+    "id_str": "1141439409272819712",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed Jun 19 20:15:08 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "workforce"
+            }
+        ],
+        "id": 1141439292125958145,
+        "id_str": "1141439292125958145",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "America's communities have a growing infrastructure #workforce problem. Thank you @RepPaulMitchell @RepBonamici\u2026 https://t.co/E5WxBI6loY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141439292125958145",
+                "url": "https://t.co/E5WxBI6loY"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 24 21:57:36 +0000 2009",
+            "description": "Helping city leaders build better communities. Tweets are from NLC's communications team.",
+            "favourites_count": 4371,
+            "followers_count": 28895,
+            "friends_count": 524,
+            "geo_enabled": true,
+            "id": 21803333,
+            "id_str": "21803333",
+            "listed_count": 880,
+            "location": "Washington, DC",
+            "name": "National League of Cities",
+            "profile_background_color": "EFEFEF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21803333/1558365143",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/747225708456456192/1LQaHPX3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/747225708456456192/1LQaHPX3_normal.jpg",
+            "profile_link_color": "0055B8",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "screen_name": "leagueofcities",
+            "statuses_count": 19180,
+            "url": "http://t.co/U1XtSHXPvH",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 811632636598910976,
+                "id_str": "811632636598910976",
+                "name": "Rep. Paul Mitchell",
+                "screen_name": "RepPaulMitchell"
+            },
+            {
+                "id": 558769636,
+                "id_str": "558769636",
+                "name": "Suzanne Bonamici",
+                "screen_name": "RepBonamici"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @leagueofcities: America's communities have a growing infrastructure #workforce problem. Thank you @RepPaulMitchell @RepBonamici @Congre\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 21 18:01:14 +0000 2016",
+        "default_profile": true,
+        "description": "Official account for Congressman Paul Mitchell #MI10",
+        "favourites_count": 126,
+        "followers_count": 6471,
+        "friends_count": 416,
+        "geo_enabled": true,
+        "id": 811632636598910976,
+        "id_str": "811632636598910976",
+        "listed_count": 324,
+        "name": "Rep. Paul Mitchell",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/811632636598910976/1482348484",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1053321319062929408/EEaqrAvm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053321319062929408/EEaqrAvm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPaulMitchell",
+        "statuses_count": 1553,
+        "url": "https://t.co/zSBYj2y0i6",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21803333,
+            "id_str": "21803333",
+            "name": "National League of Cities",
+            "screen_name": "leagueofcities"
+        },
+        {
+            "id": 811632636598910976,
+            "id_str": "811632636598910976",
+            "name": "Rep. Paul Mitchell",
+            "screen_name": "RepPaulMitchell"
+        },
+        {
+            "id": 558769636,
+            "id_str": "558769636",
+            "name": "Suzanne Bonamici",
+            "screen_name": "RepBonamici"
+        }
+    ]
+}

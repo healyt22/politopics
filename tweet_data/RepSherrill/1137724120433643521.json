@@ -1,0 +1,104 @@
+{
+    "created_at": "Sun Jun 09 14:12:22 +0000 2019",
+    "favorite_count": 47,
+    "hashtags": [],
+    "id": 1137724120433643521,
+    "id_str": "1137724120433643521",
+    "in_reply_to_screen_name": "RepSherrill",
+    "in_reply_to_status_id": 1137721597031256064,
+    "in_reply_to_user_id": 1080569698536878081,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/JCLtvrJQU0",
+            "expanded_url": "https://twitter.com/RepSherrill/status/1137724120433643521/video/1",
+            "id": 1137724061155377152,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137724061155377152/pu/img/CiAOx8Rx86NjNSno.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137724061155377152/pu/img/CiAOx8Rx86NjNSno.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/JCLtvrJQU0",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 15230,
+                "variants": [
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137724061155377152/pu/vid/320x568/KWF_9Y6d75Te4dUD.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1137724061155377152/pu/pl/R37DdoJJkYypYzej.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137724061155377152/pu/vid/360x640/op1DvlDJJfYTpFUS.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137724061155377152/pu/vid/720x1280/Xaw5WvfbzVDTg5q5.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Another view: https://t.co/JCLtvrJQU0",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 21:01:06 +0000 2019",
+        "description": "Official Congressional account for Mikie Sherrill, proudly representing New Jersey's 11th District. Former Navy Pilot. Former Prosecutor. Mom of four.",
+        "favourites_count": 115,
+        "followers_count": 11686,
+        "friends_count": 334,
+        "geo_enabled": true,
+        "id": 1080569698536878081,
+        "id_str": "1080569698536878081",
+        "listed_count": 225,
+        "location": "NJ",
+        "name": "Rep. Mikie Sherrill",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080569698536878081/1565733511",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144656535668350976/dOFWcgKL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144656535668350976/dOFWcgKL_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepSherrill",
+        "statuses_count": 671,
+        "url": "https://t.co/oU3cdgwjfU",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,137 @@
+{
+    "created_at": "Sat Aug 10 21:46:36 +0000 2019",
+    "favorite_count": 20,
+    "hashtags": [],
+    "id": 1160306477636227072,
+    "id_str": "1160306477636227072",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Aug 08 13:31:50 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1159457189435719680,
+        "id_str": "1159457189435719680",
+        "lang": "en",
+        "place": {
+            "id": "1661ada9b2b18024",
+            "url": "https://api.twitter.com/1.1/geo/id/1661ada9b2b18024.json",
+            "place_type": "city",
+            "name": "Wichita",
+            "full_name": "Wichita, KS",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.5349059,
+                            37.562483
+                        ],
+                        [
+                            -97.152924,
+                            37.562483
+                        ],
+                        [
+                            -97.152924,
+                            37.80531
+                        ],
+                        [
+                            -97.5349059,
+                            37.80531
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We are so honored to have our volunteers with us this morning, attending our Region 6 meeting with Harry Johns, our\u2026 https://t.co/u0TQw2szKo",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159457189435719680",
+                "url": "https://t.co/u0TQw2szKo"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jan 19 04:52:38 +0000 2014",
+            "description": "Central & Western Kansas Chapter | Offering educational programs, helpline, support groups, and local services in 68 Kansas Counties.",
+            "favourites_count": 270,
+            "followers_count": 335,
+            "friends_count": 371,
+            "geo_enabled": true,
+            "id": 2299007382,
+            "id_str": "2299007382",
+            "listed_count": 18,
+            "location": "Wichita KS",
+            "name": "Alzheimer's Assoc.",
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2299007382/1562613450",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/424784527626473472/gzgRGo0X_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/424784527626473472/gzgRGo0X_normal.png",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "screen_name": "alzwichita",
+            "statuses_count": 934,
+            "url": "https://t.co/PwXPiYmSeq"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1159457189435719680,
+    "quoted_status_id_str": "1159457189435719680",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Welcome to Kansas, @AlzAssociation CEO Harry Johns. I\u2019m proud of the progress our Kansas advocates make every day i\u2026 https://t.co/tAeTZh0s9Z",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1160306477636227072",
+            "url": "https://t.co/tAeTZh0s9Z"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Jan 05 14:25:22 +0000 2009",
+        "description": "Official account of U.S. Senator Jerry Moran. Honored to represent Kansans in the U.S. Senate.",
+        "favourites_count": 952,
+        "followers_count": 96674,
+        "friends_count": 2964,
+        "geo_enabled": true,
+        "id": 18632666,
+        "id_str": "18632666",
+        "listed_count": 2214,
+        "location": "Kansas",
+        "name": "Senator Jerry Moran",
+        "profile_background_color": "0F3254",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18632666/1509573111",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/834123788153397248/8XI1dcQL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/834123788153397248/8XI1dcQL_normal.jpg",
+        "profile_link_color": "55ACEE",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F2F2F2",
+        "profile_text_color": "545454",
+        "screen_name": "JerryMoran",
+        "statuses_count": 5609,
+        "url": "http://t.co/CBA3beMHNs",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21121491,
+            "id_str": "21121491",
+            "name": "Alzheimer's Assoc.",
+            "screen_name": "alzassociation"
+        }
+    ]
+}

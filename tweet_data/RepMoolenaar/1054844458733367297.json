@@ -1,0 +1,191 @@
+{
+    "created_at": "Tue Oct 23 21:18:11 +0000 2018",
+    "hashtags": [],
+    "id": 1054844458733367297,
+    "id_str": "1054844458733367297",
+    "lang": "en",
+    "quoted_status_id": 1054833243655159808,
+    "quoted_status_id_str": "1054833243655159808",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Oct 23 20:46:49 +0000 2018",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1054836566026280961,
+        "id_str": "1054836566026280961",
+        "lang": "en",
+        "place": {
+            "id": "67d92742f1ebf307",
+            "url": "https://api.twitter.com/1.1/geo/id/67d92742f1ebf307.json",
+            "place_type": "admin",
+            "name": "Michigan",
+            "full_name": "Michigan, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.4181075,
+                            41.696088
+                        ],
+                        [
+                            -82.122971,
+                            41.696088
+                        ],
+                        [
+                            -82.122971,
+                            48.306272
+                        ],
+                        [
+                            -90.4181075,
+                            48.306272
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Tue Oct 23 20:33:37 +0000 2018",
+            "favorite_count": 15,
+            "hashtags": [
+                {
+                    "text": "SooLocks"
+                }
+            ],
+            "id": 1054833243655159808,
+            "id_str": "1054833243655159808",
+            "lang": "en",
+            "retweet_count": 6,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": ".@POTUS signed legislation today authorizing the construction of a new lock a the #SooLocks. Thank you, Mr. Preside\u2026 https://t.co/SVksYtRhdb",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1054833243655159808",
+                    "url": "https://t.co/SVksYtRhdb"
+                }
+            ],
+            "user": {
+                "created_at": "Thu Jul 31 21:09:14 +0000 2014",
+                "default_profile": true,
+                "description": "Representing Michigan's Fourth Congressional District. This is the Twitter page of the official House office.",
+                "favourites_count": 470,
+                "followers_count": 11015,
+                "friends_count": 339,
+                "id": 2696643955,
+                "id_str": "2696643955",
+                "listed_count": 417,
+                "name": "Rep. John Moolenaar",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696643955/1420046825",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "RepMoolenaar",
+                "statuses_count": 854,
+                "url": "http://t.co/cwXZtKCJhJ",
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 822215679726100480,
+                    "id_str": "822215679726100480",
+                    "name": "President Trump",
+                    "screen_name": "POTUS"
+                }
+            ]
+        },
+        "quoted_status_id": 1054833243655159808,
+        "quoted_status_id_str": "1054833243655159808",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "President Trump signs WRDA, another big step forward to building a new lock in the Soo https://t.co/57FLeHnIZm",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/RepMoolenaar/status/1054833243655159808",
+                "url": "https://t.co/57FLeHnIZm"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 04 06:13:59 +0000 2012",
+            "description": "Reporter @Fox17 | @uvmvermont grad | 617 born and raised",
+            "favourites_count": 1859,
+            "followers_count": 465,
+            "friends_count": 382,
+            "geo_enabled": true,
+            "id": 544885856,
+            "id_str": "544885856",
+            "listed_count": 6,
+            "location": "Grand Rapids, MI",
+            "name": "Aaron FOX 17",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/544885856/1555970907",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1120489447345336323/8tMvf_XE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120489447345336323/8tMvf_XE_normal.jpg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AaronParseghian",
+            "statuses_count": 2777,
+            "url": "https://t.co/6U37TDxiyF",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AaronParseghian: President Trump signs WRDA, another big step forward to building a new lock in the Soo https://t.co/57FLeHnIZm",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RepMoolenaar/status/1054833243655159808",
+            "url": "https://t.co/57FLeHnIZm"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 31 21:09:14 +0000 2014",
+        "default_profile": true,
+        "description": "Representing Michigan's Fourth Congressional District. This is the Twitter page of the official House office.",
+        "favourites_count": 470,
+        "followers_count": 11015,
+        "friends_count": 339,
+        "id": 2696643955,
+        "id_str": "2696643955",
+        "listed_count": 417,
+        "name": "Rep. John Moolenaar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696643955/1420046825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoolenaar",
+        "statuses_count": 854,
+        "url": "http://t.co/cwXZtKCJhJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 544885856,
+            "id_str": "544885856",
+            "name": "Aaron FOX 17",
+            "screen_name": "AaronParseghian"
+        }
+    ]
+}

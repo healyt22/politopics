@@ -1,0 +1,121 @@
+{
+    "created_at": "Mon Aug 05 21:31:33 +0000 2019",
+    "favorite_count": 318,
+    "hashtags": [],
+    "id": 1158490751627603968,
+    "id_str": "1158490751627603968",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Aug 05 19:01:51 +0000 2019",
+        "favorite_count": 1026264,
+        "hashtags": [],
+        "id": 1158453079035002881,
+        "id_str": "1158453079035002881",
+        "lang": "und",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/nNOVtQ50O4",
+                "expanded_url": "https://twitter.com/BarackObama/status/1158453079035002881/photo/1",
+                "id": 1158453057568555015,
+                "media_url": "http://pbs.twimg.com/media/EBOm6wlWwActjM_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBOm6wlWwActjM_.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/nNOVtQ50O4"
+            }
+        ],
+        "retweet_count": 303329,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "https://t.co/nNOVtQ50O4",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "description": "Dad, husband, President, citizen.",
+            "favourites_count": 11,
+            "followers_count": 107892738,
+            "following": true,
+            "friends_count": 612592,
+            "id": 813286,
+            "id_str": "813286",
+            "listed_count": 228792,
+            "location": "Washington, DC",
+            "name": "Barack Obama",
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BarackObama",
+            "statuses_count": 15668,
+            "url": "https://t.co/93Y27HEnnX",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1158453079035002881,
+    "quoted_status_id_str": "1158453079035002881",
+    "retweet_count": 55,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "This is leadership. https://t.co/xprnAa48tC",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/BarackObama/status/1158453079035002881",
+            "url": "https://t.co/xprnAa48tC"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 13 17:15:12 +0000 2018",
+        "default_profile": true,
+        "description": "Mom to two boys & two rescue labs. Former state Senator, prosecutor, and advocate for abused children. Congresswoman serving the people of #VA10.",
+        "favourites_count": 235,
+        "followers_count": 19038,
+        "friends_count": 1207,
+        "geo_enabled": true,
+        "id": 1017819745880543238,
+        "id_str": "1017819745880543238",
+        "listed_count": 268,
+        "location": "Leesburg, VA",
+        "name": "Rep. Jennifer Wexton",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017819745880543238/1552406965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1094358646962733057/H6-tqrBG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094358646962733057/H6-tqrBG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepWexton",
+        "statuses_count": 1122,
+        "url": "https://t.co/nwaJ1qDT84",
+        "verified": true
+    },
+    "user_mentions": []
+}

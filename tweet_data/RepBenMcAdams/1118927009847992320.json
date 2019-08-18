@@ -1,0 +1,125 @@
+{
+    "created_at": "Thu Apr 18 17:19:22 +0000 2019",
+    "hashtags": [
+        {
+            "text": "utpol"
+        }
+    ],
+    "id": 1118927009847992320,
+    "id_str": "1118927009847992320",
+    "in_reply_to_screen_name": "CivicaRx",
+    "in_reply_to_user_id": 1035242557330997248,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/VrgippENkY",
+            "expanded_url": "https://twitter.com/RepBenMcAdams/status/1118927009847992320/photo/1",
+            "id": 1118927005704019969,
+            "media_url": "http://pbs.twimg.com/media/D4c6LvCUYAEf__d.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4c6LvCUYAEf__d.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 1200,
+                    "h": 1182,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 2017,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 670,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/VrgippENkY"
+        }
+    ],
+    "place": {
+        "id": "ed3b23f667186d1f",
+        "url": "https://api.twitter.com/1.1/geo/id/ed3b23f667186d1f.json",
+        "place_type": "city",
+        "name": "Lehi",
+        "full_name": "Lehi, UT",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -111.914775,
+                        40.357876
+                    ],
+                    [
+                        -111.8183317,
+                        40.357876
+                    ],
+                    [
+                        -111.8183317,
+                        40.456264
+                    ],
+                    [
+                        -111.914775,
+                        40.456264
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CivicaRx ensuring essential prescription drugs are available and affordable to everyone. @IntermtnMedCtr #utpol https://t.co/VrgippENkY",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Sep 28 23:18:15 +0000 2010",
+        "description": "The official Twitter account for Utah's 4th Congressional District representative",
+        "favourites_count": 1021,
+        "followers_count": 10874,
+        "friends_count": 1106,
+        "geo_enabled": true,
+        "id": 196362083,
+        "id_str": "196362083",
+        "listed_count": 323,
+        "location": "Utah, USA",
+        "name": "Rep. Ben McAdams",
+        "profile_background_color": "7A3838",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196362083/1547180285",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144725390793031680/Wd1phrxQ_normal.png",
+        "profile_link_color": "702323",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBenMcAdams",
+        "statuses_count": 4200,
+        "url": "https://t.co/12wZyksOHt",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1035242557330997248,
+            "id_str": "1035242557330997248",
+            "name": "Civica Rx",
+            "screen_name": "CivicaRx"
+        },
+        {
+            "id": 106821811,
+            "id_str": "106821811",
+            "name": "IntermountainMedCtr",
+            "screen_name": "IntermtnMedCtr"
+        }
+    ]
+}

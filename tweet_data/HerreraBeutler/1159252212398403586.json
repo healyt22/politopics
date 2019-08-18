@@ -1,0 +1,101 @@
+{
+    "created_at": "Wed Aug 07 23:57:19 +0000 2019",
+    "favorite_count": 32,
+    "hashtags": [],
+    "id": 1159252212398403586,
+    "id_str": "1159252212398403586",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/mR2uT9VcPn",
+            "expanded_url": "https://twitter.com/HerreraBeutler/status/1159252212398403586/video/1",
+            "id": 1159251953219756033,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1159251953219756033/pu/img/ob0m7VR-GYE4QmPs.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1159251953219756033/pu/img/ob0m7VR-GYE4QmPs.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/mR2uT9VcPn",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 41433,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1159251953219756033/pu/vid/1280x720/v1gL3kuCx2N3lSbZ.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1159251953219756033/pu/vid/480x270/rjpKSmIKs6Wc7z0S.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1159251953219756033/pu/vid/640x360/2e1zkCb2P05mjO1Z.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1159251953219756033/pu/pl/llCnAEOagdSQZTkr.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "https://t.co/mR2uT9VcPn",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 25 22:36:44 +0000 2011",
+        "description": "I'm proud to have grown up in SW WA, and honored to represent this wonderful region in the US Congress. Want regular email updates? http://t.co/sZutp93Fhg",
+        "favourites_count": 21,
+        "followers_count": 20588,
+        "friends_count": 932,
+        "geo_enabled": true,
+        "id": 242926427,
+        "id_str": "242926427",
+        "listed_count": 901,
+        "name": "JaimeHerreraBeutler",
+        "profile_background_color": "D6083C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242926427/1496761529",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/510487926900150272/UksS2ekj_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/510487926900150272/UksS2ekj_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "HerreraBeutler",
+        "statuses_count": 1249,
+        "url": "http://t.co/g23DlVNdtc",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,103 @@
+{
+    "created_at": "Mon Apr 29 22:33:38 +0000 2019",
+    "favorite_count": 13,
+    "hashtags": [
+        {
+            "text": "EndHate"
+        }
+    ],
+    "id": 1122992363541078021,
+    "id_str": "1122992363541078021",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/dspoHNwDtG",
+            "expanded_url": "https://twitter.com/RepMalinowski/status/1122992363541078021/video/1",
+            "id": 1122991860606283777,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122991860606283777/pu/img/0V1UPSg9X9ORJg3b.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122991860606283777/pu/img/0V1UPSg9X9ORJg3b.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/dspoHNwDtG",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 105667,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1122991860606283777/pu/pl/uycQCfHk3aS8zHFd.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1122991860606283777/pu/vid/1280x720/n0-HLQ0UKJO8W_4b.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1122991860606283777/pu/vid/640x360/7-YyU3iHtsov09Ba.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1122991860606283777/pu/vid/480x270/N-joBEUl4it6zymf.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 8,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Tom joined NJTV to discuss the rise of white supremacy in New Jersey and around the country. #EndHate https://t.co/dspoHNwDtG",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 18:45:46 +0000 2019",
+        "default_profile": true,
+        "description": "The official Twitter account of Congressman Tom Malinowski, of New Jersey's 7th district.",
+        "favourites_count": 28,
+        "followers_count": 3240,
+        "friends_count": 384,
+        "id": 1080898026418384897,
+        "id_str": "1080898026418384897",
+        "listed_count": 128,
+        "name": "Rep. Tom Malinowski",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080898026418384897/1547061220",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083079287610228736/auj_6yPw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMalinowski",
+        "statuses_count": 237,
+        "url": "https://t.co/xKfFUaXQDL",
+        "verified": true
+    },
+    "user_mentions": []
+}

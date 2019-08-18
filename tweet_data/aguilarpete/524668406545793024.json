@@ -1,0 +1,84 @@
+{
+    "created_at": "Tue Oct 21 21:07:50 +0000 2014",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "education"
+        },
+        {
+            "text": "CA31"
+        }
+    ],
+    "id": 524668406545793024,
+    "id_str": "524668406545793024",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Ohb03NnsZz",
+            "expanded_url": "https://twitter.com/aguilarpete/status/524668406545793024/photo/1",
+            "id": 524668404498587648,
+            "media_url": "http://pbs.twimg.com/media/B0f_IlMCYAATyRR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/B0f_IlMCYAATyRR.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "http://t.co/Ohb03NnsZz"
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Last night debate, today reading to kids. Either way, #education is the priority! #CA31 http://t.co/RwexwqQfNB http://t.co/Ohb03NnsZz",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/1CRXlsM",
+            "url": "http://t.co/RwexwqQfNB"
+        }
+    ],
+    "user": {
+        "created_at": "Thu May 21 05:04:40 +0000 2009",
+        "description": "Dad. Husband. Former pothole filling Mayor and elected Representative of California's 31st district. Living the dream. Personal account",
+        "favourites_count": 4,
+        "followers_count": 2746,
+        "friends_count": 624,
+        "id": 41533245,
+        "id_str": "41533245",
+        "listed_count": 213,
+        "location": "Redlands, CA",
+        "name": "Pete Aguilar",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41533245/1425249861",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "aguilarpete",
+        "statuses_count": 734,
+        "url": "https://t.co/tTc0XSgDq9",
+        "verified": true
+    },
+    "user_mentions": []
+}

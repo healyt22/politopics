@@ -1,0 +1,146 @@
+{
+    "created_at": "Mon Aug 12 18:17:13 +0000 2019",
+    "favorite_count": 66,
+    "hashtags": [
+        {
+            "text": "AZ05"
+        }
+    ],
+    "id": 1160978560380628992,
+    "id_str": "1160978560380628992",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Aug 12 00:30:00 +0000 2019",
+        "favorite_count": 100,
+        "hashtags": [
+            {
+                "text": "abc15"
+            }
+        ],
+        "id": 1160709986441474049,
+        "id_str": "1160709986441474049",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MAnXf48wSC",
+                "expanded_url": "https://twitter.com/abc15/status/1160709986441474049/photo/1",
+                "id": 1160689149784940544,
+                "media_url": "http://pbs.twimg.com/media/EBuYodOU4AAce6m.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBuYodOU4AAce6m.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/MAnXf48wSC"
+            }
+        ],
+        "retweet_count": 12,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "So cool. @MesaFireDept change elderly woman's tire, drive her home https://t.co/NgKWAPJtyD #abc15 https://t.co/MAnXf48wSC",
+        "urls": [
+            {
+                "expanded_url": "https://bit.ly/2Mcuj7a",
+                "url": "https://t.co/NgKWAPJtyD"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Oct 26 21:32:38 +0000 2007",
+            "description": "Your #1 source for #breaking news in Arizona. Join our conversation with #abc15. News tip?  share@abc15.com or call 602-685-6351",
+            "favourites_count": 5195,
+            "followers_count": 419220,
+            "friends_count": 62304,
+            "geo_enabled": true,
+            "id": 9721292,
+            "id_str": "9721292",
+            "listed_count": 2543,
+            "location": "Phoenix, AZ",
+            "name": "ABC15 Arizona",
+            "profile_background_color": "1C1B19",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/9721292/1398200929",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/550984712378806273/GQhFtyB8_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/550984712378806273/GQhFtyB8_normal.jpeg",
+            "profile_link_color": "D8920C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F2F0ED",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "abc15",
+            "statuses_count": 235569,
+            "url": "http://t.co/WsSXtWD6Ui",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 17668576,
+                "id_str": "17668576",
+                "name": "Mesa (Arizona) Fire & Medical Dept",
+                "screen_name": "MesaFireDept"
+            }
+        ]
+    },
+    "quoted_status_id": 1160709986441474049,
+    "quoted_status_id_str": "1160709986441474049",
+    "retweet_count": 20,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great work, @MesaFireDept! #AZ05 https://t.co/SwImiE9S2a",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/abc15/status/1160709986441474049",
+            "url": "https://t.co/SwImiE9S2a"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+        "default_profile": true,
+        "description": "Representing Arizona's Fighting Fifth.",
+        "favourites_count": 3886,
+        "followers_count": 32482,
+        "friends_count": 1235,
+        "id": 816652616625168388,
+        "id_str": "816652616625168388",
+        "listed_count": 596,
+        "location": "Arizona, USA",
+        "name": "Rep Andy Biggs",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1558381518",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118570734614265857/rEL5TQQQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepAndyBiggsAZ",
+        "statuses_count": 5935,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17668576,
+            "id_str": "17668576",
+            "name": "Mesa (Arizona) Fire & Medical Dept",
+            "screen_name": "MesaFireDept"
+        }
+    ]
+}

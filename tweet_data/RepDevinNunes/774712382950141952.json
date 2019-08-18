@@ -1,0 +1,89 @@
+{
+    "created_at": "Sat Sep 10 20:53:20 +0000 2016",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 774712382950141952,
+    "id_str": "774712382950141952",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/weLnT0awlt",
+            "expanded_url": "https://twitter.com/Rep_DevinNunes/status/774712382950141952/photo/1",
+            "id": 774712381012344833,
+            "media_url": "http://pbs.twimg.com/media/CsBUzlFWgAEbzEC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CsBUzlFWgAEbzEC.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1068,
+                    "h": 801,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1068,
+                    "h": 801,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/weLnT0awlt"
+        }
+    ],
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "I'll be on @FaceTheNation tomorrow @ 8:30 am PST on KGPE47, then on @FoxNews w/ @BretBaier @ 5 pm PST, 8 pm EST. https://t.co/weLnT0awlt",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 29 21:40:22 +0000 2011",
+        "default_profile": true,
+        "followers_count": 34272,
+        "friends_count": 15,
+        "id": 344972339,
+        "id_str": "344972339",
+        "listed_count": 488,
+        "location": "Washington, DC",
+        "name": "Rep. Devin Nunes",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344972339/1353428355",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDevinNunes",
+        "statuses_count": 169,
+        "url": "http://t.co/qslO3rsq"
+    },
+    "user_mentions": [
+        {
+            "id": 205392468,
+            "id_str": "205392468",
+            "name": "Face The Nation",
+            "screen_name": "FaceTheNation"
+        },
+        {
+            "id": 1367531,
+            "id_str": "1367531",
+            "name": "Fox News",
+            "screen_name": "FoxNews"
+        },
+        {
+            "id": 18646108,
+            "id_str": "18646108",
+            "name": "Bret Baier",
+            "screen_name": "BretBaier"
+        }
+    ]
+}

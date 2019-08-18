@@ -1,0 +1,105 @@
+{
+    "created_at": "Fri May 17 13:00:57 +0000 2019",
+    "hashtags": [],
+    "id": 1129371225820684289,
+    "id_str": "1129371225820684289",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Fri May 17 12:43:17 +0000 2019",
+        "favorite_count": 43,
+        "hashtags": [],
+        "id": 1129366777991974918,
+        "id_str": "1129366777991974918",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\u201cThere\u2019s nothing more American than this: liberty and justice for all. Honored to be here today.\u201d - @RepChrisPappas\u2026 https://t.co/eI5grM3Nub",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1129366777991974918",
+                "url": "https://t.co/eI5grM3Nub"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 27 18:55:38 +0000 2009",
+            "description": "HRC is the nation\u2019s largest LGBTQ civil rights organization. We envision a world where LGBTQ people are ensured equality at home, at work & in every community.",
+            "favourites_count": 18665,
+            "followers_count": 821455,
+            "friends_count": 157409,
+            "geo_enabled": true,
+            "id": 19608297,
+            "id_str": "19608297",
+            "listed_count": 8924,
+            "location": "Washington, DC",
+            "name": "Human Rights Campaign",
+            "profile_background_color": "C7CCD2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19608297/1558553108",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1116062042027384832/t-VxANUY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116062042027384832/t-VxANUY_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HRC",
+            "statuses_count": 47867,
+            "url": "https://t.co/aqJODv04ld",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1067748650485497862,
+                "id_str": "1067748650485497862",
+                "name": "Congressman Chris Pappas",
+                "screen_name": "RepChrisPappas"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @HRC: \u201cThere\u2019s nothing more American than this: liberty and justice for all. Honored to be here today.\u201d - @RepChrisPappas on the histori\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 28 11:54:50 +0000 2018",
+        "default_profile": true,
+        "description": "Member of Congress serving New Hampshire's 1st District | Life-long Manchester Resident, former Executive Councilor for District 4 | #NH01",
+        "favourites_count": 271,
+        "followers_count": 6365,
+        "friends_count": 593,
+        "id": 1067748650485497862,
+        "id_str": "1067748650485497862",
+        "listed_count": 141,
+        "location": "Manchester, NH",
+        "name": "Congressman Chris Pappas",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067748650485497862/1560283895",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083084908640305153/OXrPrfxD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083084908640305153/OXrPrfxD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChrisPappas",
+        "statuses_count": 762,
+        "url": "https://t.co/4EQmOIv1cZ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 19608297,
+            "id_str": "19608297",
+            "name": "Human Rights Campaign",
+            "screen_name": "HRC"
+        },
+        {
+            "id": 1067748650485497862,
+            "id_str": "1067748650485497862",
+            "name": "Congressman Chris Pappas",
+            "screen_name": "RepChrisPappas"
+        }
+    ]
+}

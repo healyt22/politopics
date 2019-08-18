@@ -1,0 +1,101 @@
+{
+    "created_at": "Fri Jun 07 19:06:20 +0000 2019",
+    "favorite_count": 61,
+    "hashtags": [],
+    "id": 1137073320355127297,
+    "id_str": "1137073320355127297",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/YaIioV4sde",
+            "expanded_url": "https://twitter.com/SenCapito/status/1137073320355127297/video/1",
+            "id": 1137073127958175744,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137073127958175744/pu/img/S_WCCWkYLdwvYxKk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137073127958175744/pu/img/S_WCCWkYLdwvYxKk.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/YaIioV4sde",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 92693,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1137073127958175744/pu/pl/sPW3JMA4V5EN6kai.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137073127958175744/pu/vid/480x480/IFUZUmckpUb50Qg-.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137073127958175744/pu/vid/720x720/kbmEbZvN9quXmqd4.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1137073127958175744/pu/vid/320x320/y0E-EzEavdkXJh9l.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "\u201cOur country is stronger now and will be stronger in the future because women are voting and women are leading.\u201d https://t.co/YaIioV4sde",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Sep 22 18:06:14 +0000 2010",
+        "description": "Proudly serving West Virginia in the United States Senate.",
+        "favourites_count": 417,
+        "followers_count": 68088,
+        "friends_count": 1000,
+        "geo_enabled": true,
+        "id": 193794406,
+        "id_str": "193794406",
+        "listed_count": 1625,
+        "name": "Shelley Moore Capito",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193794406/1561668249",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570247761044312064/gBmXhrin_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570247761044312064/gBmXhrin_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenCapito",
+        "statuses_count": 8063,
+        "url": "http://t.co/s6UUsbxSHW",
+        "verified": true
+    },
+    "user_mentions": []
+}

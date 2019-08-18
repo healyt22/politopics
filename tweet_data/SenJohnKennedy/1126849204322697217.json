@@ -1,0 +1,169 @@
+{
+    "created_at": "Fri May 10 13:59:20 +0000 2019",
+    "favorite_count": 72,
+    "hashtags": [],
+    "id": 1126849204322697217,
+    "id_str": "1126849204322697217",
+    "lang": "en",
+    "quoted_status": {
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -91.24067874,
+                30.41210391
+            ]
+        },
+        "created_at": "Fri May 10 12:58:57 +0000 2019",
+        "favorite_count": 1,
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.41210391,
+                -91.24067874
+            ]
+        },
+        "hashtags": [],
+        "id": 1126834005196906498,
+        "id_str": "1126834005196906498",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qT5dPKFIgC",
+                "expanded_url": "https://twitter.com/NWSNewOrleans/status/1126834005196906498/photo/1",
+                "id": 1126834003598827521,
+                "media_url": "http://pbs.twimg.com/media/D6NRjllW4AE4P7O.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D6NRjllW4AE4P7O.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 573,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1020,
+                        "h": 860,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1020,
+                        "h": 860,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qT5dPKFIgC"
+            }
+        ],
+        "place": {
+            "id": "1c73ebb264e145ee",
+            "url": "https://api.twitter.com/1.1/geo/id/1c73ebb264e145ee.json",
+            "place_type": "admin",
+            "name": "Louisiana",
+            "full_name": "Louisiana, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.043628,
+                            28.855128
+                        ],
+                        [
+                            -88.758389,
+                            28.855128
+                        ],
+                        [
+                            -88.758389,
+                            33.019544
+                        ],
+                        [
+                            -94.043628,
+                            33.019544
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 8,
+        "source": "<a href=\"http://www.weather.gov/crh/impact\" rel=\"nofollow\">Svr Wx Impact Graphics - LIX</a>",
+        "text": "Flash Flood Warning including Baton Rouge LA, Prairieville LA, Central LA until 10:00 AM CDT https://t.co/qT5dPKFIgC",
+        "urls": [],
+        "user": {
+            "created_at": "Wed May 30 16:53:52 +0000 2012",
+            "description": "Official Twitter account for the National Weather Service New Orleans. Details: http://t.co/DT7PGbdIaq",
+            "favourites_count": 4284,
+            "followers_count": 33464,
+            "friends_count": 234,
+            "geo_enabled": true,
+            "id": 594736235,
+            "id_str": "594736235",
+            "listed_count": 978,
+            "location": "New Orleans, Louisiana",
+            "name": "NWS New Orleans",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/594736235/1560703257",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875669327453667330/SYXeEdlC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875669327453667330/SYXeEdlC_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NWSNewOrleans",
+            "statuses_count": 18303,
+            "url": "https://t.co/6AkYipj8p8",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1126834005196906498,
+    "quoted_status_id_str": "1126834005196906498",
+    "retweet_count": 13,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "East Baton Rouge public schools are closed today due to heavy rainfall. Be careful on the roads today and stay safe. https://t.co/ichRfJ4Kog",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NWSNewOrleans/status/1126834005196906498",
+            "url": "https://t.co/ichRfJ4Kog"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 04 16:30:40 +0000 2017",
+        "default_profile": true,
+        "description": "The official Twitter page for U.S. Senator John N. Kennedy (R-La.) https://t.co/4ceoNzx1Ck",
+        "favourites_count": 693,
+        "followers_count": 65793,
+        "friends_count": 1329,
+        "geo_enabled": true,
+        "id": 816683274076614656,
+        "id_str": "816683274076614656",
+        "listed_count": 961,
+        "location": "Louisiana",
+        "name": "John Kennedy",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816683274076614656/1556131122",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/831592195320840192/GXfc24bb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/831592195320840192/GXfc24bb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJohnKennedy",
+        "statuses_count": 1678,
+        "url": "https://t.co/idGDfTIv0R",
+        "verified": true
+    },
+    "user_mentions": []
+}

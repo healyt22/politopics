@@ -1,0 +1,106 @@
+{
+    "created_at": "Sun May 12 14:03:59 +0000 2019",
+    "favorite_count": 428,
+    "hashtags": [
+        {
+            "text": "MothersDay"
+        }
+    ],
+    "id": 1127575150252240897,
+    "id_str": "1127575150252240897",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/An5FBKGnZq",
+            "expanded_url": "https://twitter.com/SenatorTimScott/status/1127575150252240897/video/1",
+            "id": 1127428869848432641,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1127428869848432641/img/ZABx8ZUGX9ek3wc9.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1127428869848432641/img/ZABx8ZUGX9ek3wc9.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 960,
+                    "h": 540,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 960,
+                    "h": 540,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/An5FBKGnZq",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 77778,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1127428869848432641/vid/960x540/ENF9aAOFp-Wle-7H.mp4?tag=12"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1127428869848432641/vid/640x360/-obriYxrFHw2l3YZ.mp4?tag=12"
+                    },
+                    {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1127428869848432641/vid/320x180/QaNliMv8W3LlwSoZ.mp4?tag=12"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1127428869848432641/pl/7zovdPGwJW-mMuGp.m3u8?tag=12"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 52,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Happy #MothersDay from Team Scott! https://t.co/An5FBKGnZq",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Nov 19 20:34:30 +0000 2010",
+        "description": "United States Senator from South Carolina",
+        "favourites_count": 1648,
+        "followers_count": 378192,
+        "friends_count": 3890,
+        "geo_enabled": true,
+        "id": 217543151,
+        "id_str": "217543151",
+        "listed_count": 3649,
+        "location": "South Carolina",
+        "name": "Tim Scott",
+        "profile_background_color": "E0DBC8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217543151/1550264874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_link_color": "606060",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EBE9DC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTimScott",
+        "statuses_count": 7971,
+        "url": "https://t.co/EoB6giYuOp",
+        "verified": true
+    },
+    "user_mentions": []
+}

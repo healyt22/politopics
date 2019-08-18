@@ -1,0 +1,106 @@
+{
+    "created_at": "Thu Aug 01 13:45:10 +0000 2019",
+    "favorite_count": 52,
+    "hashtags": [
+        {
+            "text": "ColoradoDay"
+        }
+    ],
+    "id": 1156923828708216832,
+    "id_str": "1156923828708216832",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/jdSpHlTmlj",
+            "expanded_url": "https://twitter.com/RepDianaDeGette/status/1156923828708216832/video/1",
+            "id": 1156923145636524034,
+            "media_url": "http://pbs.twimg.com/media/EA43oYNWwAIT9sI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EA43oYNWwAIT9sI.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/jdSpHlTmlj",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 26560,
+                "variants": [
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1156923145636524034/vid/720x720/rTG9WfAEk-UrdPgN.mp4?tag=13"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1156923145636524034/vid/480x480/ijrqzOvLdJV31z88.mp4?tag=13"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1156923145636524034/pl/w3QlhTQgefUFPwAz.m3u8?tag=13"
+                    },
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1156923145636524034/vid/320x320/qpyWF8m018E6I8mY.mp4?tag=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 10,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Happy #ColoradoDay! We are so lucky to call this state home. https://t.co/jdSpHlTmlj",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 03 16:41:06 +0000 2009",
+        "description": "Member of Congress, Colorado's 1st Congressional District. Senior member of Energy and Commerce Committee.",
+        "favourites_count": 464,
+        "followers_count": 49535,
+        "friends_count": 11053,
+        "geo_enabled": true,
+        "id": 28599820,
+        "id_str": "28599820",
+        "listed_count": 1569,
+        "location": "Denver, CO",
+        "name": "Rep. Diana DeGette",
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28599820/1564503483",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156236948983427072/AFGdaJyC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156236948983427072/AFGdaJyC_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDianaDeGette",
+        "statuses_count": 5152,
+        "url": "http://t.co/ADHTXH6MGD",
+        "verified": true
+    },
+    "user_mentions": []
+}

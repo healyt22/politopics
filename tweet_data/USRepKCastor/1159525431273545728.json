@@ -1,0 +1,116 @@
+{
+    "created_at": "Thu Aug 08 18:03:00 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1159525431273545728,
+    "id_str": "1159525431273545728",
+    "in_reply_to_screen_name": "USRepKCastor",
+    "in_reply_to_status_id": 1159525430120058881,
+    "in_reply_to_user_id": 1880674038,
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Aug 07 19:00:19 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "SolarPower"
+            }
+        ],
+        "id": 1159177468105940993,
+        "id_str": "1159177468105940993",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "text": "Commercial-scale #SolarPower opportunities are some of the most difficult to pursue. Have a clever idea to break in\u2026 https://t.co/2gUyUdl9W5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159177468105940993",
+                "url": "https://t.co/2gUyUdl9W5"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 17 15:32:39 +0000 2009",
+            "description": "National Renewable Energy Laboratory\n\n#TransformingEnergy",
+            "favourites_count": 4880,
+            "followers_count": 65458,
+            "friends_count": 797,
+            "geo_enabled": true,
+            "id": 24898621,
+            "id_str": "24898621",
+            "listed_count": 1825,
+            "location": "Golden, CO",
+            "name": "NREL",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24898621/1552920178",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1040631524364902400/2LD66QUz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040631524364902400/2LD66QUz_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NREL",
+            "statuses_count": 11898,
+            "url": "http://t.co/n18Ik5xusi",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1159177468105940993,
+    "quoted_status_id_str": "1159177468105940993",
+    "retweet_count": 1,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Just last week, the @ClimateCrisis committee visited @NREL to learn about how we can move clean solar from the lab\u2026 https://t.co/mNEGWzKY3H",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1159525431273545728",
+            "url": "https://t.co/mNEGWzKY3H"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 18 20:03:57 +0000 2013",
+        "default_profile": true,
+        "description": "Tampa Bay's Congresswoman \ud83c\uddfa\ud83c\uddf8 Chair of the Select Committee on the Climate Crisis",
+        "favourites_count": 3240,
+        "followers_count": 19031,
+        "friends_count": 4212,
+        "geo_enabled": true,
+        "id": 1880674038,
+        "id_str": "1880674038",
+        "listed_count": 862,
+        "name": "US Rep Kathy Castor",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880674038/1566066399",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148730766270128128/KkoP7wlR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148730766270128128/KkoP7wlR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "USRepKCastor",
+        "statuses_count": 6274,
+        "url": "https://t.co/H9etkVQGX3",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1109185600354242563,
+            "id_str": "1109185600354242563",
+            "name": "ClimateCrisis",
+            "screen_name": "ClimateCrisis"
+        },
+        {
+            "id": 24898621,
+            "id_str": "24898621",
+            "name": "NREL",
+            "screen_name": "NREL"
+        }
+    ]
+}

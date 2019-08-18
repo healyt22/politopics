@@ -1,0 +1,127 @@
+{
+    "created_at": "Thu Jul 11 17:54:33 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1149376445187264512,
+    "id_str": "1149376445187264512",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 10 22:37:36 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1149085290033602560,
+        "id_str": "1149085290033602560",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/nLm8XCRoWO",
+                "expanded_url": "https://twitter.com/RobertHarding/status/1149085290033602560/photo/1",
+                "id": 1149085288452329472,
+                "media_url": "http://pbs.twimg.com/media/D_Je-1LUEAAe1Nc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_Je-1LUEAAe1Nc.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1120,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1120,
+                        "h": 630,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/nLm8XCRoWO"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "Reps. Katko, Morelle propose $25M in federal grants for summer reading at meal sites https://t.co/ztNSyQdMun https://t.co/nLm8XCRoWO",
+        "urls": [
+            {
+                "expanded_url": "http://dlvr.it/R89z9Y",
+                "url": "https://t.co/ztNSyQdMun"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Mar 22 02:07:15 +0000 2008",
+            "description": "Politics reporter at @The_Citizen since 2009. @syrpressclub's Bill Carey Journalist of the Year. Sarah's husband. Uncle. Buffalo sports fan. Food truck lover.",
+            "favourites_count": 8250,
+            "followers_count": 5286,
+            "friends_count": 5289,
+            "id": 14194973,
+            "id_str": "14194973",
+            "listed_count": 221,
+            "location": "Central New York",
+            "name": "Robert Harding",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14194973/1565432827",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1160921262773981184/lLZc6fba_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160921262773981184/lLZc6fba_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RobertHarding",
+            "statuses_count": 124449,
+            "url": "https://t.co/39dMuwZSWR"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1149085290033602560,
+    "quoted_status_id_str": "1149085290033602560",
+    "retweet_count": 2,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "In Central New York, vulnerable children experience food insecurity and loss of reading skills during the summer mo\u2026 https://t.co/30SMHQ8tmy",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1149376445187264512",
+            "url": "https://t.co/30SMHQ8tmy"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 07 21:51:49 +0000 2015",
+        "default_profile": true,
+        "description": "Official Twitter account of Rep. John Katko. Proudly representing New York's 24th Congressional District.",
+        "favourites_count": 174,
+        "followers_count": 14769,
+        "friends_count": 238,
+        "geo_enabled": true,
+        "id": 2966765501,
+        "id_str": "2966765501",
+        "listed_count": 555,
+        "location": "Syracuse, New York",
+        "name": "John Katko",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966765501/1522697719",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/554696221269712897/C6aDs9sH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/554696221269712897/C6aDs9sH_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJohnKatko",
+        "statuses_count": 1047,
+        "url": "https://t.co/GLTSxMTZwp",
+        "verified": true
+    },
+    "user_mentions": []
+}

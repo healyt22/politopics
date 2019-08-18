@@ -1,0 +1,80 @@
+{
+    "created_at": "Fri May 10 19:19:43 +0000 2019",
+    "favorite_count": 21,
+    "hashtags": [],
+    "id": 1126929830455533568,
+    "id_str": "1126929830455533568",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/M976SCoOfF",
+            "expanded_url": "https://twitter.com/SenJohnThune/status/1126929830455533568/photo/1",
+            "id": 1126922768912650240,
+            "media_url": "http://pbs.twimg.com/media/D6OiSaJWkAAiqAH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6OiSaJWkAAiqAH.jpg",
+            "sizes": {
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2016,
+                    "h": 1512,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/M976SCoOfF"
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Honored to receive the Spirit of Enterprise Award from the @USChamber this morning in Sioux Falls. https://t.co/M976SCoOfF",
+    "urls": [],
+    "user": {
+        "created_at": "Tue May 10 16:41:48 +0000 2011",
+        "description": "U.S. Senator John Thune, South Dakota. Senate Republican Whip. Father. Grandfather. Husband. Avid Outdoorsman. Sports Fan.",
+        "favourites_count": 54,
+        "followers_count": 94288,
+        "friends_count": 326,
+        "geo_enabled": true,
+        "id": 296361085,
+        "id_str": "296361085",
+        "listed_count": 2287,
+        "name": "Senator John Thune",
+        "profile_background_color": "F8F4E4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296361085/1452790054",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110550047966543873/ppEe8HG0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110550047966543873/ppEe8HG0_normal.png",
+        "profile_link_color": "264B59",
+        "profile_sidebar_border_color": "990000",
+        "profile_sidebar_fill_color": "333333",
+        "profile_text_color": "808080",
+        "profile_use_background_image": true,
+        "screen_name": "SenJohnThune",
+        "statuses_count": 5414,
+        "url": "http://t.co/OiwOiAFGGw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 85606078,
+            "id_str": "85606078",
+            "name": "U.S. Chamber",
+            "screen_name": "USChamber"
+        }
+    ]
+}

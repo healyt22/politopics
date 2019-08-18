@@ -1,0 +1,103 @@
+{
+    "created_at": "Thu Apr 18 22:28:16 +0000 2019",
+    "hashtags": [],
+    "id": 1119004748638765057,
+    "id_str": "1119004748638765057",
+    "lang": "en",
+    "retweet_count": 557,
+    "retweeted_status": {
+        "created_at": "Thu Apr 18 22:07:24 +0000 2019",
+        "favorite_count": 1456,
+        "hashtags": [],
+        "id": 1118999494639673344,
+        "id_str": "1118999494639673344",
+        "lang": "en",
+        "retweet_count": 557,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Dear @HouseDemocrats :\n\nYou told us to be patient. You told us to be cautious. You told us to wait for Robert Muell\u2026 https://t.co/wq0SHIGagP",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1118999494639673344",
+                "url": "https://t.co/wq0SHIGagP"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 02 20:11:24 +0000 2008",
+            "description": "Turning ordinary action into extraordinary change.",
+            "favourites_count": 2872,
+            "followers_count": 31770,
+            "friends_count": 3077,
+            "id": 14630443,
+            "id_str": "14630443",
+            "listed_count": 962,
+            "name": "CREDO Mobile",
+            "profile_background_color": "F3F1E0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14630443/1514574142",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/788771036560973825/J71DFjaY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/788771036560973825/J71DFjaY_normal.jpg",
+            "profile_link_color": "FF6319",
+            "profile_sidebar_border_color": "37424A",
+            "profile_sidebar_fill_color": "A1DAD0",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "CREDOMobile",
+            "statuses_count": 26582,
+            "url": "http://t.co/3lUl5cxIuu",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 43963249,
+                "id_str": "43963249",
+                "name": "House Democrats",
+                "screen_name": "HouseDemocrats"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CREDOMobile: Dear @HouseDemocrats :\n\nYou told us to be patient. You told us to be cautious. You told us to wait for Robert Mueller.\n\nWe\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Dec 31 16:01:33 +0000 2018",
+        "default_profile": true,
+        "description": "Proudly serving Michigan's 13th Congressional District. #13thDistrictStrong",
+        "favourites_count": 19,
+        "followers_count": 189298,
+        "friends_count": 308,
+        "id": 1079769536730140672,
+        "id_str": "1079769536730140672",
+        "listed_count": 782,
+        "location": "Michigan, USA",
+        "name": "Congresswoman Rashida Tlaib",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079769536730140672/1546466242",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097639158888230912/GFONbJEm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097639158888230912/GFONbJEm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepRashida",
+        "statuses_count": 404,
+        "url": "https://t.co/9yGTAWgQBV",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14630443,
+            "id_str": "14630443",
+            "name": "CREDO Mobile",
+            "screen_name": "CREDOMobile"
+        },
+        {
+            "id": 43963249,
+            "id_str": "43963249",
+            "name": "House Democrats",
+            "screen_name": "HouseDemocrats"
+        }
+    ]
+}

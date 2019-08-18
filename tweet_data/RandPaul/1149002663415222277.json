@@ -1,0 +1,225 @@
+{
+    "created_at": "Wed Jul 10 17:09:17 +0000 2019",
+    "hashtags": [
+        {
+            "text": "GLIDCFLY"
+        },
+        {
+            "text": "GLIAdvocacy"
+        }
+    ],
+    "id": 1149002663415222277,
+    "id_str": "1149002663415222277",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Nt5YUGVeVn",
+            "expanded_url": "https://twitter.com/GLIAdvocacy/status/1148980861729218560/photo/1",
+            "id": 1148980857937498118,
+            "media_url": "http://pbs.twimg.com/media/D_IAALMWkAY8g_U.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_IAALMWkAY8g_U.jpg",
+            "sizes": {
+                "large": {
+                    "w": 1263,
+                    "h": 663,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 357,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 630,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/Nt5YUGVeVn"
+        }
+    ],
+    "retweet_count": 23,
+    "retweeted_status": {
+        "created_at": "Wed Jul 10 15:42:39 +0000 2019",
+        "favorite_count": 118,
+        "hashtags": [
+            {
+                "text": "GLIDCFLY"
+            },
+            {
+                "text": "GLIAdvocacy"
+            }
+        ],
+        "id": 1148980861729218560,
+        "id_str": "1148980861729218560",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Nt5YUGVeVn",
+                "expanded_url": "https://twitter.com/GLIAdvocacy/status/1148980861729218560/photo/1",
+                "id": 1148980857937498118,
+                "media_url": "http://pbs.twimg.com/media/D_IAALMWkAY8g_U.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D_IAALMWkAY8g_U.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 1263,
+                        "h": 663,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Nt5YUGVeVn"
+            }
+        ],
+        "place": {
+            "id": "0fc342b3d1147000",
+            "url": "https://api.twitter.com/1.1/geo/id/0fc342b3d1147000.json",
+            "place_type": "poi",
+            "name": "United States Capitol",
+            "full_name": "United States Capitol",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 23,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @RandPaul for joining @GLIchamber during our 2019 #GLIDCFLY! #GLIAdvocacy https://t.co/Nt5YUGVeVn",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Dec 05 16:15:38 +0000 2014",
+            "description": "As the voice of business in our community, GLI serves as an advocate for policies and legislation that will keep our region and state economically competitive",
+            "favourites_count": 728,
+            "followers_count": 791,
+            "friends_count": 798,
+            "geo_enabled": true,
+            "id": 2906546512,
+            "id_str": "2906546512",
+            "listed_count": 14,
+            "location": "Louisville, KY",
+            "name": "GLI Advocacy",
+            "profile_background_color": "54575A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2906546512/1455738205",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/700043016640323584/lp7Tu9SU_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/700043016640323584/lp7Tu9SU_normal.png",
+            "profile_link_color": "1A367A",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "GLIAdvocacy",
+            "statuses_count": 2726,
+            "url": "https://t.co/ZL5ddTAytH"
+        },
+        "user_mentions": [
+            {
+                "id": 216881337,
+                "id_str": "216881337",
+                "name": "Senator Rand Paul",
+                "screen_name": "RandPaul"
+            },
+            {
+                "id": 18723530,
+                "id_str": "18723530",
+                "name": "Greater Louisville Inc. - Your Metro Chamber",
+                "screen_name": "GLIchamber"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GLIAdvocacy: Thank you @RandPaul for joining @GLIchamber during our 2019 #GLIDCFLY! #GLIAdvocacy https://t.co/Nt5YUGVeVn",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 17 23:52:35 +0000 2010",
+        "description": "U.S. Senator for Kentucky | I fight for the Constitution, individual liberty and the freedoms that make this country great.",
+        "favourites_count": 855,
+        "followers_count": 2513780,
+        "friends_count": 491,
+        "geo_enabled": true,
+        "id": 216881337,
+        "id_str": "216881337",
+        "listed_count": 12831,
+        "location": "Bowling Green, KY",
+        "name": "Senator Rand Paul",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216881337/1508431224",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RandPaul",
+        "statuses_count": 13128,
+        "url": "https://t.co/V4RkZkfWyy",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2906546512,
+            "id_str": "2906546512",
+            "name": "GLI Advocacy",
+            "screen_name": "GLIAdvocacy"
+        },
+        {
+            "id": 216881337,
+            "id_str": "216881337",
+            "name": "Senator Rand Paul",
+            "screen_name": "RandPaul"
+        },
+        {
+            "id": 18723530,
+            "id_str": "18723530",
+            "name": "Greater Louisville Inc. - Your Metro Chamber",
+            "screen_name": "GLIchamber"
+        }
+    ]
+}

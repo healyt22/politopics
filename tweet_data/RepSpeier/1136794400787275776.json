@@ -1,0 +1,102 @@
+{
+    "created_at": "Fri Jun 07 00:38:00 +0000 2019",
+    "favorite_count": 465,
+    "hashtags": [],
+    "id": 1136794400787275776,
+    "id_str": "1136794400787275776",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/o6Uvgofuw3",
+            "expanded_url": "https://twitter.com/RepSpeier/status/1136794400787275776/video/1",
+            "id": 1136794266229809152,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136794266229809152/pu/img/yQ4f6rBTAsMQmXu4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136794266229809152/pu/img/yQ4f6rBTAsMQmXu4.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/o6Uvgofuw3",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "duration_millis": 10267,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1136794266229809152/pu/vid/480x480/2xQaIPqarJci3VFS.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1136794266229809152/pu/vid/320x320/WBwThfV_kRdOrSr9.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1136794266229809152/pu/pl/HZeUVgRJiZnUXTVj.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1136794266229809152/pu/vid/720x720/AzBs_4S_8N4M4svp.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 108,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Red White and Blue - America\u2019s and France\u2019s common colors https://t.co/o6Uvgofuw3",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Mar 17 17:02:38 +0000 2009",
+        "default_profile": true,
+        "description": "Fearless Fighter for women\u2019s equality, LGBTQ rights & the disenfranchised. Proud mom of 2 kids & Lab Buddy, wife & Rep for CA14, America's economic powerhouse!",
+        "favourites_count": 428,
+        "followers_count": 142583,
+        "friends_count": 21883,
+        "geo_enabled": true,
+        "id": 24913074,
+        "id_str": "24913074",
+        "listed_count": 2149,
+        "name": "Jackie Speier",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24913074/1558543616",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100059741370417152/tmWEzsjo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100059741370417152/tmWEzsjo_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepSpeier",
+        "statuses_count": 5678,
+        "url": "https://t.co/kqVDVfirna",
+        "verified": true
+    },
+    "user_mentions": []
+}

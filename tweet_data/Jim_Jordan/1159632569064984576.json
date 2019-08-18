@@ -1,0 +1,222 @@
+{
+    "created_at": "Fri Aug 09 01:08:44 +0000 2019",
+    "hashtags": [],
+    "id": 1159632569064984576,
+    "id_str": "1159632569064984576",
+    "lang": "en",
+    "quoted_status_id": 1159628516083806208,
+    "quoted_status_id_str": "1159628516083806208",
+    "retweet_count": 2467,
+    "retweeted_status": {
+        "created_at": "Fri Aug 09 01:00:21 +0000 2019",
+        "favorite_count": 7840,
+        "hashtags": [],
+        "id": 1159630459195842560,
+        "id_str": "1159630459195842560",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status": {
+            "created_at": "Fri Aug 09 00:52:37 +0000 2019",
+            "favorite_count": 2767,
+            "hashtags": [],
+            "id": 1159628516083806208,
+            "id_str": "1159628516083806208",
+            "lang": "en",
+            "quoted_status_id": 1159616265981452289,
+            "quoted_status_id_str": "1159616265981452289",
+            "retweet_count": 971,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "Coming up on @seanhannity! https://t.co/qTFcoF93n2",
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/TomFitton/status/1159616265981452289",
+                    "url": "https://t.co/qTFcoF93n2"
+                }
+            ],
+            "user": {
+                "created_at": "Sat Dec 20 14:32:44 +0000 2008",
+                "description": "President, Judicial Watch. (These are my personal views only!)  Author, New York Times best seller Clean House. \nhttps://t.co/midr73gi0A",
+                "favourites_count": 474,
+                "followers_count": 627570,
+                "friends_count": 3041,
+                "id": 18266688,
+                "id_str": "18266688",
+                "listed_count": 2540,
+                "location": "Washington, DC",
+                "name": "Tom Fitton",
+                "profile_background_color": "568448",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18266688/1527968436",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "ECD295",
+                "profile_text_color": "3C3940",
+                "screen_name": "TomFitton",
+                "statuses_count": 28289,
+                "url": "http://t.co/ebnjxMYdbL",
+                "verified": true
+            },
+            "user_mentions": [
+                {
+                    "id": 41634520,
+                    "id_str": "41634520",
+                    "name": "Sean Hannity",
+                    "screen_name": "seanhannity"
+                }
+            ]
+        },
+        "quoted_status_id": 1159628516083806208,
+        "quoted_status_id_str": "1159628516083806208",
+        "retweet_count": 2467,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Talking about the BREAKING release of Bruce Ohr 302s tonight on @seanhannity with @Jim_Jordan and @jsolomonReports https://t.co/kAY7CpNq6c",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/TomFitton/status/1159628516083806208",
+                "url": "https://t.co/kAY7CpNq6c"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 19 01:02:12 +0000 2009",
+            "description": "@FoxNews Contributor, award winning National Security/War Correspondent. @IWF Fellow. Taking back the story. Follow me on Instagram ScarterDC",
+            "favourites_count": 23654,
+            "followers_count": 776460,
+            "friends_count": 4616,
+            "geo_enabled": true,
+            "id": 25202268,
+            "id_str": "25202268",
+            "listed_count": 3250,
+            "location": "Washington, D.C.",
+            "name": "Sara A. Carter",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25202268/1548362448",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107325511028613127/7SvT3rHh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107325511028613127/7SvT3rHh_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "0E0E0E",
+            "profile_text_color": "4A66C1",
+            "profile_use_background_image": true,
+            "screen_name": "SaraCarterDC",
+            "statuses_count": 23906,
+            "url": "https://t.co/SZ0zbfRggH",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 41634520,
+                "id_str": "41634520",
+                "name": "Sean Hannity",
+                "screen_name": "seanhannity"
+            },
+            {
+                "id": 18166778,
+                "id_str": "18166778",
+                "name": "Rep. Jim Jordan",
+                "screen_name": "Jim_Jordan"
+            },
+            {
+                "id": 523248016,
+                "id_str": "523248016",
+                "name": "John Solomon",
+                "screen_name": "jsolomonReports"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SaraCarterDC: Talking about the BREAKING release of Bruce Ohr 302s tonight on @seanhannity with @Jim_Jordan and @jsolomonReports https:\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Dec 16 17:20:24 +0000 2008",
+        "description": "Proudly serving Ohio's beautiful fourth district. Ranking Member on @GOPoversight. Fighting to #DoWhatWeSaid",
+        "favourites_count": 1002,
+        "followers_count": 672653,
+        "friends_count": 4311,
+        "geo_enabled": true,
+        "id": 18166778,
+        "id_str": "18166778",
+        "listed_count": 3750,
+        "location": "Washington, D.C. ",
+        "name": "Rep. Jim Jordan",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18166778/1406042839",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+        "profile_link_color": "4F90DB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BA0D1F",
+        "profile_text_color": "01050D",
+        "screen_name": "Jim_Jordan",
+        "statuses_count": 3416,
+        "url": "https://t.co/wd2j7YpRZm",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25202268,
+            "id_str": "25202268",
+            "name": "Sara A. Carter",
+            "screen_name": "SaraCarterDC"
+        },
+        {
+            "id": 41634520,
+            "id_str": "41634520",
+            "name": "Sean Hannity",
+            "screen_name": "seanhannity"
+        },
+        {
+            "id": 18166778,
+            "id_str": "18166778",
+            "name": "Rep. Jim Jordan",
+            "screen_name": "Jim_Jordan"
+        },
+        {
+            "id": 523248016,
+            "id_str": "523248016",
+            "name": "John Solomon",
+            "screen_name": "jsolomonReports"
+        }
+    ]
+}

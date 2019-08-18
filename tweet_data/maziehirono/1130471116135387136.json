@@ -1,0 +1,87 @@
+{
+    "created_at": "Mon May 20 13:51:31 +0000 2019",
+    "favorite_count": 357,
+    "hashtags": [],
+    "id": 1130471116135387136,
+    "id_str": "1130471116135387136",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/sg25MynfLL",
+            "expanded_url": "https://twitter.com/maziehirono/status/1130471116135387136/photo/1",
+            "id": 1130471110481461248,
+            "media_url": "http://pbs.twimg.com/media/D7A9fEkWwAAe4pI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7A9fEkWwAAe4pI.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 510,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1200,
+                    "h": 1600,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/sg25MynfLL"
+        }
+    ],
+    "retweet_count": 28,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Was happy to run into my dear friend and colleague @ChrisCoons in the @NewDay green room! https://t.co/sg25MynfLL",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Nov 24 03:10:37 +0000 2009",
+        "description": "U.S. Senator Mazie K. Hirono - Proudly Serving the People of Hawaii",
+        "favourites_count": 99,
+        "followers_count": 413255,
+        "friends_count": 1424,
+        "geo_enabled": true,
+        "id": 92186819,
+        "id_str": "92186819",
+        "listed_count": 3272,
+        "location": "Hawaii",
+        "name": "Senator Mazie Hirono",
+        "profile_background_color": "B7A7EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92186819/1519779404",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1130916929957445632/mkavgyCa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130916929957445632/mkavgyCa_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "maziehirono",
+        "statuses_count": 5639,
+        "url": "http://t.co/m4u3CFOBHg",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15324851,
+            "id_str": "15324851",
+            "name": "Senator Chris Coons",
+            "screen_name": "ChrisCoons"
+        },
+        {
+            "id": 1375289149,
+            "id_str": "1375289149",
+            "name": "New Day",
+            "screen_name": "NewDay"
+        }
+    ]
+}

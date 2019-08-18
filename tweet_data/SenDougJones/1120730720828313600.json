@@ -1,0 +1,80 @@
+{
+    "created_at": "Tue Apr 23 16:46:40 +0000 2019",
+    "favorite_count": 41,
+    "hashtags": [],
+    "id": 1120730720828313600,
+    "id_str": "1120730720828313600",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/RQi8lpao4D",
+            "expanded_url": "https://twitter.com/SenDougJones/status/1120730720828313600/photo/1",
+            "id": 1120730604172185603,
+            "media_url": "http://pbs.twimg.com/media/D42ii-6XkAMo9cX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D42ii-6XkAMo9cX.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 2048,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 1200,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 680,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/RQi8lpao4D"
+        }
+    ],
+    "retweet_count": 24,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "TOMORROW, April 24, Senator Jones will be hosting a town hall meeting at @AuburnU \u2013 we hope you can make it! https://t.co/RQi8lpao4D",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 13 22:59:11 +0000 2017",
+        "default_profile": true,
+        "description": "Latest news from the Office of U.S. Senator Doug Jones. Account managed by staff. Tweets from the Senator signed -Doug.",
+        "favourites_count": 175,
+        "followers_count": 21775,
+        "friends_count": 276,
+        "geo_enabled": true,
+        "id": 941080085121175552,
+        "id_str": "941080085121175552",
+        "listed_count": 473,
+        "location": "Birmingham, AL",
+        "name": "Doug Jones",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/941080085121175552/1532030094",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020031896741400577/RvxrHrIA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020031896741400577/RvxrHrIA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenDougJones",
+        "statuses_count": 919,
+        "url": "https://t.co/ybmvFhggOr",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14114564,
+            "id_str": "14114564",
+            "name": "Auburn University",
+            "screen_name": "AuburnU"
+        }
+    ]
+}

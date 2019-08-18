@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Sep 17 15:56:31 +0000 2018",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 1041717544288174080,
+    "id_str": "1041717544288174080",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Sep 17 15:28:35 +0000 2018",
+        "favorite_count": 19,
+        "hashtags": [],
+        "id": 1041710513896542214,
+        "id_str": "1041710513896542214",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Last night, Sun., Sept. 16th, 230th BSB Soldiers transported cots and blankets provided by the @RedCross to multipl\u2026 https://t.co/Rku1sBakGq",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1041710513896542214",
+                "url": "https://t.co/Rku1sBakGq"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Sep 09 17:05:17 +0000 2010",
+            "description": "Official tweets NC National Guard (Following does not=endorsement) Our Correspondents: @SSGRJ @PhotosInGreen @MilSamuels  (919) 664-6242",
+            "favourites_count": 1384,
+            "followers_count": 13227,
+            "friends_count": 869,
+            "geo_enabled": true,
+            "id": 188811808,
+            "id_str": "188811808",
+            "listed_count": 323,
+            "location": "Raleigh, NC",
+            "name": "NC National Guard",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/188811808/1555697236",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1119301024253132800/lb5BdDKp_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119301024253132800/lb5BdDKp_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NCNationalGuard",
+            "statuses_count": 12182,
+            "url": "https://t.co/7PqT1pmxlI",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 6519522,
+                "id_str": "6519522",
+                "name": "American Red Cross",
+                "screen_name": "RedCross"
+            }
+        ]
+    },
+    "quoted_status_id": 1041710513896542214,
+    "quoted_status_id_str": "1041710513896542214",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you @NCNationalGuard! Keep up the good work! https://t.co/71IIcCD2dF",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NCNationalGuard/status/1041710513896542214",
+            "url": "https://t.co/71IIcCD2dF"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 18:27:36 +0000 2013",
+        "description": "Raleigh native representing North Carolina's 2nd district in Congress.",
+        "favourites_count": 123,
+        "followers_count": 16676,
+        "friends_count": 545,
+        "id": 1058460818,
+        "id_str": "1058460818",
+        "listed_count": 653,
+        "name": "George Holding",
+        "profile_background_color": "09073D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058460818/1484585672",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1124400969083699200/6ncbK0p__normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124400969083699200/6ncbK0p__normal.png",
+        "profile_link_color": "0D0B57",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepHolding",
+        "statuses_count": 894,
+        "url": "http://t.co/zH2CxxmUzu",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 188811808,
+            "id_str": "188811808",
+            "name": "NC National Guard",
+            "screen_name": "NCNationalGuard"
+        }
+    ]
+}

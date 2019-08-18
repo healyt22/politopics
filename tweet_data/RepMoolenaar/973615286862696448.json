@@ -1,0 +1,138 @@
+{
+    "created_at": "Tue Mar 13 17:42:27 +0000 2018",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 973615286862696448,
+    "id_str": "973615286862696448",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Mar 13 00:45:01 +0000 2018",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 973359240709582848,
+        "id_str": "973359240709582848",
+        "in_reply_to_screen_name": "RepMoolenaar",
+        "in_reply_to_user_id": 2696643955,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qxBXxPg0gE",
+                "expanded_url": "https://twitter.com/jenpackfan/status/973359240709582848/photo/1",
+                "id": 973359221700833280,
+                "media_url": "http://pbs.twimg.com/media/DYIRDhhUMAA6D7j.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DYIRDhhUMAA6D7j.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qxBXxPg0gE"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@RepMoolenaar Thank you for meeting with us and hearing about why cancer research is vital. @ACSCANMichigan @ACSCAN https://t.co/qxBXxPg0gE",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Aug 07 13:47:46 +0000 2013",
+            "description": "Teacher, Green Bay Packer Shareholder,  ACS CAN Volunteer, Powerlifter",
+            "favourites_count": 441,
+            "followers_count": 89,
+            "friends_count": 330,
+            "id": 1653018271,
+            "id_str": "1653018271",
+            "listed_count": 4,
+            "name": "Jennifer Coston",
+            "profile_background_color": "0E421C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653018271/1375925694",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/431227948285186050/ef5MHG05_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/431227948285186050/ef5MHG05_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "jenpackfan",
+            "statuses_count": 999
+        },
+        "user_mentions": [
+            {
+                "id": 2696643955,
+                "id_str": "2696643955",
+                "name": "Rep. John Moolenaar",
+                "screen_name": "RepMoolenaar"
+            },
+            {
+                "id": 1485843624,
+                "id_str": "1485843624",
+                "name": "ACS CAN Michigan",
+                "screen_name": "ACSCANMichigan"
+            },
+            {
+                "id": 15008539,
+                "id_str": "15008539",
+                "name": "ACSCAN",
+                "screen_name": "ACSCAN"
+            }
+        ]
+    },
+    "quoted_status_id": 973359240709582848,
+    "quoted_status_id_str": "973359240709582848",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thank you! It was nice to see you and your group yesterday. https://t.co/95UICVsK3k",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/jenpackfan/status/973359240709582848",
+            "url": "https://t.co/95UICVsK3k"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 31 21:09:14 +0000 2014",
+        "default_profile": true,
+        "description": "Representing Michigan's Fourth Congressional District. This is the Twitter page of the official House office.",
+        "favourites_count": 470,
+        "followers_count": 11015,
+        "friends_count": 339,
+        "id": 2696643955,
+        "id_str": "2696643955",
+        "listed_count": 417,
+        "name": "Rep. John Moolenaar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696643955/1420046825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoolenaar",
+        "statuses_count": 854,
+        "url": "http://t.co/cwXZtKCJhJ",
+        "verified": true
+    },
+    "user_mentions": []
+}

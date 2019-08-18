@@ -1,0 +1,147 @@
+{
+    "created_at": "Tue Jun 18 13:11:50 +0000 2019",
+    "favorite_count": 731,
+    "hashtags": [],
+    "id": 1140970375574147074,
+    "id_str": "1140970375574147074",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 18 11:27:32 +0000 2019",
+        "favorite_count": 23,
+        "hashtags": [
+            {
+                "text": "Iran"
+            }
+        ],
+        "id": 1140944127397416961,
+        "id_str": "1140944127397416961",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "On what moves would lead him to consider going to war with #Iran, @POTUS tells @TIME: \"I would certainly go over nu\u2026 https://t.co/mpGd6f8TCr",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1140944127397416961",
+                "url": "https://t.co/mpGd6f8TCr"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Dec 06 08:56:45 +0000 2008",
+            "description": "@WhiteHouse bureau chief @VOANews. Past president: @fccjapan, @SeoulFCC; Member: @aaja, @opcofamerica, @pressclubdc, @whca. Instagram: @newsguyusa",
+            "favourites_count": 6546,
+            "followers_count": 88004,
+            "friends_count": 1997,
+            "geo_enabled": true,
+            "id": 17919393,
+            "id_str": "17919393",
+            "listed_count": 4153,
+            "location": "Washington, DC",
+            "name": "Steve Herman",
+            "profile_background_color": "BADFCD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17919393/1540929053",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1153841824554864641/6oVXCHxm_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153841824554864641/6oVXCHxm_normal.png",
+            "profile_link_color": "002868",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "191622",
+            "profile_text_color": "993B00",
+            "profile_use_background_image": true,
+            "screen_name": "W7VOA",
+            "statuses_count": 108513,
+            "url": "https://t.co/Gxigiw7BPO",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 822215679726100480,
+                "id_str": "822215679726100480",
+                "name": "President Trump",
+                "screen_name": "POTUS"
+            },
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "quoted_status_id": 1140944127397416961,
+    "quoted_status_id_str": "1140944127397416961",
+    "retweet_count": 201,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Trump had a diplomatic deal that was working to stop Iran\u2019s nuclear program. He scrapped it. \n\nNow he wants to go t\u2026 https://t.co/GMyUSyeJQ6",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1140970375574147074",
+            "url": "https://t.co/GMyUSyeJQ6"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 30 20:00:32 +0000 2010",
+        "description": "Husband to @AnneHolton, father of 3. U.S. Senator from Virginia. In my free time, I\u2019m either outdoors, reading, or jamming on the harmonica.",
+        "favourites_count": 838,
+        "followers_count": 988476,
+        "friends_count": 773,
+        "geo_enabled": true,
+        "id": 172858784,
+        "id_str": "172858784",
+        "listed_count": 6283,
+        "location": "Richmond, VA",
+        "name": "Tim Kaine",
+        "profile_background_color": "CFCFCF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/172858784/1495807361",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/922472118377476096/XqCk_uDv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/922472118377476096/XqCk_uDv_normal.jpg",
+        "profile_link_color": "AB0A0F",
+        "profile_sidebar_border_color": "191561",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "timkaine",
+        "statuses_count": 10044,
+        "url": "https://t.co/YNK0Xrmt2G",
+        "verified": true
+    },
+    "user_mentions": []
+}

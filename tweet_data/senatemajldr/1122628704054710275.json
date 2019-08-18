@@ -1,0 +1,75 @@
+{
+    "created_at": "Sun Apr 28 22:28:35 +0000 2019",
+    "favorite_count": 567,
+    "hashtags": [],
+    "id": 1122628704054710275,
+    "id_str": "1122628704054710275",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/WnyWPwtxY6",
+            "expanded_url": "https://twitter.com/senatemajldr/status/1122628704054710275/photo/1",
+            "id": 1122628544876748802,
+            "media_url": "http://pbs.twimg.com/media/D5RgtrAXoAI_pmg.png",
+            "media_url_https": "https://pbs.twimg.com/media/D5RgtrAXoAI_pmg.png",
+            "sizes": {
+                "small": {
+                    "w": 550,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 600,
+                    "h": 742,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 600,
+                    "h": 742,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/WnyWPwtxY6"
+        }
+    ],
+    "retweet_count": 125,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "My statement on the passing of former Senator Richard Lugar (R-IN): https://t.co/WnyWPwtxY6",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 07 20:21:15 +0000 2013",
+        "description": "U.S. Senate Majority Leader Mitch McConnell",
+        "favourites_count": 88,
+        "followers_count": 975172,
+        "friends_count": 105,
+        "geo_enabled": true,
+        "id": 1249982359,
+        "id_str": "1249982359",
+        "listed_count": 4534,
+        "location": "Washington, DC",
+        "name": "Leader McConnell",
+        "profile_background_color": "0066CC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249982359/1563547854",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/732596482336002049/JYMrr9_4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/732596482336002049/JYMrr9_4_normal.jpg",
+        "profile_link_color": "AD0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "senatemajldr",
+        "statuses_count": 3702,
+        "url": "https://t.co/J5RQpHiTgo",
+        "verified": true
+    },
+    "user_mentions": []
+}

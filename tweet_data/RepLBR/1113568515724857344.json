@@ -1,0 +1,116 @@
+{
+    "created_at": "Wed Apr 03 22:26:37 +0000 2019",
+    "hashtags": [],
+    "id": 1113568515724857344,
+    "id_str": "1113568515724857344",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Apr 03 19:46:09 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1113528132483596289,
+        "id_str": "1113528132483596289",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you @RepLBR for visiting with @Toyota to learn about our plans for incorporating hydrogen fuel in transportat\u2026 https://t.co/IRXXTVtL1Y",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1113528132483596289",
+                "url": "https://t.co/IRXXTVtL1Y"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 23 17:11:17 +0000 2018",
+            "default_profile": true,
+            "description": "Sharing news and updates from @Toyota's Public Policy team",
+            "favourites_count": 379,
+            "followers_count": 2337,
+            "friends_count": 630,
+            "id": 967084459966148608,
+            "id_str": "967084459966148608",
+            "listed_count": 26,
+            "location": "Washington, DC",
+            "name": "Toyota Policy",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/967084459966148608/1520000949",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/969580036339638272/iS4N5wXc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/969580036339638272/iS4N5wXc_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ToyotaPolicy",
+            "statuses_count": 1061,
+            "url": "https://t.co/HpCYxJQVcu",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 817050219007328258,
+                "id_str": "817050219007328258",
+                "name": "Rep. Blunt Rochester",
+                "screen_name": "RepLBR"
+            },
+            {
+                "id": 14219877,
+                "id_str": "14219877",
+                "name": "Toyota USA",
+                "screen_name": "Toyota"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ToyotaPolicy: Thank you @RepLBR for visiting with @Toyota to learn about our plans for incorporating hydrogen fuel in transportation th\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 05 16:48:47 +0000 2017",
+        "default_profile": true,
+        "description": "Official Twitter page for U.S. Representative Lisa Blunt Rochester (D-DE).",
+        "favourites_count": 272,
+        "followers_count": 11199,
+        "friends_count": 512,
+        "geo_enabled": true,
+        "id": 817050219007328258,
+        "id_str": "817050219007328258",
+        "listed_count": 361,
+        "location": "Delaware, USA - Washington, DC",
+        "name": "Rep. Blunt Rochester",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817050219007328258/1483635132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096414270890364931/rZ2FxnAr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096414270890364931/rZ2FxnAr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLBR",
+        "statuses_count": 1001,
+        "url": "https://t.co/Fe3XCG51wO",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 967084459966148608,
+            "id_str": "967084459966148608",
+            "name": "Toyota Policy",
+            "screen_name": "ToyotaPolicy"
+        },
+        {
+            "id": 817050219007328258,
+            "id_str": "817050219007328258",
+            "name": "Rep. Blunt Rochester",
+            "screen_name": "RepLBR"
+        },
+        {
+            "id": 14219877,
+            "id_str": "14219877",
+            "name": "Toyota USA",
+            "screen_name": "Toyota"
+        }
+    ]
+}

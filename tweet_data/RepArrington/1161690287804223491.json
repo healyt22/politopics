@@ -1,0 +1,93 @@
+{
+    "created_at": "Wed Aug 14 17:25:22 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1161690287804223491,
+    "id_str": "1161690287804223491",
+    "lang": "en",
+    "place": {
+        "id": "c386efac4d8d46d2",
+        "url": "https://api.twitter.com/1.1/geo/id/c386efac4d8d46d2.json",
+        "place_type": "city",
+        "name": "Abilene",
+        "full_name": "Abilene, TX",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -99.835853,
+                        32.321246
+                    ],
+                    [
+                        -99.665259,
+                        32.321246
+                    ],
+                    [
+                        -99.665259,
+                        32.508856
+                    ],
+                    [
+                        -99.835853,
+                        32.508856
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I\u2019m honored to represent the airmen of @DyessAFBase - the very best of our @usairforce, the crown jewel of the U.S.\u2026 https://t.co/DQioKDVPpW",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1161690287804223491",
+            "url": "https://t.co/DQioKDVPpW"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 03 14:06:44 +0000 2017",
+        "description": "Proudly representing the good people of West Texas in Congress.",
+        "favourites_count": 240,
+        "followers_count": 7314,
+        "friends_count": 1256,
+        "geo_enabled": true,
+        "id": 816284664658874368,
+        "id_str": "816284664658874368",
+        "listed_count": 310,
+        "location": "West Texas",
+        "name": "Rep. Arrington",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816284664658874368/1536674512",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1044646049791520768/2b1S7QU8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044646049791520768/2b1S7QU8_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepArrington",
+        "statuses_count": 1834,
+        "url": "https://t.co/DZziBJQejF",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 205408543,
+            "id_str": "205408543",
+            "name": "Dyess Air Force Base",
+            "screen_name": "DyessAFBase"
+        },
+        {
+            "id": 19611483,
+            "id_str": "19611483",
+            "name": "U.S. Air Force",
+            "screen_name": "usairforce"
+        }
+    ]
+}

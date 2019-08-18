@@ -1,0 +1,168 @@
+{
+    "created_at": "Thu Jul 25 18:38:14 +0000 2019",
+    "favorite_count": 23,
+    "hashtags": [
+        {
+            "text": "PackersCamp"
+        },
+        {
+            "text": "MadeinWI"
+        },
+        {
+            "text": "DreamDrive"
+        }
+    ],
+    "id": 1154460870128222209,
+    "id_str": "1154460870128222209",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jul 25 15:02:25 +0000 2019",
+        "favorite_count": 406,
+        "hashtags": [
+            {
+                "text": "DreamDrive"
+            },
+            {
+                "text": "PackersCamp"
+            }
+        ],
+        "id": 1154406556861116416,
+        "id_str": "1154406556861116416",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/DZQhT08nQl",
+                "expanded_url": "https://twitter.com/packeverywhere/status/1154406556861116416/video/1",
+                "id": 1154406468508106754,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1154406468508106754/pu/img/wnw_puXzA39T8kp6.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1154406468508106754/pu/img/wnw_puXzA39T8kp6.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/DZQhT08nQl",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 5700,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1154406468508106754/pu/vid/720x1280/l-Z4bzfO2tnKEosx.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1154406468508106754/pu/vid/320x568/vxtq6TeOWYegaI8o.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1154406468508106754/pu/pl/N9t5Cy8hHuJcwMVc.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1154406468508106754/pu/vid/360x640/jZnIU_JnjMtLu0Yp.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 59,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Cruisin' down #DreamDrive \ud83d\udeb2.\n\n\ud83c\udf89 #PackersCamp is BACK \ud83c\udf89 https://t.co/DZQhT08nQl",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Apr 11 12:41:04 +0000 2011",
+            "description": "Brought to you by the Green Bay Packers, Packers Everywhere is the place to find Packers events and connect with other fans.",
+            "favourites_count": 87,
+            "followers_count": 40701,
+            "friends_count": 12,
+            "geo_enabled": true,
+            "id": 280491046,
+            "id_str": "280491046",
+            "listed_count": 406,
+            "location": "Everywhere",
+            "name": "Packers Everywhere",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/280491046/1565617798",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1160911302736453634/XkuMpnkm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160911302736453634/XkuMpnkm_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "packeverywhere",
+            "statuses_count": 6400,
+            "url": "http://t.co/QpzOLFC1sz",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1154406556861116416,
+    "quoted_status_id_str": "1154406556861116416",
+    "retweet_count": 2,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "#PackersCamp starts today with a proud #MadeinWI tradition. #DreamDrive https://t.co/OV0NL8lNLP",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/packeverywhere/status/1154406556861116416",
+            "url": "https://t.co/OV0NL8lNLP"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 09 18:29:44 +0000 2013",
+        "description": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+        "favourites_count": 480,
+        "followers_count": 111300,
+        "friends_count": 2659,
+        "geo_enabled": true,
+        "id": 1074518754,
+        "id_str": "1074518754",
+        "listed_count": 2322,
+        "location": "Washington, D.C.",
+        "name": "Sen. Tammy Baldwin",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074518754/1524675375",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888484691120148481/IQiOuvpT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888484691120148481/IQiOuvpT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorBaldwin",
+        "statuses_count": 13330,
+        "url": "http://t.co/p7vErFeoRD",
+        "verified": true
+    },
+    "user_mentions": []
+}

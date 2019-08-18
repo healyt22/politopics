@@ -1,0 +1,106 @@
+{
+    "created_at": "Tue Apr 02 18:58:50 +0000 2019",
+    "hashtags": [],
+    "id": 1113153835617390593,
+    "id_str": "1113153835617390593",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Tue Apr 02 17:24:00 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1113129969515970566,
+        "id_str": "1113129969515970566",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+        "text": "ICYMI: @RepTomReed (R-NY) on the future of health care,\n\n\"The fundamental problem with the affordable care act is i\u2026 https://t.co/l2dsp0lVoC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1113129969515970566",
+                "url": "https://t.co/l2dsp0lVoC"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 20 21:05:41 +0000 2008",
+            "description": "C-SPAN's morning call-in program. Live every day from 7-10am ET with guests taking your calls and tweets. Join the conversation. https://t.co/WVBy5wxXOa",
+            "favourites_count": 1592,
+            "followers_count": 62856,
+            "friends_count": 5268,
+            "geo_enabled": true,
+            "id": 15923226,
+            "id_str": "15923226",
+            "listed_count": 1968,
+            "location": "Washington, DC",
+            "name": "Washington Journal",
+            "profile_background_color": "E3B456",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15923226/1552906192",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107594845097549824/wKKVt_lV_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107594845097549824/wKKVt_lV_normal.png",
+            "profile_link_color": "0E1259",
+            "profile_sidebar_border_color": "F2DB43",
+            "profile_sidebar_fill_color": "D1A347",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "cspanwj",
+            "statuses_count": 40636,
+            "url": "https://t.co/S60LwkBFso",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 252819323,
+                "id_str": "252819323",
+                "name": "Tom Reed",
+                "screen_name": "RepTomReed"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @cspanwj: ICYMI: @RepTomReed (R-NY) on the future of health care,\n\n\"The fundamental problem with the affordable care act is it puts gove\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 16 00:03:43 +0000 2011",
+        "description": "Tom Reed represents New York's 23rd Congressional District",
+        "favourites_count": 952,
+        "followers_count": 17735,
+        "friends_count": 669,
+        "geo_enabled": true,
+        "id": 252819323,
+        "id_str": "252819323",
+        "listed_count": 903,
+        "name": "Tom Reed",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/252819323/1512138973",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/971153729394233344/8-zUt7Os_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/971153729394233344/8-zUt7Os_normal.jpg",
+        "profile_link_color": "782222",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "screen_name": "RepTomReed",
+        "statuses_count": 3226,
+        "url": "http://t.co/IqT9uqukZl",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15923226,
+            "id_str": "15923226",
+            "name": "Washington Journal",
+            "screen_name": "cspanwj"
+        },
+        {
+            "id": 252819323,
+            "id_str": "252819323",
+            "name": "Tom Reed",
+            "screen_name": "RepTomReed"
+        }
+    ]
+}

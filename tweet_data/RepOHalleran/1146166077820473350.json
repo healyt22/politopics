@@ -1,0 +1,168 @@
+{
+    "created_at": "Tue Jul 02 21:17:42 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [
+        {
+            "text": "USA"
+        },
+        {
+            "text": "OneNationOneTeam"
+        }
+    ],
+    "id": 1146166077820473350,
+    "id_str": "1146166077820473350",
+    "lang": "en",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "quoted_status": {
+        "created_at": "Tue Jul 02 20:53:23 +0000 2019",
+        "favorite_count": 108705,
+        "hashtags": [
+            {
+                "text": "FIFAWWC"
+            },
+            {
+                "text": "OneNationOneTeam"
+            }
+        ],
+        "id": 1146159958934937601,
+        "id_str": "1146159958934937601",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/kZh6qH3YKi",
+                "expanded_url": "https://twitter.com/USWNT/status/1146159958934937601/photo/1",
+                "id": 1146159949950652418,
+                "media_url": "http://pbs.twimg.com/media/D-f6ZuCWkAIFwMO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D-f6ZuCWkAIFwMO.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2000,
+                        "h": 1125,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/kZh6qH3YKi"
+            }
+        ],
+        "retweet_count": 39091,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "PARTY LIKE IT\u2019S 1776 because we\u2019re going to the #FIFAWWC FINAL!!!!\n\n#OneNationOneTeam https://t.co/kZh6qH3YKi",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Apr 15 20:39:54 +0000 2010",
+            "description": "4x @FIFAWWC Champs. 4x Olympic Gold. #USWNT \ud83c\uddfa\ud83c\uddf8\u26bd\ufe0f",
+            "favourites_count": 3540,
+            "followers_count": 2482393,
+            "friends_count": 105,
+            "geo_enabled": true,
+            "id": 133448051,
+            "id_str": "133448051",
+            "listed_count": 5347,
+            "location": "World Champions",
+            "name": "U.S. Soccer WNT",
+            "profile_background_color": "E4E5E6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/133448051/1565991603",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147913561185968128/8q7dvHH__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147913561185968128/8q7dvHH__normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "USWNT",
+            "statuses_count": 23561,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1146159958934937601,
+    "quoted_status_id_str": "1146159958934937601",
+    "retweet_count": 7,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Amazing win by an amazing team. #USA \n\n#OneNationOneTeam https://t.co/bJC2UGLp5s",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/USWNT/status/1146159958934937601",
+            "url": "https://t.co/bJC2UGLp5s"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Dec 12 21:02:11 +0000 2016",
+        "description": "Proud husband, father, and grandfather. Fighting for #AZ01 families and co-chairing the @HouseBlueDogs Coalition.",
+        "favourites_count": 1146,
+        "followers_count": 13873,
+        "friends_count": 5760,
+        "geo_enabled": true,
+        "id": 808416682972770304,
+        "id_str": "808416682972770304",
+        "listed_count": 423,
+        "location": "Arizona, USA",
+        "name": "Rep. Tom O'Halleran",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/808416682972770304/1542125530",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083045869312720897/CHw6zuQJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083045869312720897/CHw6zuQJ_normal.jpg",
+        "profile_link_color": "BF0A30",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepOHalleran",
+        "statuses_count": 3381,
+        "url": "https://t.co/qWMQM5cABj",
+        "verified": true
+    },
+    "user_mentions": []
+}

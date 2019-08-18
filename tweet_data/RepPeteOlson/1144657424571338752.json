@@ -1,0 +1,79 @@
+{
+    "created_at": "Fri Jun 28 17:22:51 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "OTD"
+        }
+    ],
+    "id": 1144657424571338752,
+    "id_str": "1144657424571338752",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/4RJGXeHAGt",
+            "expanded_url": "https://twitter.com/RepPeteOlson/status/1144657424571338752/photo/1",
+            "id": 1144657202600431617,
+            "media_url": "http://pbs.twimg.com/media/D-KjqT6XUAEJRlv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-KjqT6XUAEJRlv.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1024,
+                    "h": 825,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1024,
+                    "h": 825,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 548,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/4RJGXeHAGt"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "#OTD in 1919, the Texas Senate ratified the 19th amendment granting women the right to vote! https://t.co/4RJGXeHAGt",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Feb 04 13:40:57 +0000 2009",
+        "description": "Proudly representing TX-22 in Congress. Follow me on Facebook: http://t.co/2aP7aRlj3f and Instagram: https://t.co/hBZNAgZcuI",
+        "favourites_count": 666,
+        "followers_count": 10361,
+        "friends_count": 2161,
+        "geo_enabled": true,
+        "id": 20053279,
+        "id_str": "20053279",
+        "listed_count": 720,
+        "location": "Washington, DC / Houston, TX",
+        "name": "Rep. Pete Olson",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20053279/1472830497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553398175760150528/wOlSb2ef_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553398175760150528/wOlSb2ef_normal.jpeg",
+        "profile_link_color": "2E399D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFD729",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "RepPeteOlson",
+        "statuses_count": 8005,
+        "url": "http://t.co/fQR5L3fWi8",
+        "verified": true
+    },
+    "user_mentions": []
+}

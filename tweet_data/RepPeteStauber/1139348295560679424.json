@@ -1,0 +1,121 @@
+{
+    "created_at": "Fri Jun 14 01:46:16 +0000 2019",
+    "hashtags": [
+        {
+            "text": "MN06"
+        }
+    ],
+    "id": 1139348295560679424,
+    "id_str": "1139348295560679424",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Fri Jun 14 01:06:13 +0000 2019",
+        "favorite_count": 67,
+        "hashtags": [],
+        "id": 1139338215725457408,
+        "id_str": "1139338215725457408",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "My friend @RepPeteStauber and I flying with our great friends at @Delta tonight to get back home for some work in\u2026 https://t.co/zCxfyOmL12",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1139338215725457408",
+                "url": "https://t.co/zCxfyOmL12"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 10 21:44:52 +0000 2014",
+            "default_profile": true,
+            "description": "Husband, father, hockey fan, and Congressman for Minnesota's 6th District.",
+            "favourites_count": 518,
+            "followers_count": 13400,
+            "friends_count": 911,
+            "id": 2914515430,
+            "id_str": "2914515430",
+            "listed_count": 511,
+            "location": "Otsego, MN | Washington, D.C.",
+            "name": "Tom Emmer",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914515430/1446669081",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1067846972235804672/41P-z5uD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067846972235804672/41P-z5uD_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RepTomEmmer",
+            "statuses_count": 4264,
+            "url": "http://t.co/jU8TYBqqHL",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1075830599007510535,
+                "id_str": "1075830599007510535",
+                "name": "Pete Stauber",
+                "screen_name": "RepPeteStauber"
+            },
+            {
+                "id": 5920532,
+                "id_str": "5920532",
+                "name": "Delta",
+                "screen_name": "Delta"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @RepTomEmmer: My friend @RepPeteStauber and I flying with our great friends at @Delta tonight to get back home for some work in #MN06 an\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 20 19:09:37 +0000 2018",
+        "default_profile": true,
+        "description": "Proud to represent Minnesota's 8th Congressional District.",
+        "favourites_count": 18,
+        "followers_count": 2485,
+        "friends_count": 152,
+        "id": 1075830599007510535,
+        "id_str": "1075830599007510535",
+        "listed_count": 124,
+        "location": "Hermantown, MN",
+        "name": "Pete Stauber",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075830599007510535/1546395257",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080286189700169731/ZjZ0mUop_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080286189700169731/ZjZ0mUop_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPeteStauber",
+        "statuses_count": 316,
+        "url": "https://t.co/ry2cXXe5MN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2914515430,
+            "id_str": "2914515430",
+            "name": "Tom Emmer",
+            "screen_name": "RepTomEmmer"
+        },
+        {
+            "id": 1075830599007510535,
+            "id_str": "1075830599007510535",
+            "name": "Pete Stauber",
+            "screen_name": "RepPeteStauber"
+        },
+        {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "created_at": "Wed Jul 17 01:24:19 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [
+        {
+            "text": "AL03"
+        }
+    ],
+    "id": 1151301572321783808,
+    "id_str": "1151301572321783808",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/IEKNfZLfRq",
+            "expanded_url": "https://twitter.com/RepMikeRogersAL/status/1151301572321783808/photo/1",
+            "id": 1151301551539048448,
+            "media_url": "http://pbs.twimg.com/media/D_o-qUjXUAAxKMD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_o-qUjXUAAxKMD.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/IEKNfZLfRq"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Thrilled to spend my birthday with my buddy @SteveScalise and my beautiful wife! #AL03 https://t.co/IEKNfZLfRq",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Apr 21 17:43:28 +0000 2009",
+        "description": "I am proud to represent Alabama's Third Congressional District.",
+        "favourites_count": 43,
+        "followers_count": 25546,
+        "friends_count": 2976,
+        "geo_enabled": true,
+        "id": 33977070,
+        "id_str": "33977070",
+        "listed_count": 1237,
+        "location": "Washington, D.C./Anniston, AL",
+        "name": "Mike Rogers",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33977070/1384295882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/807319848506261504/VIggyuuB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/807319848506261504/VIggyuuB_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMikeRogersAL",
+        "statuses_count": 4870,
+        "url": "http://t.co/xtRIwQK2MV",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1209417007,
+            "id_str": "1209417007",
+            "name": "Steve Scalise",
+            "screen_name": "SteveScalise"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "created_at": "Mon Jul 15 19:15:39 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [
+        {
+            "text": "IGTakeover"
+        },
+        {
+            "text": "HOTH"
+        }
+    ],
+    "id": 1150846404803334144,
+    "id_str": "1150846404803334144",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/z89UHzIMw6",
+            "expanded_url": "https://twitter.com/JacksonLeeTX18/status/1150846404803334144/video/1",
+            "id": 1150846356203933697,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150846356203933697/pu/img/P_jLv0FrERieZRDt.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150846356203933697/pu/img/P_jLv0FrERieZRDt.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 720,
+                    "h": 1280,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 675,
+                    "h": 1200,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/z89UHzIMw6",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 12667,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1150846356203933697/pu/pl/kxWA4fkABi1vQQ7x.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1150846356203933697/pu/vid/360x640/5HcDczTLhCNTbp9U.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1150846356203933697/pu/vid/320x568/7-RmR9pHqEKm6imx.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1150846356203933697/pu/vid/720x1280/OEHtQsMrCGrNcgmz.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Have you tuned into Hadeel #IGTakeover? This is a good one! Check it out @RepJacksonLee on @instagram #HOTH.\ud83e\uddd5\ud83c\udffd https://t.co/z89UHzIMw6",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Oct 07 16:13:13 +0000 2009",
+        "description": "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas' 18th Congressional District in the U.S. House of Representatives.",
+        "favourites_count": 9993,
+        "followers_count": 75987,
+        "friends_count": 2505,
+        "geo_enabled": true,
+        "id": 80612021,
+        "id_str": "80612021",
+        "listed_count": 1748,
+        "location": "Houston, TX",
+        "name": "Sheila Jackson Lee",
+        "profile_background_color": "F5F7FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80612021/1538174062",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151151912206684161/byDPJPjD_normal.jpg",
+        "profile_link_color": "0A2AFC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E4E4E4",
+        "profile_text_color": "E61212",
+        "profile_use_background_image": true,
+        "screen_name": "JacksonLeeTX18",
+        "statuses_count": 7715,
+        "url": "https://t.co/5K4lQ3yBcP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2982370527,
+            "id_str": "2982370527",
+            "name": "\u041e\u0440\u0435\u0445\u043e\u0432   \u041c\u0438\u043b\u0435\u043d",
+            "screen_name": "RepJacksonLee"
+        },
+        {
+            "id": 180505807,
+            "id_str": "180505807",
+            "name": "Instagram",
+            "screen_name": "instagram"
+        }
+    ]
+}

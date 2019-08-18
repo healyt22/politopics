@@ -1,0 +1,102 @@
+{
+    "created_at": "Fri Aug 16 22:59:40 +0000 2019",
+    "favorite_count": 44,
+    "hashtags": [],
+    "id": 1162499192159440897,
+    "id_str": "1162499192159440897",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/bXyeseHpB9",
+            "expanded_url": "https://twitter.com/Sen_JoeManchin/status/1162499192159440897/video/1",
+            "id": 1162499037028896769,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1162499037028896769/pu/img/mJgHcp1EaE7AkpA-.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1162499037028896769/pu/img/mJgHcp1EaE7AkpA-.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/bXyeseHpB9",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 9392,
+                "variants": [
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1162499037028896769/pu/vid/640x360/Fjq0fxWy3CxSMKqA.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1162499037028896769/pu/pl/p2pnrZwAzv0SDYXp.m3u8?tag=10"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1162499037028896769/pu/vid/1280x720/ShIZVJZxXM8Tbtu4.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1162499037028896769/pu/vid/480x270/KMP_sqA5w0GMLozX.mp4?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Join us tomorrow at 9am for the 5th Annual Ride for Fall Service Heroes! https://t.co/bXyeseHpB9",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 05 14:13:33 +0000 2011",
+        "description": "U.S. Senator for #WV. Ranking member @EnergyDems. Please do not hesitate to contact me to share your commonsense ideas, concerns or if you need assistance.",
+        "favourites_count": 190,
+        "followers_count": 181506,
+        "friends_count": 740,
+        "geo_enabled": true,
+        "id": 234374703,
+        "id_str": "234374703",
+        "listed_count": 2534,
+        "location": "West Virginia, USA",
+        "name": "Senator Joe Manchin",
+        "profile_background_color": "EDEDED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234374703/1428611282",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907719517266219008/am4POdPf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907719517266219008/am4POdPf_normal.jpg",
+        "profile_link_color": "006BB3",
+        "profile_sidebar_border_color": "D1D1D1",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "Sen_JoeManchin",
+        "statuses_count": 6144,
+        "url": "http://t.co/KZ8ptSeHhI",
+        "verified": true
+    },
+    "user_mentions": []
+}

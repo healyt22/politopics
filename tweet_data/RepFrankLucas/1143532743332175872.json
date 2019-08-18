@@ -1,0 +1,113 @@
+{
+    "created_at": "Tue Jun 25 14:53:46 +0000 2019",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 1143532743332175872,
+    "id_str": "1143532743332175872",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jun 25 14:16:16 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 1143523305162498049,
+        "id_str": "1143523305162498049",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "WATCH @SecretaryPerry video on the incredible work being done through @energy research and development: https://t.co/DH5Lxy3lJW",
+        "urls": [
+            {
+                "expanded_url": "https://www.youtube.com/watch?v=D4wjdYgSMg0&feature=youtu.be",
+                "url": "https://t.co/DH5Lxy3lJW"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 06 19:06:28 +0000 2009",
+            "description": "Official Twitter page of the Committee on Science, Space, and Technology Republicans. Frank Lucas, Ranking Member https://t.co/wBe2jSx2Kk",
+            "favourites_count": 2120,
+            "followers_count": 166208,
+            "friends_count": 1209,
+            "geo_enabled": true,
+            "id": 23103488,
+            "id_str": "23103488",
+            "listed_count": 927,
+            "location": "Washington D.C.",
+            "name": "Sci, Space, & Tech GOP",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23103488/1550870474",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/639553426632785920/ElVmijPN_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/639553426632785920/ElVmijPN_normal.png",
+            "profile_link_color": "2121A3",
+            "profile_sidebar_border_color": "4C586B",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "FFFFFF",
+            "profile_use_background_image": true,
+            "screen_name": "housesciencegop",
+            "statuses_count": 4691,
+            "url": "https://t.co/nJ6MJDw1p9",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 830128820447539208,
+                "id_str": "830128820447539208",
+                "name": "Rick Perry",
+                "screen_name": "SecretaryPerry"
+            },
+            {
+                "id": 166252256,
+                "id_str": "166252256",
+                "name": "Energy Department",
+                "screen_name": "ENERGY"
+            }
+        ]
+    },
+    "quoted_status_id": 1143523305162498049,
+    "quoted_status_id_str": "1143523305162498049",
+    "retweet_count": 1,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Thank you for your leadership, @SecretaryPerry. https://t.co/fvAwz9p9UG",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/housesciencegop/status/1143523305162498049",
+            "url": "https://t.co/fvAwz9p9UG"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 25 15:24:07 +0000 2011",
+        "description": "Husband, Dad, 5th Generation Oklahoman. Ranking Member @housesciencegop. Proudly representing Oklahoma\u2019s Third Congressional District.",
+        "favourites_count": 40,
+        "followers_count": 19512,
+        "friends_count": 322,
+        "geo_enabled": true,
+        "id": 242772524,
+        "id_str": "242772524",
+        "listed_count": 514,
+        "location": "Cheyenne, OK",
+        "name": "Frank Lucas",
+        "profile_background_color": "1B597A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242772524/1401460311",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628275690253774848/4zKOn1iP_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628275690253774848/4zKOn1iP_normal.png",
+        "profile_link_color": "48730F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepFrankLucas",
+        "statuses_count": 995,
+        "url": "https://t.co/S3duYhCDDn",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 830128820447539208,
+            "id_str": "830128820447539208",
+            "name": "Rick Perry",
+            "screen_name": "SecretaryPerry"
+        }
+    ]
+}

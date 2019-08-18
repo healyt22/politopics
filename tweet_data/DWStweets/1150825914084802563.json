@@ -1,0 +1,157 @@
+{
+    "created_at": "Mon Jul 15 17:54:13 +0000 2019",
+    "hashtags": [],
+    "id": 1150825914084802563,
+    "id_str": "1150825914084802563",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Mon Jul 15 17:09:54 +0000 2019",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 1150814758280552448,
+        "id_str": "1150814758280552448",
+        "in_reply_to_screen_name": "GlennaWPLG",
+        "in_reply_to_status_id": 1150812933418565632,
+        "in_reply_to_user_id": 114840227,
+        "lang": "en",
+        "place": {
+            "id": "9519f2018bb6585b",
+            "url": "https://api.twitter.com/1.1/geo/id/9519f2018bb6585b.json",
+            "place_type": "city",
+            "name": "Homestead",
+            "full_name": "Homestead, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.526237,
+                            25.440567
+                        ],
+                        [
+                            -80.3779961,
+                            25.440567
+                        ],
+                        [
+                            -80.3779961,
+                            25.5183308
+                        ],
+                        [
+                            -80.526237,
+                            25.5183308
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "This is the tour list\ud83d\udc47\ud83c\udffc (plus State Rep @ShevrinJones )\nOnly @DWStweets has been inside before; first time for all\u2026 https://t.co/geU1jdqWgI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150814758280552448",
+                "url": "https://t.co/geU1jdqWgI"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 16 19:42:13 +0000 2010",
+            "description": "TV Journalist in the best news town on the planet. CoHost \"This Week in South Florida\". AM=Coffee \u2615\ufe0f, PM=Red Wine\ud83c\udf77and down for anything else in between.",
+            "favourites_count": 5091,
+            "followers_count": 7941,
+            "friends_count": 739,
+            "geo_enabled": true,
+            "id": 114840227,
+            "id_str": "114840227",
+            "listed_count": 230,
+            "location": "WPLG Local10 News",
+            "name": "Glenna Milberg",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/114840227/1511926598",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1062551216306249728/4qJByQ94_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062551216306249728/4qJByQ94_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "GlennaWPLG",
+            "statuses_count": 10260,
+            "url": "https://t.co/KdYmzauQW8",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 48882164,
+                "id_str": "48882164",
+                "name": "Shevrin Jones",
+                "screen_name": "ShevrinJones"
+            },
+            {
+                "id": 115979444,
+                "id_str": "115979444",
+                "name": "Debbie Wasserman Schultz",
+                "screen_name": "DWStweets"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GlennaWPLG: This is the tour list\ud83d\udc47\ud83c\udffc (plus State Rep @ShevrinJones )\nOnly @DWStweets has been inside before; first time for all others.\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Feb 20 17:35:01 +0000 2010",
+        "description": "Dog loving, clean cooking, breast cancer-surviving, Florida Gator cheering, softball-playing mother of three fighting in Congress on behalf of South Floridians.",
+        "favourites_count": 194,
+        "followers_count": 365722,
+        "friends_count": 860,
+        "geo_enabled": true,
+        "id": 115979444,
+        "id_str": "115979444",
+        "listed_count": 5063,
+        "location": "Weston, FL & Washington, D.C.",
+        "name": "Debbie Wasserman Schultz",
+        "profile_background_color": "092473",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115979444/1517266367",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/803926569781784576/eHI49K4W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/803926569781784576/eHI49K4W_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "DWStweets",
+        "statuses_count": 10370,
+        "url": "https://t.co/R5UpTCuwFP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 114840227,
+            "id_str": "114840227",
+            "name": "Glenna Milberg",
+            "screen_name": "GlennaWPLG"
+        },
+        {
+            "id": 48882164,
+            "id_str": "48882164",
+            "name": "Shevrin Jones",
+            "screen_name": "ShevrinJones"
+        },
+        {
+            "id": 115979444,
+            "id_str": "115979444",
+            "name": "Debbie Wasserman Schultz",
+            "screen_name": "DWStweets"
+        }
+    ]
+}

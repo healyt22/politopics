@@ -1,0 +1,107 @@
+{
+    "created_at": "Tue Jul 23 21:51:05 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [],
+    "id": 1153784622905348098,
+    "id_str": "1153784622905348098",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jul 18 23:50:10 +0000 2019",
+        "favorite_count": 33,
+        "hashtags": [],
+        "id": 1152002653162885121,
+        "id_str": "1152002653162885121",
+        "lang": "en",
+        "retweet_count": 21,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "In interview on tech censorship, @HawleyMO tells me that Google is \"a company that can\u2019t be trusted.\" \n\nHe adds tha\u2026 https://t.co/WFmfEl9ikz",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1152002653162885121",
+                "url": "https://t.co/WFmfEl9ikz"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Dec 22 21:14:57 +0000 2014",
+            "description": "Ginger's husband, Lucia's dad, congressional correspondent at Blaze Media. Likes shooting, black coffee, motor vehicles & hillbilly music.\n\nUsual disclaimers.",
+            "favourites_count": 4700,
+            "followers_count": 12316,
+            "friends_count": 2422,
+            "id": 2937476451,
+            "id_str": "2937476451",
+            "listed_count": 134,
+            "location": "Washington, DC",
+            "name": "Nate Madden",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2937476451/1561323459",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1154426366403760128/eyWfqmQi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154426366403760128/eyWfqmQi_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "NateOnTheHill",
+            "statuses_count": 20037,
+            "url": "https://t.co/i1ibjb8HnD",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2352629311,
+                "id_str": "2352629311",
+                "name": "Josh Hawley",
+                "screen_name": "HawleyMO"
+            }
+        ]
+    },
+    "quoted_status_id": 1152002653162885121,
+    "quoted_status_id_str": "1152002653162885121",
+    "retweet_count": 11,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "ICYMI \u2192 During his conversation with @NateOnTheHill last week, Sen. Hawley explained the need for law enforcement b\u2026 https://t.co/WMLN1u6cU6",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1153784622905348098",
+            "url": "https://t.co/WMLN1u6cU6"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 22:55:42 +0000 2019",
+        "default_profile": true,
+        "description": "Tweets from the office of U.S. Senator Josh Hawley",
+        "favourites_count": 274,
+        "followers_count": 4484,
+        "friends_count": 762,
+        "geo_enabled": true,
+        "id": 1080960924687704064,
+        "id_str": "1080960924687704064",
+        "listed_count": 125,
+        "location": "Missouri",
+        "name": "Senator Hawley Press Office",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080960924687704064/1565014200",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenHawleyPress",
+        "statuses_count": 614,
+        "url": "https://t.co/P2uqbfyKpN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2937476451,
+            "id_str": "2937476451",
+            "name": "Nate Madden",
+            "screen_name": "NateOnTheHill"
+        }
+    ]
+}

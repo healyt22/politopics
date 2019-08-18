@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue May 28 18:51:13 +0000 2019",
+    "hashtags": [],
+    "id": 1133445641106001921,
+    "id_str": "1133445641106001921",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Tue May 28 18:47:38 +0000 2019",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 1133444738655367168,
+        "id_str": "1133444738655367168",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "Delighted to have the @GovKemp and @GAFirstLady tour Stanton Springs this morning. Appreciate @CongressmanHice show\u2026 https://t.co/moH0Op2gsk",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1133444738655367168",
+                "url": "https://t.co/moH0Op2gsk"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Nov 15 16:17:25 +0000 2017",
+            "favourites_count": 18,
+            "followers_count": 19,
+            "friends_count": 28,
+            "id": 930832115830349825,
+            "id_str": "930832115830349825",
+            "listed_count": 4,
+            "location": "Walton County, Georgia",
+            "name": "Choose Walton",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1102660245720088576/mPKXiyU1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102660245720088576/mPKXiyU1_normal.jpg",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "ChooseWalton",
+            "statuses_count": 45,
+            "url": "https://t.co/sAveVtUdQT"
+        },
+        "user_mentions": [
+            {
+                "id": 1064659902071808000,
+                "id_str": "1064659902071808000",
+                "name": "Governor Brian P. Kemp",
+                "screen_name": "GovKemp"
+            },
+            {
+                "id": 1083738636707872769,
+                "id_str": "1083738636707872769",
+                "name": "Marty Kemp",
+                "screen_name": "GAFirstLady"
+            },
+            {
+                "id": 2975091705,
+                "id_str": "2975091705",
+                "name": "Rep. Jody Hice",
+                "screen_name": "CongressmanHice"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ChooseWalton: Delighted to have the @GovKemp and @GAFirstLady tour Stanton Springs this morning. Appreciate @CongressmanHice showcasing\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 12 18:48:35 +0000 2015",
+        "default_profile": true,
+        "description": "I'm honored to serve Georgia's 10th Congressional District.",
+        "favourites_count": 1337,
+        "followers_count": 28736,
+        "friends_count": 943,
+        "geo_enabled": true,
+        "id": 2975091705,
+        "id_str": "2975091705",
+        "listed_count": 680,
+        "location": "Greensboro, GA; Washington, DC",
+        "name": "Rep. Jody Hice",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2975091705/1536671706",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004114780200816641/_vvzlcnp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004114780200816641/_vvzlcnp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "CongressmanHice",
+        "statuses_count": 2903,
+        "url": "https://t.co/apR1dqYCIk",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 930832115830349825,
+            "id_str": "930832115830349825",
+            "name": "Choose Walton",
+            "screen_name": "ChooseWalton"
+        },
+        {
+            "id": 1064659902071808000,
+            "id_str": "1064659902071808000",
+            "name": "Governor Brian P. Kemp",
+            "screen_name": "GovKemp"
+        },
+        {
+            "id": 1083738636707872769,
+            "id_str": "1083738636707872769",
+            "name": "Marty Kemp",
+            "screen_name": "GAFirstLady"
+        },
+        {
+            "id": 2975091705,
+            "id_str": "2975091705",
+            "name": "Rep. Jody Hice",
+            "screen_name": "CongressmanHice"
+        }
+    ]
+}

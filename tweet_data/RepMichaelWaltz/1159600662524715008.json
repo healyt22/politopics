@@ -1,0 +1,125 @@
+{
+    "created_at": "Thu Aug 08 23:01:56 +0000 2019",
+    "hashtags": [
+        {
+            "text": "econdev"
+        }
+    ],
+    "id": 1159600662524715008,
+    "id_str": "1159600662524715008",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Aug 08 19:52:34 +0000 2019",
+        "favorite_count": 8,
+        "hashtags": [
+            {
+                "text": "econdev"
+            }
+        ],
+        "id": 1159553005454319619,
+        "id_str": "1159553005454319619",
+        "in_reply_to_screen_name": "ormondbeach",
+        "in_reply_to_user_id": 360749283,
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+        "text": "@ormondbeach was proud to host @repmichaelwaltz to showcase the #econdev investments being made to establish execut\u2026 https://t.co/SxkoNqlCg2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1159553005454319619",
+                "url": "https://t.co/SxkoNqlCg2"
+            }
+        ],
+        "user": {
+            "created_at": "Mon May 19 14:28:32 +0000 2014",
+            "default_profile": true,
+            "description": "Economic Development specialist with expertise in strategic planning, real estate site selection, and redevelopment. EconDev Director, Ormond Beach, FL",
+            "favourites_count": 350,
+            "followers_count": 132,
+            "friends_count": 235,
+            "id": 2507557062,
+            "id_str": "2507557062",
+            "listed_count": 7,
+            "location": "Ormond Beach, FL",
+            "name": "Brian Rademacher",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2507557062/1527190666",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/514601314676768769/eslkA7iF_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/514601314676768769/eslkA7iF_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BRadEconDevSME",
+            "statuses_count": 279
+        },
+        "user_mentions": [
+            {
+                "id": 360749283,
+                "id_str": "360749283",
+                "name": "City of Ormond Beach",
+                "screen_name": "ormondbeach"
+            },
+            {
+                "id": 1082416697380913152,
+                "id_str": "1082416697380913152",
+                "name": "Rep. Michael Waltz",
+                "screen_name": "RepMichaelWaltz"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BRadEconDevSME: @ormondbeach was proud to host @repmichaelwaltz to showcase the #econdev investments being made to establish executive\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 07 23:20:25 +0000 2019",
+        "default_profile": true,
+        "description": "Congressman for #FL6 (Volusia, Flagler, Lake, St Johns Counties), Green Beret, National Guard Lt. Col., Author of \"Warrior Diplomat,\" Floridian, Father.",
+        "favourites_count": 433,
+        "followers_count": 4507,
+        "friends_count": 430,
+        "geo_enabled": true,
+        "id": 1082416697380913152,
+        "id_str": "1082416697380913152",
+        "listed_count": 110,
+        "name": "Rep. Michael Waltz",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082416697380913152/1560377890",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083828101317099520/VVlPDed3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083828101317099520/VVlPDed3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMichaelWaltz",
+        "statuses_count": 814,
+        "url": "https://t.co/QOB7UQmYz2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2507557062,
+            "id_str": "2507557062",
+            "name": "Brian Rademacher",
+            "screen_name": "BRadEconDevSME"
+        },
+        {
+            "id": 360749283,
+            "id_str": "360749283",
+            "name": "City of Ormond Beach",
+            "screen_name": "ormondbeach"
+        },
+        {
+            "id": 1082416697380913152,
+            "id_str": "1082416697380913152",
+            "name": "Rep. Michael Waltz",
+            "screen_name": "RepMichaelWaltz"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jul 30 22:30:00 +0000 2019",
+    "favorite_count": 7,
+    "hashtags": [],
+    "id": 1156331133841231872,
+    "id_str": "1156331133841231872",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 30 10:41:02 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1156152716625940480,
+        "id_str": "1156152716625940480",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vH7tcGYJQy",
+                "expanded_url": "https://twitter.com/CNNPolitics/status/1156152716625940480/photo/1",
+                "id": 1156152714209968129,
+                "media_url": "http://pbs.twimg.com/media/EAt6xJyWwAELNBQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAt6xJyWwAELNBQ.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1100,
+                        "h": 619,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1100,
+                        "h": 619,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/vH7tcGYJQy"
+            }
+        ],
+        "retweet_count": 7,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Support for Medicare for All dips, most people like their employer plans https://t.co/thmeo6QTla https://t.co/vH7tcGYJQy",
+        "urls": [
+            {
+                "expanded_url": "https://cnn.it/2SQEIWu",
+                "url": "https://t.co/thmeo6QTla"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 23 03:12:49 +0000 2008",
+            "description": "Political news, campaign stories and Washington coverage from CNN's political team.",
+            "favourites_count": 12,
+            "followers_count": 2874761,
+            "friends_count": 342,
+            "id": 13850422,
+            "id_str": "13850422",
+            "listed_count": 16012,
+            "location": "Washington, D.C.",
+            "name": "CNN Politics",
+            "profile_background_color": "100F14",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13850422/1503504077",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F1F5E7",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "CNNPolitics",
+            "statuses_count": 156701,
+            "url": "https://t.co/KWFMkrEjdY",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1156152716625940480,
+    "quoted_status_id_str": "1156152716625940480",
+    "retweet_count": 1,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "American families should NOT be stripped of their employer plans that adequately meet their health care needs. I wi\u2026 https://t.co/RlyexXI7sb",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1156331133841231872",
+            "url": "https://t.co/RlyexXI7sb"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 02 22:30:20 +0000 2009",
+        "description": "Official Twitter Account for U.S. Representative Ken Calvert (CA-42)",
+        "favourites_count": 56,
+        "followers_count": 20569,
+        "friends_count": 295,
+        "id": 22545491,
+        "id_str": "22545491",
+        "listed_count": 905,
+        "location": "Corona, CA ",
+        "name": "Ken Calvert",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22545491/1554155600",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/786694649301700609/TfucmvHE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/786694649301700609/TfucmvHE_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "KenCalvert",
+        "statuses_count": 5742,
+        "url": "https://t.co/XcjXyjinJw",
+        "verified": true
+    },
+    "user_mentions": []
+}

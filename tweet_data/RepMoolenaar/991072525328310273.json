@@ -1,0 +1,116 @@
+{
+    "created_at": "Mon Apr 30 21:51:17 +0000 2018",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 991072525328310273,
+    "id_str": "991072525328310273",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun Apr 29 01:13:36 +0000 2018",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 990398660763668480,
+        "id_str": "990398660763668480",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Trump recognized Reps. @JohnMoolenaar &amp; @RepJackBergman in Macomb Cty audience. Last year, they co-wrote a commenta\u2026 https://t.co/RHa6k9rEcU",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/990398660763668480",
+                "url": "https://t.co/RHa6k9rEcU"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 11 17:14:38 +0000 2011",
+            "description": "Politics & Govt. editor, Detroit News. Reporters cover Michigan govt, state's congressional delegation, health care & environment. RTs not endorsements",
+            "favourites_count": 1647,
+            "followers_count": 3348,
+            "friends_count": 2450,
+            "id": 410113411,
+            "id_str": "410113411",
+            "listed_count": 173,
+            "location": "Detroit, Michigan",
+            "name": "Richard Burr",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/410113411/1469062151",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/793521893647220736/qAGCs8my_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/793521893647220736/qAGCs8my_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "RichardBurr_DN",
+            "statuses_count": 24632,
+            "url": "http://t.co/WZcRdVH7HW",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 41198239,
+                "id_str": "41198239",
+                "name": "John Moolenaar",
+                "screen_name": "JohnMoolenaar"
+            },
+            {
+                "id": 815241612154417152,
+                "id_str": "815241612154417152",
+                "name": "Rep. Jack Bergman",
+                "screen_name": "RepJackBergman"
+            }
+        ]
+    },
+    "quoted_status_id": 990398660763668480,
+    "quoted_status_id_str": "990398660763668480",
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Here is a link to the commentary @RepJackBergman and I wrote last year: https://t.co/0WFePC1E1J https://t.co/OLJcyLvmzI",
+    "urls": [
+        {
+            "expanded_url": "https://www.detroitnews.com/story/opinion/2017/05/28/bergman-moolenaar-soo-locks-iron-ore/102270984/",
+            "url": "https://t.co/0WFePC1E1J"
+        },
+        {
+            "expanded_url": "https://twitter.com/RichardBurr_DN/status/990398660763668480",
+            "url": "https://t.co/OLJcyLvmzI"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jul 31 21:09:14 +0000 2014",
+        "default_profile": true,
+        "description": "Representing Michigan's Fourth Congressional District. This is the Twitter page of the official House office.",
+        "favourites_count": 470,
+        "followers_count": 11015,
+        "friends_count": 339,
+        "id": 2696643955,
+        "id_str": "2696643955",
+        "listed_count": 417,
+        "name": "Rep. John Moolenaar",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696643955/1420046825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997236401849622528/EYBv4I7c_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMoolenaar",
+        "statuses_count": 854,
+        "url": "http://t.co/cwXZtKCJhJ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 815241612154417152,
+            "id_str": "815241612154417152",
+            "name": "Rep. Jack Bergman",
+            "screen_name": "RepJackBergman"
+        }
+    ]
+}

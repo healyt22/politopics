@@ -1,0 +1,103 @@
+{
+    "created_at": "Mon Jul 08 15:39:19 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [],
+    "id": 1148255247426555906,
+    "id_str": "1148255247426555906",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon Jul 08 15:29:08 +0000 2019",
+        "favorite_count": 90,
+        "hashtags": [],
+        "id": 1148252685256335360,
+        "id_str": "1148252685256335360",
+        "lang": "en",
+        "retweet_count": 31,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "3 years after the tragedy that occurred on 7/7/2016; a monument honoring Officer Patricio Zamarripa, Officer Michae\u2026 https://t.co/kg38AiZBWG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1148252685256335360",
+                "url": "https://t.co/kg38AiZBWG"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Apr 04 07:16:38 +0000 2009",
+            "description": "Official Twitter Account for the Dallas Police Department. THIS ACCT IS NOT MONITORED ON A 24 HOUR BASIS. FOR EMERGENCY CALL 9-1-1.",
+            "favourites_count": 2688,
+            "followers_count": 349994,
+            "friends_count": 5819,
+            "geo_enabled": true,
+            "id": 28758060,
+            "id_str": "28758060",
+            "listed_count": 1961,
+            "location": "Dallas, TX",
+            "name": "Dallas Police Dept",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28758060/1562611604",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1100064208270577664/ozWzL3tN_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100064208270577664/ozWzL3tN_normal.png",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "screen_name": "DallasPD",
+            "statuses_count": 27711,
+            "url": "https://t.co/yn2c4MGeqX",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1148252685256335360,
+    "quoted_status_id_str": "1148252685256335360",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "As North Texans and Americans around the country remember the @DallasPD officers killed in the line of duty on 7/7/\u2026 https://t.co/hYeOtSYfBt",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1148255247426555906",
+            "url": "https://t.co/hYeOtSYfBt"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Aug 06 15:25:19 +0000 2008",
+        "description": "Congressman for Texas' 26th District, M.D. (Ob/Gyn) in my former life",
+        "favourites_count": 117,
+        "followers_count": 28491,
+        "friends_count": 1970,
+        "geo_enabled": true,
+        "id": 15751083,
+        "id_str": "15751083",
+        "listed_count": 1502,
+        "location": "Washington, DC/Lake Dallas, TX",
+        "name": "Michael Burgess, MD",
+        "profile_background_color": "090A8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15751083/1483312385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FF2941",
+        "profile_sidebar_fill_color": "E2E3E9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "michaelcburgess",
+        "statuses_count": 5754,
+        "url": "http://t.co/qj3aLBJUa9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 28758060,
+            "id_str": "28758060",
+            "name": "Dallas Police Dept",
+            "screen_name": "DallasPD"
+        }
+    ]
+}

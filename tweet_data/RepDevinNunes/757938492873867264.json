@@ -1,0 +1,101 @@
+{
+    "created_at": "Tue Jul 26 13:59:53 +0000 2016",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 757938492873867264,
+    "id_str": "757938492873867264",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/4s6kdZkwqh",
+            "expanded_url": "https://twitter.com/Rep_DevinNunes/status/757938492873867264/photo/1",
+            "id": 757938488062902273,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CoS9CgaWAAESALp.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CoS9CgaWAAESALp.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 410,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 900,
+                    "h": 542,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 900,
+                    "h": 542,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/4s6kdZkwqh",
+            "video_info": {
+                "aspect_ratio": [
+                    450,
+                    271
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/CoS9CgaWAAESALp.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "I'll be dropping by the @RayAppletonKMJ show today at 11:00 am PST on @KMJNOW. Listen live: https://t.co/fIH2RLcfXC https://t.co/4s6kdZkwqh",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/Ydyl302Coat",
+            "url": "https://t.co/fIH2RLcfXC"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 29 21:40:22 +0000 2011",
+        "default_profile": true,
+        "followers_count": 34272,
+        "friends_count": 15,
+        "id": 344972339,
+        "id_str": "344972339",
+        "listed_count": 488,
+        "location": "Washington, DC",
+        "name": "Rep. Devin Nunes",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344972339/1353428355",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDevinNunes",
+        "statuses_count": 169,
+        "url": "http://t.co/qslO3rsq"
+    },
+    "user_mentions": [
+        {
+            "id": 2419701992,
+            "id_str": "2419701992",
+            "name": "Ray Appleton",
+            "screen_name": "RayAppletonKMJ"
+        },
+        {
+            "id": 40051702,
+            "id_str": "40051702",
+            "name": "KMJNOW",
+            "screen_name": "KMJNOW"
+        }
+    ]
+}

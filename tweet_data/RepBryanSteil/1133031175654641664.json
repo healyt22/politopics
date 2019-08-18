@@ -1,0 +1,100 @@
+{
+    "created_at": "Mon May 27 15:24:17 +0000 2019",
+    "favorite_count": 15,
+    "hashtags": [],
+    "id": 1133031175654641664,
+    "id_str": "1133031175654641664",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/3mLpPc6JCL",
+            "expanded_url": "https://twitter.com/RepBryanSteil/status/1133031175654641664/video/1",
+            "id": 1133031102128500747,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1133031102128500747/pu/img/BpJ9gPro1bW_sOyv.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1133031102128500747/pu/img/BpJ9gPro1bW_sOyv.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/3mLpPc6JCL",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 15347,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1133031102128500747/pu/pl/tTSFHzM8iVlBSNHc.m3u8?tag=9"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1133031102128500747/pu/vid/640x360/g-XXA-O6qdZ3Q75k.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1133031102128500747/pu/vid/320x180/A41lMJjjxYzdd737.mp4?tag=9"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1133031102128500747/pu/vid/1280x720/BotkXPLZEcPniCdZ.mp4?tag=9"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I\u2019m in Burlington about to begin the Memorial Day service at Veterans\u2019 Terrace. https://t.co/3mLpPc6JCL",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 19 01:46:28 +0000 2018",
+        "default_profile": true,
+        "description": "Official Twitter account for Bryan Steil, proudly serving the people of Wisconsin\u2019s 1st Congressional District. #WI01",
+        "favourites_count": 68,
+        "followers_count": 1957,
+        "friends_count": 179,
+        "geo_enabled": true,
+        "id": 1075205691621720064,
+        "id_str": "1075205691621720064",
+        "listed_count": 115,
+        "name": "Bryan Steil",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075205691621720064/1546626876",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080811922474311681/FbNkaP3e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080811922474311681/FbNkaP3e_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBryanSteil",
+        "statuses_count": 526,
+        "url": "https://t.co/hCUjGkefDJ",
+        "verified": true
+    },
+    "user_mentions": []
+}

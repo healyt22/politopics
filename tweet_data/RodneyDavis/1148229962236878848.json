@@ -1,0 +1,80 @@
+{
+    "created_at": "Mon Jul 08 13:58:50 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1148229962236878848,
+    "id_str": "1148229962236878848",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/vi2RcWbd3v",
+            "expanded_url": "https://twitter.com/RodneyDavis/status/1148229962236878848/photo/1",
+            "id": 1148229941529645056,
+            "media_url": "http://pbs.twimg.com/media/D-9VDFlXkAA_Wg1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-9VDFlXkAA_Wg1.jpg",
+            "sizes": {
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/vi2RcWbd3v"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Started today early in-studio with Ray and Greg on @NewsTalkWMAY talking the latest issues in Washington. https://t.co/vi2RcWbd3v",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 06 14:20:04 +0000 2012",
+        "description": "Proudly representing the 13th Congressional District of Illinois and marginalized Nickelback fans everywhere.",
+        "favourites_count": 191,
+        "followers_count": 21744,
+        "friends_count": 559,
+        "geo_enabled": true,
+        "id": 993153006,
+        "id_str": "993153006",
+        "listed_count": 854,
+        "location": "Taylorville, IL",
+        "name": "US Rep Rodney Davis",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/993153006/1497639898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/861602080712216576/Qa1f4EOG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/861602080712216576/Qa1f4EOG_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RodneyDavis",
+        "statuses_count": 6113,
+        "url": "http://t.co/foaAG4Df",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 27904366,
+            "id_str": "27904366",
+            "name": "News/Talk 94.7 & 970 WMAY",
+            "screen_name": "NewsTalkWMAY"
+        }
+    ]
+}

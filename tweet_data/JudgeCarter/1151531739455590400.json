@@ -1,0 +1,139 @@
+{
+    "created_at": "Wed Jul 17 16:38:55 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1151531739455590400,
+    "id_str": "1151531739455590400",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 16 19:29:55 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "theatreeducation"
+            }
+        ],
+        "id": 1151212382057897985,
+        "id_str": "1151212382057897985",
+        "in_reply_to_screen_name": "JudgeCarter",
+        "in_reply_to_user_id": 18030431,
+        "lang": "en",
+        "place": {
+            "id": "07d9ec834ec88000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9ec834ec88000.json",
+            "place_type": "poi",
+            "name": "Rayburn House Office Building",
+            "full_name": "Rayburn House Office Building",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ],
+                        [
+                            -77.01062396278071,
+                            38.88684662980506
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@JudgeCarter Thank you for taking the time to meet with us today on the topic of #theatreeducation and specifics ar\u2026 https://t.co/SUHWeN3fnh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151212382057897985",
+                "url": "https://t.co/SUHWeN3fnh"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 14 19:01:40 +0000 2017",
+            "default_profile": true,
+            "description": "Chief Relationship Officer for the Educational Theatre Association (EdTA). My posts on Twitter represent my own view, not those of EdTA.",
+            "favourites_count": 5345,
+            "followers_count": 720,
+            "friends_count": 1197,
+            "geo_enabled": true,
+            "id": 897171379702947841,
+            "id_str": "897171379702947841",
+            "location": "Cincinnati, OH",
+            "name": "Hans Weichhart",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/897171379702947841/1563666957",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1152728880723238912/YyVxG2ed_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152728880723238912/YyVxG2ed_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "HansWhyKart",
+            "statuses_count": 1284,
+            "url": "https://t.co/ZpNfLmHzoH"
+        },
+        "user_mentions": [
+            {
+                "id": 18030431,
+                "id_str": "18030431",
+                "name": "Judge Carter",
+                "screen_name": "JudgeCarter"
+            }
+        ]
+    },
+    "quoted_status_id": 1151212382057897985,
+    "quoted_status_id_str": "1151212382057897985",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I'm glad we were able to sit down and discuss these issues. Thank you for your advocacy! https://t.co/s6uKB92UjX",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/HansWhyKart/status/1151212382057897985",
+            "url": "https://t.co/s6uKB92UjX"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 10 21:00:58 +0000 2008",
+        "description": "U.S. Congressman proudly serving the 31st District of Texas & @forthood. Former Judge. Proud @TexasTech Red Raider.",
+        "favourites_count": 417,
+        "followers_count": 15339,
+        "friends_count": 842,
+        "geo_enabled": true,
+        "id": 18030431,
+        "id_str": "18030431",
+        "listed_count": 1103,
+        "location": "#TX31 ",
+        "name": "Judge Carter",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18030431/1497824245",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000021210674/a74f4eaa78e4aa40395b1e2c0088a711_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000021210674/a74f4eaa78e4aa40395b1e2c0088a711_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "JudgeCarter",
+        "statuses_count": 6243,
+        "url": "https://t.co/iPPDu1iB3W",
+        "verified": true
+    },
+    "user_mentions": []
+}

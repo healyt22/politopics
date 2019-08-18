@@ -1,0 +1,118 @@
+{
+    "created_at": "Tue Jun 18 19:07:22 +0000 2019",
+    "hashtags": [],
+    "id": 1141059848769085446,
+    "id_str": "1141059848769085446",
+    "lang": "en",
+    "retweet_count": 28,
+    "retweeted_status": {
+        "created_at": "Tue Jun 18 18:32:12 +0000 2019",
+        "favorite_count": 78,
+        "hashtags": [],
+        "id": 1141050999550959617,
+        "id_str": "1141050999550959617",
+        "lang": "en",
+        "retweet_count": 28,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I caught up with @HawleyMO about @facebook\u2019s cryptocurrency:\n\n\u201cSounds like they\u2019re expanding their monopoly,\u201d he sa\u2026 https://t.co/U2TyJbCBcf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1141050999550959617",
+                "url": "https://t.co/U2TyJbCBcf"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 05 13:04:50 +0000 2010",
+            "description": "@YahooFinance DC reporter. @Perry_TravisE\u2019s wife. Mizzou Tiger. Lover of books & travel. Tips: Jessica.smith@yahoofinance.com",
+            "favourites_count": 7025,
+            "followers_count": 4173,
+            "friends_count": 3154,
+            "geo_enabled": true,
+            "id": 102055261,
+            "id_str": "102055261",
+            "listed_count": 128,
+            "location": "DC by way of Indianapolis",
+            "name": "Jessica Smith",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/102055261/1556282322",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1124125646010167296/ZJGS77X0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124125646010167296/ZJGS77X0_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "53554E",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "JessicaASmith8",
+            "statuses_count": 22926,
+            "url": "https://t.co/dHDHeDi7tu",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2352629311,
+                "id_str": "2352629311",
+                "name": "Josh Hawley",
+                "screen_name": "HawleyMO"
+            },
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @JessicaASmith8: I caught up with @HawleyMO about @facebook\u2019s cryptocurrency:\n\n\u201cSounds like they\u2019re expanding their monopoly,\u201d he says.\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 22:55:42 +0000 2019",
+        "default_profile": true,
+        "description": "Tweets from the office of U.S. Senator Josh Hawley",
+        "favourites_count": 274,
+        "followers_count": 4484,
+        "friends_count": 762,
+        "geo_enabled": true,
+        "id": 1080960924687704064,
+        "id_str": "1080960924687704064",
+        "listed_count": 125,
+        "location": "Missouri",
+        "name": "Senator Hawley Press Office",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080960924687704064/1565014200",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080961109262094336/4fewBIAi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenHawleyPress",
+        "statuses_count": 614,
+        "url": "https://t.co/P2uqbfyKpN",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 102055261,
+            "id_str": "102055261",
+            "name": "Jessica Smith",
+            "screen_name": "JessicaASmith8"
+        },
+        {
+            "id": 2352629311,
+            "id_str": "2352629311",
+            "name": "Josh Hawley",
+            "screen_name": "HawleyMO"
+        },
+        {
+            "id": 2425151,
+            "id_str": "2425151",
+            "name": "Facebook",
+            "screen_name": "facebook"
+        }
+    ]
+}

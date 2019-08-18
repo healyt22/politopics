@@ -1,0 +1,125 @@
+{
+    "created_at": "Tue Apr 30 18:37:10 +0000 2019",
+    "favorite_count": 70,
+    "hashtags": [],
+    "id": 1123295244462764033,
+    "id_str": "1123295244462764033",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 30 18:35:46 +0000 2019",
+        "favorite_count": 85,
+        "hashtags": [],
+        "id": 1123294890601975808,
+        "id_str": "1123294890601975808",
+        "lang": "en",
+        "retweet_count": 27,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Watch our bipartisan, bicameral press conference on the ALERT Act \u2193\n\nThis bill would hold universities accountable\u2026 https://t.co/7D3LOczrik",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1123294890601975808",
+                "url": "https://t.co/7D3LOczrik"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 10 19:17:36 +0000 2011",
+            "description": "U.S. Senator proudly representing the state of Michigan.",
+            "favourites_count": 186,
+            "followers_count": 110063,
+            "friends_count": 1180,
+            "geo_enabled": true,
+            "id": 236511574,
+            "id_str": "236511574",
+            "listed_count": 1588,
+            "name": "Senator Gary Peters",
+            "profile_background_color": "EBEDF5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/236511574/1497465437",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/921025087251386369/11o7UGiT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/921025087251386369/11o7UGiT_normal.jpg",
+            "profile_link_color": "00638A",
+            "profile_sidebar_border_color": "3E80B3",
+            "profile_sidebar_fill_color": "65ABE0",
+            "profile_text_color": "000000",
+            "screen_name": "SenGaryPeters",
+            "statuses_count": 5934,
+            "url": "http://t.co/LDQSc7zibg",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1123294890601975808,
+    "quoted_status_id_str": "1123294890601975808",
+    "retweet_count": 12,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Tune in here to watch me, @SenGaryPeters, @JohnCornyn, @RepSlotkin, @RepFredUpton and @RepPaulMitchell as we call o\u2026 https://t.co/ZBxX4FKJrr",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1123295244462764033",
+            "url": "https://t.co/ZBxX4FKJrr"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Sep 22 21:30:16 +0000 2009",
+        "description": "Representing the people from the Great State of Michigan in the United States Senate",
+        "favourites_count": 90,
+        "followers_count": 106708,
+        "friends_count": 2291,
+        "geo_enabled": true,
+        "id": 76456274,
+        "id_str": "76456274",
+        "listed_count": 2257,
+        "location": "Washington, DC",
+        "name": "Sen. Debbie Stabenow",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76456274/1464728308",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1141009382374854656/klk7j3OL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141009382374854656/klk7j3OL_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenStabenow",
+        "statuses_count": 4369,
+        "url": "https://t.co/pSdzZMCUzw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 236511574,
+            "id_str": "236511574",
+            "name": "Senator Gary Peters",
+            "screen_name": "SenGaryPeters"
+        },
+        {
+            "id": 13218102,
+            "id_str": "13218102",
+            "name": "Senator John Cornyn",
+            "screen_name": "JohnCornyn"
+        },
+        {
+            "id": 1078401427347857408,
+            "id_str": "1078401427347857408",
+            "name": "Rep. Elissa Slotkin",
+            "screen_name": "RepSlotkin"
+        },
+        {
+            "id": 124224165,
+            "id_str": "124224165",
+            "name": "Fred Upton",
+            "screen_name": "RepFredUpton"
+        },
+        {
+            "id": 811632636598910976,
+            "id_str": "811632636598910976",
+            "name": "Rep. Paul Mitchell",
+            "screen_name": "RepPaulMitchell"
+        }
+    ]
+}

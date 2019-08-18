@@ -1,0 +1,111 @@
+{
+    "created_at": "Mon Jun 03 13:43:45 +0000 2019",
+    "hashtags": [],
+    "id": 1135542590072414208,
+    "id_str": "1135542590072414208",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Mon Jun 03 13:27:19 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1135538454354386944,
+        "id_str": "1135538454354386944",
+        "in_reply_to_screen_name": "NaomiMartin",
+        "in_reply_to_status_id": 1135537524858851330,
+        "in_reply_to_user_id": 37893465,
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@RepKClark, who wrote to VA requesting clarity so she can fight the policy, called his experience an \u201cinjustice,\u201d\u2026 https://t.co/Kz6ubMtXH7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1135538454354386944",
+                "url": "https://t.co/Kz6ubMtXH7"
+            }
+        ],
+        "user": {
+            "created_at": "Tue May 05 09:50:42 +0000 2009",
+            "description": "Cannabis reporter at @BostonGlobe and @MarijuanaNews. Previously: Dallas Morning News, Times-Picayune. Hit me up: naomi.martin@globe.com",
+            "favourites_count": 4016,
+            "followers_count": 6660,
+            "friends_count": 3173,
+            "geo_enabled": true,
+            "id": 37893465,
+            "id_str": "37893465",
+            "listed_count": 321,
+            "location": "Boston, MA",
+            "name": "Naomi Martin",
+            "profile_background_color": "7A764F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/37893465/1358906421",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/664882687711154176/WUOah1Fi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/664882687711154176/WUOah1Fi_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NaomiMartin",
+            "statuses_count": 15488,
+            "url": "https://t.co/Qz8iAiFxqA",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2293131060,
+                "id_str": "2293131060",
+                "name": "Katherine Clark",
+                "screen_name": "RepKClark"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NaomiMartin: .@RepKClark, who wrote to VA requesting clarity so she can fight the policy, called his experience an \u201cinjustice,\u201d adding,\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 15 18:53:47 +0000 2014",
+        "default_profile": true,
+        "description": "Vice Chair of the House Democratic Caucus. Proudly representing the people of the 5th District of Massachusetts.",
+        "favourites_count": 1328,
+        "followers_count": 64190,
+        "friends_count": 1344,
+        "geo_enabled": true,
+        "id": 2293131060,
+        "id_str": "2293131060",
+        "listed_count": 1212,
+        "name": "Katherine Clark",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293131060/1546611807",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepKClark",
+        "statuses_count": 5219,
+        "url": "https://t.co/qWMKEO845O",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 37893465,
+            "id_str": "37893465",
+            "name": "Naomi Martin",
+            "screen_name": "NaomiMartin"
+        },
+        {
+            "id": 2293131060,
+            "id_str": "2293131060",
+            "name": "Katherine Clark",
+            "screen_name": "RepKClark"
+        }
+    ]
+}

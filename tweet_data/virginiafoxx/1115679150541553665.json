@@ -1,0 +1,106 @@
+{
+    "created_at": "Tue Apr 09 18:13:32 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1115679150541553665,
+    "id_str": "1115679150541553665",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Apr 04 21:50:03 +0000 2019",
+        "hashtags": [],
+        "id": 1113921699718864897,
+        "id_str": "1113921699718864897",
+        "lang": "en",
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "Tony Perkins &amp; Virginia Foxx: \u201cFrom the start, the Trump administration has worked to build a wall between taxpayer\u2026 https://t.co/f4mQJWbTL3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1113921699718864897",
+                "url": "https://t.co/f4mQJWbTL3"
+            }
+        ],
+        "user": {
+            "created_at": "Tue May 19 20:52:31 +0000 2009",
+            "description": "Thoughtful commentary and hard-hitting analysis, plus RTs from @washtimes writers and reporters. Also at @WashTimesLocal & @WashTimesSports.",
+            "favourites_count": 766,
+            "followers_count": 4576,
+            "friends_count": 2075,
+            "id": 41207697,
+            "id_str": "41207697",
+            "listed_count": 180,
+            "location": "Washington, D.C.",
+            "name": "WashTimesOpinion",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41207697/1565901750",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1042162855255060481/g1-0NwDk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042162855255060481/g1-0NwDk_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "WashTimesOpEd",
+            "statuses_count": 42517,
+            "url": "http://t.co/5rOCooRs3d"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1113921699718864897,
+    "quoted_status_id_str": "1113921699718864897",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "ICYMI: @SecPompeo builds on @POTUS's pro-life policy for U.S. foreign aid, ensuring American taxpayer dollars will\u2026 https://t.co/GUSUvPlAGj",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1115679150541553665",
+            "url": "https://t.co/GUSUvPlAGj"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Sep 12 13:30:07 +0000 2008",
+        "description": "Congresswoman Virginia Foxx. Conservative representing North Carolina's Fifth District.",
+        "favourites_count": 119,
+        "followers_count": 24412,
+        "friends_count": 1391,
+        "geo_enabled": true,
+        "id": 16256269,
+        "id_str": "16256269",
+        "listed_count": 1440,
+        "location": "Banner Elk, NC",
+        "name": "Virginia Foxx",
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16256269/1540250456",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/826530077798187010/ol7ZEx04_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/826530077798187010/ol7ZEx04_normal.jpg",
+        "profile_link_color": "4A3DE0",
+        "profile_sidebar_border_color": "C0C2D6",
+        "profile_sidebar_fill_color": "EAEBFC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "virginiafoxx",
+        "statuses_count": 3909,
+        "url": "http://t.co/v3FwVSsRH1",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 988573326376427520,
+            "id_str": "988573326376427520",
+            "name": "Secretary Pompeo",
+            "screen_name": "SecPompeo"
+        },
+        {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "name": "President Trump",
+            "screen_name": "POTUS"
+        }
+    ]
+}

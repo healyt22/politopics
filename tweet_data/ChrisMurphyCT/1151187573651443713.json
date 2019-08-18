@@ -1,0 +1,135 @@
+{
+    "created_at": "Tue Jul 16 17:51:20 +0000 2019",
+    "favorite_count": 17741,
+    "hashtags": [],
+    "id": 1151187573651443713,
+    "id_str": "1151187573651443713",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Jul 16 16:34:24 +0000 2019",
+        "favorite_count": 9861,
+        "hashtags": [],
+        "id": 1151168214493270022,
+        "id_str": "1151168214493270022",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4061,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Here's @KellyannePolls asking a Jewish reporter \"what's your ethnicity?\" while trying to defend comments the presid\u2026 https://t.co/vRTpHKU772",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151168214493270022",
+                "url": "https://t.co/vRTpHKU772"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Apr 26 15:22:47 +0000 2011",
+            "description": "journalist @voxdotcom",
+            "favourites_count": 77093,
+            "followers_count": 132082,
+            "friends_count": 999,
+            "geo_enabled": true,
+            "id": 288277167,
+            "id_str": "288277167",
+            "listed_count": 1859,
+            "name": "Aaron Rupar",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/288277167/1469538346",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "atrupar",
+            "statuses_count": 61866,
+            "url": "https://t.co/RnqX4a5AQt",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 471672239,
+                "id_str": "471672239",
+                "name": "Kellyanne Conway",
+                "screen_name": "KellyannePolls"
+            }
+        ]
+    },
+    "quoted_status_id": 1151168214493270022,
+    "quoted_status_id_str": "1151168214493270022",
+    "retweet_count": 2925,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "what\nis\ngoing\non https://t.co/qDYHj4fSN3",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/atrupar/status/1151168214493270022",
+            "url": "https://t.co/qDYHj4fSN3"
+        }
+    ],
+    "user": {
+        "created_at": "Mon May 31 01:22:43 +0000 2010",
+        "default_profile": true,
+        "description": "U.S. Senator from Connecticut.",
+        "favourites_count": 1211,
+        "followers_count": 790138,
+        "friends_count": 200,
+        "geo_enabled": true,
+        "id": 150078976,
+        "id_str": "150078976",
+        "listed_count": 5248,
+        "name": "Chris Murphy",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/150078976/1542228542",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/871076844904361985/7NorOQHB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/871076844904361985/7NorOQHB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "ChrisMurphyCT",
+        "statuses_count": 19322,
+        "verified": true
+    },
+    "user_mentions": []
+}

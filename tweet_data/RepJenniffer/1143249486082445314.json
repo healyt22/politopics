@@ -1,0 +1,91 @@
+{
+    "created_at": "Mon Jun 24 20:08:12 +0000 2019",
+    "favorite_count": 12,
+    "hashtags": [
+        {
+            "text": "Vieques"
+        }
+    ],
+    "id": 1143249486082445314,
+    "id_str": "1143249486082445314",
+    "lang": "es",
+    "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "El 22 de junio visit\u00e9 #Vieques, donde recib\u00ed un reporte por parte del @USNavy sobre c\u00f3mo van avanzando los trabajos\u2026 https://t.co/vnKCMaXvvk",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1143249486082445314",
+            "url": "https://t.co/vnKCMaXvvk"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 13 03:15:56 +0000 2017",
+        "default_profile": true,
+        "description": "Proudly representing the 3.2 million U.S. citizens of Puerto Rico in Congress. Member of @NatResources, @TransportGOP, @housesciencegop and @HouseGOP.",
+        "favourites_count": 1880,
+        "followers_count": 15696,
+        "friends_count": 659,
+        "geo_enabled": true,
+        "id": 819744763020775425,
+        "id_str": "819744763020775425",
+        "listed_count": 234,
+        "location": "Washington, DC and Puerto Rico",
+        "name": "Jenniffer Gonz\u00e1lez",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/819744763020775425/1546964138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/826526731636973568/EZ74mtcJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/826526731636973568/EZ74mtcJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJenniffer",
+        "statuses_count": 5221,
+        "url": "https://t.co/Q6xGtqpo7F",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 54885400,
+            "id_str": "54885400",
+            "name": "U.S. Navy",
+            "screen_name": "USNavy"
+        }
+    ]
+}

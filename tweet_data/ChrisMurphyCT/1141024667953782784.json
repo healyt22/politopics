@@ -1,0 +1,123 @@
+{
+    "created_at": "Tue Jun 18 16:47:34 +0000 2019",
+    "favorite_count": 5681,
+    "hashtags": [],
+    "id": 1141024667953782784,
+    "id_str": "1141024667953782784",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Jun 14 19:43:02 +0000 2019",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1139619273792466944,
+        "id_str": "1139619273792466944",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Trump: \u201cWe will always protect patients with preexisting conditions. Always.\u201d",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Apr 10 16:57:05 +0000 2009",
+            "default_profile": true,
+            "description": "Washington bureau chief of The Guardian",
+            "favourites_count": 6,
+            "followers_count": 117934,
+            "friends_count": 33324,
+            "geo_enabled": true,
+            "id": 30257834,
+            "id_str": "30257834",
+            "listed_count": 2031,
+            "location": "Washington, DC",
+            "name": "David Smith",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1495287341/DSC_0234_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1495287341/DSC_0234_normal.JPG",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SmithInAmerica",
+            "statuses_count": 29877,
+            "url": "http://t.co/UUVvKz9L5s",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1139619273792466944,
+    "quoted_status_id_str": "1139619273792466944",
+    "retweet_count": 2657,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "This seems like a good time to remind everyone that the Trump administration is actively supporting a lawsuit that\u2026 https://t.co/hWlSgCKh8D",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1141024667953782784",
+            "url": "https://t.co/hWlSgCKh8D"
+        }
+    ],
+    "user": {
+        "created_at": "Mon May 31 01:22:43 +0000 2010",
+        "default_profile": true,
+        "description": "U.S. Senator from Connecticut.",
+        "favourites_count": 1190,
+        "followers_count": 778439,
+        "friends_count": 203,
+        "geo_enabled": true,
+        "id": 150078976,
+        "id_str": "150078976",
+        "listed_count": 5188,
+        "name": "Chris Murphy",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/150078976/1542228542",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/871076844904361985/7NorOQHB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/871076844904361985/7NorOQHB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "ChrisMurphyCT",
+        "statuses_count": 19158,
+        "verified": true
+    },
+    "user_mentions": []
+}

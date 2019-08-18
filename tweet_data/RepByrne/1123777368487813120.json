@@ -1,0 +1,117 @@
+{
+    "created_at": "Thu May 02 02:32:58 +0000 2019",
+    "hashtags": [],
+    "id": 1123777368487813120,
+    "id_str": "1123777368487813120",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed May 01 21:31:33 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1123701514323857413,
+        "id_str": "1123701514323857413",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Many thanks to @SenShelby and @RepByrne for visiting with Baldwin EMC about co-op and member concerns! Baldwin EMC\u2026 https://t.co/QkCg8L5BpQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1123701514323857413",
+                "url": "https://t.co/QkCg8L5BpQ"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 23 20:32:07 +0000 2011",
+            "description": "Electric distribution co-op serving Baldwin County, Alabama. Please report power outages to our control center 24/7 at 251-989-6247.",
+            "favourites_count": 70,
+            "followers_count": 1420,
+            "friends_count": 82,
+            "id": 256665762,
+            "id_str": "256665762",
+            "listed_count": 28,
+            "location": "Alabama Gulf Coast",
+            "name": "BaldwinEMC",
+            "profile_background_color": "CEDDBC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/256665762/1514904463",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2370212919/vm913mjt4kyab3o8py47_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2370212919/vm913mjt4kyab3o8py47_normal.png",
+            "profile_link_color": "265E4B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BaldwinEMC",
+            "statuses_count": 1411,
+            "url": "http://t.co/AAWS83mqu4"
+        },
+        "user_mentions": [
+            {
+                "id": 21111098,
+                "id_str": "21111098",
+                "name": "Richard Shelby",
+                "screen_name": "SenShelby"
+            },
+            {
+                "id": 2253968388,
+                "id_str": "2253968388",
+                "name": "Rep. Bradley Byrne",
+                "screen_name": "RepByrne"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BaldwinEMC: Many thanks to @SenShelby and @RepByrne for visiting with Baldwin EMC about co-op and member concerns! Baldwin EMC is proud\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 19 19:42:18 +0000 2013",
+        "description": "I am proud to represent Alabama's First Congressional District in the U.S. House of Representatives. Official Congressional Account",
+        "favourites_count": 1227,
+        "followers_count": 21901,
+        "friends_count": 3841,
+        "geo_enabled": true,
+        "id": 2253968388,
+        "id_str": "2253968388",
+        "listed_count": 708,
+        "location": "Southwest Alabama",
+        "name": "Rep. Bradley Byrne",
+        "profile_background_color": "020A63",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2253968388/1541989182",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092051120795590656/3goKkXpg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092051120795590656/3goKkXpg_normal.jpg",
+        "profile_link_color": "FA0505",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepByrne",
+        "statuses_count": 14924,
+        "url": "https://t.co/u2pktSNMc6",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 256665762,
+            "id_str": "256665762",
+            "name": "BaldwinEMC",
+            "screen_name": "BaldwinEMC"
+        },
+        {
+            "id": 21111098,
+            "id_str": "21111098",
+            "name": "Richard Shelby",
+            "screen_name": "SenShelby"
+        },
+        {
+            "id": 2253968388,
+            "id_str": "2253968388",
+            "name": "Rep. Bradley Byrne",
+            "screen_name": "RepByrne"
+        }
+    ]
+}

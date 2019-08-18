@@ -1,0 +1,103 @@
+{
+    "created_at": "Sat Jul 20 17:06:50 +0000 2019",
+    "hashtags": [],
+    "id": 1152625927853158401,
+    "id_str": "1152625927853158401",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Jul 18 23:31:43 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1151998009481162752,
+        "id_str": "1151998009481162752",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I just got word that (@USGSA), the General Services Administration will be testing the soil @(James Ranch Road) whe\u2026 https://t.co/X04UqNyjFm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151998009481162752",
+                "url": "https://t.co/X04UqNyjFm"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 13 08:15:23 +0000 2016",
+            "default_profile": true,
+            "description": "Husband, father, and the 31st Mayor of Douglas AZ. The first Afro-Latino elected on the US-MEX border. https://t.co/z4lgoS2uyh",
+            "favourites_count": 4751,
+            "followers_count": 919,
+            "friends_count": 242,
+            "id": 808586098397974528,
+            "id_str": "808586098397974528",
+            "listed_count": 13,
+            "location": "Douglas, AZ",
+            "name": "Robert Uribe",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/808586098397974528/1564729923",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1162465769961037824/FlLcjgp4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162465769961037824/FlLcjgp4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "RobertYUribe",
+            "statuses_count": 2929,
+            "url": "https://t.co/gg3iN5fpmr"
+        },
+        "user_mentions": [
+            {
+                "id": 61583656,
+                "id_str": "61583656",
+                "name": "GSA",
+                "screen_name": "USGSA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RobertYUribe: I just got word that (@USGSA), the General Services Administration will be testing the soil @(James Ranch Road) where the\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 04 17:24:57 +0000 2019",
+        "description": "Congresswoman representing Arizona's 2nd Congressional District, but my grandchildren call me \"Mumsy!\"",
+        "favourites_count": 24,
+        "followers_count": 4941,
+        "friends_count": 479,
+        "geo_enabled": true,
+        "id": 1081240074946252801,
+        "id_str": "1081240074946252801",
+        "listed_count": 169,
+        "location": "Tucson, AZ",
+        "name": "Rep. Ann Kirkpatrick",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081240074946252801/1552591275",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083105724312506369/LMn9i3D5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083105724312506369/LMn9i3D5_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepKirkpatrick",
+        "statuses_count": 824,
+        "url": "https://t.co/98uPA9ejti",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 808586098397974528,
+            "id_str": "808586098397974528",
+            "name": "Robert Uribe",
+            "screen_name": "RobertYUribe"
+        },
+        {
+            "id": 61583656,
+            "id_str": "61583656",
+            "name": "GSA",
+            "screen_name": "USGSA"
+        }
+    ]
+}

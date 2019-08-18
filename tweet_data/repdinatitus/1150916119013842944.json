@@ -1,0 +1,152 @@
+{
+    "created_at": "Mon Jul 15 23:52:40 +0000 2019",
+    "hashtags": [],
+    "id": 1150916119013842944,
+    "id_str": "1150916119013842944",
+    "lang": "en",
+    "retweet_count": 30,
+    "retweeted_status": {
+        "created_at": "Mon Jul 15 20:52:35 +0000 2019",
+        "favorite_count": 38,
+        "hashtags": [],
+        "id": 1150870801719201794,
+        "id_str": "1150870801719201794",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 30,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Applause for @VernBuchanan &amp; @repdinatitus for shepherding to passage the RAWR Act HR 79 to combat wildlife traffic\u2026 https://t.co/gKOUYCKWrC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1150870801719201794",
+                "url": "https://t.co/gKOUYCKWrC"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 09 21:51:57 +0000 2018",
+            "default_profile": true,
+            "description": "Helping animals helps us all.",
+            "favourites_count": 872,
+            "followers_count": 350,
+            "friends_count": 205,
+            "geo_enabled": true,
+            "id": 1027673864887840768,
+            "id_str": "1027673864887840768",
+            "listed_count": 6,
+            "location": "Washington, DC",
+            "name": "Animal Wellness Action",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1027673864887840768/1533907028",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1027685541867937792/rNCLqGN4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1027685541867937792/rNCLqGN4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AWAction_News",
+            "statuses_count": 695,
+            "url": "https://t.co/WYxXT89tU4"
+        },
+        "user_mentions": [
+            {
+                "id": 20467163,
+                "id_str": "20467163",
+                "name": "Rep. Vern Buchanan",
+                "screen_name": "VernBuchanan"
+            },
+            {
+                "id": 122174004,
+                "id_str": "122174004",
+                "name": "Dina Titus",
+                "screen_name": "repdinatitus"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AWAction_News: Applause for @VernBuchanan &amp; @repdinatitus for shepherding to passage the RAWR Act HR 79 to combat wildlife trafficking\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+        "default_profile": true,
+        "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.",
+        "favourites_count": 5850,
+        "followers_count": 34691,
+        "friends_count": 1843,
+        "geo_enabled": true,
+        "id": 122174004,
+        "id_str": "122174004",
+        "listed_count": 971,
+        "location": "Las Vegas, NV",
+        "name": "Dina Titus",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repdinatitus",
+        "statuses_count": 11563,
+        "url": "https://t.co/2roqLuazqO",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1027673864887840768,
+            "id_str": "1027673864887840768",
+            "name": "Animal Wellness Action",
+            "screen_name": "AWAction_News"
+        },
+        {
+            "id": 20467163,
+            "id_str": "20467163",
+            "name": "Rep. Vern Buchanan",
+            "screen_name": "VernBuchanan"
+        },
+        {
+            "id": 122174004,
+            "id_str": "122174004",
+            "name": "Dina Titus",
+            "screen_name": "repdinatitus"
+        }
+    ]
+}

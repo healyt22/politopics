@@ -1,0 +1,126 @@
+{
+    "created_at": "Sat May 25 03:01:18 +0000 2019",
+    "hashtags": [],
+    "id": 1132119421521149952,
+    "id_str": "1132119421521149952",
+    "lang": "en",
+    "retweet_count": 41,
+    "retweeted_status": {
+        "created_at": "Sat May 25 01:42:16 +0000 2019",
+        "favorite_count": 262,
+        "hashtags": [],
+        "id": 1132099530906845195,
+        "id_str": "1132099530906845195",
+        "lang": "en",
+        "place": {
+            "id": "07d9db021f886001",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9db021f886001.json",
+            "place_type": "poi",
+            "name": "Resort and Conference Center",
+            "full_name": "Resort and Conference Center",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -70.29705272596932,
+                            41.64586469361258
+                        ],
+                        [
+                            -70.29705272596932,
+                            41.64586469361258
+                        ],
+                        [
+                            -70.29705272596932,
+                            41.64586469361258
+                        ],
+                        [
+                            -70.29705272596932,
+                            41.64586469361258
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 41,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Tonight at 11 ... a Cape Cod teen shares his journey coming out as transgender. He\u2019s proud to be one tonight\u2019s prom\u2026 https://t.co/8beelLwwcX",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1132099530906845195",
+                "url": "https://t.co/8beelLwwcX"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 05 03:31:17 +0000 2009",
+            "description": "Reporter @WBZ | Email: mlacrosse@cbs.com | @UMassAMherst Alumn | Mass Native | Coffee Lover | \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "favourites_count": 2390,
+            "followers_count": 3211,
+            "friends_count": 3214,
+            "geo_enabled": true,
+            "id": 22873437,
+            "id_str": "22873437",
+            "listed_count": 146,
+            "location": "Boston, MA",
+            "name": "Mike LaCrosse",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22873437/1505271508",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1110359872242098176/SO_hrS2z_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110359872242098176/SO_hrS2z_normal.png",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "MikeLaCrosseWBZ",
+            "statuses_count": 14475,
+            "url": "https://t.co/9AOQlfyzOz",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MikeLaCrosseWBZ: Tonight at 11 ... a Cape Cod teen shares his journey coming out as transgender. He\u2019s proud to be one tonight\u2019s prom ki\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 02 19:33:36 +0000 2013",
+        "description": "Official Twitter account of Congressman Joe Kennedy III, representing Massachusetts' 4th Congressional District.",
+        "favourites_count": 12,
+        "followers_count": 775013,
+        "friends_count": 696,
+        "geo_enabled": true,
+        "id": 1055907624,
+        "id_str": "1055907624",
+        "listed_count": 3264,
+        "name": "Rep. Joe Kennedy III",
+        "profile_background_color": "10214A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055907624/1506705689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905790687853105153/wp5cZMYl_normal.jpg",
+        "profile_link_color": "BF1B1B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepJoeKennedy",
+        "statuses_count": 5244,
+        "url": "https://t.co/rYNEysanC2",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22873437,
+            "id_str": "22873437",
+            "name": "Mike LaCrosse",
+            "screen_name": "MikeLaCrosseWBZ"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "created_at": "Fri Jul 19 19:17:57 +0000 2019",
+    "favorite_count": 16,
+    "hashtags": [],
+    "id": 1152296534454804481,
+    "id_str": "1152296534454804481",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Jul 18 19:37:01 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [
+            {
+                "text": "RaiseTheWage"
+            }
+        ],
+        "id": 1151938948127739910,
+        "id_str": "1151938948127739910",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/gVXpaWAgwu",
+                "expanded_url": "https://twitter.com/SEIU/status/1151938948127739910/video/1",
+                "id": 1151938898588835845,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1151938898588835845/pu/img/UfZoLYGBB9cFmETf.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1151938898588835845/pu/img/UfZoLYGBB9cFmETf.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/gVXpaWAgwu",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 20233,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1151938898588835845/pu/pl/5ZC7tqYaKKUPaMTM.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1151938898588835845/pu/vid/320x320/psXSn7vwTXhzZ-T0.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1151938898588835845/pu/vid/720x720/Ep5S07ATaJp80tRd.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1151938898588835845/pu/vid/480x480/lWPrCTAkmRJxY7P-.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "text": "Working people Missouri are saying THANK YOU @repcleaver for voting YES to pass the historic #RaiseTheWage act. https://t.co/gVXpaWAgwu",
+        "urls": [],
+        "user": {
+            "created_at": "Thu May 08 04:08:06 +0000 2008",
+            "description": "Official account of the Service Employees International Union, a leading voice for labor & change for working people. Union #1u Join us: https://t.co/fibKyNAilp",
+            "favourites_count": 5581,
+            "followers_count": 88369,
+            "friends_count": 11897,
+            "geo_enabled": true,
+            "id": 14695985,
+            "id_str": "14695985",
+            "listed_count": 2213,
+            "location": "U.S., Canada, Puerto Rico",
+            "name": "SEIU",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14695985/1529610622",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145720408999628801/mkHaiKSs_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145720408999628801/mkHaiKSs_normal.png",
+            "profile_link_color": "3B5898",
+            "profile_sidebar_border_color": "CCCCCC",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "screen_name": "SEIU",
+            "statuses_count": 46489,
+            "url": "https://t.co/cqohIfQC5Y",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 163570705,
+                "id_str": "163570705",
+                "name": "Rep. Emanuel Cleaver",
+                "screen_name": "repcleaver"
+            }
+        ]
+    },
+    "quoted_status_id": 1151938948127739910,
+    "quoted_status_id_str": "1151938948127739910",
+    "retweet_count": 5,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "No, thank YOU and everyone else who has waged this battle for the dignity of a livable wage. If we continue to stan\u2026 https://t.co/HrLngqzkmB",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1152296534454804481",
+            "url": "https://t.co/HrLngqzkmB"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jul 06 19:14:47 +0000 2010",
+        "description": "This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri's Fifth District.",
+        "favourites_count": 496,
+        "followers_count": 43007,
+        "friends_count": 1022,
+        "geo_enabled": true,
+        "id": 163570705,
+        "id_str": "163570705",
+        "listed_count": 1157,
+        "name": "Rep. Emanuel Cleaver",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163570705/1553799524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039985164133257218/FygbWsnz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "repcleaver",
+        "statuses_count": 6676,
+        "url": "https://t.co/dOfaqxI1gQ",
+        "verified": true
+    },
+    "user_mentions": []
+}

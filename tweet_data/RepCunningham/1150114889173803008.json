@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Jul 13 18:48:52 +0000 2019",
+    "favorite_count": 99,
+    "hashtags": [],
+    "id": 1150114889173803008,
+    "id_str": "1150114889173803008",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/GbXGmSAoSV",
+            "expanded_url": "https://twitter.com/RepCunningham/status/1150114889173803008/video/1",
+            "id": 1150113831974297600,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150113831974297600/pu/img/sO6D5OtmvguPpWeZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150113831974297600/pu/img/sO6D5OtmvguPpWeZ.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 540,
+                    "h": 960,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 383,
+                    "h": 680,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 540,
+                    "h": 960,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/GbXGmSAoSV",
+            "video_info": {
+                "aspect_ratio": [
+                    9,
+                    16
+                ],
+                "duration_millis": 126112,
+                "variants": [
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1150113831974297600/pu/vid/540x960/Td5AOkh61p9zZn74.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1150113831974297600/pu/vid/360x640/1v5k0Qqv8k-3Zeu1.mp4?tag=10"
+                    },
+                    {
+                        "bitrate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1150113831974297600/pu/vid/320x568/jFyq3VS3SqZQNjZf.mp4?tag=10"
+                    },
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1150113831974297600/pu/pl/tlNWvzQnEWjsD_iW.m3u8?tag=10"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 17,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Sampling the wares at Sweetgrass Festival today! Tonya has been doing this for over 40 years! https://t.co/GbXGmSAoSV",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 01 20:26:50 +0000 2019",
+        "default_profile": true,
+        "description": "Official Twitter account of Rep. Joe Cunningham. Proud to serve the people of South Carolina's Lowcountry.",
+        "favourites_count": 47,
+        "followers_count": 16224,
+        "friends_count": 81,
+        "geo_enabled": true,
+        "id": 1080198683713507335,
+        "id_str": "1080198683713507335",
+        "listed_count": 208,
+        "name": "Rep. Joe Cunningham",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080198683713507335/1558213908",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080643131341762560/JHIdKOkJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080643131341762560/JHIdKOkJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepCunningham",
+        "statuses_count": 588,
+        "url": "https://t.co/AcVCcsMkAz",
+        "verified": true
+    },
+    "user_mentions": []
+}

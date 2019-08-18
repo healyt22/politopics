@@ -1,0 +1,136 @@
+{
+    "created_at": "Wed May 08 16:50:15 +0000 2019",
+    "hashtags": [],
+    "id": 1126167439920771073,
+    "id_str": "1126167439920771073",
+    "lang": "es",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed May 08 16:48:07 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1126166903397978113,
+        "id_str": "1126166903397978113",
+        "lang": "es",
+        "place": {
+            "id": "07d9daf911483000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9daf911483000.json",
+            "place_type": "poi",
+            "name": "Hyatt Regency Washington on Capitol Hill",
+            "full_name": "Hyatt Regency Washington on Capitol Hill",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.01171398,
+                            38.89534166
+                        ],
+                        [
+                            -77.01171398,
+                            38.89534166
+                        ],
+                        [
+                            -77.01171398,
+                            38.89534166
+                        ],
+                        [
+                            -77.01171398,
+                            38.89534166
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "El congresista dem\u00f3crata por Illinois, Chuy Garc\u00eda, le dice @TelemundoNews que el nuevo plan migratorio de Trump es\u2026 https://t.co/0KMC9gxZWf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1126166903397978113",
+                "url": "https://t.co/0KMC9gxZWf"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Mar 27 14:31:46 +0000 2010",
+            "description": "Award-winning journalist,  digital reporter @TelemundoNews, frmr VP of Print @NAHJ, 30-year career covering Hispanics in the US. RTs don\u00b4t mean endorsements.",
+            "favourites_count": 3305,
+            "followers_count": 2103,
+            "friends_count": 851,
+            "geo_enabled": true,
+            "id": 126946608,
+            "id_str": "126946608",
+            "listed_count": 78,
+            "location": "Washington, DC",
+            "name": "Mar\u00eda Pe\u00f1a",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/126946608/1530574086",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1013587409546678277/X0wZuMJl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013587409546678277/X0wZuMJl_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "screen_name": "mariauxpen",
+            "statuses_count": 10332
+        },
+        "user_mentions": [
+            {
+                "id": 152142811,
+                "id_str": "152142811",
+                "name": "Noticias Telemundo",
+                "screen_name": "TelemundoNews"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @mariauxpen: El congresista dem\u00f3crata por Illinois, Chuy Garc\u00eda, le dice @TelemundoNews que el nuevo plan migratorio de Trump es parte d\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 08 00:04:27 +0000 2019",
+        "default_profile": true,
+        "description": "Progressive Chicagoan, Retired Marathoner. Congressman of #IL04. @TransportDems and @FSCDems. FB/IG: @RepChuyGarcia",
+        "favourites_count": 87,
+        "followers_count": 5178,
+        "friends_count": 229,
+        "id": 1082427779583541248,
+        "id_str": "1082427779583541248",
+        "listed_count": 169,
+        "name": "Congressman Chuy Garc\u00eda",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082427779583541248/1549477572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092137300115496960/9_hmhIKo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092137300115496960/9_hmhIKo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepChuyGarcia",
+        "statuses_count": 496,
+        "url": "https://t.co/XUixIycAnx",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 126946608,
+            "id_str": "126946608",
+            "name": "Mar\u00eda Pe\u00f1a",
+            "screen_name": "mariauxpen"
+        },
+        {
+            "id": 152142811,
+            "id_str": "152142811",
+            "name": "Noticias Telemundo",
+            "screen_name": "TelemundoNews"
+        }
+    ]
+}

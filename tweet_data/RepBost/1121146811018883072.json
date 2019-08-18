@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Apr 24 20:20:04 +0000 2019",
+    "favorite_count": 9,
+    "hashtags": [
+        {
+            "text": "twill"
+        }
+    ],
+    "id": 1121146811018883072,
+    "id_str": "1121146811018883072",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/01Y2RyrE70",
+            "expanded_url": "https://twitter.com/RepBost/status/1121146811018883072/photo/1",
+            "id": 1121146803469062148,
+            "media_url": "http://pbs.twimg.com/media/D48dE-HWkAQTfK6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D48dE-HWkAQTfK6.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "https://t.co/01Y2RyrE70"
+        }
+    ],
+    "place": {
+        "id": "07d9db2e50c80001",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9db2e50c80001.json",
+        "place_type": "poi",
+        "name": "Ravanelli's",
+        "full_name": "Ravanelli's",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -90.124458399766,
+                        38.72367982177308
+                    ],
+                    [
+                        -90.124458399766,
+                        38.72367982177308
+                    ],
+                    [
+                        -90.124458399766,
+                        38.72367982177308
+                    ],
+                    [
+                        -90.124458399766,
+                        38.72367982177308
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Stopped for a bite to eat between meetings and ran into Granite City  Mayor Ed Hagnauer! #twill https://t.co/01Y2RyrE70",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 06 19:55:08 +0000 2015",
+        "description": "Member of Congress proudly representing IL-12. Serving on @TransportGOP, @HouseAgGOP, and @HouseVetAffairs Committees. Find me on FB at https://t.co/cjWY9Itiyr",
+        "favourites_count": 341,
+        "followers_count": 11240,
+        "friends_count": 1886,
+        "geo_enabled": true,
+        "id": 2964877294,
+        "id_str": "2964877294",
+        "listed_count": 472,
+        "location": "IL-12 Congressional District",
+        "name": "Rep. Mike Bost",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964877294/1548969417",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553681697867575296/TbRJrmrc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553681697867575296/TbRJrmrc_normal.jpeg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepBost",
+        "statuses_count": 1938,
+        "url": "https://t.co/4tXoH7NdiQ",
+        "verified": true
+    },
+    "user_mentions": []
+}

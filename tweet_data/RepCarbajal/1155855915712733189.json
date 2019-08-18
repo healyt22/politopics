@@ -1,0 +1,146 @@
+{
+    "created_at": "Mon Jul 29 15:01:39 +0000 2019",
+    "hashtags": [
+        {
+            "text": "RangeFire"
+        }
+    ],
+    "id": 1155855915712733189,
+    "id_str": "1155855915712733189",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Jul 29 14:56:17 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [
+            {
+                "text": "RangeFire"
+            }
+        ],
+        "id": 1155854565519966208,
+        "id_str": "1155854565519966208",
+        "lang": "en",
+        "place": {
+            "id": "07d9df7d08483000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9df7d08483000.json",
+            "place_type": "poi",
+            "name": "Happy Canyon Shooting Range",
+            "full_name": "Happy Canyon Shooting Range",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -119.91819030465957,
+                            34.73718888886335
+                        ],
+                        [
+                            -119.91819030465957,
+                            34.73718888886335
+                        ],
+                        [
+                            -119.91819030465957,
+                            34.73718888886335
+                        ],
+                        [
+                            -119.91819030465957,
+                            34.73718888886335
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Just spoke with the #RangeFire @LosPadresNF IC  - fire burned approx. 100 acres &amp; is about 50% contained. Waiting f\u2026 https://t.co/1Y8sIUcxjk",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1155854565519966208",
+                "url": "https://t.co/1Y8sIUcxjk"
+            }
+        ],
+        "user": {
+            "created_at": "Sat May 07 16:31:08 +0000 2011",
+            "description": "@KSBY Daybreak Anchor, Reporter & Forecaster. @CalPoly alum. \ncfavuzzi@ksby.com Instagram:@christinafavuzzi Facebook:https://t.co/UgTUAhCnzR",
+            "favourites_count": 4681,
+            "followers_count": 1731,
+            "friends_count": 817,
+            "geo_enabled": true,
+            "id": 294707685,
+            "id_str": "294707685",
+            "listed_count": 58,
+            "location": "San Luis Obispo, CA",
+            "name": "Christina Favuzzi",
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/294707685/1496768098",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1062371032516845569/Oh9DQRxV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062371032516845569/Oh9DQRxV_normal.jpg",
+            "profile_link_color": "6600FF",
+            "profile_sidebar_border_color": "DBE9ED",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "screen_name": "CFavuzzi",
+            "statuses_count": 7262,
+            "url": "https://t.co/ju7r4fxd57",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 44427293,
+                "id_str": "44427293",
+                "name": "Los Padres NF",
+                "screen_name": "LosPadresNF"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @CFavuzzi: Just spoke with the #RangeFire @LosPadresNF IC  - fire burned approx. 100 acres &amp; is about 50% contained. Waiting for inversi\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 03 05:42:06 +0000 2017",
+        "description": "Father, husband, & veteran proudly representing California\u2019s 24th District. Working to protect the environment, improve our economy, and support our veterans.",
+        "favourites_count": 220,
+        "followers_count": 10005,
+        "friends_count": 836,
+        "geo_enabled": true,
+        "id": 816157667882373120,
+        "id_str": "816157667882373120",
+        "listed_count": 421,
+        "name": "Rep. Salud Carbajal",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816157667882373120/1483423693",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1101128802963505152/AfgDKkfc_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101128802963505152/AfgDKkfc_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepCarbajal",
+        "statuses_count": 2197,
+        "url": "https://t.co/NUyaVL9EFp",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 294707685,
+            "id_str": "294707685",
+            "name": "Christina Favuzzi",
+            "screen_name": "CFavuzzi"
+        },
+        {
+            "id": 44427293,
+            "id_str": "44427293",
+            "name": "Los Padres NF",
+            "screen_name": "LosPadresNF"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "created_at": "Fri Mar 29 14:27:16 +0000 2019",
+    "favorite_count": 22486,
+    "hashtags": [],
+    "id": 1111635941393907713,
+    "id_str": "1111635941393907713",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Mar 28 15:00:40 +0000 2019",
+        "favorite_count": 23033,
+        "hashtags": [],
+        "id": 1111281958691262466,
+        "id_str": "1111281958691262466",
+        "lang": "en",
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 5341,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Adam Schiff is a patriot. He has more integrity in his little finger than @realDonaldTrump or any of the Republican\u2026 https://t.co/dTfJ7vn9YE",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1111281958691262466",
+                "url": "https://t.co/dTfJ7vn9YE"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 10 13:53:21 +0000 2009",
+            "description": "Congressman for Rhode Island\u2019s 1st District.   DPCC Chair.  Antitrust Subcommittee Chairman. #ForThePeople",
+            "favourites_count": 2727,
+            "followers_count": 94860,
+            "friends_count": 5047,
+            "geo_enabled": true,
+            "id": 23593446,
+            "id_str": "23593446",
+            "listed_count": 1577,
+            "name": "David Cicilline",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23593446/1533056627",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960354458365554694/gaOJMfBF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960354458365554694/gaOJMfBF_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "davidcicilline",
+            "statuses_count": 19393,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "quoted_status_id": 1111281958691262466,
+    "quoted_status_id_str": "1111281958691262466",
+    "retweet_count": 4742,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Wow. In my whole lifetime, huh?\n\nMaybe I\u2019ll add this to my \u201cmean tweets\u201d list. \n\nBut seriously, this is the kind of\u2026 https://t.co/rXaTesbSfe",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1111635941393907713",
+            "url": "https://t.co/rXaTesbSfe"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 18:33:28 +0000 2019",
+        "description": "Proudly representing Texas's Second Congressional District",
+        "favourites_count": 5,
+        "followers_count": 400492,
+        "friends_count": 102,
+        "id": 1080894931311431682,
+        "id_str": "1080894931311431682",
+        "listed_count": 962,
+        "location": "Houston, TX",
+        "name": "Rep. Dan Crenshaw",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080894931311431682/1546546210",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1094614383232249856/BHAwJUfL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094614383232249856/BHAwJUfL_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepDanCrenshaw",
+        "statuses_count": 347,
+        "url": "https://t.co/pvr2a52IbJ",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,165 @@
+{
+    "created_at": "Wed Jun 26 16:34:28 +0000 2019",
+    "hashtags": [],
+    "id": 1143920473706770432,
+    "id_str": "1143920473706770432",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Jun 26 16:32:27 +0000 2019",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 1143919967034839042,
+        "id_str": "1143919967034839042",
+        "lang": "en",
+        "place": {
+            "id": "0fc342b3d1147000",
+            "url": "https://api.twitter.com/1.1/geo/id/0fc342b3d1147000.json",
+            "place_type": "poi",
+            "name": "United States Capitol",
+            "full_name": "United States Capitol",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ],
+                        [
+                            -77.00905323028564,
+                            38.89003073572137
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to @RepLipinski for meeting with us today! Thank you for representing @AdvocateKids and @advocatehealth in y\u2026 https://t.co/7FSGRIaVOf",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143919967034839042",
+                "url": "https://t.co/7FSGRIaVOf"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 19 20:27:38 +0000 2012",
+            "description": "Nationally ranked best children's hospital by US News & World Report. Tweeting pediatric health news & updates. Follow us on Insta: https://t.co/R4Vz9cscdY",
+            "favourites_count": 5772,
+            "followers_count": 5233,
+            "friends_count": 1322,
+            "geo_enabled": true,
+            "id": 834071802,
+            "id_str": "834071802",
+            "listed_count": 97,
+            "location": "Oak Lawn/Park Ridge, IL",
+            "name": "Advocate Children's",
+            "profile_background_color": "6ACCEF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/834071802/1560894146",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/908048386942754817/x8XBmq7g_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/908048386942754817/x8XBmq7g_normal.jpg",
+            "profile_link_color": "B86125",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "AdvocateKids",
+            "statuses_count": 9083,
+            "url": "https://t.co/gh79KqXm3P",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1009269193,
+                "id_str": "1009269193",
+                "name": "Rep. Daniel Lipinski",
+                "screen_name": "RepLipinski"
+            },
+            {
+                "id": 834071802,
+                "id_str": "834071802",
+                "name": "Advocate Children's",
+                "screen_name": "AdvocateKids"
+            },
+            {
+                "id": 33617185,
+                "id_str": "33617185",
+                "name": "Advocate Health Care",
+                "screen_name": "advocatehealth"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AdvocateKids: Thanks to @RepLipinski for meeting with us today! Thank you for representing @AdvocateKids and @advocatehealth in your di\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 13 17:03:06 +0000 2012",
+        "description": "Proudly representing the people of Illinois' 3rd Congressional District. Follow me on Facebook at https://t.co/oqe6Q8PbEE",
+        "favourites_count": 1094,
+        "followers_count": 14677,
+        "friends_count": 2525,
+        "geo_enabled": true,
+        "id": 1009269193,
+        "id_str": "1009269193",
+        "listed_count": 715,
+        "name": "Rep. Daniel Lipinski",
+        "profile_background_color": "141CB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009269193/1374164575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092568323324284930/d0_wkX3V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092568323324284930/d0_wkX3V_normal.jpg",
+        "profile_link_color": "101FC9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepLipinski",
+        "statuses_count": 3244,
+        "url": "https://t.co/QEykShdHO4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 834071802,
+            "id_str": "834071802",
+            "name": "Advocate Children's",
+            "screen_name": "AdvocateKids"
+        },
+        {
+            "id": 1009269193,
+            "id_str": "1009269193",
+            "name": "Rep. Daniel Lipinski",
+            "screen_name": "RepLipinski"
+        },
+        {
+            "id": 834071802,
+            "id_str": "834071802",
+            "name": "Advocate Children's",
+            "screen_name": "AdvocateKids"
+        },
+        {
+            "id": 33617185,
+            "id_str": "33617185",
+            "name": "Advocate Health Care",
+            "screen_name": "advocatehealth"
+        }
+    ]
+}

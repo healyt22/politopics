@@ -1,0 +1,121 @@
+{
+    "created_at": "Wed Jul 17 21:48:00 +0000 2019",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 1151609520709353472,
+    "id_str": "1151609520709353472",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 17 13:16:13 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1151480728053358594,
+        "id_str": "1151480728053358594",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Congressman @RepPerlmutter joined @AprilZesbaugh and @ContactLenz_KOA on \"Colorado's Morning News\" with the news \no\u2026 https://t.co/JLfL6GDZoV",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151480728053358594",
+                "url": "https://t.co/JLfL6GDZoV"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 31 21:11:26 +0000 2009",
+            "description": "KOA NewsRadio 850 AM / 94.1 FM Colorado's 24/7 News, Traffic and Weather Station, and exclusive home of the Denver @Broncos, Colorado @Rockies and @CUBuffs.",
+            "favourites_count": 5556,
+            "followers_count": 24338,
+            "friends_count": 1537,
+            "geo_enabled": true,
+            "id": 27964066,
+            "id_str": "27964066",
+            "listed_count": 642,
+            "location": "Denver, CO",
+            "name": "KOA NewsRadio",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27964066/1547841399",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/661188740660924416/Qfba1sKl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/661188740660924416/Qfba1sKl_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "KOANewsRadio",
+            "statuses_count": 37769,
+            "url": "https://t.co/xDy8hXgL1q"
+        },
+        "user_mentions": [
+            {
+                "id": 20552026,
+                "id_str": "20552026",
+                "name": "Rep. Ed Perlmutter",
+                "screen_name": "RepPerlmutter"
+            },
+            {
+                "id": 29225770,
+                "id_str": "29225770",
+                "name": "April Zesbaugh",
+                "screen_name": "AprilZesbaugh"
+            },
+            {
+                "id": 606703243,
+                "id_str": "606703243",
+                "name": "Marty Lenz",
+                "screen_name": "ContactLenz_KOA"
+            }
+        ]
+    },
+    "quoted_status_id": 1151480728053358594,
+    "quoted_status_id_str": "1151480728053358594",
+    "retweet_count": 1,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "ICYMI - My thoughts on @BLMNational bringing jobs to Lakewood and moving its HQ to Grand Junction. Great news for C\u2026 https://t.co/t0soSafcSk",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1151609520709353472",
+            "url": "https://t.co/t0soSafcSk"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Feb 10 22:17:52 +0000 2009",
+        "description": "Member of Congress, proudly representing the 7th District of Colorado https://t.co/wLRJaGd9rX",
+        "favourites_count": 1624,
+        "followers_count": 33176,
+        "friends_count": 4510,
+        "id": 20552026,
+        "id_str": "20552026",
+        "listed_count": 1376,
+        "location": "Colorado",
+        "name": "Rep. Ed Perlmutter",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20552026/1403113187",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978292192803422208/H3i3We-O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978292192803422208/H3i3We-O_normal.jpg",
+        "profile_link_color": "0400B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepPerlmutter",
+        "statuses_count": 5541,
+        "url": "http://t.co/NZmeXSnqTP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 140457196,
+            "id_str": "140457196",
+            "name": "BLMNational",
+            "screen_name": "BLMNational"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "created_at": "Mon Apr 29 20:01:01 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1122953956827848704,
+    "id_str": "1122953956827848704",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri Apr 26 00:58:24 +0000 2019",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 1121579245363449856,
+        "id_str": "1121579245363449856",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/khaLhDoKwJ",
+                "expanded_url": "https://twitter.com/BenRowan1/status/1121579245363449856/photo/1",
+                "id": 1121579237880807426,
+                "media_url": "http://pbs.twimg.com/media/D5CmX91WwAIdUWI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D5CmX91WwAIdUWI.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/khaLhDoKwJ"
+            }
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Thank you so much @tomemmer @RepTomEmmer for the tickets to the House Gallery! Amazing experience! https://t.co/khaLhDoKwJ",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Mar 06 02:38:04 +0000 2019",
+            "default_profile": true,
+            "description": "MHS Class of 2021, gonna be a little realer on here but not too much, Meme expert.",
+            "favourites_count": 32,
+            "followers_count": 6,
+            "friends_count": 28,
+            "id": 1103122545266569217,
+            "id_str": "1103122545266569217",
+            "name": "Ben Rowan",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103122545266569217/1551840418",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1103123320982130688/KAzEw5pY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103123320982130688/KAzEw5pY_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "BenRowan1",
+            "statuses_count": 42
+        },
+        "user_mentions": [
+            {
+                "id": 72431423,
+                "id_str": "72431423",
+                "name": "Tom Emmer",
+                "screen_name": "tomemmer"
+            },
+            {
+                "id": 2914515430,
+                "id_str": "2914515430",
+                "name": "Tom Emmer",
+                "screen_name": "RepTomEmmer"
+            }
+        ]
+    },
+    "quoted_status_id": 1121579245363449856,
+    "quoted_status_id_str": "1121579245363449856",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Always happy to assist constituents during their visits to DC! Interested in touring the U.S. Capitol while in Wash\u2026 https://t.co/waZ8k16L1F",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1122953956827848704",
+            "url": "https://t.co/waZ8k16L1F"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 10 21:44:52 +0000 2014",
+        "default_profile": true,
+        "description": "Husband, father, hockey fan, and Congressman for Minnesota's 6th District.",
+        "favourites_count": 518,
+        "followers_count": 13400,
+        "friends_count": 911,
+        "id": 2914515430,
+        "id_str": "2914515430",
+        "listed_count": 511,
+        "location": "Otsego, MN | Washington, D.C.",
+        "name": "Tom Emmer",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914515430/1446669081",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1067846972235804672/41P-z5uD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067846972235804672/41P-z5uD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTomEmmer",
+        "statuses_count": 4264,
+        "url": "http://t.co/jU8TYBqqHL",
+        "verified": true
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,87 @@
+{
+    "created_at": "Fri Oct 02 15:31:34 +0000 2015",
+    "hashtags": [],
+    "id": 649969982940553216,
+    "id_str": "649969982940553216",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/irTjQXrOx6",
+            "expanded_url": "https://twitter.com/Rep_DevinNunes/status/649969982940553216/photo/1",
+            "id": 649969982386782208,
+            "media_url": "http://pbs.twimg.com/media/CQUoQVrUwAAZPUo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CQUoQVrUwAAZPUo.jpg",
+            "sizes": {
+                "small": {
+                    "w": 179,
+                    "h": 206,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "large": {
+                    "w": 179,
+                    "h": 206,
+                    "resize": "fit"
+                },
+                "medium": {
+                    "w": 179,
+                    "h": 206,
+                    "resize": "fit"
+                }
+            },
+            "type": "photo",
+            "url": "http://t.co/irTjQXrOx6"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I'll be discussing Middle East w/ @RayAppletonKMJ today at 11 am PST. Listen live: http://t.co/C0A5UK82bg. @KMJNOW http://t.co/irTjQXrOx6",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/SWoB0",
+            "url": "http://t.co/C0A5UK82bg"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 29 21:40:22 +0000 2011",
+        "default_profile": true,
+        "followers_count": 34272,
+        "friends_count": 15,
+        "id": 344972339,
+        "id_str": "344972339",
+        "listed_count": 488,
+        "location": "Washington, DC",
+        "name": "Rep. Devin Nunes",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344972339/1353428355",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDevinNunes",
+        "statuses_count": 169,
+        "url": "http://t.co/qslO3rsq"
+    },
+    "user_mentions": [
+        {
+            "id": 2419701992,
+            "id_str": "2419701992",
+            "name": "Ray Appleton",
+            "screen_name": "RayAppletonKMJ"
+        },
+        {
+            "id": 40051702,
+            "id_str": "40051702",
+            "name": "KMJNOW",
+            "screen_name": "KMJNOW"
+        }
+    ]
+}

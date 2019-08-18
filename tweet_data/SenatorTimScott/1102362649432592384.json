@@ -1,0 +1,233 @@
+{
+    "created_at": "Mon Mar 04 00:18:31 +0000 2019",
+    "hashtags": [
+        {
+            "text": "alert"
+        }
+    ],
+    "id": 1102362649432592384,
+    "id_str": "1102362649432592384",
+    "lang": "en",
+    "quoted_status_id": 1102360054345486336,
+    "quoted_status_id_str": "1102360054345486336",
+    "retweet_count": 59,
+    "retweeted_status": {
+        "created_at": "Mon Mar 04 00:08:51 +0000 2019",
+        "favorite_count": 48,
+        "hashtags": [
+            {
+                "text": "alert"
+            }
+        ],
+        "id": 1102360219278032896,
+        "id_str": "1102360219278032896",
+        "lang": "en",
+        "quoted_status": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -80.90050467,
+                    34.01428385
+                ]
+            },
+            "created_at": "Mon Mar 04 00:08:12 +0000 2019",
+            "favorite_count": 156,
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    34.01428385,
+                    -80.90050467
+                ]
+            },
+            "hashtags": [],
+            "id": 1102360054345486336,
+            "id_str": "1102360054345486336",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/dpbSs3xJJr",
+                    "expanded_url": "https://twitter.com/NWSColumbia/status/1102360054345486336/photo/1",
+                    "id": 1102360052915204098,
+                    "media_url": "http://pbs.twimg.com/media/D0xeoKiXcAIFWkZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D0xeoKiXcAIFWkZ.jpg",
+                    "sizes": {
+                        "large": {
+                            "w": 1020,
+                            "h": 860,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1020,
+                            "h": 860,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 573,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/dpbSs3xJJr"
+                }
+            ],
+            "place": {
+                "id": "6057f1e35bcc6c20",
+                "url": "https://api.twitter.com/1.1/geo/id/6057f1e35bcc6c20.json",
+                "place_type": "admin",
+                "name": "South Carolina",
+                "full_name": "South Carolina, USA",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -83.353955,
+                                32.04683
+                            ],
+                            [
+                                -78.499301,
+                                32.04683
+                            ],
+                            [
+                                -78.499301,
+                                35.215449
+                            ],
+                            [
+                                -83.353955,
+                                35.215449
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "retweet_count": 185,
+            "source": "<a href=\"http://www.weather.gov/crh/impact\" rel=\"nofollow\">Svr Wx Impact Graphics - CAE</a>",
+            "text": "Tornado Warning including Columbia SC, West Columbia SC, Dentsville SC until 7:45 PM EST https://t.co/dpbSs3xJJr",
+            "urls": [],
+            "user": {
+                "created_at": "Wed Oct 26 21:11:54 +0000 2011",
+                "description": "Official Twitter Account for National Weather Service Columbia, SC. Details: http://t.co/DT7PGbdIaq",
+                "favourites_count": 3199,
+                "followers_count": 16367,
+                "friends_count": 239,
+                "geo_enabled": true,
+                "id": 399004430,
+                "id_str": "399004430",
+                "listed_count": 565,
+                "location": "West Columbia, SC",
+                "name": "NWS Columbia",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/399004430/1520795459",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000683117171/3d996176de5d7bc68c6a59ce69c5881f_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000683117171/3d996176de5d7bc68c6a59ce69c5881f_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "screen_name": "NWSColumbia",
+                "statuses_count": 15535,
+                "url": "http://t.co/BhVbWxcr5T",
+                "verified": true
+            },
+            "user_mentions": []
+        },
+        "quoted_status_id": 1102360054345486336,
+        "quoted_status_id_str": "1102360054345486336",
+        "retweet_count": 59,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Tornado WARNING for Columbia.  #alert https://t.co/XfFcWXT0Vk",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/NWSColumbia/status/1102360054345486336",
+                "url": "https://t.co/XfFcWXT0Vk"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 15 13:37:56 +0000 2009",
+            "description": "Official information from the South Carolina Emergency Management Division. #sctweets #smem #scwx #KnowYourZone #TwitterAlerts #scflood #SCEmergency",
+            "favourites_count": 4805,
+            "followers_count": 48486,
+            "friends_count": 1293,
+            "geo_enabled": true,
+            "id": 57017317,
+            "id_str": "57017317",
+            "listed_count": 1138,
+            "location": "South Carolina",
+            "name": "SCEMD",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/57017317/1508149879",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1150771045776920576/HyD-cge5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150771045776920576/HyD-cge5_normal.jpg",
+            "profile_link_color": "0F1BFF",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "BEBFC2",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "SCEMD",
+            "statuses_count": 7076,
+            "url": "https://t.co/FuJntGck05",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SCEMD: Tornado WARNING for Columbia.  #alert https://t.co/XfFcWXT0Vk",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NWSColumbia/status/1102360054345486336",
+            "url": "https://t.co/XfFcWXT0Vk"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Nov 19 20:34:30 +0000 2010",
+        "description": "United States Senator from South Carolina",
+        "favourites_count": 1606,
+        "followers_count": 376286,
+        "friends_count": 3893,
+        "geo_enabled": true,
+        "id": 217543151,
+        "id_str": "217543151",
+        "listed_count": 3641,
+        "location": "South Carolina",
+        "name": "Tim Scott",
+        "profile_background_color": "E0DBC8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217543151/1550264874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+        "profile_link_color": "606060",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EBE9DC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTimScott",
+        "statuses_count": 7937,
+        "url": "https://t.co/EoB6giYuOp",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 57017317,
+            "id_str": "57017317",
+            "name": "SCEMD",
+            "screen_name": "SCEMD"
+        }
+    ]
+}

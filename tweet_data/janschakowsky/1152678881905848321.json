@@ -1,0 +1,89 @@
+{
+    "created_at": "Sat Jul 20 20:37:15 +0000 2019",
+    "favorite_count": 26,
+    "hashtags": [],
+    "id": 1152678881905848321,
+    "id_str": "1152678881905848321",
+    "lang": "en",
+    "place": {
+        "id": "8b351eeb91372dc7",
+        "url": "https://api.twitter.com/1.1/geo/id/8b351eeb91372dc7.json",
+        "place_type": "city",
+        "name": "Evanston",
+        "full_name": "Evanston, IL",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -87.733451,
+                        42.0191507
+                    ],
+                    [
+                        -87.6649403,
+                        42.0191507
+                    ],
+                    [
+                        -87.6649403,
+                        42.071723
+                    ],
+                    [
+                        -87.733451,
+                        42.071723
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "We must recognize the trailblazing women who were integral to the success of the @NASA space program. That\u2019s why I\u2026 https://t.co/J5zWBLAH8M",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1152678881905848321",
+            "url": "https://t.co/J5zWBLAH8M"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Mar 13 16:03:17 +0000 2009",
+        "default_profile": true,
+        "description": "Official Twitter account for Rep. Jan Schakowsky, Illinois 9th Congressional District",
+        "favourites_count": 1042,
+        "followers_count": 44326,
+        "friends_count": 1373,
+        "geo_enabled": true,
+        "id": 24195214,
+        "id_str": "24195214",
+        "listed_count": 1752,
+        "location": "Chicago, IL",
+        "name": "Jan Schakowsky",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24195214/1546478385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978337720757096448/2aKjNkwQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978337720757096448/2aKjNkwQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "janschakowsky",
+        "statuses_count": 7981,
+        "url": "https://t.co/qdNbWpywjL",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 11348282,
+            "id_str": "11348282",
+            "name": "NASA",
+            "screen_name": "NASA"
+        }
+    ]
+}

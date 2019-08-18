@@ -1,0 +1,87 @@
+{
+    "created_at": "Thu Nov 23 15:00:02 +0000 2017",
+    "favorite_count": 13,
+    "hashtags": [
+        {
+            "text": "OH12"
+        }
+    ],
+    "id": 933711747822780416,
+    "id_str": "933711747822780416",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/JwdL4bB1m9",
+            "expanded_url": "https://twitter.com/PatTiberi/status/933711747822780416/photo/1",
+            "id": 933344442978918400,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DPPn02jX4AAYn2q.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DPPn02jX4AAYn2q.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 500,
+                    "h": 500,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 500,
+                    "h": 500,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 500,
+                    "h": 500,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/JwdL4bB1m9",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/DPPn02jX4AAYn2q.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Happy Thanksgiving! #OH12 https://t.co/JwdL4bB1m9",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Oct 29 15:02:02 +0000 2012",
+        "description": "Husband, Father, Son, OSU Alum, TBDBITL, #Buckeye fan.",
+        "favourites_count": 765,
+        "followers_count": 15247,
+        "friends_count": 892,
+        "id": 912608010,
+        "id_str": "912608010",
+        "listed_count": 507,
+        "name": "Pat Tiberi",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1042077847714783232/M11u-sm__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042077847714783232/M11u-sm__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "PatTiberi",
+        "statuses_count": 3697,
+        "verified": true
+    },
+    "user_mentions": []
+}

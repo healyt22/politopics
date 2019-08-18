@@ -1,0 +1,161 @@
+{
+    "created_at": "Sat May 18 13:53:08 +0000 2019",
+    "favorite_count": 11,
+    "hashtags": [],
+    "id": 1129746747041959937,
+    "id_str": "1129746747041959937",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Fri May 17 22:23:53 +0000 2019",
+        "favorite_count": 125,
+        "hashtags": [
+            {
+                "text": "WeAreCPP"
+            }
+        ],
+        "id": 1129512892770836481,
+        "id_str": "1129512892770836481",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/OSuE6GiG0G",
+                "expanded_url": "https://twitter.com/calpolypomona/status/1129512892770836481/video/1",
+                "id": 1129512331447136256,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129512331447136256/pu/img/FLpLa65b2oyYrbda.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129512331447136256/pu/img/FLpLa65b2oyYrbda.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/OSuE6GiG0G",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 13947,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1129512331447136256/pu/vid/320x180/7fXfZoZ3S6sbZbvx.mp4?tag=9"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1129512331447136256/pu/vid/640x360/azKiSAdTfORWg8O2.mp4?tag=9"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1129512331447136256/pu/vid/1280x720/hfmuV2fx0jjYLDlM.mp4?tag=9"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1129512331447136256/pu/pl/xSyd774jpAR-6oEn.m3u8?tag=9"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 13,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Commencement has arrived! \ud83c\udf93\ud83c\udf89\n\nCongratulations graduates...you made it!\nNow go do great things\ud83d\ude09 #WeAreCPP https://t.co/OSuE6GiG0G",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Mar 06 02:47:23 +0000 2009",
+            "description": "One of the country's leading polytechnic universities recognized for its learn-by-doing academic experience. Home of the Broncos \ud83d\udc0e. #WeAreCPP",
+            "favourites_count": 2914,
+            "followers_count": 16425,
+            "friends_count": 499,
+            "geo_enabled": true,
+            "id": 23019297,
+            "id_str": "23019297",
+            "listed_count": 299,
+            "location": "3801 Temple Ave., Pomona, CA",
+            "name": "Cal Poly Pomona",
+            "profile_background_color": "DADDC0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23019297/1559070454",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1121821872989986816/2kr2jjsA_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121821872989986816/2kr2jjsA_normal.png",
+            "profile_link_color": "7E6B29",
+            "profile_sidebar_border_color": "E2EAEF",
+            "profile_sidebar_fill_color": "E2EAEF",
+            "profile_text_color": "6C961C",
+            "profile_use_background_image": true,
+            "screen_name": "calpolypomona",
+            "statuses_count": 12949,
+            "url": "https://t.co/JSobNktIl8",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1129512892770836481,
+    "quoted_status_id_str": "1129512892770836481",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Congrats to the 2019 Class of Broncos at @calpolypomona - We wish you continued success &amp; hope you all strive to cr\u2026 https://t.co/uKYCCWuGER",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1129746747041959937",
+            "url": "https://t.co/uKYCCWuGER"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jan 04 00:36:00 +0000 2019",
+        "description": "Navy Veteran and Representative for California's 39th District. Member of @VetAffairsDems, @HASCDemocrats, @HispanicCaucus, @CAPAC. Ready to serve.",
+        "favourites_count": 80,
+        "followers_count": 5369,
+        "friends_count": 421,
+        "id": 1080986167003230208,
+        "id_str": "1080986167003230208",
+        "listed_count": 181,
+        "location": "Yorba Linda, CA",
+        "name": "Rep. Gil Cisneros",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080986167003230208/1553351147",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096232620663468032/PWHZFWd4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096232620663468032/PWHZFWd4_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepGilCisneros",
+        "statuses_count": 601,
+        "url": "https://t.co/5REBl6EqoA",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 23019297,
+            "id_str": "23019297",
+            "name": "Cal Poly Pomona",
+            "screen_name": "calpolypomona"
+        }
+    ]
+}

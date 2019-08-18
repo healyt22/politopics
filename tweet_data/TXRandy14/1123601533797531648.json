@@ -1,0 +1,109 @@
+{
+    "created_at": "Wed May 01 14:54:15 +0000 2019",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 1123601533797531648,
+    "id_str": "1123601533797531648",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Tue Apr 30 16:47:26 +0000 2019",
+        "favorite_count": 864,
+        "hashtags": [],
+        "id": 1123267629626662916,
+        "id_str": "1123267629626662916",
+        "lang": "en",
+        "retweet_count": 122,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The Exp 59 crew is studying human research, robotics and space manufacturing techniques today as @NASA and @SpaceX\u2026 https://t.co/EXox7pCDxr",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1123267629626662916",
+                "url": "https://t.co/EXox7pCDxr"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 23 15:25:28 +0000 2013",
+            "description": "NASA's page for updates from the International Space Station, the world-class lab orbiting Earth 250 miles above. For the latest research, follow @ISS_Research.",
+            "favourites_count": 10847,
+            "followers_count": 2753901,
+            "friends_count": 190,
+            "id": 1451773004,
+            "id_str": "1451773004",
+            "listed_count": 10566,
+            "location": "Low Earth Orbit",
+            "name": "Intl. Space Station",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451773004/1533649916",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1057727869370204162/EZOgkXiP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057727869370204162/EZOgkXiP_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "Space_Station",
+            "statuses_count": 10910,
+            "url": "https://t.co/9Gk2H0gekn",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 11348282,
+                "id_str": "11348282",
+                "name": "NASA",
+                "screen_name": "NASA"
+            },
+            {
+                "id": 34743251,
+                "id_str": "34743251",
+                "name": "SpaceX",
+                "screen_name": "SpaceX"
+            }
+        ]
+    },
+    "quoted_status_id": 1123267629626662916,
+    "quoted_status_id_str": "1123267629626662916",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Spotted from the International Space Station: Texas 14! There\u2019s Galveston Bay\u2026and if you look closely, you can almo\u2026 https://t.co/uvJDYrXquV",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1123601533797531648",
+            "url": "https://t.co/uvJDYrXquV"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 03 15:30:06 +0000 2013",
+        "default_profile": true,
+        "description": "Representative for the 14th Congressional District of Texas. https://t.co/3YiUH3WeW6 | Instagram: TXRandy14",
+        "favourites_count": 226,
+        "followers_count": 16002,
+        "friends_count": 481,
+        "geo_enabled": true,
+        "id": 1058051748,
+        "id_str": "1058051748",
+        "listed_count": 692,
+        "location": "Friendswood, TX",
+        "name": "Randy Weber",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058051748/1357229443",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616654502184263680/na4q3hZH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616654502184263680/na4q3hZH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "TXRandy14",
+        "statuses_count": 2692,
+        "url": "https://t.co/8FFRq1l3TV",
+        "verified": true
+    },
+    "user_mentions": []
+}

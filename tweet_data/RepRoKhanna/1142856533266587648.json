@@ -1,0 +1,120 @@
+{
+    "created_at": "Sun Jun 23 18:06:45 +0000 2019",
+    "hashtags": [],
+    "id": 1142856533266587648,
+    "id_str": "1142856533266587648",
+    "lang": "en",
+    "retweet_count": 20,
+    "retweeted_status": {
+        "created_at": "Sun Jun 23 18:06:23 +0000 2019",
+        "favorite_count": 52,
+        "hashtags": [],
+        "id": 1142856439834316808,
+        "id_str": "1142856439834316808",
+        "lang": "en",
+        "retweet_count": 20,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Tonight we're diving deep into Iran, the immigration crisis, 2020 and more with:\n@SenGaryPeters\n@RepRoKhanna\u2026 https://t.co/AjfuPQOOXD",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1142856439834316808",
+                "url": "https://t.co/AjfuPQOOXD"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Oct 10 02:27:19 +0000 2017",
+            "default_profile": true,
+            "description": "Sunday nights, 7-9 p.m. ET on @MSNBC!",
+            "favourites_count": 768,
+            "followers_count": 32357,
+            "friends_count": 62,
+            "id": 917577254221336578,
+            "id_str": "917577254221336578",
+            "listed_count": 388,
+            "location": "Washington, DC",
+            "name": "Kasie DC",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/917577254221336578/1516912645",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/918481891371765762/mgh8OnQl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/918481891371765762/mgh8OnQl_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "KasieDC",
+            "statuses_count": 2918,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 236511574,
+                "id_str": "236511574",
+                "name": "Senator Gary Peters",
+                "screen_name": "SenGaryPeters"
+            },
+            {
+                "id": 816298918468259841,
+                "id_str": "816298918468259841",
+                "name": "Rep. Ro Khanna",
+                "screen_name": "RepRoKhanna"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @KasieDC: Tonight we're diving deep into Iran, the immigration crisis, 2020 and more with:\n@SenGaryPeters\n@RepRoKhanna\n@JayInslee\n&amp;\n@jon\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 03 15:03:23 +0000 2017",
+        "description": "Rep. Silicon Valley's #CA17. Working to create proposals for jobs in areas left behind & tax credits for working class. Restraint in foreign policy. No PAC $.",
+        "favourites_count": 1580,
+        "followers_count": 50532,
+        "friends_count": 903,
+        "id": 816298918468259841,
+        "id_str": "816298918468259841",
+        "listed_count": 733,
+        "location": "Silicon Valley, CA",
+        "name": "Rep. Ro Khanna",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816298918468259841/1559839646",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088808215448567808/SPhDCzvR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088808215448567808/SPhDCzvR_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepRoKhanna",
+        "statuses_count": 6917,
+        "url": "https://t.co/zsSd8FqNef",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 917577254221336578,
+            "id_str": "917577254221336578",
+            "name": "Kasie DC",
+            "screen_name": "KasieDC"
+        },
+        {
+            "id": 236511574,
+            "id_str": "236511574",
+            "name": "Senator Gary Peters",
+            "screen_name": "SenGaryPeters"
+        },
+        {
+            "id": 816298918468259841,
+            "id_str": "816298918468259841",
+            "name": "Rep. Ro Khanna",
+            "screen_name": "RepRoKhanna"
+        },
+        {
+            "id": 21789463,
+            "id_str": "21789463",
+            "name": "Jay Inslee",
+            "screen_name": "JayInslee"
+        }
+    ]
+}

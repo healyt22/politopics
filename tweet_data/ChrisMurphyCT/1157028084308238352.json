@@ -1,0 +1,127 @@
+{
+    "created_at": "Thu Aug 01 20:39:26 +0000 2019",
+    "favorite_count": 417,
+    "hashtags": [],
+    "id": 1157028084308238352,
+    "id_str": "1157028084308238352",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu Aug 01 19:34:29 +0000 2019",
+        "favorite_count": 9447,
+        "hashtags": [],
+        "id": 1157011739634020354,
+        "id_str": "1157011739634020354",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/0u1rU6wKuV",
+                "expanded_url": "https://twitter.com/NYTnickc/status/1157011739634020354/photo/1",
+                "id": 1157011733434851333,
+                "media_url": "http://pbs.twimg.com/media/EA6ICpxX4AUXwSG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EA6ICpxX4AUXwSG.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 180,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1038,
+                        "h": 275,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1038,
+                        "h": 275,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/0u1rU6wKuV"
+            }
+        ],
+        "retweet_count": 3652,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "This is incredible: a font made from gerrymandered districts \n\nhttps://t.co/5JRGC7lUEB https://t.co/0u1rU6wKuV",
+        "urls": [
+            {
+                "expanded_url": "https://www.uglygerry.com/",
+                "url": "https://t.co/5JRGC7lUEB"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Mar 20 20:12:54 +0000 2011",
+            "default_profile": true,
+            "description": "reporter for @nytimes; sandwich/taco/pizza pundit. #campaignfoodreport corasan@nytimes.com",
+            "favourites_count": 11743,
+            "followers_count": 20723,
+            "friends_count": 1827,
+            "geo_enabled": true,
+            "id": 269448653,
+            "id_str": "269448653",
+            "listed_count": 870,
+            "location": "somewhere near the atlantic ocean",
+            "name": "Nick Corasaniti",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/269448653/1473183369",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/519830092696915968/c43mZeoh_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/519830092696915968/c43mZeoh_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NYTnickc",
+            "statuses_count": 35258,
+            "url": "https://t.co/DP42dxx0h6",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1157011739634020354,
+    "quoted_status_id_str": "1157011739634020354",
+    "retweet_count": 62,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "This can\u2019t be real. https://t.co/lrB0Kwmuqo",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NYTnickc/status/1157011739634020354",
+            "url": "https://t.co/lrB0Kwmuqo"
+        }
+    ],
+    "user": {
+        "created_at": "Mon May 31 01:22:43 +0000 2010",
+        "default_profile": true,
+        "description": "U.S. Senator from Connecticut.",
+        "favourites_count": 1211,
+        "followers_count": 790138,
+        "friends_count": 200,
+        "geo_enabled": true,
+        "id": 150078976,
+        "id_str": "150078976",
+        "listed_count": 5248,
+        "name": "Chris Murphy",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/150078976/1542228542",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/871076844904361985/7NorOQHB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/871076844904361985/7NorOQHB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "ChrisMurphyCT",
+        "statuses_count": 19322,
+        "verified": true
+    },
+    "user_mentions": []
+}

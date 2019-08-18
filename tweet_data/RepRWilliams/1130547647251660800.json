@@ -1,0 +1,135 @@
+{
+    "created_at": "Mon May 20 18:55:38 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "HookEm"
+        }
+    ],
+    "id": 1130547647251660800,
+    "id_str": "1130547647251660800",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Sun May 19 21:50:06 +0000 2019",
+        "favorite_count": 4935,
+        "hashtags": [
+            {
+                "text": "HookEm"
+            }
+        ],
+        "id": 1130229164081111040,
+        "id_str": "1130229164081111040",
+        "lang": "fr",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TwBnGLm6wj",
+                "expanded_url": "https://twitter.com/TexasMTN/status/1130229164081111040/photo/1",
+                "id": 1130185180814163969,
+                "media_url": "http://pbs.twimg.com/media/D685bxjWwAEiudo.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D685bxjWwAEiudo.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1350,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/TwBnGLm6wj"
+            }
+        ],
+        "retweet_count": 1198,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "NATIONAL CHAMPIONS! \ud83c\udfc6\n\n#HookEm \ud83e\udd18 https://t.co/TwBnGLm6wj",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Aug 08 19:16:07 +0000 2012",
+            "description": "Official Twitter account for The University of Texas Longhorns Men's Tennis program. https://t.co/Cug4c5q4Jj",
+            "favourites_count": 578,
+            "followers_count": 4045,
+            "friends_count": 66,
+            "geo_enabled": true,
+            "id": 745777004,
+            "id_str": "745777004",
+            "listed_count": 58,
+            "location": "Austin, TX",
+            "name": "Texas Men's Tennis",
+            "profile_background_color": "CC6600",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/745777004/1559314235",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022550078895128577/w07vvLX5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022550078895128577/w07vvLX5_normal.jpg",
+            "profile_link_color": "CC6600",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "TexasMTN",
+            "statuses_count": 5949,
+            "url": "https://t.co/0toVDYlCg2",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1130229164081111040,
+    "quoted_status_id_str": "1130229164081111040",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Congratulations to @TexasMTN on their win! #HookEm https://t.co/4NGibF3ES8",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/TexasMTN/status/1130229164081111040",
+            "url": "https://t.co/4NGibF3ES8"
+        }
+    ],
+    "user": {
+        "created_at": "Thu Jan 10 19:21:22 +0000 2013",
+        "description": "I am honored to represent the 25th Congressional District of Texas. Member of @FinancialCmte.",
+        "favourites_count": 1030,
+        "followers_count": 11559,
+        "friends_count": 704,
+        "geo_enabled": true,
+        "id": 1077446982,
+        "id_str": "1077446982",
+        "listed_count": 611,
+        "location": "Central Texas",
+        "name": "Rep. Roger Williams",
+        "profile_background_color": "DEDDE0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077446982/1547135020",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436164065665093632/aealPAUa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/436164065665093632/aealPAUa_normal.jpeg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RepRWilliams",
+        "statuses_count": 4904,
+        "url": "http://t.co/JVoBEX18T4",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 745777004,
+            "id_str": "745777004",
+            "name": "Texas Men's Tennis",
+            "screen_name": "TexasMTN"
+        }
+    ]
+}

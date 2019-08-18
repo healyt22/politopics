@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri May 31 19:12:17 +0000 2019",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 1134538104465952768,
+    "id_str": "1134538104465952768",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Thu May 30 18:57:11 +0000 2019",
+        "favorite_count": 48,
+        "hashtags": [],
+        "id": 1134171917668278273,
+        "id_str": "1134171917668278273",
+        "lang": "en",
+        "retweet_count": 45,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "U.S. measles outbreaks set a record this year with 971 cases, surpassing the high from 1994, CDC says https://t.co/vGhX0wM0FD",
+        "urls": [
+            {
+                "expanded_url": "https://on.wsj.com/2XoVfCs",
+                "url": "https://t.co/vGhX0wM0FD"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+            "description": "Breaking news and features from the WSJ.",
+            "favourites_count": 1229,
+            "followers_count": 16743281,
+            "friends_count": 1138,
+            "geo_enabled": true,
+            "id": 3108351,
+            "id_str": "3108351",
+            "listed_count": 112572,
+            "location": "New York, NY",
+            "name": "The Wall Street Journal",
+            "profile_background_color": "EDF2F5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1562333209",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+            "profile_link_color": "1164B8",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "WSJ",
+            "statuses_count": 281794,
+            "url": "https://t.co/GhhR6PLfem",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1134171917668278273,
+    "quoted_status_id_str": "1134171917668278273",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@RepGuthrie writes in @CNNOpinion on the two viral outbreaks plaguing our country... measles AND misinformation.\u2026 https://t.co/zj6Dm9QPR3",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1134538104465952768",
+            "url": "https://t.co/zj6Dm9QPR3"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Feb 16 14:18:06 +0000 2010",
+        "description": "House Energy & Commerce Committee Republicans | Republican Leader @repgregwalden",
+        "favourites_count": 407,
+        "followers_count": 31273,
+        "friends_count": 1067,
+        "geo_enabled": true,
+        "id": 114756202,
+        "id_str": "114756202",
+        "listed_count": 1299,
+        "location": "Washington, D.C.",
+        "name": "Energy & Commerce GOP",
+        "profile_background_color": "050000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114756202/1504288315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+        "profile_link_color": "A79777",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C7C5C5",
+        "profile_text_color": "28539E",
+        "profile_use_background_image": true,
+        "screen_name": "HouseCommerce",
+        "statuses_count": 14365,
+        "url": "https://t.co/N1b9OueDJW",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1908143071,
+            "id_str": "1908143071",
+            "name": "Rep. Brett Guthrie",
+            "screen_name": "RepGuthrie"
+        },
+        {
+            "id": 259074538,
+            "id_str": "259074538",
+            "name": "CNN Opinion",
+            "screen_name": "CNNOpinion"
+        }
+    ]
+}

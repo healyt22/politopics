@@ -1,0 +1,129 @@
+{
+    "created_at": "Tue Jun 04 21:24:40 +0000 2019",
+    "hashtags": [],
+    "id": 1136020973327720450,
+    "id_str": "1136020973327720450",
+    "lang": "en",
+    "retweet_count": 17,
+    "retweeted_status": {
+        "created_at": "Tue Jun 04 13:31:46 +0000 2019",
+        "favorite_count": 37,
+        "hashtags": [],
+        "id": 1135901960392138752,
+        "id_str": "1135901960392138752",
+        "lang": "en",
+        "retweet_count": 17,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "*New* bipartisan bill to eliminate student loan origination fees from @SenatorBraun @SenatorSinema @SenRickScott\u2026 https://t.co/sFt8dqfccc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1135901960392138752",
+                "url": "https://t.co/sFt8dqfccc"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Dec 06 14:56:28 +0000 2007",
+            "description": "President & CEO of the National Association of Student Financial Aid Administrators (NASFAA), native Ohioan, adopted Michigander/Virginian",
+            "favourites_count": 456,
+            "followers_count": 1682,
+            "friends_count": 312,
+            "id": 10904762,
+            "id_str": "10904762",
+            "listed_count": 48,
+            "location": "Washington D.C.",
+            "name": "Justin Draeger",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/10904762/1504326094",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145131106645291010/DMOZltVN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145131106645291010/DMOZltVN_normal.jpg",
+            "profile_link_color": "5593BD",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "justindraeger",
+            "statuses_count": 643,
+            "url": "https://t.co/K5YE1TNrC7"
+        },
+        "user_mentions": [
+            {
+                "id": 1080870981877534720,
+                "id_str": "1080870981877534720",
+                "name": "Senator Mike Braun",
+                "screen_name": "SenatorBraun"
+            },
+            {
+                "id": 1080844782,
+                "id_str": "1080844782",
+                "name": "Kyrsten Sinema",
+                "screen_name": "SenatorSinema"
+            },
+            {
+                "id": 131546062,
+                "id_str": "131546062",
+                "name": "Rick Scott",
+                "screen_name": "SenRickScott"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @justindraeger: *New* bipartisan bill to eliminate student loan origination fees from @SenatorBraun @SenatorSinema @SenRickScott @ChrisC\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 16:58:18 +0000 2019",
+        "description": "Main Street entrepreneur & Hoosier U.S. Senator from Jasper, IN.",
+        "favourites_count": 8,
+        "followers_count": 5972,
+        "friends_count": 111,
+        "geo_enabled": true,
+        "id": 1080870981877534720,
+        "id_str": "1080870981877534720",
+        "listed_count": 199,
+        "location": "Jasper, IN",
+        "name": "Senator Mike Braun",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080870981877534720/1560287247",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080872040184401924/tXytvVUd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080872040184401924/tXytvVUd_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenatorBraun",
+        "statuses_count": 538,
+        "url": "https://t.co/ChBgzUcPIG",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 10904762,
+            "id_str": "10904762",
+            "name": "Justin Draeger",
+            "screen_name": "justindraeger"
+        },
+        {
+            "id": 1080870981877534720,
+            "id_str": "1080870981877534720",
+            "name": "Senator Mike Braun",
+            "screen_name": "SenatorBraun"
+        },
+        {
+            "id": 1080844782,
+            "id_str": "1080844782",
+            "name": "Kyrsten Sinema",
+            "screen_name": "SenatorSinema"
+        },
+        {
+            "id": 131546062,
+            "id_str": "131546062",
+            "name": "Rick Scott",
+            "screen_name": "SenRickScott"
+        }
+    ]
+}

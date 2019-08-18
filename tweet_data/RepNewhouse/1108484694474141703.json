@@ -1,0 +1,124 @@
+{
+    "created_at": "Wed Mar 20 21:45:20 +0000 2019",
+    "hashtags": [],
+    "id": 1108484694474141703,
+    "id_str": "1108484694474141703",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Mar 20 21:35:04 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1108482110505967621,
+        "id_str": "1108482110505967621",
+        "lang": "en",
+        "place": {
+            "id": "07d9eddf9b882000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9eddf9b882000.json",
+            "place_type": "poi",
+            "name": "West Richland Post Office",
+            "full_name": "West Richland Post Office",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -119.35165743388083,
+                            46.30116128220112
+                        ],
+                        [
+                            -119.35165743388083,
+                            46.30116128220112
+                        ],
+                        [
+                            -119.35165743388083,
+                            46.30116128220112
+                        ],
+                        [
+                            -119.35165743388083,
+                            46.30116128220112
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "USPS Seattle District Manager: \u201cThose individuals that get chosen to have their name on one of our post offices hav\u2026 https://t.co/nJIS7bv6Lm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1108482110505967621",
+                "url": "https://t.co/nJIS7bv6Lm"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 06 19:45:06 +0000 2017",
+            "default_profile": true,
+            "description": "@KAPPKVEW anchor/reporter | former producer for @KUSI_GMSD | so cal native | big fan of coffee, road trips & humans",
+            "favourites_count": 237,
+            "followers_count": 171,
+            "friends_count": 231,
+            "geo_enabled": true,
+            "id": 938494528025067520,
+            "id_str": "938494528025067520",
+            "listed_count": 2,
+            "location": "Tri-Cities, WA",
+            "name": "Carissa Lehmkuhl",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/938494528025067520/1513123771",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/940735110223036416/3Mpapwgb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/940735110223036416/3Mpapwgb_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CarissaKVEW",
+            "statuses_count": 681
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CarissaKVEW: USPS Seattle District Manager: \u201cThose individuals that get chosen to have their name on one of our post offices have done\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Dec 18 20:19:23 +0000 2014",
+        "default_profile": true,
+        "description": "Proud to represent Washington's 4th District in the U.S. Congress",
+        "favourites_count": 729,
+        "followers_count": 13599,
+        "friends_count": 1678,
+        "id": 2930635215,
+        "id_str": "2930635215",
+        "listed_count": 493,
+        "name": "Rep. Dan Newhouse",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2930635215/1552426574",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553653397505576960/4z-oC8rN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553653397505576960/4z-oC8rN_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepNewhouse",
+        "statuses_count": 1510,
+        "url": "https://t.co/qIftHgI639",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 938494528025067520,
+            "id_str": "938494528025067520",
+            "name": "Carissa Lehmkuhl",
+            "screen_name": "CarissaKVEW"
+        }
+    ]
+}

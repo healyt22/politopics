@@ -1,0 +1,100 @@
+{
+    "created_at": "Wed Feb 06 20:18:51 +0000 2019",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 1093242639435161602,
+    "id_str": "1093242639435161602",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/v6PZhmOBrm",
+            "expanded_url": "https://twitter.com/RepTomRice/status/1093242639435161602/video/1",
+            "id": 1093242153105571846,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093242153105571846/pu/img/vmXTYm5526KcUowO.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093242153105571846/pu/img/vmXTYm5526KcUowO.jpg",
+            "sizes": {
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                },
+                "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                }
+            },
+            "type": "video",
+            "url": "https://t.co/v6PZhmOBrm",
+            "video_info": {
+                "aspect_ratio": [
+                    16,
+                    9
+                ],
+                "duration_millis": 33533,
+                "variants": [
+                    {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1093242153105571846/pu/pl/bY11ipQRCUM7emfp.m3u8?tag=6"
+                    },
+                    {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1093242153105571846/pu/vid/640x360/lbEaUnxaUnaXPE5e.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1093242153105571846/pu/vid/1280x720/eX9Bnr1X3StviP7M.mp4?tag=6"
+                    },
+                    {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1093242153105571846/pu/vid/320x180/Eutr3ZtkYHmmaqK1.mp4?tag=6"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Democrats' refusal to secure our border is out of step with America and certainly out of step with South Carolina! https://t.co/v6PZhmOBrm",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 03 17:35:05 +0000 2013",
+        "description": "Former CPA and tax lawyer. Proudly representing South Carolina's 7th Congressional District. Find me on FB at https://t.co/1YXogZ4l3N.",
+        "favourites_count": 44,
+        "followers_count": 16067,
+        "friends_count": 409,
+        "id": 1058345042,
+        "id_str": "1058345042",
+        "listed_count": 585,
+        "name": "Congressman Tom Rice",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058345042/1357751553",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3087214605/bd94115eb4cbc13f474eea2d678e6372_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3087214605/bd94115eb4cbc13f474eea2d678e6372_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepTomRice",
+        "statuses_count": 1910,
+        "url": "http://t.co/S6o0ATa6",
+        "verified": true
+    },
+    "user_mentions": []
+}

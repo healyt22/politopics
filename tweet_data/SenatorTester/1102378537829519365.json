@@ -1,0 +1,93 @@
+{
+    "created_at": "Mon Mar 04 01:21:39 +0000 2019",
+    "hashtags": [],
+    "id": 1102378537829519365,
+    "id_str": "1102378537829519365",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Sun Mar 03 20:06:48 +0000 2019",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 1102299305115815936,
+        "id_str": "1102299305115815936",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "New temperature records were set for several locations in the NWS Great Falls forecast area on  Saturday and Sunday\u2026 https://t.co/5i77UNZ1Uc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1102299305115815936",
+                "url": "https://t.co/5i77UNZ1Uc"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 30 12:55:31 +0000 2012",
+            "description": "Official Twitter account for the National Weather Service in Great Falls, covering North Central and Southwest Montana. Details:http://t.co/KKTK7cZlhK",
+            "favourites_count": 2226,
+            "followers_count": 10685,
+            "friends_count": 167,
+            "id": 594573425,
+            "id_str": "594573425",
+            "listed_count": 315,
+            "location": "Great Falls, MT",
+            "name": "NWS Great Falls",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/594573425/1371148636",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875601266176540674/BWaBjNAA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875601266176540674/BWaBjNAA_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "NWSGreatFalls",
+            "statuses_count": 26140,
+            "url": "http://t.co/xf6veNeTfC",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NWSGreatFalls: New temperature records were set for several locations in the NWS Great Falls forecast area on  Saturday and Sunday. Amo\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 05 20:13:29 +0000 2012",
+        "description": "Third-generation Montana farmer. Proud grandfather. Former school teacher. Flattop icon. Trumpet player. Montana's senior Senator.",
+        "favourites_count": 300,
+        "followers_count": 94817,
+        "friends_count": 1001,
+        "geo_enabled": true,
+        "id": 515822213,
+        "id_str": "515822213",
+        "listed_count": 1370,
+        "location": "Montana",
+        "name": "Senator Jon Tester",
+        "profile_background_color": "0C0203",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/515822213/1490051228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143232631942844421/5GFPbh6d_normal.png",
+        "profile_link_color": "FA610F",
+        "profile_sidebar_border_color": "D6BCAB",
+        "profile_sidebar_fill_color": "BE9658",
+        "profile_text_color": "544D3D",
+        "profile_use_background_image": true,
+        "screen_name": "SenatorTester",
+        "statuses_count": 4605,
+        "url": "http://t.co/G4S7FHr0Od",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 594573425,
+            "id_str": "594573425",
+            "name": "NWS Great Falls",
+            "screen_name": "NWSGreatFalls"
+        }
+    ]
+}

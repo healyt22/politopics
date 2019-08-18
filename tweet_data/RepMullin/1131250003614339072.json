@@ -1,0 +1,111 @@
+{
+    "created_at": "Wed May 22 17:26:33 +0000 2019",
+    "hashtags": [],
+    "id": 1131250003614339072,
+    "id_str": "1131250003614339072",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed May 22 16:55:00 +0000 2019",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 1131242065008963586,
+        "id_str": "1131242065008963586",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@RepMullin discusses the response to flooding in Oklahoma: \"The Oklahoma standard is we take care of our neighbors\u2026 https://t.co/OQ8xjhYBzn",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1131242065008963586",
+                "url": "https://t.co/OQ8xjhYBzn"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 10 18:58:01 +0000 2016",
+            "default_profile": true,
+            "description": "#ConnectToCongress is the best way to talk to your lawmakers through the Sinclair Broadcast Group network. https://t.co/3G2jKZ1OwR",
+            "favourites_count": 899,
+            "followers_count": 1096,
+            "friends_count": 465,
+            "id": 741343677465890820,
+            "id_str": "741343677465890820",
+            "listed_count": 60,
+            "location": "Washington, DC",
+            "name": "C2C Sinclair",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/741343677465890820/1465586441",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/741345386925817856/mtKcEXUU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/741345386925817856/mtKcEXUU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "SBGC2C",
+            "statuses_count": 5628,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 1060370282,
+                "id_str": "1060370282",
+                "name": "Markwayne Mullin",
+                "screen_name": "RepMullin"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SBGC2C: .@RepMullin discusses the response to flooding in Oklahoma: \"The Oklahoma standard is we take care of our neighbors.\" @KTULNews\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jan 04 12:43:55 +0000 2013",
+        "default_profile": true,
+        "description": "Father of five. Small business owner. Honored to represent Oklahoma\u2019s conservative values in Congress. https://t.co/0jHkAECORk",
+        "favourites_count": 636,
+        "followers_count": 18665,
+        "friends_count": 708,
+        "geo_enabled": true,
+        "id": 1060370282,
+        "id_str": "1060370282",
+        "listed_count": 684,
+        "location": "Oklahoma",
+        "name": "Markwayne Mullin",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060370282/1485533313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936684558841532416/NA_AK7gd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936684558841532416/NA_AK7gd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepMullin",
+        "statuses_count": 3120,
+        "url": "https://t.co/Qv5teppuYQ",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 741343677465890820,
+            "id_str": "741343677465890820",
+            "name": "C2C Sinclair",
+            "screen_name": "SBGC2C"
+        },
+        {
+            "id": 1060370282,
+            "id_str": "1060370282",
+            "name": "Markwayne Mullin",
+            "screen_name": "RepMullin"
+        },
+        {
+            "id": 15145111,
+            "id_str": "15145111",
+            "name": "Tulsa's Channel 8",
+            "screen_name": "KTULNews"
+        }
+    ]
+}

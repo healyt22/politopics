@@ -1,0 +1,102 @@
+{
+    "created_at": "Mon May 06 19:36:04 +0000 2019",
+    "favorite_count": 67,
+    "hashtags": [],
+    "id": 1125484391722098690,
+    "id_str": "1125484391722098690",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Mon May 06 15:45:00 +0000 2019",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 1125426242189049862,
+        "id_str": "1125426242189049862",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "A staggering 15 million reported scam calls have been reported in April alone, and Schumer says they are getting wo\u2026 https://t.co/I2ReEJD6Iv",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1125426242189049862",
+                "url": "https://t.co/I2ReEJD6Iv"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 11 21:24:27 +0000 2009",
+            "description": "CNYCentral is your source for news, weather, entertainment & sports in Syracuse & Central New York on NBC3/WSTM, CBS5/WTVH & CW6/WSTQ.",
+            "favourites_count": 7874,
+            "followers_count": 81474,
+            "friends_count": 934,
+            "geo_enabled": true,
+            "id": 20629645,
+            "id_str": "20629645",
+            "listed_count": 678,
+            "location": "Central New York",
+            "name": "CNYCentral",
+            "profile_background_color": "243D7F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20629645/1548805931",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/789479012875796481/lr2e5e5G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/789479012875796481/lr2e5e5G_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F8EF54",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "CNYCentral",
+            "statuses_count": 107865,
+            "url": "https://t.co/tiOW2LLylN",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1125426242189049862,
+    "quoted_status_id_str": "1125426242189049862",
+    "retweet_count": 10,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "I agree with @SenSchumer, it\u2019s time to hang up on illegal robocalls and pass my bipartisan TRACED Act out of the Se\u2026 https://t.co/lcTscxnS50",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1125484391722098690",
+            "url": "https://t.co/lcTscxnS50"
+        }
+    ],
+    "user": {
+        "created_at": "Tue May 10 16:41:48 +0000 2011",
+        "description": "U.S. Senator John Thune, South Dakota. Senate Republican Whip. Father. Grandfather. Husband. Avid Outdoorsman. Sports Fan.",
+        "favourites_count": 54,
+        "followers_count": 94288,
+        "friends_count": 326,
+        "geo_enabled": true,
+        "id": 296361085,
+        "id_str": "296361085",
+        "listed_count": 2287,
+        "name": "Senator John Thune",
+        "profile_background_color": "F8F4E4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296361085/1452790054",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110550047966543873/ppEe8HG0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110550047966543873/ppEe8HG0_normal.png",
+        "profile_link_color": "264B59",
+        "profile_sidebar_border_color": "990000",
+        "profile_sidebar_fill_color": "333333",
+        "profile_text_color": "808080",
+        "profile_use_background_image": true,
+        "screen_name": "SenJohnThune",
+        "statuses_count": 5414,
+        "url": "http://t.co/OiwOiAFGGw",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17494010,
+            "id_str": "17494010",
+            "name": "Chuck Schumer",
+            "screen_name": "SenSchumer"
+        }
+    ]
+}

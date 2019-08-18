@@ -1,0 +1,105 @@
+{
+    "created_at": "Mon Jun 24 21:24:05 +0000 2019",
+    "hashtags": [],
+    "id": 1143268580022263811,
+    "id_str": "1143268580022263811",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Mon Jun 24 21:00:00 +0000 2019",
+        "favorite_count": 38,
+        "hashtags": [],
+        "id": 1143262522264313856,
+        "id_str": "1143262522264313856",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Coming up at 2:30pm: Arizona Senator @SenMcSallyAZ joins us for her monthly exclusive interview! Make sure to tune\u2026 https://t.co/82O1m7Szjk",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1143262522264313856",
+                "url": "https://t.co/82O1m7Szjk"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 24 16:16:13 +0000 2009",
+            "description": "Longest running local talk show in Phoenix! KTAR News on 92.3. Mac loves rooting for chaos! Gaydos has been with KTAR since 1998!",
+            "favourites_count": 3853,
+            "followers_count": 10161,
+            "friends_count": 417,
+            "id": 26266094,
+            "id_str": "26266094",
+            "listed_count": 176,
+            "location": "KTAR-FM, Phoenix, AZ",
+            "name": "Mac and Gaydos\u2122 on 92.3",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26266094/1534524362",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1046578844646264833/geiY9yT7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046578844646264833/geiY9yT7_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "screen_name": "MacandGaydos",
+            "statuses_count": 22523,
+            "url": "https://t.co/XyCsmh9kdD"
+        },
+        "user_mentions": [
+            {
+                "id": 2964949642,
+                "id_str": "2964949642",
+                "name": "Martha McSally",
+                "screen_name": "SenMcSallyAZ"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MacandGaydos: Coming up at 2:30pm: Arizona Senator @SenMcSallyAZ joins us for her monthly exclusive interview! Make sure to tune in to\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 06 20:39:37 +0000 2015",
+        "description": "First female fighter pilot to fly in combat. Veteran. Dog mom to Boomer. Proudly representing the people of Arizona in the U.S Senate.",
+        "favourites_count": 267,
+        "followers_count": 65329,
+        "friends_count": 736,
+        "geo_enabled": true,
+        "id": 2964949642,
+        "id_str": "2964949642",
+        "listed_count": 1027,
+        "location": "Arizona, USA",
+        "name": "Martha McSally",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964949642/1460992343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090315894109204480/DiDFtf5C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090315894109204480/DiDFtf5C_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "SenMcSallyAZ",
+        "statuses_count": 3646,
+        "url": "https://t.co/ZaC11aNF6e",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 26266094,
+            "id_str": "26266094",
+            "name": "Mac and Gaydos\u2122 on 92.3",
+            "screen_name": "MacandGaydos"
+        },
+        {
+            "id": 2964949642,
+            "id_str": "2964949642",
+            "name": "Martha McSally",
+            "screen_name": "SenMcSallyAZ"
+        }
+    ]
+}

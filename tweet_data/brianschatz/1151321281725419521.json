@@ -1,0 +1,133 @@
+{
+    "created_at": "Wed Jul 17 02:42:38 +0000 2019",
+    "favorite_count": 458,
+    "hashtags": [],
+    "id": 1151321281725419521,
+    "id_str": "1151321281725419521",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 17 01:13:27 +0000 2019",
+        "favorite_count": 231,
+        "hashtags": [],
+        "id": 1151298836134027264,
+        "id_str": "1151298836134027264",
+        "in_reply_to_screen_name": "benwikler",
+        "in_reply_to_status_id": 1151286986638090240,
+        "in_reply_to_user_id": 851211,
+        "lang": "en",
+        "place": {
+            "id": "7dc5c6d3bfb10ccc",
+            "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json",
+            "place_type": "admin",
+            "name": "Wisconsin",
+            "full_name": "Wisconsin, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.889433,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            47.309715
+                        ],
+                        [
+                            -92.889433,
+                            47.309715
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "quoted_status_id": 1151298394075226112,
+        "quoted_status_id_str": "1151298394075226112",
+        "retweet_count": 88,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "1328 donations, and barreling towards 1500 before midnight! EVERYONE, WE\u2019RE DOING THIS!\n\nhttps://t.co/5pavYotiu6",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/ajentleson/status/1151298394075226112?s=21",
+                "url": "https://t.co/5pavYotiu6"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 09 22:36:12 +0000 2007",
+            "description": "Chair, Democratic Party of Wisconsin. @WisDems",
+            "favourites_count": 52418,
+            "followers_count": 111900,
+            "friends_count": 3506,
+            "geo_enabled": true,
+            "id": 851211,
+            "id_str": "851211",
+            "listed_count": 1420,
+            "location": "Wisconsin, USA",
+            "name": "Ben Wikler",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/851211/1550849927",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1110777225715027968/dpaOgUy8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110777225715027968/dpaOgUy8_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "screen_name": "benwikler",
+            "statuses_count": 28125,
+            "url": "https://t.co/vLLnus5Xnm",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1151298836134027264,
+    "quoted_status_id_str": "1151298836134027264",
+    "retweet_count": 88,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Ben we will send a check tomorrow. Anyone else in? https://t.co/z6cHqjmw1q",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/benwikler/status/1151298836134027264",
+            "url": "https://t.co/z6cHqjmw1q"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 16 21:54:28 +0000 2009",
+        "description": "United States Senator from Hawaii. Dad. Climate Hawk. Appropriator. Chief Deputy Whip.",
+        "favourites_count": 5407,
+        "followers_count": 225018,
+        "friends_count": 2211,
+        "geo_enabled": true,
+        "id": 47747074,
+        "id_str": "47747074",
+        "listed_count": 2578,
+        "location": "\u00dcT: 19.72105,-155.087417",
+        "name": "Brian Schatz",
+        "profile_background_color": "063482",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47747074/1504655317",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/840179285440757761/McwUAXF8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/840179285440757761/McwUAXF8_normal.jpg",
+        "profile_link_color": "00B3FF",
+        "profile_sidebar_border_color": "1C65DC",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "1C65DC",
+        "profile_use_background_image": true,
+        "screen_name": "brianschatz",
+        "statuses_count": 11963,
+        "url": "https://t.co/TFoJ19ZTFY",
+        "verified": true
+    },
+    "user_mentions": []
+}

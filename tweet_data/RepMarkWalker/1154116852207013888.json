@@ -1,0 +1,85 @@
+{
+    "created_at": "Wed Jul 24 19:51:14 +0000 2019",
+    "favorite_count": 14,
+    "hashtags": [],
+    "id": 1154116852207013888,
+    "id_str": "1154116852207013888",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/msgTPGEijn",
+            "expanded_url": "https://twitter.com/RepMarkWalker/status/1154116852207013888/photo/1",
+            "id": 1154116815095848965,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EAQ_IOkX4AUhONk.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EAQ_IOkX4AUhONk.jpg",
+            "sizes": {
+                "small": {
+                    "w": 480,
+                    "h": 480,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "medium": {
+                    "w": 480,
+                    "h": 480,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 480,
+                    "h": 480,
+                    "resize": "fit"
+                }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/msgTPGEijn",
+            "video_info": {
+                "aspect_ratio": [
+                    1,
+                    1
+                ],
+                "variants": [
+                    {
+                        "bitrate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/EAQ_IOkX4AUhONk.mp4"
+                    }
+                ]
+            }
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "And\u2026.SCENE. https://t.co/msgTPGEijn",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 07 16:20:28 +0000 2015",
+        "description": "US Congressman. @housegop Vice Chair. Ranking Member on Subcommittee for Intelligence and Counterterrorism. Former Pastor gratefully representing #NC06.",
+        "favourites_count": 4523,
+        "followers_count": 20053,
+        "friends_count": 1080,
+        "geo_enabled": true,
+        "id": 2966205003,
+        "id_str": "2966205003",
+        "listed_count": 637,
+        "name": "Rep. Mark Walker",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966205003/1515012979",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150957367393234946/WDef7nN3_normal.png",
+        "profile_link_color": "0B2343",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RepMarkWalker",
+        "statuses_count": 4921,
+        "url": "https://t.co/uvTWAFvWvC",
+        "verified": true
+    },
+    "user_mentions": []
+}

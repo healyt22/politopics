@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Jul 20 23:05:51 +0000 2019",
+    "favorite_count": 128,
+    "hashtags": [],
+    "id": 1152716275208077312,
+    "id_str": "1152716275208077312",
+    "lang": "en",
+    "place": {
+        "id": "6d032cd232fb02d5",
+        "url": "https://api.twitter.com/1.1/geo/id/6d032cd232fb02d5.json",
+        "place_type": "city",
+        "name": "McAllen",
+        "full_name": "McAllen, TX",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -98.2958236,
+                        26.143437
+                    ],
+                    [
+                        -98.195525,
+                        26.143437
+                    ],
+                    [
+                        -98.195525,
+                        26.337943
+                    ],
+                    [
+                        -98.2958236,
+                        26.337943
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "retweet_count": 13,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Just finished my second bipartisan inspection of @DHSgov/@CBP and @HHSGov border facilities with 9 Dem &amp; 7 Rep coll\u2026 https://t.co/Xo5X6tv85M",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1152716275208077312",
+            "url": "https://t.co/Xo5X6tv85M"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Nov 10 17:30:23 +0000 2018",
+        "default_profile": true,
+        "description": "Exposing truth, cleaning-up corruption & inspiring collaboration in Congress. Member of House Financial Services, Foreign Affairs, & Ethics Committees. #MN03",
+        "favourites_count": 2688,
+        "followers_count": 11462,
+        "friends_count": 767,
+        "geo_enabled": true,
+        "id": 1061310112013434882,
+        "id_str": "1061310112013434882",
+        "listed_count": 214,
+        "location": "Minnesota, USA",
+        "name": "Rep. Dean Phillips",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061310112013434882/1543962611",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081272800265027589/v5NR76GB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepDeanPhillips",
+        "statuses_count": 608,
+        "url": "https://t.co/shLWxHqqwP",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15647676,
+            "id_str": "15647676",
+            "name": "Homeland Security",
+            "screen_name": "DHSgov"
+        },
+        {
+            "id": 16613128,
+            "id_str": "16613128",
+            "name": "CBP",
+            "screen_name": "CBP"
+        },
+        {
+            "id": 44783853,
+            "id_str": "44783853",
+            "name": "HHS.gov",
+            "screen_name": "HHSGov"
+        }
+    ]
+}

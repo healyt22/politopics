@@ -1,0 +1,153 @@
+{
+    "created_at": "Wed Jul 10 20:54:03 +0000 2019",
+    "favorite_count": 17,
+    "hashtags": [],
+    "id": 1149059229728301056,
+    "id_str": "1149059229728301056",
+    "lang": "en",
+    "quoted_status": {
+        "created_at": "Wed Jul 10 15:31:03 +0000 2019",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "AsylumSeekers"
+            },
+            {
+                "text": "Guatemala"
+            }
+        ],
+        "id": 1148977943890280448,
+        "id_str": "1148977943890280448",
+        "lang": "en",
+        "place": {
+            "id": "6417871953fa5e86",
+            "url": "https://api.twitter.com/1.1/geo/id/6417871953fa5e86.json",
+            "place_type": "city",
+            "name": "Silver Spring",
+            "full_name": "Silver Spring, MD",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.064086,
+                            38.979735
+                        ],
+                        [
+                            -76.97162,
+                            38.979735
+                        ],
+                        [
+                            -76.97162,
+                            39.036964
+                        ],
+                        [
+                            -77.064086,
+                            39.036964
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The White House Wants To Send #AsylumSeekers To #Guatemala. This is Probably Illegal - https://t.co/p7J784wLV4",
+        "urls": [
+            {
+                "expanded_url": "https://go.shr.lc/2G4fChW",
+                "url": "https://t.co/p7J784wLV4"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 16 17:45:14 +0000 2012",
+            "description": "President of @RefugeesIntl; former Asst Secy @StatePRM, served at UN, White House, as Congressional staff & at Human Rights Watch. Former Dean @HHHSchool #UMN",
+            "favourites_count": 216,
+            "followers_count": 2006,
+            "friends_count": 343,
+            "geo_enabled": true,
+            "id": 637151656,
+            "id_str": "637151656",
+            "listed_count": 45,
+            "location": "District of Columbia, USA",
+            "name": "Eric Schwartz",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/923265709949489152/M7NXDebg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/923265709949489152/M7NXDebg_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "EricSchwartzRI",
+            "statuses_count": 1740,
+            "url": "https://t.co/ZKIkyWBruS"
+        },
+        "user_mentions": []
+    },
+    "quoted_status_id": 1148977943890280448,
+    "quoted_status_id_str": "1148977943890280448",
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Chairman @RepEliotEngel: @EricSchwartzRI is exactly right. As I wrote to @SecPompeo, the State Department\u2019s own hum\u2026 https://t.co/5zWCbdnRok",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/1149059229728301056",
+            "url": "https://t.co/5zWCbdnRok"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jul 29 14:28:03 +0000 2009",
+        "description": "House committee responsible for foreign policy legislation and oversight | @RepEliotEngel, Chairman | #HFAC",
+        "favourites_count": 154,
+        "followers_count": 45640,
+        "friends_count": 121,
+        "geo_enabled": true,
+        "id": 61206798,
+        "id_str": "61206798",
+        "listed_count": 1361,
+        "location": "Washington, DC",
+        "name": "House Foreign Affairs Committee",
+        "profile_background_color": "2C373D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61206798/1538502283",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1054379870493573121/vM6Slb6a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054379870493573121/vM6Slb6a_normal.jpg",
+        "profile_link_color": "111D52",
+        "profile_sidebar_border_color": "0F305E",
+        "profile_sidebar_fill_color": "418FB0",
+        "profile_text_color": "010608",
+        "profile_use_background_image": true,
+        "screen_name": "HouseForeign",
+        "statuses_count": 9837,
+        "url": "https://t.co/ECPx7iSNMX",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 164007407,
+            "id_str": "164007407",
+            "name": "Eliot Engel",
+            "screen_name": "RepEliotEngel"
+        },
+        {
+            "id": 637151656,
+            "id_str": "637151656",
+            "name": "Eric Schwartz",
+            "screen_name": "EricSchwartzRI"
+        },
+        {
+            "id": 988573326376427520,
+            "id_str": "988573326376427520",
+            "name": "Secretary Pompeo",
+            "screen_name": "SecPompeo"
+        }
+    ]
+}

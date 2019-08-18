@@ -1,0 +1,93 @@
+{
+    "created_at": "Wed Jul 17 13:40:18 +0000 2019",
+    "hashtags": [],
+    "id": 1151486787895930881,
+    "id_str": "1151486787895930881",
+    "lang": "en",
+    "retweet_count": 18,
+    "retweeted_status": {
+        "created_at": "Wed Jul 17 13:34:23 +0000 2019",
+        "favorite_count": 34,
+        "hashtags": [],
+        "id": 1151485298360147968,
+        "id_str": "1151485298360147968",
+        "lang": "en",
+        "retweet_count": 18,
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+        "text": "WATCH LIVE: Full Committee markup of 25 bills to address:\n\n- Annoying robocalls\n- Dangerous consumer products\n- Ene\u2026 https://t.co/8DixF1NIej",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1151485298360147968",
+                "url": "https://t.co/8DixF1NIej"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 13 18:56:41 +0000 2009",
+            "description": "Official Twitter of the House Committee on Energy and Commerce. Chaired by @FrankPallone.",
+            "favourites_count": 2575,
+            "followers_count": 16187,
+            "friends_count": 431,
+            "geo_enabled": true,
+            "id": 30929600,
+            "id_str": "30929600",
+            "listed_count": 660,
+            "location": "Washington, DC",
+            "name": "Energy and Commerce Committee",
+            "profile_background_color": "050A24",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30929600/1540576971",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080815363846230016/s2DC_6VD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080815363846230016/s2DC_6VD_normal.jpg",
+            "profile_link_color": "398538",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "FFFFFF",
+            "screen_name": "EnergyCommerce",
+            "statuses_count": 7305,
+            "url": "https://t.co/aYYYBq8sBe",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @EnergyCommerce: WATCH LIVE: Full Committee markup of 25 bills to address:\n\n- Annoying robocalls\n- Dangerous consumer products\n- Energy\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Jan 05 02:29:18 +0000 2017",
+        "default_profile": true,
+        "description": "Honored to represent CA's 44th Congressional District. #CA44 Member of @EnergyCommerce @HomelandDems @HispanicCaucus @USProgressives.  @Dodgers fan.",
+        "favourites_count": 2341,
+        "followers_count": 29442,
+        "friends_count": 8637,
+        "geo_enabled": true,
+        "id": 816833925456789505,
+        "id_str": "816833925456789505",
+        "listed_count": 593,
+        "location": "San Pedro, CA",
+        "name": "Nanette D. Barrag\u00e1n",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816833925456789505/1522285278",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978337845428420610/dYCHO_Ml_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978337845428420610/dYCHO_Ml_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "RepBarragan",
+        "statuses_count": 3951,
+        "url": "https://t.co/Mt3nPhPH19",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 30929600,
+            "id_str": "30929600",
+            "name": "Energy and Commerce Committee",
+            "screen_name": "EnergyCommerce"
+        }
+    ]
+}

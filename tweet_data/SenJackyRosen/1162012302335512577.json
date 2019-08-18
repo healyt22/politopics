@@ -1,0 +1,105 @@
+{
+    "created_at": "Thu Aug 15 14:44:56 +0000 2019",
+    "hashtags": [],
+    "id": 1162012302335512577,
+    "id_str": "1162012302335512577",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Aug 13 21:04:02 +0000 2019",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 1161382931060781056,
+        "id_str": "1161382931060781056",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Thanks to @SenJackyRosen for taking some time to tour the lake today, discuss aquatic invasive species, and learn m\u2026 https://t.co/QkW6RW4TJM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1161382931060781056",
+                "url": "https://t.co/QkW6RW4TJM"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 21 23:06:57 +0000 2012",
+            "description": "A Voice for Lake Tahoe: Tahoe Regional Planning Agency",
+            "favourites_count": 237,
+            "followers_count": 1007,
+            "friends_count": 234,
+            "geo_enabled": true,
+            "id": 532633666,
+            "id_str": "532633666",
+            "listed_count": 24,
+            "location": "Lake Tahoe, CA/NV",
+            "name": "TahoePlanningAgency",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/532633666/1416605722",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/535910545459658753/-JznVCOg_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/535910545459658753/-JznVCOg_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "TahoeAgency",
+            "statuses_count": 1057,
+            "url": "http://t.co/g8i84lQyzo"
+        },
+        "user_mentions": [
+            {
+                "id": 818554054309715969,
+                "id_str": "818554054309715969",
+                "name": "Senator Jacky Rosen",
+                "screen_name": "SenJackyRosen"
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @TahoeAgency: Thanks to @SenJackyRosen for taking some time to tour the lake today, discuss aquatic invasive species, and learn more abo\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jan 09 20:24:29 +0000 2017",
+        "default_profile": true,
+        "description": "U.S. Senator for Nevada.",
+        "favourites_count": 149,
+        "followers_count": 21274,
+        "friends_count": 238,
+        "id": 818554054309715969,
+        "id_str": "818554054309715969",
+        "listed_count": 532,
+        "location": "Las Vegas, NV",
+        "name": "Senator Jacky Rosen",
+        "profile_background_color": "F5F8FA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818554054309715969/1546525180",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenJackyRosen",
+        "statuses_count": 4202,
+        "url": "https://t.co/BHuJG9D5U9",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 532633666,
+            "id_str": "532633666",
+            "name": "TahoePlanningAgency",
+            "screen_name": "TahoeAgency"
+        },
+        {
+            "id": 818554054309715969,
+            "id_str": "818554054309715969",
+            "name": "Senator Jacky Rosen",
+            "screen_name": "SenJackyRosen"
+        }
+    ]
+}

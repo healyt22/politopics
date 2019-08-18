@@ -1,0 +1,91 @@
+{
+    "created_at": "Thu Jun 06 17:43:19 +0000 2019",
+    "hashtags": [],
+    "id": 1136690042766811138,
+    "id_str": "1136690042766811138",
+    "lang": "en",
+    "retweet_count": 16,
+    "retweeted_status": {
+        "created_at": "Wed Jun 05 18:45:42 +0000 2019",
+        "favorite_count": 38,
+        "hashtags": [],
+        "id": 1136343354785054721,
+        "id_str": "1136343354785054721",
+        "lang": "en",
+        "retweet_count": 16,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\u201cStrengthened by their courage, heartened by their valor, and borne by their memory, let us continue to stand for t\u2026 https://t.co/Ic5Tj21tZx",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1136343354785054721",
+                "url": "https://t.co/Ic5Tj21tZx"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 12 12:07:34 +0000 2018",
+            "default_profile": true,
+            "description": "RRI is the Washington, DC office of @ronaldreagan40 which promotes President Reagan\u2019s ideals, vision, and leadership example",
+            "favourites_count": 295,
+            "followers_count": 669,
+            "friends_count": 728,
+            "id": 1017379941095223296,
+            "id_str": "1017379941095223296",
+            "listed_count": 12,
+            "location": "Washington, DC",
+            "name": "Reagan Institute",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017379941095223296/1535659114",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1035201267776331777/CuTuR0DX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035201267776331777/CuTuR0DX_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "ReaganInstitute",
+            "statuses_count": 392,
+            "url": "https://t.co/ffkA4M1tUC",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ReaganInstitute: \u201cStrengthened by their courage, heartened by their valor, and borne by their memory, let us continue to stand for the\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Nov 24 19:33:10 +0000 2012",
+        "description": "U.S. Senator proudly serving the state of Arkansas.",
+        "followers_count": 156463,
+        "friends_count": 352,
+        "geo_enabled": true,
+        "id": 968650362,
+        "id_str": "968650362",
+        "listed_count": 2410,
+        "name": "Tom Cotton",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/968650362/1366831169",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568884049058357248/M-VeVL9u_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/568884049058357248/M-VeVL9u_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "screen_name": "SenTomCotton",
+        "statuses_count": 8594,
+        "url": "http://t.co/gR93LLUqRV",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1017379941095223296,
+            "id_str": "1017379941095223296",
+            "name": "Reagan Institute",
+            "screen_name": "ReaganInstitute"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Oct 19 15:20:06 +0000 2018",
+    "hashtags": [],
+    "id": 1053304793790402562,
+    "id_str": "1053304793790402562",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Oct 18 17:02:26 +0000 2018",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 1052968158728998912,
+        "id_str": "1052968158728998912",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "I met Rep. @MacTXPress (R-Texas), Chairman of the House Armed Services Committee. He was visiting Kingsley Air Nati\u2026 https://t.co/SdF8ucFRLi",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1052968158728998912",
+                "url": "https://t.co/SdF8ucFRLi"
+            }
+        ],
+        "user": {
+            "created_at": "Sun May 02 23:28:17 +0000 2010",
+            "description": "producer for @OPBTOL \u2022 past: @heraldandnews, @uosojc, @registerguard",
+            "favourites_count": 50812,
+            "followers_count": 813,
+            "friends_count": 736,
+            "geo_enabled": true,
+            "id": 139540352,
+            "id_str": "139540352",
+            "listed_count": 17,
+            "location": "Portland, OR",
+            "name": "Tess Novotny",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/139540352/1548307884",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/998798246993477632/8WLaUfEC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/998798246993477632/8WLaUfEC_normal.jpg",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "screen_name": "tess_novotny",
+            "statuses_count": 5377,
+            "url": "https://t.co/KXNdEPVIk4"
+        },
+        "user_mentions": [
+            {
+                "id": 377534571,
+                "id_str": "377534571",
+                "name": "Mac Thornberry Press",
+                "screen_name": "MacTXPress"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @tess_novotny: I met Rep. @MacTXPress (R-Texas), Chairman of the House Armed Services Committee. He was visiting Kingsley Air National G\u2026",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Sep 21 18:42:06 +0000 2011",
+        "description": "Tweets from the press shop of US Rep. Mac Thornberry. Mac serves the 13th District of TX, which spans from Amarillo to Wichita Falls & is larger than 13 states.",
+        "favourites_count": 65,
+        "followers_count": 15129,
+        "friends_count": 1121,
+        "geo_enabled": true,
+        "id": 377534571,
+        "id_str": "377534571",
+        "listed_count": 714,
+        "location": "United States Capitol",
+        "name": "Mac Thornberry Press",
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377534571/1368800769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1553468483/Copy_of_2007.12.04_001_SLR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1553468483/Copy_of_2007.12.04_001_SLR_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "screen_name": "MacTXPress",
+        "statuses_count": 1245,
+        "url": "http://t.co/KnSJ3TPDYS",
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 139540352,
+            "id_str": "139540352",
+            "name": "Tess Novotny",
+            "screen_name": "tess_novotny"
+        },
+        {
+            "id": 377534571,
+            "id_str": "377534571",
+            "name": "Mac Thornberry Press",
+            "screen_name": "MacTXPress"
+        }
+    ]
+}
