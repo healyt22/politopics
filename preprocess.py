@@ -84,9 +84,11 @@ class Preprocess():
         self.key_terms = dict(sorted(self.key_terms.items(), key=lambda x: x[1], reverse=True))
         if self.n_terms is None:
             self.n_terms = len(self.vocab)
+        self.n_key_terms = []
         #print('\n' + str(self.n_terms) + ' Most Important Terms for: ' + self.handle)
-        #for term, score in list(self.key_terms.items())[0:self.n_terms]:
-        #    print(' | '.join([term, str(score)]))
+        for term, score in list(self.key_terms.items())[0:self.n_terms]:
+            #print(' | '.join([term, str(score)]))
+            self.n_key_terms.append(term)
 
     def main(self):
         self.clean_tweets()
