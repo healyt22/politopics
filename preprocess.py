@@ -87,7 +87,7 @@ class Preprocess():
         self.n_key_terms = []
         #print('\n' + str(self.n_terms) + ' Most Important Terms for: ' + self.handle)
         for term, score in list(self.key_terms.items())[0:self.n_terms]:
-            print(' & '.join([term, str(score)]))
+            #print(' & '.join([term, str(score)]))
             self.n_key_terms.append(term)
 
     def main(self):
