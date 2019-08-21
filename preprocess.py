@@ -23,7 +23,7 @@ class Preprocess():
         data_dir = os.path.join(base_path,'tweet_data/{0}/'.format(handle))
         tweet_files = os.listdir(data_dir)
         self.data = []
-        log.info('Gathering Tweets from ' + data_dir)
+        #log.info('Gathering Tweets from ' + data_dir)
         for tweet_file in tweet_files:
             filename = data_dir + tweet_file
             with open(filename) as json_file:
@@ -68,7 +68,7 @@ class Preprocess():
                 self.clean_tweets_str.append(clean_tweet_str)
                 tweets_filtered.append(tweet)
             except IndexError:
-                log.warn('ERROR: ' + tweet)
+                #log.warn('ERROR: ' + tweet)
                 continue
         self.tweets = tweets_filtered
 
@@ -87,7 +87,7 @@ class Preprocess():
         self.n_key_terms = []
         #print('\n' + str(self.n_terms) + ' Most Important Terms for: ' + self.handle)
         for term, score in list(self.key_terms.items())[0:self.n_terms]:
-            #print(' | '.join([term, str(score)]))
+            print(' & '.join([term, str(score)]))
             self.n_key_terms.append(term)
 
     def main(self):
