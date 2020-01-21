@@ -20,7 +20,9 @@ class GetTweets():
                 consumer_key=keys['consumer_key'],
                 consumer_secret=keys['consumer_secret'],
                 access_token_key=keys['access_token_key'],
-                access_token_secret=keys['access_token_secret'])
+                access_token_secret=keys['access_token_secret'],
+                tweet_mode='extended'
+                )
 
     def get_politicians(self, slug):
         '''
@@ -45,8 +47,8 @@ class GetTweets():
         timeline = self.api.GetUserTimeline(screen_name=handle, count = n)
         for raw_tweet in timeline:
             tweet = raw_tweet.AsDict()
-            msg = ' | '.join([tweet['id_str'], tweet['user']['name'], tweet['text']])
-            log.info(msg)
+            #msg = ' | '.join([tweet['id_str'], tweet['user']['name'], tweet['full_text']])
+            #log.info(msg)
             params = {
                 'screen_name': tweet['user']['screen_name'],
                 'id': tweet['id']
