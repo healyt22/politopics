@@ -6,6 +6,6 @@ CREATE TABLE constatuents.twitter_hashtags(
     hashtag VARCHAR(100),
     ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP
         ON UPDATE CURRENT_TIMESTAMP,
-    PRIMARY KEY ( tweet_id, user_id )
+    PRIMARY KEY ( user_id, tweet_id )
 )
 ;

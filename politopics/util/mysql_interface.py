@@ -23,12 +23,11 @@ class MySQLInterface():
                 user = db_config['user'],
                 passwd = db_config['password'],
                 database = db_config['database'],
-                charset="utf8",
-                use_unicode=True
+                charset="utf8mb4",
             )
 
         def execute(self, sql_file, vars):
-            sql_fp = os.path.join(base_path, f'../sql/{sql_file}'
+            sql_fp = os.path.join(base_path, f'../sql/{sql_file}')
             with open(sql_fp, 'r') as f:
                 sql = f.read()
             cursor = self.db.cursor()

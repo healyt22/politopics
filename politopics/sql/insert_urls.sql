@@ -1,14 +1,8 @@
-REPLACE INTO constatuents.twitter_facts
+REPLACE INTO constatuents.twitter_urls
 (
-      created_at
-    , user_id
+      user_id
     , tweet_id
-    , retweet_id
-    , lang
-    , source
-    , full_text
-    , retweet_count
-    , favorite_count
+    , url
 )
-VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+VALUES (%s, %s, %s)
 ;
