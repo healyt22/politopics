@@ -6,6 +6,7 @@ CREATE TABLE constatuents.twitter_users(
     favourites_count INT,
     followers_count INT,
     friends_count INT,
+    geo_enabled BOOLEAN,
     user_id BIGINT,
     listed_count INT,
     location VARCHAR(100),

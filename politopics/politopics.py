@@ -2,8 +2,8 @@ import os, time, json, yaml
 from argparse import ArgumentParser
 import logging as log
 
-from util.mysql_interface import MySQLInterface
-from util.tweet_interface import TweetInterface
+from mysql_interface import MySQLInterface
+from tweet_interface import TweetInterface
 
 log.basicConfig(
     format  = '%(asctime)s | %(levelname)s | %(message)s',
@@ -31,36 +31,45 @@ class Politopics():
         self.parsed_tweets = [ TweetInterface(tweet) for tweet in self.tweets ]
 
     def load_db(self):
-        db = MySQLInterface()
+        mysql = MySQLInterface()
         for parsed_tweet in self.parsed_tweets:
-            db.execute('insert_facts.sql', parsed_tweet.facts)
-            [ db.execute('insert_hashtags.sql', hashtag_tup)
+            mysql.execute('insert_facts.sql', parsed_tweet.facts)
+            [ mysql.execute('insert_hashtags.sql', hashtag_tup)
                     for hashtag_tup in parsed_tweet.hashtags ]
-            [ db.execute('insert_urls.sql', url_tup)
+            [ mysql.execute('insert_urls.sql', url_tup)
                     for url_tup in parsed_tweet.urls ]
-            [ db.execute('insert_user_mentions.sql', user_mention_tup)
+            [ mysql.execute('insert_user_mentions.sql', user_mention_tup)
                     for user_mention_tup in parsed_tweet.user_mentions ]
+        db.close()
+
+    def load_user(self):
+        mysql = MySQLInterface()
+        mysql.execute('insert_users.sql', self.parsed_tweets[0].user)
+        mysql.db.close()
 
 if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument("-t", "--twitter_handle",
-        help="Twitter handle to pull tweets against.")
+        help="Twitter handle to pull tweets against."
+        )
     args = parser.parse_args()
 
+    dir = f'/media/montebello/tweet_data/'
     if args.twitter_handle:
-        dir = os.path.join(base_path, f'tweet_data/{args.twitter_handle}/')
-        tweet_files = os.listdir(dir)
-        for tweet_file in tweet_files:
-            log.info(tweet_file)
-            fp = f'{dir}{tweet_file}'
-            Politopics(fp).load_db()
-
-    dir = os.path.join(base_path, f'tweet_data/')
-    handles = os.listdir(dir)
+        handles = [ args.twitter_handle ]
+    else:
+        handles = os.listdir(dir)
     n = len(handles)
     for i, handle in enumerate(handles):
         log.info(f'Processing tweets for {handle} ({i+1} of {n})')
         tweet_files = os.listdir(f'{dir}{handle}')
-        for tweet_file in tweet_files:
+        for i, tweet_file in enumerate(tweet_files):
             fp = f'{dir}{handle}/{tweet_file}'
-            Politopics(fp).load_db()
+            try:
+                p = Politopics(fp)
+                if i == 0:
+                    log.info(f'Loading user data for {handle}')
+                    p.load_user()
+                #p.load_db()
+            except Exception as e:
+                log.error(f'{hande} | {tweet_file} | {e}')

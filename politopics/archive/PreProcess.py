@@ -19,8 +19,7 @@ class Preprocess():
         '''
         self.handle = handle
         self.n_terms = n_terms
-        base_path = os.path.dirname(os.path.realpath(__file__))
-        data_dir = os.path.join(base_path,'tweet_data/{0}/'.format(handle))
+        data_dir = f'/media/montebello/tweet_data/{handle}/'
         tweet_files = os.listdir(data_dir)
         self.data = []
         #log.info('Gathering Tweets from ' + data_dir)

@@ -72,11 +72,33 @@ class TweetInterface():
                 user_mention['screen_name']
             ))
 
+    def user_vars(self):
+        u = self.tweet_dict['user']
+        self.user = (
+            self.string_to_date(u['created_at']),
+            u.get('description'),
+            u.get('favourites_count'),
+            u.get('followers_count'),
+            u.get('friends_count'),
+            u.get('geo_enabled'),
+            u.get('id'),
+            u.get('listed_count'),
+            u.get('location'),
+            u.get('name'),
+            u.get('profile_background_image_url'),
+            u.get('profile_image_url_https'),
+            u.get('screen_name'),
+            u.get('statuses_count'),
+            u.get('url'),
+            u.get('verified')
+        )
+
     def parse_data(self):
         self.fact_vars()
         self.hashtag_vars()
         self.url_vars()
         self.user_mention_vars()
+        self.user_vars()
 
     def print_data(self):
         print('-------------------------- FACTS ------------------------------')

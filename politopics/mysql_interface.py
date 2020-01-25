@@ -14,20 +14,20 @@ class MySQLInterface():
             self.connect()
 
         def connect(self):
-            config_file = os.path.join(base_path,'../conf/config.yaml')
+            config_file = os.path.join(base_path,'conf/config.yaml')
             with open(config_file, 'r') as f:
                 db_config = yaml.load(f, Loader=yaml.FullLoader)['mysql_creds']
 
             self.db = mysql.connector.connect(
-                host = db_config['host'],
-                user = db_config['user'],
-                passwd = db_config['password'],
+                host     = db_config['host'],
+                user     = db_config['user'],
+                passwd   = db_config['password'],
                 database = db_config['database'],
-                charset="utf8mb4",
+                charset  = "utf8mb4",
             )
 
         def execute(self, sql_file, vars):
-            sql_fp = os.path.join(base_path, f'../sql/{sql_file}')
+            sql_fp = os.path.join(base_path, f'sql/{sql_file}')
             with open(sql_fp, 'r') as f:
                 sql = f.read()
             cursor = self.db.cursor()

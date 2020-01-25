@@ -9,10 +9,11 @@ log.basicConfig(format='%(asctime)s | %(levelname)s | %(message)s',
 class GetTweets():
     def __init__(self):
         '''
-        Initialize object with a Twitter API key file -> keys.yaml
+        Initialize object with a Twitter API key file -> config.yaml
         TODO: Initialize an object for every Politician?
         '''
         self.base_path = os.path.dirname(os.path.realpath(__file__))
+        self.data_dir = '/media/montebello/tweet_data'
         key_file = os.path.join(self.base_path,'conf/config.yaml')
         with open(key_file, 'r') as (f):
             keys = yaml.load(f)['twitter_api']
@@ -33,7 +34,7 @@ class GetTweets():
                 slug=slug,
                 owner_screen_name='cspan')
         for crook in crooks:
-            filepath = self.base_path + '/tweet_data/{0}'.format(crook.screen_name)
+            filepath = f'{self.data_dir}/{crook.screen_name}'
             if not os.path.exists(filepath):
                 os.makedirs(filepath)
         return(crooks)
@@ -45,15 +46,12 @@ class GetTweets():
         returns list object
         '''
         timeline = self.api.GetUserTimeline(screen_name=handle, count = n)
+        log.info(f'Pulling tweets for {handle}')
         for raw_tweet in timeline:
             tweet = raw_tweet.AsDict()
-            #msg = ' | '.join([tweet['id_str'], tweet['user']['name'], tweet['full_text']])
-            #log.info(msg)
-            params = {
-                'screen_name': tweet['user']['screen_name'],
-                'id': tweet['id']
-            }
-            filename = self.base_path + '/tweet_data/{screen_name}/{id}.json'.format(**params)
+            handle = tweet['user']['screen_name']
+            tweet_id = tweet['id']
+            filename = f'{self.data_dir}/{handle}/{tweet_id}.json'
             with open(filename, 'w') as outfile:
                 json.dump(tweet, outfile, indent=4)
 
@@ -68,7 +66,6 @@ class GetTweets():
         else:
             crooks = x.get_politicians('members-of-congress') #us-congress
             for crook in crooks:
-                log.info('Pulling tweets for: ' + crook.name)
                 x.get_tweets(crook.screen_name, n)
 
 if __name__ == '__main__':
