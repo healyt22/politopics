@@ -12,7 +12,7 @@ log.basicConfig(
 )
 base_path = os.path.dirname(os.path.realpath(__file__))
 
-class TweetLoader():
+class Politopics():
     def __init__(self, filepath):
         self.filepath = filepath
         with open(self.filepath) as f:
@@ -53,7 +53,7 @@ if __name__ == '__main__':
         for tweet_file in tweet_files:
             log.info(tweet_file)
             fp = f'{dir}{tweet_file}'
-            TweetLoader(fp).load_db()
+            Politopics(fp).load_db()
 
     dir = os.path.join(base_path, f'tweet_data/')
     handles = os.listdir(dir)
@@ -63,4 +63,4 @@ if __name__ == '__main__':
         tweet_files = os.listdir(f'{dir}{handle}')
         for tweet_file in tweet_files:
             fp = f'{dir}{handle}/{tweet_file}'
-            TweetLoader(fp).load_db()
+            Politopics(fp).load_db()

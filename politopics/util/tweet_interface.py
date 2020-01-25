@@ -26,6 +26,11 @@ class TweetInterface():
         return(dt)
 
     def fact_vars(self):
+        try:
+            tweet_text = self.tweet_dict['full_text']
+        except:
+            tweet_text = self.tweet_dict['text']
+
         self.facts = (
             self.string_to_date(self.tweet_dict['created_at']),
             self.tweet_dict['user']['id'],
@@ -34,7 +39,7 @@ class TweetInterface():
             self.quoted_tweet_id,
             self.tweet_dict['lang'],
             self.tweet_dict['source'],
-            self.tweet_dict['full_text'],
+            tweet_text,
             self.tweet_dict.get('retweet_count', None),
             self.tweet_dict.get('favorite_count', None)
         )
