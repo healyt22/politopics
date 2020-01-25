@@ -3,7 +3,7 @@ import mysql.connector
 import logging as log
 
 log.basicConfig(
-    format='%(asctime)s | %(levelname)s | %(message)s',
+    format='%(asctime)s | mysql_interface | %(levelname)s | %(message)s',
     datefmt='%m/%d/%Y %I:%M:%S %p',
     level=log.INFO
 )

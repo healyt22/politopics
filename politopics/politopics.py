@@ -6,7 +6,7 @@ from mysql_interface import MySQLInterface
 from tweet_interface import TweetInterface
 
 log.basicConfig(
-    format  = '%(asctime)s | %(levelname)s | %(message)s',
+    format  = '%(asctime)s | politopics | %(levelname)s | %(message)s',
     datefmt = '%m/%d/%Y %I:%M:%S %p',
     level   = log.INFO
 )
@@ -70,6 +70,6 @@ if __name__ == '__main__':
                 if i == 0:
                     log.info(f'Loading user data for {handle}')
                     p.load_user()
-                #p.load_db()
+                p.load_db()
             except Exception as e:
                 log.error(f'{hande} | {tweet_file} | {e}')

@@ -2,7 +2,7 @@ import twitter
 import os, yaml, json
 from argparse import ArgumentParser
 import logging as log
-log.basicConfig(format='%(asctime)s | %(levelname)s | %(message)s',
+log.basicConfig(format='%(asctime)s | twitter_api | %(levelname)s | %(message)s',
                 datefmt='%m/%d/%Y %I:%M:%S %p',
                 level=log.INFO)
 
