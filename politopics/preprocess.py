@@ -19,18 +19,25 @@ class Preprocess():
         '''
         self.handle = handle
         self.n_terms = n_terms
-        data_dir = f'/media/montebello/tweet_data/{handle}/'
-        tweet_files = os.listdir(data_dir)
+        self.data_dir = f'/media/montebello/tweet_data/{handle}'
+        self.get_data()
+        self.main()
+
+    def get_data(self):
+        dts = os.listdir(self.data_dir)
+        tweet_files = []
+        for dt in dts:
+            files = os.listdir(os.path.join(self.data_dir, dt))
+            for file in files:
+                tweet_files.append(os.path.join(self.data_dir, dt, file))
+
         self.data = []
-        #log.info('Gathering Tweets from ' + data_dir)
         for tweet_file in tweet_files:
-            filename = data_dir + tweet_file
-            with open(filename) as json_file:
+            with open(tweet_file) as json_file:
                 tweet_raw = json.load(json_file)
             self.data.append(tweet_raw)
         self.tweets = [tweet['full_text'] for tweet in self.data]
         self.ids = [tweet['id_str'] for tweet in self.data]
-        self.main()
 
     def preprocess(self, tweet):
         '''
