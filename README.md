@@ -1,7 +1,7 @@
 # PoliTopics
 Deriving Political Party Affiliation With Diffusion Maps
 
-Paper: https://healyt22.github.io/papers/Healy_Timothy_DiffusionMaps_Project.pdf
+Paper: https://www.tim-healy.com/pdfs/th_diffusion_maps.pdf
 
 The idea of this project is to use nonlinear dimensionality reduction to uncover semantic relationships between articles of text data. In this application a [Diffusion Map](https://arxiv.org/pdf/math/0503445.pdf) is applied to US Politican tweets, uncovering a "political spectrum" underpinning their rhetoric on Twitter.
 
